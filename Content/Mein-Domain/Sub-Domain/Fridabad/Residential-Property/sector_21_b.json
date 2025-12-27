@@ -1,0 +1,151 @@
+{
+  "domain": "ResidentialProperty.com",
+
+  "hero": {
+    "title": "Comfortable Residential Living Options in Sector 21B Faridabad",
+    "description": [
+      "Sector 21B Faridabad is a well-established residential locality known for its peaceful environment and excellent connectivity to major parts of the city. The area is preferred by families and professionals looking for a balanced lifestyle close to schools, markets, and daily essentials. People searching for Residential Property in Sector 21B Faridabad are often drawn to its organized layout and stable residential surroundings.",
+      "The locality offers independent houses and residential plots in multiple sizes, making it suitable for different budgets and housing needs. With smooth road connectivity, nearby commercial hubs, and access to public transport, Sector 21B supports convenient and comfortable living. Buying property here ensures long-term residential value along with a settled neighborhood experience."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Properties in Sector 21B",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Property Guidance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in Sector 21B Faridabad",
+    "description": [
+      "Choosing the right plot size is an important step when buying Residential Property in Sector 21B Faridabad. The locality offers multiple plot dimensions that cater to compact homes as well as spacious independent houses.",
+      "Each plot size supports different construction possibilities, allowing buyers to plan homes based on family size, lifestyle preferences, and long-term requirements."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Residential Plots in Sector 21B",
+        "description": "4 Marla plots are ideal for compact homes with easy maintenance. These plots are suitable for small families and first-time homebuyers looking for affordability in a prime residential area."
+      },
+      {
+        "title": "6 Marla Residential Plots in Sector 21B",
+        "description": "6 Marla plots offer a balanced living space with functional layouts and better ventilation. They are a popular choice among mid-sized families."
+      },
+      {
+        "title": "8 Marla Residential Plots in Sector 21B",
+        "description": "8 Marla plots provide additional living space, allowing better room planning and comfortable interiors for long-term residence."
+      },
+      {
+        "title": "10 Marla Residential Plots in Sector 21B",
+        "description": "10 Marla plots support modern house designs with adequate parking and open areas, making them suitable for premium living."
+      },
+      {
+        "title": "12 Marla Residential Plots in Sector 21B",
+        "description": "12 Marla plots are ideal for buyers seeking spacious homes with privacy and flexibility in architectural planning."
+      },
+      {
+        "title": "14 Marla Residential Plots in Sector 21B",
+        "description": "14 Marla plots represent premium residential options, offering expansive space and strong long-term value."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Nearby Residential Areas Around Sector 21B Faridabad",
+    "description": [
+      "While considering Residential Property in Sector 21B Faridabad, buyers often explore nearby sectors to compare lifestyle benefits, connectivity, and pricing trends.",
+      "This comparison helps in understanding the broader residential landscape and making confident property decisions."
+    ],
+    "locations": [
+      { "title": "Residential Property in Sector 21B Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Residential Property in Sector 21A Faridabad", "path": "/", "icon": "Building2" },
+      { "title": "Residential Property in Sector 21C Faridabad", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Property in Sector 21D Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Sector 28 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Residential Property in Sector 30 Faridabad", "path": "/", "icon": "Building2" },
+      { "title": "Residential Property in Sector 31 Faridabad", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Property in Central Faridabad", "path": "/", "icon": "Building" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Choose Deal Acres for Sector 21B Properties",
+    "description": [
+      "Finding the right Residential Property in Sector 21B Faridabad requires reliable information and trusted guidance. Deal Acres focuses on providing verified listings and clear locality insights.",
+      "With a buyer-first approach and local market expertise, Deal Acres simplifies the property search and decision-making process."
+    ],
+    "points": [
+      { "title": "Verified Listings", "description": "All properties are checked for authenticity and accuracy." },
+      { "title": "Transparent Pricing", "description": "Clear pricing helps buyers understand actual market value." },
+      { "title": "Local Expertise", "description": "Strong knowledge of Faridabad residential localities." },
+      { "title": "User-Friendly Platform", "description": "Easy navigation for smooth property exploration." },
+      { "title": "Buyer-Focused Guidance", "description": "Advice aligned with real buyer requirements." },
+      { "title": "Basic Legal Support", "description": "Helps buyers feel confident during transactions." },
+      { "title": "End-to-End Assistance", "description": "Support available from search to final decision." },
+      { "title": "Trusted by Buyers", "description": "Positive feedback builds long-term trust." }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions",
+    "description": "Answers to common questions about Residential Property in Sector 21B Faridabad.",
+    "faqs": [
+      {
+        "question": "Is Sector 21B Faridabad good for residential living?",
+        "answer": "Yes, Sector 21B is a well-established and peaceful locality with good connectivity and daily amenities, making it ideal for families."
+      },
+      {
+        "question": "What property options are available in Sector 21B?",
+        "answer": "Independent houses and residential plots in multiple sizes are commonly available."
+      },
+      {
+        "question": "Is Sector 21B suitable for long-term investment?",
+        "answer": "Yes, the locality offers stable demand and long-term residential value due to its central location."
+      },
+      {
+        "question": "Are home loans available for properties in Sector 21B?",
+        "answer": "Most properties are eligible for home loans, subject to bank approval and documentation."
+      },
+      {
+        "question": "How is connectivity from Sector 21B?",
+        "answer": "Sector 21B is well-connected to major roads and other parts of Faridabad."
+      },
+      {
+        "question": "Are schools and hospitals nearby?",
+        "answer": "Yes, several schools, hospitals, and markets are located close to the sector."
+      },
+      {
+        "question": "Can I build my own house on a plot in Sector 21B?",
+        "answer": "Yes, construction is allowed as per approved building norms."
+      },
+      {
+        "question": "Is Sector 21B suitable for families?",
+        "answer": "Yes, the locality offers a safe and comfortable environment for family living."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres offers verified listings, transparent information, and expert guidance."
+      },
+      {
+        "question": "How can I contact property experts?",
+        "answer": "You can fill the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for Residential Property in Sector 21B",
+    "description": [
+      "Buying Residential Property in Sector 21B Faridabad is an important decision, and professional guidance can make the process easier.",
+      "Share your details to connect with local experts who can help you find the right home or investment opportunity."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "domain": "ResidentialProperty.com",
+
+  "hero": {
+    "title": "Premium Residential Living Options Available in Sector 9 Faridabad",
+    "description": [
+      "Sector 9 is one of the well-established and highly preferred residential localities in Faridabad. Known for its organized layout, peaceful environment, and excellent civic amenities, the area attracts families and professionals alike. Buyers searching for Residential Property in Sector 9 Faridabad often choose this location for its proximity to schools, hospitals, markets, and smooth road connectivity.",
+      "The sector features independent houses and residential plots in multiple sizes, offering flexibility to homebuyers with different budgets and lifestyle preferences. With strong social infrastructure and a stable residential environment, Sector 9 continues to hold high demand and long-term value for end users and investors."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Properties in Sector 9",
+        "path": "/"
+      },
+      {
+        "label": "Get Property Consultation",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Options in Sector 9 Faridabad",
+    "description": [
+      "Choosing the right plot size plays an important role when investing in Residential Property in Sector 9 Faridabad. The sector offers multiple residential plot configurations designed to suit compact homes as well as spacious independent houses.",
+      "Each plot size provides different construction possibilities, allowing buyers to plan homes that align with their present needs and future expansion plans."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Residential Plots in Sector 9",
+        "description": "4 Marla plots are suitable for compact homes with easy maintenance, ideal for small families or rental investments."
+      },
+      {
+        "title": "6 Marla Residential Plots in Sector 9",
+        "description": "6 Marla plots offer a balance of affordability and comfort with better room layouts and ventilation."
+      },
+      {
+        "title": "8 Marla Residential Plots in Sector 9",
+        "description": "8 Marla plots provide enhanced living space, allowing modern floor plans and comfortable common areas."
+      },
+      {
+        "title": "10 Marla Residential Plots in Sector 9",
+        "description": "10 Marla plots are preferred for premium homes with parking space and open areas."
+      },
+      {
+        "title": "12 Marla Residential Plots in Sector 9",
+        "description": "12 Marla plots allow spacious interiors and flexibility for customized architectural designs."
+      },
+      {
+        "title": "14 Marla Residential Plots in Sector 9",
+        "description": "14 Marla plots represent premium residential opportunities with excellent long-term appreciation potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Nearby Residential Locations Around Sector 9 Faridabad",
+    "description": [
+      "While considering Residential Property in Sector 9 Faridabad, buyers often explore nearby sectors to compare pricing, surroundings, and lifestyle convenience.",
+      "Looking at nearby residential areas helps buyers make informed decisions based on connectivity, amenities, and future growth prospects."
+    ],
+    "locations": [
+      { "title": "Residential Property in Sector 9 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Residential Property in Sector 10 Faridabad", "path": "/", "icon": "Building2" },
+      { "title": "Residential Property in Sector 8 Faridabad", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Property in Sector 15 Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Sector 16 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Residential Property in Sector 11 Faridabad", "path": "/", "icon": "Building2" },
+      { "title": "Residential Property in NIT Faridabad", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Property in Old Faridabad", "path": "/", "icon": "Building" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Prefer Deal Acres for Sector 9 Properties",
+    "description": [
+      "Finding Residential Property in Sector 9 Faridabad requires verified information and local expertise. Deal Acres ensures buyers get authentic listings and clear insights to make confident property decisions.",
+      "With a customer-first approach and strong market knowledge, Deal Acres has become a trusted platform for residential property buyers."
+    ],
+    "points": [
+      { "title": "Verified Property Listings", "description": "All listings are carefully verified for authenticity." },
+      { "title": "Transparent Pricing", "description": "Clear and honest pricing information." },
+      { "title": "Local Area Expertise", "description": "In-depth understanding of Sector 9 and nearby areas." },
+      { "title": "Easy Property Search", "description": "Simple and user-friendly browsing experience." },
+      { "title": "Buyer-Focused Service", "description": "Solutions tailored to buyer needs and preferences." },
+      { "title": "Legal Guidance Support", "description": "Basic assistance with documentation and procedures." },
+      { "title": "Complete Buying Assistance", "description": "Support from search to final selection." },
+      { "title": "Trusted by Customers", "description": "Strong reputation built through customer satisfaction." }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions",
+    "description": "Common questions about Residential Property in Sector 9 Faridabad.",
+    "faqs": [
+      {
+        "question": "Is Sector 9 Faridabad a good residential area?",
+        "answer": "Yes, Sector 9 is a well-developed and established residential locality with excellent infrastructure and amenities."
+      },
+      {
+        "question": "Is Sector 9 suitable for families?",
+        "answer": "Yes, the area offers a safe environment with schools, hospitals, and markets nearby."
+      },
+      {
+        "question": "What types of properties are available in Sector 9?",
+        "answer": "Independent houses and residential plots in multiple sizes are commonly available."
+      },
+      {
+        "question": "Is Sector 9 good for property investment?",
+        "answer": "Yes, due to its central location and consistent demand, Sector 9 offers stable investment potential."
+      },
+      {
+        "question": "Are home loans available for Sector 9 properties?",
+        "answer": "Most properties are eligible for home loans, subject to bank approval."
+      },
+      {
+        "question": "Is Sector 9 well connected to other areas?",
+        "answer": "Yes, Sector 9 has excellent road connectivity to major parts of Faridabad."
+      },
+      {
+        "question": "Are daily amenities easily accessible?",
+        "answer": "Yes, schools, hospitals, shopping areas, and public transport are nearby."
+      },
+      {
+        "question": "Can I build my own house in Sector 9?",
+        "answer": "Yes, construction is permitted as per approved local regulations."
+      },
+      {
+        "question": "Why choose Deal Acres for buying property?",
+        "answer": "Deal Acres provides verified listings, transparency, and expert guidance."
+      },
+      {
+        "question": "How can I contact property experts?",
+        "answer": "You can fill the contact form to connect with experienced property advisors."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Connect with Experts for Residential Property in Sector 9",
+    "description": [
+      "Buying Residential Property in Sector 9 Faridabad is a significant decision, and professional guidance can simplify the process.",
+      "Share your details to connect with experienced property experts who can help you find the right home based on your needs and budget."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

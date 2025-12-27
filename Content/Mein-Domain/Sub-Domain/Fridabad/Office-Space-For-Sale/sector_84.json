@@ -1,0 +1,192 @@
+{
+  "domain": "Office space for sale.com",
+
+  "hero": {
+    "title": "Well Connected Office Space for Sale in Sector 84 Faridabad",
+    "description": [
+      "Sector 84 Faridabad is an emerging commercial and residential hub in the Neharpar region, known for planned infrastructure and smooth connectivity to major roads like NH-19 and the Faridabad Bypass. Businesses looking for office space for sale in Sector 84 Faridabad are attracted by the locality’s organized layout, growing corporate presence, and ease of access for employees and clients.",
+      "The area is surrounded by residential societies, retail zones, schools, and healthcare facilities, ensuring daily convenience and steady footfall. Investing in office space here supports long-term business growth, professional visibility, and strong commercial potential in one of Faridabad’s fast-developing sectors."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Office Plot Size Options Available in Sector 84 Faridabad",
+    "description": [
+      "Selecting the right plot size plays a crucial role when planning to buy office space for sale in Sector 84 Faridabad. Different businesses have different spatial requirements depending on staff strength, client visits, and operational structure. Sector 84 offers a wide range of plot sizes to accommodate both compact offices and larger commercial establishments.",
+      "Understanding these plot options helps buyers make informed decisions aligned with budget, functionality, and future expansion plans, ensuring long-term usability and value."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space in Sector 84 Faridabad",
+        "description": "4 Marla office spaces are ideal for startups, consultants, and service-based professionals. These compact units are cost-efficient and easy to manage. A 4 Marla office space for sale in Sector 84 Faridabad supports focused and efficient business operations."
+      },
+      {
+        "title": "6 Marla Office Space in Sector 84 Faridabad",
+        "description": "6 Marla office spaces provide additional room for reception areas and private cabins. A 6 Marla office space for sale in Sector 84 Faridabad is suitable for growing teams seeking better layout flexibility."
+      },
+      {
+        "title": "8 Marla Office Space in Sector 84 Faridabad",
+        "description": "8 Marla office spaces allow structured planning with meeting rooms and collaborative areas. An 8 Marla office space for sale in Sector 84 Faridabad is ideal for mid-sized businesses."
+      },
+      {
+        "title": "10 Marla Office Space in Sector 84 Faridabad",
+        "description": "10 Marla office spaces offer a professional environment with scope for premium interiors. A 10 Marla office space for sale in Sector 84 Faridabad supports organized workflows and client-facing operations."
+      },
+      {
+        "title": "12 Marla Office Space in Sector 84 Faridabad",
+        "description": "12 Marla office spaces are suitable for established firms requiring comfort and scalability. A 12 Marla office space for sale in Sector 84 Faridabad ensures long-term operational stability."
+      },
+      {
+        "title": "14 Marla Office Space in Sector 84 Faridabad",
+        "description": "14 Marla office spaces cater to large enterprises and premium commercial use. A 14 Marla office space for sale in Sector 84 Faridabad offers flexibility, expansion potential, and strong investment value."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Office Space for Sale in Nearby Faridabad Locations",
+    "description": [
+      "Buyers exploring office space for sale in Sector 84 Faridabad often compare nearby commercial areas to evaluate connectivity, pricing, and growth prospects. Neharpar Faridabad includes several planned sectors suitable for modern office setups.",
+      "Reviewing nearby locations helps businesses choose office spaces that align with accessibility, workforce convenience, and future expansion goals."
+    ],
+    "locations": [
+      {
+        "title": "Office Space for Sale in Sector 84 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Sale in Sector 83 Faridabad",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Office Space for Sale in Sector 85 Faridabad",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Commercial Property for Sale in Faridabad",
+        "path": "/",
+        "icon": "Store"
+      }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Preferred Choice for Office Buyers",
+    "description": [
+      "Buying office space for sale in Sector 84 Faridabad requires reliable information and verified listings. Deal Acres focuses on transparency, accuracy, and market relevance to simplify commercial property decisions.",
+      "With local expertise and a customer-centric approach, Deal Acres supports businesses and investors throughout the buying journey."
+    ],
+    "points": [
+      {
+        "title": "Verified Commercial Listings",
+        "description": "All properties are verified for ownership and authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing helps buyers understand actual market value."
+      },
+      {
+        "title": "Local Area Expertise",
+        "description": "Deep understanding of Faridabad commercial zones."
+      },
+      {
+        "title": "User-Friendly Platform",
+        "description": "Simple navigation for easy property comparison."
+      },
+      {
+        "title": "Business-Focused Options",
+        "description": "Listings curated to suit professional requirements."
+      },
+      {
+        "title": "Basic Legal Guidance",
+        "description": "Support for documentation and compliance clarity."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Help available from search to final transaction."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Positive experiences build long-term customer trust."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions",
+    "description": "Common questions answered about office space for sale in Sector 84 Faridabad.",
+    "faqs": [
+      {
+        "question": "Is Sector 84 Faridabad suitable for office space?",
+        "answer": "Yes, Sector 84 offers planned infrastructure, good connectivity, and growing commercial activity, making it suitable for offices."
+      },
+      {
+        "question": "What office plot sizes are available in Sector 84?",
+        "answer": "Office spaces are generally available from 4 Marla to 14 Marla."
+      },
+      {
+        "question": "Is Sector 84 good for startups?",
+        "answer": "Yes, the area offers affordable options and proximity to residential zones, supporting startup growth."
+      },
+      {
+        "question": "Are banks nearby for daily business needs?",
+        "answer": "Yes, banks and ATMs are easily accessible from Sector 84."
+      },
+      {
+        "question": "Can I get a loan for office space here?",
+        "answer": "Most banks provide commercial property loans subject to eligibility."
+      },
+      {
+        "question": "Is public transport available?",
+        "answer": "Yes, Sector 84 is well connected through road transport."
+      },
+      {
+        "question": "Does Deal Acres verify listings?",
+        "answer": "Yes, Deal Acres verifies listings for authenticity and accuracy."
+      },
+      {
+        "question": "Is Sector 84 suitable for long-term investment?",
+        "answer": "Yes, due to infrastructure development and rising demand, it offers strong investment potential."
+      },
+      {
+        "question": "What factors affect office prices here?",
+        "answer": "Plot size, location advantage, and surrounding development influence pricing."
+      },
+      {
+        "question": "How can I contact property experts?",
+        "answer": "You can connect through the enquiry form provided on the website."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help to Buy Office Space in Sector 84 Faridabad",
+    "description": [
+      "Purchasing office space for sale in Sector 84 Faridabad is an important business decision. Expert guidance helps you compare options, evaluate pricing, and complete transactions smoothly.",
+      "Share your details to connect with experienced commercial property professionals for personalized assistance."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

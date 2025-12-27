@@ -1,0 +1,192 @@
+{
+  "domain": "www.paras.com",
+  "hero": {
+    "title": "Comfortable Builder Floors for Modern Living in Sector 37 Faridabad",
+    "description": [
+      "Sector 37 Faridabad is a well-planned residential locality known for its balanced lifestyle, peaceful surroundings, and smooth connectivity to major parts of the city. The area is close to schools, hospitals, shopping markets, and daily convenience stores, making it ideal for families and working professionals. Buyers searching for a builder floor for sale in Sector 37 Faridabad prefer this location due to its organized infrastructure and dependable residential environment.",
+      "Builder floors in Sector 37 offer low-rise independent living with better privacy, ample ventilation, and thoughtfully designed layouts. The locality provides a stable living atmosphere along with long-term property value appreciation. Choosing a home here means investing in comfort, accessibility, and a trusted residential address in Faridabad."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Builder Floors",
+        "path": "/"
+      },
+      {
+        "label": "Talk to Property Expert",
+        "path": "/"
+      }
+    ]
+  },
+  "featuresSection": {
+    "heading": "Builder Floor Plot Size Options Available in Sector 37 Faridabad",
+    "description": [
+      "When planning to buy a builder floor for sale in Sector 37 Faridabad, understanding available plot sizes helps in making the right decision. Plot size directly impacts space utilization, room planning, comfort, and future usability.",
+      "Sector 37 offers multiple plot configurations suitable for compact homes as well as spacious premium residences. This flexibility allows buyers to select a builder floor that matches their lifestyle needs and budget."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Builder Floors in Sector 37",
+        "description": "4 Marla builder floors are suitable for small families and first-time buyers seeking affordable homes with essential amenities in a central residential location."
+      },
+      {
+        "title": "6 Marla Builder Floors in Sector 37",
+        "description": "6 Marla builder floors provide balanced living with better room sizes, functional layouts, and comfortable spacing for everyday family life."
+      },
+      {
+        "title": "8 Marla Builder Floors in Sector 37",
+        "description": "8 Marla builder floors offer enhanced comfort with spacious bedrooms, proper ventilation, and modern interior planning for long-term living."
+      },
+      {
+        "title": "10 Marla Builder Floors in Sector 37",
+        "description": "10 Marla builder floors are ideal for buyers seeking premium living with generous interiors, parking space, and quality construction."
+      },
+      {
+        "title": "12 Marla Builder Floors in Sector 37",
+        "description": "12 Marla builder floors deliver superior space, privacy, and flexibility for customized home designs and family comfort."
+      },
+      {
+        "title": "14 Marla Builder Floors in Sector 37",
+        "description": "14 Marla builder floors represent luxury residential living with expansive layouts and strong appreciation potential."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Discover Builder Floors in Nearby Faridabad Residential Sectors",
+    "description": [
+      "While exploring a builder floor for sale in Sector 37 Faridabad, many buyers also consider nearby sectors to evaluate pricing, environment, and connectivity.",
+      "Faridabad offers a wide range of residential localities, allowing buyers to compare and choose the location that best suits their lifestyle and investment goals."
+    ],
+    "locations": [
+      {
+        "title": "Builder Floor for Sale in Sector 37 Faridabad",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "Builder Floor for Sale in Sector 70 Faridabad",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Builder Floor for Sale in Sector 35 Faridabad",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Builder Floor for Sale in Sector 21 Faridabad",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Independent House for Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Residential Plot for Sale",
+        "path": "/",
+        "icon": "Map"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Builder Floors",
+    "description": [
+      "Buying a builder floor for sale in Sector 37 Faridabad requires reliable information and transparent guidance. Deal Acres ensures buyers get verified listings and clear property insights.",
+      "With local market understanding and a buyer-first approach, Deal Acres helps customers make confident and informed property decisions."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "Every builder floor is checked for authenticity and accurate ownership details."
+      },
+      {
+        "title": "Transparent Pricing Information",
+        "description": "Buyers receive fair pricing aligned with the local market."
+      },
+      {
+        "title": "Strong Local Knowledge",
+        "description": "Expert understanding of Sector 37 and surrounding residential areas."
+      },
+      {
+        "title": "Simple Property Search",
+        "description": "User-friendly platform for smooth property browsing."
+      },
+      {
+        "title": "Buyer-Oriented Guidance",
+        "description": "Recommendations based on real buyer requirements."
+      },
+      {
+        "title": "Documentation Assistance",
+        "description": "Basic support for paperwork and transaction clarity."
+      },
+      {
+        "title": "Complete Buying Support",
+        "description": "Help provided from shortlisting to final decision."
+      },
+      {
+        "title": "Customer Trust and Reliability",
+        "description": "Consistent service quality builds long-term buyer trust."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Builder Floors in Sector 37",
+    "description": "Clear answers to common buyer concerns for better decision-making.",
+    "faqs": [
+      {
+        "question": "Is Sector 37 Faridabad a good area to live?",
+        "answer": "Yes, Sector 37 is a well-developed residential locality offering good connectivity, peaceful surroundings, and essential amenities."
+      },
+      {
+        "question": "What types of builder floors are available in Sector 37?",
+        "answer": "Builder floors are available on various plot sizes ranging from 4 Marla to 14 Marla."
+      },
+      {
+        "question": "Are builder floors suitable for families?",
+        "answer": "Yes, builder floors provide privacy, independent living, and comfortable layouts ideal for families."
+      },
+      {
+        "question": "Is Sector 37 suitable for property investment?",
+        "answer": "The locality offers steady residential demand and stable long-term investment potential."
+      },
+      {
+        "question": "Can I get a home loan for a builder floor?",
+        "answer": "Most builder floors are eligible for home loans subject to documentation and bank approval."
+      },
+      {
+        "question": "What amenities are available near Sector 37?",
+        "answer": "Schools, hospitals, markets, banks, and public transport are easily accessible."
+      },
+      {
+        "question": "How does Deal Acres verify listings?",
+        "answer": "Listings are verified through ownership checks and property detail validation."
+      },
+      {
+        "question": "What affects builder floor pricing in Sector 37?",
+        "answer": "Plot size, construction quality, location, and floor level influence pricing."
+      },
+      {
+        "question": "Is Sector 37 well connected to other areas?",
+        "answer": "Yes, Sector 37 has good road connectivity to major Faridabad sectors."
+      },
+      {
+        "question": "How can I get expert assistance?",
+        "answer": "You can submit your enquiry through the contact form for personalized guidance."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Assistance for Builder Floors in Sector 37 Faridabad",
+    "description": [
+      "Buying a builder floor for sale in Sector 37 Faridabad is a major decision, and expert support can make the process smooth and stress-free. Professional guidance helps you compare options, pricing, and documentation with confidence.",
+      "Share your details to connect with experienced property advisors who will help you find the right builder floor based on your needs and budget."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "domain": "ResidentialProperty.com",
+
+  "hero": {
+    "title": "Comfortable Residential Living with Urban Convenience in Jawahar Colony Faridabad",
+    "description": [
+      "Jawahar Colony Faridabad is a well-established residential locality known for its central location, strong connectivity, and everyday convenience. Homebuyers searching for Residential Property in Jawahar Colony Faridabad prefer this area due to its proximity to markets, schools, healthcare facilities, and public transport options. The locality offers a balanced mix of affordability and accessibility, making it suitable for both families and working professionals.",
+      "With well-developed internal roads, nearby commercial zones, and essential civic amenities, Jawahar Colony continues to remain a practical choice for residential living. Its steady demand also makes it a dependable option for long-term property investment in Faridabad."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Properties in Jawahar Colony",
+        "path": "/"
+      },
+      {
+        "label": "Talk to Property Experts",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in Jawahar Colony Faridabad",
+    "description": [
+      "Selecting the right plot size is an important decision when buying Residential Property in Jawahar Colony Faridabad. The locality offers multiple plot size options to suit different budgets, family requirements, and construction preferences. Buyers can choose compact plots for efficient living or larger plots for spacious independent homes.",
+      "These plot options provide flexibility for custom construction while ensuring comfort and long-term usability. Understanding each plot category helps buyers make informed property decisions."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Residential Plots in Jawahar Colony",
+        "description": "4 Marla plots are ideal for buyers seeking budget-friendly residential options. These plots are suitable for small families and individuals planning compact homes with essential amenities."
+      },
+      {
+        "title": "6 Marla Residential Plots in Jawahar Colony",
+        "description": "6 Marla plots offer a practical balance between affordability and space. These properties allow comfortable home construction with functional room layouts."
+      },
+      {
+        "title": "8 Marla Residential Plots in Jawahar Colony",
+        "description": "8 Marla plots are preferred by families who want additional space for better ventilation, parking, and modern home designs."
+      },
+      {
+        "title": "10 Marla Residential Plots in Jawahar Colony",
+        "description": "10 Marla plots provide ample space for spacious independent houses. These plots are suitable for buyers looking for premium living within a developed locality."
+      },
+      {
+        "title": "12 Marla Residential Plots in Jawahar Colony",
+        "description": "12 Marla plots cater to larger families who require more living space, privacy, and future expansion possibilities."
+      },
+      {
+        "title": "14 Marla Residential Plots in Jawahar Colony",
+        "description": "14 Marla plots represent high-value residential options, offering excellent long-term investment potential and enhanced lifestyle comfort."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Residential Properties in Nearby Faridabad Localities",
+    "description": [
+      "Buyers exploring Residential Property in Jawahar Colony Faridabad often compare nearby areas to understand pricing, infrastructure, and lifestyle benefits. Faridabad offers several neighboring localities with diverse residential options.",
+      "Checking nearby locations helps buyers select the most suitable residential area based on connectivity, environment, and future growth prospects."
+    ],
+    "locations": [
+      { "title": "Residential Property in NIT Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Residential Property in Sector 21 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Residential Property in Sector 22 Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Sector 23 Faridabad", "path": "/", "icon": "Building2" },
+      { "title": "Residential Property in New Industrial Township", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Property in Sector 16 Faridabad", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Property in Old Faridabad", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Property in Central Faridabad", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Deal Acres Is Trusted for Jawahar Colony Residential Properties",
+    "description": [
+      "Finding the right Residential Property in Jawahar Colony Faridabad requires verified information and transparent listings. Deal Acres focuses on providing accurate property details to help buyers make confident decisions.",
+      "With a buyer-first approach and strong local market understanding, Deal Acres simplifies the property search experience and builds long-term trust."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All property listings are verified to ensure authenticity and accuracy."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing details help buyers understand real market values."
+      },
+      {
+        "title": "Local Area Expertise",
+        "description": "In-depth knowledge of Jawahar Colony residential market trends."
+      },
+      {
+        "title": "Easy-to-Use Platform",
+        "description": "User-friendly interface for quick and efficient property search."
+      },
+      {
+        "title": "Buyer-Focused Listings",
+        "description": "Listings curated based on genuine buyer requirements."
+      },
+      {
+        "title": "Basic Legal Guidance",
+        "description": "Support provided to understand essential property documentation."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Help available throughout the property buying journey."
+      },
+      {
+        "title": "Strong Buyer Trust",
+        "description": "Trusted by homebuyers for reliability and consistent service."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Residential Property in Jawahar Colony",
+    "description": "Common queries from buyers looking for Residential Property in Jawahar Colony Faridabad.",
+    "faqs": [
+      {
+        "question": "Is Jawahar Colony a good area for residential living?",
+        "answer": "Yes, Jawahar Colony offers good connectivity, essential amenities, and a comfortable living environment for families."
+      },
+      {
+        "question": "What types of residential properties are available in Jawahar Colony?",
+        "answer": "Independent houses and residential plots of various sizes are commonly available."
+      },
+      {
+        "question": "Is Jawahar Colony suitable for families?",
+        "answer": "Yes, the locality has schools, hospitals, markets, and public transport nearby."
+      },
+      {
+        "question": "Can I build my own house in Jawahar Colony?",
+        "answer": "Yes, construction is allowed as per local building bylaws and approvals."
+      },
+      {
+        "question": "Are home loans available for properties in Jawahar Colony?",
+        "answer": "Most properties are eligible for home loans from leading banks and financial institutions."
+      },
+      {
+        "question": "Is Jawahar Colony good for property investment?",
+        "answer": "Yes, consistent demand and central location make it a stable investment option."
+      },
+      {
+        "question": "How is connectivity from Jawahar Colony?",
+        "answer": "The area has good road connectivity and access to public transport."
+      },
+      {
+        "question": "Are daily amenities easily accessible?",
+        "answer": "Yes, grocery stores, schools, and healthcare facilities are nearby."
+      },
+      {
+        "question": "Why should I use Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparent information, and buyer-focused support."
+      },
+      {
+        "question": "How can I contact property experts?",
+        "answer": "You can fill out the contact form to connect with experienced property advisors."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Assistance for Residential Property in Jawahar Colony Faridabad",
+    "description": [
+      "Buying Residential Property in Jawahar Colony Faridabad becomes easier with expert guidance. Professional support helps you compare properties, understand pricing, and complete the buying process smoothly.",
+      "Share your details to connect with trusted property advisors for personalized assistance."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

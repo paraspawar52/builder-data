@@ -1,0 +1,153 @@
+{
+  "domain": "sector86faridabadrealestate.com",
+
+  "hero": {
+    "title": "Modern Residential Property Options in Sector 86 Faridabad",
+    "description": [
+      "Sector 86, Faridabad is a rapidly developing residential location that attracts homebuyers looking for planned infrastructure and peaceful surroundings. Choosing a Residential Property in Sector 86 Faridabad offers a perfect blend of modern living, connectivity, and future growth potential. The sector is designed with wide roads, organized residential layouts, and a clean environment that supports comfortable family living.",
+      "The location enjoys excellent connectivity to major highways, including the Delhi–Mumbai Expressway, and key areas of Faridabad. Schools, hospitals, shopping complexes, and daily convenience stores are easily accessible. With growing residential demand and continuous infrastructure development, Sector 86 is emerging as a strong choice for both end-users and long-term investors."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Residential Properties",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in Sector 86 Faridabad",
+    "description": [
+      "When planning to invest in Residential Property in Sector 86 Faridabad, understanding available plot sizes plays a key role in making the right decision. Sector 86 offers a variety of residential plot dimensions to suit different budgets, family sizes, and lifestyle preferences.",
+      "From compact plots for affordable housing to larger plots for premium living, the sector provides flexibility and long-term value. Each plot size is part of a well-planned residential layout with proper road access, utilities, and scope for future development."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Residential Plots in Sector 86 Faridabad",
+        "description": "4 Marla plots are ideal for buyers seeking affordable Residential Property in Sector 86 Faridabad. These plots are suitable for compact homes that are easy to maintain. They are popular among small families and investors due to steady rental demand and good location benefits."
+      },
+      {
+        "title": "6 Marla Residential Plots in Sector 86 Faridabad",
+        "description": "6 Marla plots offer a balance between space and affordability. These plots support better room planning, ventilation, and parking facilities. Families looking for comfortable living without high budgets often prefer this option in Sector 86."
+      },
+      {
+        "title": "8 Marla Residential Plots in Sector 86 Faridabad",
+        "description": "8 Marla plots are suitable for families seeking additional living space and long-term comfort. These plots allow flexible home designs with spacious interiors, making them ideal for permanent residential use."
+      },
+      {
+        "title": "10 Marla Residential Plots in Sector 86 Faridabad",
+        "description": "10 Marla plots are preferred by buyers aiming for premium residential living. These plots allow modern construction, open spaces, and improved privacy. They also offer strong appreciation potential over time."
+      },
+      {
+        "title": "12 Marla Residential Plots in Sector 86 Faridabad",
+        "description": "12 Marla plots cater to buyers who value spacious interiors and architectural freedom. These plots are ideal for luxury independent homes and are considered a strong long-term investment option."
+      },
+      {
+        "title": "14 Marla Residential Plots in Sector 86 Faridabad",
+        "description": "14 Marla plots represent the most premium residential category in Sector 86. Limited availability and rising demand make these plots a future-ready asset for luxury living and investment."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Residential Property Options Around Sector 86 Faridabad",
+    "description": [
+      "While searching for Residential Property in Sector 86 Faridabad, many buyers also explore nearby sectors to compare pricing, connectivity, and lifestyle benefits. Faridabad offers several planned residential sectors that cater to different housing needs.",
+      "This section features location-based tiles that allow users to easily explore properties across multiple sectors. Comparing nearby locations helps buyers make informed and confident decisions."
+    ],
+    "locations": [
+      { "title": "Residential Property in Sector 86 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Residential Property in Sector 85 Faridabad", "path": "/", "icon": "Building2" },
+      { "title": "Residential Property in Sector 84 Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Sector 83 Faridabad", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Property in Sector 88 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Residential Property in Sector 89 Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Sector 90 Faridabad", "path": "/", "icon": "Building2" },
+      { "title": "Residential Property in Sector 91 Faridabad", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Property in Sector 93 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Residential Property in Sector 95 Faridabad", "path": "/", "icon": "Building" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Sector 86 Properties",
+    "description": [
+      "Finding Residential Property in Sector 86 Faridabad requires reliable information and a trusted platform. Deal Acres focuses on verified listings and transparent property insights to help buyers make confident decisions.",
+      "With strong local expertise and a customer-first approach, Deal Acres continues to be the preferred choice for residential property seekers."
+    ],
+    "points": [
+      { "title": "Verified Property Listings", "description": "All listings are checked for authenticity and accuracy." },
+      { "title": "Transparent Pricing", "description": "Clear pricing insights reflect real market value." },
+      { "title": "Local Market Expertise", "description": "Deep understanding of Faridabad residential sectors." },
+      { "title": "User-Friendly Platform", "description": "Easy navigation ensures smooth property search." },
+      { "title": "Buyer-Focused Services", "description": "Solutions designed around real buyer needs." },
+      { "title": "Legal Awareness Support", "description": "Basic documentation guidance builds confidence." },
+      { "title": "End-to-End Assistance", "description": "Support available throughout the buying journey." },
+      { "title": "Trusted by Homebuyers", "description": "Positive feedback reflects long-term trust." }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions",
+    "description": "Common questions about Residential Property in Sector 86 Faridabad.",
+    "faqs": [
+      {
+        "question": "Is Sector 86 Faridabad a good location to buy residential property?",
+        "answer": "Yes, Sector 86 offers planned infrastructure, good connectivity, and strong future growth potential."
+      },
+      {
+        "question": "Is Sector 86 suitable for families?",
+        "answer": "Yes, the area provides schools, hospitals, parks, and a peaceful residential environment."
+      },
+      {
+        "question": "What plot sizes are available in Sector 86?",
+        "answer": "Residential plots from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Sector 86 good for long-term investment?",
+        "answer": "Yes, continuous development and rising demand make it a strong investment option."
+      },
+      {
+        "question": "Can I construct my own house in Sector 86?",
+        "answer": "Yes, construction is allowed as per approved building guidelines."
+      },
+      {
+        "question": "Are home loans available for properties here?",
+        "answer": "Most residential properties are eligible for home loans subject to approval."
+      },
+      {
+        "question": "How is connectivity from Sector 86?",
+        "answer": "Sector 86 is well connected to major roads and expressways."
+      },
+      {
+        "question": "Is Sector 86 good for rental income?",
+        "answer": "Yes, increasing residential demand supports rental potential."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres offers verified listings, transparency, and expert guidance."
+      },
+      {
+        "question": "How can I get expert property assistance?",
+        "answer": "You can use the contact form to connect with property professionals."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for Residential Property in Sector 86",
+    "description": [
+      "Buying Residential Property in Sector 86 Faridabad is an important decision, and expert guidance can make the process simple and stress-free.",
+      "Share your details to connect with experienced property experts who will help you find the right home based on your needs and budget."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

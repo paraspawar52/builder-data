@@ -1,0 +1,151 @@
+{
+  "domain": "ResidentialProperty.com",
+
+  "hero": {
+    "title": "Affordable and Well Connected Residential Living in Dabua Colony",
+    "description": [
+      "Dabua Colony Faridabad is a well-known residential area that offers practical living options at affordable price points. The locality is preferred by families and working professionals due to its established neighborhood, smooth connectivity, and access to daily essentials. Buyers searching for Residential Property in Dabua Colony Faridabad often consider this area for its value-driven housing options and stable community environment.",
+      "The area supports independent houses and residential plots in multiple sizes, making it suitable for different budgets and family requirements. With nearby schools, markets, healthcare facilities, and public transport availability, Dabua Colony ensures comfortable and convenient everyday living. Investing in residential property here offers long-term usability and dependable residential value within Faridabad."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Properties in Dabua Colony",
+        "path": "/"
+      },
+      {
+        "label": "Get Property Expert Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in Dabua Colony Faridabad",
+    "description": [
+      "Choosing the right plot size is an important factor when planning to buy Residential Property in Dabua Colony Faridabad. The locality offers a variety of plot dimensions that cater to compact homes as well as larger independent residences.",
+      "Each plot size supports different construction possibilities, helping buyers design homes based on family size, lifestyle needs, and future plans."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Residential Plots in Dabua Colony",
+        "description": "4 Marla plots are suitable for buyers looking for budget-friendly residential options. These plots are ideal for small families or first-time homebuyers seeking affordable ownership in a well-connected locality."
+      },
+      {
+        "title": "6 Marla Residential Plots in Dabua Colony",
+        "description": "6 Marla plots offer a balanced combination of space and affordability. These plots allow comfortable layouts with proper ventilation and functional living areas."
+      },
+      {
+        "title": "8 Marla Residential Plots in Dabua Colony",
+        "description": "8 Marla plots provide additional living space and flexibility in home design. These options are preferred by families planning long-term residential use."
+      },
+      {
+        "title": "10 Marla Residential Plots in Dabua Colony",
+        "description": "10 Marla plots support premium house designs with better parking and open areas. These plots suit buyers looking to upgrade their lifestyle."
+      },
+      {
+        "title": "12 Marla Residential Plots in Dabua Colony",
+        "description": "12 Marla plots offer spacious living and greater privacy. These plots are ideal for families seeking comfort and customized construction options."
+      },
+      {
+        "title": "14 Marla Residential Plots in Dabua Colony",
+        "description": "14 Marla plots represent premium residential opportunities with expansive space and strong long-term investment potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Nearby Residential Locations Around Dabua Colony",
+    "description": [
+      "While searching for Residential Property in Dabua Colony Faridabad, buyers often explore nearby localities to compare pricing, infrastructure, and living standards.",
+      "Reviewing surrounding areas helps buyers make informed decisions and identify the most suitable residential option."
+    ],
+    "locations": [
+      { "title": "Residential Property in Dabua Colony Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Residential Property in Mujesar Faridabad", "path": "/", "icon": "Building2" },
+      { "title": "Residential Property in New Industrial Township", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Property in Sector 23 Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Sector 24 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Residential Property in Sector 25 Faridabad", "path": "/", "icon": "Building2" },
+      { "title": "Residential Property in Ballabhgarh", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Property in Central Faridabad", "path": "/", "icon": "Building" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Dabua Colony Properties",
+    "description": [
+      "Buying Residential Property in Dabua Colony Faridabad requires accurate information and reliable support. Deal Acres ensures verified listings and transparent property details to help buyers make confident decisions.",
+      "With local expertise and a buyer-focused approach, Deal Acres simplifies property selection and ensures clarity throughout the buying journey."
+    ],
+    "points": [
+      { "title": "Verified Property Listings", "description": "Each listing is checked for accuracy and authenticity." },
+      { "title": "Transparent Pricing Information", "description": "Clear pricing insights help buyers understand true market value." },
+      { "title": "Local Market Expertise", "description": "In-depth knowledge of Dabua Colony and nearby areas." },
+      { "title": "User-Friendly Platform", "description": "Simple and smooth property browsing experience." },
+      { "title": "Buyer-Focused Guidance", "description": "Support aligned with real buyer needs and preferences." },
+      { "title": "Basic Legal Awareness", "description": "Helps buyers feel confident during documentation stages." },
+      { "title": "End-to-End Assistance", "description": "Support available from property search to final decision." },
+      { "title": "Trusted by Homebuyers", "description": "Consistent service quality builds long-term trust." }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions",
+    "description": "Common questions related to Residential Property in Dabua Colony Faridabad.",
+    "faqs": [
+      {
+        "question": "Is Dabua Colony a good area for residential living?",
+        "answer": "Yes, Dabua Colony is a well-established locality with affordable housing options and good connectivity."
+      },
+      {
+        "question": "What types of properties are available in Dabua Colony?",
+        "answer": "Independent houses and residential plots of different sizes are commonly available."
+      },
+      {
+        "question": "Is Dabua Colony suitable for families?",
+        "answer": "Yes, the area offers schools, markets, hospitals, and a stable residential environment."
+      },
+      {
+        "question": "Can I build my own house in Dabua Colony?",
+        "answer": "Yes, buyers can construct houses as per approved building norms and regulations."
+      },
+      {
+        "question": "Are home loans available for properties here?",
+        "answer": "Most residential properties are eligible for home loans subject to bank approval."
+      },
+      {
+        "question": "Is Dabua Colony good for long-term investment?",
+        "answer": "Yes, due to steady demand and affordability, the area offers stable investment potential."
+      },
+      {
+        "question": "How is connectivity from Dabua Colony?",
+        "answer": "The locality has good road connectivity to key areas of Faridabad."
+      },
+      {
+        "question": "Are daily amenities nearby?",
+        "answer": "Yes, essential amenities like markets, schools, and healthcare facilities are easily accessible."
+      },
+      {
+        "question": "Why should I use Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparent details, and expert guidance."
+      },
+      {
+        "question": "How can I contact property experts?",
+        "answer": "You can submit your details through the contact form to connect with professionals."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for Residential Property in Dabua Colony",
+    "description": [
+      "Buying Residential Property in Dabua Colony Faridabad is an important decision, and expert assistance can make the process smoother.",
+      "Share your details to connect with trusted property experts who can help you find the right home or investment opportunity."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

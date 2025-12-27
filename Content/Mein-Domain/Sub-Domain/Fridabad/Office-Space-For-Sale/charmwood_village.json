@@ -1,0 +1,192 @@
+{
+  "domain": "Office space for sale.com",
+
+  "hero": {
+    "title": "Well Located Commercial Office Space for Sale in Charmwood Village",
+    "description": [
+      "Charmwood Village Faridabad is a premium and well-planned locality known for its upscale residential environment and growing commercial presence. The area enjoys excellent connectivity to Surajkund Road, Delhi border, and central Faridabad, making it a preferred choice for professional offices, clinics, and service-based businesses. Buyers searching for office space for sale in Charmwood Village Faridabad are attracted by its clean surroundings, strong infrastructure, and high-end neighborhood profile.",
+      "With proximity to residential societies, schools, hospitals, and daily-use markets, Charmwood Village offers a balanced ecosystem for businesses that rely on local footfall and professional clientele. Investing in office space here ensures operational convenience, brand visibility, and long-term commercial value in one of Faridabad’s most reputed localities."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Commercial Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Office Plot Size Options Available in Charmwood Village Faridabad",
+    "description": [
+      "Selecting the right plot size is a key factor when planning to buy office space for sale in Charmwood Village Faridabad. Different businesses require different space configurations depending on staff size, client interaction, and operational needs. Charmwood Village offers a range of plot sizes that suit compact professional offices as well as larger commercial setups.",
+      "Understanding these plot size options helps buyers plan efficient office layouts, manage investment budgets, and ensure future scalability. The availability of multiple plot sizes makes Charmwood Village a flexible location for diverse business requirements."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space in Charmwood Village",
+        "description": "4 Marla office spaces are ideal for consultants, clinics, and boutique service providers. These compact units are easy to manage and cost-effective. A 4 Marla office space for sale in Charmwood Village Faridabad suits focused professional operations."
+      },
+      {
+        "title": "6 Marla Office Space in Charmwood Village",
+        "description": "6 Marla office spaces offer a balanced layout with room for cabins, reception, and workstations. A 6 Marla office space for sale in Charmwood Village Faridabad is suitable for growing businesses."
+      },
+      {
+        "title": "8 Marla Office Space in Charmwood Village",
+        "description": "8 Marla office spaces provide better planning flexibility and comfortable working environments. An 8 Marla office space for sale in Charmwood Village Faridabad supports mid-sized professional firms."
+      },
+      {
+        "title": "10 Marla Office Space in Charmwood Village",
+        "description": "10 Marla office spaces offer premium working environments with scope for meeting rooms and management cabins. A 10 Marla office space for sale in Charmwood Village Faridabad enhances professional presence."
+      },
+      {
+        "title": "12 Marla Office Space in Charmwood Village",
+        "description": "12 Marla office spaces are suitable for established businesses requiring spacious layouts and scalability. A 12 Marla office space for sale in Charmwood Village Faridabad ensures long-term usability."
+      },
+      {
+        "title": "14 Marla Office Space in Charmwood Village",
+        "description": "14 Marla office spaces cater to large enterprises and premium professional offices. These units allow customization and future expansion. A 14 Marla office space for sale in Charmwood Village Faridabad is a strong commercial investment."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Office Space for Sale in Nearby Faridabad Locations",
+    "description": [
+      "While exploring office space for sale in Charmwood Village Faridabad, buyers often review nearby localities to compare pricing, connectivity, and business suitability. South Faridabad offers several well-developed and premium locations for commercial investment.",
+      "Looking at nearby locations helps businesses choose office spaces that align with client access, employee convenience, and long-term growth strategies."
+    ],
+    "locations": [
+      {
+        "title": "Office Space for Sale in Charmwood Village Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Sale in Surajkund Faridabad",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Office Space for Sale in Sector 21C Faridabad",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Commercial Property for Sale in Faridabad",
+        "path": "/",
+        "icon": "Store"
+      }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Prefer Deal Acres for Office Space Investment",
+    "description": [
+      "Buying office space for sale in Charmwood Village Faridabad requires reliable listings and clear market insights. Deal Acres focuses on verified properties, transparent pricing, and accurate locality information.",
+      "With strong local market knowledge and a customer-first approach, Deal Acres supports businesses and investors in making confident commercial property decisions."
+    ],
+    "points": [
+      {
+        "title": "Verified Office Listings",
+        "description": "All office properties are verified for ownership and authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing helps buyers understand real market value."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Deep understanding of Faridabad commercial micro-markets."
+      },
+      {
+        "title": "User-Friendly Platform",
+        "description": "Easy navigation and smooth property discovery experience."
+      },
+      {
+        "title": "Business-Oriented Listings",
+        "description": "Properties selected based on professional usability."
+      },
+      {
+        "title": "Basic Legal Guidance",
+        "description": "Support provided for documentation and process clarity."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Help available from search to final purchase."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Consistent service quality builds long-term trust."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions",
+    "description": "User-focused answers to common questions about office space for sale in Charmwood Village Faridabad.",
+    "faqs": [
+      {
+        "question": "Is Charmwood Village a good location for office space?",
+        "answer": "Yes, Charmwood Village is a premium locality with strong residential presence and professional demand."
+      },
+      {
+        "question": "What plot sizes are available for office spaces here?",
+        "answer": "Office spaces are available from 4 Marla to 14 Marla plot sizes."
+      },
+      {
+        "question": "Is the area suitable for clinics and consultancies?",
+        "answer": "Yes, nearby residential societies create steady demand for clinics and professional services."
+      },
+      {
+        "question": "Are commercial loans available?",
+        "answer": "Most banks offer loans for commercial properties subject to eligibility."
+      },
+      {
+        "question": "What amenities are nearby?",
+        "answer": "Schools, hospitals, markets, and major roads are easily accessible."
+      },
+      {
+        "question": "Can office interiors be customized?",
+        "answer": "Yes, most office spaces allow interior customization."
+      },
+      {
+        "question": "How does Deal Acres verify listings?",
+        "answer": "Listings are verified for ownership, location accuracy, and market relevance."
+      },
+      {
+        "question": "Is Charmwood Village well connected?",
+        "answer": "Yes, it has excellent connectivity to South Faridabad and Delhi."
+      },
+      {
+        "question": "What factors affect office space pricing here?",
+        "answer": "Plot size, location advantage, and surrounding development influence pricing."
+      },
+      {
+        "question": "How can I get expert assistance?",
+        "answer": "You can connect with commercial property experts through the enquiry form."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for Office Space in Charmwood Village Faridabad",
+    "description": [
+      "Buying office space for sale in Charmwood Village Faridabad is a strategic business decision. Expert guidance helps you compare options, understand pricing, and avoid common mistakes.",
+      "Share your details to connect with experienced commercial property advisors for personalized assistance."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

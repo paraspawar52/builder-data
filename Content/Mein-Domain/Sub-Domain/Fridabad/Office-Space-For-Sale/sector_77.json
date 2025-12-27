@@ -1,0 +1,192 @@
+{
+  "domain": "Office space for sale.com",
+
+  "hero": {
+    "title": "Smart Office Space for Sale in Sector 77 Faridabad",
+    "description": [
+      "Sector 77, Faridabad is a rapidly developing sector in Greater Faridabad, known for its planned infrastructure and growing commercial activity. The area is surrounded by modern residential societies and enjoys smooth connectivity to major roads, making it suitable for businesses seeking an organized and future-ready office location. Buyers looking for office space for sale in Sector 77 Faridabad benefit from its clean layout, improving road network, and peaceful working environment.",
+      "With continuous development and increasing demand for commercial spaces, Sector 77 supports startups, service-based firms, and expanding businesses. Nearby amenities such as markets, banks, and residential zones add daily convenience for employees. Investing in office space here offers long-term usability, operational comfort, and steady commercial growth potential in Faridabad."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Commercial Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Office Plot Size Options Available in Sector 77 Faridabad",
+    "description": [
+      "Choosing the right plot size is an essential step when planning to buy office space for sale in Sector 77 Faridabad. Businesses have different space requirements depending on team size, daily operations, and future expansion plans. Sector 77 offers multiple commercial plot size options that cater to startups, mid-sized firms, and established enterprises.",
+      "These plot size options allow flexibility in office layout, interior planning, and efficient space utilization. Understanding the benefits of each plot size helps buyers make informed decisions aligned with business goals and long-term growth strategies."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space in Sector 77 Faridabad",
+        "description": "4 Marla office spaces are suitable for startups, consultants, and small professional firms. These compact units are cost-effective, easy to manage, and ideal for businesses seeking a professional setup. A 4 Marla office space for sale in Sector 77 Faridabad supports efficient operations with minimal investment."
+      },
+      {
+        "title": "6 Marla Office Space in Sector 77 Faridabad",
+        "description": "6 Marla office spaces provide a balanced working environment with space for cabins, reception, and meeting areas. Businesses planning gradual growth often prefer a 6 Marla office space for sale in Sector 77 Faridabad due to its practical layout."
+      },
+      {
+        "title": "8 Marla Office Space in Sector 77 Faridabad",
+        "description": "8 Marla office spaces are ideal for mid-sized companies that require structured departments and collaborative workspaces. An 8 Marla office space for sale in Sector 77 Faridabad supports modern office planning and long-term comfort."
+      },
+      {
+        "title": "10 Marla Office Space in Sector 77 Faridabad",
+        "description": "10 Marla office spaces offer a premium working environment with room for conference areas, management cabins, and team seating. A 10 Marla office space for sale in Sector 77 Faridabad enhances productivity and business image."
+      },
+      {
+        "title": "12 Marla Office Space in Sector 77 Faridabad",
+        "description": "12 Marla office spaces are suitable for corporate offices and multi-team organizations. These properties allow better infrastructure planning and scalability. Investing in a 12 Marla office space for sale in Sector 77 Faridabad ensures long-term commercial value."
+      },
+      {
+        "title": "14 Marla Office Space in Sector 77 Faridabad",
+        "description": "14 Marla office spaces are designed for large enterprises and headquarters. These spacious units allow customization, expansion, and premium layouts. A 14 Marla office space for sale in Sector 77 Faridabad is a strong long-term commercial asset."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Office Space for Sale in Nearby Faridabad Locations",
+    "description": [
+      "While searching for office space for sale in Sector 77 Faridabad, many buyers also explore nearby sectors to compare pricing, accessibility, and commercial potential. Greater Faridabad offers several developing areas suitable for business operations.",
+      "Exploring nearby locations helps businesses evaluate connectivity, workforce convenience, and future appreciation before finalizing a commercial investment."
+    ],
+    "locations": [
+      {
+        "title": "Office Space for Sale in Sector 77 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Sale in Sector 76 Faridabad",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Office Space for Sale in Sector 78 Faridabad",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Commercial Property for Sale in Faridabad",
+        "path": "/",
+        "icon": "Store"
+      }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Businesses Trust Deal Acres for Office Space in Faridabad",
+    "description": [
+      "Finding the right office space for sale in Sector 77 Faridabad requires accurate information and a reliable property platform. Deal Acres focuses on providing verified listings, transparent pricing, and relevant market insights for commercial buyers.",
+      "With strong local market expertise and a buyer-first approach, Deal Acres helps businesses make confident and informed office space investment decisions."
+    ],
+    "points": [
+      {
+        "title": "Verified Office Listings",
+        "description": "All office spaces are verified for ownership clarity, location accuracy, and authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing details help buyers understand actual market value."
+      },
+      {
+        "title": "Local Market Knowledge",
+        "description": "In-depth understanding of Faridabad’s commercial property trends."
+      },
+      {
+        "title": "Easy Search Experience",
+        "description": "User-friendly platform allows smooth browsing and comparison."
+      },
+      {
+        "title": "Business-Focused Listings",
+        "description": "Properties are evaluated from an operational and growth perspective."
+      },
+      {
+        "title": "Legal Process Guidance",
+        "description": "Support available for documentation and compliance clarity."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Guidance provided throughout the buying journey."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Positive feedback from commercial buyers builds long-term trust."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions",
+    "description": "Helpful answers to common questions about buying office space in Sector 77 Faridabad.",
+    "faqs": [
+      {
+        "question": "Is Sector 77 Faridabad good for office space?",
+        "answer": "Yes, Sector 77 is a developing area with planned infrastructure and growing commercial demand."
+      },
+      {
+        "question": "What plot sizes are available for office space in Sector 77?",
+        "answer": "Office spaces are available in sizes ranging from 4 Marla to 14 Marla."
+      },
+      {
+        "question": "Is Sector 77 suitable for startups?",
+        "answer": "Yes, smaller office spaces in Sector 77 are ideal for startups and professional firms."
+      },
+      {
+        "question": "Is buying office space in Sector 77 a good investment?",
+        "answer": "Yes, ongoing development and future growth prospects support long-term appreciation."
+      },
+      {
+        "question": "Are commercial loans available?",
+        "answer": "Most banks offer loans for commercial properties, subject to eligibility."
+      },
+      {
+        "question": "What amenities are nearby?",
+        "answer": "Residential societies, markets, banks, and healthcare facilities are easily accessible."
+      },
+      {
+        "question": "How does Deal Acres verify listings?",
+        "answer": "Each listing is verified for ownership, location accuracy, and market relevance."
+      },
+      {
+        "question": "Can office interiors be customized?",
+        "answer": "Yes, most office spaces allow customization as per business needs."
+      },
+      {
+        "question": "What affects office space pricing in Sector 77?",
+        "answer": "Plot size, connectivity, infrastructure development, and market demand influence prices."
+      },
+      {
+        "question": "How can I get expert assistance?",
+        "answer": "You can connect with experts through the contact form for personalized guidance."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for Office Space in Sector 77 Faridabad",
+    "description": [
+      "Buying office space for sale in Sector 77 Faridabad is a strategic business move that benefits from expert guidance. Professional support helps you compare properties, understand pricing, and plan long-term business operations.",
+      "Share your details to connect with trusted commercial property experts who can assist you through every step of the buying process."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

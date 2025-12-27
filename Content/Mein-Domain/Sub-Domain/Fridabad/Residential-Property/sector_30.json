@@ -1,0 +1,216 @@
+{
+  "domain": "Residential Property.com",
+  "hero": {
+    "title": "Premium Residential Living with Excellent Connectivity in Sector 30",
+    "description": [
+      "Sector 30 Faridabad is a well-planned and sought-after residential locality known for its clean surroundings, organized infrastructure, and excellent connectivity to major parts of the city. The sector is popular among families, professionals, and long-term residents who prefer peaceful living while staying close to workplaces, hospitals, schools, and commercial zones. Buyers searching for residential property in Sector 30 Faridabad appreciate its well-developed neighborhood and strong civic amenities.",
+      "The locality offers independent houses and residential plots in multiple sizes, catering to different budgets and lifestyle preferences. With smooth road networks, proximity to major highways, and access to essential facilities, Sector 30 provides a comfortable and future-ready residential environment. Investing in a home here ensures convenience, stability, and long-term property value in Faridabad."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Properties in Sector 30",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in Sector 30 Faridabad",
+    "description": [
+      "Choosing the right plot size is an important step when planning to buy residential property in Sector 30 Faridabad. The locality offers a variety of plot dimensions suitable for compact homes, comfortable family residences, and spacious independent houses. Each plot size supports different construction needs and lifestyle expectations.",
+      "Whether you are a first-time buyer or planning a long-term family home, Sector 30 Faridabad provides flexible residential options. Understanding the benefits of each plot size helps buyers make informed, confident, and future-focused property decisions."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot Houses in Sector 30 Faridabad",
+        "description": "4 Marla plot houses are ideal for buyers looking for affordable residential property in Sector 30 Faridabad. These homes are compact, easy to maintain, and suitable for small families or individuals. Due to strong demand, 4 Marla houses also offer good rental potential."
+      },
+      {
+        "title": "6 Marla Plot Houses in Sector 30 Faridabad",
+        "description": "6 Marla plot houses provide a balanced combination of comfort and affordability. These homes offer improved layouts, ventilation, and functional living spaces. Buyers seeking value-for-money residential property in Sector 30 Faridabad often prefer this option."
+      },
+      {
+        "title": "8 Marla Plot Houses in Sector 30 Faridabad",
+        "description": "8 Marla houses are suitable for families looking for additional space and comfort. These properties allow better interior planning, larger bedrooms, and spacious common areas. An 8 Marla residential property in Sector 30 Faridabad supports long-term family living."
+      },
+      {
+        "title": "10 Marla Plot Houses in Sector 30 Faridabad",
+        "description": "10 Marla plot houses offer a premium residential experience with ample space for modern construction and parking. Buyers choosing 10 Marla residential property in Sector 30 Faridabad usually focus on lifestyle enhancement and future appreciation."
+      },
+      {
+        "title": "12 Marla Plot Houses in Sector 30 Faridabad",
+        "description": "12 Marla houses provide spacious interiors and flexibility for customized home designs. These properties suit buyers seeking privacy, comfort, and higher living standards. A 12 Marla residential property in Sector 30 Faridabad ensures stable long-term residence."
+      },
+      {
+        "title": "14 Marla Plot Houses in Sector 30 Faridabad",
+        "description": "14 Marla plot houses represent premium residential living with expansive space and architectural freedom. These homes are preferred by buyers who value exclusivity, comfort, and long-term investment potential in Sector 30 Faridabad."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Residential Locations Around Sector 30 Faridabad",
+    "description": [
+      "While searching for residential property in Sector 30 Faridabad, many buyers also explore nearby sectors to compare pricing, infrastructure, and connectivity. Faridabad offers several established and developing residential localities suitable for different housing needs.",
+      "Exploring nearby locations helps buyers understand accessibility to amenities, neighborhood quality, and future growth prospects. This wider comparison supports confident and informed property decisions."
+    ],
+    "locations": [
+      {
+        "title": "Residential Property in Sector 30 Faridabad",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "Residential Property in Sector 300 Faridabad",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Residential Property in Sector 28 Faridabad",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Residential Property in Sector 29 Faridabad",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Residential Property in Sector 31 Faridabad",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Residential Property in Sector 21 Faridabad",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Residential Property in Sector 46 Faridabad",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Residential Property in Sector 15 Faridabad",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Residential Property in Sector 18 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Residential Property in Sector 19 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Sector 30 Faridabad Properties",
+    "description": [
+      "Buying residential property in Sector 30 Faridabad requires accurate information and a reliable real estate platform. Deal Acres focuses on providing verified property listings and clear locality insights so buyers can make confident and informed decisions.",
+      "With strong knowledge of Faridabad’s residential market and a buyer-first approach, Deal Acres delivers transparency, reliability, and long-term trust to homebuyers."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All listings are verified to ensure authenticity and accuracy."
+      },
+      {
+        "title": "Transparent Pricing Insights",
+        "description": "Clear pricing helps buyers understand true market value."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 30 Faridabad property trends."
+      },
+      {
+        "title": "User-Friendly Platform",
+        "description": "Simple navigation ensures smooth property exploration."
+      },
+      {
+        "title": "Buyer-Centric Approach",
+        "description": "Recommendations focus on real buyer requirements."
+      },
+      {
+        "title": "Basic Legal Guidance",
+        "description": "Support helps buyers understand documentation clearly."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Guidance is available throughout the buying journey."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Positive feedback reflects strong customer trust."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions",
+    "description": "Common questions and detailed answers about residential property in Sector 30 Faridabad.",
+    "faqs": [
+      {
+        "question": "Is Sector 30 Faridabad a good area to buy residential property?",
+        "answer": "Yes, Sector 30 Faridabad is a well-developed locality with strong connectivity and amenities, making it suitable for long-term residential living."
+      },
+      {
+        "question": "What types of residential properties are available in Sector 30 Faridabad?",
+        "answer": "Independent houses and residential plots ranging from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Sector 30 Faridabad suitable for families?",
+        "answer": "Yes, the area offers a peaceful and secure environment with easy access to schools, hospitals, and markets."
+      },
+      {
+        "question": "Can I build my own house in Sector 30 Faridabad?",
+        "answer": "Yes, buyers can construct houses on available plots as per approved building regulations."
+      },
+      {
+        "question": "Are home loans available for properties in Sector 30 Faridabad?",
+        "answer": "Most residential properties are eligible for home loans, subject to bank approval and documentation."
+      },
+      {
+        "question": "Is Sector 30 Faridabad good for property investment?",
+        "answer": "Yes, due to its prime location and steady demand, the area offers strong investment potential."
+      },
+      {
+        "question": "How does Deal Acres help buyers?",
+        "answer": "Deal Acres provides verified listings, local insights, and buyer-focused assistance."
+      },
+      {
+        "question": "Are daily amenities easily accessible from Sector 30 Faridabad?",
+        "answer": "Yes, essential amenities such as markets, banks, hospitals, and schools are nearby."
+      },
+      {
+        "question": "What factors affect property prices in Sector 30 Faridabad?",
+        "answer": "Plot size, location advantages, infrastructure quality, and neighborhood development influence prices."
+      },
+      {
+        "question": "How can I get expert help to buy residential property?",
+        "answer": "You can use the contact section to connect with experienced property experts for personalized guidance."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help to Buy Residential Property in Sector 30 Faridabad",
+    "description": [
+      "Buying residential property in Sector 30 Faridabad is an important decision, and expert guidance can make the process smooth and transparent. Professional support helps you compare options, understand pricing, and proceed confidently.",
+      "Share your details to connect with trusted property experts who can help you find a home that matches your needs, budget, and long-term plans."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

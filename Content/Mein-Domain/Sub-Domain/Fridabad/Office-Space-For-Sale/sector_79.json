@@ -1,0 +1,192 @@
+{
+  "domain": "Office space for sale.com",
+
+  "hero": {
+    "title": "Premium Commercial Office Space for Sale in Sector 79 Faridabad",
+    "description": [
+      "Sector 79 Faridabad is a rapidly developing commercial and residential zone that is gaining attention from businesses seeking organized infrastructure and future-ready locations. The sector is well-planned, offers smooth internal roads, and is surrounded by growing residential communities, making it convenient for employees and clients alike. Buyers looking for office space for sale in Sector 79 Faridabad benefit from its modern surroundings and improving connectivity to major roads and nearby sectors.",
+      "With steady development, upcoming commercial activity, and proximity to key residential belts, Sector 79 supports startups, service-based firms, and expanding businesses. Investing in office space here provides functional work environments, long-term appreciation potential, and a balanced commercial ecosystem within Faridabad."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Commercial Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Office Plot Size Options Available in Sector 79 Faridabad",
+    "description": [
+      "Choosing the right plot size is an important step when planning to buy office space for sale in Sector 79 Faridabad. Different businesses require different space configurations depending on team size, operational needs, and future growth plans. Sector 79 offers a variety of plot sizes that suit both compact offices and larger commercial setups.",
+      "Understanding these plot size options helps buyers design efficient workspaces, manage budgets effectively, and ensure long-term operational comfort. The flexibility of plot sizes makes Sector 79 suitable for diverse business requirements."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space in Sector 79 Faridabad",
+        "description": "4 Marla office spaces are ideal for small businesses, consultants, and startups. These compact units are budget-friendly and easy to manage. A 4 Marla office space for sale in Sector 79 Faridabad supports efficient day-to-day operations."
+      },
+      {
+        "title": "6 Marla Office Space in Sector 79 Faridabad",
+        "description": "6 Marla office spaces offer a balanced layout with space for cabins, workstations, and meetings. A 6 Marla office space for sale in Sector 79 Faridabad is suitable for growing teams."
+      },
+      {
+        "title": "8 Marla Office Space in Sector 79 Faridabad",
+        "description": "8 Marla office spaces allow better planning and organized workflows. These units are preferred by mid-sized firms. An 8 Marla office space for sale in Sector 79 Faridabad supports long-term usability."
+      },
+      {
+        "title": "10 Marla Office Space in Sector 79 Faridabad",
+        "description": "10 Marla office spaces provide enhanced comfort with scope for conference rooms and managerial cabins. A 10 Marla office space for sale in Sector 79 Faridabad offers a professional working environment."
+      },
+      {
+        "title": "12 Marla Office Space in Sector 79 Faridabad",
+        "description": "12 Marla office spaces are suitable for established businesses that require spacious layouts. These properties allow scalability and better infrastructure planning. A 12 Marla office space for sale in Sector 79 Faridabad ensures future readiness."
+      },
+      {
+        "title": "14 Marla Office Space in Sector 79 Faridabad",
+        "description": "14 Marla office spaces are ideal for large enterprises and corporate offices. These premium units support customization and expansion. A 14 Marla office space for sale in Sector 79 Faridabad is a strong long-term commercial investment."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Office Space for Sale in Nearby Faridabad Locations",
+    "description": [
+      "While exploring office space for sale in Sector 79 Faridabad, buyers often compare nearby sectors to understand pricing trends, connectivity, and commercial growth. Faridabad offers several developing and established commercial areas.",
+      "Reviewing nearby locations helps businesses choose office spaces that align with employee convenience, logistics, and future expansion strategies."
+    ],
+    "locations": [
+      {
+        "title": "Office Space for Sale in Sector 79 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Sale in Sector 75 Faridabad",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Office Space for Sale in Sector 78 Faridabad",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Commercial Property for Sale in Faridabad",
+        "path": "/",
+        "icon": "Store"
+      }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Businesses Trust Deal Acres for Office Space",
+    "description": [
+      "Buying office space for sale in Sector 79 Faridabad requires reliable information and verified listings. Deal Acres focuses on transparency, accuracy, and market relevance to help buyers make confident decisions.",
+      "With strong local market understanding and a business-first approach, Deal Acres supports companies and investors throughout their commercial property journey."
+    ],
+    "points": [
+      {
+        "title": "Verified Office Listings",
+        "description": "Each office space is verified for authenticity and accuracy."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing details help buyers evaluate true market value."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Deep knowledge of Faridabad’s commercial property landscape."
+      },
+      {
+        "title": "Easy Property Discovery",
+        "description": "User-friendly platform for smooth browsing and comparison."
+      },
+      {
+        "title": "Business-Focused Options",
+        "description": "Listings selected based on operational suitability."
+      },
+      {
+        "title": "Basic Legal Guidance",
+        "description": "Support available for documentation clarity."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Assistance provided throughout the buying process."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Consistent service quality builds buyer confidence."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions",
+    "description": "Clear answers to common questions about office space for sale in Sector 79 Faridabad.",
+    "faqs": [
+      {
+        "question": "Is Sector 79 Faridabad suitable for office space investment?",
+        "answer": "Yes, Sector 79 is a developing area with strong future commercial potential."
+      },
+      {
+        "question": "What plot sizes are available for office spaces in Sector 79?",
+        "answer": "Office spaces range from 4 Marla to 14 Marla plot sizes."
+      },
+      {
+        "question": "Is Sector 79 good for startups?",
+        "answer": "Yes, smaller office spaces are ideal for startups and service businesses."
+      },
+      {
+        "question": "Are commercial loans available?",
+        "answer": "Most banks provide loans for commercial properties subject to eligibility."
+      },
+      {
+        "question": "What amenities are nearby?",
+        "answer": "Residential sectors, roads, markets, and basic facilities are nearby."
+      },
+      {
+        "question": "Can office interiors be customized?",
+        "answer": "Yes, most office spaces allow interior customization."
+      },
+      {
+        "question": "How does Deal Acres verify listings?",
+        "answer": "Listings are verified for ownership, location, and market relevance."
+      },
+      {
+        "question": "Is Sector 79 well connected?",
+        "answer": "Yes, it has improving connectivity to major Faridabad routes."
+      },
+      {
+        "question": "What factors affect office prices in Sector 79?",
+        "answer": "Plot size, location advantage, and development pace impact pricing."
+      },
+      {
+        "question": "How can I get expert assistance?",
+        "answer": "You can connect with experts through the enquiry form."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for Office Space in Sector 79 Faridabad",
+    "description": [
+      "Buying office space for sale in Sector 79 Faridabad is an important business decision. Expert guidance helps you compare options, understand pricing, and select the right workspace.",
+      "Submit your details to connect with experienced commercial property professionals for personalized support."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

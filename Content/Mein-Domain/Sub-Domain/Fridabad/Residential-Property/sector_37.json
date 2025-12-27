@@ -1,0 +1,180 @@
+{
+  "domain": "ResidentialProperty.com",
+
+  "hero": {
+    "title": "Premium Residential Living Opportunities with Excellent Connectivity in Sector 37 Faridabad",
+    "description": [
+      "Sector 37 Faridabad is a well-developed residential locality known for its strategic location, peaceful surroundings, and easy access to major city roads. Homebuyers searching for Residential Property in Sector 37 Faridabad prefer this area due to its close proximity to industrial hubs, business centers, and daily-use amenities. The locality offers a balanced mix of comfort, connectivity, and long-term livability.",
+      "With well-planned roads, nearby schools, healthcare facilities, and shopping areas, Sector 37 provides a stable residential environment for families and professionals. Its growing residential demand also makes it a suitable choice for long-term property investment in Faridabad."
+    ],
+    "buttons": [
+      {
+        "label": "View Properties in Sector 37",
+        "path": "/"
+      },
+      {
+        "label": "Contact Property Experts",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Available Residential Plot Sizes and Housing Options in Sector 37 Faridabad",
+    "description": [
+      "Choosing the right plot size plays a crucial role when investing in Residential Property in Sector 37 Faridabad. The locality offers a variety of plot sizes that cater to different budgets, family sizes, and construction preferences. From compact homes to spacious independent houses, buyers can select options that align with their lifestyle needs.",
+      "These plot size options give flexibility for custom home construction and future expansion. Understanding each plot category helps buyers make informed and confident property decisions."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Residential Plots in Sector 37",
+        "description": "4 Marla plots are suitable for buyers looking for affordable residential options with low maintenance requirements. These properties are ideal for small families and first-time homebuyers."
+      },
+      {
+        "title": "6 Marla Residential Plots in Sector 37",
+        "description": "6 Marla plots provide a practical balance between space and affordability. These plots allow comfortable house construction with efficient room layouts."
+      },
+      {
+        "title": "8 Marla Residential Plots in Sector 37",
+        "description": "8 Marla plots are preferred by families who need additional space for better ventilation and modern home designs. These properties offer improved living comfort."
+      },
+      {
+        "title": "10 Marla Residential Plots in Sector 37",
+        "description": "10 Marla plots offer spacious construction possibilities, including parking space and open areas. These properties are ideal for buyers seeking premium residential living."
+      },
+      {
+        "title": "12 Marla Residential Plots in Sector 37",
+        "description": "12 Marla plots are suitable for large families planning customized home layouts with enhanced privacy and comfort."
+      },
+      {
+        "title": "14 Marla Residential Plots in Sector 37",
+        "description": "14 Marla plots represent high-value residential options, offering ample space and long-term investment potential in Sector 37 Faridabad."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Discover Residential Properties in Nearby Faridabad Locations",
+    "description": [
+      "While exploring Residential Property in Sector 37 Faridabad, buyers often compare nearby sectors to understand pricing trends, accessibility, and neighborhood features. Faridabad has several well-developed residential areas offering diverse housing options.",
+      "Browsing nearby localities helps buyers select the best residential area based on connectivity, environment, and future appreciation potential."
+    ],
+    "locations": [
+      { "title": "Residential Property in Sector 35 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Residential Property in Sector 36 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Residential Property in Sector 38 Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Sector 39 Faridabad", "path": "/", "icon": "Building2" },
+      { "title": "Residential Property in NIT Faridabad", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Property in Old Faridabad", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Property in Sector 31 Faridabad", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Property in Central Faridabad", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Preferred Choice for Sector 37 Properties",
+    "description": [
+      "Finding the right Residential Property in Sector 37 Faridabad requires accurate listings and transparent information. Deal Acres ensures buyers get access to verified property data, helping them make confident and informed decisions.",
+      "With a strong focus on user trust and market knowledge, Deal Acres simplifies the property search process and offers reliable support at every step."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All listings are carefully verified to ensure accuracy and authenticity."
+      },
+      {
+        "title": "Clear Pricing Information",
+        "description": "Transparent pricing helps buyers understand actual market values."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Deep understanding of Sector 37 Faridabad residential trends."
+      },
+      {
+        "title": "User-Friendly Platform",
+        "description": "Easy navigation and filtering for quick property search."
+      },
+      {
+        "title": "Buyer-Centric Approach",
+        "description": "Listings designed around genuine buyer needs."
+      },
+      {
+        "title": "Basic Legal Guidance",
+        "description": "Support to help buyers understand property documentation."
+      },
+      {
+        "title": "Complete Search Assistance",
+        "description": "Help available from property discovery to final selection."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Strong reputation built through consistent user satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Sector 37 Residential Properties",
+    "description": "Common buyer queries related to Residential Property in Sector 37 Faridabad.",
+    "faqs": [
+      {
+        "question": "Is Sector 37 Faridabad a good place to buy residential property?",
+        "answer": "Yes, Sector 37 is a well-connected and developed residential area suitable for family living and long-term investment."
+      },
+      {
+        "question": "What property types are available in Sector 37?",
+        "answer": "Independent houses and residential plots of multiple sizes are commonly available."
+      },
+      {
+        "question": "Is Sector 37 suitable for families?",
+        "answer": "Yes, the locality offers a peaceful environment with access to schools, hospitals, and markets."
+      },
+      {
+        "question": "Can I construct my own house in Sector 37?",
+        "answer": "Yes, construction is permitted as per local building norms and approvals."
+      },
+      {
+        "question": "Are home loans available for Sector 37 properties?",
+        "answer": "Most residential properties are eligible for bank-approved home loans."
+      },
+      {
+        "question": "Is Sector 37 good for property investment?",
+        "answer": "Yes, stable demand and location advantages make it a reliable investment option."
+      },
+      {
+        "question": "How is road connectivity from Sector 37?",
+        "answer": "Sector 37 has good connectivity to major roads and other parts of Faridabad."
+      },
+      {
+        "question": "Are daily amenities nearby?",
+        "answer": "Yes, essential amenities are easily accessible from the locality."
+      },
+      {
+        "question": "Why choose Deal Acres?",
+        "answer": "Deal Acres offers verified listings, transparent details, and buyer-focused service."
+      },
+      {
+        "question": "How can I get property assistance?",
+        "answer": "You can connect through the contact form to get expert guidance."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Connect with Experts to Buy Residential Property in Sector 37 Faridabad",
+    "description": [
+      "Buying Residential Property in Sector 37 Faridabad becomes easier with expert guidance. Professional assistance helps you compare options, understand pricing, and complete the buying process smoothly.",
+      "Share your details to connect with experienced property advisors for personalized support."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

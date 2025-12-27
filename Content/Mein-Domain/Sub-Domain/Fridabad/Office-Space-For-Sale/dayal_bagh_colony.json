@@ -1,0 +1,147 @@
+{
+  "domain": "Office space for sale.com",
+  "hero": {
+    "title": "Premium Office Space for Sale in Dayal Bagh Colony Faridabad",
+    "description": [
+      "Dayal Bagh Colony Faridabad is a well-established locality offering a calm yet strategically connected environment for commercial activities. Businesses looking for office space for sale in Dayal Bagh Colony Faridabad benefit from smooth road connectivity, nearby residential catchments, and easy access to key commercial zones of the city.",
+      "The area supports multiple office plot sizes, making it suitable for startups, professional firms, and growing enterprises. With stable infrastructure, organized surroundings, and increasing commercial interest, Dayal Bagh Colony presents a reliable option for businesses seeking long-term operational stability."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces in Dayal Bagh Colony",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Commercial Guidance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Office Plot Size Options Available in Dayal Bagh Colony Faridabad",
+    "description": [
+      "Choosing the right plot size plays a crucial role when investing in office space for sale in Dayal Bagh Colony Faridabad. Different plot dimensions allow businesses to plan office layouts, workforce seating, parking, and future scalability with ease.",
+      "Dayal Bagh Colony offers flexible office plot options that suit a wide range of business models and investment goals."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Plots in Dayal Bagh Colony Faridabad",
+        "description": "4 Marla office plots are ideal for startups, consultants, and small professional offices. These plots offer affordability and efficient space utilization. A 4 Marla office space for sale in Dayal Bagh Colony Faridabad is suitable for compact commercial operations."
+      },
+      {
+        "title": "6 Marla Office Plots in Dayal Bagh Colony Faridabad",
+        "description": "6 Marla office plots provide balanced layouts with space for cabins, meeting rooms, and reception areas. A 6 Marla office space for sale in Dayal Bagh Colony Faridabad supports growing teams."
+      },
+      {
+        "title": "8 Marla Office Plots in Dayal Bagh Colony Faridabad",
+        "description": "8 Marla office plots allow better internal circulation and comfortable workspace planning. An 8 Marla office space for sale in Dayal Bagh Colony Faridabad is ideal for expanding businesses."
+      },
+      {
+        "title": "10 Marla Office Plots in Dayal Bagh Colony Faridabad",
+        "description": "10 Marla office plots suit established firms seeking premium office layouts and long-term usage. A 10 Marla office space for sale in Dayal Bagh Colony Faridabad offers branding flexibility."
+      },
+      {
+        "title": "12 Marla Office Plots in Dayal Bagh Colony Faridabad",
+        "description": "12 Marla office plots support larger teams and structured departments. A 12 Marla office space for sale in Dayal Bagh Colony Faridabad enables efficient commercial planning."
+      },
+      {
+        "title": "14 Marla Office Plots in Dayal Bagh Colony Faridabad",
+        "description": "14 Marla office plots provide maximum development potential for corporate offices and multi-floor buildings. A 14 Marla office space for sale in Dayal Bagh Colony Faridabad ensures scalability."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Commercial Property Options Near Dayal Bagh Colony Faridabad",
+    "description": [
+      "Buyers searching for office space for sale in Dayal Bagh Colony Faridabad often explore nearby commercial locations to evaluate connectivity, pricing, and business suitability.",
+      "Faridabad offers multiple commercial hubs that cater to different business needs and investment preferences."
+    ],
+    "locations": [
+      { "title": "Office Space For Sale", "path": "/", "icon": "BriefcaseBusiness" },
+      { "title": "Office Space For Rent", "path": "/", "icon": "Key" },
+      { "title": "Commercial Property For Sale", "path": "/", "icon": "Building2" },
+      { "title": "Commercial Property For Rent", "path": "/", "icon": "Building" },
+      { "title": "Shop For Sale", "path": "/", "icon": "Store" },
+      { "title": "Shop For Rent", "path": "/", "icon": "Store" },
+      { "title": "Industrial Property For Sale", "path": "/", "icon": "Landmark" },
+      { "title": "Warehouse For Sale", "path": "/", "icon": "Warehouse" },
+      { "title": "To-Let Commercial Services", "path": "/", "icon": "Handshake" },
+      { "title": "Business Space in Faridabad", "path": "/", "icon": "Briefcase" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is Trusted for Office Space in Dayal Bagh Colony",
+    "description": [
+      "Investing in office space for sale in Dayal Bagh Colony Faridabad requires verified information and professional guidance. Deal Acres ensures transparency and accuracy in every listing.",
+      "With a customer-first approach and strong market understanding, Deal Acres remains a preferred platform for commercial buyers."
+    ],
+    "points": [
+      { "title": "Verified Property Listings", "description": "All office listings are thoroughly checked for authenticity." },
+      { "title": "Transparent Pricing Details", "description": "Clear pricing enables confident purchase decisions." },
+      { "title": "Local Commercial Expertise", "description": "In-depth knowledge of Faridabad commercial zones." },
+      { "title": "User-Friendly Platform", "description": "Smooth navigation for easy property discovery." },
+      { "title": "Buyer-Focused Services", "description": "Solutions aligned with business requirements." },
+      { "title": "Basic Legal Awareness", "description": "Guidance related to documentation and approvals." },
+      { "title": "End-to-End Support", "description": "Assistance from search to final selection." },
+      { "title": "Trusted by Investors", "description": "Preferred choice among commercial buyers." }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions",
+    "description": "Detailed answers to common questions about buying office space in Dayal Bagh Colony Faridabad.",
+    "faqs": [
+      {
+        "question": "Is Dayal Bagh Colony suitable for office investment?",
+        "answer": "Yes, Dayal Bagh Colony offers a stable environment, good connectivity, and long-term commercial potential."
+      },
+      {
+        "question": "What office plot sizes are available here?",
+        "answer": "Plot sizes typically range from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Is this area suitable for startups?",
+        "answer": "Yes, smaller plot sizes make it suitable for startups and small businesses."
+      },
+      {
+        "question": "Can office spaces be customized?",
+        "answer": "Most office spaces allow customization as per local building regulations."
+      },
+      {
+        "question": "Is parking available with office plots?",
+        "answer": "Parking depends on plot size and approved building plans."
+      },
+      {
+        "question": "Is the area good for long-term growth?",
+        "answer": "Yes, steady demand and infrastructure support long-term value."
+      },
+      {
+        "question": "Does Deal Acres verify listings?",
+        "answer": "Yes, all listings are verified before being published."
+      },
+      {
+        "question": "Are commercial loans available?",
+        "answer": "Loans depend on bank policies and buyer eligibility."
+      },
+      {
+        "question": "What impacts office prices here?",
+        "answer": "Location, plot size, connectivity, and demand affect pricing."
+      },
+      {
+        "question": "How can I connect with Deal Acres?",
+        "answer": "You can submit your contact details through the enquiry form."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Professional Help to Buy Office Space in Dayal Bagh Colony",
+    "description": [
+      "Buying office space for sale in Dayal Bagh Colony Faridabad requires careful planning and expert advice. Professional assistance ensures informed and secure decisions.",
+      "Share your details to connect with experienced commercial property advisors for personalized support."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

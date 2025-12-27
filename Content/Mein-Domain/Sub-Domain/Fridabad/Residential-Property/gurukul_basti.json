@@ -1,0 +1,180 @@
+{
+  "domain": "ResidentialProperty.com",
+
+  "hero": {
+    "title": "Peaceful Residential Living with Daily Convenience in Gurukul Basti",
+    "description": [
+      "Gurukul Basti in Faridabad is a developing residential pocket known for its calm surroundings, close-knit community, and easy access to daily necessities. Homebuyers looking for Residential Property in Gurukul Basti Faridabad often prefer this area for its affordability and comfortable living environment, making it suitable for families as well as working professionals.",
+      "The locality mainly offers independent houses and residential plots in different sizes, allowing buyers to plan homes as per their needs. With improving infrastructure, nearby markets, schools, and smooth connectivity to key Faridabad areas, Gurukul Basti is gradually emerging as a practical choice for long-term residential living."
+    ],
+    "buttons": [
+      {
+        "label": "View Properties in Gurukul Basti",
+        "path": "/"
+      },
+      {
+        "label": "Talk to Property Expert",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964372617-15780178eb2e?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in Gurukul Basti Faridabad",
+    "description": [
+      "When planning to buy Residential Property in Gurukul Basti Faridabad, understanding available plot sizes helps in choosing the right option. The area offers multiple plot dimensions suitable for budget homes as well as spacious independent houses.",
+      "These plot options provide flexibility to buyers who wish to construct homes based on family size, lifestyle needs, and future expansion plans."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Residential Plots in Gurukul Basti",
+        "description": "4 Marla plots are ideal for small families or buyers seeking budget-friendly residential options with manageable construction and maintenance."
+      },
+      {
+        "title": "6 Marla Residential Plots in Gurukul Basti",
+        "description": "6 Marla plots offer better room planning possibilities while maintaining affordability for mid-sized families."
+      },
+      {
+        "title": "8 Marla Residential Plots in Gurukul Basti",
+        "description": "8 Marla plots provide enhanced living space, allowing better ventilation, parking, and flexible house designs."
+      },
+      {
+        "title": "10 Marla Residential Plots in Gurukul Basti",
+        "description": "10 Marla plots support spacious independent homes with improved privacy and modern layout planning."
+      },
+      {
+        "title": "12 Marla Residential Plots in Gurukul Basti",
+        "description": "12 Marla plots are suitable for buyers planning premium homes with open areas and comfortable interiors."
+      },
+      {
+        "title": "14 Marla Residential Plots in Gurukul Basti",
+        "description": "14 Marla plots offer maximum flexibility for luxury home construction and long-term value appreciation."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Residential Properties in Nearby Faridabad Locations",
+    "description": [
+      "Buyers searching for Residential Property in Gurukul Basti Faridabad often explore nearby localities to compare prices, connectivity, and neighborhood development. Faridabad offers multiple residential areas catering to diverse preferences.",
+      "Exploring nearby locations helps buyers make informed decisions and choose the most suitable residential environment."
+    ],
+    "locations": [
+      { "title": "Residential Property in Sector 11 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Residential Property in Sector 12 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Residential Property in Jawahar Colony Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in NIT Faridabad", "path": "/", "icon": "Building2" },
+      { "title": "Residential Property in Sector 15 Faridabad", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Property in Sector 21 Faridabad", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Property in Old Faridabad", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Property in Central Faridabad", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Deal Acres is Trusted for Gurukul Basti Property Searches",
+    "description": [
+      "Finding the right Residential Property in Gurukul Basti Faridabad requires accurate data and reliable listings. Deal Acres focuses on providing verified property information to ensure transparency and buyer confidence.",
+      "With local market understanding and a customer-first approach, Deal Acres continues to help buyers make informed real estate decisions."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All properties are checked for authenticity and correct details."
+      },
+      {
+        "title": "Transparent Pricing Insights",
+        "description": "Clear pricing information helps buyers plan budgets effectively."
+      },
+      {
+        "title": "Local Area Expertise",
+        "description": "In-depth knowledge of Gurukul Basti and nearby sectors."
+      },
+      {
+        "title": "Easy Property Discovery",
+        "description": "Simple navigation for smooth browsing experience."
+      },
+      {
+        "title": "Buyer-Centric Approach",
+        "description": "Listings designed to match real buyer requirements."
+      },
+      {
+        "title": "Basic Legal Guidance",
+        "description": "Support for understanding ownership and documentation."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Guidance available throughout the buying process."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Consistent positive experiences build long-term trust."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Gurukul Basti Residential Properties",
+    "description": "Important queries related to Residential Property in Gurukul Basti Faridabad answered for buyer clarity.",
+    "faqs": [
+      {
+        "question": "Is Gurukul Basti a good residential area in Faridabad?",
+        "answer": "Yes, Gurukul Basti offers a peaceful living environment with access to daily amenities, making it suitable for families."
+      },
+      {
+        "question": "What types of properties are available in Gurukul Basti?",
+        "answer": "Independent houses and residential plots in various sizes are commonly available."
+      },
+      {
+        "question": "Is Gurukul Basti suitable for budget homebuyers?",
+        "answer": "Yes, compared to prime sectors, Gurukul Basti offers more affordable residential options."
+      },
+      {
+        "question": "Can I build my own house in Gurukul Basti?",
+        "answer": "Yes, buyers can construct homes as per local authority guidelines."
+      },
+      {
+        "question": "Are home loans available for properties here?",
+        "answer": "Most properties are eligible for bank home loans subject to documentation."
+      },
+      {
+        "question": "How is connectivity from Gurukul Basti?",
+        "answer": "The area is well-connected to NIT and other parts of Faridabad via road networks."
+      },
+      {
+        "question": "Are schools and hospitals nearby?",
+        "answer": "Yes, schools, clinics, and hospitals are located within accessible distance."
+      },
+      {
+        "question": "What plot sizes are commonly available?",
+        "answer": "Plot sizes usually range from 4 Marla to 14 Marla."
+      },
+      {
+        "question": "Why should I use Deal Acres?",
+        "answer": "Deal Acres provides verified listings, local insights, and buyer-focused support."
+      },
+      {
+        "question": "How can I contact property experts?",
+        "answer": "You can fill the enquiry form to connect with experienced property advisors."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Residential Property in Gurukul Basti Faridabad",
+    "description": [
+      "Buying Residential Property in Gurukul Basti Faridabad becomes easier with expert assistance. Professional guidance helps you compare options, understand pricing, and complete the purchase confidently.",
+      "Submit your details to connect with trusted local property experts today."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

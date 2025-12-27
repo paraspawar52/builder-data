@@ -1,0 +1,191 @@
+{
+  "domain": "Office space for sale.com",
+  "hero": {
+    "title": "Well Planned and Connected Office Space for Sale in Sector 11",
+    "description": [
+      "Sector 11 Faridabad is a well-established locality that offers a balanced environment for commercial and professional office setups. Known for its planned infrastructure and proximity to residential areas, the sector attracts small businesses, service providers, and growing enterprises. Buyers looking for office space for sale in Sector 11 Faridabad prefer this area due to its practical location advantages, smooth accessibility, and reliable civic amenities.",
+      "The sector is well connected to major roads and nearby commercial hubs, making daily commuting convenient for employees and clients. Availability of banks, local markets, eateries, and essential services supports efficient business operations. Investing in office space here ensures functional usability, steady local demand, and long-term commercial stability in Faridabad."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Space in Sector 11",
+        "path": "/"
+      },
+      {
+        "label": "Get Commercial Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Office Plot Size Options Available in Sector 11 Faridabad",
+    "description": [
+      "Choosing the right plot size is an important step when planning to buy office space for sale in Sector 11 Faridabad. The locality offers multiple plot dimensions that cater to startups, service-based offices, and established businesses. Each plot size supports different construction possibilities and operational needs.",
+      "From compact office units to spacious commercial buildings, Sector 11 provides flexibility for various budgets and future expansion plans. Understanding these plot size options helps buyers make informed and confident commercial property decisions."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Plots in Sector 11 Faridabad",
+        "description": "4 Marla office plots are ideal for startups, consultants, and small professional offices. These plots allow compact office construction with efficient layouts and low maintenance costs. A 4 Marla office space for sale in Sector 11 Faridabad is suitable for businesses seeking affordability and local accessibility."
+      },
+      {
+        "title": "6 Marla Office Plots in Sector 11 Faridabad",
+        "description": "6 Marla office plots offer a balanced mix of space and cost. These plots support better internal planning with cabins and small meeting rooms. Buyers opting for a 6 Marla office space for sale in Sector 11 Faridabad often look for functional offices with moderate growth potential."
+      },
+      {
+        "title": "8 Marla Office Plots in Sector 11 Faridabad",
+        "description": "8 Marla office plots provide additional flexibility for medium-sized businesses. These spaces allow improved layouts, ventilation, and employee comfort. An 8 Marla office space for sale in Sector 11 Faridabad suits businesses planning steady expansion."
+      },
+      {
+        "title": "10 Marla Office Plots in Sector 11 Faridabad",
+        "description": "10 Marla office plots are suitable for larger office setups with reception areas and parking facilities. These offices offer a more professional presence. A 10 Marla office space for sale in Sector 11 Faridabad is often chosen for long-term establishment."
+      },
+      {
+        "title": "12 Marla Office Plots in Sector 11 Faridabad",
+        "description": "12 Marla office plots support spacious office buildings with enhanced operational flexibility. These properties are suitable for corporate offices and service centers. A 12 Marla office space for sale in Sector 11 Faridabad offers strong commercial value."
+      },
+      {
+        "title": "14 Marla Office Plots in Sector 11 Faridabad",
+        "description": "14 Marla office plots represent premium commercial opportunities. These plots allow construction of large office buildings with advanced infrastructure. A 14 Marla office space for sale in Sector 11 Faridabad is ideal for established businesses seeking scalability."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Office Space Locations Around Sector 11 Faridabad",
+    "description": [
+      "While Sector 11 offers strong commercial advantages, buyers often explore nearby sectors to compare pricing, connectivity, and business potential. Faridabad has several established and developing commercial areas catering to different office requirements.",
+      "Exploring nearby locations helps businesses evaluate options based on daily operations, workforce convenience, and long-term growth prospects."
+    ],
+    "locations": [
+      {
+        "title": "Office Space for Sale in Sector 11 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Sale in Sector 110",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Office Space for Sale in Sector 10 Faridabad",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Office Space for Sale in Sector 12 Faridabad",
+        "path": "/",
+        "icon": "Briefcase"
+      },
+      {
+        "title": "Office Space for Sale in New Industrial Township",
+        "path": "/",
+        "icon": "Landmark"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Businesses Trust Deal Acres for Sector 11 Office Spaces",
+    "description": [
+      "Finding the right office space for sale in Sector 11 Faridabad requires accurate information and a reliable property platform. Deal Acres focuses on verified commercial listings and transparent insights to help buyers avoid confusion.",
+      "With strong local market expertise and a buyer-first approach, Deal Acres supports confident and informed commercial property decisions."
+    ],
+    "points": [
+      {
+        "title": "Verified Office Listings",
+        "description": "All office listings are checked for authenticity and accuracy."
+      },
+      {
+        "title": "Transparent Pricing Insights",
+        "description": "Clear pricing helps buyers understand real market value."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Deep knowledge of Faridabad commercial localities."
+      },
+      {
+        "title": "User-Friendly Platform",
+        "description": "Easy navigation for smooth property discovery."
+      },
+      {
+        "title": "Business-Focused Listings",
+        "description": "Properties aligned with actual business requirements."
+      },
+      {
+        "title": "Basic Legal Guidance",
+        "description": "Helps buyers understand documentation and compliance."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Assistance available throughout the buying journey."
+      },
+      {
+        "title": "Trusted by Businesses",
+        "description": "Consistent positive feedback builds long-term trust."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions",
+    "description": "Find detailed answers to common questions about buying office space in Sector 11 Faridabad.",
+    "faqs": [
+      {
+        "question": "Is Sector 11 Faridabad suitable for office investment?",
+        "answer": "Yes, Sector 11 is a well-established area with steady commercial demand, making it suitable for long-term office investment."
+      },
+      {
+        "question": "What types of office spaces are available in Sector 11?",
+        "answer": "Office plots and constructed offices ranging from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Sector 11 well connected to other parts of Faridabad?",
+        "answer": "Yes, the sector has good road connectivity and access to public transport."
+      },
+      {
+        "question": "Is this area suitable for startups?",
+        "answer": "Yes, affordable plot sizes and local business demand make it suitable for startups."
+      },
+      {
+        "question": "Are parking facilities available?",
+        "answer": "Parking availability depends on plot size and building design."
+      },
+      {
+        "question": "Can I construct my own office building?",
+        "answer": "Yes, construction is allowed as per approved commercial norms."
+      },
+      {
+        "question": "Is rental demand good in Sector 11?",
+        "answer": "Yes, offices here attract consistent rental demand."
+      },
+      {
+        "question": "Are daily amenities nearby?",
+        "answer": "Yes, banks, markets, eateries, and service centers are easily accessible."
+      },
+      {
+        "question": "How does Deal Acres help buyers?",
+        "answer": "Deal Acres provides verified listings, pricing clarity, and buyer support."
+      },
+      {
+        "question": "How can I get expert assistance?",
+        "answer": "You can connect with commercial property experts through the contact section."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help to Buy Office Space in Sector 11 Faridabad",
+    "description": [
+      "Buying office space for sale in Sector 11 Faridabad is a strategic business decision, and expert guidance can simplify the process. Professional assistance helps you compare options, understand pricing trends, and proceed confidently.",
+      "Share your details to connect with experienced commercial property advisors who can help you find the right office space based on your business needs, budget, and future plans."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "domain": "Office space for sale.com",
+  "hero": {
+    "title": "Strategically Located Office Space for Sale in Sector 8 Faridabad",
+    "description": [
+      "Sector 8 Faridabad is a well-established locality known for its balanced mix of commercial activity and surrounding residential areas. Businesses looking for office space for sale in Sector 8 Faridabad benefit from smooth internal roads, proximity to major city sectors, and daily convenience for employees and clients. The area supports professional office use with a calm yet active business environment.",
+      "With increasing demand for organized workspaces, Sector 8 has become a practical choice for small enterprises, service-based companies, and growing firms. Investing in office space in Sector 8 Faridabad offers long-term commercial stability, operational ease, and reliable appreciation potential."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Space in Sector 8",
+        "path": "/"
+      },
+      {
+        "label": "Get Commercial Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Office Plot Size Options Available in Sector 8 Faridabad",
+    "description": [
+      "Choosing the right plot size is an important decision when buying office space for sale in Sector 8 Faridabad. Different plot dimensions help businesses plan their office layout, staff seating, cabins, and meeting areas efficiently.",
+      "Sector 8 offers a variety of office plot sizes suitable for startups, mid-sized firms, and established companies planning long-term operations."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Plots in Sector 8",
+        "description": "4 Marla office plots are suitable for startups and small professional offices. A 4 Marla office space for sale in Sector 8 Faridabad offers affordability with functional workspace planning."
+      },
+      {
+        "title": "6 Marla Office Plots in Sector 8",
+        "description": "6 Marla office plots provide enough space for reception areas, cabins, and small teams. A 6 Marla office space for sale in Sector 8 Faridabad suits growing businesses."
+      },
+      {
+        "title": "8 Marla Office Plots in Sector 8",
+        "description": "8 Marla office plots support better interior flexibility and team comfort. An 8 Marla office space for sale in Sector 8 Faridabad works well for mid-sized organizations."
+      },
+      {
+        "title": "10 Marla Office Plots in Sector 8",
+        "description": "10 Marla office plots are preferred by established businesses needing structured office layouts. A 10 Marla office space for sale in Sector 8 Faridabad allows smooth expansion."
+      },
+      {
+        "title": "12 Marla Office Plots in Sector 8",
+        "description": "12 Marla office plots offer spacious interiors and a strong professional image. A 12 Marla office space for sale in Sector 8 Faridabad supports long-term business growth."
+      },
+      {
+        "title": "14 Marla Office Plots in Sector 8",
+        "description": "14 Marla office plots are ideal for corporate offices and institutional use. A 14 Marla office space for sale in Sector 8 Faridabad is considered a premium commercial option."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Commercial Locations Around Sector 8 Faridabad",
+    "description": [
+      "Buyers searching for office space for sale in Sector 8 Faridabad often explore nearby sectors to compare connectivity, pricing, and future development potential.",
+      "Faridabad offers multiple commercial zones that provide businesses with flexible location choices."
+    ],
+    "locations": [
+      { "title": "Office Space For Sale", "path": "/", "icon": "BriefcaseBusiness" },
+      { "title": "Office Space For Rent", "path": "/", "icon": "Key" },
+      { "title": "Commercial Property For Sale", "path": "/", "icon": "Building2" },
+      { "title": "Commercial Property For Rent", "path": "/", "icon": "Building" },
+      { "title": "Shop For Sale", "path": "/", "icon": "Store" },
+      { "title": "Shop For Rent", "path": "/", "icon": "Store" },
+      { "title": "Industrial Property For Sale", "path": "/", "icon": "Landmark" },
+      { "title": "Warehouse For Sale", "path": "/", "icon": "Warehouse" },
+      { "title": "To-Let Commercial Services", "path": "/", "icon": "Handshake" },
+      { "title": "Business Properties in Faridabad", "path": "/", "icon": "Briefcase" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Businesses Choose Deal Acres for Sector 8 Offices",
+    "description": [
+      "Finding the right office space for sale in Sector 8 Faridabad requires verified information and transparent guidance. Deal Acres ensures buyers receive accurate property data.",
+      "With strong local market understanding, Deal Acres helps businesses make confident and informed commercial property decisions."
+    ],
+    "points": [
+      { "title": "Verified Office Listings", "description": "All properties are checked for authenticity and accuracy." },
+      { "title": "Transparent Pricing", "description": "Clear pricing without hidden costs." },
+      { "title": "Local Market Knowledge", "description": "Deep understanding of Sector 8 Faridabad." },
+      { "title": "Easy Search Experience", "description": "Simple and user-friendly platform." },
+      { "title": "Buyer-Focused Support", "description": "Guidance based on business needs." },
+      { "title": "Documentation Guidance", "description": "Basic support for property paperwork." },
+      { "title": "End-to-End Assistance", "description": "Support from search to final decision." },
+      { "title": "Trusted Platform", "description": "Preferred by business owners and investors." }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions",
+    "description": "Common questions about office space in Sector 8 Faridabad.",
+    "faqs": [
+      {
+        "question": "Is Sector 8 Faridabad good for office investment?",
+        "answer": "Yes, Sector 8 offers good connectivity, established infrastructure, and stable commercial demand."
+      },
+      {
+        "question": "What office plot sizes are available in Sector 8?",
+        "answer": "Office plots generally range from 4 Marla to 14 Marla depending on availability."
+      },
+      {
+        "question": "Is Sector 8 suitable for startups?",
+        "answer": "Yes, smaller plot options make it suitable for startups and small businesses."
+      },
+      {
+        "question": "Can offices be constructed as per business needs?",
+        "answer": "Yes, offices can be designed as per approved building norms and requirements."
+      },
+      {
+        "question": "Does Sector 8 have good road connectivity?",
+        "answer": "Yes, Sector 8 is well-connected to nearby sectors and main roads."
+      },
+      {
+        "question": "Is parking space available?",
+        "answer": "Parking availability depends on plot size and building design."
+      },
+      {
+        "question": "Are Deal Acres listings reliable?",
+        "answer": "Yes, all listings on Deal Acres are verified before publishing."
+      },
+      {
+        "question": "Can I get loan support for office purchase?",
+        "answer": "Loan eligibility depends on bank policies and buyer profile."
+      },
+      {
+        "question": "What affects office prices in Sector 8?",
+        "answer": "Prices depend on plot size, location, demand, and connectivity."
+      },
+      {
+        "question": "How can I contact property experts?",
+        "answer": "You can fill out the contact form to connect with experts."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Assistance for Office Space in Sector 8 Faridabad",
+    "description": [
+      "Buying office space for sale in Sector 8 Faridabad becomes easier with expert support and verified listings. Professional guidance helps businesses avoid costly mistakes.",
+      "Submit your requirements to connect with experienced commercial property experts today."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

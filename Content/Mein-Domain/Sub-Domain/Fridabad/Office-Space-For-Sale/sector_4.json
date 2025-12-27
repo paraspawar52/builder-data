@@ -1,0 +1,147 @@
+{
+  "domain": "Office space for sale.com",
+  "hero": {
+    "title": "Well Connected Office Space for Sale in Sector 4 Faridabad",
+    "description": [
+      "Sector 4 Faridabad is a centrally located area offering a balanced commercial environment with strong road connectivity and nearby residential support. Businesses searching for office space for sale in Sector 4 Faridabad benefit from easy access to major sectors, local markets, and public transport, making daily operations convenient and efficient.",
+      "The locality supports office developments across multiple plot sizes, catering to startups, professional firms, and established businesses. With stable infrastructure, everyday amenities, and consistent commercial demand, Sector 4 presents a practical option for buyers looking for functional office spaces and long-term value."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces in Sector 4",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Commercial Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Office Plot Size Options Available in Sector 4 Faridabad",
+    "description": [
+      "Choosing the right plot size is an important step when investing in office space for sale in Sector 4 Faridabad. Different plot dimensions support different business requirements, team sizes, and layout preferences. Sector 4 offers flexibility for buyers with varying operational needs and budgets.",
+      "Understanding plot size options helps businesses plan efficient layouts, parking arrangements, and future expansion while ensuring smooth day-to-day operations."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Plots in Sector 4 Faridabad",
+        "description": "4 Marla office plots are ideal for small offices, startups, and consultancy-based businesses. These plots are budget-friendly and easy to manage. A 4 Marla office space for sale in Sector 4 Faridabad suits buyers looking for compact commercial solutions."
+      },
+      {
+        "title": "6 Marla Office Plots in Sector 4 Faridabad",
+        "description": "6 Marla office plots offer a balanced workspace with better planning flexibility. These offices can accommodate cabins, meeting rooms, and reception areas. A 6 Marla office space for sale in Sector 4 Faridabad supports growing businesses."
+      },
+      {
+        "title": "8 Marla Office Plots in Sector 4 Faridabad",
+        "description": "8 Marla office plots provide spacious layouts with improved circulation and parking options. These plots are suitable for expanding teams. An 8 Marla office space for sale in Sector 4 Faridabad supports professional growth."
+      },
+      {
+        "title": "10 Marla Office Plots in Sector 4 Faridabad",
+        "description": "10 Marla office plots are preferred by established firms seeking premium office layouts. These spaces support modern architecture and brand presence. A 10 Marla office space for sale in Sector 4 Faridabad offers long-term value."
+      },
+      {
+        "title": "12 Marla Office Plots in Sector 4 Faridabad",
+        "description": "12 Marla office plots allow larger office setups with structured layouts and parking provisions. These properties suit companies planning long-term operations. A 12 Marla office space for sale in Sector 4 Faridabad is a stable investment option."
+      },
+      {
+        "title": "14 Marla Office Plots in Sector 4 Faridabad",
+        "description": "14 Marla office plots offer expansive commercial development possibilities. These are suitable for corporate offices and multi-level buildings. A 14 Marla office space for sale in Sector 4 Faridabad provides maximum scalability."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Commercial Locations Around Sector 4 Faridabad",
+    "description": [
+      "Buyers considering office space for sale in Sector 4 Faridabad often explore nearby commercial areas to compare pricing, connectivity, and business convenience. Faridabad offers several established and developing commercial localities suitable for different office needs.",
+      "Exploring nearby locations helps businesses and investors make confident decisions based on accessibility, infrastructure, and long-term growth prospects."
+    ],
+    "locations": [
+      { "title": "Office Space For Sale", "path": "/", "icon": "BriefcaseBusiness" },
+      { "title": "Office Space For Rent", "path": "/", "icon": "Key" },
+      { "title": "Commercial Property For Sale", "path": "/", "icon": "Building2" },
+      { "title": "Commercial Property For Rent", "path": "/", "icon": "Building" },
+      { "title": "Shop For Sale", "path": "/", "icon": "Store" },
+      { "title": "Shop For Rent", "path": "/", "icon": "Store" },
+      { "title": "Industrial Property For Sale", "path": "/", "icon": "Landmark" },
+      { "title": "Warehouse For Sale", "path": "/", "icon": "Warehouse" },
+      { "title": "To-Let Commercial Services", "path": "/", "icon": "Handshake" },
+      { "title": "Business Space in Faridabad", "path": "/", "icon": "Briefcase" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Office Space in Sector 4",
+    "description": [
+      "Finding reliable office space for sale in Sector 4 Faridabad requires verified listings and transparent information. Deal Acres focuses on accuracy, clarity, and buyer-focused commercial property discovery.",
+      "With strong local market knowledge and a customer-first approach, Deal Acres has become a trusted platform for office buyers and commercial investors."
+    ],
+    "points": [
+      { "title": "Verified Office Listings", "description": "All office listings are checked for authenticity and accuracy." },
+      { "title": "Transparent Pricing", "description": "Clear pricing helps buyers plan budgets confidently." },
+      { "title": "Local Market Expertise", "description": "In-depth understanding of Faridabad commercial zones." },
+      { "title": "User-Friendly Platform", "description": "Simple navigation for smooth property search." },
+      { "title": "Buyer-Centric Approach", "description": "Focused on real business and investment needs." },
+      { "title": "Basic Legal Awareness", "description": "Guidance related to documentation and compliance." },
+      { "title": "End-to-End Assistance", "description": "Support from search to final decision." },
+      { "title": "Trusted by Businesses", "description": "Preferred platform among office buyers and investors." }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions",
+    "description": "Common questions and detailed answers related to buying office space in Sector 4 Faridabad.",
+    "faqs": [
+      {
+        "question": "Is Sector 4 Faridabad suitable for buying office space?",
+        "answer": "Yes, Sector 4 Faridabad offers good connectivity, established surroundings, and consistent commercial demand, making it suitable for office buyers."
+      },
+      {
+        "question": "What office plot sizes are available in Sector 4?",
+        "answer": "Office plots ranging from 4 Marla to 14 Marla are commonly available depending on availability and approvals."
+      },
+      {
+        "question": "Is Sector 4 suitable for startups?",
+        "answer": "Yes, smaller plot sizes and affordable options make Sector 4 suitable for startups and small offices."
+      },
+      {
+        "question": "Can office layouts be customized?",
+        "answer": "Most office spaces allow customization as per approved building norms."
+      },
+      {
+        "question": "Is parking available in office spaces?",
+        "answer": "Parking availability depends on plot size and approved construction plans."
+      },
+      {
+        "question": "Is Sector 4 good for long-term investment?",
+        "answer": "Yes, stable development and location advantages support long-term commercial value."
+      },
+      {
+        "question": "Does Deal Acres verify office listings?",
+        "answer": "Yes, Deal Acres focuses on verified and reliable commercial property listings."
+      },
+      {
+        "question": "Are commercial loans available?",
+        "answer": "Commercial loans may be available subject to bank eligibility and documentation."
+      },
+      {
+        "question": "What factors affect office prices in Sector 4?",
+        "answer": "Plot size, location, connectivity, and infrastructure influence office pricing."
+      },
+      {
+        "question": "How can I contact Deal Acres?",
+        "answer": "You can submit your details through the contact form to connect with property experts."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help to Buy Office Space in Sector 4 Faridabad",
+    "description": [
+      "Buying office space for sale in Sector 4 Faridabad is an important business decision. Expert guidance helps you compare options, understand pricing, and plan investments confidently.",
+      "Share your details to connect with experienced commercial property advisors for personalized assistance."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

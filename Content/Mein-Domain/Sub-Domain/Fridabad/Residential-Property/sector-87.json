@@ -1,0 +1,151 @@
+{
+  "domain": "ResidentialProperty.com",
+
+  "hero": {
+    "title": "Modern Residential Living Options in Sector 87 Faridabad",
+    "description": [
+      "Sector 87 is one of the well-planned residential locations in Faridabad, known for its organized layout, peaceful environment, and excellent connectivity. The area is increasingly preferred by families and professionals looking for a comfortable lifestyle with easy access to daily amenities. Buyers searching for Residential Property in Sector 87 Faridabad are drawn to its balanced mix of infrastructure, greenery, and livability.",
+      "The locality offers independent houses and residential plots in multiple sizes, making it suitable for both end-users and long-term investors. With smooth connectivity to major roads, schools, hospitals, and commercial zones, Sector 87 supports a convenient urban lifestyle. Choosing a home here means investing in stability, comfort, and future growth within Faridabad."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Properties in Sector 87",
+        "path": "/"
+      },
+      {
+        "label": "Talk to Property Experts",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in Sector 87 Faridabad",
+    "description": [
+      "When planning to buy Residential Property in Sector 87 Faridabad, understanding available plot sizes plays a key role in decision-making. Sector 87 offers multiple residential plot options that cater to different budgets, family needs, and construction preferences.",
+      "From compact plots for easy maintenance to larger plots for spacious homes, these options give buyers flexibility and long-term usability."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Residential Plots in Sector 87",
+        "description": "4 Marla plots are ideal for small families or first-time buyers looking for affordable and manageable residential options in Sector 87."
+      },
+      {
+        "title": "6 Marla Residential Plots in Sector 87",
+        "description": "6 Marla plots offer a practical balance between cost and comfort, suitable for families seeking functional home layouts."
+      },
+      {
+        "title": "8 Marla Residential Plots in Sector 87",
+        "description": "8 Marla plots allow better interior planning, ventilation, and open space, making them ideal for long-term residential use."
+      },
+      {
+        "title": "10 Marla Residential Plots in Sector 87",
+        "description": "10 Marla plots support modern home designs with ample living space, parking, and lifestyle comfort."
+      },
+      {
+        "title": "12 Marla Residential Plots in Sector 87",
+        "description": "12 Marla plots are suitable for buyers looking for privacy, customization, and premium residential living."
+      },
+      {
+        "title": "14 Marla Residential Plots in Sector 87",
+        "description": "14 Marla plots represent premium residential opportunities with strong appreciation potential and spacious layouts."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Nearby Residential Locations Around Sector 87 Faridabad",
+    "description": [
+      "Buyers interested in Residential Property in Sector 87 Faridabad often compare nearby localities to understand pricing trends, accessibility, and lifestyle advantages.",
+      "Exploring surrounding residential areas helps buyers make informed and confident property decisions."
+    ],
+    "locations": [
+      { "title": "Residential Property in Sector 87 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Residential Property in Sector 86 Faridabad", "path": "/", "icon": "Building2" },
+      { "title": "Residential Property in Sector 88 Faridabad", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Property in Sector 85 Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Sector 84 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Residential Property in Greater Neharpar Faridabad", "path": "/", "icon": "Building2" },
+      { "title": "Residential Property in Sector 89 Faridabad", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Property in Sector 83 Faridabad", "path": "/", "icon": "Building" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Sector 87 Properties",
+    "description": [
+      "Finding the right Residential Property in Sector 87 Faridabad requires verified information and a reliable platform. Deal Acres focuses on transparency, accuracy, and user trust.",
+      "With deep local market understanding and a buyer-first approach, Deal Acres simplifies property decisions for homebuyers."
+    ],
+    "points": [
+      { "title": "Verified Property Listings", "description": "Each listing is checked for accuracy and authenticity." },
+      { "title": "Clear Pricing Transparency", "description": "Helps buyers understand actual market pricing." },
+      { "title": "Local Market Knowledge", "description": "Strong understanding of Sector 87 and nearby areas." },
+      { "title": "Easy-to-Use Platform", "description": "Smooth navigation for effortless property exploration." },
+      { "title": "Buyer-Centric Support", "description": "Focused on genuine buyer needs and preferences." },
+      { "title": "Basic Legal Guidance", "description": "Supports confident and informed decision-making." },
+      { "title": "End-to-End Assistance", "description": "Support available throughout the buying journey." },
+      { "title": "Trusted by Buyers", "description": "Consistent service quality builds long-term trust." }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions",
+    "description": "Answers to common queries related to Residential Property in Sector 87 Faridabad.",
+    "faqs": [
+      {
+        "question": "Is Sector 87 a good area for residential living?",
+        "answer": "Yes, Sector 87 offers planned infrastructure, peaceful surroundings, and good connectivity, making it suitable for families."
+      },
+      {
+        "question": "What types of residential properties are available in Sector 87?",
+        "answer": "Independent houses and residential plots in multiple sizes are commonly available."
+      },
+      {
+        "question": "Is Sector 87 suitable for long-term investment?",
+        "answer": "Yes, consistent development and demand make it a stable investment location."
+      },
+      {
+        "question": "Are home loans available for properties in Sector 87?",
+        "answer": "Most properties are eligible for home loans, subject to bank approval."
+      },
+      {
+        "question": "Are schools and hospitals nearby?",
+        "answer": "Yes, reputed schools, hospitals, and daily amenities are easily accessible."
+      },
+      {
+        "question": "How is connectivity from Sector 87?",
+        "answer": "Sector 87 enjoys smooth road connectivity to major parts of Faridabad."
+      },
+      {
+        "question": "Can I build my own house on a plot?",
+        "answer": "Yes, construction is allowed as per approved building guidelines."
+      },
+      {
+        "question": "Is Sector 87 suitable for families?",
+        "answer": "Yes, it offers a safe and family-friendly residential environment."
+      },
+      {
+        "question": "Why should I use Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparent data, and expert guidance."
+      },
+      {
+        "question": "How can I contact property experts?",
+        "answer": "You can submit your details through the contact form to get expert assistance."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Residential Property in Sector 87",
+    "description": [
+      "Buying Residential Property in Sector 87 Faridabad is a significant decision, and expert support can make the process smooth and stress-free.",
+      "Share your details to connect with experienced property professionals who can help you find the right home based on your budget and preferences."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

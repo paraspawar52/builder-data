@@ -1,0 +1,192 @@
+{
+  "domain": "Office space for sale.com",
+
+  "hero": {
+    "title": "Modern Office Space for Sale in Sector 78 Faridabad",
+    "description": [
+      "Sector 78, Faridabad is a well-planned and steadily developing locality in Greater Faridabad, known for its organized infrastructure and improving connectivity. The sector is surrounded by modern residential societies and enjoys smooth access to major roads, making it a suitable choice for businesses seeking functional and future-ready office locations. Buyers looking for office space for sale in Sector 78 Faridabad are attracted by its planned environment, peaceful surroundings, and growing commercial presence.",
+      "With nearby residential sectors, daily convenience facilities, and continuous infrastructure development, Sector 78 offers a comfortable working environment for startups, service firms, and growing enterprises. The area supports long-term business operations with scope for expansion and value appreciation. Investing in office space here ensures operational convenience, employee accessibility, and stable commercial growth."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Commercial Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Office Plot Size Options Available in Sector 78 Faridabad",
+    "description": [
+      "Selecting the right plot size is a key step when planning to buy office space for sale in Sector 78 Faridabad. Different businesses have varying space requirements depending on team size, daily operations, and future expansion plans. Sector 78 offers multiple commercial plot size options suitable for startups, mid-sized firms, and established organizations.",
+      "These plot size options provide flexibility in office layout, interior planning, and efficient space utilization. Understanding the advantages of each plot size helps buyers make informed decisions that align with business objectives and long-term growth strategies."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space in Sector 78 Faridabad",
+        "description": "4 Marla office spaces are ideal for startups, consultants, and small professional firms. These compact units are affordable, easy to maintain, and suitable for businesses seeking a professional address. A 4 Marla office space for sale in Sector 78 Faridabad supports efficient operations with controlled investment."
+      },
+      {
+        "title": "6 Marla Office Space in Sector 78 Faridabad",
+        "description": "6 Marla office spaces provide a balanced workspace with room for cabins, reception, and meeting areas. Businesses planning steady growth often prefer a 6 Marla office space for sale in Sector 78 Faridabad for its practical layout."
+      },
+      {
+        "title": "8 Marla Office Space in Sector 78 Faridabad",
+        "description": "8 Marla office spaces are suitable for mid-sized companies requiring structured departments and collaborative workspaces. An 8 Marla office space for sale in Sector 78 Faridabad supports modern office layouts and long-term operational comfort."
+      },
+      {
+        "title": "10 Marla Office Space in Sector 78 Faridabad",
+        "description": "10 Marla office spaces offer a premium working environment with space for conference rooms, management cabins, and team seating. A 10 Marla office space for sale in Sector 78 Faridabad enhances brand image and productivity."
+      },
+      {
+        "title": "12 Marla Office Space in Sector 78 Faridabad",
+        "description": "12 Marla office spaces are ideal for corporate offices and multi-team organizations. These properties allow better infrastructure planning and scalability. Investing in a 12 Marla office space for sale in Sector 78 Faridabad ensures strong long-term commercial value."
+      },
+      {
+        "title": "14 Marla Office Space in Sector 78 Faridabad",
+        "description": "14 Marla office spaces are designed for large enterprises and headquarters. These spacious units allow customization, expansion, and premium office layouts. A 14 Marla office space for sale in Sector 78 Faridabad is a valuable long-term commercial asset."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Office Space for Sale in Nearby Faridabad Locations",
+    "description": [
+      "While searching for office space for sale in Sector 78 Faridabad, many buyers also explore nearby sectors to compare pricing, connectivity, and commercial viability. Greater Faridabad includes several planned sectors that support business expansion.",
+      "Exploring surrounding locations helps businesses evaluate accessibility, workforce convenience, and future appreciation before finalizing a commercial investment."
+    ],
+    "locations": [
+      {
+        "title": "Office Space for Sale in Sector 78 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Sale in Sector 76 Faridabad",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Office Space for Sale in Sector 79 Faridabad",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Commercial Property for Sale in Faridabad",
+        "path": "/",
+        "icon": "Store"
+      }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Businesses Trust Deal Acres for Office Space in Faridabad",
+    "description": [
+      "Finding the right office space for sale in Sector 78 Faridabad requires accurate information and a reliable property platform. Deal Acres focuses on providing verified listings, transparent market insights, and a smooth browsing experience for commercial buyers.",
+      "With strong local market expertise and a buyer-first approach, Deal Acres helps businesses make confident and informed office space investment decisions."
+    ],
+    "points": [
+      {
+        "title": "Verified Office Listings",
+        "description": "All office spaces listed on Deal Acres are verified for ownership clarity, location accuracy, and authenticity."
+      },
+      {
+        "title": "Transparent Pricing Information",
+        "description": "Clear pricing details help buyers understand real market value without hidden charges."
+      },
+      {
+        "title": "Local Commercial Expertise",
+        "description": "Strong understanding of Faridabad’s commercial property market supports smarter decisions."
+      },
+      {
+        "title": "User-Friendly Platform",
+        "description": "Simple navigation allows easy browsing and comparison of office spaces."
+      },
+      {
+        "title": "Business-Oriented Insights",
+        "description": "Listings focus on operational suitability, accessibility, and scalability."
+      },
+      {
+        "title": "Basic Legal Guidance",
+        "description": "Support is available to help buyers understand documentation and compliance processes."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Deal Acres supports buyers throughout the commercial property buying journey."
+      },
+      {
+        "title": "Trusted by Commercial Buyers",
+        "description": "Positive feedback from businesses reflects long-term trust and credibility."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions",
+    "description": "Detailed answers to common questions about buying office space in Sector 78 Faridabad.",
+    "faqs": [
+      {
+        "question": "Is Sector 78 Faridabad a good location for office space?",
+        "answer": "Yes, Sector 78 is a planned and developing area in Greater Faridabad with rising commercial demand."
+      },
+      {
+        "question": "What types of office spaces are available in Sector 78?",
+        "answer": "Office spaces are available in multiple plot sizes ranging from 4 Marla to 14 Marla."
+      },
+      {
+        "question": "Is buying office space in Sector 78 a good investment?",
+        "answer": "Yes, continuous development and future growth prospects make Sector 78 a promising commercial investment."
+      },
+      {
+        "question": "Are small office spaces suitable for startups?",
+        "answer": "Yes, 4 Marla and 6 Marla office spaces are ideal for startups and small professional firms."
+      },
+      {
+        "question": "Are commercial loans available for office spaces?",
+        "answer": "Most banks and financial institutions provide loans for commercial properties, subject to eligibility."
+      },
+      {
+        "question": "What amenities are available near Sector 78?",
+        "answer": "Nearby residential societies, markets, banks, schools, and healthcare facilities are easily accessible."
+      },
+      {
+        "question": "How does Deal Acres verify office listings?",
+        "answer": "Listings are verified for ownership, location accuracy, and market relevance before publishing."
+      },
+      {
+        "question": "Can office interiors be customized?",
+        "answer": "Yes, most office spaces allow customization based on business requirements."
+      },
+      {
+        "question": "What factors affect office space prices in Sector 78?",
+        "answer": "Plot size, infrastructure development, location advantage, and market demand influence pricing."
+      },
+      {
+        "question": "How can I get expert help to buy office space?",
+        "answer": "You can use the contact form to connect with experienced commercial property advisors."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for Office Space in Sector 78 Faridabad",
+    "description": [
+      "Buying office space for sale in Sector 78 Faridabad is a strategic business decision that benefits from expert guidance. Professional assistance helps you compare options, understand pricing, and evaluate long-term suitability.",
+      "Share your details to connect with trusted commercial property experts who can guide you through every step of the buying process."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

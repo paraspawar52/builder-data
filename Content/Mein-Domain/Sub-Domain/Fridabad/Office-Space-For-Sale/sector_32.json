@@ -1,0 +1,147 @@
+{
+  "domain": "Office space for sale.com",
+  "hero": {
+    "title": "Well Planned Office Space for Sale in Sector 32 Faridabad",
+    "description": [
+      "Sector 32 Faridabad is an established and strategically located area that supports a mix of commercial and institutional developments. Businesses looking for office space for sale in Sector 32 Faridabad benefit from smooth road connectivity, proximity to major industrial belts, and easy access to surrounding residential sectors. The locality offers a professional environment suitable for daily office operations.",
+      "With growing demand for organized workspaces, Sector 32 has emerged as a reliable destination for startups, service-based firms, and corporate offices. Investing in office space in Sector 32 Faridabad ensures operational convenience, steady business footfall, and long-term commercial value."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Space in Sector 32",
+        "path": "/"
+      },
+      {
+        "label": "Get Commercial Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Office Plot Size Options Available in Sector 32 Faridabad",
+    "description": [
+      "Understanding plot size options is an important step when buying office space for sale in Sector 32 Faridabad. Different plot dimensions allow businesses to plan efficient office layouts, meeting areas, and employee seating as per their operational needs.",
+      "Sector 32 offers flexible office plot sizes that cater to small offices, growing enterprises, and established businesses seeking long-term stability."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Plots in Sector 32",
+        "description": "4 Marla office plots are ideal for startups and small professional offices. A 4 Marla office space for sale in Sector 32 Faridabad offers affordability with functional workspace planning."
+      },
+      {
+        "title": "6 Marla Office Plots in Sector 32",
+        "description": "6 Marla office plots provide balanced space for reception, cabins, and small teams. A 6 Marla office space for sale in Sector 32 Faridabad suits growing businesses."
+      },
+      {
+        "title": "8 Marla Office Plots in Sector 32",
+        "description": "8 Marla office plots support better layout flexibility and staff comfort. An 8 Marla office space for sale in Sector 32 Faridabad is suitable for mid-sized firms."
+      },
+      {
+        "title": "10 Marla Office Plots in Sector 32",
+        "description": "10 Marla office plots are preferred by established companies needing structured departments. A 10 Marla office space for sale in Sector 32 Faridabad allows future expansion."
+      },
+      {
+        "title": "12 Marla Office Plots in Sector 32",
+        "description": "12 Marla office plots offer spacious interiors and professional appeal. A 12 Marla office space for sale in Sector 32 Faridabad supports long-term business planning."
+      },
+      {
+        "title": "14 Marla Office Plots in Sector 32",
+        "description": "14 Marla office plots are ideal for corporate offices and institutions. A 14 Marla office space for sale in Sector 32 Faridabad is considered a premium commercial investment."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Commercial Locations Around Sector 32 Faridabad",
+    "description": [
+      "While searching for office space for sale in Sector 32 Faridabad, buyers often explore nearby sectors to compare pricing, accessibility, and future growth prospects.",
+      "Faridabad offers multiple commercial-friendly localities that help businesses choose locations aligned with their operational goals."
+    ],
+    "locations": [
+      { "title": "Office Space For Sale", "path": "/", "icon": "BriefcaseBusiness" },
+      { "title": "Office Space For Rent", "path": "/", "icon": "Key" },
+      { "title": "Commercial Property For Sale", "path": "/", "icon": "Building2" },
+      { "title": "Commercial Property For Rent", "path": "/", "icon": "Building" },
+      { "title": "Shop For Sale", "path": "/", "icon": "Store" },
+      { "title": "Shop For Rent", "path": "/", "icon": "Store" },
+      { "title": "Industrial Property For Sale", "path": "/", "icon": "Landmark" },
+      { "title": "Warehouse For Sale", "path": "/", "icon": "Warehouse" },
+      { "title": "To-Let Commercial Services", "path": "/", "icon": "Handshake" },
+      { "title": "Business Properties in Faridabad", "path": "/", "icon": "Briefcase" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Businesses Trust Deal Acres for Sector 32 Office Spaces",
+    "description": [
+      "Buying office space for sale in Sector 32 Faridabad requires accurate information and trustworthy listings. Deal Acres focuses on verified data to help buyers avoid confusion and delays.",
+      "With a strong understanding of Faridabad’s commercial market, Deal Acres delivers transparency, reliability, and buyer-focused support."
+    ],
+    "points": [
+      { "title": "Verified Office Listings", "description": "Properties are checked for authenticity and accuracy." },
+      { "title": "Transparent Pricing", "description": "Clear pricing without misleading information." },
+      { "title": "Local Commercial Expertise", "description": "In-depth knowledge of Sector 32 Faridabad." },
+      { "title": "Easy Property Search", "description": "User-friendly platform for smooth navigation." },
+      { "title": "Buyer-Centric Service", "description": "Focus on business requirements and budgets." },
+      { "title": "Basic Legal Guidance", "description": "Support for understanding documentation." },
+      { "title": "End-to-End Assistance", "description": "Help throughout the buying journey." },
+      { "title": "Trusted by Businesses", "description": "Preferred by entrepreneurs and investors." }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions",
+    "description": "Answers to common questions about office space in Sector 32 Faridabad.",
+    "faqs": [
+      {
+        "question": "Is Sector 32 Faridabad suitable for office investment?",
+        "answer": "Yes, Sector 32 is well-connected and supports long-term commercial growth, making it suitable for office investment."
+      },
+      {
+        "question": "What office plot sizes are available in Sector 32?",
+        "answer": "Office plots typically range from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Is Sector 32 good for small businesses?",
+        "answer": "Yes, smaller plot sizes and accessibility make it suitable for startups and small offices."
+      },
+      {
+        "question": "Can offices be constructed as per requirement?",
+        "answer": "Yes, office construction can be customized as per approved building norms."
+      },
+      {
+        "question": "Does Sector 32 have good road connectivity?",
+        "answer": "Yes, the sector is well-connected to major roads and nearby commercial areas."
+      },
+      {
+        "question": "Are parking facilities available?",
+        "answer": "Parking availability depends on plot size and building design."
+      },
+      {
+        "question": "Are Deal Acres listings verified?",
+        "answer": "Yes, Deal Acres ensures all listings are verified before publishing."
+      },
+      {
+        "question": "Can I get loan support for office purchase?",
+        "answer": "Loan availability depends on bank policies and eligibility criteria."
+      },
+      {
+        "question": "What factors influence office prices in Sector 32?",
+        "answer": "Location, plot size, connectivity, and market demand influence pricing."
+      },
+      {
+        "question": "How do I connect with property experts?",
+        "answer": "You can submit your details through the contact form to get expert assistance."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Office Space in Sector 32 Faridabad",
+    "description": [
+      "Buying office space for sale in Sector 32 Faridabad becomes easier with expert guidance and verified property options. Professional support helps businesses make informed decisions.",
+      "Share your requirements to connect with experienced commercial property experts today."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

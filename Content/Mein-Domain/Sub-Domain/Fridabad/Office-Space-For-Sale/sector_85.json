@@ -1,0 +1,192 @@
+{
+  "domain": "Office space for sale.com",
+
+  "hero": {
+    "title": "Growing Office Space for Sale in Sector 85 Faridabad",
+    "description": [
+      "Sector 85, Faridabad is an emerging commercial and residential sector in Greater Faridabad, known for its planned development and improving infrastructure. The sector is strategically located near major connecting roads and surrounded by newly developed residential projects, making it a promising location for business establishments. Buyers looking for office space for sale in Sector 85 Faridabad are drawn to its organized layout, future growth potential, and comparatively peaceful working environment.",
+      "With continuous infrastructure upgrades and increasing interest from businesses, Sector 85 supports startups, service providers, and expanding companies. Nearby residential societies ensure workforce availability, while upcoming commercial developments add long-term value. Investing in office space here offers operational comfort, scalability, and steady appreciation in the Faridabad commercial market."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Commercial Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Office Plot Size Options Available in Sector 85 Faridabad",
+    "description": [
+      "Selecting the right plot size plays an important role when planning to buy office space for sale in Sector 85 Faridabad. Businesses have different space requirements based on team size, daily operations, and future expansion goals. Sector 85 offers a range of commercial plot size options suitable for small firms as well as established enterprises.",
+      "These plot sizes allow flexibility in office layout, interior design, and efficient space utilization. Understanding the benefits of each option helps buyers make informed decisions that align with operational needs and long-term business planning."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space in Sector 85 Faridabad",
+        "description": "4 Marla office spaces are suitable for startups, consultants, and small professional setups. These compact units are cost-effective, easy to manage, and ideal for businesses seeking a formal office presence. A 4 Marla office space for sale in Sector 85 Faridabad supports efficient operations with limited investment."
+      },
+      {
+        "title": "6 Marla Office Space in Sector 85 Faridabad",
+        "description": "6 Marla office spaces provide a balanced work environment with space for cabins, reception, and meeting areas. Businesses planning gradual growth often choose a 6 Marla office space for sale in Sector 85 Faridabad due to its practical layout."
+      },
+      {
+        "title": "8 Marla Office Space in Sector 85 Faridabad",
+        "description": "8 Marla office spaces are ideal for mid-sized companies that require structured departments and collaborative workspaces. An 8 Marla office space for sale in Sector 85 Faridabad supports modern office planning and long-term usability."
+      },
+      {
+        "title": "10 Marla Office Space in Sector 85 Faridabad",
+        "description": "10 Marla office spaces offer a premium working environment with room for conference areas, management cabins, and team seating. A 10 Marla office space for sale in Sector 85 Faridabad enhances productivity and professional image."
+      },
+      {
+        "title": "12 Marla Office Space in Sector 85 Faridabad",
+        "description": "12 Marla office spaces are suitable for corporate offices and multi-team organizations. These properties allow better infrastructure planning and scalability. Investing in a 12 Marla office space for sale in Sector 85 Faridabad ensures long-term commercial value."
+      },
+      {
+        "title": "14 Marla Office Space in Sector 85 Faridabad",
+        "description": "14 Marla office spaces are designed for large enterprises and headquarters. These spacious units allow customization, future expansion, and premium office layouts. A 14 Marla office space for sale in Sector 85 Faridabad is a strong long-term commercial asset."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Office Space for Sale in Nearby Faridabad Locations",
+    "description": [
+      "While searching for office space for sale in Sector 85 Faridabad, many buyers also consider nearby sectors to compare pricing, connectivity, and business suitability. Greater Faridabad includes several developing locations that support commercial growth.",
+      "Exploring surrounding areas helps businesses evaluate accessibility, workforce convenience, and future appreciation before finalizing a commercial investment."
+    ],
+    "locations": [
+      {
+        "title": "Office Space for Sale in Sector 85 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Sale in Sector 84 Faridabad",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Office Space for Sale in Sector 86 Faridabad",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Commercial Property for Sale in Faridabad",
+        "path": "/",
+        "icon": "Store"
+      }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Businesses Trust Deal Acres for Office Space in Faridabad",
+    "description": [
+      "Finding the right office space for sale in Sector 85 Faridabad requires reliable information and a trusted commercial property platform. Deal Acres focuses on offering verified listings, transparent pricing, and relevant market insights for buyers.",
+      "With strong local market knowledge and a buyer-first approach, Deal Acres helps businesses make confident and informed office space investment decisions."
+    ],
+    "points": [
+      {
+        "title": "Verified Office Listings",
+        "description": "All office spaces are verified for ownership clarity, location accuracy, and authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing details help buyers understand actual market value."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth understanding of Faridabad’s commercial property trends."
+      },
+      {
+        "title": "Easy Search Experience",
+        "description": "User-friendly platform allows smooth browsing and comparison."
+      },
+      {
+        "title": "Business-Focused Listings",
+        "description": "Properties are evaluated from an operational and growth perspective."
+      },
+      {
+        "title": "Legal Process Guidance",
+        "description": "Support available for documentation and compliance clarity."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Guidance provided throughout the buying journey."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Positive feedback from commercial buyers builds long-term trust."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions",
+    "description": "Clear and detailed answers to common questions about buying office space in Sector 85 Faridabad.",
+    "faqs": [
+      {
+        "question": "Is Sector 85 Faridabad good for office space?",
+        "answer": "Yes, Sector 85 is a developing area with planned infrastructure and growing commercial demand."
+      },
+      {
+        "question": "What plot sizes are available for office space in Sector 85?",
+        "answer": "Office spaces are available in plot sizes ranging from 4 Marla to 14 Marla."
+      },
+      {
+        "question": "Is Sector 85 suitable for startups?",
+        "answer": "Yes, smaller office spaces are ideal for startups and professional firms."
+      },
+      {
+        "question": "Is buying office space in Sector 85 a good investment?",
+        "answer": "Yes, ongoing development and future growth prospects support long-term appreciation."
+      },
+      {
+        "question": "Are commercial loans available for office spaces?",
+        "answer": "Most banks and financial institutions provide loans for commercial properties, subject to eligibility."
+      },
+      {
+        "question": "What amenities are available nearby?",
+        "answer": "Residential societies, local markets, banks, and healthcare facilities are nearby."
+      },
+      {
+        "question": "How does Deal Acres verify office listings?",
+        "answer": "Each listing is verified for ownership, location accuracy, and market relevance."
+      },
+      {
+        "question": "Can office interiors be customized?",
+        "answer": "Yes, most office spaces allow customization based on business needs."
+      },
+      {
+        "question": "What factors affect office space prices in Sector 85?",
+        "answer": "Plot size, infrastructure development, connectivity, and market demand influence pricing."
+      },
+      {
+        "question": "How can I get expert assistance?",
+        "answer": "You can connect with experts through the contact form for personalized guidance."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for Office Space in Sector 85 Faridabad",
+    "description": [
+      "Buying office space for sale in Sector 85 Faridabad is a strategic business decision that benefits from expert guidance. Professional support helps you evaluate options, understand pricing, and plan long-term operations.",
+      "Share your details to connect with trusted commercial property experts who can assist you through every step of the buying process."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

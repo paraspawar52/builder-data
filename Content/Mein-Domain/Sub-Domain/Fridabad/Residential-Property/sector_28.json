@@ -1,0 +1,151 @@
+{
+  "domain": "ResidentialProperty.com",
+
+  "hero": {
+    "title": "Peaceful Residential Living Options Available in Sector 28 Faridabad",
+    "description": [
+      "Sector 28 Faridabad is a well-developed residential locality known for its calm surroundings and excellent connectivity to major parts of the city. The area is popular among families and working professionals who prefer a balanced lifestyle with easy access to schools, hospitals, and markets. Buyers searching for Residential Property in Sector 28 Faridabad are attracted to its organized infrastructure and stable residential environment.",
+      "The locality offers independent houses and residential plots in multiple sizes, making it suitable for different budgets and housing needs. With smooth road connectivity, proximity to commercial zones, and reliable civic amenities, Sector 28 supports comfortable everyday living. Investing in property here ensures long-term value and a secure residential experience in Faridabad."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Properties in Sector 28",
+        "path": "/"
+      },
+      {
+        "label": "Talk to Property Experts",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Options in Sector 28 Faridabad",
+    "description": [
+      "When planning to buy Residential Property in Sector 28 Faridabad, understanding available plot sizes helps in making the right decision. The locality offers multiple plot dimensions that cater to compact homes as well as spacious independent houses.",
+      "Each plot size allows flexibility in construction and design, helping buyers plan homes based on family size, lifestyle preferences, and long-term requirements."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Residential Plots in Sector 28",
+        "description": "4 Marla plots are ideal for compact homes with lower maintenance requirements. These plots are suitable for small families and first-time buyers seeking affordability in a prime residential location."
+      },
+      {
+        "title": "6 Marla Residential Plots in Sector 28",
+        "description": "6 Marla plots offer a balance of comfort and practicality. They provide sufficient space for well-planned homes with proper ventilation and functional layouts."
+      },
+      {
+        "title": "8 Marla Residential Plots in Sector 28",
+        "description": "8 Marla plots are suitable for families looking for additional space and improved living comfort. These plots support better interior planning and future expansion."
+      },
+      {
+        "title": "10 Marla Residential Plots in Sector 28",
+        "description": "10 Marla plots allow premium home designs with parking and open spaces. They are preferred by buyers focusing on lifestyle upgrade and long-term value."
+      },
+      {
+        "title": "12 Marla Residential Plots in Sector 28",
+        "description": "12 Marla plots offer spacious living with flexibility in architectural planning. These plots are ideal for families seeking privacy and comfort."
+      },
+      {
+        "title": "14 Marla Residential Plots in Sector 28",
+        "description": "14 Marla plots represent premium residential options with expansive space and strong investment potential over time."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Nearby Residential Areas Around Sector 28 Faridabad",
+    "description": [
+      "Buyers interested in Residential Property in Sector 28 Faridabad often explore nearby sectors to compare pricing, connectivity, and lifestyle benefits.",
+      "Exploring surrounding localities helps in understanding the overall residential landscape and choosing the most suitable option."
+    ],
+    "locations": [
+      { "title": "Residential Property in Sector 28 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Residential Property in Sector 21B Faridabad", "path": "/", "icon": "Building2" },
+      { "title": "Residential Property in Sector 21C Faridabad", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Property in Sector 30 Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Sector 31 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Residential Property in Sector 16 Faridabad", "path": "/", "icon": "Building2" },
+      { "title": "Residential Property in Central Faridabad", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Property in Old Faridabad", "path": "/", "icon": "Building" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Prefer Deal Acres for Sector 28 Properties",
+    "description": [
+      "Finding the right Residential Property in Sector 28 Faridabad requires reliable listings and expert local knowledge. Deal Acres focuses on verified properties and clear information to help buyers make confident decisions.",
+      "With a strong understanding of Faridabad’s residential market and a buyer-centric approach, Deal Acres ensures a smooth and transparent property search experience."
+    ],
+    "points": [
+      { "title": "Verified Property Listings", "description": "All listings are checked for accuracy and authenticity." },
+      { "title": "Transparent Pricing", "description": "Clear pricing insights help buyers understand market value." },
+      { "title": "Local Area Expertise", "description": "In-depth knowledge of Sector 28 and nearby localities." },
+      { "title": "Easy-to-Use Platform", "description": "Simple navigation for smooth property browsing." },
+      { "title": "Buyer-Focused Support", "description": "Guidance tailored to real buyer needs." },
+      { "title": "Basic Legal Awareness", "description": "Helps buyers feel secure during transactions." },
+      { "title": "End-to-End Assistance", "description": "Support available from search to final decision." },
+      { "title": "Trusted by Homebuyers", "description": "Positive experiences build long-term trust." }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions",
+    "description": "Common queries related to Residential Property in Sector 28 Faridabad.",
+    "faqs": [
+      {
+        "question": "Is Sector 28 Faridabad good for residential living?",
+        "answer": "Yes, Sector 28 is a peaceful and well-established locality with good connectivity and essential amenities nearby."
+      },
+      {
+        "question": "What property types are available in Sector 28?",
+        "answer": "Independent houses and residential plots in various sizes are commonly available."
+      },
+      {
+        "question": "Is Sector 28 suitable for families?",
+        "answer": "Yes, the area offers a safe environment with access to schools, hospitals, and markets."
+      },
+      {
+        "question": "Can I build my own house in Sector 28?",
+        "answer": "Yes, construction is allowed as per approved building norms and guidelines."
+      },
+      {
+        "question": "Are home loans available for properties in Sector 28?",
+        "answer": "Most properties are eligible for home loans subject to bank approval."
+      },
+      {
+        "question": "Is Sector 28 good for long-term investment?",
+        "answer": "Yes, the locality offers stable demand and long-term residential value."
+      },
+      {
+        "question": "How is connectivity from Sector 28?",
+        "answer": "Sector 28 has good road connectivity to major parts of Faridabad."
+      },
+      {
+        "question": "Are daily amenities easily accessible?",
+        "answer": "Yes, schools, hospitals, banks, and shopping areas are nearby."
+      },
+      {
+        "question": "Why should I use Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparent information, and expert guidance."
+      },
+      {
+        "question": "How can I contact property experts?",
+        "answer": "You can fill the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Assistance for Residential Property in Sector 28",
+    "description": [
+      "Buying Residential Property in Sector 28 Faridabad is an important decision, and expert guidance can simplify the process.",
+      "Share your details to connect with trusted property experts who can help you find the right home or investment opportunity."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

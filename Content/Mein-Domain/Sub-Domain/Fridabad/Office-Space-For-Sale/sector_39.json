@@ -1,0 +1,147 @@
+{
+  "domain": "Office space for sale.com",
+  "hero": {
+    "title": "Premium Office Space for Sale in Sector 39 Faridabad",
+    "description": [
+      "Sector 39 Faridabad is a well-established locality offering a balanced mix of commercial and residential development. Businesses searching for office space for sale in Sector 39 Faridabad benefit from excellent road connectivity, nearby residential catchments, and easy access to major commercial hubs.",
+      "The area supports organized office developments suitable for startups, service providers, and established companies. With steady infrastructure growth and increasing commercial demand, investing in Sector 39 provides long-term stability and strong appreciation potential."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces in Sector 39",
+        "path": "/"
+      },
+      {
+        "label": "Get Commercial Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Office Plot Size Options in Sector 39 Faridabad",
+    "description": [
+      "Choosing the right plot size is crucial when buying office space for sale in Sector 39 Faridabad. Different plot dimensions allow businesses to plan layouts, seating capacity, parking, and future expansion effectively.",
+      "Sector 39 offers multiple office plot sizes to match varying business needs and investment goals."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Plots in Sector 39 Faridabad",
+        "description": "4 Marla office plots are ideal for startups and small professional firms. A 4 Marla office space for sale in Sector 39 Faridabad offers affordability with access to a developed commercial environment."
+      },
+      {
+        "title": "6 Marla Office Plots in Sector 39 Faridabad",
+        "description": "6 Marla office plots provide balanced space for reception areas, workstations, and meeting rooms. A 6 Marla office space for sale in Sector 39 Faridabad suits growing businesses."
+      },
+      {
+        "title": "8 Marla Office Plots in Sector 39 Faridabad",
+        "description": "8 Marla office plots allow better space planning with dedicated cabins and collaborative zones. An 8 Marla office space for sale in Sector 39 Faridabad supports efficient operations."
+      },
+      {
+        "title": "10 Marla Office Plots in Sector 39 Faridabad",
+        "description": "10 Marla office plots are suitable for established businesses seeking premium layouts and brand visibility. A 10 Marla office space for sale in Sector 39 Faridabad ensures scalability."
+      },
+      {
+        "title": "12 Marla Office Plots in Sector 39 Faridabad",
+        "description": "12 Marla office plots are ideal for larger teams with multiple departments. A 12 Marla office space for sale in Sector 39 Faridabad supports long-term business growth."
+      },
+      {
+        "title": "14 Marla Office Plots in Sector 39 Faridabad",
+        "description": "14 Marla office plots provide maximum development flexibility for corporate offices. A 14 Marla office space for sale in Sector 39 Faridabad is a strong investment choice."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Office Space Options Near Sector 39 Faridabad",
+    "description": [
+      "Buyers interested in office space for sale in Sector 39 Faridabad often explore nearby sectors to compare pricing, infrastructure, and connectivity.",
+      "Faridabad offers multiple commercial zones that cater to diverse business requirements."
+    ],
+    "locations": [
+      { "title": "Office Space For Sale", "path": "/", "icon": "BriefcaseBusiness" },
+      { "title": "Office Space For Rent", "path": "/", "icon": "Key" },
+      { "title": "Commercial Property For Sale", "path": "/", "icon": "Building2" },
+      { "title": "Commercial Property For Rent", "path": "/", "icon": "Building" },
+      { "title": "Shop For Sale", "path": "/", "icon": "Store" },
+      { "title": "Shop For Rent", "path": "/", "icon": "Store" },
+      { "title": "Industrial Property For Sale", "path": "/", "icon": "Landmark" },
+      { "title": "Warehouse For Sale", "path": "/", "icon": "Warehouse" },
+      { "title": "To-Let Commercial Services", "path": "/", "icon": "Handshake" },
+      { "title": "Business Space in Faridabad", "path": "/", "icon": "Briefcase" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is Trusted for Office Space in Sector 39",
+    "description": [
+      "Buying office space for sale in Sector 39 Faridabad requires reliable listings and transparent information. Deal Acres ensures verified data to help buyers make confident decisions.",
+      "With strong local expertise and a customer-focused approach, Deal Acres stands out as a preferred commercial property platform."
+    ],
+    "points": [
+      { "title": "Verified Property Listings", "description": "All office listings are thoroughly verified." },
+      { "title": "Transparent Pricing", "description": "Clear and accurate price information." },
+      { "title": "Local Market Expertise", "description": "In-depth understanding of Faridabad commercial areas." },
+      { "title": "Easy Property Discovery", "description": "User-friendly platform for quick searches." },
+      { "title": "Customer-Centric Service", "description": "Support focused on buyer needs." },
+      { "title": "Legal Assistance Support", "description": "Basic guidance on documentation and approvals." },
+      { "title": "End-to-End Support", "description": "Assistance from search to final decision." },
+      { "title": "Trusted by Investors", "description": "Widely preferred for commercial investments." }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions",
+    "description": "Common questions answered to help buyers understand office space investments in Sector 39 Faridabad.",
+    "faqs": [
+      {
+        "question": "Is Sector 39 suitable for office investment?",
+        "answer": "Yes, Sector 39 offers good connectivity, developed infrastructure, and stable commercial demand."
+      },
+      {
+        "question": "What office plot sizes are available in Sector 39?",
+        "answer": "Office plots generally range from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Is Sector 39 good for startups?",
+        "answer": "Yes, smaller office plot options make it suitable for startups and small firms."
+      },
+      {
+        "question": "Can office spaces be customized?",
+        "answer": "Yes, customization is possible as per approved building regulations."
+      },
+      {
+        "question": "Is parking available with office plots?",
+        "answer": "Parking availability depends on plot size and building design."
+      },
+      {
+        "question": "Does Sector 39 offer future growth?",
+        "answer": "Yes, consistent demand and infrastructure development support growth."
+      },
+      {
+        "question": "Are Deal Acres listings verified?",
+        "answer": "Yes, all listings are verified before being published."
+      },
+      {
+        "question": "Can I get a loan for office purchase?",
+        "answer": "Loan availability depends on bank policies and buyer eligibility."
+      },
+      {
+        "question": "What affects office prices in Sector 39?",
+        "answer": "Location, plot size, demand, and connectivity influence pricing."
+      },
+      {
+        "question": "How can I contact Deal Acres?",
+        "answer": "You can submit your details through the enquiry form for assistance."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Office Space in Sector 39 Faridabad",
+    "description": [
+      "Buying office space for sale in Sector 39 Faridabad becomes easier with professional guidance and verified listings. Expert support helps reduce risks and saves time.",
+      "Share your requirements to connect with experienced commercial property advisors today."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

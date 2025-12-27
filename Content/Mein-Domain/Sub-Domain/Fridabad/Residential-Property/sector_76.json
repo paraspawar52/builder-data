@@ -1,0 +1,151 @@
+{
+  "domain": "ResidentialProperty.com",
+
+  "hero": {
+    "title": "Modern Residential Property Living Options in Sector 76 Faridabad",
+    "description": [
+      "Sector 76 is one of the fast-developing residential locations in Greater Faridabad, known for planned infrastructure, open surroundings, and improving civic facilities. Buyers searching for Residential Property in Sector 76 Faridabad are attracted to the area due to its organized layout, peaceful environment, and growing residential community.",
+      "The sector offers good road connectivity to nearby sectors, main highways, and commercial zones, making daily commuting convenient. With ongoing development, upcoming amenities, and long-term growth potential, Sector 76 is suitable for families, working professionals, and investors looking for value-driven residential options in Faridabad."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Residential Properties",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in Sector 76 Faridabad",
+    "description": [
+      "Selecting the right plot size is an important step when investing in Residential Property in Sector 76 Faridabad. The sector offers multiple residential plot size options to match different budgets, family sizes, and construction plans.",
+      "From compact homes to spacious independent houses, Sector 76 provides flexibility along with the advantage of a developing residential ecosystem and long-term appreciation prospects."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Residential Plots in Sector 76",
+        "description": "4 Marla plots are ideal for buyers seeking budget-friendly residential options. These plots are suitable for compact home construction, easy maintenance, and steady rental demand."
+      },
+      {
+        "title": "6 Marla Residential Plots in Sector 76",
+        "description": "6 Marla plots offer a practical balance between affordability and space. They allow better room planning and are preferred by small families."
+      },
+      {
+        "title": "8 Marla Residential Plots in Sector 76",
+        "description": "8 Marla plots provide additional space for improved ventilation, modern layouts, and long-term residential comfort."
+      },
+      {
+        "title": "10 Marla Residential Plots in Sector 76",
+        "description": "10 Marla plots are suitable for premium residential construction. Buyers choosing these plots focus on lifestyle improvement and future value."
+      },
+      {
+        "title": "12 Marla Residential Plots in Sector 76",
+        "description": "12 Marla plots offer spacious living and flexibility for customized designs, making them suitable for families seeking comfort and privacy."
+      },
+      {
+        "title": "14 Marla Residential Plots in Sector 76",
+        "description": "14 Marla plots represent premium residential opportunities with limited availability and strong long-term investment potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Nearby Residential Property Locations Around Sector 76",
+    "description": [
+      "Buyers exploring Residential Property in Sector 76 Faridabad often compare nearby sectors to understand lifestyle options, connectivity, and pricing trends.",
+      "This section helps users navigate multiple location-based residential property choices across Greater Faridabad."
+    ],
+    "locations": [
+      { "title": "Residential Property in Sector 76 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Residential Property in Sector 75 Faridabad", "path": "/", "icon": "Building2" },
+      { "title": "Residential Property in Sector 77 Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Sector 78 Faridabad", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Property in Sector 79 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Residential Property in Sector 80 Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Sector 81 Faridabad", "path": "/", "icon": "Building2" },
+      { "title": "Residential Property in Sector 82 Faridabad", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Sector 76 Properties",
+    "description": [
+      "Finding the right Residential Property in Sector 76 Faridabad requires accurate listings and reliable guidance. Deal Acres focuses on verified properties and transparent information.",
+      "With a buyer-first approach and strong local market expertise, Deal Acres has become a trusted platform for residential property buyers."
+    ],
+    "points": [
+      { "title": "Verified Property Listings", "description": "All properties are checked for authenticity." },
+      { "title": "Transparent Pricing", "description": "Clear pricing without hidden costs." },
+      { "title": "Local Market Expertise", "description": "Strong understanding of Sector 76 and nearby areas." },
+      { "title": "Easy Search Experience", "description": "User-friendly platform for smooth browsing." },
+      { "title": "Buyer-Centric Approach", "description": "Services focused on real buyer needs." },
+      { "title": "Legal Guidance Support", "description": "Basic legal clarity for secure transactions." },
+      { "title": "End-to-End Assistance", "description": "Support from property search to final decision." },
+      { "title": "Trusted by Homebuyers", "description": "Positive feedback from satisfied users." }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions",
+    "description": "Common questions related to Residential Property in Sector 76 Faridabad.",
+    "faqs": [
+      {
+        "question": "Is Sector 76 Faridabad good for residential living?",
+        "answer": "Yes, Sector 76 offers a peaceful environment, developing infrastructure, and good connectivity, making it suitable for families."
+      },
+      {
+        "question": "Is Sector 76 suitable for property investment?",
+        "answer": "Yes, ongoing development and increasing demand make it a promising long-term investment location."
+      },
+      {
+        "question": "What plot sizes are available in Sector 76?",
+        "answer": "Residential plots ranging from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Does Sector 76 have good connectivity?",
+        "answer": "Yes, the sector is well-connected to major roads and nearby sectors of Greater Faridabad."
+      },
+      {
+        "question": "Are schools and hospitals nearby?",
+        "answer": "Yes, reputed schools, hospitals, and daily-use markets are accessible from Sector 76."
+      },
+      {
+        "question": "Can I construct my own house in Sector 76?",
+        "answer": "Yes, construction is allowed as per approved local building norms."
+      },
+      {
+        "question": "Are home loans available for properties here?",
+        "answer": "Most residential properties are eligible for home loans subject to bank approval."
+      },
+      {
+        "question": "Is Sector 76 suitable for rental income?",
+        "answer": "Yes, growing residential demand supports good rental potential."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparency, and expert guidance."
+      },
+      {
+        "question": "How can I get property assistance?",
+        "answer": "You can use the contact form to connect with experienced property experts."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for Residential Property in Sector 76",
+    "description": [
+      "Buying Residential Property in Sector 76 Faridabad is an important decision, and expert guidance helps you make the right choice.",
+      "Share your details to connect with trusted property experts who will assist you throughout the buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

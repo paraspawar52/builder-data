@@ -1,0 +1,216 @@
+{
+  "domain": "Residential Property.com",
+  "hero": {
+    "title": "Affordable Residential Properties with Daily Convenience in Sector 5",
+    "description": [
+      "Sector 5 Faridabad is a well-established residential locality known for its affordability, central location, and easy access to everyday necessities. The area is preferred by families, working professionals, and long-term residents who want a practical lifestyle close to markets, schools, hospitals, and public transport. Buyers searching for residential property in Sector 5 Faridabad value its stable neighborhood environment and strong local connectivity.",
+      "The locality offers independent houses and residential plots in various sizes, making it suitable for different budgets and housing needs. With smooth road connectivity, nearby commercial areas, and essential civic amenities, Sector 5 provides a comfortable and convenient residential experience. Investing in a home here ensures steady demand, daily comfort, and long-term residential value in Faridabad."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Properties in Sector 5",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in Sector 5 Faridabad",
+    "description": [
+      "Choosing the right plot size is an important step when planning to buy residential property in Sector 5 Faridabad. The locality offers a range of plot sizes that suit compact homes, comfortable family houses, and spacious independent residences. Each plot size supports different construction styles and lifestyle preferences.",
+      "Whether you are a first-time homebuyer or planning a long-term family residence, Sector 5 Faridabad provides flexible residential options. Understanding the benefits of each plot size helps buyers make informed, confident, and budget-friendly property decisions."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot Houses in Sector 5 Faridabad",
+        "description": "4 Marla plot houses are ideal for buyers seeking affordable residential property in Sector 5 Faridabad. These homes are compact, easy to maintain, and suitable for small families or individuals. Due to steady demand, 4 Marla houses also offer good rental and resale opportunities."
+      },
+      {
+        "title": "6 Marla Plot Houses in Sector 5 Faridabad",
+        "description": "6 Marla plot houses provide a balanced mix of comfort and affordability. These homes offer better layouts, ventilation, and practical living space. Buyers looking for value-for-money residential options often prefer 6 Marla residential property in Sector 5 Faridabad."
+      },
+      {
+        "title": "8 Marla Plot Houses in Sector 5 Faridabad",
+        "description": "8 Marla houses are suitable for families seeking additional space and improved comfort. These properties allow better interior planning, larger bedrooms, and comfortable common areas. An 8 Marla residential property in Sector 5 Faridabad supports long-term family living."
+      },
+      {
+        "title": "10 Marla Plot Houses in Sector 5 Faridabad",
+        "description": "10 Marla plot houses offer a premium residential experience with ample space for modern construction and parking. Buyers choosing 10 Marla residential property in Sector 5 Faridabad often focus on lifestyle improvement and future value."
+      },
+      {
+        "title": "12 Marla Plot Houses in Sector 5 Faridabad",
+        "description": "12 Marla houses provide spacious interiors and flexibility for customized home designs. These properties are suitable for buyers seeking privacy, comfort, and higher living standards. A 12 Marla residential property in Sector 5 Faridabad supports stable long-term residence."
+      },
+      {
+        "title": "14 Marla Plot Houses in Sector 5 Faridabad",
+        "description": "14 Marla plot houses represent premium residential living with expansive space and architectural freedom. These homes are preferred by buyers who value exclusivity, comfort, and long-term investment potential in Sector 5 Faridabad."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Residential Locations Around Sector 5 Faridabad",
+    "description": [
+      "While looking for residential property in Sector 5 Faridabad, many buyers also explore nearby sectors to compare pricing, accessibility, and lifestyle convenience. Faridabad offers several well-developed and emerging residential localities suitable for different preferences and budgets.",
+      "Exploring nearby locations helps buyers understand connectivity, access to amenities, and future growth prospects. This wider view supports confident and well-informed property decisions."
+    ],
+    "locations": [
+      {
+        "title": "Residential Property in Sector 5 Faridabad",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "Residential Property in Sector 50 Faridabad",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Residential Property in Sector 3 Faridabad",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Residential Property in Sector 7 Faridabad",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Residential Property in Sector 9 Faridabad",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Residential Property in Sector 10 Faridabad",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Residential Property in Sector 15 Faridabad",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Residential Property in Sector 21 Faridabad",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Residential Property in Sector 28 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Residential Property in Sector 46 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Sector 5 Faridabad Properties",
+    "description": [
+      "Buying residential property in Sector 5 Faridabad requires accurate information and a reliable real estate platform. Deal Acres focuses on verified property listings and transparent locality insights to help buyers make confident and informed decisions.",
+      "With strong knowledge of Faridabad’s residential markets and a buyer-first approach, Deal Acres ensures clarity, reliability, and long-term trust for homebuyers."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All property listings are verified for authenticity and accuracy."
+      },
+      {
+        "title": "Transparent Pricing Insights",
+        "description": "Clear pricing helps buyers understand actual market value."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth understanding of Sector 5 Faridabad property trends."
+      },
+      {
+        "title": "User-Friendly Platform",
+        "description": "Simple navigation makes property search easy and smooth."
+      },
+      {
+        "title": "Buyer-Centric Approach",
+        "description": "Property suggestions align with genuine buyer needs."
+      },
+      {
+        "title": "Basic Legal Guidance",
+        "description": "Support helps buyers understand documentation clearly."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Guidance is available throughout the buying journey."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Positive feedback reflects strong customer trust."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions",
+    "description": "Answers to common questions about residential property in Sector 5 Faridabad.",
+    "faqs": [
+      {
+        "question": "Is Sector 5 Faridabad a good area to buy residential property?",
+        "answer": "Yes, Sector 5 Faridabad is a well-established locality with good connectivity and daily amenities, making it suitable for long-term living."
+      },
+      {
+        "question": "What types of residential properties are available in Sector 5 Faridabad?",
+        "answer": "Independent houses and residential plots from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Sector 5 Faridabad suitable for families?",
+        "answer": "Yes, the area offers a safe residential environment with nearby schools, hospitals, and markets."
+      },
+      {
+        "question": "Can I build my own house in Sector 5 Faridabad?",
+        "answer": "Yes, buyers can construct houses on available plots as per approved building norms."
+      },
+      {
+        "question": "Are home loans available for properties in Sector 5 Faridabad?",
+        "answer": "Most residential properties are eligible for home loans, subject to bank approval."
+      },
+      {
+        "question": "Is Sector 5 Faridabad good for property investment?",
+        "answer": "Yes, due to steady demand and central location, the area offers stable investment potential."
+      },
+      {
+        "question": "How does Deal Acres help buyers?",
+        "answer": "Deal Acres provides verified listings, local insights, and buyer-focused guidance."
+      },
+      {
+        "question": "Are daily amenities easily accessible from Sector 5 Faridabad?",
+        "answer": "Yes, essential amenities such as markets, schools, banks, and hospitals are nearby."
+      },
+      {
+        "question": "What factors affect property prices in Sector 5 Faridabad?",
+        "answer": "Plot size, construction quality, connectivity, and neighborhood development influence prices."
+      },
+      {
+        "question": "How can I get expert help to buy residential property?",
+        "answer": "You can use the contact section to connect with experienced property experts for personalized assistance."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help to Buy Residential Property in Sector 5 Faridabad",
+    "description": [
+      "Buying residential property in Sector 5 Faridabad is an important decision, and expert guidance can make the process simple and stress-free. Professional support helps you compare options, understand pricing, and proceed confidently.",
+      "Share your details to connect with trusted property experts who can help you find a home that matches your needs, budget, and long-term goals."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

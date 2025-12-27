@@ -1,0 +1,147 @@
+{
+  "domain": "Office space for sale.com",
+  "hero": {
+    "title": "Modern Office Space for Sale in Sector 62 Faridabad",
+    "description": [
+      "Sector 62 Faridabad is a developing commercial locality offering organized infrastructure, improving connectivity, and a peaceful business environment. Businesses looking for office space for sale in Sector 62 Faridabad benefit from planned roads, proximity to industrial belts, and easy access to surrounding residential sectors.",
+      "The area supports a range of office plot sizes suitable for startups, SMEs, and established firms. With ongoing development and growing commercial interest, Sector 62 presents a practical opportunity for businesses seeking functional office spaces with future growth potential."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces in Sector 62",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Commercial Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Office Plot Size Options Available in Sector 62 Faridabad",
+    "description": [
+      "Selecting the right plot size is an important step when buying office space for sale in Sector 62 Faridabad. Different plot dimensions cater to different business needs, operational layouts, and future expansion plans. Sector 62 offers flexibility for buyers with varied requirements and budgets.",
+      "Understanding plot size options helps businesses plan efficient office layouts, parking arrangements, and long-term scalability."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Plots in Sector 62 Faridabad",
+        "description": "4 Marla office plots are ideal for startups, small offices, and professional services. These plots are cost-effective and easy to maintain. A 4 Marla office space for sale in Sector 62 Faridabad suits buyers seeking compact commercial setups."
+      },
+      {
+        "title": "6 Marla Office Plots in Sector 62 Faridabad",
+        "description": "6 Marla office plots provide balanced workspace layouts with room for cabins and meeting areas. A 6 Marla office space for sale in Sector 62 Faridabad supports growing teams and structured operations."
+      },
+      {
+        "title": "8 Marla Office Plots in Sector 62 Faridabad",
+        "description": "8 Marla office plots allow more spacious layouts and better circulation. These plots are suitable for expanding businesses. An 8 Marla office space for sale in Sector 62 Faridabad supports professional growth."
+      },
+      {
+        "title": "10 Marla Office Plots in Sector 62 Faridabad",
+        "description": "10 Marla office plots are preferred by established firms seeking premium office layouts and branding opportunities. A 10 Marla office space for sale in Sector 62 Faridabad offers long-term usability."
+      },
+      {
+        "title": "12 Marla Office Plots in Sector 62 Faridabad",
+        "description": "12 Marla office plots support larger office setups with structured layouts and parking provisions. A 12 Marla office space for sale in Sector 62 Faridabad is suitable for long-term business planning."
+      },
+      {
+        "title": "14 Marla Office Plots in Sector 62 Faridabad",
+        "description": "14 Marla office plots offer expansive commercial development potential. These plots are suitable for corporate offices and multi-level buildings. A 14 Marla office space for sale in Sector 62 Faridabad ensures maximum scalability."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Commercial Locations Around Sector 62 Faridabad",
+    "description": [
+      "Buyers searching for office space for sale in Sector 62 Faridabad often explore nearby commercial localities to compare pricing, connectivity, and infrastructure. Faridabad offers several commercial zones suitable for different business needs.",
+      "Exploring surrounding locations helps businesses and investors make confident, well-informed decisions."
+    ],
+    "locations": [
+      { "title": "Office Space For Sale", "path": "/", "icon": "BriefcaseBusiness" },
+      { "title": "Office Space For Rent", "path": "/", "icon": "Key" },
+      { "title": "Commercial Property For Sale", "path": "/", "icon": "Building2" },
+      { "title": "Commercial Property For Rent", "path": "/", "icon": "Building" },
+      { "title": "Shop For Sale", "path": "/", "icon": "Store" },
+      { "title": "Shop For Rent", "path": "/", "icon": "Store" },
+      { "title": "Industrial Property For Sale", "path": "/", "icon": "Landmark" },
+      { "title": "Warehouse For Sale", "path": "/", "icon": "Warehouse" },
+      { "title": "To-Let Commercial Services", "path": "/", "icon": "Handshake" },
+      { "title": "Business Space in Faridabad", "path": "/", "icon": "Briefcase" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Office Space in Sector 62",
+    "description": [
+      "Buying office space for sale in Sector 62 Faridabad requires verified listings and transparent market information. Deal Acres focuses on delivering accurate property data and buyer-focused guidance.",
+      "With local expertise and a customer-first approach, Deal Acres has earned the trust of businesses and commercial investors."
+    ],
+    "points": [
+      { "title": "Verified Office Listings", "description": "All listings are checked for authenticity and accuracy." },
+      { "title": "Transparent Pricing", "description": "Clear pricing helps buyers plan confidently." },
+      { "title": "Local Market Knowledge", "description": "Strong understanding of Faridabad commercial areas." },
+      { "title": "User-Friendly Platform", "description": "Easy navigation for smooth property discovery." },
+      { "title": "Buyer-Centric Approach", "description": "Focused on business and investment needs." },
+      { "title": "Basic Legal Awareness", "description": "Guidance related to documentation and compliance." },
+      { "title": "End-to-End Assistance", "description": "Support from property search to final decision." },
+      { "title": "Trusted by Businesses", "description": "Preferred platform for office buyers and investors." }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions",
+    "description": "Common questions and detailed answers related to buying office space in Sector 62 Faridabad.",
+    "faqs": [
+      {
+        "question": "Is Sector 62 Faridabad suitable for office investment?",
+        "answer": "Yes, Sector 62 is a developing commercial area with improving infrastructure and long-term growth potential."
+      },
+      {
+        "question": "What office plot sizes are available in Sector 62?",
+        "answer": "Office plots ranging from 4 Marla to 14 Marla are available based on availability and approvals."
+      },
+      {
+        "question": "Is Sector 62 suitable for startups?",
+        "answer": "Yes, affordable plot sizes make Sector 62 suitable for startups and small offices."
+      },
+      {
+        "question": "Can office layouts be customized?",
+        "answer": "Most office spaces allow customization as per approved building guidelines."
+      },
+      {
+        "question": "Is parking available?",
+        "answer": "Parking availability depends on plot size and sanctioned building plans."
+      },
+      {
+        "question": "Is Sector 62 good for long-term growth?",
+        "answer": "Yes, ongoing development and connectivity improvements support long-term commercial value."
+      },
+      {
+        "question": "Does Deal Acres verify listings?",
+        "answer": "Yes, Deal Acres focuses on verified and reliable listings."
+      },
+      {
+        "question": "Are commercial loans available?",
+        "answer": "Commercial loans may be available subject to bank eligibility and documentation."
+      },
+      {
+        "question": "What affects office prices in Sector 62?",
+        "answer": "Plot size, connectivity, infrastructure, and demand influence pricing."
+      },
+      {
+        "question": "How can I contact Deal Acres?",
+        "answer": "You can submit your details through the contact form to connect with experts."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help to Buy Office Space in Sector 62 Faridabad",
+    "description": [
+      "Buying office space for sale in Sector 62 Faridabad is an important business decision. Expert guidance helps you evaluate options, understand pricing, and plan confidently.",
+      "Share your details to connect with experienced commercial property advisors for personalized assistance."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

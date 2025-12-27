@@ -1,0 +1,153 @@
+{
+  "domain": "ResidentialProperty.com",
+
+  "hero": {
+    "title": "Smart Residential Property Choices in Sector 75 Faridabad",
+    "description": [
+      "Sector 75 is a rapidly developing residential locality in Greater Faridabad, offering planned infrastructure, peaceful surroundings, and modern living standards. Buyers searching for Residential Property in Sector 75 Faridabad prefer this area due to its clean layout, wide roads, and growing residential community.",
+      "The sector enjoys smooth connectivity to major roads, nearby sectors, and commercial zones, making daily travel convenient. With upcoming developments, essential amenities, and a well-balanced environment, Sector 75 is suitable for families, professionals, and investors looking for long-term residential value in Faridabad."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Residential Properties",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in Sector 75 Faridabad",
+    "description": [
+      "Choosing the right plot size plays a key role when investing in Residential Property in Sector 75 Faridabad. The sector offers a range of residential plot sizes that cater to different budgets, family needs, and future plans.",
+      "Whether you are planning a compact home or a spacious independent house, Sector 75 provides flexible plot options supported by developing infrastructure and long-term growth prospects."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Residential Plots in Sector 75 Faridabad",
+        "description": "4 Marla plots are ideal for buyers looking for affordable residential options. These plots are suitable for compact homes, easy maintenance, and good rental demand in a developing area like Sector 75."
+      },
+      {
+        "title": "6 Marla Residential Plots in Sector 75 Faridabad",
+        "description": "6 Marla plots offer a balance between affordability and comfort. They allow better room planning and are popular among small families seeking practical residential living."
+      },
+      {
+        "title": "8 Marla Residential Plots in Sector 75 Faridabad",
+        "description": "8 Marla plots provide more space for modern home designs and comfortable interiors. These plots suit families planning long-term residence with better living standards."
+      },
+      {
+        "title": "10 Marla Residential Plots in Sector 75 Faridabad",
+        "description": "10 Marla plots are preferred for premium residential construction. They offer ample space, parking options, and higher appreciation potential in Sector 75."
+      },
+      {
+        "title": "12 Marla Residential Plots in Sector 75 Faridabad",
+        "description": "12 Marla plots are ideal for buyers looking for spacious homes with design flexibility. These plots support luxury living and stable long-term investment value."
+      },
+      {
+        "title": "14 Marla Residential Plots in Sector 75 Faridabad",
+        "description": "14 Marla plots represent premium residential opportunities. Limited availability and growing demand make them suitable for high-end homes and future appreciation."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Nearby Residential Property Locations Around Sector 75",
+    "description": [
+      "Buyers exploring Residential Property in Sector 75 Faridabad often compare nearby sectors to understand pricing, amenities, and lifestyle options. Greater Faridabad offers several well-planned residential sectors.",
+      "This section helps users easily navigate location-based property options and make informed decisions."
+    ],
+    "locations": [
+      { "title": "Residential Property in Sector 75 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Residential Property in Sector 74 Faridabad", "path": "/", "icon": "Building2" },
+      { "title": "Residential Property in Sector 76 Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Sector 77 Faridabad", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Property in Sector 78 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Residential Property in Sector 79 Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Sector 80 Faridabad", "path": "/", "icon": "Building2" },
+      { "title": "Residential Property in Sector 81 Faridabad", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Property in Sector 82 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Residential Property in Sector 83 Faridabad", "path": "/", "icon": "Building" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Sector 75 Properties",
+    "description": [
+      "Finding the right Residential Property in Sector 75 Faridabad requires accurate listings and trusted guidance. Deal Acres focuses on verified properties, clear information, and buyer-friendly services.",
+      "With strong local market understanding and transparent processes, Deal Acres has become a preferred choice for homebuyers and investors."
+    ],
+    "points": [
+      { "title": "Verified Listings", "description": "Properties are verified for accuracy and authenticity." },
+      { "title": "Transparent Pricing", "description": "Clear pricing without hidden surprises." },
+      { "title": "Local Expertise", "description": "In-depth knowledge of Sector 75 and nearby areas." },
+      { "title": "Easy Property Search", "description": "User-friendly platform for smooth browsing." },
+      { "title": "Buyer-Centric Approach", "description": "Services designed around real buyer needs." },
+      { "title": "Legal Guidance Support", "description": "Basic legal clarity for safer transactions." },
+      { "title": "End-to-End Assistance", "description": "Support throughout the buying journey." },
+      { "title": "Trusted by Users", "description": "Positive experiences from multiple homebuyers." }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions",
+    "description": "Answers to common questions about Residential Property in Sector 75 Faridabad.",
+    "faqs": [
+      {
+        "question": "Is Sector 75 Faridabad a good place to buy residential property?",
+        "answer": "Yes, Sector 75 offers planned development, peaceful surroundings, and future growth potential, making it suitable for homebuyers."
+      },
+      {
+        "question": "Is Sector 75 suitable for families?",
+        "answer": "Yes, the sector provides a calm environment with access to nearby schools, markets, and healthcare facilities."
+      },
+      {
+        "question": "What plot sizes are available in Sector 75?",
+        "answer": "Residential plots ranging from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Sector 75 good for investment?",
+        "answer": "Yes, ongoing development and increasing demand make it suitable for long-term investment."
+      },
+      {
+        "question": "Can I construct my own house in Sector 75?",
+        "answer": "Yes, construction is allowed as per approved local building regulations."
+      },
+      {
+        "question": "Are home loans available for properties in Sector 75?",
+        "answer": "Most residential properties are eligible for home loans, subject to bank approval."
+      },
+      {
+        "question": "How is connectivity from Sector 75?",
+        "answer": "Sector 75 offers good connectivity to major roads and nearby commercial areas."
+      },
+      {
+        "question": "Is Sector 75 suitable for rental income?",
+        "answer": "Yes, growing residential demand supports stable rental potential."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, and expert property assistance."
+      },
+      {
+        "question": "How can I contact property experts?",
+        "answer": "You can use the contact form to connect with experienced property professionals."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for Residential Property in Sector 75",
+    "description": [
+      "Buying Residential Property in Sector 75 Faridabad is an important decision, and expert guidance can make the process smooth and reliable.",
+      "Share your details to connect with trusted property experts who will help you find the right home based on your budget and preferences."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

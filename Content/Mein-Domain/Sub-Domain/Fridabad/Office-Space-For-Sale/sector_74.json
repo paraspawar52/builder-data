@@ -1,0 +1,147 @@
+{
+  "domain": "Office space for sale.com",
+  "hero": {
+    "title": "Premium Office Space for Sale in Sector 74 Faridabad",
+    "description": [
+      "Sector 74 Faridabad is a rapidly developing commercial and mixed-use locality known for its modern infrastructure and planned road connectivity. Businesses searching for office space for sale in Sector 74 Faridabad benefit from proximity to major residential sectors, arterial roads, and upcoming commercial developments that support daily operations.",
+      "The area is suitable for startups, IT services, consulting firms, and corporate offices looking for future-ready workspaces. With improving social infrastructure, smooth connectivity, and growing commercial interest, investing in office space in Sector 74 Faridabad offers both operational efficiency and long-term appreciation potential."
+    ],
+    "buttons": [
+      {
+        "label": "View Office Spaces in Sector 74",
+        "path": "/"
+      },
+      {
+        "label": "Speak to Commercial Property Experts",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Office Plot Size Options Available in Sector 74 Faridabad",
+    "description": [
+      "Choosing the correct plot size is essential when investing in office space for sale in Sector 74 Faridabad. Different plot configurations allow businesses to plan layouts, workforce seating, meeting rooms, and parking facilities effectively.",
+      "Sector 74 offers multiple office plot sizes that cater to startups, mid-sized firms, and large enterprises, making it a flexible commercial destination."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Plots in Sector 74",
+        "description": "4 Marla office plots are ideal for startups, clinics, and boutique offices. A 4 Marla office space for sale in Sector 74 Faridabad offers affordability with efficient workspace planning."
+      },
+      {
+        "title": "6 Marla Office Plots in Sector 74",
+        "description": "6 Marla office plots provide balanced space for cabins, reception areas, and small teams. A 6 Marla office space for sale in Sector 74 Faridabad suits growing businesses."
+      },
+      {
+        "title": "8 Marla Office Plots in Sector 74",
+        "description": "8 Marla office plots allow flexible layouts and better internal circulation. An 8 Marla office space for sale in Sector 74 Faridabad supports professional office setups."
+      },
+      {
+        "title": "10 Marla Office Plots in Sector 74",
+        "description": "10 Marla office plots are preferred by established firms needing structured departments and visitor parking. A 10 Marla office space for sale in Sector 74 Faridabad ensures scalability."
+      },
+      {
+        "title": "12 Marla Office Plots in Sector 74",
+        "description": "12 Marla office plots offer spacious planning options for medium-sized enterprises. A 12 Marla office space for sale in Sector 74 Faridabad supports long-term growth."
+      },
+      {
+        "title": "14 Marla Office Plots in Sector 74",
+        "description": "14 Marla office plots are suitable for corporate offices and institutions. A 14 Marla office space for sale in Sector 74 Faridabad is considered a premium commercial asset."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Office Space Locations Around Sector 74 Faridabad",
+    "description": [
+      "Buyers exploring office space for sale in Sector 74 Faridabad often compare nearby commercial and residential sectors to understand pricing trends and future growth opportunities.",
+      "Faridabad offers multiple well-connected locations that support diverse business requirements and investment goals."
+    ],
+    "locations": [
+      { "title": "Office Space For Sale", "path": "/", "icon": "BriefcaseBusiness" },
+      { "title": "Office Space For Rent", "path": "/", "icon": "Key" },
+      { "title": "Commercial Property For Sale", "path": "/", "icon": "Building2" },
+      { "title": "Commercial Property For Rent", "path": "/", "icon": "Building" },
+      { "title": "Shop For Sale", "path": "/", "icon": "Store" },
+      { "title": "Shop For Rent", "path": "/", "icon": "Store" },
+      { "title": "Industrial Property For Sale", "path": "/", "icon": "Landmark" },
+      { "title": "Warehouse For Sale", "path": "/", "icon": "Warehouse" },
+      { "title": "To-Let Commercial Services", "path": "/", "icon": "Handshake" },
+      { "title": "Business Properties in Faridabad", "path": "/", "icon": "Briefcase" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is Trusted for Office Space in Sector 74",
+    "description": [
+      "Finding the right office space for sale in Sector 74 Faridabad requires reliable listings, transparent pricing, and local expertise. Deal Acres focuses on delivering verified property information to reduce buyer uncertainty.",
+      "With a strong customer-first approach and deep understanding of Faridabad’s commercial landscape, Deal Acres has become a preferred platform for office buyers."
+    ],
+    "points": [
+      { "title": "Verified Commercial Listings", "description": "All listings are checked for accuracy and authenticity." },
+      { "title": "Clear Pricing Transparency", "description": "No hidden costs or misleading details." },
+      { "title": "Local Market Expertise", "description": "In-depth knowledge of Sector 74 and surrounding areas." },
+      { "title": "Easy Property Discovery", "description": "User-friendly platform for quick shortlisting." },
+      { "title": "Buyer-Oriented Approach", "description": "Services aligned with business needs." },
+      { "title": "Basic Legal Guidance", "description": "Support for documentation clarity." },
+      { "title": "End-to-End Support", "description": "Assistance throughout the buying journey." },
+      { "title": "High User Trust", "description": "Preferred by investors and business owners." }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions",
+    "description": "Common questions answered to help buyers understand office space in Sector 74 Faridabad.",
+    "faqs": [
+      {
+        "question": "Is Sector 74 Faridabad good for office investment?",
+        "answer": "Yes, Sector 74 is a developing area with improving infrastructure and strong future commercial potential."
+      },
+      {
+        "question": "What office plot sizes are available in Sector 74?",
+        "answer": "Office plots generally range from 4 Marla to 14 Marla depending on availability."
+      },
+      {
+        "question": "Is Sector 74 suitable for startups?",
+        "answer": "Yes, smaller plot sizes and affordable pricing make it suitable for startups and small firms."
+      },
+      {
+        "question": "Can office buildings be customized?",
+        "answer": "Yes, construction and layouts can be customized as per approved building norms."
+      },
+      {
+        "question": "Does the area support daily office needs?",
+        "answer": "Yes, nearby residential sectors ensure workforce availability and daily conveniences."
+      },
+      {
+        "question": "Is parking available with office plots?",
+        "answer": "Parking availability depends on plot size and building design."
+      },
+      {
+        "question": "Are Deal Acres listings verified?",
+        "answer": "Yes, all listings on Deal Acres are verified for authenticity."
+      },
+      {
+        "question": "Are loan facilities available for office purchase?",
+        "answer": "Loan options may be available subject to bank policies and eligibility."
+      },
+      {
+        "question": "What factors affect office prices in Sector 74?",
+        "answer": "Plot size, road connectivity, demand, and infrastructure development affect pricing."
+      },
+      {
+        "question": "How can I contact property experts for Sector 74?",
+        "answer": "You can fill out the enquiry form to connect with Deal Acres experts."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Office Space in Sector 74 Faridabad",
+    "description": [
+      "Buying office space for sale in Sector 74 Faridabad becomes simpler with professional guidance and verified listings. Expert assistance helps businesses make confident and informed decisions.",
+      "Share your requirements to connect with experienced commercial property advisors today."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

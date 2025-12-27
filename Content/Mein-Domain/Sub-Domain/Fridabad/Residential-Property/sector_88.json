@@ -1,0 +1,151 @@
+{
+  "domain": "ResidentialProperty.com",
+
+  "hero": {
+    "title": "Premium Residential Property Options in Sector 88 Faridabad",
+    "description": [
+      "Sector 88 is one of the well-planned and fast-growing residential sectors in Faridabad, known for its modern infrastructure and excellent connectivity. Buyers searching for Residential Property in Sector 88 Faridabad are attracted by the sector’s proximity to major highways, commercial zones, schools, and healthcare facilities. The area offers a peaceful living environment while staying well-connected to the rest of the city.",
+      "The sector features independent houses, residential plots, and builder floor options in multiple configurations. With continuous development, green surroundings, and rising demand, Sector 88 has become a preferred destination for families and investors. Living here ensures comfort, convenience, and strong long-term appreciation."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Residential Properties",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in Sector 88 Faridabad",
+    "description": [
+      "Selecting the right plot size is an important step when buying Residential Property in Sector 88 Faridabad. The sector offers a wide range of plot sizes to suit different family needs, budgets, and construction plans.",
+      "From compact residential units to spacious premium homes, Sector 88 provides flexible plot options supported by modern infrastructure and future growth prospects."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Residential Plots in Sector 88",
+        "description": "4 Marla plots are suitable for buyers looking for affordable residential options with low maintenance and practical home designs."
+      },
+      {
+        "title": "6 Marla Residential Plots in Sector 88",
+        "description": "6 Marla plots offer balanced living space with better room layouts and ventilation, making them ideal for small to mid-size families."
+      },
+      {
+        "title": "8 Marla Residential Plots in Sector 88",
+        "description": "8 Marla plots provide additional space for modern layouts, open areas, and long-term comfortable living."
+      },
+      {
+        "title": "10 Marla Residential Plots in Sector 88",
+        "description": "10 Marla plots are preferred by buyers planning premium homes with parking space and stylish architectural designs."
+      },
+      {
+        "title": "12 Marla Residential Plots in Sector 88",
+        "description": "12 Marla plots allow spacious interiors, privacy, and flexibility for customized residential construction."
+      },
+      {
+        "title": "14 Marla Residential Plots in Sector 88",
+        "description": "14 Marla plots represent high-end residential opportunities with excellent appreciation potential in Sector 88 Faridabad."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Nearby Residential Locations Around Sector 88",
+    "description": [
+      "While considering Residential Property in Sector 88 Faridabad, buyers often explore nearby sectors to compare pricing, connectivity, and lifestyle benefits.",
+      "These surrounding residential locations provide additional choices and help buyers make confident property decisions."
+    ],
+    "locations": [
+      { "title": "Residential Property in Sector 88 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Residential Property in Sector 89 Faridabad", "path": "/", "icon": "Building2" },
+      { "title": "Residential Property in Sector 87 Faridabad", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Property in Sector 85 Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Sector 86 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Residential Property in Greater Neharpar Faridabad", "path": "/", "icon": "Building2" },
+      { "title": "Residential Property in Sector 84 Faridabad", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Property in Sector 82 Faridabad", "path": "/", "icon": "Building" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Deal Acres Is Preferred for Sector 88 Property Search",
+    "description": [
+      "Buying Residential Property in Sector 88 Faridabad requires reliable information and trusted listings. Deal Acres focuses on providing verified properties and transparent market insights to simplify the buying journey.",
+      "With local expertise and a customer-first approach, Deal Acres helps buyers make informed and confident property decisions."
+    ],
+    "points": [
+      { "title": "Verified Property Listings", "description": "Every listing is checked for authenticity and accuracy." },
+      { "title": "Transparent Pricing", "description": "Clear pricing details without hidden charges." },
+      { "title": "Local Market Knowledge", "description": "In-depth understanding of Sector 88 and nearby areas." },
+      { "title": "Easy Property Search", "description": "User-friendly platform for smooth browsing." },
+      { "title": "Buyer-Focused Approach", "description": "Recommendations based on genuine buyer needs." },
+      { "title": "Legal Process Guidance", "description": "Basic assistance for documentation and compliance." },
+      { "title": "End-to-End Support", "description": "Help available from search to final decision." },
+      { "title": "Trusted by Buyers", "description": "Preferred by homebuyers and long-term investors." }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions",
+    "description": "Answers to common queries about Residential Property in Sector 88 Faridabad.",
+    "faqs": [
+      {
+        "question": "Is Sector 88 Faridabad good for residential living?",
+        "answer": "Yes, Sector 88 offers a modern environment, good infrastructure, and excellent connectivity, making it ideal for families."
+      },
+      {
+        "question": "Is Sector 88 suitable for property investment?",
+        "answer": "Yes, due to ongoing development and increasing demand, Sector 88 has strong investment potential."
+      },
+      {
+        "question": "What plot sizes are available in Sector 88?",
+        "answer": "Residential plots from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Are daily amenities available nearby?",
+        "answer": "Yes, schools, hospitals, shopping areas, and public transport are easily accessible."
+      },
+      {
+        "question": "Is Sector 88 well connected to highways?",
+        "answer": "Yes, the sector has good connectivity to major roads and expressways."
+      },
+      {
+        "question": "Can I build my own house in Sector 88?",
+        "answer": "Yes, construction is permitted as per approved development norms."
+      },
+      {
+        "question": "Are home loans available for properties in Sector 88?",
+        "answer": "Most residential properties are eligible for home loans subject to bank approval."
+      },
+      {
+        "question": "Is rental demand good in Sector 88?",
+        "answer": "Yes, rental demand is increasing due to improved connectivity and development."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres offers verified listings, transparency, and expert guidance."
+      },
+      {
+        "question": "How can I contact property experts?",
+        "answer": "You can use the contact form to connect with experienced property advisors."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Residential Property in Sector 88",
+    "description": [
+      "Buying Residential Property in Sector 88 Faridabad is a major decision, and expert support can make the process simple and stress-free.",
+      "Share your details to connect with trusted property professionals who can help you find the right home based on your budget and requirements."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}
