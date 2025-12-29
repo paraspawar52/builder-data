@@ -1,0 +1,216 @@
+{
+  "domain": "Office space for rent.com",
+  "hero": {
+    "title": "Prime and Centrally Located Office Space for Rent in Sector 9",
+    "description": [
+      "Sector 9 Faridabad is a well-established and centrally located area, making it a strong choice for businesses searching for office space for rent in Sector 9 Faridabad. The locality enjoys excellent connectivity to major roads, commercial hubs, and residential sectors, ensuring easy accessibility for employees and clients. With nearby markets, banks, and daily-use facilities, Sector 9 offers a professional and convenient business environment.",
+      "Office spaces in Sector 9 are ideal for consultants, service-based companies, corporate offices, and growing enterprises that prefer a mature commercial location. The area benefits from steady footfall, strong infrastructure, and proximity to key business zones of Faridabad. Renting an office in Sector 9 allows businesses to operate from a trusted location that supports visibility, stability, and long-term operational efficiency."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces in Sector 9",
+        "path": "/"
+      },
+      {
+        "label": "Get Commercial Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Office Space Size Options Available for Rent in Sector 9",
+    "description": [
+      "Choosing the right office size is essential for efficient workflow, employee comfort, and cost management. Office space for rent in Sector 9 Faridabad is available in multiple plot and built-up size options, allowing businesses to select workspaces that match their operational requirements and team size. Each size category supports different business needs, from compact offices to larger professional setups.",
+      "Understanding these office size options helps businesses plan layouts effectively, avoid unnecessary expenses, and ensure long-term usability. Whether you are a small firm or an established organization, Sector 9 offers flexible office space options that support productivity and business growth."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space for Rent in Sector 9 Faridabad",
+        "description": "4 Marla office spaces are ideal for small businesses, consultants, and startups. These units offer essential infrastructure at affordable rental levels. A 4 Marla office space for rent in Sector 9 Faridabad suits cost-efficient operations."
+      },
+      {
+        "title": "6 Marla Office Space for Rent in Sector 9 Faridabad",
+        "description": "6 Marla office units provide a balanced combination of space and affordability. They allow better seating layouts and small meeting areas. A 6 Marla office space for rent in Sector 9 Faridabad supports growing teams."
+      },
+      {
+        "title": "8 Marla Office Space for Rent in Sector 9 Faridabad",
+        "description": "8 Marla office spaces are suitable for businesses requiring flexible layouts and collaborative work areas. An 8 Marla office space for rent in Sector 9 Faridabad works well for service-based firms."
+      },
+      {
+        "title": "10 Marla Office Space for Rent in Sector 9 Faridabad",
+        "description": "10 Marla office spaces offer a professional setup with cabins, reception areas, and meeting rooms. A 10 Marla office space for rent in Sector 9 Faridabad enhances productivity and brand image."
+      },
+      {
+        "title": "12 Marla Office Space for Rent in Sector 9 Faridabad",
+        "description": "12 Marla office spaces are ideal for mid-sized enterprises looking for spacious and organized offices. A 12 Marla office space for rent in Sector 9 Faridabad supports long-term business operations."
+      },
+      {
+        "title": "14 Marla Office Space for Rent in Sector 9 Faridabad",
+        "description": "14 Marla office spaces are premium commercial options suitable for large teams and corporate offices. A 14 Marla office space for rent in Sector 9 Faridabad offers flexibility and long-term value."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Office Space for Rent in Nearby Commercial Locations",
+    "description": [
+      "While searching for office space for rent in Sector 9 Faridabad, businesses often explore nearby sectors to compare rental pricing, connectivity, and work environment. Evaluating multiple locations helps in making confident and informed decisions.",
+      "Sector 9 is surrounded by several established commercial and residential areas. Exploring nearby office locations provides clarity on accessibility, infrastructure, and long-term business suitability."
+    ],
+    "locations": [
+      {
+        "title": "Office Space for Rent in Sector 9 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 10 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 15 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 16 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Commercial Property for Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop for Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "IT Office Space for Rent",
+        "path": "/",
+        "icon": "Cpu"
+      },
+      {
+        "title": "Corporate Office for Rent",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Coworking Space for Rent",
+        "path": "/",
+        "icon": "Users"
+      },
+      {
+        "title": "Business Center for Rent",
+        "path": "/",
+        "icon": "Handshake"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Businesses Trust Deal Acres for Office Space Rentals",
+    "description": [
+      "Finding the right office space for rent in Sector 9 Faridabad requires reliable information and verified listings. Deal Acres focuses on transparency and accuracy to help businesses make confident rental decisions.",
+      "With strong local market knowledge and a customer-first approach, Deal Acres simplifies the office rental process. Its consistent service quality and trust-driven platform make it a preferred choice for businesses across Faridabad."
+    ],
+    "points": [
+      {
+        "title": "Verified Office Listings",
+        "description": "All office listings are checked for authenticity and accuracy."
+      },
+      {
+        "title": "Transparent Rental Information",
+        "description": "Clear details help businesses plan better."
+      },
+      {
+        "title": "Local Commercial Expertise",
+        "description": "Deep understanding of Faridabad commercial areas."
+      },
+      {
+        "title": "Easy Office Comparison",
+        "description": "Compare multiple office options easily."
+      },
+      {
+        "title": "Business-Centric Platform",
+        "description": "Designed around real business needs."
+      },
+      {
+        "title": "Time-Saving Search Experience",
+        "description": "Quick access to relevant office spaces."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from search to final agreement."
+      },
+      {
+        "title": "Trusted by Businesses",
+        "description": "Preferred by startups and established firms."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Office Space for Rent",
+    "description": "Detailed and user-friendly answers to help you make informed office rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 9 Faridabad a good location for office space?",
+        "answer": "Yes, Sector 9 is a centrally located and well-developed area with strong connectivity."
+      },
+      {
+        "question": "What office sizes are available in Sector 9?",
+        "answer": "Office spaces from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Sector 9 suitable for corporate offices?",
+        "answer": "Yes, the area is suitable for consultants, corporate offices, and service firms."
+      },
+      {
+        "question": "Are parking facilities available?",
+        "answer": "Most office buildings in Sector 9 offer parking facilities."
+      },
+      {
+        "question": "Can office interiors be customized?",
+        "answer": "Many office spaces allow interior customization as per business needs."
+      },
+      {
+        "question": "Is Sector 9 good for long-term business operations?",
+        "answer": "Yes, the sector offers stability and a mature commercial environment."
+      },
+      {
+        "question": "How does Deal Acres verify office listings?",
+        "answer": "Listings are reviewed and verified before being published."
+      },
+      {
+        "question": "Are coworking spaces available near Sector 9?",
+        "answer": "Yes, coworking spaces are available in nearby sectors."
+      },
+      {
+        "question": "What factors affect office rent in Sector 9 Faridabad?",
+        "answer": "Office size, location, amenities, and building condition affect rental pricing."
+      },
+      {
+        "question": "How can I get expert help to rent an office?",
+        "answer": "You can submit your details through the contact form to connect with experts."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help to Rent Office Space in Sector 9 Faridabad",
+    "description": [
+      "Choosing the right office space for rent in Sector 9 Faridabad is an important business decision. Expert guidance helps you compare options and finalize the most suitable workspace.",
+      "Share your details to connect with experienced commercial property advisors who can assist you throughout the office rental process."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

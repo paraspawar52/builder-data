@@ -1,0 +1,216 @@
+{
+  "domain": "Office space for rent.com",
+  "hero": {
+    "title": "Modern and Well Planned Office Space for Rent in Sector 79",
+    "description": [
+      "Sector 79 Faridabad is a fast-growing and well-planned locality that is becoming a preferred choice for businesses looking for office space for rent in Sector 79 Faridabad. The area enjoys smooth connectivity to major roads, expressways, and nearby commercial sectors, making daily commuting convenient for employees and clients. With organized infrastructure and expanding residential developments around it, Sector 79 offers a balanced and professional working environment.",
+      "Office spaces in Sector 79 are suitable for startups, IT companies, service providers, and growing enterprises that want affordable rentals in a future-ready location. The sector provides access to daily amenities, nearby housing societies, and a skilled workforce. Renting an office in Sector 79 allows businesses to operate from a developing commercial zone that offers long-term growth potential, cost efficiency, and operational convenience."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces in Sector 79",
+        "path": "/"
+      },
+      {
+        "label": "Get Commercial Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Office Space Size Options Available for Rent in Sector 79",
+    "description": [
+      "Selecting the right office size is important for productivity, employee comfort, and rental cost control. Office space for rent in Sector 79 Faridabad is available in multiple plot and built-up size options, allowing businesses to choose workspaces that suit their team size, operational needs, and future expansion plans. Each size option supports different layouts and working styles.",
+      "Understanding these office size options helps businesses plan better, avoid unnecessary expenses, and ensure smooth daily operations. Whether you need a compact office or a larger professional setup, Sector 79 offers flexible office space solutions designed to support stable and long-term business growth."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space for Rent in Sector 79 Faridabad",
+        "description": "4 Marla office spaces are ideal for startups, freelancers, and small teams. These offices offer essential infrastructure at affordable rental rates. A 4 Marla office space for rent in Sector 79 Faridabad is suitable for cost-efficient operations."
+      },
+      {
+        "title": "6 Marla Office Space for Rent in Sector 79 Faridabad",
+        "description": "6 Marla office units provide a balance of affordability and functionality. They support better seating layouts and basic meeting spaces. A 6 Marla office space for rent in Sector 79 Faridabad is ideal for growing businesses."
+      },
+      {
+        "title": "8 Marla Office Space for Rent in Sector 79 Faridabad",
+        "description": "8 Marla office spaces are suitable for companies that require flexible layouts and collaborative work areas. An 8 Marla office space for rent in Sector 79 Faridabad works well for service-based firms."
+      },
+      {
+        "title": "10 Marla Office Space for Rent in Sector 79 Faridabad",
+        "description": "10 Marla office spaces offer a professional working environment with cabins, reception areas, and meeting rooms. A 10 Marla office space for rent in Sector 79 Faridabad enhances productivity and brand presence."
+      },
+      {
+        "title": "12 Marla Office Space for Rent in Sector 79 Faridabad",
+        "description": "12 Marla office spaces are ideal for mid-sized enterprises seeking spacious and organized offices. A 12 Marla office space for rent in Sector 79 Faridabad supports long-term business operations."
+      },
+      {
+        "title": "14 Marla Office Space for Rent in Sector 79 Faridabad",
+        "description": "14 Marla office spaces are premium commercial options suitable for large teams and corporate offices. A 14 Marla office space for rent in Sector 79 Faridabad offers flexibility and long-term value."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Office Space for Rent in Nearby Commercial Locations",
+    "description": [
+      "While searching for office space for rent in Sector 79 Faridabad, businesses often explore nearby sectors to compare rental pricing, connectivity, and infrastructure. Reviewing multiple locations helps decision-makers select the most suitable office for daily operations.",
+      "Faridabad has several developing commercial sectors around Sector 79. Exploring nearby office locations provides insights into market trends, accessibility, and future business opportunities."
+    ],
+    "locations": [
+      {
+        "title": "Office Space for Rent in Sector 79 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 78 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 77 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 81 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Commercial Property for Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop for Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "IT Office Space for Rent",
+        "path": "/",
+        "icon": "Cpu"
+      },
+      {
+        "title": "Corporate Office for Rent",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Coworking Space for Rent",
+        "path": "/",
+        "icon": "Users"
+      },
+      {
+        "title": "Business Center for Rent",
+        "path": "/",
+        "icon": "Handshake"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Businesses Trust Deal Acres for Office Space Rentals",
+    "description": [
+      "Finding the right office space for rent in Sector 79 Faridabad requires accurate listings and transparent property information. Deal Acres focuses on verified properties to help businesses make confident rental decisions.",
+      "With strong local market expertise and a customer-first approach, Deal Acres simplifies the office rental process. Its trust, reliability, and service quality make it a preferred choice for businesses across Faridabad."
+    ],
+    "points": [
+      {
+        "title": "Verified Office Listings",
+        "description": "All office listings are checked for authenticity and accuracy."
+      },
+      {
+        "title": "Transparent Rental Information",
+        "description": "Clear details help businesses plan better."
+      },
+      {
+        "title": "Local Commercial Expertise",
+        "description": "In-depth understanding of Faridabad commercial markets."
+      },
+      {
+        "title": "Easy Office Comparison",
+        "description": "Compare multiple office options easily."
+      },
+      {
+        "title": "Business-Centric Platform",
+        "description": "Designed around real business needs."
+      },
+      {
+        "title": "Time-Saving Search Experience",
+        "description": "Quick access to relevant office spaces."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from property search to final agreement."
+      },
+      {
+        "title": "Trusted by Businesses",
+        "description": "Preferred by startups and growing enterprises."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Office Space for Rent",
+    "description": "User-friendly answers to common questions to help you make informed office rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 79 Faridabad a good location for office space?",
+        "answer": "Yes, Sector 79 is a developing area with planned infrastructure and good connectivity."
+      },
+      {
+        "question": "What office sizes are available in Sector 79?",
+        "answer": "Office spaces ranging from 4 Marla to 14 Marla are available."
+      },
+      {
+        "question": "Is Sector 79 suitable for startups?",
+        "answer": "Yes, affordable rentals and flexible office sizes make it suitable for startups."
+      },
+      {
+        "question": "Are parking facilities available?",
+        "answer": "Most office buildings in Sector 79 provide parking facilities."
+      },
+      {
+        "question": "Can office interiors be customized?",
+        "answer": "Many office spaces allow customization as per business needs."
+      },
+      {
+        "question": "Is Sector 79 good for long-term business operations?",
+        "answer": "Yes, the sector shows steady development and long-term commercial potential."
+      },
+      {
+        "question": "How does Deal Acres verify office listings?",
+        "answer": "Listings are reviewed and verified before being published."
+      },
+      {
+        "question": "Are coworking spaces available near Sector 79?",
+        "answer": "Yes, coworking spaces are available in nearby sectors."
+      },
+      {
+        "question": "What factors affect office rent in Sector 79 Faridabad?",
+        "answer": "Office size, location, amenities, and building condition affect rental pricing."
+      },
+      {
+        "question": "How can I get expert help to rent an office?",
+        "answer": "You can fill out the contact form to connect with commercial property experts."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help to Rent Office Space in Sector 79 Faridabad",
+    "description": [
+      "Choosing the right office space for rent in Sector 79 Faridabad is an important business decision. Expert guidance helps you evaluate options and finalize the most suitable workspace.",
+      "Share your details to connect with experienced commercial property advisors who can assist you throughout the office rental process."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

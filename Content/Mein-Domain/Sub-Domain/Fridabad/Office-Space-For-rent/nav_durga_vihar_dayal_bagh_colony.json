@@ -1,0 +1,216 @@
+{
+  "domain": "Office space for rent.com",
+  "hero": {
+    "title": "Convenient and Affordable Office Space for Rent in Nav Durga Vihar",
+    "description": [
+      "Nav Durga Vihar in Dayal Bagh Colony, Faridabad is a well-established residential-cum-commercial locality that is increasingly preferred by businesses looking for office space for rent in Nav Durga Vihar, Dayal Bagh Colony Faridabad. The area offers smooth connectivity to Mathura Road, nearby industrial zones, and central Faridabad, making daily commuting easy for employees and clients. With a calm neighborhood setup and essential facilities close by, it provides a balanced work environment.",
+      "Office spaces in Nav Durga Vihar are suitable for small offices, professional service providers, consultants, and local businesses that want affordable rentals in a peaceful yet accessible location. The locality benefits from nearby residential density, local markets, and public transport availability. Renting an office here allows businesses to operate efficiently while keeping overhead costs under control, making it a practical choice for long-term operations."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces in Nav Durga Vihar",
+        "path": "/"
+      },
+      {
+        "label": "Get Commercial Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Office Space Size Options Available in Nav Durga Vihar Area",
+    "description": [
+      "Choosing the right office size plays an important role in ensuring smooth daily operations and controlled rental expenses. Office space for rent in Nav Durga Vihar, Dayal Bagh Colony Faridabad is available in multiple plot size options, allowing businesses to select workspaces that align with their team size and operational needs. Each size option supports different business requirements, from compact offices to more structured setups.",
+      "Understanding these options helps businesses plan layouts efficiently and avoid unnecessary space costs. Whether you are starting small or planning gradual expansion, Nav Durga Vihar offers flexible office space options that support stability and future growth."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space for Rent in Nav Durga Vihar",
+        "description": "4 Marla office spaces are ideal for small businesses, consultants, and startups. These units offer basic infrastructure at affordable rental levels. A 4 Marla office space for rent in Nav Durga Vihar, Dayal Bagh Colony Faridabad is suitable for cost-efficient operations."
+      },
+      {
+        "title": "6 Marla Office Space for Rent in Nav Durga Vihar",
+        "description": "6 Marla office spaces provide a balanced mix of affordability and functionality. They allow better seating layouts and small meeting areas. A 6 Marla office space for rent in Nav Durga Vihar suits growing teams."
+      },
+      {
+        "title": "8 Marla Office Space for Rent in Nav Durga Vihar",
+        "description": "8 Marla office spaces are suitable for businesses requiring flexible layouts and comfortable work areas. An 8 Marla office space for rent in Nav Durga Vihar, Dayal Bagh Colony Faridabad supports service-based operations."
+      },
+      {
+        "title": "10 Marla Office Space for Rent in Nav Durga Vihar",
+        "description": "10 Marla office spaces offer a professional setup with room for cabins, reception, and meeting areas. A 10 Marla office space for rent in Nav Durga Vihar helps enhance business efficiency."
+      },
+      {
+        "title": "12 Marla Office Space for Rent in Nav Durga Vihar",
+        "description": "12 Marla office spaces are suitable for mid-sized enterprises seeking organized and spacious offices. A 12 Marla office space for rent in Nav Durga Vihar, Dayal Bagh Colony Faridabad supports long-term operations."
+      },
+      {
+        "title": "14 Marla Office Space for Rent in Nav Durga Vihar",
+        "description": "14 Marla office spaces are premium options ideal for larger teams and established businesses. A 14 Marla office space for rent in Nav Durga Vihar offers flexibility and long-term commercial value."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Office Space for Rent in Nearby Business Locations",
+    "description": [
+      "While searching for office space for rent in Nav Durga Vihar, Dayal Bagh Colony Faridabad, businesses often explore nearby localities to compare rental pricing, accessibility, and work environment. Evaluating nearby areas helps in making well-informed decisions.",
+      "Faridabad offers several established and developing commercial zones around Dayal Bagh Colony. Exploring nearby office locations provides clarity on connectivity, infrastructure, and future business suitability."
+    ],
+    "locations": [
+      {
+        "title": "Office Space for Rent in Nav Durga Vihar Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Dayal Bagh Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in NIT Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 9 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Commercial Property for Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop for Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "IT Office Space for Rent",
+        "path": "/",
+        "icon": "Cpu"
+      },
+      {
+        "title": "Corporate Office for Rent",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Coworking Space for Rent",
+        "path": "/",
+        "icon": "Users"
+      },
+      {
+        "title": "Business Center for Rent",
+        "path": "/",
+        "icon": "Handshake"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is Trusted for Office Space Rentals",
+    "description": [
+      "Finding reliable office space for rent in Nav Durga Vihar, Dayal Bagh Colony Faridabad requires accurate listings and transparent information. Deal Acres focuses on verified properties to help businesses make confident rental decisions.",
+      "With strong local market understanding and a customer-first approach, Deal Acres simplifies the office rental journey. Its consistent service quality and trust-driven platform make it a preferred choice for businesses."
+    ],
+    "points": [
+      {
+        "title": "Verified Office Listings",
+        "description": "All listings are checked for authenticity."
+      },
+      {
+        "title": "Transparent Property Information",
+        "description": "Clear details help businesses plan effectively."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Faridabad localities."
+      },
+      {
+        "title": "Easy Property Comparison",
+        "description": "Compare multiple office options easily."
+      },
+      {
+        "title": "Business-Focused Platform",
+        "description": "Designed around real business needs."
+      },
+      {
+        "title": "Time-Saving Search Process",
+        "description": "Quick access to relevant office spaces."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from search to agreement."
+      },
+      {
+        "title": "Trusted by Businesses",
+        "description": "Preferred by small and growing firms."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Office Space for Rent",
+    "description": "Helpful answers to common questions to guide users in choosing the right office space.",
+    "faqs": [
+      {
+        "question": "Is Nav Durga Vihar a good location for office space?",
+        "answer": "Yes, it offers affordable rentals, good connectivity, and a peaceful working environment."
+      },
+      {
+        "question": "What office sizes are available in Nav Durga Vihar?",
+        "answer": "Office spaces from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is this area suitable for small businesses?",
+        "answer": "Yes, it is ideal for startups, consultants, and small offices."
+      },
+      {
+        "question": "Are parking facilities available?",
+        "answer": "Most office buildings offer basic parking facilities."
+      },
+      {
+        "question": "Can office interiors be modified?",
+        "answer": "Many owners allow interior customization as per requirements."
+      },
+      {
+        "question": "Is the area well connected to major roads?",
+        "answer": "Yes, it has good access to Mathura Road and nearby commercial areas."
+      },
+      {
+        "question": "How does Deal Acres verify listings?",
+        "answer": "All listings are reviewed before being published."
+      },
+      {
+        "question": "Are daily amenities available nearby?",
+        "answer": "Yes, markets, banks, and eateries are easily accessible."
+      },
+      {
+        "question": "What factors affect office rent here?",
+        "answer": "Office size, location, amenities, and building condition impact rent."
+      },
+      {
+        "question": "How can I get expert help to rent an office?",
+        "answer": "You can fill the contact form to connect with property experts."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help to Rent Office Space in Nav Durga Vihar",
+    "description": [
+      "Choosing the right office space for rent in Nav Durga Vihar, Dayal Bagh Colony Faridabad is an important business decision. Expert guidance helps you compare options and finalize the best workspace.",
+      "Share your details to connect with experienced commercial property advisors who can assist you throughout the office rental process."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

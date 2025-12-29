@@ -1,0 +1,173 @@
+{
+  "domain": "Affordable house.com",
+  "hero": {
+    "title": "Affordable and Well Connected Houses for Sale in Ashoka Enclave",
+    "description": [
+      "Ashoka Enclave Faridabad is a well-established residential locality known for its excellent connectivity, mature infrastructure, and comfortable living environment. Buyers searching for an affordable house in Ashoka Enclave Faridabad prefer this area due to its close proximity to Mathura Road, Delhi borders, metro stations, and key commercial zones of Faridabad. The locality offers a balanced lifestyle with easy access to schools, hospitals, shopping markets, and daily convenience facilities, making it ideal for families and working professionals.",
+      "Affordable houses in Ashoka Enclave Faridabad are suitable for first-time homebuyers as well as families looking to upgrade to an independent living space. The area is peaceful, well-inhabited, and supported by civic amenities that enhance long-term residential comfort. With stable property demand and consistent value appreciation, buying a house here ensures affordability, convenience, and long-term security in one of Faridabad’s trusted residential neighborhoods."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses in Ashoka Enclave",
+        "path": "/"
+      },
+      {
+        "label": "Get Housing Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Plot Size Options Available in Ashoka Enclave",
+    "description": [
+      "Choosing the right plot size is essential when planning a comfortable and practical home. Affordable house options in Ashoka Enclave Faridabad are available in multiple plot sizes, allowing buyers to select properties that align with their family needs, lifestyle expectations, and budget planning.",
+      "From compact independent houses to spacious family homes, Ashoka Enclave offers flexible residential plot options that support efficient layouts, ventilation, and future customization while maintaining affordability."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House in Ashoka Enclave Faridabad",
+        "description": "4 Marla houses are ideal for small families and budget-focused buyers seeking independent living in a prime locality. These homes provide functional layouts with essential living spaces and low maintenance requirements. A 4 Marla affordable house in Ashoka Enclave Faridabad offers affordability without compromising on location advantages."
+      },
+      {
+        "title": "6 Marla Affordable House in Ashoka Enclave Faridabad",
+        "description": "6 Marla houses offer a balanced combination of space and affordability. These homes typically include additional bedrooms, better ventilation, and parking convenience. Choosing a 6 Marla affordable house in Ashoka Enclave Faridabad is suitable for growing families seeking comfort and value."
+      },
+      {
+        "title": "8 Marla Affordable House in Ashoka Enclave Faridabad",
+        "description": "8 Marla houses allow enhanced design flexibility, including larger rooms and open spaces. An 8 Marla affordable house in Ashoka Enclave Faridabad is ideal for families that prefer better privacy, modern layouts, and long-term residential comfort."
+      },
+      {
+        "title": "10 Marla Affordable House in Ashoka Enclave Faridabad",
+        "description": "10 Marla houses are suitable for buyers looking for spacious interiors and premium home planning. These homes support elegant architecture, parking facilities, and open areas. A 10 Marla affordable house in Ashoka Enclave Faridabad enhances lifestyle quality while offering strong property value."
+      },
+      {
+        "title": "12 Marla Affordable House in Ashoka Enclave Faridabad",
+        "description": "12 Marla houses are ideal for larger families requiring multiple living areas and improved ventilation. These homes offer comfort, privacy, and scope for customization. Investing in a 12 Marla affordable house in Ashoka Enclave Faridabad ensures long-term residential satisfaction."
+      },
+      {
+        "title": "14 Marla Affordable House in Ashoka Enclave Faridabad",
+        "description": "14 Marla houses provide premium residential space for buyers seeking luxury within affordability limits. These homes allow expansive planning, green areas, and future expansion. A 14 Marla affordable house in Ashoka Enclave Faridabad is perfect for long-term family living."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses in Nearby Residential Locations",
+    "description": [
+      "Homebuyers searching for an affordable house in Ashoka Enclave Faridabad often explore nearby residential areas to compare pricing, connectivity, and available amenities.",
+      "Reviewing surrounding localities helps buyers make confident decisions and choose the most suitable affordable housing option."
+    ],
+    "locations": [
+      { "title": "Affordable House in Ashoka Enclave Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 37 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 49 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Surajkund Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Independent House for Sale", "path": "/", "icon": "Building" },
+      { "title": "Builder Floor for Sale", "path": "/", "icon": "Layers" },
+      { "title": "Residential Property for Sale", "path": "/", "icon": "MapPin" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Affordable Housing",
+    "description": [
+      "Finding a genuine affordable house in Ashoka Enclave Faridabad requires verified listings and transparent property details. Deal Acres ensures that every listing meets authenticity and quality standards.",
+      "With strong local expertise and a buyer-first approach, Deal Acres simplifies the home-buying process and helps customers make informed and confident decisions."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All properties are thoroughly checked for accuracy and authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing information helps buyers plan budgets effectively."
+      },
+      {
+        "title": "Strong Local Knowledge",
+        "description": "Deep understanding of Ashoka Enclave and nearby residential areas."
+      },
+      {
+        "title": "Wide Housing Options",
+        "description": "Multiple affordable house options across plot sizes."
+      },
+      {
+        "title": "Customer-Centric Platform",
+        "description": "Designed to address real buyer concerns and needs."
+      },
+      {
+        "title": "Time-Saving Property Search",
+        "description": "Quick access to relevant and verified housing options."
+      },
+      {
+        "title": "End-to-End Buying Support",
+        "description": "Complete assistance from inquiry to documentation."
+      },
+      {
+        "title": "Trusted by Families",
+        "description": "Preferred platform for reliable and affordable housing solutions."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Ashoka Enclave",
+    "description": "Detailed answers to help buyers make informed and confident home-buying decisions.",
+    "faqs": [
+      {
+        "question": "Is Ashoka Enclave a good location to buy an affordable house?",
+        "answer": "Yes, Ashoka Enclave is a well-developed and centrally located residential area with excellent connectivity, amenities, and stable property demand."
+      },
+      {
+        "question": "What plot sizes are available in Ashoka Enclave?",
+        "answer": "Affordable houses are available in plot sizes ranging from 4 Marla to 14 Marla."
+      },
+      {
+        "question": "Are schools and hospitals nearby?",
+        "answer": "Yes, reputed schools, hospitals, clinics, and healthcare facilities are easily accessible."
+      },
+      {
+        "question": "Is Ashoka Enclave suitable for long-term living?",
+        "answer": "The area offers a peaceful environment, strong infrastructure, and long-term residential stability."
+      },
+      {
+        "question": "Is public transport easily available?",
+        "answer": "Yes, the locality has excellent road connectivity and metro access nearby."
+      },
+      {
+        "question": "Are these houses suitable for first-time buyers?",
+        "answer": "Yes, affordable pricing and independent living make them ideal for first-time homebuyers."
+      },
+      {
+        "question": "Can houses be customized?",
+        "answer": "Many properties allow customization with required approvals."
+      },
+      {
+        "question": "Is Ashoka Enclave a family-friendly locality?",
+        "answer": "Yes, it is a safe and family-oriented area with established residential communities."
+      },
+      {
+        "question": "What factors affect house prices here?",
+        "answer": "Plot size, construction quality, exact location, and amenities influence pricing."
+      },
+      {
+        "question": "How does Deal Acres help buyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, and end-to-end home-buying assistance."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance to Buy Affordable Houses in Ashoka Enclave",
+    "description": [
+      "Buying an affordable house in Ashoka Enclave Faridabad is a significant decision that requires trusted information and professional support. Expert assistance helps you choose the right home with clarity and confidence.",
+      "Share your details to connect with experienced property advisors who will guide you throughout your home-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

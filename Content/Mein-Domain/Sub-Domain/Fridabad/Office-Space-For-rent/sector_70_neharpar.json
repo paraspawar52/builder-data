@@ -1,0 +1,147 @@
+{
+  "domain": "Office space for rent.com",
+  "hero": {
+    "title": "Premium Office Space for Rent in Sector 70 Neharpar",
+    "description": [
+      "Sector 70 in Neharpar, Faridabad is emerging as a preferred commercial destination for businesses looking for flexible and cost-effective office solutions. Office space for rent in Sector 70, Neharpar Faridabad offers excellent connectivity to major roads, residential catchments, and upcoming infrastructure, making daily business operations smooth and efficient. The area supports modern office needs with nearby amenities, parking facilities, and a professional environment.",
+      "With growing demand from startups, IT services, consultancies, and small enterprises, Sector 70 Neharpar provides rental office options that balance affordability and accessibility. Renting office space here allows businesses to stay agile, reduce upfront investment, and scale operations easily while enjoying the benefits of a fast-developing commercial hub in Faridabad."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Space for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661963646930-91c3e2b2d5b6?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661878265734-50a0f3a56e8f?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Flexible Office Plot Sizes for Rent in Sector 70 Neharpar",
+    "description": [
+      "Businesses searching for office space for rent in Sector 70, Neharpar Faridabad can choose from multiple plot sizes based on team size, workflow requirements, and budget. Rental office options here provide flexibility without long-term ownership commitments.",
+      "Different plot sizes allow companies to select spaces that support productivity and future growth."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space for Rent",
+        "description": "4 Marla office spaces for rent in Sector 70 Neharpar are ideal for startups and individual professionals seeking a compact, affordable workspace in a developing commercial area."
+      },
+      {
+        "title": "6 Marla Office Space for Rent",
+        "description": "6 Marla office spaces offer slightly larger layouts suitable for small teams. Office space for rent in Sector 70, Neharpar Faridabad in this size supports client meetings and daily operations."
+      },
+      {
+        "title": "8 Marla Office Space for Rent",
+        "description": "8 Marla office spaces provide balanced layouts with room for cabins and workstations. These are popular among growing businesses renting office space in Sector 70 Neharpar."
+      },
+      {
+        "title": "10 Marla Office Space for Rent",
+        "description": "10 Marla office spaces for rent suit established firms needing professional layouts, branding opportunities, and comfortable employee capacity."
+      },
+      {
+        "title": "12 Marla Office Space for Rent",
+        "description": "12 Marla office spaces offer spacious interiors and are suitable for companies planning mid-term expansion while renting in Sector 70 Neharpar Faridabad."
+      },
+      {
+        "title": "14 Marla Office Space for Rent",
+        "description": "14 Marla office spaces are premium rental options designed for larger teams and corporate offices seeking visibility and scale."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Discover More Office Rental Locations Near Sector 70 Neharpar",
+    "description": [
+      "While exploring office space for rent in Sector 70, Neharpar Faridabad, businesses often compare nearby commercial locations to find the best rental value.",
+      "Deal Acres helps users explore multiple office rental options across Faridabad."
+    ],
+    "locations": [
+      { "title": "Office Space For Rent", "path": "/", "icon": "Key" },
+      { "title": "Office Space For Sale", "path": "/", "icon": "BriefcaseBusiness" },
+      { "title": "Commercial Property For Rent", "path": "/", "icon": "Building" },
+      { "title": "Commercial Property For Sale", "path": "/", "icon": "Building2" },
+      { "title": "Shop For Rent", "path": "/", "icon": "Store" },
+      { "title": "Shop For Sale", "path": "/", "icon": "Store" },
+      { "title": "Co-working Space", "path": "/", "icon": "Users" },
+      { "title": "Warehouse For Rent", "path": "/", "icon": "Warehouse" },
+      { "title": "Industrial Property For Rent", "path": "/", "icon": "Landmark" },
+      { "title": "Business Rentals in Faridabad", "path": "/", "icon": "Handshake" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is Trusted for Office Rentals",
+    "description": [
+      "Finding reliable office space for rent in Sector 70, Neharpar Faridabad requires accurate listings and market clarity. Deal Acres focuses on transparency and verified rental options.",
+      "Our platform is designed to help tenants make confident rental decisions."
+    ],
+    "points": [
+      { "title": "Verified Rental Listings", "description": "All office rental listings are checked for accuracy." },
+      { "title": "Clear Rental Details", "description": "Transparent rent, deposit, and usage information." },
+      { "title": "Local Area Expertise", "description": "Strong understanding of Neharpar commercial zones." },
+      { "title": "User-Friendly Platform", "description": "Easy filtering and shortlisting of office spaces." },
+      { "title": "Flexible Rental Options", "description": "Offices suited for short-term and long-term rentals." },
+      { "title": "Tenant-Focused Approach", "description": "Listings curated keeping tenant needs in mind." },
+      { "title": "Support at Every Step", "description": "Assistance from enquiry to final selection." },
+      { "title": "Trusted by Businesses", "description": "Preferred platform for office rentals in Faridabad." }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions",
+    "description": "Answers to common queries about office space for rent in Sector 70 Neharpar Faridabad.",
+    "faqs": [
+      {
+        "question": "Is Sector 70 Neharpar good for renting office space?",
+        "answer": "Yes, it offers affordable rents, good connectivity, and growing commercial activity."
+      },
+      {
+        "question": "What office sizes are available for rent?",
+        "answer": "Office spaces generally range from 4 Marla to 14 Marla depending on availability."
+      },
+      {
+        "question": "Are rental offices suitable for startups?",
+        "answer": "Yes, the area is popular among startups due to flexible rental options."
+      },
+      {
+        "question": "What is the typical lease duration?",
+        "answer": "Lease terms vary and can be short-term or long-term based on agreement."
+      },
+      {
+        "question": "Is parking available with rental offices?",
+        "answer": "Parking availability depends on the specific property and layout."
+      },
+      {
+        "question": "Can offices be customized by tenants?",
+        "answer": "Minor interior customization is usually allowed with owner consent."
+      },
+      {
+        "question": "Are Deal Acres rental listings verified?",
+        "answer": "Yes, all rental listings are verified before being listed."
+      },
+      {
+        "question": "Do rents include maintenance charges?",
+        "answer": "Maintenance terms depend on individual property agreements."
+      },
+      {
+        "question": "Is public transport easily accessible?",
+        "answer": "Yes, Sector 70 Neharpar is well-connected by road and local transport."
+      },
+      {
+        "question": "How can I enquire about a rental office?",
+        "answer": "You can submit your details through the enquiry form for assistance."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get in Touch for Office Space for Rent",
+    "description": [
+      "Choosing the right office space for rent in Sector 70, Neharpar Faridabad becomes simpler with expert guidance. Deal Acres helps businesses find rental offices that match their operational and budget needs.",
+      "Fill in your details to receive personalized rental options and professional support."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

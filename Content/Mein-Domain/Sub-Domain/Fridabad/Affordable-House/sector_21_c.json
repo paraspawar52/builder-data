@@ -1,0 +1,173 @@
+{
+  "domain": "Affordable house.com",
+  "hero": {
+    "title": "Affordable and Well Connected Houses for Sale in Sector 21C",
+    "description": [
+      "Sector 21C Faridabad is a well-established and centrally located residential area, making it a preferred choice for buyers looking for an affordable house in Sector 21C Faridabad. The locality enjoys excellent connectivity to Mathura Road, Delhi border areas, and major commercial hubs of Faridabad. With wide internal roads, mature infrastructure, and a peaceful environment, Sector 21C offers a comfortable lifestyle for families, professionals, and retirees. The presence of reputed schools, hospitals, shopping markets, and parks adds to the everyday convenience of residents.",
+      "Affordable houses in Sector 21C Faridabad are ideal for buyers seeking independent living in a prime location without stretching their budget. The area is known for its stable residential demand, safety, and long-term livability. With well-developed civic amenities and easy access to public transport, investing in a house here ensures affordability, location advantage, and long-term residential value in one of Faridabad’s most trusted neighborhoods."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses in Sector 21C",
+        "path": "/"
+      },
+      {
+        "label": "Get Housing Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Plot Size Options Available in Sector 21C",
+    "description": [
+      "Choosing the right plot size is an important factor when planning a comfortable and functional home. Affordable house options in Sector 21C Faridabad are available in multiple plot sizes, allowing buyers to select properties that suit their family requirements, lifestyle preferences, and budget planning.",
+      "From compact homes for small families to spacious houses for larger households, Sector 21C offers flexible plot size options that support efficient layouts, ventilation, and long-term residential comfort."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House in Sector 21C Faridabad",
+        "description": "4 Marla houses are ideal for small families and first-time homebuyers seeking budget-friendly independent living. These homes offer practical layouts with essential living spaces and low maintenance costs. A 4 Marla affordable house in Sector 21C Faridabad provides the advantage of a prime location at an affordable price point."
+      },
+      {
+        "title": "6 Marla Affordable House in Sector 21C Faridabad",
+        "description": "6 Marla houses provide a balanced combination of affordability and space. These homes usually include additional bedrooms, better ventilation, and parking facilities. Choosing a 6 Marla affordable house in Sector 21C Faridabad is suitable for growing families looking for comfort and value."
+      },
+      {
+        "title": "8 Marla Affordable House in Sector 21C Faridabad",
+        "description": "8 Marla houses allow more flexibility in home design, including larger rooms and open areas. An 8 Marla affordable house in Sector 21C Faridabad is ideal for families that value privacy, space, and a well-planned living environment."
+      },
+      {
+        "title": "10 Marla Affordable House in Sector 21C Faridabad",
+        "description": "10 Marla houses are suitable for buyers who prefer spacious interiors and premium residential planning. These homes support elegant designs, open spaces, and comfortable parking. A 10 Marla affordable house in Sector 21C Faridabad enhances lifestyle quality while maintaining strong resale value."
+      },
+      {
+        "title": "12 Marla Affordable House in Sector 21C Faridabad",
+        "description": "12 Marla houses are ideal for larger families requiring multiple living areas and enhanced privacy. These homes offer better ventilation, comfort, and scope for customization. Investing in a 12 Marla affordable house in Sector 21C Faridabad ensures long-term residential satisfaction."
+      },
+      {
+        "title": "14 Marla Affordable House in Sector 21C Faridabad",
+        "description": "14 Marla houses offer premium space for families seeking long-term independent living. These homes allow expansive planning, green areas, and future expansion. A 14 Marla affordable house in Sector 21C Faridabad delivers space, stability, and long-term value."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses in Nearby Residential Locations",
+    "description": [
+      "Buyers searching for an affordable house in Sector 21C Faridabad often explore nearby residential areas to compare pricing, connectivity, and amenities.",
+      "Evaluating surrounding localities helps homebuyers make informed decisions and select the most suitable affordable housing option."
+    ],
+    "locations": [
+      { "title": "Affordable House in Sector 21C Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 21D Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 16 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 15 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Independent House for Sale", "path": "/", "icon": "Building" },
+      { "title": "Builder Floor for Sale", "path": "/", "icon": "Layers" },
+      { "title": "Residential Property for Sale", "path": "/", "icon": "MapPin" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Affordable Houses",
+    "description": [
+      "Finding a genuine affordable house in Sector 21C Faridabad requires verified listings and transparent property details. Deal Acres ensures buyers receive accurate and reliable information at every step.",
+      "With strong local expertise and a customer-first approach, Deal Acres simplifies the home-buying journey and helps buyers make confident decisions."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All properties are thoroughly verified for authenticity and accuracy."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing details help buyers plan their budgets confidently."
+      },
+      {
+        "title": "Strong Local Expertise",
+        "description": "In-depth knowledge of Sector 21C and nearby residential areas."
+      },
+      {
+        "title": "Wide Housing Options",
+        "description": "Multiple affordable house options across various plot sizes."
+      },
+      {
+        "title": "Customer-Centric Platform",
+        "description": "Designed to address real homebuyer needs effectively."
+      },
+      {
+        "title": "Time-Saving Property Search",
+        "description": "Quick access to relevant and verified housing options."
+      },
+      {
+        "title": "End-to-End Buying Assistance",
+        "description": "Support from property search to documentation and possession."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Preferred platform for reliable and affordable housing solutions."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Sector 21C",
+    "description": "Clear and detailed answers to help buyers make confident home-buying decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 21C Faridabad a good location to buy an affordable house?",
+        "answer": "Yes, Sector 21C is a well-established and centrally located residential area with excellent connectivity and amenities, making it ideal for affordable housing."
+      },
+      {
+        "question": "What plot sizes are available in Sector 21C?",
+        "answer": "Affordable houses in Sector 21C are available in plot sizes ranging from 4 Marla to 14 Marla."
+      },
+      {
+        "question": "Are schools and hospitals nearby?",
+        "answer": "Yes, reputed schools, hospitals, clinics, and healthcare facilities are easily accessible from Sector 21C."
+      },
+      {
+        "question": "Is Sector 21C suitable for long-term living?",
+        "answer": "The area offers a peaceful environment, mature infrastructure, and stable residential demand, making it suitable for long-term living."
+      },
+      {
+        "question": "Is public transport easily available?",
+        "answer": "Yes, the locality has excellent road connectivity and access to public transport options."
+      },
+      {
+        "question": "Are these houses suitable for first-time buyers?",
+        "answer": "Yes, affordable pricing and independent living make these houses ideal for first-time homebuyers."
+      },
+      {
+        "question": "Can houses be customized after purchase?",
+        "answer": "Many properties allow customization with required approvals from authorities."
+      },
+      {
+        "question": "Is Sector 21C a family-friendly locality?",
+        "answer": "Yes, Sector 21C is a safe and family-oriented area with established residential communities."
+      },
+      {
+        "question": "What factors influence house prices in Sector 21C?",
+        "answer": "Plot size, construction quality, exact location, and available amenities influence house prices."
+      },
+      {
+        "question": "How does Deal Acres help homebuyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, and end-to-end support throughout the home-buying process."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance to Buy Affordable Houses in Sector 21C",
+    "description": [
+      "Buying an affordable house in Sector 21C Faridabad is an important decision that requires the right information and professional assistance. Expert guidance helps you avoid confusion and choose the best property confidently.",
+      "Share your details to connect with experienced property advisors who will assist you throughout your home-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

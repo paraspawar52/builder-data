@@ -1,0 +1,216 @@
+{
+  "domain": "Office space for rent.com",
+  "hero": {
+    "title": "Affordable and Well Connected Office Space for Rent in Dabua Colony",
+    "description": [
+      "Dabua Colony Faridabad is a well-established locality that offers practical and budget-friendly options for businesses looking for office space for rent in Dabua Colony Faridabad. The area enjoys good connectivity to key parts of Faridabad, including NIT, NH-19, and nearby industrial and residential zones. Its location makes daily commuting convenient for employees and ensures smooth accessibility for clients and vendors.",
+      "Office spaces in Dabua Colony are suitable for small businesses, local service providers, startups, and support offices that want affordable rentals without compromising on connectivity. The presence of nearby markets, residential areas, banks, and daily amenities creates a comfortable working environment. Renting an office in Dabua Colony allows businesses to operate from a stable locality with consistent demand, reasonable rental values, and long-term operational convenience."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces in Dabua Colony",
+        "path": "/"
+      },
+      {
+        "label": "Get Office Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Office Space Size Options Available for Rent in Dabua Colony",
+    "description": [
+      "Choosing the right office size is important for managing daily operations, staff comfort, and rental budgets. Office space for rent in Dabua Colony Faridabad is available in multiple plot size options, allowing businesses to select workspaces that match their current needs and future plans.",
+      "From compact offices for small teams to larger setups for growing companies, Dabua Colony offers flexible office size options. Understanding these choices helps businesses make informed and confident rental decisions."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space for Rent in Dabua Colony Faridabad",
+        "description": "4 Marla office spaces are ideal for startups, freelancers, and small service-based businesses. These offices are affordable and easy to maintain. A 4 Marla office space for rent in Dabua Colony Faridabad supports cost-efficient operations."
+      },
+      {
+        "title": "6 Marla Office Space for Rent in Dabua Colony Faridabad",
+        "description": "6 Marla office spaces provide a balanced layout with room for workstations and small meeting areas. A 6 Marla office space for rent in Dabua Colony Faridabad suits growing teams."
+      },
+      {
+        "title": "8 Marla Office Space for Rent in Dabua Colony Faridabad",
+        "description": "8 Marla office spaces allow better planning with separate cabins and work areas. An 8 Marla office space for rent in Dabua Colony Faridabad is suitable for service and trading firms."
+      },
+      {
+        "title": "10 Marla Office Space for Rent in Dabua Colony Faridabad",
+        "description": "10 Marla office spaces support professional setups with reception and meeting rooms. A 10 Marla office space for rent in Dabua Colony Faridabad improves operational efficiency."
+      },
+      {
+        "title": "12 Marla Office Space for Rent in Dabua Colony Faridabad",
+        "description": "12 Marla office spaces are ideal for mid-sized businesses seeking spacious and organized work environments. A 12 Marla office space for rent in Dabua Colony Faridabad supports long-term growth."
+      },
+      {
+        "title": "14 Marla Office Space for Rent in Dabua Colony Faridabad",
+        "description": "14 Marla office spaces are premium options suitable for larger teams and established enterprises. A 14 Marla office space for rent in Dabua Colony Faridabad offers flexibility and expansion potential."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Office Space for Rent in Nearby Commercial Locations",
+    "description": [
+      "While searching for office space for rent in Dabua Colony Faridabad, businesses often explore nearby areas to compare rental values, connectivity, and infrastructure. This helps in selecting the most suitable commercial location.",
+      "Dabua Colony is surrounded by key commercial and residential areas of Faridabad, offering multiple office rental options for different business needs."
+    ],
+    "locations": [
+      {
+        "title": "Office Space for Rent in Dabua Colony Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in NIT Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 23 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 22 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Commercial Property for Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop for Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Corporate Office Space",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "IT Office Space",
+        "path": "/",
+        "icon": "Cpu"
+      },
+      {
+        "title": "Coworking Space",
+        "path": "/",
+        "icon": "Users"
+      },
+      {
+        "title": "Business Center for Rent",
+        "path": "/",
+        "icon": "Handshake"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is Trusted for Office Space Rentals",
+    "description": [
+      "Finding the right office space for rent in Dabua Colony Faridabad requires accurate information and verified listings. Deal Acres focuses on transparency and reliability to help businesses make confident rental decisions.",
+      "With strong local market expertise and a customer-first approach, Deal Acres simplifies the office search process and delivers consistent service quality."
+    ],
+    "points": [
+      {
+        "title": "Verified Office Listings",
+        "description": "All properties are checked for authenticity."
+      },
+      {
+        "title": "Transparent Property Details",
+        "description": "Clear information with no hidden charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Faridabad localities."
+      },
+      {
+        "title": "Easy Property Comparison",
+        "description": "Compare multiple office options easily."
+      },
+      {
+        "title": "Business-Focused Platform",
+        "description": "Designed to meet real business needs."
+      },
+      {
+        "title": "Time-Saving Search Experience",
+        "description": "Quick access to relevant listings."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from inquiry to final agreement."
+      },
+      {
+        "title": "Trusted by Businesses",
+        "description": "Preferred by startups and local enterprises."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Office Space in Dabua Colony",
+    "description": "Clear and detailed answers to help you choose the right office space.",
+    "faqs": [
+      {
+        "question": "Is Dabua Colony Faridabad suitable for office space?",
+        "answer": "Yes, it offers affordable rentals with good connectivity to major areas of Faridabad."
+      },
+      {
+        "question": "What office sizes are available in Dabua Colony?",
+        "answer": "Office spaces from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Dabua Colony suitable for startups?",
+        "answer": "Yes, budget-friendly office options make it ideal for startups."
+      },
+      {
+        "question": "Are parking facilities available?",
+        "answer": "Most office properties provide basic parking facilities."
+      },
+      {
+        "question": "Can office interiors be customized?",
+        "answer": "Many landlords allow interior modifications as per business needs."
+      },
+      {
+        "question": "Is public transport easily accessible?",
+        "answer": "Yes, buses, autos, and road connectivity are easily available."
+      },
+      {
+        "question": "How does Deal Acres verify office listings?",
+        "answer": "All listings are reviewed before being published."
+      },
+      {
+        "question": "Are markets and banks nearby?",
+        "answer": "Yes, daily amenities are available within close proximity."
+      },
+      {
+        "question": "What factors affect office rent in Dabua Colony?",
+        "answer": "Office size, building condition, and location influence rental pricing."
+      },
+      {
+        "question": "How can I get expert help to rent an office?",
+        "answer": "You can submit your details through the contact form for assistance."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help to Rent Office Space in Dabua Colony Faridabad",
+    "description": [
+      "Choosing the right office space for rent in Dabua Colony Faridabad is an important business decision. Expert guidance helps you compare options and finalize the most suitable workspace.",
+      "Share your details to connect with experienced commercial property professionals who can assist you throughout the office rental process."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

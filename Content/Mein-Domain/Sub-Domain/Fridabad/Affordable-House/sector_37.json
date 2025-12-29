@@ -1,0 +1,174 @@
+{
+  "domain": "Affordable house.com",
+
+  "hero": {
+    "title": "Affordable and Comfortable Independent Houses for Sale in Sector 37",
+    "description": [
+      "Sector 37 Faridabad is a well-developed residential locality known for its balanced lifestyle, smooth connectivity, and established civic infrastructure. Buyers looking for an affordable house in Sector 37 Faridabad prefer this area due to its proximity to Mathura Road, NH-19, and nearby industrial as well as commercial zones. The sector offers an organized residential layout with wide internal roads and a peaceful neighborhood environment suitable for families.",
+      "Affordable houses in Sector 37 Faridabad are ideal for working professionals, small business owners, and families seeking independent living within city limits. The locality provides easy access to schools, hospitals, local markets, parks, and public transport facilities. With steady residential demand, consistent development, and practical housing options, Sector 37 remains a reliable choice for affordable and long-term home ownership in Faridabad."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses in Sector 37",
+        "path": "/"
+      },
+      {
+        "label": "Get Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Plot Size Options Available in Sector 37 Faridabad",
+    "description": [
+      "Choosing the right plot size is an important decision when planning an independent home. Affordable house options in Sector 37 Faridabad are available in multiple plot sizes to match different family requirements and budget preferences.",
+      "Whether you are planning a compact home or a spacious independent house, Sector 37 offers flexible plot size options with practical layouts, good ventilation, and long-term residential comfort."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House in Sector 37 Faridabad",
+        "description": "4 Marla houses are ideal for small families and first-time buyers seeking budget-friendly independent living. These homes offer efficient layouts with essential rooms and easy maintenance. A 4 Marla affordable house in Sector 37 Faridabad provides practical urban living."
+      },
+      {
+        "title": "6 Marla Affordable House in Sector 37 Faridabad",
+        "description": "6 Marla houses offer a balanced combination of affordability and usable space. These homes generally include additional bedrooms, improved ventilation, and parking space. A 6 Marla affordable house in Sector 37 Faridabad suits growing families well."
+      },
+      {
+        "title": "8 Marla Affordable House in Sector 37 Faridabad",
+        "description": "8 Marla houses allow better interior planning and larger living areas. These homes provide enhanced privacy, natural light, and flexible design options. An 8 Marla affordable house in Sector 37 Faridabad supports comfortable family living."
+      },
+      {
+        "title": "10 Marla Affordable House in Sector 37 Faridabad",
+        "description": "10 Marla houses are suitable for buyers who prefer spacious interiors and organized layouts. These homes offer ample room sizes and parking convenience. A 10 Marla affordable house in Sector 37 Faridabad improves lifestyle quality."
+      },
+      {
+        "title": "12 Marla Affordable House in Sector 37 Faridabad",
+        "description": "12 Marla houses are ideal for larger families needing multiple rooms and better privacy. These homes provide good airflow and scope for customization. A 12 Marla affordable house in Sector 37 Faridabad ensures long-term comfort."
+      },
+      {
+        "title": "14 Marla Affordable House in Sector 37 Faridabad",
+        "description": "14 Marla houses offer premium independent living space in a well-established locality. These homes support spacious layouts and future expansion. A 14 Marla affordable house in Sector 37 Faridabad delivers stability and value."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses in Sector 37 and Nearby Localities",
+    "description": [
+      "Buyers searching for an affordable house in Sector 37 Faridabad often compare nearby residential areas to evaluate pricing, connectivity, and facilities.",
+      "Exploring surrounding localities helps in selecting the most suitable affordable housing option based on lifestyle and long-term needs."
+    ],
+    "locations": [
+      { "title": "Affordable House in Sector 37 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 36 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 35 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 32 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Independent House for Sale", "path": "/", "icon": "Building" },
+      { "title": "Builder Floor for Sale", "path": "/", "icon": "Layers" },
+      { "title": "Residential Property for Sale", "path": "/", "icon": "MapPin" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Prefer Deal Acres for Affordable Houses",
+    "description": [
+      "Finding a genuine affordable house in Sector 37 Faridabad requires verified property details and transparent information. Deal Acres focuses on accuracy and trust.",
+      "With local expertise and a customer-first approach, Deal Acres makes the home-buying process smooth, reliable, and stress-free."
+    ],
+    "points": [
+      {
+        "title": "Verified Listings",
+        "description": "All properties are verified for authenticity and ownership."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing details with no hidden charges."
+      },
+      {
+        "title": "Strong Local Expertise",
+        "description": "Deep understanding of Sector 37 and surrounding areas."
+      },
+      {
+        "title": "Multiple Plot Choices",
+        "description": "Wide range of affordable house plot sizes."
+      },
+      {
+        "title": "Buyer-Focused Platform",
+        "description": "Designed to solve real buyer concerns."
+      },
+      {
+        "title": "Time-Saving Search",
+        "description": "Quick access to relevant and verified listings."
+      },
+      {
+        "title": "Complete Buying Support",
+        "description": "Assistance from property selection to final possession."
+      },
+      {
+        "title": "Trusted by Customers",
+        "description": "Deal Acres is a preferred choice for affordable housing."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Sector 37",
+    "description": "Clear and detailed answers to help buyers make confident home-buying decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 37 Faridabad a good location for buying a house?",
+        "answer": "Yes, Sector 37 is a well-established residential area with good connectivity, amenities, and stable property demand."
+      },
+      {
+        "question": "What plot sizes are available in Sector 37?",
+        "answer": "Affordable houses in Sector 37 are available from 4 Marla to 14 Marla plot sizes."
+      },
+      {
+        "question": "Are daily amenities easily accessible?",
+        "answer": "Yes, schools, hospitals, markets, and parks are located close to Sector 37."
+      },
+      {
+        "question": "Is Sector 37 suitable for families?",
+        "answer": "The locality offers a peaceful environment, making it ideal for families."
+      },
+      {
+        "question": "How is connectivity from Sector 37?",
+        "answer": "Sector 37 has smooth road connectivity and access to public transport."
+      },
+      {
+        "question": "Are these houses good for first-time buyers?",
+        "answer": "Yes, affordable pricing and practical layouts make them suitable for first-time buyers."
+      },
+      {
+        "question": "Can houses be customized?",
+        "answer": "Many houses allow interior and layout customization as per guidelines."
+      },
+      {
+        "question": "Is Sector 37 good for long-term investment?",
+        "answer": "Yes, steady demand and established infrastructure support long-term value."
+      },
+      {
+        "question": "What impacts house prices in Sector 37?",
+        "answer": "Plot size, construction quality, location, and nearby facilities influence pricing."
+      },
+      {
+        "question": "How does Deal Acres assist buyers?",
+        "answer": "Deal Acres offers verified listings, expert guidance, and end-to-end support."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help to Buy Affordable Houses in Sector 37 Faridabad",
+    "description": [
+      "Buying an affordable house in Sector 37 Faridabad requires accurate information and professional support. Expert guidance helps you avoid confusion and make confident decisions.",
+      "Share your details to connect with experienced property advisors who will assist you throughout your home-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

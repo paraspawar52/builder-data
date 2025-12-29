@@ -1,0 +1,216 @@
+{
+  "domain": "Office space for rent.com",
+  "hero": {
+    "title": "Modern and Well Connected Office Space for Rent in Sector 82",
+    "description": [
+      "Sector 82 Faridabad is rapidly emerging as a preferred commercial destination for businesses looking for office space for rent in Sector 82 Faridabad. Strategically located near major highways and residential sectors, this area offers smooth connectivity to Delhi, Noida, and other key business zones. The planned infrastructure, wide roads, and proximity to housing societies make it convenient for employees, clients, and daily operations. Businesses benefit from a professional environment that supports growth and long-term stability.",
+      "Office spaces in Sector 82 are suitable for startups, SMEs, and established companies seeking functional layouts and reliable surroundings. From compact workspaces to larger commercial units, the locality offers flexibility in office sizes and rental options. Choosing an office here means working from a location that balances accessibility, affordability, and commercial potential in Faridabad."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces in Sector 82",
+        "path": "/"
+      },
+      {
+        "label": "Get Commercial Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Flexible Office Space Size Options for Rent in Sector 82",
+    "description": [
+      "Selecting the right office size is an important step for any business planning to rent a workspace. Office space for rent in Sector 82 Faridabad is available in multiple plot and built-up size configurations, allowing companies to choose offices that match their team strength, workflow, and future expansion plans. Each size option supports different operational needs, from compact setups to full-scale office environments.",
+      "Understanding these size options helps businesses manage rental budgets efficiently while ensuring comfort and productivity. Whether you are starting small or planning a larger office presence, Sector 82 offers adaptable office spaces that support professional growth and operational efficiency."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space for Rent in Sector 82 Faridabad",
+        "description": "4 Marla office spaces are suitable for startups, consultants, and small teams. These offices offer essential facilities with manageable rental costs, making them ideal for businesses in the early stages. A 4 Marla office space for rent in Sector 82 Faridabad is often chosen for cost-effective and focused operations."
+      },
+      {
+        "title": "6 Marla Office Space for Rent in Sector 82 Faridabad",
+        "description": "6 Marla office units provide a balanced combination of space and affordability. They allow better seating arrangements, small meeting areas, and organized work zones. Businesses looking for moderate expansion often prefer a 6 Marla office space for rent in Sector 82 Faridabad."
+      },
+      {
+        "title": "8 Marla Office Space for Rent in Sector 82 Faridabad",
+        "description": "8 Marla office spaces are ideal for growing companies that require flexibility in layout and team collaboration. These offices can accommodate multiple departments comfortably. An 8 Marla office space for rent in Sector 82 Faridabad suits IT firms and service-based businesses."
+      },
+      {
+        "title": "10 Marla Office Space for Rent in Sector 82 Faridabad",
+        "description": "10 Marla office spaces offer a premium working environment with scope for cabins, reception areas, and conference rooms. These offices help enhance brand image and productivity. A 10 Marla office space for rent in Sector 82 Faridabad is preferred by established enterprises."
+      },
+      {
+        "title": "12 Marla Office Space for Rent in Sector 82 Faridabad",
+        "description": "12 Marla office spaces are suitable for mid-sized organizations seeking spacious and structured work environments. These units support advanced infrastructure and long-term operations. A 12 Marla office space for rent in Sector 82 Faridabad ensures comfort and scalability."
+      },
+      {
+        "title": "14 Marla Office Space for Rent in Sector 82 Faridabad",
+        "description": "14 Marla office spaces represent premium commercial setups for large teams and corporate offices. These offices allow extensive customization and professional branding. A 14 Marla office space for rent in Sector 82 Faridabad offers prestige and long-term value."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Office Space for Rent in Nearby Business Locations",
+    "description": [
+      "While searching for office space for rent in Sector 82 Faridabad, many businesses also review nearby commercial locations to compare accessibility, rental trends, and work environment. Exploring multiple locations helps decision-makers choose the most suitable office for daily operations and client interaction.",
+      "Faridabad has several developing and established commercial sectors, each offering different advantages. Reviewing nearby office locations provides better clarity on pricing, connectivity, and future growth opportunities."
+    ],
+    "locations": [
+      {
+        "title": "Office Space for Rent in Sector 82 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 81 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 83 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 85 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Commercial Property for Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop for Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "IT Office Space for Rent",
+        "path": "/",
+        "icon": "Cpu"
+      },
+      {
+        "title": "Corporate Office for Rent",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Coworking Space for Rent",
+        "path": "/",
+        "icon": "Users"
+      },
+      {
+        "title": "Business Center for Rent",
+        "path": "/",
+        "icon": "Handshake"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Businesses Trust Deal Acres for Office Space Rentals",
+    "description": [
+      "Finding the right office space for rent in Sector 82 Faridabad requires accurate information and reliable listings. Deal Acres focuses on transparency, verified properties, and user-focused information to help businesses make confident rental decisions.",
+      "With strong local market knowledge and a business-first approach, Deal Acres simplifies the office search process. Its commitment to clarity and trust has made it a preferred platform for commercial tenants."
+    ],
+    "points": [
+      {
+        "title": "Verified Office Listings",
+        "description": "Each office listing is checked for authenticity and accuracy."
+      },
+      {
+        "title": "Transparent Rental Information",
+        "description": "Clear details help businesses understand real rental value."
+      },
+      {
+        "title": "Local Commercial Expertise",
+        "description": "Strong understanding of Faridabad commercial markets."
+      },
+      {
+        "title": "Easy Office Comparison",
+        "description": "Compare multiple office spaces efficiently."
+      },
+      {
+        "title": "Business-Centric Platform",
+        "description": "Designed around real business needs."
+      },
+      {
+        "title": "Time-Saving Search Experience",
+        "description": "Quick access to relevant office options."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Assistance from search to agreement."
+      },
+      {
+        "title": "Trusted by Professionals",
+        "description": "Positive feedback from businesses and tenants."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Office Space for Rent",
+    "description": "Clear answers to common questions to help you rent office space confidently.",
+    "faqs": [
+      {
+        "question": "Is Sector 82 Faridabad a good location for office space?",
+        "answer": "Yes, Sector 82 offers good connectivity, modern infrastructure, and a professional environment suitable for businesses."
+      },
+      {
+        "question": "What office sizes are available in Sector 82?",
+        "answer": "Office spaces ranging from 4 Marla to 14 Marla are available to suit different business needs."
+      },
+      {
+        "question": "Is Sector 82 suitable for startups?",
+        "answer": "Yes, affordable office options and flexible sizes make it suitable for startups and small businesses."
+      },
+      {
+        "question": "Are parking facilities available?",
+        "answer": "Most office spaces in Sector 82 provide parking facilities for staff and visitors."
+      },
+      {
+        "question": "Can office interiors be customized?",
+        "answer": "Many offices allow customization as per business requirements, subject to building guidelines."
+      },
+      {
+        "question": "Is Sector 82 good for long-term business operations?",
+        "answer": "Yes, the area shows strong development potential and stable commercial growth."
+      },
+      {
+        "question": "How does Deal Acres verify listings?",
+        "answer": "Listings are reviewed and checked before being published on the platform."
+      },
+      {
+        "question": "Are coworking spaces available near Sector 82?",
+        "answer": "Yes, coworking and shared office options are available in nearby sectors."
+      },
+      {
+        "question": "What factors influence office rent in Sector 82?",
+        "answer": "Office size, location, building quality, and amenities affect rental pricing."
+      },
+      {
+        "question": "How can I get help renting an office?",
+        "answer": "You can submit your details through the contact form to connect with experts."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help to Rent Office Space in Sector 82 Faridabad",
+    "description": [
+      "Renting the right office space for rent in Sector 82 Faridabad can directly impact your business productivity and growth. Expert guidance helps you compare options, understand rental trends, and finalize the most suitable office.",
+      "Share your details to connect with experienced commercial property advisors who can assist you throughout the office rental process."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

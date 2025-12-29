@@ -1,0 +1,216 @@
+{
+  "domain": "Office space for rent.com",
+  "hero": {
+    "title": "Well Connected and Affordable Office Space for Rent in HBH Colony",
+    "description": [
+      "HBH Colony in Sector 28 Faridabad is a centrally located and well-developed commercial area, making it a practical choice for businesses searching for office space for rent in HBH Colony, Sector 28 Faridabad. The locality benefits from excellent road connectivity to Mathura Road, NH-19, and major business corridors of Faridabad, ensuring smooth daily commuting for employees and clients.",
+      "Office spaces in HBH Colony, Sector 28 are suitable for startups, consultants, service providers, and growing enterprises seeking a professional address at reasonable rental values. The area is surrounded by residential neighborhoods, markets, banks, and essential facilities, creating a balanced work environment. Renting an office here allows businesses to operate from a stable commercial location with reliable infrastructure and long-term growth potential."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces in HBH Colony",
+        "path": "/"
+      },
+      {
+        "label": "Get Office Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Office Space Size Options Available in HBH Colony Sector 28",
+    "description": [
+      "Choosing the right office size is essential for productivity, team comfort, and cost control. Office space for rent in HBH Colony, Sector 28 Faridabad is available in multiple plot size options, allowing businesses to select spaces that suit their current requirements and future expansion plans.",
+      "From compact offices for small teams to spacious setups for established companies, HBH Colony offers flexible office configurations that support efficient operations and professional working environments."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space for Rent in HBH Colony Sector 28",
+        "description": "4 Marla office spaces are ideal for startups, freelancers, and small professional firms. These offices provide compact yet functional layouts with essential amenities. A 4 Marla office space for rent in HBH Colony, Sector 28 Faridabad supports cost-effective operations while offering a professional business address."
+      },
+      {
+        "title": "6 Marla Office Space for Rent in HBH Colony Sector 28",
+        "description": "6 Marla office spaces offer better layout flexibility with space for workstations, cabins, and small meeting areas. A 6 Marla office space for rent in HBH Colony, Sector 28 Faridabad is suitable for growing teams looking to upgrade their workspace without high rental pressure."
+      },
+      {
+        "title": "8 Marla Office Space for Rent in HBH Colony Sector 28",
+        "description": "8 Marla office spaces support structured office planning with separate work zones and management cabins. An 8 Marla office space for rent in HBH Colony, Sector 28 Faridabad is preferred by service-based businesses that require organized and productive environments."
+      },
+      {
+        "title": "10 Marla Office Space for Rent in HBH Colony Sector 28",
+        "description": "10 Marla office spaces provide a professional setup with reception areas, multiple cabins, and meeting rooms. A 10 Marla office space for rent in HBH Colony, Sector 28 Faridabad enhances brand image and supports efficient daily operations."
+      },
+      {
+        "title": "12 Marla Office Space for Rent in HBH Colony Sector 28",
+        "description": "12 Marla office spaces are suitable for mid-sized companies seeking spacious and organized work environments. A 12 Marla office space for rent in HBH Colony, Sector 28 Faridabad supports scalability and long-term business stability."
+      },
+      {
+        "title": "14 Marla Office Space for Rent in HBH Colony Sector 28",
+        "description": "14 Marla office spaces are premium options for larger teams and established enterprises. A 14 Marla office space for rent in HBH Colony, Sector 28 Faridabad offers layout flexibility, comfort, and future expansion potential."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Office Space for Rent in Nearby Commercial Areas",
+    "description": [
+      "While searching for office space for rent in HBH Colony, Sector 28 Faridabad, businesses often explore nearby commercial locations to compare rental values, accessibility, and infrastructure quality.",
+      "Sector 28 is surrounded by well-established business areas of Faridabad, offering multiple alternatives for office rentals and helping businesses make informed location decisions."
+    ],
+    "locations": [
+      {
+        "title": "Office Space for Rent in HBH Colony Sector 28",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 28 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 31 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in NIT Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Commercial Property for Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop for Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Corporate Office Space",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "IT Office Space",
+        "path": "/",
+        "icon": "Cpu"
+      },
+      {
+        "title": "Business Center for Rent",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Coworking Space",
+        "path": "/",
+        "icon": "Users"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Businesses Trust Deal Acres for Office Rentals",
+    "description": [
+      "Finding reliable office space for rent in HBH Colony, Sector 28 Faridabad requires accurate information and verified listings. Deal Acres ensures transparency and authenticity across all office rental options.",
+      "With strong local expertise and a customer-first approach, Deal Acres simplifies the office search process and helps businesses make confident rental decisions."
+    ],
+    "points": [
+      {
+        "title": "Verified Office Listings",
+        "description": "All office properties are verified for accuracy and authenticity."
+      },
+      {
+        "title": "Transparent Rental Details",
+        "description": "Clear and complete rental information without hidden costs."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Deep understanding of Faridabad commercial property trends."
+      },
+      {
+        "title": "User-Friendly Platform",
+        "description": "Easy navigation and quick access to relevant office listings."
+      },
+      {
+        "title": "Business-Focused Search",
+        "description": "Listings aligned with real business requirements."
+      },
+      {
+        "title": "Time-Saving Process",
+        "description": "Faster shortlisting and comparison of office spaces."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from inquiry to final rental agreement."
+      },
+      {
+        "title": "Trusted by Businesses",
+        "description": "Preferred by startups, SMEs, and established companies."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Office Space in HBH Colony",
+    "description": "Detailed answers to help you choose the right office space with confidence.",
+    "faqs": [
+      {
+        "question": "Is HBH Colony Sector 28 suitable for office use?",
+        "answer": "Yes, HBH Colony Sector 28 is centrally located with good connectivity, daily amenities, and stable commercial infrastructure, making it suitable for offices."
+      },
+      {
+        "question": "What office sizes are available in HBH Colony Sector 28?",
+        "answer": "Office spaces ranging from 4 Marla to 14 Marla are commonly available in this area."
+      },
+      {
+        "question": "Is this area good for startups?",
+        "answer": "Yes, affordable rentals and flexible office sizes make it ideal for startups and small businesses."
+      },
+      {
+        "question": "Are parking facilities available?",
+        "answer": "Most office buildings provide basic parking facilities, though availability may vary by property."
+      },
+      {
+        "question": "Can interiors be customized?",
+        "answer": "In many cases, landlords allow interior modifications based on mutual agreement."
+      },
+      {
+        "question": "Is public transport easily accessible?",
+        "answer": "Yes, buses, autos, and nearby metro connectivity support easy commuting."
+      },
+      {
+        "question": "Are banks and markets nearby?",
+        "answer": "Yes, banks, ATMs, markets, and eateries are available within close proximity."
+      },
+      {
+        "question": "What affects office rent in this area?",
+        "answer": "Office size, building condition, amenities, and location influence rental pricing."
+      },
+      {
+        "question": "Is this location suitable for long-term offices?",
+        "answer": "Yes, HBH Colony is a mature locality with consistent commercial demand."
+      },
+      {
+        "question": "How can Deal Acres help me rent an office?",
+        "answer": "You can submit your details through the contact form to receive expert assistance and verified listings."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help to Rent Office Space in HBH Colony Sector 28",
+    "description": [
+      "Renting the right office space for rent in HBH Colony, Sector 28 Faridabad is an important business decision. Expert guidance helps you compare options and finalize the most suitable workspace.",
+      "Share your details to connect with experienced commercial property experts who will assist you throughout the office rental process."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

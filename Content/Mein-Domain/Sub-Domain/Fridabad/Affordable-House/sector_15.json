@@ -1,0 +1,174 @@
+{
+  "domain": "Affordable house.com",
+
+  "hero": {
+    "title": "Affordable and Well-Located Independent Houses for Sale in Sector 15 Faridabad",
+    "description": [
+      "Sector 15 Faridabad is one of the most established and centrally located residential areas in the city, known for its organized infrastructure and excellent connectivity. Buyers searching for an affordable house in Sector 15 Faridabad are drawn to its proximity to Mathura Road, NH-19, and major commercial and institutional hubs. The sector offers smooth road connectivity, easy access to public transport, and a peaceful residential environment suitable for families and working professionals.",
+      "Affordable houses in Sector 15 Faridabad provide independent living with quick access to reputed schools, hospitals, local markets, parks, and daily-need facilities. The locality supports a comfortable lifestyle with strong civic amenities and a stable neighborhood setup. With consistent housing demand, mature infrastructure, and practical housing options, Sector 15 remains a reliable choice for long-term residential living and property investment in Faridabad."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses in Sector 15",
+        "path": "/"
+      },
+      {
+        "label": "Get Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Plot Size Options Available in Sector 15 Faridabad",
+    "description": [
+      "Selecting the right plot size is an important part of buying an independent home. Affordable house options in Sector 15 Faridabad are available in multiple plot sizes, allowing buyers to choose homes that match their budget, family size, and long-term needs.",
+      "From compact houses for small families to spacious homes for comfortable long-term living, Sector 15 offers thoughtfully planned plot size options with efficient layouts, good ventilation, and convenient access to nearby city amenities."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House in Sector 15 Faridabad",
+        "description": "4 Marla houses are ideal for small families and first-time buyers looking for budget-friendly independent homes. These houses offer compact layouts, essential rooms, and low maintenance requirements. A 4 Marla affordable house in Sector 15 Faridabad is a practical entry-level option."
+      },
+      {
+        "title": "6 Marla Affordable House in Sector 15 Faridabad",
+        "description": "6 Marla houses offer a balanced combination of affordability and usable space. These homes typically include extra bedrooms, better ventilation, and parking space. A 6 Marla affordable house in Sector 15 Faridabad is suitable for growing families."
+      },
+      {
+        "title": "8 Marla Affordable House in Sector 15 Faridabad",
+        "description": "8 Marla houses allow better interior planning and comfortable living areas. These homes provide improved privacy and flexible layouts. An 8 Marla affordable house in Sector 15 Faridabad supports modern family living needs."
+      },
+      {
+        "title": "10 Marla Affordable House in Sector 15 Faridabad",
+        "description": "10 Marla houses are preferred by buyers seeking spacious interiors and organized floor plans. These homes provide ample living space along with parking convenience. A 10 Marla affordable house in Sector 15 Faridabad enhances daily comfort."
+      },
+      {
+        "title": "12 Marla Affordable House in Sector 15 Faridabad",
+        "description": "12 Marla houses are suitable for larger families that require multiple rooms and better privacy. These homes offer good airflow and customization potential. A 12 Marla affordable house in Sector 15 Faridabad ensures long-term comfort."
+      },
+      {
+        "title": "14 Marla Affordable House in Sector 15 Faridabad",
+        "description": "14 Marla houses provide premium independent living space in a prime and well-developed locality. These homes support spacious layouts, private parking, and future expansion. A 14 Marla affordable house in Sector 15 Faridabad offers long-term value."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses in Sector 15 and Nearby Residential Areas",
+    "description": [
+      "Homebuyers looking for an affordable house in Sector 15 Faridabad often explore nearby localities to compare pricing, connectivity, and residential facilities.",
+      "Exploring surrounding areas helps buyers select the most suitable affordable housing option based on lifestyle preferences and budget."
+    ],
+    "locations": [
+      { "title": "Affordable House in Sector 15 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 14 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 16 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 10 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Independent House for Sale", "path": "/", "icon": "Building" },
+      { "title": "Builder Floor for Sale", "path": "/", "icon": "Layers" },
+      { "title": "Residential Property for Sale", "path": "/", "icon": "MapPin" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Affordable Houses",
+    "description": [
+      "Finding a genuine affordable house in Sector 15 Faridabad requires verified listings and transparent property information. Deal Acres ensures buyers receive accurate and reliable details.",
+      "With strong local market expertise and a buyer-focused approach, Deal Acres simplifies the home-buying process and delivers a trustworthy experience."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All properties are verified for ownership and authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing details with no hidden charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 15 and nearby areas."
+      },
+      {
+        "title": "Multiple Plot Size Options",
+        "description": "Affordable houses available across various plot sizes."
+      },
+      {
+        "title": "Customer-Centric Platform",
+        "description": "Built to solve real homebuyer concerns."
+      },
+      {
+        "title": "Quick Property Discovery",
+        "description": "Easy access to relevant and verified listings."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Complete assistance from shortlisting to possession."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Deal Acres is a preferred platform for affordable housing."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Sector 15",
+    "description": "Detailed answers to help buyers make confident and informed home-buying decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 15 Faridabad a good area to buy a house?",
+        "answer": "Yes, Sector 15 is a well-developed and centrally located residential area with excellent connectivity and amenities."
+      },
+      {
+        "question": "What plot sizes are available in Sector 15?",
+        "answer": "Affordable houses in Sector 15 Faridabad are available from 4 Marla to 14 Marla plot sizes."
+      },
+      {
+        "question": "Is Sector 15 suitable for families?",
+        "answer": "Yes, the sector offers a peaceful, secure, and family-friendly environment."
+      },
+      {
+        "question": "How is connectivity from Sector 15?",
+        "answer": "Sector 15 has excellent connectivity to Mathura Road, NH-19, and nearby commercial areas."
+      },
+      {
+        "question": "Are schools and hospitals nearby?",
+        "answer": "Yes, reputed schools, hospitals, clinics, and medical facilities are easily accessible."
+      },
+      {
+        "question": "Are these houses suitable for first-time buyers?",
+        "answer": "Yes, practical pricing and layouts make them ideal for first-time homebuyers."
+      },
+      {
+        "question": "Can houses be customized after purchase?",
+        "answer": "Many properties allow customization as per local building regulations."
+      },
+      {
+        "question": "Is Sector 15 good for long-term investment?",
+        "answer": "Strong demand and prime location support long-term property value."
+      },
+      {
+        "question": "What factors affect property prices in Sector 15?",
+        "answer": "Plot size, construction quality, location, and nearby amenities influence prices."
+      },
+      {
+        "question": "How does Deal Acres help homebuyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, and end-to-end buying support."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Assistance to Buy Affordable Houses in Sector 15 Faridabad",
+    "description": [
+      "Buying an affordable house in Sector 15 Faridabad requires the right information and professional guidance. Expert support helps buyers avoid confusion and make informed decisions.",
+      "Share your details to connect with experienced property advisors who will guide you through every step of your home-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

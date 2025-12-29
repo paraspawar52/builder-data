@@ -1,0 +1,216 @@
+{
+  "domain": "Office space for rent.com",
+  "hero": {
+    "title": "Well Planned and Affordable Office Space for Rent in Sector 77",
+    "description": [
+      "Sector 77 Faridabad is an emerging and well-planned locality that is gaining attention among businesses looking for office space for rent in Sector 77 Faridabad. The sector benefits from modern infrastructure, wide roads, and smooth connectivity to major highways, expressways, and nearby commercial sectors. Its proximity to growing residential societies ensures easy availability of workforce, daily amenities, and support services, making it a practical choice for office operations.",
+      "Office spaces in Sector 77 are suitable for startups, IT firms, service-based companies, and expanding businesses seeking cost-effective yet future-ready locations. The area offers a peaceful working environment along with long-term development potential. Renting an office in Sector 77 allows businesses to operate from a location that combines affordability, accessibility, and steady commercial growth."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces in Sector 77",
+        "path": "/"
+      },
+      {
+        "label": "Get Commercial Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Office Space Size Options Available for Rent in Sector 77",
+    "description": [
+      "Selecting the right office size is essential for managing team efficiency, operational comfort, and rental budgets. Office space for rent in Sector 77 Faridabad is available in multiple plot and built-up size options, allowing businesses to choose workspaces that align with their current needs and future expansion plans. Each size option supports different layouts and working styles.",
+      "Understanding these office size options helps businesses optimize space usage, reduce unnecessary costs, and ensure a comfortable working environment. Whether you need a compact office or a larger professional setup, Sector 77 offers flexible office space solutions designed to support sustainable business growth."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space for Rent in Sector 77 Faridabad",
+        "description": "4 Marla office spaces are ideal for startups, freelancers, and small teams. These offices provide essential infrastructure at affordable rental levels. A 4 Marla office space for rent in Sector 77 Faridabad supports focused work with low overheads."
+      },
+      {
+        "title": "6 Marla Office Space for Rent in Sector 77 Faridabad",
+        "description": "6 Marla office units offer a balance between affordability and usability. They allow better seating layouts, small meeting areas, and organized workflows. A 6 Marla office space for rent in Sector 77 Faridabad suits growing businesses."
+      },
+      {
+        "title": "8 Marla Office Space for Rent in Sector 77 Faridabad",
+        "description": "8 Marla office spaces are suitable for companies needing flexible layouts and collaborative zones. These offices comfortably support multiple departments. An 8 Marla office space for rent in Sector 77 Faridabad works well for service firms."
+      },
+      {
+        "title": "10 Marla Office Space for Rent in Sector 77 Faridabad",
+        "description": "10 Marla office spaces provide a premium working environment with cabins, reception areas, and conference rooms. A 10 Marla office space for rent in Sector 77 Faridabad enhances brand image and productivity."
+      },
+      {
+        "title": "12 Marla Office Space for Rent in Sector 77 Faridabad",
+        "description": "12 Marla office spaces are ideal for mid-sized enterprises seeking spacious and organized work environments. A 12 Marla office space for rent in Sector 77 Faridabad supports long-term business operations."
+      },
+      {
+        "title": "14 Marla Office Space for Rent in Sector 77 Faridabad",
+        "description": "14 Marla office spaces are premium commercial setups for large teams and corporate offices. A 14 Marla office space for rent in Sector 77 Faridabad offers flexibility, visibility, and long-term value."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Office Space for Rent in Nearby Commercial Locations",
+    "description": [
+      "While searching for office space for rent in Sector 77 Faridabad, businesses often explore nearby sectors to compare rental values, connectivity, and work environment. Considering multiple locations helps in making informed decisions.",
+      "Faridabad has several developing commercial sectors around Sector 77. Exploring nearby office locations provides better insight into infrastructure growth and future business opportunities."
+    ],
+    "locations": [
+      {
+        "title": "Office Space for Rent in Sector 77 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 78 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 76 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 81 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Commercial Property for Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop for Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "IT Office Space for Rent",
+        "path": "/",
+        "icon": "Cpu"
+      },
+      {
+        "title": "Corporate Office for Rent",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Coworking Space for Rent",
+        "path": "/",
+        "icon": "Users"
+      },
+      {
+        "title": "Business Center for Rent",
+        "path": "/",
+        "icon": "Handshake"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Businesses Trust Deal Acres for Office Space Rentals",
+    "description": [
+      "Finding the right office space for rent in Sector 77 Faridabad requires accurate listings and transparent information. Deal Acres ensures verified properties with clear details to support confident decision-making.",
+      "With strong local market expertise and a user-first approach, Deal Acres simplifies the office rental journey. Its reliability and consistent service quality make it a trusted platform for businesses."
+    ],
+    "points": [
+      {
+        "title": "Verified Office Listings",
+        "description": "Every listing is checked for authenticity."
+      },
+      {
+        "title": "Transparent Rental Details",
+        "description": "Clear information helps avoid confusion."
+      },
+      {
+        "title": "Local Market Knowledge",
+        "description": "Strong understanding of Faridabad commercial areas."
+      },
+      {
+        "title": "Easy Property Comparison",
+        "description": "Compare multiple office options easily."
+      },
+      {
+        "title": "Business-Focused Platform",
+        "description": "Designed around real business needs."
+      },
+      {
+        "title": "Time-Saving Experience",
+        "description": "Quick access to relevant properties."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from search to final agreement."
+      },
+      {
+        "title": "Trusted by Professionals",
+        "description": "Preferred by startups and established firms."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Office Space for Rent",
+    "description": "Detailed answers to common questions to help users choose the right office space.",
+    "faqs": [
+      {
+        "question": "Is Sector 77 Faridabad good for office space?",
+        "answer": "Yes, Sector 77 is a developing area with planned infrastructure and good connectivity."
+      },
+      {
+        "question": "What office sizes are available in Sector 77?",
+        "answer": "Office spaces from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Sector 77 suitable for startups?",
+        "answer": "Yes, affordable rentals and flexible sizes make it suitable for startups."
+      },
+      {
+        "question": "Are parking facilities available?",
+        "answer": "Most office buildings offer parking facilities."
+      },
+      {
+        "question": "Can office interiors be customized?",
+        "answer": "Many properties allow customization as per business needs."
+      },
+      {
+        "question": "Is Sector 77 good for long-term operations?",
+        "answer": "Yes, the area has steady development and future potential."
+      },
+      {
+        "question": "How does Deal Acres verify listings?",
+        "answer": "All listings are reviewed before publishing."
+      },
+      {
+        "question": "Are coworking spaces nearby?",
+        "answer": "Yes, coworking options are available in nearby sectors."
+      },
+      {
+        "question": "What affects office rent in Sector 77?",
+        "answer": "Office size, location, amenities, and building condition."
+      },
+      {
+        "question": "How can I get expert assistance?",
+        "answer": "You can fill out the contact form to connect with experts."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help to Rent Office Space in Sector 77 Faridabad",
+    "description": [
+      "Choosing the right office space for rent in Sector 77 Faridabad is an important business decision. Expert guidance helps you evaluate options and finalize the right workspace.",
+      "Share your details to connect with experienced commercial property advisors for complete rental assistance."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

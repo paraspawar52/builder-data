@@ -1,0 +1,216 @@
+{
+  "domain": "Office space for rent.com",
+  "hero": {
+    "title": "Well Planned and Accessible Office Space for Rent in Sector 30",
+    "description": [
+      "Sector 30 Faridabad is an emerging and well-organized locality that attracts businesses looking for office space for rent in Sector 30 Faridabad. The sector benefits from smooth road connectivity to Mathura Road, NH-19, and nearby commercial belts, making daily travel convenient for employees and visitors. With planned roads, nearby residential pockets, and essential facilities, Sector 30 offers a calm yet professional working environment.",
+      "Office spaces in Sector 30 are suitable for service-based companies, consultants, IT support firms, and growing enterprises seeking affordable rentals in a developing commercial zone. The area provides a balanced mix of accessibility, infrastructure, and future growth potential. Renting an office in Sector 30 helps businesses operate from a location that supports steady expansion, operational comfort, and long-term commercial value."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces in Sector 30",
+        "path": "/"
+      },
+      {
+        "label": "Get Office Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Office Space Size Options Available for Rent in Sector 30",
+    "description": [
+      "Selecting the right office size is essential for smooth business operations, team efficiency, and cost control. Office space for rent in Sector 30 Faridabad is available in multiple plot size options, allowing businesses to choose spaces that align with their current requirements and future plans.",
+      "From compact office units to larger commercial setups, Sector 30 provides flexibility for startups, growing firms, and established businesses."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space for Rent in Sector 30 Faridabad",
+        "description": "4 Marla office spaces are ideal for startups, freelancers, and small professional setups. A 4 Marla office space for rent in Sector 30 Faridabad offers affordability with essential workspace features."
+      },
+      {
+        "title": "6 Marla Office Space for Rent in Sector 30 Faridabad",
+        "description": "6 Marla office units provide better layout flexibility and room for small teams. A 6 Marla office space for rent in Sector 30 Faridabad suits businesses planning steady growth."
+      },
+      {
+        "title": "8 Marla Office Space for Rent in Sector 30 Faridabad",
+        "description": "8 Marla office spaces allow structured layouts with cabins and meeting areas. An 8 Marla office space for rent in Sector 30 Faridabad supports collaborative work environments."
+      },
+      {
+        "title": "10 Marla Office Space for Rent in Sector 30 Faridabad",
+        "description": "10 Marla office spaces provide a professional setup with reception and conference space. A 10 Marla office space for rent in Sector 30 Faridabad enhances productivity."
+      },
+      {
+        "title": "12 Marla Office Space for Rent in Sector 30 Faridabad",
+        "description": "12 Marla office spaces are suitable for mid-sized organizations needing spacious and organized offices. A 12 Marla office space for rent in Sector 30 Faridabad supports long-term operations."
+      },
+      {
+        "title": "14 Marla Office Space for Rent in Sector 30 Faridabad",
+        "description": "14 Marla office spaces are premium options for large teams and corporate offices. A 14 Marla office space for rent in Sector 30 Faridabad offers scalability and comfort."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Office Space for Rent in Nearby Commercial Locations",
+    "description": [
+      "Businesses searching for office space for rent in Sector 30 Faridabad often explore nearby sectors to compare rental values, accessibility, and infrastructure before making a decision.",
+      "Sector 30 is well-connected to several established and developing commercial areas, offering multiple office location options."
+    ],
+    "locations": [
+      {
+        "title": "Office Space for Rent in Sector 30 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 28 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 31 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 29 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Commercial Property for Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop for Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Corporate Office for Rent",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "IT Office Space for Rent",
+        "path": "/",
+        "icon": "Cpu"
+      },
+      {
+        "title": "Business Center for Rent",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Coworking Space for Rent",
+        "path": "/",
+        "icon": "Users"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is Trusted for Office Space Rentals",
+    "description": [
+      "Finding the right office space for rent in Sector 30 Faridabad requires verified listings and accurate information. Deal Acres focuses on transparency and reliability to help businesses make informed rental decisions.",
+      "With strong local expertise and a customer-first approach, Deal Acres simplifies the office search and rental process for businesses of all sizes."
+    ],
+    "points": [
+      {
+        "title": "Verified Office Listings",
+        "description": "Every office property is checked for authenticity."
+      },
+      {
+        "title": "Clear Rental Information",
+        "description": "Transparent pricing and property details."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth knowledge of Faridabad commercial areas."
+      },
+      {
+        "title": "Easy Property Comparison",
+        "description": "Compare multiple office options easily."
+      },
+      {
+        "title": "Business-Oriented Platform",
+        "description": "Designed around real business needs."
+      },
+      {
+        "title": "Time-Efficient Search",
+        "description": "Quick access to suitable office spaces."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Assistance from search to agreement."
+      },
+      {
+        "title": "Trusted by Businesses",
+        "description": "Preferred by startups and established firms."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Office Space in Sector 30",
+    "description": "Clear and detailed answers to help you choose the right office space confidently.",
+    "faqs": [
+      {
+        "question": "Is Sector 30 Faridabad good for renting office space?",
+        "answer": "Yes, Sector 30 offers good connectivity, planned infrastructure, and affordable rental options."
+      },
+      {
+        "question": "What office sizes are available in Sector 30?",
+        "answer": "Office spaces ranging from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Sector 30 suitable for startups?",
+        "answer": "Yes, the sector offers affordable office rentals suitable for startups and small businesses."
+      },
+      {
+        "question": "Are parking facilities available in office buildings?",
+        "answer": "Most office properties in Sector 30 provide parking facilities."
+      },
+      {
+        "question": "Can office interiors be customized?",
+        "answer": "Many office owners allow interior customization as per agreement terms."
+      },
+      {
+        "question": "Is Sector 30 well connected to main roads?",
+        "answer": "Yes, the sector has easy access to Mathura Road and nearby highways."
+      },
+      {
+        "question": "How does Deal Acres verify office listings?",
+        "answer": "All listings are reviewed and verified before being published."
+      },
+      {
+        "question": "Is Sector 30 suitable for long-term business operations?",
+        "answer": "Yes, the area offers stability and future growth potential."
+      },
+      {
+        "question": "What affects office rent in Sector 30 Faridabad?",
+        "answer": "Office size, location, amenities, and building condition influence rental prices."
+      },
+      {
+        "question": "How can I get expert help to rent an office?",
+        "answer": "You can submit your details through the contact form to receive professional assistance."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help to Rent Office Space in Sector 30 Faridabad",
+    "description": [
+      "Choosing the right office space for rent in Sector 30 Faridabad is an important business decision. Expert guidance helps you compare options and finalize the most suitable workspace.",
+      "Share your details to connect with experienced commercial property professionals who will assist you throughout the office rental process."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

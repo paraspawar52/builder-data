@@ -1,0 +1,174 @@
+{
+  "domain": "Affordable house.com",
+
+  "hero": {
+    "title": "Affordable and Well-Connected Independent Houses for Sale in Sector 18 Faridabad",
+    "description": [
+      "Sector 18 Faridabad is a strategically located and well-developed residential area known for its proximity to commercial hubs, industrial zones, and major road networks. Homebuyers searching for an affordable house in Sector 18 Faridabad are drawn to its excellent connectivity to Mathura Road, NH-19, and nearby business districts. The locality offers smooth internal roads, public transport availability, and a balanced mix of residential and commercial surroundings.",
+      "Affordable houses in Sector 18 Faridabad are suitable for working professionals, small business owners, and families seeking independent living at practical prices. The area is surrounded by schools, hospitals, banks, markets, and daily-need facilities, ensuring everyday convenience. With consistent demand, reliable infrastructure, and location advantages, Sector 18 remains a dependable choice for residential living and long-term property investment in Faridabad."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses in Sector 18",
+        "path": "/"
+      },
+      {
+        "label": "Get Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Plot Size Options Available in Sector 18 Faridabad",
+    "description": [
+      "Selecting the right plot size is an important step when buying an independent home. Affordable house options in Sector 18 Faridabad are available in various plot sizes, allowing buyers to choose homes based on budget, family size, and space requirements.",
+      "From compact houses for first-time buyers to larger homes designed for long-term family living, Sector 18 offers well-planned plot size options with efficient layouts, proper ventilation, and easy access to nearby city amenities."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House in Sector 18 Faridabad",
+        "description": "4 Marla houses are ideal for small families and first-time buyers looking for cost-effective independent living. These homes offer compact layouts, essential living areas, and low maintenance. A 4 Marla affordable house in Sector 18 Faridabad is a smart entry-level option."
+      },
+      {
+        "title": "6 Marla Affordable House in Sector 18 Faridabad",
+        "description": "6 Marla houses provide a good balance between affordability and comfort. These homes usually include additional bedrooms, better ventilation, and parking space. A 6 Marla affordable house in Sector 18 Faridabad suits growing families."
+      },
+      {
+        "title": "8 Marla Affordable House in Sector 18 Faridabad",
+        "description": "8 Marla houses allow improved interior planning and comfortable living spaces. These homes offer better privacy and flexible layouts. An 8 Marla affordable house in Sector 18 Faridabad supports modern lifestyle needs."
+      },
+      {
+        "title": "10 Marla Affordable House in Sector 18 Faridabad",
+        "description": "10 Marla houses are preferred by buyers seeking spacious interiors and organized layouts. These homes provide ample living space along with parking convenience. A 10 Marla affordable house in Sector 18 Faridabad enhances everyday comfort."
+      },
+      {
+        "title": "12 Marla Affordable House in Sector 18 Faridabad",
+        "description": "12 Marla houses are suitable for larger families requiring multiple rooms and better privacy. These homes offer good airflow and customization possibilities. A 12 Marla affordable house in Sector 18 Faridabad ensures long-term comfort."
+      },
+      {
+        "title": "14 Marla Affordable House in Sector 18 Faridabad",
+        "description": "14 Marla houses provide premium independent living space in a prime locality. These homes support spacious layouts and future expansion. A 14 Marla affordable house in Sector 18 Faridabad offers strong long-term value."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses in Sector 18 and Nearby Localities",
+    "description": [
+      "Buyers searching for an affordable house in Sector 18 Faridabad often explore nearby localities to compare pricing, connectivity, and residential infrastructure.",
+      "Exploring surrounding areas helps buyers identify the most suitable affordable housing option based on lifestyle needs and budget."
+    ],
+    "locations": [
+      { "title": "Affordable House in Sector 18 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 16 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 19 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Old Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Independent House for Sale", "path": "/", "icon": "Building" },
+      { "title": "Builder Floor for Sale", "path": "/", "icon": "Layers" },
+      { "title": "Residential Property for Sale", "path": "/", "icon": "MapPin" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Affordable Houses",
+    "description": [
+      "Finding a genuine affordable house in Sector 18 Faridabad requires verified listings and transparent property information. Deal Acres ensures buyers receive accurate and reliable property details.",
+      "With strong local market expertise and a customer-focused approach, Deal Acres simplifies the home-buying process and delivers a trustworthy experience."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All listings are thoroughly verified for ownership and authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear and honest pricing with no hidden charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Deep understanding of Sector 18 and surrounding areas."
+      },
+      {
+        "title": "Multiple Plot Size Options",
+        "description": "Wide range of affordable houses across different plot sizes."
+      },
+      {
+        "title": "Buyer-Focused Platform",
+        "description": "Designed to address real homebuyer concerns."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "Quick access to relevant and verified property listings."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from property shortlisting to final possession."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Deal Acres is a preferred platform for affordable housing."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Sector 18",
+    "description": "Detailed answers to help buyers make confident and informed home-buying decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 18 Faridabad a good area to buy a house?",
+        "answer": "Yes, Sector 18 is a well-connected and established locality with strong residential and commercial advantages."
+      },
+      {
+        "question": "What plot sizes are available in Sector 18?",
+        "answer": "Affordable houses in Sector 18 Faridabad are available from 4 Marla to 14 Marla plot sizes."
+      },
+      {
+        "question": "Is Sector 18 suitable for families?",
+        "answer": "Yes, the area offers a practical, safe, and family-friendly living environment."
+      },
+      {
+        "question": "How is connectivity from Sector 18?",
+        "answer": "Sector 18 has excellent connectivity to Mathura Road, NH-19, and nearby sectors."
+      },
+      {
+        "question": "Are schools and hospitals nearby?",
+        "answer": "Yes, reputed schools, hospitals, clinics, and medical facilities are easily accessible."
+      },
+      {
+        "question": "Are these houses suitable for first-time buyers?",
+        "answer": "Yes, affordable pricing and practical layouts make them ideal for first-time homebuyers."
+      },
+      {
+        "question": "Can houses be customized after purchase?",
+        "answer": "Many properties allow customization according to local building norms."
+      },
+      {
+        "question": "Is Sector 18 good for long-term investment?",
+        "answer": "Yes, steady demand and prime location support long-term property value growth."
+      },
+      {
+        "question": "What factors affect property prices in Sector 18?",
+        "answer": "Plot size, construction quality, location, and nearby amenities influence pricing."
+      },
+      {
+        "question": "How does Deal Acres help buyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, and complete buying support."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance to Buy Affordable Houses in Sector 18 Faridabad",
+    "description": [
+      "Buying an affordable house in Sector 18 Faridabad requires accurate information and professional guidance. Expert support helps buyers avoid confusion and make informed decisions.",
+      "Share your details to connect with experienced property advisors who will guide you through every step of your home-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

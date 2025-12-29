@@ -1,0 +1,173 @@
+{
+  "domain": "Affordable house.com",
+  "hero": {
+    "title": "Affordable and Well Planned Houses for Sale in Sector 83",
+    "description": [
+      "Sector 83 Faridabad is a rapidly developing residential locality in Greater Faridabad, making it a preferred choice for buyers looking for an affordable house in Sector 83 Faridabad. The sector is known for its planned road network, open green spaces, and proximity to major connectivity routes like NH-19, FNG Expressway, and main Faridabad sectors. This strategic location ensures smooth connectivity to Delhi, Noida, and other commercial hubs, making daily travel convenient for working professionals and families.",
+      "Affordable houses in Sector 83 Faridabad are ideal for first-time homebuyers, mid-income families, and investors seeking long-term value. The locality offers access to schools, hospitals, shopping centers, and public transport, ensuring a comfortable and practical lifestyle. With continuous infrastructure development, rising residential demand, and improving amenities, buying a house in Sector 83 provides the perfect balance of affordability, livability, and future appreciation potential."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses in Sector 83",
+        "path": "/"
+      },
+      {
+        "label": "Get Housing Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Plot Size Options Available in Sector 83",
+    "description": [
+      "Selecting the right plot size is an important step in planning a comfortable and functional home. Affordable house options in Sector 83 Faridabad are available in multiple plot sizes, allowing buyers to choose homes that match their family size, lifestyle preferences, and budget considerations.",
+      "From compact independent houses to spacious residential homes, Sector 83 offers flexible plot options that support modern layouts, proper ventilation, and long-term residential comfort."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House in Sector 83 Faridabad",
+        "description": "4 Marla houses are suitable for small families and first-time homebuyers looking for budget-friendly housing options. These homes offer efficient layouts with essential living spaces and lower maintenance costs. A 4 Marla affordable house in Sector 83 Faridabad provides access to a planned residential environment at an economical price."
+      },
+      {
+        "title": "6 Marla Affordable House in Sector 83 Faridabad",
+        "description": "6 Marla houses offer a balanced combination of space and affordability. These homes generally include additional bedrooms, improved ventilation, and parking convenience. Choosing a 6 Marla affordable house in Sector 83 Faridabad is ideal for growing families seeking comfort without overspending."
+      },
+      {
+        "title": "8 Marla Affordable House in Sector 83 Faridabad",
+        "description": "8 Marla houses allow greater flexibility in design and layout planning. These homes support larger rooms, open areas, and better privacy. An 8 Marla affordable house in Sector 83 Faridabad is perfect for families looking for enhanced comfort and modern living."
+      },
+      {
+        "title": "10 Marla Affordable House in Sector 83 Faridabad",
+        "description": "10 Marla houses are designed for buyers who prefer spacious interiors and premium planning. These homes support elegant architecture, open spaces, and parking facilities. A 10 Marla affordable house in Sector 83 Faridabad offers improved lifestyle quality and long-term value."
+      },
+      {
+        "title": "12 Marla Affordable House in Sector 83 Faridabad",
+        "description": "12 Marla houses are ideal for larger families that require multiple living areas and enhanced privacy. These homes provide better ventilation, comfort, and scope for customization. Investing in a 12 Marla affordable house in Sector 83 Faridabad ensures long-term residential satisfaction."
+      },
+      {
+        "title": "14 Marla Affordable House in Sector 83 Faridabad",
+        "description": "14 Marla houses offer premium residential space for families planning long-term independent living. These homes allow expansive layouts, green spaces, and future expansion. A 14 Marla affordable house in Sector 83 Faridabad delivers space, stability, and appreciation potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses in Nearby Residential Locations",
+    "description": [
+      "Homebuyers searching for an affordable house in Sector 83 Faridabad often explore nearby sectors to compare pricing, connectivity, and residential amenities.",
+      "Evaluating surrounding localities helps buyers make informed decisions and choose the most suitable affordable housing option."
+    ],
+    "locations": [
+      { "title": "Affordable House in Sector 83 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 82 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 84 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 85 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Independent House for Sale", "path": "/", "icon": "Building" },
+      { "title": "Builder Floor for Sale", "path": "/", "icon": "Layers" },
+      { "title": "Residential Property for Sale", "path": "/", "icon": "MapPin" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Affordable Houses",
+    "description": [
+      "Finding a genuine affordable house in Sector 83 Faridabad requires verified listings and transparent property details. Deal Acres ensures buyers receive accurate and reliable information to make confident decisions.",
+      "With strong local expertise and a customer-first approach, Deal Acres simplifies the home-buying process and delivers a smooth and trustworthy experience."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All listings are thoroughly verified for authenticity and reliability."
+      },
+      {
+        "title": "Transparent Pricing Information",
+        "description": "Clear pricing helps buyers plan budgets without hidden costs."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth knowledge of Sector 83 and Greater Faridabad areas."
+      },
+      {
+        "title": "Wide Range of Housing Options",
+        "description": "Multiple affordable house choices across different plot sizes."
+      },
+      {
+        "title": "Customer-Centric Platform",
+        "description": "Designed to address real homebuyer needs effectively."
+      },
+      {
+        "title": "Time-Saving Property Search",
+        "description": "Quick access to relevant and verified housing options."
+      },
+      {
+        "title": "End-to-End Buying Support",
+        "description": "Complete assistance from property selection to possession."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Preferred platform for reliable and affordable housing solutions."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Sector 83",
+    "description": "Detailed answers to help buyers make informed and confident home-buying decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 83 Faridabad a good area to buy an affordable house?",
+        "answer": "Yes, Sector 83 is a planned and developing residential area with strong connectivity, making it suitable for affordable housing."
+      },
+      {
+        "question": "What plot sizes are available in Sector 83?",
+        "answer": "Affordable houses in Sector 83 are available in plot sizes ranging from 4 Marla to 14 Marla."
+      },
+      {
+        "question": "Are schools and hospitals nearby?",
+        "answer": "Yes, reputed schools, hospitals, and healthcare facilities are accessible from Sector 83."
+      },
+      {
+        "question": "Is Sector 83 suitable for long-term living?",
+        "answer": "The area offers planned development, a peaceful environment, and good appreciation potential, making it ideal for long-term living."
+      },
+      {
+        "question": "Is public transport easily available?",
+        "answer": "Yes, Sector 83 has good road connectivity and access to public transport options."
+      },
+      {
+        "question": "Are affordable houses suitable for first-time buyers?",
+        "answer": "Yes, reasonable pricing and practical layouts make these houses suitable for first-time homebuyers."
+      },
+      {
+        "question": "Can houses be customized after purchase?",
+        "answer": "Many properties allow customization with necessary approvals."
+      },
+      {
+        "question": "Is Sector 83 a family-friendly locality?",
+        "answer": "Yes, it is a safe and family-oriented residential area with growing communities."
+      },
+      {
+        "question": "What factors influence house prices in Sector 83?",
+        "answer": "Plot size, construction quality, location within the sector, and available amenities influence house prices."
+      },
+      {
+        "question": "How does Deal Acres help homebuyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, and end-to-end support throughout the buying process."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance to Buy Affordable Houses in Sector 83",
+    "description": [
+      "Buying an affordable house in Sector 83 Faridabad is an important decision that requires accurate information and professional guidance. Expert assistance helps you choose the right property without confusion.",
+      "Share your details to connect with experienced property advisors who will guide you at every step of your home-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "domain": "Office space for rent.com",
+  "hero": {
+    "title": "Well Connected and Affordable Office Space for Rent in Sector 72",
+    "description": [
+      "Sector 72 Faridabad is a developing locality that is steadily attracting businesses looking for office space for rent in Sector 72 Faridabad. The sector offers good connectivity to major roads, nearby residential sectors, and important commercial zones of Faridabad. With planned infrastructure and improving civic facilities, Sector 72 provides a convenient working environment for small to mid-sized businesses.",
+      "Office spaces in Sector 72 are suitable for startups, service providers, IT support offices, and growing enterprises that want budget-friendly rentals without compromising on accessibility. The area offers a calm work atmosphere, availability of workforce from nearby housing societies, and access to daily amenities. Renting an office in Sector 72 allows businesses to operate from an emerging location with future growth potential and stable commercial prospects."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces in Sector 72",
+        "path": "/"
+      },
+      {
+        "label": "Get Commercial Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Office Space Size Options Available for Rent in Sector 72",
+    "description": [
+      "Choosing the right office size is essential for smooth operations, cost control, and team productivity. Office space for rent in Sector 72 Faridabad is available in multiple plot and built-up size options, making it easier for businesses to select workspaces that match their operational needs and budget. Each size option is designed to support different business models and working styles.",
+      "Understanding these office size options helps businesses plan layouts efficiently, avoid unnecessary rental costs, and ensure employee comfort. Whether you are starting small or planning to expand, Sector 72 offers flexible office space solutions that support long-term business stability."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space for Rent in Sector 72 Faridabad",
+        "description": "4 Marla office spaces are ideal for startups, freelancers, and small teams. These offices provide essential facilities at affordable rentals. A 4 Marla office space for rent in Sector 72 Faridabad is suitable for cost-conscious businesses."
+      },
+      {
+        "title": "6 Marla Office Space for Rent in Sector 72 Faridabad",
+        "description": "6 Marla office units offer a balance of affordability and usable space. They allow better seating arrangements and basic meeting areas. A 6 Marla office space for rent in Sector 72 Faridabad supports steady business growth."
+      },
+      {
+        "title": "8 Marla Office Space for Rent in Sector 72 Faridabad",
+        "description": "8 Marla office spaces are suitable for growing companies that require flexible layouts and collaborative work areas. An 8 Marla office space for rent in Sector 72 Faridabad works well for service-based firms."
+      },
+      {
+        "title": "10 Marla Office Space for Rent in Sector 72 Faridabad",
+        "description": "10 Marla office spaces offer a professional working environment with space for cabins, reception areas, and meeting rooms. A 10 Marla office space for rent in Sector 72 Faridabad enhances productivity and brand image."
+      },
+      {
+        "title": "12 Marla Office Space for Rent in Sector 72 Faridabad",
+        "description": "12 Marla office spaces are ideal for mid-sized enterprises seeking spacious and organized offices. A 12 Marla office space for rent in Sector 72 Faridabad supports long-term business planning."
+      },
+      {
+        "title": "14 Marla Office Space for Rent in Sector 72 Faridabad",
+        "description": "14 Marla office spaces are premium options suitable for large teams and corporate offices. A 14 Marla office space for rent in Sector 72 Faridabad offers flexibility and long-term commercial value."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Office Space for Rent in Nearby Commercial Locations",
+    "description": [
+      "While searching for office space for rent in Sector 72 Faridabad, businesses often explore nearby sectors to compare rental prices, connectivity, and work environment. Reviewing multiple locations helps in making confident and informed decisions.",
+      "Faridabad has several developing commercial sectors around Sector 72. Exploring nearby office locations provides insights into infrastructure growth, accessibility, and future business opportunities."
+    ],
+    "locations": [
+      {
+        "title": "Office Space for Rent in Sector 72 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 75 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 73 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 70 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Commercial Property for Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop for Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "IT Office Space for Rent",
+        "path": "/",
+        "icon": "Cpu"
+      },
+      {
+        "title": "Corporate Office for Rent",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Coworking Space for Rent",
+        "path": "/",
+        "icon": "Users"
+      },
+      {
+        "title": "Business Center for Rent",
+        "path": "/",
+        "icon": "Handshake"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Businesses Rely on Deal Acres for Office Space Rentals",
+    "description": [
+      "Finding the right office space for rent in Sector 72 Faridabad requires verified listings and transparent information. Deal Acres focuses on providing accurate property details to help businesses make confident rental decisions.",
+      "With strong local market expertise and a user-focused approach, Deal Acres simplifies the office rental process. Its reliability, trust, and service quality make it a preferred platform for businesses across Faridabad."
+    ],
+    "points": [
+      {
+        "title": "Verified Office Listings",
+        "description": "All office listings are checked for authenticity."
+      },
+      {
+        "title": "Transparent Rental Information",
+        "description": "Clear details help businesses plan better."
+      },
+      {
+        "title": "Local Commercial Expertise",
+        "description": "Deep understanding of Faridabad commercial areas."
+      },
+      {
+        "title": "Easy Office Comparison",
+        "description": "Compare multiple office options easily."
+      },
+      {
+        "title": "Business-Centric Platform",
+        "description": "Designed around real business needs."
+      },
+      {
+        "title": "Time-Saving Search Experience",
+        "description": "Quick access to relevant properties."
+      },
+      {
+        "title": "End-to-End Rental Assistance",
+        "description": "Support from search to final agreement."
+      },
+      {
+        "title": "Trusted by Businesses",
+        "description": "Preferred by startups and growing firms."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Office Space for Rent",
+    "description": "Clear and detailed answers to help users make informed office rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 72 Faridabad a good location for office space?",
+        "answer": "Yes, Sector 72 is a developing area with improving infrastructure and affordable rental options."
+      },
+      {
+        "question": "What office sizes are available in Sector 72?",
+        "answer": "Office spaces from 4 Marla to 14 Marla are available to suit different business needs."
+      },
+      {
+        "question": "Is Sector 72 suitable for startups?",
+        "answer": "Yes, budget-friendly rentals and flexible office sizes make it suitable for startups."
+      },
+      {
+        "question": "Are parking facilities available?",
+        "answer": "Most office buildings in Sector 72 provide parking facilities."
+      },
+      {
+        "question": "Can office interiors be customized?",
+        "answer": "Many office spaces allow customization as per business requirements."
+      },
+      {
+        "question": "Is Sector 72 suitable for long-term business operations?",
+        "answer": "Yes, the area shows steady development and future commercial potential."
+      },
+      {
+        "question": "How does Deal Acres verify office listings?",
+        "answer": "Listings are reviewed and verified before being published."
+      },
+      {
+        "question": "Are coworking spaces available near Sector 72?",
+        "answer": "Yes, coworking spaces are available in nearby sectors."
+      },
+      {
+        "question": "What factors affect office rent in Sector 72 Faridabad?",
+        "answer": "Office size, location, amenities, and building condition affect rental pricing."
+      },
+      {
+        "question": "How can I get expert help to rent an office?",
+        "answer": "You can submit your details through the contact form to connect with experts."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help to Rent Office Space in Sector 72 Faridabad",
+    "description": [
+      "Choosing the right office space for rent in Sector 72 Faridabad is an important business decision. Expert guidance helps you evaluate available options and finalize the most suitable workspace.",
+      "Share your details to connect with experienced commercial property advisors who can assist you throughout the office rental process."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "domain": "Office space for rent.com",
+  "hero": {
+    "title": "Premium Office Space for Rent in Sector 86 Faridabad",
+    "description": [
+      "Sector 86 Faridabad has emerged as a fast-growing commercial destination, attracting startups, SMEs, and established businesses looking for modern office space for rent in Sector 86 Faridabad. The location offers excellent road connectivity, proximity to residential sectors, and smooth access to NH-44, making daily commuting convenient for employees and clients alike. Businesses prefer this sector due to its planned infrastructure, organized commercial zones, and availability of flexible office layouts.",
+      "Office spaces in Sector 86 are designed to support productivity, scalability, and professional growth. From compact offices for small teams to larger commercial units for expanding enterprises, the area caters to diverse business requirements. With nearby amenities such as banks, cafes, parking facilities, and business services, renting an office here ensures operational comfort, visibility, and long-term commercial value in Faridabad."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces in Sector 86",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Commercial Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Office Space Size Options Available for Rent in Sector 86",
+    "description": [
+      "Choosing the right office size plays a crucial role in business efficiency and employee comfort. Office space for rent in Sector 86 Faridabad is available across multiple plot and built-up area configurations, allowing businesses to select spaces that match their operational scale and future expansion plans. Each option supports different team sizes, layouts, and functional needs.",
+      "Whether you need a compact office to control costs or a spacious commercial unit to establish a strong brand presence, Sector 86 offers flexibility. Understanding these size options helps businesses make informed rental decisions while ensuring optimal space utilization and professional working environments."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space for Rent in Sector 86 Faridabad",
+        "description": "4 Marla office spaces are ideal for startups, freelancers, and small professional teams. These offices provide functional layouts with low rental commitments, making them suitable for businesses focused on cost efficiency. A 4 Marla office space for rent in Sector 86 Faridabad works well for consulting firms, service providers, and early-stage companies."
+      },
+      {
+        "title": "6 Marla Office Space for Rent in Sector 86 Faridabad",
+        "description": "6 Marla office units offer a balance between affordability and operational comfort. They provide better workspace planning, meeting room options, and employee seating arrangements. Businesses looking for moderate expansion often choose a 6 Marla office space for rent in Sector 86 Faridabad."
+      },
+      {
+        "title": "8 Marla Office Space for Rent in Sector 86 Faridabad",
+        "description": "8 Marla offices suit growing companies that require additional departments or collaborative zones. These spaces allow flexible interior customization and support professional branding. An 8 Marla office space for rent in Sector 86 Faridabad is suitable for IT firms, marketing agencies, and service-based businesses."
+      },
+      {
+        "title": "10 Marla Office Space for Rent in Sector 86 Faridabad",
+        "description": "10 Marla office spaces provide a premium working environment with scope for conference rooms, cabins, and reception areas. These offices enhance corporate image and employee productivity. A 10 Marla office space for rent in Sector 86 Faridabad is preferred by established companies."
+      },
+      {
+        "title": "12 Marla Office Space for Rent in Sector 86 Faridabad",
+        "description": "12 Marla commercial offices offer spacious layouts suitable for mid-sized enterprises. These units support advanced infrastructure, parking convenience, and long-term operational stability. Businesses seeking comfort and scalability often choose a 12 Marla office space for rent in Sector 86 Faridabad."
+      },
+      {
+        "title": "14 Marla Office Space for Rent in Sector 86 Faridabad",
+        "description": "14 Marla office spaces represent premium commercial setups designed for corporate headquarters or large teams. These offices support executive cabins, training rooms, and client interaction zones. A 14 Marla office space for rent in Sector 86 Faridabad ensures prestige and functionality."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Office Space for Rent in Nearby Commercial Locations",
+    "description": [
+      "While searching for office space for rent in Sector 86 Faridabad, businesses often compare nearby commercial hubs to evaluate connectivity, pricing, and business potential. Exploring surrounding sectors helps companies identify the most suitable environment for growth and daily operations.",
+      "Faridabad offers multiple commercial zones with varied advantages. Some locations provide better visibility, while others focus on affordability or future development. Reviewing nearby options ensures a confident and informed office rental decision."
+    ],
+    "locations": [
+      {
+        "title": "Office Space for Rent in Sector 86 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 85 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 84 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 88 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Commercial Property for Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop for Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "IT Office Space for Rent",
+        "path": "/",
+        "icon": "Cpu"
+      },
+      {
+        "title": "Corporate Office for Rent",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Coworking Space for Rent",
+        "path": "/",
+        "icon": "Users"
+      },
+      {
+        "title": "Business Center for Rent",
+        "path": "/",
+        "icon": "Handshake"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Businesses Trust Deal Acres for Office Space Rentals",
+    "description": [
+      "Finding the right office space for rent in Sector 86 Faridabad requires reliable information and verified listings. Deal Acres focuses on transparency, accuracy, and relevance, helping businesses avoid unnecessary risks and delays.",
+      "With a strong understanding of commercial real estate trends and tenant requirements, Deal Acres ensures a smooth and informed office rental journey. Its user-first approach has made it a preferred platform among business owners and decision-makers."
+    ],
+    "points": [
+      {
+        "title": "Verified Office Listings",
+        "description": "All office spaces are checked for authenticity and accuracy."
+      },
+      {
+        "title": "Transparent Rental Insights",
+        "description": "Clear details help businesses understand actual rental value."
+      },
+      {
+        "title": "Local Commercial Expertise",
+        "description": "Deep knowledge of Faridabad commercial sectors."
+      },
+      {
+        "title": "Easy Property Comparison",
+        "description": "Compare multiple office options efficiently."
+      },
+      {
+        "title": "Business-Focused Approach",
+        "description": "Listings are curated based on real business needs."
+      },
+      {
+        "title": "Time-Saving Search Experience",
+        "description": "Quick access to relevant office spaces."
+      },
+      {
+        "title": "End-to-End Rental Support",
+        "description": "Guidance available throughout the rental process."
+      },
+      {
+        "title": "Trusted by Professionals",
+        "description": "Consistent positive feedback from tenants and businesses."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Office Space for Rent",
+    "description": "Detailed answers to help you make confident office rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 86 Faridabad suitable for renting office space?",
+        "answer": "Yes, Sector 86 Faridabad is a well-planned commercial area with good connectivity, making it suitable for businesses of all sizes."
+      },
+      {
+        "question": "What types of office spaces are available in Sector 86?",
+        "answer": "Options include independent offices, commercial units, and flexible office layouts across various plot sizes."
+      },
+      {
+        "question": "Is office space for rent in Sector 86 affordable?",
+        "answer": "Rental pricing varies by size and amenities, offering options for startups as well as established companies."
+      },
+      {
+        "question": "Are parking facilities available with office spaces?",
+        "answer": "Most office spaces in Sector 86 provide dedicated or shared parking facilities."
+      },
+      {
+        "question": "Can offices be customized as per business needs?",
+        "answer": "Yes, many office units allow interior customization within building guidelines."
+      },
+      {
+        "question": "Is Sector 86 good for long-term business operations?",
+        "answer": "Yes, the area offers stable infrastructure and growth potential."
+      },
+      {
+        "question": "How does Deal Acres verify office listings?",
+        "answer": "Listings are reviewed to ensure accurate details and genuine availability."
+      },
+      {
+        "question": "Are coworking spaces available in Sector 86?",
+        "answer": "Yes, coworking and shared office options are available in nearby commercial complexes."
+      },
+      {
+        "question": "What factors affect office rent in Sector 86 Faridabad?",
+        "answer": "Location, size, building quality, and amenities influence rental pricing."
+      },
+      {
+        "question": "How can I get assistance for renting an office?",
+        "answer": "You can use the contact form to connect with commercial property experts."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help to Rent Office Space in Sector 86 Faridabad",
+    "description": [
+      "Renting the right office space for rent in Sector 86 Faridabad can directly impact your business efficiency and growth. Expert guidance helps you evaluate options, negotiate better terms, and finalize suitable office spaces.",
+      "Share your details to connect with experienced commercial property advisors who understand your business needs and can assist you throughout the rental process."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

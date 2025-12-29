@@ -1,0 +1,216 @@
+{
+  "domain": "Office space for rent.com",
+  "hero": {
+    "title": "Well Planned and Growing Office Space for Rent in Sector 87",
+    "description": [
+      "Sector 87 Faridabad is a rapidly developing locality that is gaining attention among businesses looking for office space for rent in Sector 87 Faridabad. The sector enjoys good connectivity to Greater Faridabad, NH-19, and nearby residential sectors, making daily commuting convenient for employees and visitors. With planned roads, modern housing societies, and improving infrastructure, Sector 87 offers a structured and future-ready business environment.",
+      "Office spaces in Sector 87 are suitable for startups, IT support offices, service providers, and growing enterprises that prefer affordable rentals in an emerging commercial zone. The presence of nearby residential areas ensures easy availability of workforce and daily amenities. Renting an office in Sector 87 allows businesses to operate from a developing location that offers cost efficiency today and strong growth potential for the future."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces in Sector 87",
+        "path": "/"
+      },
+      {
+        "label": "Get Commercial Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Office Space Size Options Available for Rent in Sector 87",
+    "description": [
+      "Choosing the right office size plays an important role in managing productivity, comfort, and rental expenses. Office space for rent in Sector 87 Faridabad is available in multiple plot size options, allowing businesses to select workspaces based on their team size, workflow, and future expansion plans. Each size option supports different business requirements, from compact offices to structured professional setups.",
+      "Understanding these office size options helps businesses plan interiors efficiently and avoid unnecessary costs. Whether you are a new business or an expanding company, Sector 87 provides flexible office space solutions that support stable and long-term operations."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space for Rent in Sector 87 Faridabad",
+        "description": "4 Marla office spaces are ideal for startups, freelancers, and small professional teams. These offices offer essential infrastructure at affordable rental levels. A 4 Marla office space for rent in Sector 87 Faridabad suits budget-focused operations."
+      },
+      {
+        "title": "6 Marla Office Space for Rent in Sector 87 Faridabad",
+        "description": "6 Marla office spaces provide a good balance between affordability and usable space. They allow better seating layouts and small meeting areas. A 6 Marla office space for rent in Sector 87 Faridabad supports growing businesses."
+      },
+      {
+        "title": "8 Marla Office Space for Rent in Sector 87 Faridabad",
+        "description": "8 Marla office spaces are suitable for businesses that require flexible layouts and collaborative work areas. An 8 Marla office space for rent in Sector 87 Faridabad works well for service-based firms."
+      },
+      {
+        "title": "10 Marla Office Space for Rent in Sector 87 Faridabad",
+        "description": "10 Marla office spaces offer a professional environment with cabins, reception areas, and meeting rooms. A 10 Marla office space for rent in Sector 87 Faridabad enhances productivity and brand image."
+      },
+      {
+        "title": "12 Marla Office Space for Rent in Sector 87 Faridabad",
+        "description": "12 Marla office spaces are ideal for mid-sized enterprises seeking spacious and organized offices. A 12 Marla office space for rent in Sector 87 Faridabad supports long-term business planning."
+      },
+      {
+        "title": "14 Marla Office Space for Rent in Sector 87 Faridabad",
+        "description": "14 Marla office spaces are premium options suitable for larger teams and established organizations. A 14 Marla office space for rent in Sector 87 Faridabad offers flexibility and long-term commercial value."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Office Space for Rent in Nearby Commercial Locations",
+    "description": [
+      "While searching for office space for rent in Sector 87 Faridabad, businesses often explore nearby sectors to compare rental pricing, connectivity, and infrastructure. Looking at multiple locations helps in making confident and informed decisions.",
+      "Sector 87 is surrounded by other developing areas of Greater Faridabad. Exploring nearby office locations provides clarity on accessibility, future growth, and suitability for long-term business operations."
+    ],
+    "locations": [
+      {
+        "title": "Office Space for Rent in Sector 87 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 88 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 86 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 85 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Commercial Property for Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop for Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "IT Office Space for Rent",
+        "path": "/",
+        "icon": "Cpu"
+      },
+      {
+        "title": "Corporate Office for Rent",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Coworking Space for Rent",
+        "path": "/",
+        "icon": "Users"
+      },
+      {
+        "title": "Business Center for Rent",
+        "path": "/",
+        "icon": "Handshake"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Preferred Platform for Office Rentals",
+    "description": [
+      "Finding reliable office space for rent in Sector 87 Faridabad requires verified listings and transparent information. Deal Acres focuses on accuracy and trust, helping businesses avoid confusion and make confident rental decisions.",
+      "With strong local market knowledge and a customer-focused approach, Deal Acres simplifies the office search process. Its consistent service quality and trusted platform make it a preferred choice for businesses across Faridabad."
+    ],
+    "points": [
+      {
+        "title": "Verified Office Listings",
+        "description": "Every listing is checked for authenticity."
+      },
+      {
+        "title": "Transparent Property Details",
+        "description": "Clear information supports better planning."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Faridabad localities."
+      },
+      {
+        "title": "Easy Office Comparison",
+        "description": "Compare multiple office options easily."
+      },
+      {
+        "title": "Business-Centric Platform",
+        "description": "Designed around real business needs."
+      },
+      {
+        "title": "Time-Saving Search Experience",
+        "description": "Quick access to relevant office spaces."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from search to final agreement."
+      },
+      {
+        "title": "Trusted by Businesses",
+        "description": "Preferred by startups and growing enterprises."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Office Space for Rent",
+    "description": "Detailed and user-friendly answers to help you choose the right office space.",
+    "faqs": [
+      {
+        "question": "Is Sector 87 Faridabad a good location for office space?",
+        "answer": "Yes, Sector 87 is a developing area with planned infrastructure and good connectivity."
+      },
+      {
+        "question": "What office sizes are available in Sector 87?",
+        "answer": "Office spaces from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Sector 87 suitable for startups?",
+        "answer": "Yes, affordable rentals and flexible office sizes make it suitable for startups."
+      },
+      {
+        "question": "Are parking facilities available?",
+        "answer": "Most office buildings in Sector 87 provide parking facilities."
+      },
+      {
+        "question": "Can office interiors be customized?",
+        "answer": "Many property owners allow interior customization as per business needs."
+      },
+      {
+        "question": "Is Sector 87 suitable for long-term business operations?",
+        "answer": "Yes, the sector shows steady growth and future commercial potential."
+      },
+      {
+        "question": "How does Deal Acres verify office listings?",
+        "answer": "All listings are reviewed and verified before being published."
+      },
+      {
+        "question": "Are daily amenities available nearby?",
+        "answer": "Yes, markets, banks, and residential areas are nearby."
+      },
+      {
+        "question": "What factors affect office rent in Sector 87 Faridabad?",
+        "answer": "Office size, location, amenities, and building condition impact rental pricing."
+      },
+      {
+        "question": "How can I get expert help to rent an office?",
+        "answer": "You can submit your details through the contact form to connect with experts."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help to Rent Office Space in Sector 87 Faridabad",
+    "description": [
+      "Choosing the right office space for rent in Sector 87 Faridabad is an important business decision. Expert guidance helps you evaluate options and finalize the most suitable workspace.",
+      "Share your details to connect with experienced commercial property advisors who can assist you throughout the office rental process."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

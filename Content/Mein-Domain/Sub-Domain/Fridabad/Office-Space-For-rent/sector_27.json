@@ -1,0 +1,216 @@
+{
+  "domain": "Office space for rent.com",
+  "hero": {
+    "title": "Well Planned and Accessible Office Space for Rent in Sector 27",
+    "description": [
+      "Sector 27 Faridabad is a well-established and centrally positioned locality that offers practical options for businesses looking for office space for rent in Sector 27 Faridabad. The area enjoys smooth connectivity to Mathura Road, NH-19, and nearby commercial sectors, making daily commuting convenient for employees, clients, and business partners.",
+      "Office spaces in Sector 27 Faridabad are suitable for startups, service-based companies, consultants, and small to mid-sized enterprises seeking a balanced business environment. Surrounded by residential neighborhoods, markets, banks, and essential amenities, the sector supports a productive work atmosphere. Renting an office here allows businesses to operate from a stable location with consistent commercial demand and long-term usability."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces in Sector 27",
+        "path": "/"
+      },
+      {
+        "label": "Get Office Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Office Space Size Options Available in Sector 27 Faridabad",
+    "description": [
+      "Selecting the right office size is essential for operational efficiency, team comfort, and future scalability. Office space for rent in Sector 27 Faridabad is available in multiple plot size options, allowing businesses to choose workspaces that align with their requirements.",
+      "From compact offices to larger professional setups, Sector 27 provides flexibility for businesses at different growth stages."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space for Rent in Sector 27",
+        "description": "4 Marla office spaces are ideal for freelancers, startups, and small professional firms. A 4 Marla office space for rent in Sector 27 Faridabad offers affordable rentals with essential infrastructure for daily operations."
+      },
+      {
+        "title": "6 Marla Office Space for Rent in Sector 27",
+        "description": "6 Marla office spaces provide better layout planning with room for workstations and cabins. A 6 Marla office space for rent in Sector 27 Faridabad suits growing teams."
+      },
+      {
+        "title": "8 Marla Office Space for Rent in Sector 27",
+        "description": "8 Marla office spaces allow organized work environments with separate departments and meeting areas. An 8 Marla office space for rent in Sector 27 Faridabad is suitable for service-oriented businesses."
+      },
+      {
+        "title": "10 Marla Office Space for Rent in Sector 27",
+        "description": "10 Marla office spaces support professional setups with reception areas, cabins, and conference rooms. A 10 Marla office space for rent in Sector 27 Faridabad improves workflow efficiency."
+      },
+      {
+        "title": "12 Marla Office Space for Rent in Sector 27",
+        "description": "12 Marla office spaces are ideal for mid-sized companies requiring spacious and structured layouts. A 12 Marla office space for rent in Sector 27 Faridabad supports long-term operations."
+      },
+      {
+        "title": "14 Marla Office Space for Rent in Sector 27",
+        "description": "14 Marla office spaces are premium options designed for larger teams and established enterprises. A 14 Marla office space for rent in Sector 27 Faridabad offers scalability and growth potential."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Office Space for Rent in Nearby Commercial Areas",
+    "description": [
+      "Businesses searching for office space for rent in Sector 27 Faridabad often explore nearby locations to compare rental values, accessibility, and infrastructure.",
+      "Reviewing surrounding sectors helps in making informed and confident office rental decisions."
+    ],
+    "locations": [
+      {
+        "title": "Office Space for Rent in Sector 27 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 28 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 31 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 16 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Commercial Property for Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop for Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Corporate Office Space",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "IT Office Space",
+        "path": "/",
+        "icon": "Cpu"
+      },
+      {
+        "title": "Business Center for Rent",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Coworking Space",
+        "path": "/",
+        "icon": "Users"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Businesses Choose Deal Acres for Office Rentals",
+    "description": [
+      "Finding trustworthy office space for rent in Sector 27 Faridabad requires verified listings and transparent information. Deal Acres focuses on authenticity and clarity to simplify the office rental journey.",
+      "With strong local expertise and a customer-first approach, Deal Acres supports confident and hassle-free decision-making."
+    ],
+    "points": [
+      {
+        "title": "Verified Office Listings",
+        "description": "All office properties are checked for authenticity."
+      },
+      {
+        "title": "Transparent Rental Information",
+        "description": "Clear pricing details with no hidden costs."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 27 and nearby areas."
+      },
+      {
+        "title": "Easy-to-Use Platform",
+        "description": "Simple navigation and quick property access."
+      },
+      {
+        "title": "Business-Oriented Listings",
+        "description": "Options curated for real business needs."
+      },
+      {
+        "title": "Time-Saving Process",
+        "description": "Quick shortlisting and comparison of offices."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Assistance from inquiry to final agreement."
+      },
+      {
+        "title": "Trusted by Businesses",
+        "description": "Preferred by startups and established enterprises."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Office Space in Sector 27",
+    "description": "Helpful answers to guide you in selecting the right office space.",
+    "faqs": [
+      {
+        "question": "Is Sector 27 Faridabad a good location for offices?",
+        "answer": "Yes, Sector 27 offers good connectivity, nearby amenities, and stable commercial surroundings."
+      },
+      {
+        "question": "What office sizes are available in Sector 27?",
+        "answer": "Office spaces from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Sector 27 suitable for startups?",
+        "answer": "Yes, affordable rental options and flexible office sizes make it startup-friendly."
+      },
+      {
+        "question": "Are parking facilities available?",
+        "answer": "Most office properties provide basic parking arrangements."
+      },
+      {
+        "question": "Can office interiors be customized?",
+        "answer": "Many landlords allow interior modifications with prior discussion."
+      },
+      {
+        "question": "Is public transport easily accessible?",
+        "answer": "Yes, buses, autos, and nearby metro connectivity support daily commuting."
+      },
+      {
+        "question": "Are banks and markets nearby?",
+        "answer": "Yes, essential facilities are available within close distance."
+      },
+      {
+        "question": "What factors affect office rent in Sector 27?",
+        "answer": "Office size, building condition, and exact location influence rental pricing."
+      },
+      {
+        "question": "Is Sector 27 suitable for long-term leasing?",
+        "answer": "Yes, the area offers consistent demand and stable infrastructure."
+      },
+      {
+        "question": "How can Deal Acres help in renting an office?",
+        "answer": "You can submit your details through the contact form to receive expert assistance."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help to Rent Office Space in Sector 27 Faridabad",
+    "description": [
+      "Choosing the right office space for rent in Sector 27 Faridabad is an important business decision. Expert guidance helps you compare available options and finalize the most suitable workspace.",
+      "Share your details to connect with experienced commercial property experts who will assist you at every step of the office rental process."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

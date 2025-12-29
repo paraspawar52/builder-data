@@ -1,0 +1,216 @@
+{
+  "domain": "Office space for rent.com",
+  "hero": {
+    "title": "Strategically Located Office Space for Rent in Mewla Maharajpur Sector 46",
+    "description": [
+      "Mewla Maharajpur in Sector 46 Faridabad is a well-established and fast-developing locality, making it a preferred destination for businesses looking for office space for rent in Mewla Maharajpur, Sector 46 Faridabad. The area enjoys excellent connectivity to Mathura Road, NH-19, Metro stations, and major commercial hubs of Faridabad and South Delhi. This ensures smooth daily commuting for employees and easy accessibility for clients and vendors.",
+      "Office spaces in Mewla Maharajpur Sector 46 are suitable for consultants, IT service providers, corporate branch offices, and growing enterprises. The locality benefits from nearby residential density, hospitals, educational institutions, markets, and public transport facilities. Renting an office here allows businesses to operate from a well-connected, professional environment while maintaining cost efficiency, visibility, and long-term commercial stability."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces in Mewla Maharajpur",
+        "path": "/"
+      },
+      {
+        "label": "Get Office Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Office Space Size Options Available for Rent in Mewla Maharajpur",
+    "description": [
+      "Choosing the right office size is crucial for ensuring smooth workflow, employee comfort, and controlled rental costs. Office space for rent in Mewla Maharajpur, Sector 46 Faridabad is available in multiple plot size options, helping businesses select spaces that match their operational scale and future growth plans.",
+      "From compact offices for startups to larger setups for established companies, Mewla Maharajpur Sector 46 offers flexible office size options that support efficient layouts and long-term usability."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space for Rent in Mewla Maharajpur Sector 46",
+        "description": "4 Marla office spaces are ideal for startups, freelancers, and small service-based firms. These offices offer affordable rentals with essential infrastructure. A 4 Marla office space for rent in Mewla Maharajpur, Sector 46 Faridabad suits budget-conscious businesses."
+      },
+      {
+        "title": "6 Marla Office Space for Rent in Mewla Maharajpur Sector 46",
+        "description": "6 Marla office spaces provide a balanced layout with room for workstations and cabins. A 6 Marla office space for rent in Mewla Maharajpur Sector 46 Faridabad supports growing teams."
+      },
+      {
+        "title": "8 Marla Office Space for Rent in Mewla Maharajpur Sector 46",
+        "description": "8 Marla office spaces allow flexible planning with meeting rooms and collaborative areas. An 8 Marla office space for rent in Mewla Maharajpur, Sector 46 Faridabad is suitable for service-based businesses."
+      },
+      {
+        "title": "10 Marla Office Space for Rent in Mewla Maharajpur Sector 46",
+        "description": "10 Marla office spaces offer professional setups with reception areas and dedicated cabins. A 10 Marla office space for rent in Mewla Maharajpur Sector 46 Faridabad enhances business image."
+      },
+      {
+        "title": "12 Marla Office Space for Rent in Mewla Maharajpur Sector 46",
+        "description": "12 Marla office spaces are ideal for mid-sized enterprises requiring organized and spacious offices. A 12 Marla office space for rent in Mewla Maharajpur, Sector 46 Faridabad supports long-term operations."
+      },
+      {
+        "title": "14 Marla Office Space for Rent in Mewla Maharajpur Sector 46",
+        "description": "14 Marla office spaces are premium options suitable for larger teams and corporate offices. A 14 Marla office space for rent in Mewla Maharajpur Sector 46 Faridabad offers expansion flexibility."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Office Space for Rent in Nearby Commercial Locations",
+    "description": [
+      "While searching for office space for rent in Mewla Maharajpur, Sector 46 Faridabad, businesses often explore nearby sectors to compare rental values, accessibility, and infrastructure.",
+      "Exploring surrounding commercial areas helps businesses make confident and well-informed office rental decisions."
+    ],
+    "locations": [
+      {
+        "title": "Office Space for Rent in Mewla Maharajpur Sector 46",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 45 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 44 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Badkhal Road Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Commercial Property for Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop for Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "IT Office Space for Rent",
+        "path": "/",
+        "icon": "Cpu"
+      },
+      {
+        "title": "Corporate Office for Rent",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Coworking Space for Rent",
+        "path": "/",
+        "icon": "Users"
+      },
+      {
+        "title": "Business Center for Rent",
+        "path": "/",
+        "icon": "Handshake"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Businesses Trust Deal Acres for Office Space Rentals",
+    "description": [
+      "Finding the right office space for rent in Mewla Maharajpur, Sector 46 Faridabad requires verified listings and transparent information. Deal Acres ensures every property listed meets quality and authenticity standards.",
+      "With deep local market knowledge and a customer-first approach, Deal Acres simplifies the office rental process from search to final agreement."
+    ],
+    "points": [
+      {
+        "title": "Verified Office Listings",
+        "description": "Every listing is checked for accuracy and authenticity."
+      },
+      {
+        "title": "Transparent Rental Details",
+        "description": "Clear information helps businesses plan better."
+      },
+      {
+        "title": "Strong Local Expertise",
+        "description": "In-depth understanding of Sector 46 and nearby areas."
+      },
+      {
+        "title": "Easy Office Comparison",
+        "description": "Compare multiple office options in one place."
+      },
+      {
+        "title": "Business-Oriented Platform",
+        "description": "Designed specifically for commercial needs."
+      },
+      {
+        "title": "Time-Saving Search Experience",
+        "description": "Quick access to relevant office spaces."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from inquiry to agreement closure."
+      },
+      {
+        "title": "Trusted by Businesses",
+        "description": "Preferred by startups and established companies."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Office Space for Rent",
+    "description": "Clear and detailed answers to help users make informed office rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Mewla Maharajpur Sector 46 a good location for offices?",
+        "answer": "Yes, it offers strong connectivity, developed infrastructure, and affordable office rental options."
+      },
+      {
+        "question": "What office sizes are available in this area?",
+        "answer": "Office spaces ranging from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is this area suitable for IT and service companies?",
+        "answer": "Yes, the locality supports IT firms, consultants, and service-based businesses."
+      },
+      {
+        "question": "Are parking facilities available?",
+        "answer": "Most office buildings provide basic parking facilities."
+      },
+      {
+        "question": "Can office interiors be customized?",
+        "answer": "Many property owners allow customization with prior approval."
+      },
+      {
+        "question": "Is public transport easily accessible?",
+        "answer": "Yes, metro stations, buses, and shared transport options are nearby."
+      },
+      {
+        "question": "Are daily amenities available close by?",
+        "answer": "Yes, markets, banks, hospitals, and eateries are easily accessible."
+      },
+      {
+        "question": "What factors affect office rent in Sector 46?",
+        "answer": "Office size, building condition, amenities, and exact location impact rent."
+      },
+      {
+        "question": "Is this location suitable for long-term offices?",
+        "answer": "Yes, it offers a stable environment with long-term commercial value."
+      },
+      {
+        "question": "How can Deal Acres help me rent an office?",
+        "answer": "You can submit your details through the contact form to connect with experts."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help to Rent Office Space in Mewla Maharajpur Sector 46",
+    "description": [
+      "Choosing the right office space for rent in Mewla Maharajpur, Sector 46 Faridabad is an important business decision. Expert guidance helps you evaluate and finalize the best option.",
+      "Share your details to connect with experienced commercial property advisors who will assist you throughout the office rental journey."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

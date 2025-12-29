@@ -1,0 +1,174 @@
+{
+  "domain": "Affordable house.com",
+
+  "hero": {
+    "title": "Affordable and Centrally Located Independent Houses for Sale in Sector 28",
+    "description": [
+      "Sector 28 Faridabad is one of the most well-established and centrally located residential areas of the city. Buyers searching for an affordable house in Sector 28 Faridabad are attracted to its excellent connectivity, mature infrastructure, and proximity to major commercial and industrial hubs. The sector is close to Mathura Road, NH-19, metro stations, and railway connectivity, making daily travel to Delhi and other NCR areas smooth and convenient.",
+      "Affordable houses in Sector 28 Faridabad are ideal for families, professionals, and retirees who prefer independent living in a premium yet practical location. The area is surrounded by reputed schools, hospitals, local markets, shopping complexes, parks, and essential civic amenities. With strong residential demand, stable property values, and a peaceful environment, Sector 28 offers a comfortable lifestyle along with long-term investment security."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses in Sector 28",
+        "path": "/"
+      },
+      {
+        "label": "Get Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Plot Size Options Available in Sector 28 Faridabad",
+    "description": [
+      "Selecting the right plot size is a crucial decision when planning an independent home. Affordable house options in Sector 28 Faridabad are available in multiple plot sizes, allowing buyers to choose according to budget, family size, and lifestyle needs.",
+      "From compact homes for small families to spacious houses for long-term living, Sector 28 offers practical plot options with efficient layouts, good ventilation, and everyday comfort."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House in Sector 28 Faridabad",
+        "description": "4 Marla houses are ideal for small families and first-time homebuyers looking for budget-friendly independent living. These homes offer compact yet functional layouts with lower maintenance costs. A 4 Marla affordable house in Sector 28 Faridabad provides a smart entry into a prime location."
+      },
+      {
+        "title": "6 Marla Affordable House in Sector 28 Faridabad",
+        "description": "6 Marla houses offer a balanced combination of affordability and space. These homes generally include additional bedrooms, better airflow, and parking convenience. Choosing a 6 Marla affordable house in Sector 28 Faridabad suits growing families."
+      },
+      {
+        "title": "8 Marla Affordable House in Sector 28 Faridabad",
+        "description": "8 Marla houses provide more flexibility in design and spacious interiors. These homes support open layouts, natural lighting, and improved privacy. An 8 Marla affordable house in Sector 28 Faridabad is ideal for comfortable family living."
+      },
+      {
+        "title": "10 Marla Affordable House in Sector 28 Faridabad",
+        "description": "10 Marla houses are designed for buyers who prefer spacious interiors with practical planning. These homes allow open living areas, parking facilities, and comfortable room sizes. A 10 Marla affordable house in Sector 28 Faridabad enhances lifestyle quality."
+      },
+      {
+        "title": "12 Marla Affordable House in Sector 28 Faridabad",
+        "description": "12 Marla houses are suitable for larger families requiring multiple living areas and privacy. These homes offer good ventilation and customization options. Investing in a 12 Marla affordable house in Sector 28 Faridabad ensures long-term comfort."
+      },
+      {
+        "title": "14 Marla Affordable House in Sector 28 Faridabad",
+        "description": "14 Marla houses provide premium residential space for families planning permanent independent living. These homes support expansive layouts and future expansion. A 14 Marla affordable house in Sector 28 Faridabad offers space and strong value appreciation."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses in Sector 28 and Nearby Residential Areas",
+    "description": [
+      "Homebuyers searching for an affordable house in Sector 28 Faridabad often explore nearby sectors to compare pricing, connectivity, and lifestyle benefits.",
+      "Reviewing surrounding residential localities helps buyers make informed decisions and choose the most suitable affordable housing option."
+    ],
+    "locations": [
+      { "title": "Affordable House in Sector 28 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 31 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 30 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in NIT Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Independent House for Sale", "path": "/", "icon": "Building" },
+      { "title": "Builder Floor for Sale", "path": "/", "icon": "Layers" },
+      { "title": "Residential Property for Sale", "path": "/", "icon": "MapPin" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Affordable Houses",
+    "description": [
+      "Finding a genuine affordable house in Sector 28 Faridabad requires verified listings and transparent property information. Deal Acres focuses on trust, accuracy, and buyer confidence.",
+      "With strong local expertise and a customer-first approach, Deal Acres simplifies the home-buying process and ensures a smooth, reliable experience."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All properties are verified for authenticity and legal clarity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing details with no hidden charges."
+      },
+      {
+        "title": "Strong Local Knowledge",
+        "description": "In-depth understanding of Sector 28 and surrounding areas."
+      },
+      {
+        "title": "Wide Range of Options",
+        "description": "Affordable houses available across multiple plot sizes."
+      },
+      {
+        "title": "Customer-Centric Platform",
+        "description": "Designed to address real buyer concerns."
+      },
+      {
+        "title": "Time-Saving Property Search",
+        "description": "Quick access to relevant and verified listings."
+      },
+      {
+        "title": "End-to-End Buying Support",
+        "description": "Complete assistance from property search to possession."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Deal Acres is a preferred platform for affordable housing solutions."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Sector 28",
+    "description": "Clear and detailed answers to help buyers make confident home-buying decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 28 Faridabad a good area to buy a house?",
+        "answer": "Yes, Sector 28 is a centrally located and well-developed residential area with excellent connectivity and amenities."
+      },
+      {
+        "question": "What plot sizes are available in Sector 28?",
+        "answer": "Affordable houses in Sector 28 are available in plot sizes ranging from 4 Marla to 14 Marla."
+      },
+      {
+        "question": "Are schools and hospitals nearby?",
+        "answer": "Yes, reputed schools, hospitals, clinics, and healthcare facilities are easily accessible."
+      },
+      {
+        "question": "Is Sector 28 suitable for long-term living?",
+        "answer": "With mature infrastructure and a peaceful residential environment, Sector 28 is ideal for long-term living."
+      },
+      {
+        "question": "How is connectivity from Sector 28?",
+        "answer": "Sector 28 enjoys excellent connectivity via Mathura Road, NH-19, metro stations, and public transport."
+      },
+      {
+        "question": "Are these houses suitable for first-time buyers?",
+        "answer": "Yes, affordable pricing and practical layouts make these houses ideal for first-time homebuyers."
+      },
+      {
+        "question": "Can houses be customized after purchase?",
+        "answer": "Many houses allow customization subject to local building rules and approvals."
+      },
+      {
+        "question": "Is Sector 28 a family-friendly locality?",
+        "answer": "Yes, it is a safe, peaceful, and family-oriented residential area."
+      },
+      {
+        "question": "What factors influence house prices in Sector 28?",
+        "answer": "Plot size, construction quality, exact location, and nearby amenities influence property prices."
+      },
+      {
+        "question": "How does Deal Acres help homebuyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, and complete end-to-end buying support."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance to Buy Affordable Houses in Sector 28 Faridabad",
+    "description": [
+      "Buying an affordable house in Sector 28 Faridabad is an important life decision that requires accurate information and professional guidance. Expert assistance helps you avoid confusion and select the right property confidently.",
+      "Share your details to connect with experienced property advisors who will guide you through every step of your home-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

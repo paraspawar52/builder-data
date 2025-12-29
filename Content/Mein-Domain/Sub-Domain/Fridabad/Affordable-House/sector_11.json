@@ -1,0 +1,174 @@
+{
+  "domain": "Affordable house.com",
+
+  "hero": {
+    "title": "Affordable and Well-Connected Independent Houses for Sale in Sector 11",
+    "description": [
+      "Sector 11 Faridabad is a well-established residential locality known for its central location, planned infrastructure, and easy accessibility to major parts of the city. Homebuyers looking for an affordable house in Sector 11 Faridabad prefer this area due to its proximity to Old Faridabad, NIT areas, and smooth connectivity via Mathura Road and nearby metro stations. The sector offers a balanced environment with both residential comfort and urban convenience.",
+      "Affordable houses in Sector 11 Faridabad are ideal for families, professionals, and retirees seeking independent living in a peaceful yet well-connected neighborhood. The locality has easy access to schools, hospitals, local markets, parks, and public transport. With stable residential demand, good rental potential, and long-term value appreciation, Sector 11 remains a practical and reliable choice for affordable housing in Faridabad."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses in Sector 11",
+        "path": "/"
+      },
+      {
+        "label": "Get Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Plot Size Options Available in Sector 11 Faridabad",
+    "description": [
+      "Choosing the right plot size is an important step when planning an independent home. Affordable house options in Sector 11 Faridabad are available in multiple plot sizes, allowing buyers to select properties based on budget, family size, and lifestyle needs.",
+      "From compact homes for small families to spacious houses designed for long-term living, Sector 11 offers functional plot options with efficient layouts, proper ventilation, and comfortable living spaces."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House in Sector 11 Faridabad",
+        "description": "4 Marla houses are suitable for small families and first-time buyers seeking budget-friendly independent living. These homes offer compact layouts, essential living spaces, and low maintenance. A 4 Marla affordable house in Sector 11 Faridabad is a practical entry-level option."
+      },
+      {
+        "title": "6 Marla Affordable House in Sector 11 Faridabad",
+        "description": "6 Marla houses provide a good balance between affordability and usable space. These homes usually include extra bedrooms, better airflow, and parking convenience. Choosing a 6 Marla affordable house in Sector 11 Faridabad suits growing families."
+      },
+      {
+        "title": "8 Marla Affordable House in Sector 11 Faridabad",
+        "description": "8 Marla houses allow more flexibility in interior planning and room sizes. These homes support open layouts, natural lighting, and improved privacy. An 8 Marla affordable house in Sector 11 Faridabad is ideal for comfortable family living."
+      },
+      {
+        "title": "10 Marla Affordable House in Sector 11 Faridabad",
+        "description": "10 Marla houses are preferred by buyers looking for spacious interiors and better layout planning. These homes offer ample living areas and parking space. A 10 Marla affordable house in Sector 11 Faridabad enhances everyday comfort."
+      },
+      {
+        "title": "12 Marla Affordable House in Sector 11 Faridabad",
+        "description": "12 Marla houses are suitable for larger families requiring multiple rooms and better privacy. These homes offer good ventilation and customization possibilities. Investing in a 12 Marla affordable house in Sector 11 Faridabad ensures long-term comfort."
+      },
+      {
+        "title": "14 Marla Affordable House in Sector 11 Faridabad",
+        "description": "14 Marla houses provide premium independent living space in a well-developed locality. These homes allow expansive layouts and future expansion. A 14 Marla affordable house in Sector 11 Faridabad offers space and long-term residential value."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses in Sector 11 and Nearby Residential Areas",
+    "description": [
+      "Homebuyers searching for an affordable house in Sector 11 Faridabad often explore nearby sectors to compare pricing, connectivity, and residential facilities.",
+      "Exploring surrounding localities helps buyers make informed decisions and choose the most suitable affordable housing option."
+    ],
+    "locations": [
+      { "title": "Affordable House in Sector 11 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 10 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 12 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in NIT Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Independent House for Sale", "path": "/", "icon": "Building" },
+      { "title": "Builder Floor for Sale", "path": "/", "icon": "Layers" },
+      { "title": "Residential Property for Sale", "path": "/", "icon": "MapPin" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Affordable Houses",
+    "description": [
+      "Finding a genuine affordable house in Sector 11 Faridabad requires verified listings and transparent property information. Deal Acres focuses on trust, accuracy, and buyer confidence.",
+      "With strong local expertise and a customer-first approach, Deal Acres simplifies the home-buying journey and ensures a smooth and reliable experience."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All property listings are verified for ownership and authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing information with no hidden charges."
+      },
+      {
+        "title": "Local Market Knowledge",
+        "description": "Strong understanding of Sector 11 and nearby areas."
+      },
+      {
+        "title": "Multiple Plot Options",
+        "description": "Affordable houses available in different plot sizes."
+      },
+      {
+        "title": "Customer-Centric Platform",
+        "description": "Designed to address real buyer concerns."
+      },
+      {
+        "title": "Quick Property Search",
+        "description": "Easy access to verified and relevant listings."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Complete assistance from property search to possession."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Deal Acres is a preferred platform for affordable housing solutions."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Sector 11",
+    "description": "Detailed and user-friendly answers to help buyers make confident property decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 11 Faridabad a good place to buy a house?",
+        "answer": "Yes, Sector 11 is a well-developed and centrally located residential area with good connectivity and essential amenities."
+      },
+      {
+        "question": "What plot sizes are available in Sector 11?",
+        "answer": "Affordable houses in Sector 11 are available from 4 Marla to 14 Marla plot sizes."
+      },
+      {
+        "question": "Are schools and hospitals nearby?",
+        "answer": "Yes, reputed schools, hospitals, and healthcare facilities are easily accessible."
+      },
+      {
+        "question": "Is Sector 11 suitable for long-term living?",
+        "answer": "With stable infrastructure and consistent residential demand, Sector 11 is suitable for long-term living."
+      },
+      {
+        "question": "How is connectivity from Sector 11?",
+        "answer": "Sector 11 enjoys good connectivity via Mathura Road, metro stations, and public transport."
+      },
+      {
+        "question": "Are these houses suitable for first-time buyers?",
+        "answer": "Yes, affordable pricing and practical layouts make these houses ideal for first-time buyers."
+      },
+      {
+        "question": "Can houses be customized after purchase?",
+        "answer": "Many houses allow customization as per local building regulations."
+      },
+      {
+        "question": "Is Sector 11 family-friendly?",
+        "answer": "Yes, it is a peaceful and family-oriented residential locality."
+      },
+      {
+        "question": "What factors affect house prices in Sector 11?",
+        "answer": "Plot size, construction quality, exact location, and nearby amenities affect house prices."
+      },
+      {
+        "question": "How does Deal Acres help homebuyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, and complete end-to-end buying support."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance to Buy Affordable Houses in Sector 11 Faridabad",
+    "description": [
+      "Buying an affordable house in Sector 11 Faridabad is a major decision that requires accurate information and professional guidance. Expert support helps you avoid confusion and select the right property with confidence.",
+      "Share your details to connect with experienced property advisors who will assist you at every stage of your home-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

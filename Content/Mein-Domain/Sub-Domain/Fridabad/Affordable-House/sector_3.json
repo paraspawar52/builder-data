@@ -1,0 +1,174 @@
+{
+  "domain": "Affordable house.com",
+
+  "hero": {
+    "title": "Affordable and Centrally Located Independent Houses for Sale in Sector 3",
+    "description": [
+      "Sector 3 Faridabad is one of the well-established and centrally positioned residential localities, making it a preferred choice for homebuyers seeking comfort and convenience. People searching for an affordable house in Sector 3 Faridabad are attracted by its close proximity to Old Faridabad, NIT areas, and smooth connectivity to Mathura Road and nearby metro stations. The sector benefits from planned roads, stable infrastructure, and a peaceful residential environment.",
+      "Affordable houses in Sector 3 Faridabad are ideal for families, working professionals, and retirees who want independent living close to essential urban facilities. The locality offers easy access to schools, hospitals, local markets, banks, and public transport. With consistent residential demand, reliable infrastructure, and long-term value stability, Sector 3 remains a practical and trustworthy option for affordable housing in Faridabad."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses in Sector 3",
+        "path": "/"
+      },
+      {
+        "label": "Get Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Plot Size Options Available in Sector 3 Faridabad",
+    "description": [
+      "Choosing the right plot size is an important step when planning an independent house. Affordable house options in Sector 3 Faridabad are available in multiple plot sizes, allowing buyers to select homes according to their budget, family size, and future needs.",
+      "From compact houses for small families to spacious independent homes for long-term living, Sector 3 offers functional plot options with efficient layouts, good ventilation, and comfortable living conditions."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House in Sector 3 Faridabad",
+        "description": "4 Marla houses are suitable for small families and first-time buyers looking for budget-friendly independent living. These homes offer compact layouts with essential living spaces and low maintenance. A 4 Marla affordable house in Sector 3 Faridabad is a practical choice."
+      },
+      {
+        "title": "6 Marla Affordable House in Sector 3 Faridabad",
+        "description": "6 Marla houses provide a balanced mix of affordability and usable space. These homes usually include extra bedrooms, better airflow, and parking convenience. Choosing a 6 Marla affordable house in Sector 3 Faridabad suits growing families."
+      },
+      {
+        "title": "8 Marla Affordable House in Sector 3 Faridabad",
+        "description": "8 Marla houses offer more flexibility in interior design and room sizes. These homes support open layouts, natural lighting, and improved privacy. An 8 Marla affordable house in Sector 3 Faridabad is ideal for comfortable family living."
+      },
+      {
+        "title": "10 Marla Affordable House in Sector 3 Faridabad",
+        "description": "10 Marla houses are preferred by buyers looking for spacious interiors and better layout planning. These homes provide ample living areas and parking space. A 10 Marla affordable house in Sector 3 Faridabad enhances everyday comfort."
+      },
+      {
+        "title": "12 Marla Affordable House in Sector 3 Faridabad",
+        "description": "12 Marla houses are suitable for larger families requiring multiple rooms and better privacy. These homes offer good ventilation and customization options. Investing in a 12 Marla affordable house in Sector 3 Faridabad ensures long-term comfort."
+      },
+      {
+        "title": "14 Marla Affordable House in Sector 3 Faridabad",
+        "description": "14 Marla houses provide premium independent living space in a well-developed locality. These homes allow expansive layouts and future expansion. A 14 Marla affordable house in Sector 3 Faridabad offers space and long-term residential value."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses in Sector 3 and Nearby Residential Areas",
+    "description": [
+      "Homebuyers searching for an affordable house in Sector 3 Faridabad often explore nearby sectors to compare pricing, connectivity, and residential facilities.",
+      "Reviewing surrounding localities helps buyers make informed decisions and choose the most suitable affordable housing option."
+    ],
+    "locations": [
+      { "title": "Affordable House in Sector 3 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 2 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 4 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in NIT Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Independent House for Sale", "path": "/", "icon": "Building" },
+      { "title": "Builder Floor for Sale", "path": "/", "icon": "Layers" },
+      { "title": "Residential Property for Sale", "path": "/", "icon": "MapPin" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Affordable Houses",
+    "description": [
+      "Finding a genuine affordable house in Sector 3 Faridabad requires verified listings and transparent property information. Deal Acres focuses on trust, accuracy, and customer satisfaction.",
+      "With strong local expertise and a customer-first approach, Deal Acres simplifies the home-buying journey and ensures a smooth and reliable experience."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All listings are verified for ownership and authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden charges."
+      },
+      {
+        "title": "Local Market Knowledge",
+        "description": "Strong understanding of Sector 3 and nearby areas."
+      },
+      {
+        "title": "Multiple Plot Options",
+        "description": "Affordable houses available in different plot sizes."
+      },
+      {
+        "title": "Customer-Centric Platform",
+        "description": "Designed to solve real homebuyer concerns."
+      },
+      {
+        "title": "Quick Property Search",
+        "description": "Easy access to verified and relevant listings."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Complete assistance from property search to possession."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Deal Acres is a preferred platform for affordable housing solutions."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Sector 3",
+    "description": "Detailed and user-friendly answers to help buyers make confident property decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 3 Faridabad a good place to buy a house?",
+        "answer": "Yes, Sector 3 is a centrally located and well-developed residential area with good connectivity and essential amenities."
+      },
+      {
+        "question": "What plot sizes are available in Sector 3?",
+        "answer": "Affordable houses in Sector 3 are available from 4 Marla to 14 Marla plot sizes."
+      },
+      {
+        "question": "Are schools and hospitals nearby?",
+        "answer": "Yes, schools, hospitals, and healthcare facilities are easily accessible from Sector 3."
+      },
+      {
+        "question": "Is Sector 3 suitable for long-term living?",
+        "answer": "With stable infrastructure and consistent residential demand, Sector 3 is suitable for long-term living."
+      },
+      {
+        "question": "How is connectivity from Sector 3?",
+        "answer": "Sector 3 enjoys good connectivity via Mathura Road, metro stations, and public transport routes."
+      },
+      {
+        "question": "Are these houses suitable for first-time buyers?",
+        "answer": "Yes, affordable pricing and practical layouts make these houses ideal for first-time buyers."
+      },
+      {
+        "question": "Can houses be customized after purchase?",
+        "answer": "Many houses allow customization as per local building norms."
+      },
+      {
+        "question": "Is Sector 3 family-friendly?",
+        "answer": "Yes, it is a peaceful and family-oriented residential locality."
+      },
+      {
+        "question": "What affects house prices in Sector 3?",
+        "answer": "Plot size, construction quality, exact location, and nearby amenities affect house prices."
+      },
+      {
+        "question": "How does Deal Acres help buyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, and complete end-to-end buying support."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance to Buy Affordable Houses in Sector 3 Faridabad",
+    "description": [
+      "Buying an affordable house in Sector 3 Faridabad is an important decision that requires accurate information and professional guidance. Expert support helps you avoid confusion and select the right property with confidence.",
+      "Share your details to connect with experienced property advisors who will guide you through every stage of your home-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

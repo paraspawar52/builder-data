@@ -1,0 +1,174 @@
+{
+  "domain": "Affordable house.com",
+
+  "hero": {
+    "title": "Affordable and Well-Connected Independent Houses for Sale in NIT 1 Faridabad",
+    "description": [
+      "NIT 1 Faridabad is one of the oldest and most well-established residential localities in the city, known for its central location and excellent everyday connectivity. Buyers looking for an affordable house in NIT 1 Faridabad prefer this area due to its proximity to Old Faridabad markets, NH-19, industrial sectors, and major transport routes. The locality offers reliable public transport, wide roads, and a practical residential setup ideal for families and working professionals.",
+      "Affordable houses in NIT 1 Faridabad provide the advantage of independent living within a mature neighborhood. The area is surrounded by reputed schools, hospitals, clinics, local markets, banks, and daily-need facilities, making daily life convenient and comfortable. With consistent housing demand, developed civic infrastructure, and budget-friendly property options, NIT 1 continues to be a dependable choice for long-term homeownership in Faridabad."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses in NIT 1",
+        "path": "/"
+      },
+      {
+        "label": "Get Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Plot Size Options Available in NIT 1 Faridabad",
+    "description": [
+      "Choosing the right plot size plays a key role when planning to buy an independent house. Affordable house options in NIT 1 Faridabad are available in multiple plot sizes, helping buyers match their housing needs with their budget and family requirements.",
+      "From compact houses for small families to spacious homes designed for long-term living, NIT 1 offers practical plot size options with efficient layouts, proper ventilation, and easy access to nearby city facilities."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House in NIT 1 Faridabad",
+        "description": "4 Marla houses are suitable for small families and first-time buyers looking for affordable independent living. These homes offer compact layouts, essential living spaces, and easy maintenance. A 4 Marla affordable house in NIT 1 Faridabad is a sensible starting option."
+      },
+      {
+        "title": "6 Marla Affordable House in NIT 1 Faridabad",
+        "description": "6 Marla houses provide a balanced mix of affordability and usable space. These homes usually include additional bedrooms, better ventilation, and parking convenience. A 6 Marla affordable house in NIT 1 Faridabad suits growing families."
+      },
+      {
+        "title": "8 Marla Affordable House in NIT 1 Faridabad",
+        "description": "8 Marla houses allow better interior planning and more comfortable living areas. These homes offer improved privacy and flexible layouts. An 8 Marla affordable house in NIT 1 Faridabad supports modern family living."
+      },
+      {
+        "title": "10 Marla Affordable House in NIT 1 Faridabad",
+        "description": "10 Marla houses are preferred by buyers seeking spacious interiors and organized layouts. These homes provide ample living space along with parking facilities. A 10 Marla affordable house in NIT 1 Faridabad enhances lifestyle comfort."
+      },
+      {
+        "title": "12 Marla Affordable House in NIT 1 Faridabad",
+        "description": "12 Marla houses are ideal for larger families that need multiple rooms and better privacy. These homes offer good airflow and customization potential. A 12 Marla affordable house in NIT 1 Faridabad ensures long-term living comfort."
+      },
+      {
+        "title": "14 Marla Affordable House in NIT 1 Faridabad",
+        "description": "14 Marla houses provide premium independent living space within a central locality. These homes support spacious layouts, private parking, and future expansion. A 14 Marla affordable house in NIT 1 Faridabad offers long-term value and stability."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses in NIT 1 and Nearby Localities",
+    "description": [
+      "Homebuyers searching for an affordable house in NIT 1 Faridabad often explore nearby areas to compare prices, connectivity, and residential amenities.",
+      "Looking at surrounding localities helps buyers identify the most suitable affordable housing option based on budget and lifestyle preferences."
+    ],
+    "locations": [
+      { "title": "Affordable House in NIT 1 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in NIT 2 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in NIT 3 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Old Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Independent House for Sale", "path": "/", "icon": "Building" },
+      { "title": "Builder Floor for Sale", "path": "/", "icon": "Layers" },
+      { "title": "Residential Property for Sale", "path": "/", "icon": "MapPin" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Affordable Houses",
+    "description": [
+      "Finding a genuine affordable house in NIT 1 Faridabad requires verified listings and transparent property information. Deal Acres ensures buyers receive accurate and trustworthy details.",
+      "With strong local market expertise and a customer-first approach, Deal Acres simplifies the home-buying journey and delivers a reliable experience."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All properties are carefully verified for ownership and authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing information with no hidden charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Deep understanding of NIT 1 and surrounding residential areas."
+      },
+      {
+        "title": "Multiple Plot Size Options",
+        "description": "Affordable houses available across various plot sizes."
+      },
+      {
+        "title": "Customer-Centric Platform",
+        "description": "Designed to solve real homebuyer concerns."
+      },
+      {
+        "title": "Quick Property Search",
+        "description": "Easy access to relevant and verified listings."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Complete assistance from shortlisting to final possession."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Deal Acres is a preferred platform for affordable housing."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in NIT 1",
+    "description": "Detailed answers to help buyers make confident and informed home-buying decisions.",
+    "faqs": [
+      {
+        "question": "Is NIT 1 Faridabad a good area to buy a house?",
+        "answer": "Yes, NIT 1 is a well-established residential locality with strong connectivity and essential amenities."
+      },
+      {
+        "question": "What plot sizes are available in NIT 1?",
+        "answer": "Affordable houses in NIT 1 Faridabad are available from 4 Marla to 14 Marla plot sizes."
+      },
+      {
+        "question": "Is NIT 1 suitable for families?",
+        "answer": "Yes, the locality offers a practical, safe, and family-friendly living environment."
+      },
+      {
+        "question": "How is connectivity from NIT 1?",
+        "answer": "NIT 1 has excellent road connectivity to NH-19, Old Faridabad, and nearby commercial areas."
+      },
+      {
+        "question": "Are schools and hospitals nearby?",
+        "answer": "Yes, schools, hospitals, clinics, and medical facilities are easily accessible."
+      },
+      {
+        "question": "Are these houses suitable for first-time buyers?",
+        "answer": "Yes, affordable pricing makes these houses ideal for first-time homebuyers."
+      },
+      {
+        "question": "Can houses be customized after purchase?",
+        "answer": "Many properties allow customization as per local building norms."
+      },
+      {
+        "question": "Is NIT 1 good for long-term investment?",
+        "answer": "Stable residential demand and central location support long-term property value."
+      },
+      {
+        "question": "What affects property prices in NIT 1?",
+        "answer": "Plot size, construction quality, location, and nearby amenities influence pricing."
+      },
+      {
+        "question": "How does Deal Acres help buyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, and end-to-end buying support."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance to Buy Affordable Houses in NIT 1 Faridabad",
+    "description": [
+      "Buying an affordable house in NIT 1 Faridabad requires accurate information and professional guidance. Expert assistance helps buyers avoid confusion and make the right decision.",
+      "Share your details to connect with experienced property advisors who will guide you through every step of your home-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

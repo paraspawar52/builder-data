@@ -1,0 +1,174 @@
+{
+  "domain": "Affordable house.com",
+
+  "hero": {
+    "title": "Affordable and Peaceful Independent Houses for Sale in Greenfield Colony",
+    "description": [
+      "Greenfield Colony Faridabad is a well-known and preferred residential locality offering a balanced lifestyle with good connectivity and peaceful surroundings. Buyers looking for an affordable house in Greenfield Colony Faridabad are attracted by its organized layout, green environment, and proximity to South Delhi and major parts of Faridabad. The area enjoys smooth connectivity via Badarpur Border, Surajkund Road, and Mathura Road, making daily commuting easy for professionals and families.",
+      "Affordable houses in Greenfield Colony Faridabad are suitable for families, working professionals, and retirees who prefer independent living in a calm yet well-connected neighborhood. The locality offers access to reputed schools, hospitals, shopping areas, parks, and public transport facilities. With stable residential demand, good rental potential, and a comfortable lifestyle environment, Greenfield Colony continues to be a reliable choice for affordable and long-term home ownership."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses in Greenfield Colony",
+        "path": "/"
+      },
+      {
+        "label": "Get Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Plot Size Options Available in Greenfield Colony",
+    "description": [
+      "Selecting the right plot size is an important step when planning an independent home. Affordable house options in Greenfield Colony Faridabad are available in multiple plot sizes, giving buyers flexibility based on budget, family size, and lifestyle preferences.",
+      "From compact homes for small families to spacious houses for long-term living, Greenfield Colony offers practical plot size options with well-planned layouts, proper ventilation, and comfortable living spaces."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House in Greenfield Colony Faridabad",
+        "description": "4 Marla houses are ideal for small families and first-time buyers seeking affordable independent living. These homes offer compact layouts, essential living spaces, and low maintenance. A 4 Marla affordable house in Greenfield Colony Faridabad is a smart budget-friendly choice."
+      },
+      {
+        "title": "6 Marla Affordable House in Greenfield Colony Faridabad",
+        "description": "6 Marla houses provide a good balance between affordability and usable space. These homes usually include extra bedrooms, better airflow, and parking convenience. Choosing a 6 Marla affordable house in Greenfield Colony Faridabad suits growing families."
+      },
+      {
+        "title": "8 Marla Affordable House in Greenfield Colony Faridabad",
+        "description": "8 Marla houses offer more flexibility in interior design and room sizes. These homes support open layouts, natural lighting, and improved privacy. An 8 Marla affordable house in Greenfield Colony Faridabad is ideal for comfortable family living."
+      },
+      {
+        "title": "10 Marla Affordable House in Greenfield Colony Faridabad",
+        "description": "10 Marla houses are preferred by buyers looking for spacious interiors and better layout planning. These homes provide ample living areas and parking space. A 10 Marla affordable house in Greenfield Colony Faridabad enhances everyday comfort."
+      },
+      {
+        "title": "12 Marla Affordable House in Greenfield Colony Faridabad",
+        "description": "12 Marla houses are suitable for larger families requiring multiple rooms and privacy. These homes offer good ventilation and scope for customization. Investing in a 12 Marla affordable house in Greenfield Colony Faridabad ensures long-term comfort."
+      },
+      {
+        "title": "14 Marla Affordable House in Greenfield Colony Faridabad",
+        "description": "14 Marla houses provide premium independent living space within a well-established locality. These homes allow expansive layouts and future expansion. A 14 Marla affordable house in Greenfield Colony Faridabad delivers space and long-term value."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses in Greenfield Colony and Nearby Areas",
+    "description": [
+      "Homebuyers searching for an affordable house in Greenfield Colony Faridabad often explore nearby residential localities to compare pricing, connectivity, and lifestyle benefits.",
+      "Reviewing surrounding areas helps buyers make informed decisions and choose the most suitable affordable housing option."
+    ],
+    "locations": [
+      { "title": "Affordable House in Greenfield Colony Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Charmwood Village Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Surajkund Road Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 21 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Independent House for Sale", "path": "/", "icon": "Building" },
+      { "title": "Builder Floor for Sale", "path": "/", "icon": "Layers" },
+      { "title": "Residential Property for Sale", "path": "/", "icon": "MapPin" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Affordable Houses",
+    "description": [
+      "Finding a genuine affordable house in Greenfield Colony Faridabad requires verified listings and transparent property information. Deal Acres focuses on accuracy, trust, and customer satisfaction.",
+      "With strong local expertise and a customer-first approach, Deal Acres simplifies the home-buying process and ensures a smooth and reliable experience."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All property listings are verified for ownership and authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing details with no hidden costs."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Greenfield Colony and nearby areas."
+      },
+      {
+        "title": "Multiple Housing Options",
+        "description": "Affordable houses available in different plot sizes."
+      },
+      {
+        "title": "Customer-Centric Platform",
+        "description": "Designed to solve real buyer concerns."
+      },
+      {
+        "title": "Quick Property Search",
+        "description": "Easy access to relevant and verified listings."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Complete assistance from search to possession."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Deal Acres is a preferred platform for affordable housing."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Greenfield Colony",
+    "description": "Detailed answers to help buyers make confident and informed property decisions.",
+    "faqs": [
+      {
+        "question": "Is Greenfield Colony Faridabad a good place to buy a house?",
+        "answer": "Yes, Greenfield Colony is a well-developed and peaceful residential area with good connectivity and essential amenities nearby."
+      },
+      {
+        "question": "What plot sizes are available in Greenfield Colony?",
+        "answer": "Affordable houses in Greenfield Colony are available from 4 Marla to 14 Marla plot sizes."
+      },
+      {
+        "question": "Are schools and hospitals nearby?",
+        "answer": "Yes, reputed schools, hospitals, and clinics are easily accessible from Greenfield Colony."
+      },
+      {
+        "question": "Is Greenfield Colony suitable for long-term living?",
+        "answer": "With stable infrastructure and consistent residential demand, Greenfield Colony is suitable for long-term living."
+      },
+      {
+        "question": "How is connectivity from Greenfield Colony?",
+        "answer": "The area is well-connected via Surajkund Road, Badarpur Border, and Mathura Road."
+      },
+      {
+        "question": "Are these houses suitable for first-time buyers?",
+        "answer": "Yes, affordable pricing and practical layouts make these houses ideal for first-time buyers."
+      },
+      {
+        "question": "Can houses be customized after purchase?",
+        "answer": "Many houses allow customization as per local building norms."
+      },
+      {
+        "question": "Is Greenfield Colony family-friendly?",
+        "answer": "Yes, it is a family-oriented locality with parks, schools, and markets nearby."
+      },
+      {
+        "question": "What affects house prices in Greenfield Colony?",
+        "answer": "Plot size, construction quality, exact location, and nearby amenities affect property prices."
+      },
+      {
+        "question": "How does Deal Acres assist homebuyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, and complete end-to-end buying support."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance to Buy Affordable Houses in Greenfield Colony Faridabad",
+    "description": [
+      "Buying an affordable house in Greenfield Colony Faridabad is a significant decision that requires accurate information and expert guidance. Professional support helps you avoid confusion and choose the right property confidently.",
+      "Share your details to connect with experienced property advisors who will guide you through every stage of your home-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

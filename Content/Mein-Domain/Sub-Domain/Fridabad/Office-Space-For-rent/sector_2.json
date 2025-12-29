@@ -1,0 +1,216 @@
+{
+  "domain": "Office space for rent.com",
+  "hero": {
+    "title": "Well Connected and Affordable Office Space for Rent in Sector 2",
+    "description": [
+      "Sector 2 Faridabad is a well-established locality that offers practical and affordable options for businesses searching for office space for rent in Sector 2 Faridabad. The area enjoys smooth connectivity to Mathura Road, NH-19, and nearby commercial sectors, making daily commuting convenient for employees and visitors. With surrounding residential neighborhoods and essential facilities, Sector 2 provides a balanced work environment.",
+      "Office spaces in Sector 2 are suitable for startups, consultants, service providers, and small to mid-sized enterprises looking for cost-effective office locations. The sector offers steady infrastructure, accessible markets, and a peaceful commercial setting. Renting an office in Sector 2 allows businesses to operate from a stable location with reasonable rentals and long-term usability."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces in Sector 2",
+        "path": "/"
+      },
+      {
+        "label": "Get Office Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Office Space Size Options Available for Rent in Sector 2",
+    "description": [
+      "Choosing the right office size plays a key role in daily efficiency and future growth. Office space for rent in Sector 2 Faridabad is available in multiple plot size options, helping businesses select workspaces that align with team size and operational needs.",
+      "From compact offices to larger professional setups, Sector 2 offers flexibility and affordability for businesses at different stages."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space for Rent in Sector 2 Faridabad",
+        "description": "4 Marla office spaces are suitable for freelancers, startups, and small firms. A 4 Marla office space for rent in Sector 2 Faridabad offers affordability and basic infrastructure."
+      },
+      {
+        "title": "6 Marla Office Space for Rent in Sector 2 Faridabad",
+        "description": "6 Marla office units provide better layout planning with room for workstations and small meeting areas. A 6 Marla office space for rent in Sector 2 Faridabad supports growing teams."
+      },
+      {
+        "title": "8 Marla Office Space for Rent in Sector 2 Faridabad",
+        "description": "8 Marla office spaces allow flexible layouts and smoother workflow management. An 8 Marla office space for rent in Sector 2 Faridabad suits service-based businesses."
+      },
+      {
+        "title": "10 Marla Office Space for Rent in Sector 2 Faridabad",
+        "description": "10 Marla office spaces offer professional setups with reception areas and meeting rooms. A 10 Marla office space for rent in Sector 2 Faridabad enhances brand presence."
+      },
+      {
+        "title": "12 Marla Office Space for Rent in Sector 2 Faridabad",
+        "description": "12 Marla office spaces are ideal for mid-sized enterprises seeking organized and spacious offices. A 12 Marla office space for rent in Sector 2 Faridabad supports long-term operations."
+      },
+      {
+        "title": "14 Marla Office Space for Rent in Sector 2 Faridabad",
+        "description": "14 Marla office spaces are premium options suitable for large teams and established companies. A 14 Marla office space for rent in Sector 2 Faridabad offers scalability."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Office Space for Rent in Nearby Business Locations",
+    "description": [
+      "While looking for office space for rent in Sector 2 Faridabad, businesses often explore nearby sectors to compare rental values, accessibility, and office infrastructure. This approach helps in selecting the most suitable location.",
+      "Sector 2 is surrounded by several established commercial and residential areas, offering multiple office location choices."
+    ],
+    "locations": [
+      {
+        "title": "Office Space for Rent in Sector 2 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 3 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 7 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 9 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Commercial Property for Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop for Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Corporate Office for Rent",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "IT Office Space for Rent",
+        "path": "/",
+        "icon": "Cpu"
+      },
+      {
+        "title": "Coworking Space for Rent",
+        "path": "/",
+        "icon": "Users"
+      },
+      {
+        "title": "Business Center for Rent",
+        "path": "/",
+        "icon": "Handshake"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Businesses Prefer Deal Acres for Office Rentals",
+    "description": [
+      "Finding a reliable office space for rent in Sector 2 Faridabad requires accurate listings and transparent information. Deal Acres ensures verified properties that help businesses avoid unnecessary risks.",
+      "With strong local market knowledge and a user-focused platform, Deal Acres simplifies the office rental journey and builds long-term trust."
+    ],
+    "points": [
+      {
+        "title": "Verified Office Listings",
+        "description": "Each property is checked for authenticity."
+      },
+      {
+        "title": "Transparent Rental Details",
+        "description": "Clear information with no hidden costs."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Deep understanding of Faridabad areas."
+      },
+      {
+        "title": "Easy Property Comparison",
+        "description": "Compare office options effortlessly."
+      },
+      {
+        "title": "Business-Focused Platform",
+        "description": "Designed around real business needs."
+      },
+      {
+        "title": "Time-Saving Search",
+        "description": "Quick access to relevant office spaces."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Assistance from inquiry to agreement."
+      },
+      {
+        "title": "Trusted by Businesses",
+        "description": "Preferred by startups and enterprises."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Office Space in Sector 2",
+    "description": "Answers to common questions to help you rent office space confidently.",
+    "faqs": [
+      {
+        "question": "Is Sector 2 Faridabad suitable for office use?",
+        "answer": "Yes, Sector 2 is a well-established area with good connectivity and affordable rental options."
+      },
+      {
+        "question": "What office sizes are available in Sector 2?",
+        "answer": "Office spaces from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Sector 2 good for startups?",
+        "answer": "Yes, affordable rents and flexible office sizes make it suitable for startups."
+      },
+      {
+        "question": "Are parking facilities available?",
+        "answer": "Most office properties offer basic parking facilities."
+      },
+      {
+        "question": "Can office interiors be customized?",
+        "answer": "In many cases, landlords allow interior customization."
+      },
+      {
+        "question": "Is public transport accessible?",
+        "answer": "Yes, buses and autos are easily available in this area."
+      },
+      {
+        "question": "How does Deal Acres verify listings?",
+        "answer": "All listings are reviewed before being published."
+      },
+      {
+        "question": "Is Sector 2 suitable for long-term offices?",
+        "answer": "Yes, it offers stability and consistent infrastructure."
+      },
+      {
+        "question": "What affects office rent in Sector 2?",
+        "answer": "Office size, location, amenities, and building condition."
+      },
+      {
+        "question": "How can I get help renting an office?",
+        "answer": "You can submit your details through the contact form for expert assistance."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help to Rent Office Space in Sector 2 Faridabad",
+    "description": [
+      "Choosing the right office space for rent in Sector 2 Faridabad is an important business decision. Expert guidance helps you evaluate options and finalize the best workspace.",
+      "Share your details to connect with experienced commercial property professionals who will assist you throughout the office rental process."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

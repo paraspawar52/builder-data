@@ -1,0 +1,174 @@
+{
+  "domain": "Affordable house.com",
+
+  "hero": {
+    "title": "Affordable and Modern Houses for Sale in Sector 76 Faridabad",
+    "description": [
+      "Sector 76 Faridabad is one of the fast-growing residential sectors in Greater Faridabad, attracting buyers who are searching for an affordable house in Sector 76 Faridabad. The sector is strategically located near major roads and enjoys smooth connectivity to NH-19 and the Faridabad–Noida–Ghaziabad Expressway. This ensures easy access to Delhi, Noida, and key commercial hubs of Faridabad, making daily travel convenient for working professionals and families.",
+      "Affordable houses in Sector 76 Faridabad are ideal for homebuyers who want a balance between price, comfort, and future growth. The locality offers access to schools, hospitals, shopping complexes, parks, and public transport facilities. With ongoing infrastructure development and increasing residential demand, Sector 76 provides a peaceful living environment along with strong long-term appreciation potential for both end-users and investors."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses in Sector 76",
+        "path": "/"
+      },
+      {
+        "label": "Get Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Plot Size Options Available in Sector 76 Faridabad",
+    "description": [
+      "Choosing the right plot size is an important decision when planning an independent home. Affordable house options in Sector 76 Faridabad are available in multiple plot sizes, allowing buyers to select homes that suit their family size, lifestyle preferences, and budget.",
+      "From compact homes for small families to spacious residences for long-term living, Sector 76 offers thoughtfully planned plot options with good ventilation, modern layouts, and everyday comfort."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House in Sector 76 Faridabad",
+        "description": "4 Marla houses are suitable for small families and first-time buyers looking for budget-friendly independent living. These homes provide efficient layouts, essential living spaces, and low maintenance costs. A 4 Marla affordable house in Sector 76 Faridabad offers a practical entry into a well-planned residential locality."
+      },
+      {
+        "title": "6 Marla Affordable House in Sector 76 Faridabad",
+        "description": "6 Marla houses offer a balanced combination of affordability and comfort. These homes usually include extra rooms, better airflow, and parking convenience. Choosing a 6 Marla affordable house in Sector 76 Faridabad is ideal for growing families seeking value-driven housing options."
+      },
+      {
+        "title": "8 Marla Affordable House in Sector 76 Faridabad",
+        "description": "8 Marla houses provide more flexibility in design and layout. These homes support larger living areas, improved privacy, and better natural lighting. An 8 Marla affordable house in Sector 76 Faridabad suits families looking for enhanced comfort and modern living."
+      },
+      {
+        "title": "10 Marla Affordable House in Sector 76 Faridabad",
+        "description": "10 Marla houses are designed for buyers who prefer spacious interiors and premium planning. These homes allow elegant architecture, open spaces, and parking facilities. A 10 Marla affordable house in Sector 76 Faridabad enhances lifestyle quality and long-term value."
+      },
+      {
+        "title": "12 Marla Affordable House in Sector 76 Faridabad",
+        "description": "12 Marla houses are ideal for larger families requiring multiple living areas and better privacy. These homes offer excellent ventilation, comfort, and customization options. Investing in a 12 Marla affordable house in Sector 76 Faridabad ensures long-term residential satisfaction."
+      },
+      {
+        "title": "14 Marla Affordable House in Sector 76 Faridabad",
+        "description": "14 Marla houses provide premium residential space for families planning permanent independent living. These homes support expansive layouts, green areas, and future expansion. A 14 Marla affordable house in Sector 76 Faridabad delivers space, stability, and appreciation potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses in Sector 76 and Nearby Locations",
+    "description": [
+      "Homebuyers searching for an affordable house in Sector 76 Faridabad often explore nearby sectors to compare pricing, amenities, and connectivity.",
+      "Reviewing surrounding localities helps buyers make informed decisions and select the most suitable affordable housing option."
+    ],
+    "locations": [
+      { "title": "Affordable House in Sector 76 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 75 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 77 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 78 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Independent House for Sale", "path": "/", "icon": "Building" },
+      { "title": "Builder Floor for Sale", "path": "/", "icon": "Layers" },
+      { "title": "Residential Property for Sale", "path": "/", "icon": "MapPin" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Trusted Choice for Affordable Houses",
+    "description": [
+      "Finding a genuine affordable house in Sector 76 Faridabad requires verified listings and transparent information. Deal Acres ensures buyers receive accurate property details and reliable guidance.",
+      "With a customer-first approach and strong local market knowledge, Deal Acres simplifies the home-buying process and builds lasting trust among buyers."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "Each listing is thoroughly verified to ensure authenticity and legal clarity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear and honest pricing helps buyers plan their budget confidently."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Deep understanding of Sector 76 and Greater Faridabad real estate trends."
+      },
+      {
+        "title": "Wide Housing Options",
+        "description": "Multiple affordable house choices across various plot sizes."
+      },
+      {
+        "title": "Customer-Focused Platform",
+        "description": "Designed to solve real buyer concerns and simplify decisions."
+      },
+      {
+        "title": "Time-Saving Search Experience",
+        "description": "Quick access to relevant, location-specific property listings."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from property selection to final possession."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Deal Acres is preferred for reliable and affordable housing solutions."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Sector 76",
+    "description": "Helpful and detailed answers to common questions asked by homebuyers.",
+    "faqs": [
+      {
+        "question": "Is Sector 76 Faridabad a good location for buying an affordable house?",
+        "answer": "Yes, Sector 76 is a developing residential area with good connectivity, planned infrastructure, and growing amenities, making it suitable for affordable housing."
+      },
+      {
+        "question": "What plot sizes are available in Sector 76?",
+        "answer": "Affordable houses in Sector 76 are available in plot sizes ranging from 4 Marla to 14 Marla."
+      },
+      {
+        "question": "Are schools and hospitals nearby?",
+        "answer": "Yes, reputed schools, hospitals, and healthcare facilities are easily accessible from Sector 76."
+      },
+      {
+        "question": "Is Sector 76 suitable for long-term living?",
+        "answer": "With ongoing development and increasing residential demand, Sector 76 is suitable for long-term residence."
+      },
+      {
+        "question": "How is connectivity from Sector 76?",
+        "answer": "Sector 76 offers smooth connectivity via major roads and expressways to Delhi, Noida, and Faridabad."
+      },
+      {
+        "question": "Are these houses good for first-time buyers?",
+        "answer": "Yes, affordable pricing and practical layouts make them ideal for first-time homebuyers."
+      },
+      {
+        "question": "Can houses be customized after purchase?",
+        "answer": "Many properties allow customization subject to local regulations and approvals."
+      },
+      {
+        "question": "Is Sector 76 family-friendly?",
+        "answer": "Yes, the sector offers a peaceful environment and is suitable for families."
+      },
+      {
+        "question": "What factors influence house prices in Sector 76?",
+        "answer": "Plot size, construction quality, location within the sector, and amenities affect pricing."
+      },
+      {
+        "question": "How does Deal Acres help buyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, and complete support throughout the buying process."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Support to Buy Affordable Houses in Sector 76",
+    "description": [
+      "Buying an affordable house in Sector 76 Faridabad is an important life decision that requires accurate information and trusted guidance. Expert assistance helps you avoid confusion and choose the right property.",
+      "Share your details to connect with experienced property advisors who will support you at every stage of your home-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

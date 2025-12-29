@@ -1,0 +1,174 @@
+{
+  "domain": "Affordable house.com",
+
+  "hero": {
+    "title": "Affordable and Well-Located Independent Houses for Sale in Sector 8 Faridabad",
+    "description": [
+      "Sector 8 Faridabad is a centrally located and well-established residential area known for its organized layout and smooth connectivity. Buyers searching for an affordable house in Sector 8 Faridabad prefer this locality due to its close proximity to Old Faridabad, Mathura Road, and major commercial areas. The sector offers reliable road networks, easy access to public transport, and a peaceful residential atmosphere suitable for families.",
+      "Affordable houses in Sector 8 Faridabad are ideal for families, working professionals, and first-time homebuyers looking for independent living within city limits. The area is surrounded by schools, hospitals, local markets, parks, and daily-need facilities, ensuring a convenient lifestyle. With steady residential demand and strong infrastructure, Sector 8 remains a practical and value-driven housing choice in Faridabad."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses in Sector 8",
+        "path": "/"
+      },
+      {
+        "label": "Get Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Plot Size Options Available in Sector 8 Faridabad",
+    "description": [
+      "Selecting the right plot size is an important step when purchasing an independent house. Affordable house options in Sector 8 Faridabad are available in multiple plot sizes, allowing buyers to choose according to their budget, family size, and future needs.",
+      "From compact homes to spacious independent houses, Sector 8 offers practical plot size options with efficient layouts, good ventilation, and long-term living comfort."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House in Sector 8 Faridabad",
+        "description": "4 Marla houses are suitable for small families and first-time buyers seeking budget-friendly independent living. These homes offer compact layouts and low maintenance. A 4 Marla affordable house in Sector 8 Faridabad is a smart entry-level option."
+      },
+      {
+        "title": "6 Marla Affordable House in Sector 8 Faridabad",
+        "description": "6 Marla houses provide a balanced mix of affordability and usable space. These homes usually include extra rooms, better ventilation, and parking convenience. A 6 Marla affordable house in Sector 8 Faridabad suits growing families."
+      },
+      {
+        "title": "8 Marla Affordable House in Sector 8 Faridabad",
+        "description": "8 Marla houses allow better interior planning and comfortable living areas. These homes offer improved privacy and flexibility. An 8 Marla affordable house in Sector 8 Faridabad supports modern family living."
+      },
+      {
+        "title": "10 Marla Affordable House in Sector 8 Faridabad",
+        "description": "10 Marla houses are preferred by buyers looking for spacious interiors and organized layouts. These homes provide ample living space and parking facilities. A 10 Marla affordable house in Sector 8 Faridabad enhances lifestyle comfort."
+      },
+      {
+        "title": "12 Marla Affordable House in Sector 8 Faridabad",
+        "description": "12 Marla houses are ideal for larger families needing multiple rooms and better privacy. These homes offer good airflow and customization options. A 12 Marla affordable house in Sector 8 Faridabad ensures long-term comfort."
+      },
+      {
+        "title": "14 Marla Affordable House in Sector 8 Faridabad",
+        "description": "14 Marla houses provide premium independent living space within a prime locality. These homes support spacious layouts and future expansion. A 14 Marla affordable house in Sector 8 Faridabad offers strong long-term value."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses in Sector 8 and Nearby Localities",
+    "description": [
+      "Homebuyers searching for an affordable house in Sector 8 Faridabad often explore nearby areas to compare pricing, connectivity, and amenities.",
+      "Looking at surrounding localities helps buyers select the most suitable affordable housing option based on lifestyle needs and budget."
+    ],
+    "locations": [
+      { "title": "Affordable House in Sector 8 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 7 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 9 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 10 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Independent House for Sale", "path": "/", "icon": "Building" },
+      { "title": "Builder Floor for Sale", "path": "/", "icon": "Layers" },
+      { "title": "Residential Property for Sale", "path": "/", "icon": "MapPin" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Affordable Houses",
+    "description": [
+      "Finding a genuine affordable house in Sector 8 Faridabad requires verified listings and transparent information. Deal Acres ensures buyers receive accurate and trustworthy property details.",
+      "With strong local market expertise and a customer-first approach, Deal Acres simplifies the home-buying journey and builds buyer confidence."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All properties are verified for ownership and authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden costs."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Deep understanding of Sector 8 and surrounding areas."
+      },
+      {
+        "title": "Multiple Plot Size Options",
+        "description": "Affordable houses available across various plot sizes."
+      },
+      {
+        "title": "Customer-Centric Platform",
+        "description": "Designed to address real buyer needs."
+      },
+      {
+        "title": "Quick Property Discovery",
+        "description": "Easy access to relevant and verified listings."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Assistance from property shortlisting to possession."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Deal Acres is a preferred choice for affordable housing."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Sector 8",
+    "description": "Answers to common questions to help buyers make informed decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 8 Faridabad a good area to buy a house?",
+        "answer": "Yes, Sector 8 is a well-established residential area with good connectivity and essential amenities."
+      },
+      {
+        "question": "What plot sizes are available in Sector 8?",
+        "answer": "Affordable houses in Sector 8 are available from 4 Marla to 14 Marla plot sizes."
+      },
+      {
+        "question": "Is Sector 8 suitable for families?",
+        "answer": "Yes, the area offers a safe, peaceful, and family-friendly environment."
+      },
+      {
+        "question": "How is connectivity from Sector 8?",
+        "answer": "Sector 8 has good road connectivity to major city routes and nearby sectors."
+      },
+      {
+        "question": "Are schools and hospitals nearby?",
+        "answer": "Yes, schools, hospitals, clinics, and medical facilities are easily accessible."
+      },
+      {
+        "question": "Are these houses suitable for first-time buyers?",
+        "answer": "Yes, affordable pricing makes them suitable for first-time homebuyers."
+      },
+      {
+        "question": "Can houses be customized after purchase?",
+        "answer": "Many properties allow customization as per local building regulations."
+      },
+      {
+        "question": "Is Sector 8 good for long-term investment?",
+        "answer": "Stable demand and central location support long-term property value."
+      },
+      {
+        "question": "What factors affect property prices in Sector 8?",
+        "answer": "Plot size, construction quality, location, and nearby amenities affect pricing."
+      },
+      {
+        "question": "How does Deal Acres help buyers?",
+        "answer": "Deal Acres offers verified listings, expert guidance, and complete buying support."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance to Buy Affordable Houses in Sector 8 Faridabad",
+    "description": [
+      "Buying an affordable house in Sector 8 Faridabad becomes easier with expert guidance and verified property information. Professional support helps buyers avoid confusion and make confident decisions.",
+      "Share your details to connect with experienced property advisors who will guide you through every step of your home-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

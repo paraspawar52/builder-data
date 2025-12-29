@@ -1,0 +1,174 @@
+{
+  "domain": "Affordable house.com",
+
+  "hero": {
+    "title": "Affordable and Convenient Houses for Sale in Mujesar Faridabad",
+    "description": [
+      "Mujesar Faridabad is a well-known and established residential locality that attracts buyers searching for an affordable house in Mujesar Faridabad. The area enjoys strong connectivity to Mathura Road, NH-19, and major industrial and commercial zones of Faridabad, making it a preferred choice for working professionals and business owners. Its central location ensures easy access to public transport, railway stations, and key city routes, simplifying daily travel.",
+      "Affordable houses in Mujesar Faridabad offer a practical living solution for families looking for budget-friendly independent homes in a well-connected area. The locality is surrounded by schools, hospitals, local markets, shopping areas, and essential services. With a stable residential environment, strong rental demand, and consistent development, Mujesar provides comfortable living along with long-term value for both end-users and investors."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses in Mujesar",
+        "path": "/"
+      },
+      {
+        "label": "Get Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Plot Size Options Available in Mujesar Faridabad",
+    "description": [
+      "Choosing the right plot size is an important step when planning an independent home that fits your lifestyle and budget. Affordable house options in Mujesar Faridabad are available in multiple plot sizes, giving buyers flexibility based on family size and future requirements.",
+      "From compact homes for small families to spacious houses for long-term living, Mujesar offers practical plot options with functional layouts, proper ventilation, and everyday comfort."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House in Mujesar Faridabad",
+        "description": "4 Marla houses are suitable for small families and first-time buyers looking for budget-friendly independent living. These homes offer efficient layouts, essential rooms, and easy maintenance. A 4 Marla affordable house in Mujesar Faridabad is a smart choice in a well-connected locality."
+      },
+      {
+        "title": "6 Marla Affordable House in Mujesar Faridabad",
+        "description": "6 Marla houses provide a good balance between affordability and space. These homes generally include extra bedrooms, better ventilation, and parking convenience. Choosing a 6 Marla affordable house in Mujesar Faridabad suits families planning stable long-term living."
+      },
+      {
+        "title": "8 Marla Affordable House in Mujesar Faridabad",
+        "description": "8 Marla houses offer more flexibility in design and spacious interiors. These homes support open layouts, improved privacy, and better natural light. An 8 Marla affordable house in Mujesar Faridabad is ideal for families seeking enhanced comfort."
+      },
+      {
+        "title": "10 Marla Affordable House in Mujesar Faridabad",
+        "description": "10 Marla houses are designed for buyers who prefer spacious interiors with practical planning. These homes allow open areas, parking facilities, and comfortable living spaces. A 10 Marla affordable house in Mujesar Faridabad enhances lifestyle quality and usability."
+      },
+      {
+        "title": "12 Marla Affordable House in Mujesar Faridabad",
+        "description": "12 Marla houses are suitable for larger families needing multiple living areas and better privacy. These homes offer good ventilation and customization possibilities. Investing in a 12 Marla affordable house in Mujesar Faridabad ensures long-term residential satisfaction."
+      },
+      {
+        "title": "14 Marla Affordable House in Mujesar Faridabad",
+        "description": "14 Marla houses provide premium residential space for families planning permanent independent living. These homes support expansive layouts and future expansion. A 14 Marla affordable house in Mujesar Faridabad offers space, stability, and strong value retention."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses in Mujesar and Nearby Locations",
+    "description": [
+      "Homebuyers searching for an affordable house in Mujesar Faridabad often explore nearby residential localities to compare pricing, amenities, and connectivity.",
+      "Exploring surrounding areas helps buyers make informed decisions and select the most suitable affordable housing option."
+    ],
+    "locations": [
+      { "title": "Affordable House in Mujesar Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Ballabhgarh Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 24 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 25 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Independent House for Sale", "path": "/", "icon": "Building" },
+      { "title": "Builder Floor for Sale", "path": "/", "icon": "Layers" },
+      { "title": "Residential Property for Sale", "path": "/", "icon": "MapPin" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Trusted Choice for Affordable Houses",
+    "description": [
+      "Finding a genuine affordable house in Mujesar Faridabad requires verified listings and transparent property information. Deal Acres focuses on accuracy, trust, and buyer satisfaction.",
+      "With strong local market knowledge and a customer-first approach, Deal Acres simplifies the home-buying process and helps buyers make confident decisions."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All listings are carefully verified to ensure authenticity and legal clarity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing details with no hidden charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Deep understanding of Mujesar and nearby residential areas."
+      },
+      {
+        "title": "Wide Housing Options",
+        "description": "Multiple affordable house choices across different plot sizes."
+      },
+      {
+        "title": "Customer-Centric Platform",
+        "description": "Designed to solve real buyer concerns effectively."
+      },
+      {
+        "title": "Time-Saving Property Search",
+        "description": "Quick access to relevant and location-specific listings."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Complete support from property search to possession."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Deal Acres is a preferred platform for affordable housing solutions."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Mujesar",
+    "description": "Detailed and user-friendly answers to help buyers make informed decisions.",
+    "faqs": [
+      {
+        "question": "Is Mujesar Faridabad a good location to buy an affordable house?",
+        "answer": "Yes, Mujesar is a well-established locality with strong connectivity, essential amenities, and steady residential demand, making it suitable for affordable housing."
+      },
+      {
+        "question": "What plot sizes are available in Mujesar?",
+        "answer": "Affordable houses in Mujesar are available in plot sizes ranging from 4 Marla to 14 Marla."
+      },
+      {
+        "question": "Are schools and hospitals nearby?",
+        "answer": "Yes, schools, hospitals, clinics, and healthcare facilities are easily accessible from Mujesar."
+      },
+      {
+        "question": "Is Mujesar suitable for long-term living?",
+        "answer": "With stable infrastructure and a strong residential community, Mujesar is suitable for long-term residence."
+      },
+      {
+        "question": "How is connectivity from Mujesar?",
+        "answer": "Mujesar offers excellent connectivity to Mathura Road, NH-19, and major parts of Faridabad."
+      },
+      {
+        "question": "Are these houses suitable for first-time buyers?",
+        "answer": "Yes, affordable pricing and practical layouts make these houses ideal for first-time homebuyers."
+      },
+      {
+        "question": "Can houses be customized after purchase?",
+        "answer": "Many properties allow customization subject to local approvals and building norms."
+      },
+      {
+        "question": "Is Mujesar a family-friendly area?",
+        "answer": "Yes, the locality is peaceful, well-connected, and preferred by families."
+      },
+      {
+        "question": "What factors affect house prices in Mujesar?",
+        "answer": "Plot size, construction quality, exact location, and nearby amenities influence pricing."
+      },
+      {
+        "question": "How does Deal Acres help buyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, and complete support throughout the buying journey."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance to Buy Affordable Houses in Mujesar",
+    "description": [
+      "Buying an affordable house in Mujesar Faridabad is an important life decision that requires accurate information and trusted guidance. Professional assistance helps you avoid confusion and choose the right property confidently.",
+      "Share your details to connect with experienced property advisors who will support you at every step of your home-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

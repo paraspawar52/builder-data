@@ -1,0 +1,216 @@
+{
+  "domain": "Office space for rent.com",
+  "hero": {
+    "title": "Well Connected and Affordable Office Space for Rent in Sector 22",
+    "description": [
+      "Sector 22 Faridabad is a well-planned and centrally located area that offers practical options for businesses looking for office space for rent in Sector 22 Faridabad. The sector enjoys smooth connectivity to Mathura Road, NH-19, and nearby commercial zones, making daily commuting convenient for employees and clients. Its proximity to residential neighborhoods ensures steady footfall and easy access to essential services.",
+      "Office spaces in Sector 22 are ideal for startups, small to mid-sized companies, consultants, and service-based businesses seeking a balanced work environment. The locality is surrounded by markets, banks, hospitals, schools, and eateries, which supports smooth business operations. Renting an office in Sector 22 Faridabad allows businesses to operate from a stable location with reliable infrastructure and long-term commercial potential."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces in Sector 22",
+        "path": "/"
+      },
+      {
+        "label": "Get Office Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Office Space Size Options Available in Sector 22 Faridabad",
+    "description": [
+      "Choosing the right office size plays a key role in business efficiency, cost control, and team comfort. Office space for rent in Sector 22 Faridabad is available in multiple plot size options, allowing businesses to select spaces that match their operational needs.",
+      "From compact offices for small teams to larger setups for expanding organizations, Sector 22 offers flexible office configurations for different business stages."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space for Rent in Sector 22",
+        "description": "4 Marla office spaces are suitable for startups, freelancers, and small professional firms. These offices offer affordability and easy maintenance. A 4 Marla office space for rent in Sector 22 Faridabad helps businesses operate efficiently with lower rental costs."
+      },
+      {
+        "title": "6 Marla Office Space for Rent in Sector 22",
+        "description": "6 Marla office spaces provide better planning flexibility with room for workstations and small meeting areas. A 6 Marla office space for rent in Sector 22 Faridabad is ideal for growing teams."
+      },
+      {
+        "title": "8 Marla Office Space for Rent in Sector 22",
+        "description": "8 Marla office spaces support structured layouts with separate cabins and work areas. An 8 Marla office space for rent in Sector 22 Faridabad suits service-based and consulting businesses."
+      },
+      {
+        "title": "10 Marla Office Space for Rent in Sector 22",
+        "description": "10 Marla office spaces offer professional setups with reception areas and meeting rooms. A 10 Marla office space for rent in Sector 22 Faridabad enhances business credibility."
+      },
+      {
+        "title": "12 Marla Office Space for Rent in Sector 22",
+        "description": "12 Marla office spaces are suitable for mid-sized companies requiring spacious and organized work environments. A 12 Marla office space for rent in Sector 22 Faridabad supports long-term operations."
+      },
+      {
+        "title": "14 Marla Office Space for Rent in Sector 22",
+        "description": "14 Marla office spaces are premium options for established businesses with larger teams. A 14 Marla office space for rent in Sector 22 Faridabad offers flexibility and future expansion scope."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Office Space for Rent in Nearby Commercial Areas",
+    "description": [
+      "While searching for office space for rent in Sector 22 Faridabad, businesses often compare nearby locations to evaluate rental values, connectivity, and infrastructure.",
+      "Sector 22 is surrounded by several well-known residential and commercial localities, offering multiple office rental choices."
+    ],
+    "locations": [
+      {
+        "title": "Office Space for Rent in Sector 22 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 21 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 23 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 28 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Commercial Property for Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop for Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Corporate Office Space",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "IT Office Space",
+        "path": "/",
+        "icon": "Cpu"
+      },
+      {
+        "title": "Business Center for Rent",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Coworking Space",
+        "path": "/",
+        "icon": "Users"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Businesses Choose Deal Acres for Office Rentals",
+    "description": [
+      "Finding trustworthy office space for rent in Sector 22 Faridabad requires verified listings and accurate information. Deal Acres focuses on transparency and reliability to simplify the rental process.",
+      "With strong local market expertise and a customer-focused approach, Deal Acres helps businesses make confident rental decisions."
+    ],
+    "points": [
+      {
+        "title": "Verified Office Listings",
+        "description": "All office properties are thoroughly verified."
+      },
+      {
+        "title": "Transparent Rental Information",
+        "description": "Clear details with no hidden charges."
+      },
+      {
+        "title": "Local Market Knowledge",
+        "description": "Deep understanding of Sector 22 commercial trends."
+      },
+      {
+        "title": "Easy-to-Use Platform",
+        "description": "Simple navigation and quick access to listings."
+      },
+      {
+        "title": "Business-Oriented Search",
+        "description": "Listings curated for real business requirements."
+      },
+      {
+        "title": "Time-Saving Experience",
+        "description": "Quick comparison and faster decision-making."
+      },
+      {
+        "title": "Complete Assistance",
+        "description": "Support from search to final agreement."
+      },
+      {
+        "title": "Trusted by Businesses",
+        "description": "Preferred by startups and established companies."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Office Space in Sector 22",
+    "description": "Helpful answers to guide you in selecting the right office space.",
+    "faqs": [
+      {
+        "question": "Is Sector 22 Faridabad suitable for office spaces?",
+        "answer": "Yes, Sector 22 offers good connectivity, affordable rentals, and access to essential facilities, making it suitable for offices."
+      },
+      {
+        "question": "What office sizes are available in Sector 22?",
+        "answer": "Office spaces ranging from 4 Marla to 14 Marla are commonly available in Sector 22 Faridabad."
+      },
+      {
+        "question": "Is Sector 22 good for startups?",
+        "answer": "Yes, flexible office sizes and reasonable rental values make Sector 22 ideal for startups."
+      },
+      {
+        "question": "Are parking facilities available?",
+        "answer": "Most office properties in Sector 22 provide basic parking facilities."
+      },
+      {
+        "question": "Can office interiors be customized?",
+        "answer": "In many cases, interior modifications are allowed as per the rental agreement."
+      },
+      {
+        "question": "Is public transport easily accessible?",
+        "answer": "Yes, buses, autos, and other public transport options are easily available."
+      },
+      {
+        "question": "How does Deal Acres verify office listings?",
+        "answer": "Each listing is reviewed and verified before being published."
+      },
+      {
+        "question": "Are banks and markets nearby?",
+        "answer": "Yes, Sector 22 has easy access to banks, markets, and daily-use services."
+      },
+      {
+        "question": "What factors affect office rent in Sector 22?",
+        "answer": "Office size, building condition, location, and amenities influence rental prices."
+      },
+      {
+        "question": "How can I get help renting an office?",
+        "answer": "You can fill out the contact form to receive assistance from property experts."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help to Rent Office Space in Sector 22 Faridabad",
+    "description": [
+      "Choosing the right office space for rent in Sector 22 Faridabad is an important step for business growth. Expert guidance helps you compare options and finalize the best workspace.",
+      "Share your details to connect with experienced commercial property professionals who will assist you throughout the office rental process."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

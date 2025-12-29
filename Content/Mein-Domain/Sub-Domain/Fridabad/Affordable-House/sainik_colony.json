@@ -1,0 +1,174 @@
+{
+  "domain": "Affordable house.com",
+
+  "hero": {
+    "title": "Affordable and Peaceful Houses for Sale in Sainik Colony Faridabad",
+    "description": [
+      "Sainik Colony Faridabad is a well-established residential locality known for its peaceful environment, organized streets, and excellent connectivity. Buyers searching for an affordable house in Sainik Colony Faridabad prefer this area due to its proximity to Mathura Road, Delhi border, and major parts of Faridabad. The locality offers a calm living atmosphere while still being close to commercial areas, making it suitable for families, professionals, and retirees.",
+      "Affordable houses in Sainik Colony Faridabad provide a balanced lifestyle with access to schools, hospitals, markets, parks, and public transport. The area has a strong residential character, stable infrastructure, and limited congestion compared to newer sectors. With consistent demand and good livability, Sainik Colony remains a trusted choice for buyers seeking affordability, comfort, and long-term residential value."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses in Sainik Colony",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Plot Size Options Available in Sainik Colony Faridabad",
+    "description": [
+      "Choosing the right plot size is important when planning an independent home that suits your lifestyle and family needs. Affordable house options in Sainik Colony Faridabad are available in multiple plot sizes, offering flexibility to buyers with different budgets and space requirements.",
+      "From compact homes to spacious family residences, Sainik Colony provides well-planned plot options with proper ventilation, practical layouts, and comfortable living spaces."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House in Sainik Colony Faridabad",
+        "description": "4 Marla houses are ideal for small families and first-time homebuyers looking for budget-friendly independent living. These homes offer efficient layouts, essential rooms, and low maintenance. A 4 Marla affordable house in Sainik Colony Faridabad is a practical choice in a settled residential area."
+      },
+      {
+        "title": "6 Marla Affordable House in Sainik Colony Faridabad",
+        "description": "6 Marla houses offer a good balance between affordability and space. These homes usually include extra rooms, better ventilation, and parking convenience. Choosing a 6 Marla affordable house in Sainik Colony Faridabad suits families planning comfortable long-term living."
+      },
+      {
+        "title": "8 Marla Affordable House in Sainik Colony Faridabad",
+        "description": "8 Marla houses provide more design flexibility and spacious interiors. These homes support open layouts, improved privacy, and natural light. An 8 Marla affordable house in Sainik Colony Faridabad is suitable for families seeking enhanced comfort."
+      },
+      {
+        "title": "10 Marla Affordable House in Sainik Colony Faridabad",
+        "description": "10 Marla houses are designed for buyers who prefer spacious living with modern planning. These homes allow elegant architecture, open spaces, and parking facilities. A 10 Marla affordable house in Sainik Colony Faridabad enhances lifestyle quality and property value."
+      },
+      {
+        "title": "12 Marla Affordable House in Sainik Colony Faridabad",
+        "description": "12 Marla houses are ideal for larger families needing multiple living areas and better privacy. These homes offer excellent ventilation and customization options. Investing in a 12 Marla affordable house in Sainik Colony Faridabad ensures long-term satisfaction."
+      },
+      {
+        "title": "14 Marla Affordable House in Sainik Colony Faridabad",
+        "description": "14 Marla houses provide premium residential space for families planning permanent independent living. These homes support expansive layouts and future expansion. A 14 Marla affordable house in Sainik Colony Faridabad offers space, stability, and appreciation potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses in Sainik Colony and Nearby Locations",
+    "description": [
+      "Homebuyers looking for an affordable house in Sainik Colony Faridabad often explore nearby residential localities to compare pricing and amenities.",
+      "Exploring surrounding areas helps buyers make informed decisions and find the most suitable affordable housing option."
+    ],
+    "locations": [
+      { "title": "Affordable House in Sainik Colony Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 21 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 28 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Greenfields Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Independent House for Sale", "path": "/", "icon": "Building" },
+      { "title": "Builder Floor for Sale", "path": "/", "icon": "Layers" },
+      { "title": "Residential Property for Sale", "path": "/", "icon": "MapPin" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Deal Acres Is Trusted for Affordable Houses",
+    "description": [
+      "Finding a genuine affordable house in Sainik Colony Faridabad requires verified listings and transparent property information. Deal Acres focuses on trust, accuracy, and buyer satisfaction.",
+      "With strong local expertise and a customer-first approach, Deal Acres makes the home-buying journey smooth and reliable."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "Every listing is verified for authenticity and legal clarity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing details with no hidden costs."
+      },
+      {
+        "title": "Local Area Expertise",
+        "description": "Deep knowledge of Sainik Colony and nearby residential markets."
+      },
+      {
+        "title": "Wide Housing Choices",
+        "description": "Multiple affordable house options across plot sizes."
+      },
+      {
+        "title": "Customer-Centric Platform",
+        "description": "Designed to address real buyer needs and concerns."
+      },
+      {
+        "title": "Time-Saving Search",
+        "description": "Quick access to relevant and verified properties."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Complete assistance from search to possession."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Preferred platform for reliable housing solutions."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Sainik Colony",
+    "description": "Helpful answers to common buyer questions for confident decision-making.",
+    "faqs": [
+      {
+        "question": "Is Sainik Colony Faridabad a good location to buy an affordable house?",
+        "answer": "Yes, Sainik Colony is a well-established and peaceful residential area with good connectivity and essential amenities, making it ideal for affordable housing."
+      },
+      {
+        "question": "What plot sizes are available in Sainik Colony?",
+        "answer": "Affordable houses in Sainik Colony are available in plot sizes ranging from 4 Marla to 14 Marla."
+      },
+      {
+        "question": "Are schools and hospitals nearby?",
+        "answer": "Yes, reputed schools, hospitals, and clinics are easily accessible from Sainik Colony."
+      },
+      {
+        "question": "Is Sainik Colony suitable for long-term living?",
+        "answer": "With stable infrastructure and a strong residential community, Sainik Colony is suitable for long-term residence."
+      },
+      {
+        "question": "How is connectivity from Sainik Colony?",
+        "answer": "The area has excellent road connectivity to Mathura Road, Delhi, and central Faridabad."
+      },
+      {
+        "question": "Are these houses suitable for first-time buyers?",
+        "answer": "Yes, affordable pricing and practical layouts make them ideal for first-time homebuyers."
+      },
+      {
+        "question": "Can houses be customized after purchase?",
+        "answer": "Many properties allow customization, subject to local approvals."
+      },
+      {
+        "question": "Is Sainik Colony family-friendly?",
+        "answer": "Yes, the locality is peaceful, safe, and preferred by families."
+      },
+      {
+        "question": "What factors affect house prices in Sainik Colony?",
+        "answer": "Plot size, construction quality, location, and amenities influence house prices."
+      },
+      {
+        "question": "How does Deal Acres help buyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, and complete buying support."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help to Buy Affordable Houses in Sainik Colony",
+    "description": [
+      "Buying an affordable house in Sainik Colony Faridabad is an important decision that requires accurate information and trusted guidance. Professional assistance helps you choose the right property with confidence.",
+      "Share your details to connect with experienced property advisors who will guide you through every step of your home-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

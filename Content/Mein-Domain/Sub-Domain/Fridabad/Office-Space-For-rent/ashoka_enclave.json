@@ -1,0 +1,216 @@
+{
+  "domain": "Office space for rent.com",
+  "hero": {
+    "title": "Strategically Located Office Space for Rent in Ashoka Enclave Faridabad",
+    "description": [
+      "Ashoka Enclave Faridabad is a well-developed and premium locality that has become a preferred choice for businesses seeking office space for rent in Ashoka Enclave Faridabad. Known for its excellent connectivity to Delhi, Mathura Road, and major commercial hubs of Faridabad, this area offers a professional environment suitable for startups, service firms, consultants, and growing enterprises. The presence of residential neighborhoods nearby ensures easy access to workforce, daily conveniences, and client-friendly surroundings.",
+      "Office spaces in Ashoka Enclave are designed to support modern business needs with flexible layouts, smooth accessibility, and established infrastructure. From compact offices to larger commercial units, businesses can choose spaces that align with their operational goals. Renting an office here means working from a location that combines visibility, convenience, and long-term commercial value."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Offices in Ashoka Enclave",
+        "path": "/"
+      },
+      {
+        "label": "Talk to Commercial Experts",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Office Space Size Options Available for Rent in Ashoka Enclave",
+    "description": [
+      "Selecting the right office size is essential for maintaining productivity and managing costs efficiently. Office space for rent in Ashoka Enclave Faridabad is available in multiple plot and built-up size options, allowing businesses to choose spaces that suit their current team size and future growth plans. Each size category supports different operational styles, from small professional setups to full-scale corporate offices.",
+      "Understanding these office size options helps businesses plan layouts, allocate departments, and ensure employee comfort. Whether you require a compact office or a spacious commercial unit, Ashoka Enclave offers flexible choices that support professional working environments and long-term stability."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space for Rent in Ashoka Enclave Faridabad",
+        "description": "4 Marla office spaces are suitable for startups, freelancers, and small professional teams. These offices provide essential facilities with minimal rental investment, making them ideal for businesses in their early stages. A 4 Marla office space for rent in Ashoka Enclave Faridabad is often preferred by consultants and service providers."
+      },
+      {
+        "title": "6 Marla Office Space for Rent in Ashoka Enclave Faridabad",
+        "description": "6 Marla offices offer a practical balance between space and affordability. They allow better seating arrangements, small meeting rooms, and organized work zones. Businesses planning gradual expansion often choose a 6 Marla office space for rent in Ashoka Enclave Faridabad."
+      },
+      {
+        "title": "8 Marla Office Space for Rent in Ashoka Enclave Faridabad",
+        "description": "8 Marla office spaces support growing teams and operational flexibility. These offices can accommodate multiple departments and collaborative areas. An 8 Marla office space for rent in Ashoka Enclave Faridabad suits IT firms, marketing agencies, and professional service companies."
+      },
+      {
+        "title": "10 Marla Office Space for Rent in Ashoka Enclave Faridabad",
+        "description": "10 Marla offices provide a premium business setup with scope for reception areas, cabins, and conference rooms. These units enhance brand image and workplace efficiency. A 10 Marla office space for rent in Ashoka Enclave Faridabad is preferred by established businesses."
+      },
+      {
+        "title": "12 Marla Office Space for Rent in Ashoka Enclave Faridabad",
+        "description": "12 Marla office spaces are ideal for mid-sized enterprises seeking spacious and organized work environments. These offices support advanced infrastructure and long-term operations. A 12 Marla office space for rent in Ashoka Enclave Faridabad offers stability and comfort."
+      },
+      {
+        "title": "14 Marla Office Space for Rent in Ashoka Enclave Faridabad",
+        "description": "14 Marla office spaces represent high-end commercial setups suitable for corporate offices and large teams. These offices allow complete layout customization and professional branding. A 14 Marla office space for rent in Ashoka Enclave Faridabad ensures prestige and scalability."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Office Space for Rent in Nearby Commercial Locations",
+    "description": [
+      "Businesses searching for office space for rent in Ashoka Enclave Faridabad often explore nearby commercial areas to compare connectivity, rental value, and business environment. Evaluating multiple locations helps in selecting the most suitable office space for daily operations and client engagement.",
+      "Faridabad offers several well-connected commercial localities, each with its own advantages. Reviewing nearby office locations gives businesses a broader understanding of market trends, accessibility, and long-term growth opportunities."
+    ],
+    "locations": [
+      {
+        "title": "Office Space for Rent in Ashoka Enclave Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 15 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 16 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 21 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Commercial Property for Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop for Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "IT Office Space for Rent",
+        "path": "/",
+        "icon": "Cpu"
+      },
+      {
+        "title": "Corporate Office for Rent",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Coworking Space for Rent",
+        "path": "/",
+        "icon": "Users"
+      },
+      {
+        "title": "Business Center for Rent",
+        "path": "/",
+        "icon": "Handshake"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Businesses Prefer Deal Acres for Office Rentals",
+    "description": [
+      "Finding reliable office space for rent in Ashoka Enclave Faridabad requires accurate listings and trusted guidance. Deal Acres focuses on providing verified commercial properties with clear information, helping businesses make confident rental decisions.",
+      "With a strong understanding of local commercial markets and tenant expectations, Deal Acres simplifies the office search process. Its transparent and user-focused approach has earned the trust of professionals and business owners."
+    ],
+    "points": [
+      {
+        "title": "Verified Office Listings",
+        "description": "Every office space is reviewed for authenticity and accuracy."
+      },
+      {
+        "title": "Transparent Rental Details",
+        "description": "Clear pricing and property information build confidence."
+      },
+      {
+        "title": "Local Commercial Expertise",
+        "description": "In-depth knowledge of Faridabad business locations."
+      },
+      {
+        "title": "Easy Property Comparison",
+        "description": "Compare multiple office options in one place."
+      },
+      {
+        "title": "Business-Centric Platform",
+        "description": "Designed to meet real business requirements."
+      },
+      {
+        "title": "Time-Saving Search Experience",
+        "description": "Quick access to relevant office spaces."
+      },
+      {
+        "title": "End-to-End Rental Support",
+        "description": "Guidance from search to final agreement."
+      },
+      {
+        "title": "Trusted by Business Owners",
+        "description": "Consistent positive feedback from tenants."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Office Space for Rent",
+    "description": "Answers to common questions to help you rent office space with confidence.",
+    "faqs": [
+      {
+        "question": "Is Ashoka Enclave a good location for renting office space?",
+        "answer": "Yes, Ashoka Enclave Faridabad offers excellent connectivity, established infrastructure, and a professional environment suitable for businesses."
+      },
+      {
+        "question": "What types of office spaces are available in Ashoka Enclave?",
+        "answer": "Independent offices, commercial units, and flexible office spaces across multiple size options are available."
+      },
+      {
+        "question": "Are office rentals in Ashoka Enclave suitable for startups?",
+        "answer": "Yes, smaller office sizes and flexible rental options make it suitable for startups and small businesses."
+      },
+      {
+        "question": "Is parking available with office spaces?",
+        "answer": "Most office buildings in Ashoka Enclave provide parking facilities."
+      },
+      {
+        "question": "Can offices be customized?",
+        "answer": "Many office spaces allow interior customization within building norms."
+      },
+      {
+        "question": "Is Ashoka Enclave suitable for long-term business operations?",
+        "answer": "Yes, the area offers stable commercial growth and accessibility."
+      },
+      {
+        "question": "How does Deal Acres ensure listing authenticity?",
+        "answer": "Listings are reviewed and checked before being published."
+      },
+      {
+        "question": "Are coworking options available nearby?",
+        "answer": "Yes, coworking and shared office spaces are available in nearby commercial hubs."
+      },
+      {
+        "question": "What affects office rent in Ashoka Enclave Faridabad?",
+        "answer": "Office size, building quality, location, and amenities influence rental value."
+      },
+      {
+        "question": "How can I get expert help to rent an office?",
+        "answer": "You can fill out the contact form to connect with commercial property experts."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help to Rent Office Space in Ashoka Enclave Faridabad",
+    "description": [
+      "Choosing the right office space for rent in Ashoka Enclave Faridabad is an important business decision. Expert assistance helps you evaluate options, understand rental trends, and finalize the most suitable workspace.",
+      "Share your details to connect with experienced commercial advisors who can guide you through the office rental process and help you find a space that matches your business goals."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

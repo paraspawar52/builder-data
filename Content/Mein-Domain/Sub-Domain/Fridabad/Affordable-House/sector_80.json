@@ -1,0 +1,173 @@
+{
+  "domain": "Affordable house.com",
+  "hero": {
+    "title": "Affordable and Well Connected Houses for Sale in Sector 80",
+    "description": [
+      "Sector 80 Faridabad is a rapidly developing residential locality in the Greater Faridabad region, making it a strong choice for buyers searching for an affordable house in Sector 80 Faridabad. The sector benefits from planned infrastructure, wide roads, and proximity to major connectivity routes such as NH-19, FNG Expressway, and important industrial and commercial hubs. This ensures smooth daily commuting for working professionals and convenient access to nearby sectors and Delhi NCR.",
+      "Affordable houses in Sector 80 Faridabad are suitable for first-time homebuyers, families, and investors looking for long-term value. The area offers access to essential amenities such as schools, hospitals, local markets, and public transport. With ongoing development, increasing residential demand, and improving civic facilities, buying a house in Sector 80 provides an ideal mix of affordability, modern living, and future appreciation potential."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses in Sector 80",
+        "path": "/"
+      },
+      {
+        "label": "Get Housing Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Plot Size Options Available in Sector 80",
+    "description": [
+      "Choosing the right plot size is an important decision when planning a comfortable and functional home. Affordable house options in Sector 80 Faridabad are available in multiple plot sizes, allowing buyers to select homes based on family size, lifestyle preferences, and budget planning.",
+      "From compact independent houses to spacious family homes, Sector 80 offers flexible plot size options that support modern layouts, proper ventilation, and long-term residential comfort."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House in Sector 80 Faridabad",
+        "description": "4 Marla houses are ideal for small families and first-time homebuyers seeking budget-friendly independent living. These homes offer efficient layouts with essential living spaces and lower maintenance costs. A 4 Marla affordable house in Sector 80 Faridabad provides a cost-effective entry into a planned residential environment."
+      },
+      {
+        "title": "6 Marla Affordable House in Sector 80 Faridabad",
+        "description": "6 Marla houses offer a balanced combination of affordability and usable space. These homes generally include additional bedrooms, improved ventilation, and parking facilities. Choosing a 6 Marla affordable house in Sector 80 Faridabad is suitable for growing families looking for comfort without financial strain."
+      },
+      {
+        "title": "8 Marla Affordable House in Sector 80 Faridabad",
+        "description": "8 Marla houses provide greater flexibility in design and layout planning. These homes allow larger rooms, open spaces, and enhanced privacy. An 8 Marla affordable house in Sector 80 Faridabad is ideal for families seeking better comfort and modern living standards."
+      },
+      {
+        "title": "10 Marla Affordable House in Sector 80 Faridabad",
+        "description": "10 Marla houses are suitable for buyers who prefer spacious interiors and premium planning. These homes support elegant designs, open areas, and dedicated parking. A 10 Marla affordable house in Sector 80 Faridabad enhances lifestyle quality while maintaining long-term value."
+      },
+      {
+        "title": "12 Marla Affordable House in Sector 80 Faridabad",
+        "description": "12 Marla houses are ideal for larger families requiring multiple living areas and better privacy. These homes offer improved ventilation, comfort, and scope for customization. Investing in a 12 Marla affordable house in Sector 80 Faridabad ensures long-term residential satisfaction."
+      },
+      {
+        "title": "14 Marla Affordable House in Sector 80 Faridabad",
+        "description": "14 Marla houses offer premium residential space for families planning long-term independent living. These homes allow expansive layouts, green areas, and future expansion. A 14 Marla affordable house in Sector 80 Faridabad delivers space, stability, and appreciation potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses in Nearby Residential Locations",
+    "description": [
+      "Homebuyers searching for an affordable house in Sector 80 Faridabad often explore nearby sectors to compare pricing, connectivity, and residential infrastructure.",
+      "Reviewing surrounding localities helps buyers make informed decisions and choose the most suitable affordable housing option."
+    ],
+    "locations": [
+      { "title": "Affordable House in Sector 80 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 81 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 82 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 85 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Independent House for Sale", "path": "/", "icon": "Building" },
+      { "title": "Builder Floor for Sale", "path": "/", "icon": "Layers" },
+      { "title": "Residential Property for Sale", "path": "/", "icon": "MapPin" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Affordable Houses",
+    "description": [
+      "Finding a genuine affordable house in Sector 80 Faridabad requires verified listings and transparent property information. Deal Acres ensures buyers receive accurate and reliable details to make confident decisions.",
+      "With strong local expertise and a customer-first approach, Deal Acres simplifies the home-buying process and provides a smooth, trustworthy experience."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All listings are carefully verified to ensure authenticity and reliability."
+      },
+      {
+        "title": "Transparent Pricing Information",
+        "description": "Clear pricing helps buyers plan budgets without hidden costs."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth understanding of Sector 80 and Greater Faridabad."
+      },
+      {
+        "title": "Wide Range of Housing Options",
+        "description": "Multiple affordable house options across different plot sizes."
+      },
+      {
+        "title": "Customer-Centric Platform",
+        "description": "Designed to address real homebuyer needs effectively."
+      },
+      {
+        "title": "Time-Saving Property Search",
+        "description": "Quick access to relevant and verified housing options."
+      },
+      {
+        "title": "End-to-End Buying Support",
+        "description": "Complete assistance from property search to possession."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Preferred platform for reliable and affordable housing solutions."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Sector 80",
+    "description": "Detailed answers to help buyers make informed and confident home-buying decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 80 Faridabad a good area to buy an affordable house?",
+        "answer": "Yes, Sector 80 is a developing residential area with planned infrastructure, good connectivity, and strong future growth potential, making it suitable for affordable housing."
+      },
+      {
+        "question": "What plot sizes are available in Sector 80?",
+        "answer": "Affordable houses in Sector 80 are available in plot sizes ranging from 4 Marla to 14 Marla."
+      },
+      {
+        "question": "Are schools and hospitals nearby?",
+        "answer": "Yes, schools, hospitals, clinics, and daily convenience facilities are easily accessible from Sector 80."
+      },
+      {
+        "question": "Is Sector 80 suitable for long-term living?",
+        "answer": "The area offers planned development, improving amenities, and good appreciation potential, making it suitable for long-term residence."
+      },
+      {
+        "question": "Is public transport available in Sector 80?",
+        "answer": "Yes, Sector 80 has good road connectivity and access to public transport options."
+      },
+      {
+        "question": "Are these houses suitable for first-time buyers?",
+        "answer": "Yes, affordable pricing and practical layouts make these houses ideal for first-time homebuyers."
+      },
+      {
+        "question": "Can houses be customized after purchase?",
+        "answer": "Many properties allow customization with necessary approvals."
+      },
+      {
+        "question": "Is Sector 80 a family-friendly locality?",
+        "answer": "Yes, it is a peaceful and family-oriented residential area with growing communities."
+      },
+      {
+        "question": "What factors affect house prices in Sector 80?",
+        "answer": "Plot size, construction quality, exact location, and available amenities influence house prices."
+      },
+      {
+        "question": "How does Deal Acres help homebuyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, and end-to-end support throughout the home-buying process."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance to Buy Affordable Houses in Sector 80",
+    "description": [
+      "Buying an affordable house in Sector 80 Faridabad is a major decision that requires accurate information and professional guidance. Expert assistance helps you avoid confusion and choose the right property confidently.",
+      "Share your details to connect with experienced property advisors who will support you at every stage of your home-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

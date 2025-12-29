@@ -1,0 +1,216 @@
+{
+  "domain": "Office space for rent.com",
+  "hero": {
+    "title": "Well Connected and Affordable Office Space for Rent in Sector 21C",
+    "description": [
+      "Sector 21C Faridabad is a well-established and strategically located area that attracts businesses looking for office space for rent in Sector 21C Faridabad. The locality enjoys smooth connectivity to major roads, nearby residential sectors, and important commercial zones of Faridabad. Its central location makes daily commuting convenient for employees while ensuring easy access for clients and business partners. The surrounding infrastructure supports professional activities with banks, eateries, and essential services close by.",
+      "Office spaces in Sector 21C are suitable for startups, service-based firms, consultants, and growing companies seeking a practical and accessible work location. The area offers a mix of compact and spacious office options, allowing businesses to select spaces based on team size and operational needs. Renting an office here provides stability, convenience, and a professional environment that supports long-term business growth."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces in Sector 21C",
+        "path": "/"
+      },
+      {
+        "label": "Get Commercial Property Support",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Office Space Size Options Available for Rent in Sector 21C",
+    "description": [
+      "Choosing the right office size is essential for smooth business operations and future scalability. Office space for rent in Sector 21C Faridabad is available in multiple plot and built-up size options, making it easier for businesses to find spaces that match their current requirements and growth plans. Each size category supports different layouts, staffing needs, and work styles.",
+      "Understanding these office size options helps businesses plan budgets efficiently while ensuring employee comfort and productivity. From compact workspaces for small teams to larger commercial offices for established companies, Sector 21C offers flexible choices for diverse business needs."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space for Rent in Sector 21C Faridabad",
+        "description": "4 Marla office spaces are ideal for startups, freelancers, and small professional teams. These offices offer essential infrastructure at affordable rental levels, making them suitable for cost-conscious businesses. A 4 Marla office space for rent in Sector 21C Faridabad supports focused operations with minimal overheads."
+      },
+      {
+        "title": "6 Marla Office Space for Rent in Sector 21C Faridabad",
+        "description": "6 Marla office units provide a practical balance between space and affordability. They allow better seating arrangements, basic meeting areas, and organized workflows. Businesses planning steady growth often prefer a 6 Marla office space for rent in Sector 21C Faridabad."
+      },
+      {
+        "title": "8 Marla Office Space for Rent in Sector 21C Faridabad",
+        "description": "8 Marla office spaces suit growing companies that require flexibility in layout and team collaboration. These offices can comfortably accommodate multiple departments. An 8 Marla office space for rent in Sector 21C Faridabad is suitable for service firms and mid-sized teams."
+      },
+      {
+        "title": "10 Marla Office Space for Rent in Sector 21C Faridabad",
+        "description": "10 Marla office spaces offer a more premium working environment with room for cabins, reception areas, and conference rooms. These offices help enhance professional image and productivity. A 10 Marla office space for rent in Sector 21C Faridabad is often chosen by established businesses."
+      },
+      {
+        "title": "12 Marla Office Space for Rent in Sector 21C Faridabad",
+        "description": "12 Marla office spaces are suitable for mid-sized enterprises seeking spacious and structured work environments. These offices support long-term operations with better infrastructure planning. A 12 Marla office space for rent in Sector 21C Faridabad offers comfort and operational stability."
+      },
+      {
+        "title": "14 Marla Office Space for Rent in Sector 21C Faridabad",
+        "description": "14 Marla office spaces represent premium commercial setups for large teams and corporate offices. These units allow extensive customization and strong brand presence. A 14 Marla office space for rent in Sector 21C Faridabad provides long-term value and scalability."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Office Space for Rent in Nearby Commercial Areas",
+    "description": [
+      "While searching for office space for rent in Sector 21C Faridabad, businesses often explore nearby commercial sectors to compare accessibility, rental pricing, and working environment. Reviewing multiple locations helps decision-makers choose the most suitable office for daily operations and client engagement.",
+      "Faridabad offers several established commercial localities around Sector 21C, each with unique advantages. Exploring nearby options provides better clarity on market trends and long-term business potential."
+    ],
+    "locations": [
+      {
+        "title": "Office Space for Rent in Sector 21C Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 21 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 16 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 15 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Commercial Property for Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop for Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "IT Office Space for Rent",
+        "path": "/",
+        "icon": "Cpu"
+      },
+      {
+        "title": "Corporate Office for Rent",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Coworking Space for Rent",
+        "path": "/",
+        "icon": "Users"
+      },
+      {
+        "title": "Business Center for Rent",
+        "path": "/",
+        "icon": "Handshake"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Businesses Choose Deal Acres for Office Space Rentals",
+    "description": [
+      "Finding the right office space for rent in Sector 21C Faridabad requires trust, clarity, and accurate information. Deal Acres focuses on verified commercial listings and transparent details to help businesses avoid uncertainty and make confident rental decisions.",
+      "With strong local market knowledge and a user-first approach, Deal Acres simplifies the office search journey. Its commitment to reliability and customer satisfaction makes it a preferred choice for businesses across Faridabad."
+    ],
+    "points": [
+      {
+        "title": "Verified Office Listings",
+        "description": "Every listing is checked for accuracy and authenticity."
+      },
+      {
+        "title": "Transparent Rental Information",
+        "description": "Clear details help businesses understand true rental value."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Faridabad commercial areas."
+      },
+      {
+        "title": "Easy Property Comparison",
+        "description": "Compare multiple office spaces efficiently."
+      },
+      {
+        "title": "Business-Focused Platform",
+        "description": "Designed to meet real business requirements."
+      },
+      {
+        "title": "Time-Saving Experience",
+        "description": "Quick access to relevant office options."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from search to final agreement."
+      },
+      {
+        "title": "Trusted by Professionals",
+        "description": "Positive feedback from business owners and tenants."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Office Space for Rent",
+    "description": "Helpful answers to common questions to support your office rental decision.",
+    "faqs": [
+      {
+        "question": "Is Sector 21C Faridabad a good location for office space?",
+        "answer": "Yes, Sector 21C offers good connectivity, established infrastructure, and a professional environment suitable for businesses."
+      },
+      {
+        "question": "What office sizes are available in Sector 21C?",
+        "answer": "Office spaces ranging from 4 Marla to 14 Marla are available to suit different business needs."
+      },
+      {
+        "question": "Is Sector 21C suitable for startups?",
+        "answer": "Yes, affordable rental options and flexible office sizes make it suitable for startups and small businesses."
+      },
+      {
+        "question": "Are parking facilities available with office spaces?",
+        "answer": "Most office buildings in Sector 21C provide parking facilities for employees and visitors."
+      },
+      {
+        "question": "Can office interiors be customized?",
+        "answer": "Many office spaces allow customization as per business requirements, subject to building guidelines."
+      },
+      {
+        "question": "Is Sector 21C suitable for long-term business operations?",
+        "answer": "Yes, the area offers stable commercial development and long-term potential."
+      },
+      {
+        "question": "How does Deal Acres verify office listings?",
+        "answer": "Listings are reviewed and checked before being published on the platform."
+      },
+      {
+        "question": "Are coworking spaces available near Sector 21C?",
+        "answer": "Yes, coworking and shared office options are available in nearby commercial sectors."
+      },
+      {
+        "question": "What factors influence office rent in Sector 21C Faridabad?",
+        "answer": "Office size, location, building quality, and available amenities affect rental pricing."
+      },
+      {
+        "question": "How can I get expert help to rent an office?",
+        "answer": "You can submit your details through the contact form to connect with commercial property experts."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help to Rent Office Space in Sector 21C Faridabad",
+    "description": [
+      "Renting the right office space for rent in Sector 21C Faridabad is a key business decision that impacts daily operations and growth. Expert guidance helps you compare options, understand rental trends, and finalize the most suitable workspace.",
+      "Share your details to connect with experienced commercial property advisors who can support you throughout the office rental process."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

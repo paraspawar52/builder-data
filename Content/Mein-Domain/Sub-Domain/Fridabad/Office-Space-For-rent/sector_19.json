@@ -1,0 +1,216 @@
+{
+  "domain": "Office space for rent.com",
+  "hero": {
+    "title": "Well Connected and Practical Office Space for Rent in Sector 19",
+    "description": [
+      "Sector 19 Faridabad is a well-established commercial and residential locality that attracts businesses looking for office space for rent in Sector 19 Faridabad. The sector enjoys smooth connectivity to Mathura Road, NH-19, and nearby industrial areas, making daily commuting convenient for employees and clients. With banks, markets, and essential services close by, the area supports a professional and functional business environment.",
+      "Office spaces in Sector 19 are suitable for small to mid-sized enterprises, service providers, consultants, and branch offices that prefer a balanced location with reasonable rental values. The presence of nearby residential sectors ensures steady footfall and workforce availability. Renting an office in Sector 19 allows businesses to operate from a stable location with dependable infrastructure and long-term commercial usability."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces in Sector 19",
+        "path": "/"
+      },
+      {
+        "label": "Get Office Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Office Space Size Options Available for Rent in Sector 19",
+    "description": [
+      "Choosing the right office size plays an important role in ensuring smooth operations, team comfort, and future scalability. Office space for rent in Sector 19 Faridabad is available in multiple plot size options, allowing businesses to select spaces that match their operational needs and budget.",
+      "From compact office units to larger commercial setups, Sector 19 offers flexibility for businesses at different growth stages."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space for Rent in Sector 19 Faridabad",
+        "description": "4 Marla office spaces are ideal for startups, freelancers, and small professional firms. A 4 Marla office space for rent in Sector 19 Faridabad provides affordability and essential work infrastructure."
+      },
+      {
+        "title": "6 Marla Office Space for Rent in Sector 19 Faridabad",
+        "description": "6 Marla office units offer better layout flexibility with space for workstations and basic meeting areas. A 6 Marla office space for rent in Sector 19 Faridabad supports growing teams."
+      },
+      {
+        "title": "8 Marla Office Space for Rent in Sector 19 Faridabad",
+        "description": "8 Marla office spaces allow structured planning with dedicated work areas and cabins. An 8 Marla office space for rent in Sector 19 Faridabad suits service-based businesses."
+      },
+      {
+        "title": "10 Marla Office Space for Rent in Sector 19 Faridabad",
+        "description": "10 Marla office spaces provide a professional setup with reception and meeting rooms. A 10 Marla office space for rent in Sector 19 Faridabad improves operational efficiency."
+      },
+      {
+        "title": "12 Marla Office Space for Rent in Sector 19 Faridabad",
+        "description": "12 Marla office spaces are suitable for mid-sized companies requiring spacious and organized work environments. A 12 Marla office space for rent in Sector 19 Faridabad supports long-term growth."
+      },
+      {
+        "title": "14 Marla Office Space for Rent in Sector 19 Faridabad",
+        "description": "14 Marla office spaces are premium options for established enterprises and larger teams. A 14 Marla office space for rent in Sector 19 Faridabad offers scalability and flexibility."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Office Space for Rent in Nearby Commercial Areas",
+    "description": [
+      "While searching for office space for rent in Sector 19 Faridabad, businesses often compare nearby sectors to evaluate rental trends, connectivity, and infrastructure.",
+      "Sector 19 is surrounded by several established commercial and residential areas, offering multiple location choices for office rentals."
+    ],
+    "locations": [
+      {
+        "title": "Office Space for Rent in Sector 19 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 18 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in Sector 16 Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Office Space for Rent in NIT Faridabad",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      },
+      {
+        "title": "Commercial Property for Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop for Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Corporate Office for Rent",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "IT Office Space for Rent",
+        "path": "/",
+        "icon": "Cpu"
+      },
+      {
+        "title": "Business Center for Rent",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Coworking Space for Rent",
+        "path": "/",
+        "icon": "Users"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Businesses Choose Deal Acres for Office Rentals",
+    "description": [
+      "Finding the right office space for rent in Sector 19 Faridabad requires reliable information and verified listings. Deal Acres focuses on transparency and accuracy to help businesses make confident rental decisions.",
+      "With strong local market expertise and a customer-focused approach, Deal Acres simplifies the office rental journey for businesses of all sizes."
+    ],
+    "points": [
+      {
+        "title": "Verified Office Listings",
+        "description": "All office properties are checked for authenticity."
+      },
+      {
+        "title": "Transparent Rental Details",
+        "description": "Clear pricing and property information."
+      },
+      {
+        "title": "Local Market Knowledge",
+        "description": "Deep understanding of Faridabad commercial areas."
+      },
+      {
+        "title": "Easy Property Comparison",
+        "description": "Compare multiple office options in one place."
+      },
+      {
+        "title": "Business-Focused Platform",
+        "description": "Designed to meet real business needs."
+      },
+      {
+        "title": "Time-Saving Search",
+        "description": "Quick access to relevant office spaces."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Assistance from inquiry to agreement."
+      },
+      {
+        "title": "Trusted by Businesses",
+        "description": "Preferred by startups and established companies."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Office Space in Sector 19",
+    "description": "Detailed answers to help you choose the right office space with confidence.",
+    "faqs": [
+      {
+        "question": "Is Sector 19 Faridabad suitable for office space?",
+        "answer": "Yes, Sector 19 offers good connectivity, infrastructure, and commercial stability."
+      },
+      {
+        "question": "What office sizes are available in Sector 19?",
+        "answer": "Office spaces ranging from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Sector 19 suitable for small businesses?",
+        "answer": "Yes, affordable rentals and flexible office sizes make it ideal for small businesses."
+      },
+      {
+        "question": "Are parking facilities available?",
+        "answer": "Most office properties provide parking facilities."
+      },
+      {
+        "question": "Can office interiors be customized?",
+        "answer": "Many landlords allow interior customization as per agreement terms."
+      },
+      {
+        "question": "Is public transport accessible in Sector 19?",
+        "answer": "Yes, buses, autos, and major road connectivity are easily available."
+      },
+      {
+        "question": "How does Deal Acres verify listings?",
+        "answer": "All listings are reviewed and verified before being published."
+      },
+      {
+        "question": "Is Sector 19 good for long-term operations?",
+        "answer": "Yes, the area offers stability and consistent commercial demand."
+      },
+      {
+        "question": "What factors affect office rent in Sector 19?",
+        "answer": "Office size, building condition, amenities, and exact location influence rent."
+      },
+      {
+        "question": "How can I get expert help to rent an office?",
+        "answer": "You can submit your details through the contact form for professional assistance."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help to Rent Office Space in Sector 19 Faridabad",
+    "description": [
+      "Choosing the right office space for rent in Sector 19 Faridabad is an important business decision. Expert guidance helps you compare options and finalize the most suitable workspace.",
+      "Share your details to connect with experienced commercial property professionals who will assist you throughout the office rental process."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

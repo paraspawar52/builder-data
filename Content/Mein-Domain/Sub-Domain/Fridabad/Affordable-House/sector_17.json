@@ -1,0 +1,174 @@
+{
+  "domain": "Affordable house.com",
+
+  "hero": {
+    "title": "Affordable and Well-Connected Independent Houses for Sale in Sector 17 Faridabad",
+    "description": [
+      "Sector 17 Faridabad is a well-established residential locality known for its planned infrastructure, central location, and excellent connectivity. Buyers searching for an affordable house in Sector 17 Faridabad prefer this area due to its proximity to Mathura Road, Old Faridabad, and key commercial zones. The locality offers smooth road connectivity, reliable public transport, and a peaceful environment that suits families and working professionals alike.",
+      "Affordable houses in Sector 17 Faridabad provide independent living with access to reputed schools, hospitals, local markets, parks, and daily-need facilities. The sector has a balanced residential atmosphere with steady housing demand and strong civic amenities. With its developed surroundings, practical housing options, and long-term stability, Sector 17 remains a dependable choice for homebuyers seeking comfort, convenience, and value in Faridabad."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses in Sector 17",
+        "path": "/"
+      },
+      {
+        "label": "Get Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Plot Size Options Available in Sector 17 Faridabad",
+    "description": [
+      "Choosing the right plot size plays a key role in planning a comfortable independent home. Affordable house options in Sector 17 Faridabad are available in multiple plot sizes, allowing buyers to select homes based on budget, family size, and future requirements.",
+      "From compact houses for small families to spacious homes designed for long-term living, Sector 17 offers well-planned plot size options with efficient layouts, good ventilation, and easy access to essential city amenities."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House in Sector 17 Faridabad",
+        "description": "4 Marla houses are ideal for small families and first-time buyers looking for budget-friendly independent living. These homes offer compact layouts, essential living spaces, and easy maintenance. A 4 Marla affordable house in Sector 17 Faridabad is a practical entry-level option."
+      },
+      {
+        "title": "6 Marla Affordable House in Sector 17 Faridabad",
+        "description": "6 Marla houses provide a balanced mix of affordability and usable space. These homes usually include additional bedrooms, better ventilation, and parking facilities. A 6 Marla affordable house in Sector 17 Faridabad suits growing families."
+      },
+      {
+        "title": "8 Marla Affordable House in Sector 17 Faridabad",
+        "description": "8 Marla houses allow improved interior planning and more comfortable living areas. These homes offer better privacy and flexible layouts. An 8 Marla affordable house in Sector 17 Faridabad supports modern family living."
+      },
+      {
+        "title": "10 Marla Affordable House in Sector 17 Faridabad",
+        "description": "10 Marla houses are preferred by buyers seeking spacious interiors and organized layouts. These homes provide ample living space along with parking convenience. A 10 Marla affordable house in Sector 17 Faridabad enhances everyday comfort."
+      },
+      {
+        "title": "12 Marla Affordable House in Sector 17 Faridabad",
+        "description": "12 Marla houses are suitable for larger families who require multiple rooms and greater privacy. These homes offer good airflow and customization potential. A 12 Marla affordable house in Sector 17 Faridabad ensures long-term residential comfort."
+      },
+      {
+        "title": "14 Marla Affordable House in Sector 17 Faridabad",
+        "description": "14 Marla houses provide premium independent living space in a well-established locality. These homes support spacious layouts and future expansion. A 14 Marla affordable house in Sector 17 Faridabad offers stability and long-term value."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses in Sector 17 and Nearby Residential Localities",
+    "description": [
+      "Homebuyers searching for an affordable house in Sector 17 Faridabad often explore nearby sectors to compare pricing, connectivity, and residential facilities.",
+      "Reviewing surrounding localities helps buyers choose the most suitable affordable housing option based on lifestyle needs and budget considerations."
+    ],
+    "locations": [
+      { "title": "Affordable House in Sector 17 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 16 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 15 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 19 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Independent House for Sale", "path": "/", "icon": "Building" },
+      { "title": "Builder Floor for Sale", "path": "/", "icon": "Layers" },
+      { "title": "Residential Property for Sale", "path": "/", "icon": "MapPin" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Affordable Houses",
+    "description": [
+      "Finding a genuine affordable house in Sector 17 Faridabad requires verified listings and transparent property information. Deal Acres ensures buyers receive accurate and reliable details for confident decision-making.",
+      "With strong local market expertise and a customer-first approach, Deal Acres simplifies the home-buying process and delivers a trustworthy experience."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All properties are verified for ownership and authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing information with no hidden charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Deep understanding of Sector 17 and nearby areas."
+      },
+      {
+        "title": "Wide Plot Size Options",
+        "description": "Affordable houses available in multiple plot sizes."
+      },
+      {
+        "title": "Buyer-Centric Platform",
+        "description": "Designed to address real homebuyer needs."
+      },
+      {
+        "title": "Quick Property Search",
+        "description": "Fast access to relevant and verified listings."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from property shortlisting to possession."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Deal Acres is a preferred platform for affordable housing."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Sector 17",
+    "description": "Detailed answers to common questions to help buyers make confident and informed decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 17 Faridabad a good area to buy a house?",
+        "answer": "Yes, Sector 17 is a well-developed and centrally located residential area with strong connectivity and essential amenities."
+      },
+      {
+        "question": "What plot sizes are available in Sector 17?",
+        "answer": "Affordable houses in Sector 17 Faridabad are available from 4 Marla to 14 Marla plot sizes."
+      },
+      {
+        "question": "Is Sector 17 suitable for families?",
+        "answer": "Yes, the locality offers a safe, organized, and family-friendly living environment."
+      },
+      {
+        "question": "How is connectivity from Sector 17?",
+        "answer": "Sector 17 has good road connectivity to Mathura Road and nearby commercial areas."
+      },
+      {
+        "question": "Are schools and hospitals nearby?",
+        "answer": "Yes, reputed schools, hospitals, clinics, and healthcare facilities are easily accessible."
+      },
+      {
+        "question": "Are these houses suitable for first-time buyers?",
+        "answer": "Yes, affordable pricing and practical layouts make them ideal for first-time homebuyers."
+      },
+      {
+        "question": "Can houses be customized after purchase?",
+        "answer": "Many properties allow customization as per local building regulations."
+      },
+      {
+        "question": "Is Sector 17 good for long-term investment?",
+        "answer": "Strong residential demand and limited availability support long-term property value."
+      },
+      {
+        "question": "What factors affect property prices in Sector 17?",
+        "answer": "Plot size, construction quality, location, and nearby amenities influence property prices."
+      },
+      {
+        "question": "How does Deal Acres help homebuyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, and complete buying support."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance to Buy Affordable Houses in Sector 17 Faridabad",
+    "description": [
+      "Buying an affordable house in Sector 17 Faridabad requires accurate information and professional assistance. Expert guidance helps buyers avoid confusion and make the right decision.",
+      "Share your details to connect with experienced property advisors who will support you throughout your home-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

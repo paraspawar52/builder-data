@@ -1,0 +1,174 @@
+{
+  "domain": "Affordable house.com",
+
+  "hero": {
+    "title": "Affordable and Well-Located Independent Houses for Sale in Sector 2 Faridabad",
+    "description": [
+      "Sector 2 Faridabad is a well-established residential locality known for its central location, peaceful surroundings, and strong connectivity to major parts of the city. Buyers searching for an affordable house in Sector 2 Faridabad prefer this area due to its proximity to Old Faridabad, Mathura Road, and nearby commercial zones. The locality offers wide internal roads, public transport access, and a stable residential environment suitable for families.",
+      "Affordable houses in Sector 2 Faridabad are ideal for first-time homebuyers, working professionals, and families looking for independent living at reasonable prices. The area is surrounded by schools, hospitals, local markets, and daily-need facilities, making everyday life convenient. With steady demand, reliable infrastructure, and practical housing options, Sector 2 continues to be a trusted residential choice in Faridabad."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses in Sector 2",
+        "path": "/"
+      },
+      {
+        "label": "Get Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Plot Size Options Available in Sector 2 Faridabad",
+    "description": [
+      "Choosing the right plot size plays a crucial role in planning an independent home. Affordable house options in Sector 2 Faridabad are available in multiple plot sizes, allowing buyers to select a home that fits their budget, family size, and lifestyle needs.",
+      "From compact homes for small families to spacious houses for long-term living, Sector 2 offers well-planned plot size options with efficient layouts, good ventilation, and easy access to nearby city amenities."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House in Sector 2 Faridabad",
+        "description": "4 Marla houses are suitable for small families and first-time buyers looking for budget-friendly independent homes. These houses offer compact layouts, essential living spaces, and easy maintenance. A 4 Marla affordable house in Sector 2 Faridabad is a practical starting option."
+      },
+      {
+        "title": "6 Marla Affordable House in Sector 2 Faridabad",
+        "description": "6 Marla houses offer a balanced combination of affordability and comfort. These homes generally include additional rooms, better ventilation, and parking space. A 6 Marla affordable house in Sector 2 Faridabad is ideal for growing families."
+      },
+      {
+        "title": "8 Marla Affordable House in Sector 2 Faridabad",
+        "description": "8 Marla houses allow better interior planning and comfortable living areas. These homes provide improved privacy and flexible layouts. An 8 Marla affordable house in Sector 2 Faridabad supports modern family living."
+      },
+      {
+        "title": "10 Marla Affordable House in Sector 2 Faridabad",
+        "description": "10 Marla houses are preferred by buyers seeking spacious interiors and organized layouts. These homes offer ample living space along with parking convenience. A 10 Marla affordable house in Sector 2 Faridabad enhances lifestyle comfort."
+      },
+      {
+        "title": "12 Marla Affordable House in Sector 2 Faridabad",
+        "description": "12 Marla houses are suitable for larger families who need multiple rooms and better privacy. These homes provide good airflow and customization potential. A 12 Marla affordable house in Sector 2 Faridabad ensures long-term comfort."
+      },
+      {
+        "title": "14 Marla Affordable House in Sector 2 Faridabad",
+        "description": "14 Marla houses offer premium independent living space in a prime residential area. These homes support spacious layouts and future expansion. A 14 Marla affordable house in Sector 2 Faridabad provides strong long-term value."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses in Sector 2 and Nearby Localities",
+    "description": [
+      "Homebuyers searching for an affordable house in Sector 2 Faridabad often explore nearby localities to compare pricing, connectivity, and residential facilities.",
+      "Exploring surrounding areas helps buyers choose the most suitable affordable housing option based on budget and lifestyle preferences."
+    ],
+    "locations": [
+      { "title": "Affordable House in Sector 2 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 3 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 4 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in NIT Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Independent House for Sale", "path": "/", "icon": "Building" },
+      { "title": "Builder Floor for Sale", "path": "/", "icon": "Layers" },
+      { "title": "Residential Property for Sale", "path": "/", "icon": "MapPin" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Affordable Houses",
+    "description": [
+      "Finding a genuine affordable house in Sector 2 Faridabad requires verified listings and transparent property information. Deal Acres ensures buyers receive accurate and reliable details.",
+      "With strong local market expertise and a customer-focused approach, Deal Acres simplifies the home-buying journey and delivers a trustworthy experience."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All listings are verified for ownership and legal clarity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing details with no hidden charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth understanding of Sector 2 and nearby areas."
+      },
+      {
+        "title": "Multiple Plot Size Choices",
+        "description": "Affordable houses available across different plot sizes."
+      },
+      {
+        "title": "Buyer-Centric Platform",
+        "description": "Designed to solve real homebuyer concerns."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "Quick access to verified and relevant listings."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from property shortlisting to final possession."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Deal Acres is a preferred platform for affordable housing."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Sector 2",
+    "description": "Detailed answers to help buyers make informed and confident home-buying decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 2 Faridabad a good place to buy a house?",
+        "answer": "Yes, Sector 2 is a well-established residential area with good connectivity and daily conveniences."
+      },
+      {
+        "question": "What plot sizes are available in Sector 2?",
+        "answer": "Affordable houses in Sector 2 Faridabad are available from 4 Marla to 14 Marla plot sizes."
+      },
+      {
+        "question": "Is Sector 2 suitable for families?",
+        "answer": "Yes, the locality offers a safe, peaceful, and family-friendly environment."
+      },
+      {
+        "question": "How is connectivity from Sector 2?",
+        "answer": "Sector 2 has strong road connectivity to Old Faridabad, Mathura Road, and nearby sectors."
+      },
+      {
+        "question": "Are schools and hospitals nearby?",
+        "answer": "Yes, reputed schools, hospitals, clinics, and medical facilities are easily accessible."
+      },
+      {
+        "question": "Are these houses suitable for first-time buyers?",
+        "answer": "Yes, affordable pricing and practical layouts make them suitable for first-time homebuyers."
+      },
+      {
+        "question": "Can houses be customized after purchase?",
+        "answer": "Many properties allow customization according to local building regulations."
+      },
+      {
+        "question": "Is Sector 2 good for long-term investment?",
+        "answer": "Yes, steady demand and central location support long-term property value."
+      },
+      {
+        "question": "What factors affect property prices in Sector 2?",
+        "answer": "Plot size, construction quality, location, and nearby amenities influence pricing."
+      },
+      {
+        "question": "How does Deal Acres help buyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, and complete buying support."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help to Buy Affordable Houses in Sector 2 Faridabad",
+    "description": [
+      "Buying an affordable house in Sector 2 Faridabad requires the right information and professional support. Expert guidance helps buyers avoid confusion and make the right choice.",
+      "Share your details to connect with experienced property advisors who will assist you at every step of your home-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

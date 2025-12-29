@@ -1,0 +1,174 @@
+{
+  "domain": "Plot.com",
+
+  "hero": {
+    "title": "Premium Residential Plots for Sale in Ashoka Enclave Faridabad",
+    "description": [
+      "Ashoka Enclave Faridabad is one of the most established and premium residential localities, known for its central location, excellent connectivity, and well-developed infrastructure. Buying a plot in Ashoka Enclave Faridabad offers a rare opportunity to own land in a posh neighborhood surrounded by wide roads, green surroundings, and high-end residential developments. The area enjoys seamless connectivity to Mathura Road, Delhi, and major parts of Faridabad, making daily commuting smooth and convenient.",
+      "Plots in Ashoka Enclave Faridabad are highly preferred by families and investors due to limited availability and strong demand. The locality is close to reputed schools, hospitals, shopping malls, and business hubs, ensuring a comfortable and premium lifestyle. With its mature infrastructure and strong resale value, Ashoka Enclave remains a top choice for buyers seeking long-term security, exclusivity, and excellent appreciation potential."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Ashoka Enclave",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in Ashoka Enclave Faridabad",
+    "description": [
+      "Selecting the right plot size is an important decision when planning your dream home or making a premium real estate investment. Ashoka Enclave Faridabad offers a variety of residential plot sizes suitable for different family requirements and architectural preferences.",
+      "From compact residential plots to larger land parcels for luxury homes, plots in Ashoka Enclave Faridabad provide flexibility, privacy, and long-term value in one of the city’s most desirable neighborhoods."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Ashoka Enclave Faridabad",
+        "description": "A 4 Marla plot in Ashoka Enclave Faridabad is ideal for buyers looking for a compact yet premium residential option. These plots are suitable for building efficient homes with modern layouts and easy maintenance. Due to the prime location, even smaller plots here offer excellent value and lifestyle benefits."
+      },
+      {
+        "title": "6 Marla Plot in Ashoka Enclave Faridabad",
+        "description": "6 Marla plots provide a balanced combination of space and exclusivity. A 6 Marla plot in Ashoka Enclave Faridabad allows better room planning, parking space, and comfortable living while staying within a premium residential budget."
+      },
+      {
+        "title": "8 Marla Plot in Ashoka Enclave Faridabad",
+        "description": "An 8 Marla plot in Ashoka Enclave Faridabad is perfect for families seeking spacious home designs. These plots support modern architectural planning with ample ventilation, privacy, and outdoor areas, making them suitable for long-term family living."
+      },
+      {
+        "title": "10 Marla Plot in Ashoka Enclave Faridabad",
+        "description": "10 Marla plots are preferred by buyers looking for larger homes and premium living standards. A 10 Marla plot in Ashoka Enclave Faridabad allows luxurious construction, multiple parking options, and elegant layouts in a prime locality."
+      },
+      {
+        "title": "12 Marla Plot in Ashoka Enclave Faridabad",
+        "description": "A 12 Marla plot offers generous space for luxury residences. Buyers choosing a 12 Marla plot in Ashoka Enclave Faridabad benefit from enhanced privacy, landscaped areas, and strong appreciation due to limited availability in this locality."
+      },
+      {
+        "title": "14 Marla Plot in Ashoka Enclave Faridabad",
+        "description": "14 Marla plots represent premium residential land options in Ashoka Enclave. A 14 Marla plot in Ashoka Enclave Faridabad is ideal for high-end independent homes and offers excellent long-term investment and resale value."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Residential Plots in Ashoka Enclave Faridabad and Nearby Areas",
+    "description": [
+      "Buyers searching for a plot in Ashoka Enclave Faridabad often explore nearby premium localities to compare pricing, availability, and lifestyle offerings.",
+      "Exploring surrounding areas helps buyers make informed decisions while understanding the unique advantages of Ashoka Enclave."
+    ],
+    "locations": [
+      { "title": "Plot in Ashoka Enclave Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 15 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 16 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 21C Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Residential Plot in Central Faridabad", "path": "/", "icon": "Layers" },
+      { "title": "Residential Land for Sale in Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Premium Residential Property in Faridabad", "path": "/", "icon": "Home" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Ashoka Enclave",
+    "description": [
+      "Buying a plot in a premium locality like Ashoka Enclave Faridabad requires accurate information, legal transparency, and expert guidance. Deal Acres ensures buyers get verified and trustworthy plot listings.",
+      "With a strong reputation and customer-first approach, Deal Acres has become a preferred platform for premium residential plot buyers."
+    ],
+    "points": [
+      {
+        "title": "Verified Premium Listings",
+        "description": "All plots are verified for ownership, approvals, and documentation."
+      },
+      {
+        "title": "Transparent Dealings",
+        "description": "Clear pricing with no hidden costs or surprises."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Deep understanding of Ashoka Enclave Faridabad property trends."
+      },
+      {
+        "title": "Exclusive Plot Options",
+        "description": "Access to limited and premium plot listings."
+      },
+      {
+        "title": "Customer-Centric Platform",
+        "description": "Designed to solve real buyer concerns efficiently."
+      },
+      {
+        "title": "Easy Property Discovery",
+        "description": "Simple and quick access to genuine listings."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Complete assistance from search to registration."
+      },
+      {
+        "title": "Trusted by Premium Buyers",
+        "description": "Deal Acres is a trusted name among serious homebuyers."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Ashoka Enclave Faridabad",
+    "description": "Clear and detailed answers to help buyers make confident decisions.",
+    "faqs": [
+      {
+        "question": "Is Ashoka Enclave a good area to buy a plot?",
+        "answer": "Yes, Ashoka Enclave Faridabad is a premium and well-established locality with excellent connectivity, making it ideal for both residential use and long-term investment."
+      },
+      {
+        "question": "What plot sizes are available in Ashoka Enclave?",
+        "answer": "Plots in Ashoka Enclave Faridabad are available in multiple sizes ranging from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Are plots in Ashoka Enclave legally approved?",
+        "answer": "Most plots listed through trusted platforms like Deal Acres are verified for ownership, approvals, and legal documentation."
+      },
+      {
+        "question": "Is Ashoka Enclave suitable for families?",
+        "answer": "Yes, the area offers a peaceful and secure environment with access to schools, hospitals, and daily-use amenities."
+      },
+      {
+        "question": "How is connectivity from Ashoka Enclave?",
+        "answer": "Ashoka Enclave enjoys excellent connectivity to Mathura Road, Delhi, and major parts of Faridabad."
+      },
+      {
+        "question": "Can I build my own house on the plot?",
+        "answer": "Yes, residential plots allow construction as per approved building norms and personal requirements."
+      },
+      {
+        "question": "Are plots in Ashoka Enclave good for investment?",
+        "answer": "Due to limited supply and high demand, plots in Ashoka Enclave offer strong appreciation and resale value."
+      },
+      {
+        "question": "What amenities are nearby?",
+        "answer": "The locality is close to schools, hospitals, malls, parks, and commercial areas."
+      },
+      {
+        "question": "What factors affect plot prices here?",
+        "answer": "Plot size, location, road access, and demand influence plot prices in Ashoka Enclave Faridabad."
+      },
+      {
+        "question": "How does Deal Acres help buyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, and complete support throughout the buying process."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help to Buy Plots in Ashoka Enclave Faridabad",
+    "description": [
+      "Buying a plot in Ashoka Enclave Faridabad becomes smooth and secure with expert assistance and reliable market insights. Professional guidance helps you choose the right plot while avoiding legal and pricing issues.",
+      "Share your details to connect with experienced property advisors who will assist you throughout your premium plot-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "domain": "Affordable house.com",
+
+  "hero": {
+    "title": "Affordable and Well-Connected Independent Houses for Sale in Sector 5 Faridabad",
+    "description": [
+      "Sector 5 Faridabad is a well-established residential locality known for its central location, planned layout, and everyday convenience. Buyers searching for an affordable house in Sector 5 Faridabad are drawn to this area due to its proximity to Old Faridabad, Mathura Road, and key commercial and residential zones. The sector offers smooth road connectivity, access to public transport, and a peaceful neighborhood suitable for families.",
+      "Affordable houses in Sector 5 Faridabad are ideal for homebuyers looking for independent living in a developed area. The locality is surrounded by schools, hospitals, local markets, parks, and essential services, making daily life comfortable and hassle-free. With stable infrastructure, consistent housing demand, and practical pricing, Sector 5 remains a dependable choice for long-term residential living in Faridabad."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses in Sector 5",
+        "path": "/"
+      },
+      {
+        "label": "Get Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Plot Size Options Available in Sector 5 Faridabad",
+    "description": [
+      "Choosing the right plot size plays an important role when planning to buy an independent house. Affordable house options in Sector 5 Faridabad are available in multiple plot sizes, allowing buyers to choose according to budget, family size, and future needs.",
+      "From compact houses for small families to larger homes designed for comfortable long-term living, Sector 5 offers well-planned plot sizes with efficient layouts, good ventilation, and easy access to nearby amenities."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House in Sector 5 Faridabad",
+        "description": "4 Marla houses are suitable for small families and first-time homebuyers looking for budget-friendly options. These homes offer compact layouts, essential living spaces, and easy maintenance. A 4 Marla affordable house in Sector 5 Faridabad is a practical entry-level choice."
+      },
+      {
+        "title": "6 Marla Affordable House in Sector 5 Faridabad",
+        "description": "6 Marla houses provide a balanced mix of affordability and usable living space. These homes usually include additional bedrooms, better ventilation, and parking space. A 6 Marla affordable house in Sector 5 Faridabad works well for growing families."
+      },
+      {
+        "title": "8 Marla Affordable House in Sector 5 Faridabad",
+        "description": "8 Marla houses allow better interior planning and comfortable living areas. These homes offer improved privacy and flexible layouts. An 8 Marla affordable house in Sector 5 Faridabad supports modern family living needs."
+      },
+      {
+        "title": "10 Marla Affordable House in Sector 5 Faridabad",
+        "description": "10 Marla houses are preferred by buyers seeking spacious interiors and organized layouts. These homes provide ample living space and parking convenience. A 10 Marla affordable house in Sector 5 Faridabad enhances everyday comfort."
+      },
+      {
+        "title": "12 Marla Affordable House in Sector 5 Faridabad",
+        "description": "12 Marla houses are ideal for larger families who require multiple rooms and better privacy. These homes offer good airflow and customization scope. A 12 Marla affordable house in Sector 5 Faridabad ensures long-term comfort."
+      },
+      {
+        "title": "14 Marla Affordable House in Sector 5 Faridabad",
+        "description": "14 Marla houses provide premium independent living space in a developed residential sector. These homes support spacious layouts and future expansion. A 14 Marla affordable house in Sector 5 Faridabad offers long-term value and stability."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses in Sector 5 and Nearby Localities",
+    "description": [
+      "Homebuyers looking for an affordable house in Sector 5 Faridabad often explore nearby sectors to compare prices, connectivity, and residential facilities.",
+      "Exploring surrounding areas helps buyers select the most suitable affordable housing option based on lifestyle preferences and budget."
+    ],
+    "locations": [
+      { "title": "Affordable House in Sector 5 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 3 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in Sector 7 Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Affordable House in NIT Faridabad", "path": "/", "icon": "Home" },
+      { "title": "Independent House for Sale", "path": "/", "icon": "Building" },
+      { "title": "Builder Floor for Sale", "path": "/", "icon": "Layers" },
+      { "title": "Residential Property for Sale", "path": "/", "icon": "MapPin" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Affordable Houses",
+    "description": [
+      "Finding a genuine affordable house in Sector 5 Faridabad requires verified listings and transparent information. Deal Acres ensures buyers receive accurate property details they can trust.",
+      "With strong local market expertise and a buyer-first approach, Deal Acres simplifies the home-buying journey and delivers a reliable experience."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All properties are verified for ownership, legality, and authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing information with no hidden or misleading costs."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth knowledge of Sector 5 and surrounding localities."
+      },
+      {
+        "title": "Wide Plot Size Options",
+        "description": "Affordable houses available across multiple plot sizes."
+      },
+      {
+        "title": "Customer-Centric Platform",
+        "description": "Built to solve real problems faced by homebuyers."
+      },
+      {
+        "title": "Quick Property Search",
+        "description": "Easy access to relevant and verified listings."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from property shortlisting to final possession."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Deal Acres is a preferred platform for affordable housing."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Sector 5",
+    "description": "Detailed answers to help buyers make informed and confident decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 5 Faridabad a good area to buy a house?",
+        "answer": "Yes, Sector 5 is a well-established residential area with good connectivity and essential facilities nearby."
+      },
+      {
+        "question": "What plot sizes are available in Sector 5?",
+        "answer": "Affordable houses in Sector 5 Faridabad are available from 4 Marla to 14 Marla plot sizes."
+      },
+      {
+        "question": "Is Sector 5 suitable for families?",
+        "answer": "Yes, the locality offers a safe, peaceful, and family-friendly environment."
+      },
+      {
+        "question": "How is connectivity from Sector 5?",
+        "answer": "Sector 5 has good road connectivity to Old Faridabad, Mathura Road, and nearby sectors."
+      },
+      {
+        "question": "Are schools and hospitals nearby?",
+        "answer": "Yes, schools, hospitals, clinics, and medical facilities are easily accessible."
+      },
+      {
+        "question": "Are these houses suitable for first-time buyers?",
+        "answer": "Yes, affordable pricing and practical layouts make them ideal for first-time homebuyers."
+      },
+      {
+        "question": "Can houses be customized after purchase?",
+        "answer": "Many properties allow customization as per local building norms."
+      },
+      {
+        "question": "Is Sector 5 good for long-term investment?",
+        "answer": "Stable residential demand and central location support long-term property value."
+      },
+      {
+        "question": "What factors affect property prices in Sector 5?",
+        "answer": "Plot size, construction quality, location, and nearby amenities influence property prices."
+      },
+      {
+        "question": "How does Deal Acres help buyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, and complete buying support."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance to Buy Affordable Houses in Sector 5 Faridabad",
+    "description": [
+      "Buying an affordable house in Sector 5 Faridabad requires the right information and professional guidance. Expert assistance helps buyers avoid confusion and make the right decision.",
+      "Share your details to connect with experienced property advisors who will guide you through every step of your home-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}
