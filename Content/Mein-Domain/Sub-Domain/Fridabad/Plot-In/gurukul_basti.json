@@ -1,0 +1,174 @@
+{
+  "domain": "Plot.com",
+
+  "hero": {
+    "title": "Residential Plots for Sale in Well Connected Gurukul Basti Faridabad",
+    "description": [
+      "Gurukul Basti Faridabad is an emerging residential locality known for its convenient location, affordable property options, and easy access to essential city amenities. Buyers looking for a plot in Gurukul Basti Faridabad prefer this area due to its proximity to main roads, nearby markets, schools, hospitals, and daily-need facilities. The locality offers a simple yet practical residential environment, making it suitable for families planning to build independent homes within city limits.",
+      "Plots in Gurukul Basti Faridabad are ideal for both end-use and long-term investment. The area is witnessing gradual development, improved infrastructure, and increasing residential demand. With growing connectivity, availability of multiple plot sizes, and a community-focused neighborhood, Gurukul Basti presents a good opportunity for buyers seeking value-driven residential land in Faridabad."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Gurukul Basti",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in Gurukul Basti Faridabad",
+    "description": [
+      "Choosing the right plot size plays an important role when planning a home or investing in residential land. Gurukul Basti Faridabad offers multiple plot size options to match different family requirements, construction plans, and budget preferences.",
+      "Whether you are looking for a compact plot for practical living or a larger plot for a spacious independent house, plots in Gurukul Basti Faridabad provide flexibility, affordability, and long-term residential value."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Gurukul Basti Faridabad",
+        "description": "A 4 Marla plot in Gurukul Basti Faridabad is suitable for buyers seeking an affordable residential option. These plots allow efficient space planning, easy maintenance, and good future resale potential."
+      },
+      {
+        "title": "6 Marla Plot in Gurukul Basti Faridabad",
+        "description": "6 Marla plots offer a balanced combination of space and budget. A 6 Marla plot in Gurukul Basti Faridabad supports comfortable home layouts with parking and functional living areas."
+      },
+      {
+        "title": "8 Marla Plot in Gurukul Basti Faridabad",
+        "description": "An 8 Marla plot in Gurukul Basti Faridabad provides ample space for modern home designs, proper ventilation, and long-term family living."
+      },
+      {
+        "title": "10 Marla Plot in Gurukul Basti Faridabad",
+        "description": "10 Marla plots are ideal for buyers planning spacious independent homes with better privacy and flexible architectural designs."
+      },
+      {
+        "title": "12 Marla Plot in Gurukul Basti Faridabad",
+        "description": "A 12 Marla plot offers generous space for premium residential construction and comfortable living."
+      },
+      {
+        "title": "14 Marla Plot in Gurukul Basti Faridabad",
+        "description": "14 Marla plots represent premium residential land options suitable for large homes and strong long-term appreciation."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Residential Plots in Gurukul Basti Faridabad and Nearby Areas",
+    "description": [
+      "Buyers interested in a plot in Gurukul Basti Faridabad often explore nearby localities to compare connectivity, pricing, and development prospects.",
+      "This helps buyers understand the advantages of Gurukul Basti as a practical and budget-friendly residential location in Faridabad."
+    ],
+    "locations": [
+      { "title": "Plot in Gurukul Basti Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 31 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 30 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Jawahar Colony Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Residential Plot in Central Faridabad", "path": "/", "icon": "Layers" },
+      { "title": "Residential Land for Sale in Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Faridabad", "path": "/", "icon": "Home" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Gurukul Basti Faridabad",
+    "description": [
+      "Buying a residential plot in an upcoming area like Gurukul Basti Faridabad requires verified listings, legal clarity, and local market understanding. Deal Acres focuses on providing reliable and transparent property information.",
+      "With a customer-first approach and strong on-ground expertise, Deal Acres has become a trusted platform for buyers seeking genuine residential plot options in Faridabad."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are verified for ownership and legal documentation."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Accurate insights into Gurukul Basti Faridabad property trends."
+      },
+      {
+        "title": "Multiple Plot Size Options",
+        "description": "Wide range of plot sizes to suit different needs."
+      },
+      {
+        "title": "Customer-Focused Platform",
+        "description": "Designed to solve real buyer concerns efficiently."
+      },
+      {
+        "title": "Easy Property Discovery",
+        "description": "Quick access to genuine and relevant plot listings."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Assistance from plot selection to registration."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Deal Acres is trusted by numerous homebuyers and investors."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Gurukul Basti Faridabad",
+    "description": "Detailed and user-friendly answers to common questions about buying residential plots.",
+    "faqs": [
+      {
+        "question": "Is Gurukul Basti Faridabad a good location to buy a plot?",
+        "answer": "Yes, Gurukul Basti is a developing residential area offering affordable plot options and good city connectivity."
+      },
+      {
+        "question": "What plot sizes are available in Gurukul Basti Faridabad?",
+        "answer": "Plots are generally available from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Are plots in Gurukul Basti legally approved?",
+        "answer": "Plots listed through trusted platforms like Deal Acres are verified for ownership and approvals."
+      },
+      {
+        "question": "Is Gurukul Basti suitable for family living?",
+        "answer": "Yes, the locality offers a peaceful environment with access to essential amenities."
+      },
+      {
+        "question": "How is connectivity from Gurukul Basti Faridabad?",
+        "answer": "The area has good connectivity to main roads, markets, and nearby sectors."
+      },
+      {
+        "question": "Can I build my own house on the plot?",
+        "answer": "Yes, construction is allowed as per local authority building norms."
+      },
+      {
+        "question": "Is Gurukul Basti good for long-term investment?",
+        "answer": "With ongoing development and rising demand, the area offers long-term investment potential."
+      },
+      {
+        "question": "What amenities are available near Gurukul Basti?",
+        "answer": "Schools, hospitals, markets, and public transport facilities are easily accessible."
+      },
+      {
+        "question": "What factors affect plot prices in Gurukul Basti Faridabad?",
+        "answer": "Plot size, road access, location, and market demand influence pricing."
+      },
+      {
+        "question": "How does Deal Acres help plot buyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, transparent pricing, and complete buying support."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Assistance to Buy Plots in Gurukul Basti Faridabad",
+    "description": [
+      "Buying a plot in Gurukul Basti Faridabad becomes smooth and secure with professional guidance and accurate market insights. Expert support helps buyers avoid legal and pricing risks.",
+      "Share your details to connect with experienced property advisors who will assist you throughout your plot-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

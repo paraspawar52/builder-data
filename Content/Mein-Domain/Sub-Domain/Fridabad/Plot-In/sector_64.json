@@ -1,0 +1,175 @@
+{
+  "domain": "Plot.com",
+
+  "hero": {
+    "title": "Residential Plots for Sale in Well Connected Sector 64 Faridabad",
+    "description": [
+      "Sector 64 Faridabad is a fast-developing residential locality known for its modern planning, smooth road connectivity, and proximity to major growth corridors. Buyers searching for a plot in Sector 64 Faridabad are attracted by its organized layout, wide internal roads, and emerging residential infrastructure. The sector offers a balanced environment with planned development, making it suitable for families looking to build independent homes in a peaceful yet well-connected location.",
+      "Plots in Sector 64 Faridabad are gaining attention from both end-users and investors due to increasing development activity and future growth potential. The locality enjoys good connectivity to NH-19, major sectors of Faridabad, and nearby commercial hubs. With improving civic amenities, upcoming infrastructure projects, and steady demand, Sector 64 is becoming a preferred choice for residential plot buyers seeking long-term value."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 64",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in Sector 64 Faridabad",
+    "description": [
+      "Choosing the right plot size plays an important role in planning a comfortable home or making a secure real estate investment. Sector 64 Faridabad offers a range of residential plot sizes to meet different family requirements and budget preferences.",
+      "From compact plots for practical construction to larger plots for spacious independent homes, plots in Sector 64 Faridabad provide flexibility, efficient land usage, and strong future appreciation."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 64 Faridabad",
+        "description": "A 4 Marla plot in Sector 64 Faridabad is suitable for buyers looking for an affordable residential option. These plots allow smart home planning with lower investment and easy maintenance."
+      },
+      {
+        "title": "6 Marla Plot in Sector 64 Faridabad",
+        "description": "6 Marla plots offer a good balance between space and cost, making them ideal for families planning functional and comfortable homes."
+      },
+      {
+        "title": "8 Marla Plot in Sector 64 Faridabad",
+        "description": "An 8 Marla plot provides ample space for modern layouts, proper ventilation, and parking facilities, making it a popular choice among buyers."
+      },
+      {
+        "title": "10 Marla Plot in Sector 64 Faridabad",
+        "description": "10 Marla plots are preferred by buyers seeking larger independent homes with enhanced privacy and flexible architectural planning."
+      },
+      {
+        "title": "12 Marla Plot in Sector 64 Faridabad",
+        "description": "A 12 Marla plot supports premium residential construction with generous open areas and long-term living comfort."
+      },
+      {
+        "title": "14 Marla Plot in Sector 64 Faridabad",
+        "description": "14 Marla plots represent premium residential land options, ideal for spacious homes and strong long-term investment potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Residential Plots in Sector 64 Faridabad and Nearby Areas",
+    "description": [
+      "Buyers interested in a plot in Sector 64 Faridabad often explore nearby sectors to compare pricing, development status, and connectivity advantages.",
+      "Exploring surrounding locations helps buyers understand the growth potential and residential benefits of investing in Sector 64."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 64 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 65 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 62 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 63 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Residential Plot in Greater Faridabad", "path": "/", "icon": "Layers" },
+      { "title": "Residential Land for Sale in Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Faridabad", "path": "/", "icon": "Home" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Deal Acres Is Trusted for Plots in Sector 64 Faridabad",
+    "description": [
+      "Buying a residential plot in a developing area like Sector 64 Faridabad requires verified listings, legal clarity, and reliable market information. Deal Acres focuses on providing accurate and transparent property details.",
+      "With strong local expertise and a customer-first approach, Deal Acres has become a trusted platform for buyers looking for secure and genuine plot investments."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are verified for ownership, approvals, and legal documentation."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing details with no hidden or misleading charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Deep understanding of Sector 64 Faridabad property trends."
+      },
+      {
+        "title": "Wide Plot Size Options",
+        "description": "Multiple plot sizes available to suit different buyer needs."
+      },
+      {
+        "title": "Customer-Focused Platform",
+        "description": "Designed to address real buyer concerns with clarity and trust."
+      },
+      {
+        "title": "Easy Property Discovery",
+        "description": "Quick access to genuine and relevant plot listings."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from plot selection to documentation and registration."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Deal Acres is trusted by thousands of residential property buyers."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 64 Faridabad",
+    "description": "Detailed answers to common questions to help buyers make confident decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 64 Faridabad a good location to buy a plot?",
+        "answer": "Yes, Sector 64 is a developing residential area with good connectivity and strong future growth potential."
+      },
+      {
+        "question": "What plot sizes are available in Sector 64 Faridabad?",
+        "answer": "Plots are generally available from 4 Marla to 14 Marla, subject to availability."
+      },
+      {
+        "question": "Are plots in Sector 64 legally approved?",
+        "answer": "Most plots listed through trusted platforms are verified for ownership and legal approvals."
+      },
+      {
+        "question": "Is Sector 64 suitable for family living?",
+        "answer": "Yes, the sector offers a planned and peaceful environment suitable for families."
+      },
+      {
+        "question": "How is connectivity from Sector 64 Faridabad?",
+        "answer": "Sector 64 has good connectivity to major roads, highways, and other parts of Faridabad."
+      },
+      {
+        "question": "Can I construct my own house on the plot?",
+        "answer": "Yes, residential plots allow construction as per local authority building norms."
+      },
+      {
+        "question": "Is Sector 64 good for long-term investment?",
+        "answer": "Due to ongoing development and rising demand, Sector 64 offers good long-term appreciation potential."
+      },
+      {
+        "question": "What amenities are available nearby?",
+        "answer": "Schools, hospitals, markets, and daily convenience facilities are accessible from the sector."
+      },
+      {
+        "question": "What factors affect plot prices in Sector 64?",
+        "answer": "Plot size, location within the sector, road access, and market demand influence prices."
+      },
+      {
+        "question": "How does Deal Acres help plot buyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, transparent pricing, and complete buying support."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance to Buy Residential Plots in Sector 64 Faridabad",
+    "description": [
+      "Buying a plot in Sector 64 Faridabad becomes simpler and more secure with expert guidance and accurate market insights. Professional assistance helps buyers avoid risks and make informed decisions.",
+      "Share your details to connect with experienced property advisors who will assist you throughout your plot-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}
+s

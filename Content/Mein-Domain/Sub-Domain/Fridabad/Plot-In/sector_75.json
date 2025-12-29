@@ -1,0 +1,174 @@
+{
+  "domain": "Plot.com",
+
+  "hero": {
+    "title": "Residential Plots for Sale in Well Connected Sector 75 Faridabad",
+    "description": [
+      "Sector 75 Faridabad is a rapidly developing residential location in the Neharpar region, preferred by buyers looking for planned infrastructure and future growth. The sector is known for its wide roads, organized layout, and proximity to major highways and connecting roads. Buying a plot in Sector 75 Faridabad gives you the freedom to build your home as per your design while staying connected to key parts of Faridabad, Delhi, and Gurugram.",
+      "Plots in Sector 75 Faridabad are gaining attention from both homebuyers and investors due to continuous development and improving civic amenities. The area is surrounded by schools, hospitals, shopping complexes, and upcoming commercial hubs, making everyday life convenient. With affordable entry pricing, open surroundings, and long-term appreciation potential, Sector 75 is emerging as a smart choice for residential plot buyers in Faridabad."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 75",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in Sector 75 Faridabad",
+    "description": [
+      "Choosing the right plot size is an important decision when planning your home or making a secure property investment. Sector 75 Faridabad offers multiple residential plot size options that suit different budgets, family sizes, and construction plans.",
+      "From compact plots for first-time buyers to larger land parcels for spacious independent houses, plots in Sector 75 Faridabad provide flexibility, legal clarity, and strong future value."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 75 Faridabad",
+        "description": "A 4 Marla plot in Sector 75 Faridabad is ideal for small families and first-time buyers. These plots are budget-friendly and allow efficient construction of a comfortable home with low maintenance and good resale potential."
+      },
+      {
+        "title": "6 Marla Plot in Sector 75 Faridabad",
+        "description": "6 Marla plots offer a balanced combination of space and affordability. A 6 Marla plot in Sector 75 Faridabad allows better room planning, parking space, and flexibility for future expansion."
+      },
+      {
+        "title": "8 Marla Plot in Sector 75 Faridabad",
+        "description": "An 8 Marla plot in Sector 75 Faridabad provides ample space for modern home designs. Buyers can plan spacious interiors, open areas, and proper ventilation for comfortable family living."
+      },
+      {
+        "title": "10 Marla Plot in Sector 75 Faridabad",
+        "description": "10 Marla plots are preferred by buyers looking for larger homes and improved privacy. A 10 Marla plot in Sector 75 Faridabad supports premium layouts and better lifestyle comfort."
+      },
+      {
+        "title": "12 Marla Plot in Sector 75 Faridabad",
+        "description": "A 12 Marla plot offers generous space for luxury residential construction. Buyers choosing a 12 Marla plot in Sector 75 Faridabad benefit from flexible design options and strong long-term appreciation."
+      },
+      {
+        "title": "14 Marla Plot in Sector 75 Faridabad",
+        "description": "14 Marla plots represent premium residential land options. A 14 Marla plot in Sector 75 Faridabad is ideal for spacious independent homes and offers excellent investment and resale value."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Residential Plots in Sector 75 Faridabad and Nearby Areas",
+    "description": [
+      "Buyers searching for a plot in Sector 75 Faridabad often explore nearby sectors to compare pricing, infrastructure, and growth prospects.",
+      "Exploring surrounding locations helps buyers make informed decisions while understanding the development potential of Sector 75."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 75 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 74 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 76 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 78 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Residential Plot in Neharpar Faridabad", "path": "/", "icon": "Layers" },
+      { "title": "Residential Land for Sale in Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Faridabad", "path": "/", "icon": "Home" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 75 Faridabad",
+    "description": [
+      "Buying a residential plot requires verified listings, transparent pricing, and expert local guidance. Deal Acres ensures buyers receive accurate and reliable information for plots in Sector 75 Faridabad.",
+      "With a customer-first approach and deep understanding of the Faridabad real estate market, Deal Acres has become a trusted platform for residential plot buyers."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are verified for ownership, approvals, and legal documentation."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden charges or last-minute surprises."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong knowledge of Sector 75 Faridabad property trends."
+      },
+      {
+        "title": "Multiple Plot Options",
+        "description": "Wide range of plot sizes to suit different buyer needs."
+      },
+      {
+        "title": "Customer-Centric Platform",
+        "description": "Designed to solve real buyer concerns efficiently."
+      },
+      {
+        "title": "Easy Property Discovery",
+        "description": "Quick access to genuine and relevant plot listings."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Complete assistance from plot selection to registration."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Deal Acres is trusted by thousands of satisfied property buyers."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 75 Faridabad",
+    "description": "Clear and detailed answers to help buyers make confident plot-buying decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 75 Faridabad a good location to buy a plot?",
+        "answer": "Yes, Sector 75 Faridabad is a developing residential area with planned infrastructure, good connectivity, and strong future appreciation potential."
+      },
+      {
+        "question": "What plot sizes are available in Sector 75 Faridabad?",
+        "answer": "Plots in Sector 75 Faridabad are available in sizes ranging from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Are plots in Sector 75 legally approved?",
+        "answer": "Most plots listed through trusted platforms like Deal Acres are verified for legal approvals and ownership clarity."
+      },
+      {
+        "question": "Is Sector 75 suitable for families?",
+        "answer": "Yes, the area offers a peaceful residential environment with schools, hospitals, and daily-use amenities nearby."
+      },
+      {
+        "question": "How is connectivity from Sector 75 Faridabad?",
+        "answer": "Sector 75 enjoys good connectivity to major roads, highways, and nearby sectors of Faridabad."
+      },
+      {
+        "question": "Can I build my own house on the plot?",
+        "answer": "Yes, residential plots allow buyers to construct homes as per approved building bylaws."
+      },
+      {
+        "question": "Is Sector 75 good for long-term investment?",
+        "answer": "With ongoing development in Greater Faridabad, plots in Sector 75 offer strong long-term investment potential."
+      },
+      {
+        "question": "What amenities are available nearby?",
+        "answer": "Schools, hospitals, shopping complexes, parks, and public transport facilities are easily accessible."
+      },
+      {
+        "question": "What factors affect plot prices in Sector 75?",
+        "answer": "Plot size, exact location, road access, nearby amenities, and market demand influence plot prices."
+      },
+      {
+        "question": "How does Deal Acres help plot buyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, transparent pricing, and end-to-end buying support."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance to Buy Residential Plots in Sector 75 Faridabad",
+    "description": [
+      "Buying a plot in Sector 75 Faridabad becomes easy and secure with expert assistance and reliable market insights. Professional guidance helps you choose the right plot while avoiding legal and pricing challenges.",
+      "Share your details to connect with experienced property advisors who will support you at every step of your plot-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

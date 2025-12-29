@@ -1,0 +1,174 @@
+{
+  "domain": "Plot.com",
+
+  "hero": {
+    "title": "Residential Plots for Sale in Prime Sector 11 Faridabad",
+    "description": [
+      "Sector 11 Faridabad is a centrally located and well-developed residential area known for its mature infrastructure, wide roads, and peaceful surroundings. Buyers searching for a plot in Sector 11 Faridabad prefer this locality due to its excellent connectivity to Mathura Road, NH-44, and major commercial hubs of Faridabad and Delhi. The sector offers a balanced lifestyle with established civic amenities and a stable residential environment.",
+      "Plots in Sector 11 Faridabad are limited in availability, which enhances their demand among homebuyers and long-term investors. The area is surrounded by reputed schools, hospitals, local markets, parks, and reliable public transport options. With consistent property appreciation, strong neighborhood planning, and everyday convenience, Sector 11 remains a trusted choice for purchasing residential land in Faridabad."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 11",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in Sector 11 Faridabad",
+    "description": [
+      "Selecting the right plot size is an important step when planning a home or making a long-term real estate investment. Sector 11 Faridabad offers multiple residential plot sizes to meet diverse family requirements, construction preferences, and budget considerations.",
+      "From compact plots for efficient living to larger land parcels for spacious independent homes, plots in Sector 11 Faridabad provide flexibility, privacy, and stable long-term value in a well-established locality."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 11 Faridabad",
+        "description": "A 4 Marla plot in Sector 11 Faridabad is ideal for buyers seeking an affordable residential option in a central location. These plots support compact home designs, easy maintenance, and steady resale demand."
+      },
+      {
+        "title": "6 Marla Plot in Sector 11 Faridabad",
+        "description": "6 Marla plots offer a practical balance of space and budget. A 6 Marla plot in Sector 11 Faridabad allows comfortable home layouts, parking space, and suitability for small to mid-sized families."
+      },
+      {
+        "title": "8 Marla Plot in Sector 11 Faridabad",
+        "description": "An 8 Marla plot in Sector 11 Faridabad provides flexibility for modern home construction. Buyers can plan spacious interiors, proper ventilation, and enhanced privacy for long-term living."
+      },
+      {
+        "title": "10 Marla Plot in Sector 11 Faridabad",
+        "description": "10 Marla plots are preferred by buyers planning larger independent homes. A 10 Marla plot in Sector 11 Faridabad supports premium layouts, multiple floors, and improved lifestyle comfort."
+      },
+      {
+        "title": "12 Marla Plot in Sector 11 Faridabad",
+        "description": "A 12 Marla plot offers generous space for luxury residential construction. Buyers benefit from design flexibility, open areas, and strong long-term appreciation in Sector 11 Faridabad."
+      },
+      {
+        "title": "14 Marla Plot in Sector 11 Faridabad",
+        "description": "14 Marla plots represent premium residential land options. A 14 Marla plot in Sector 11 Faridabad is suitable for large independent homes and offers excellent investment and resale potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Residential Plots in Sector 11 Faridabad and Nearby Areas",
+    "description": [
+      "Buyers looking for a plot in Sector 11 Faridabad often explore nearby central sectors to compare pricing, availability, and connectivity benefits.",
+      "Reviewing surrounding locations helps buyers understand why Sector 11 continues to be a preferred residential destination in Faridabad."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 11 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 10 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 15 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 16 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Residential Plot in Central Faridabad", "path": "/", "icon": "Layers" },
+      { "title": "Residential Land for Sale in Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Faridabad", "path": "/", "icon": "Home" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 11 Faridabad",
+    "description": [
+      "Buying a residential plot in a prime and established area like Sector 11 Faridabad requires accurate information, legal clarity, and expert guidance. Deal Acres ensures buyers receive verified and reliable plot listings.",
+      "With strong local market expertise and a customer-first approach, Deal Acres has become a trusted platform for buyers seeking genuine residential plot options in Faridabad."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are verified for ownership, approvals, and legal documentation."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear and honest pricing with no hidden charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth knowledge of Sector 11 Faridabad property trends."
+      },
+      {
+        "title": "Wide Plot Size Options",
+        "description": "Multiple plot sizes available to suit different buyer needs."
+      },
+      {
+        "title": "Customer-Centric Platform",
+        "description": "Designed to address real buyer concerns effectively."
+      },
+      {
+        "title": "Easy Property Discovery",
+        "description": "Quick access to relevant and genuine plot listings."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Complete assistance from plot selection to registration."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Deal Acres is trusted by thousands of property buyers."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 11 Faridabad",
+    "description": "Detailed answers to common buyer questions to help you make informed property decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 11 Faridabad a good location to buy a plot?",
+        "answer": "Yes, Sector 11 Faridabad is a centrally located and well-developed residential area offering strong infrastructure and long-term value."
+      },
+      {
+        "question": "What plot sizes are available in Sector 11 Faridabad?",
+        "answer": "Plots in Sector 11 Faridabad are generally available from 4 Marla to 14 Marla, subject to availability."
+      },
+      {
+        "question": "Are plots in Sector 11 legally approved?",
+        "answer": "Most plots listed through trusted platforms like Deal Acres are verified for ownership and legal approvals."
+      },
+      {
+        "question": "Is Sector 11 suitable for family living?",
+        "answer": "Yes, the area offers a peaceful and secure environment with schools, hospitals, and parks nearby."
+      },
+      {
+        "question": "How is connectivity from Sector 11 Faridabad?",
+        "answer": "Sector 11 has excellent connectivity to Mathura Road, NH-44, Delhi, and other major parts of Faridabad."
+      },
+      {
+        "question": "Can I build my own house on the plot?",
+        "answer": "Yes, residential plots allow buyers to construct homes as per approved building bylaws."
+      },
+      {
+        "question": "Is Sector 11 good for long-term investment?",
+        "answer": "Limited plot availability and steady demand make Sector 11 a strong long-term investment option."
+      },
+      {
+        "question": "What amenities are available nearby?",
+        "answer": "The locality offers access to schools, hospitals, markets, parks, and public transport facilities."
+      },
+      {
+        "question": "What factors influence plot prices in Sector 11?",
+        "answer": "Plot size, location within the sector, road access, and market demand affect pricing."
+      },
+      {
+        "question": "How does Deal Acres help plot buyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, transparent information, and complete buying support."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance to Buy Residential Plots in Sector 11 Faridabad",
+    "description": [
+      "Buying a plot in Sector 11 Faridabad becomes safer and simpler with expert assistance and reliable market insights. Professional guidance helps buyers avoid legal risks and choose the right plot.",
+      "Share your details to connect with experienced property advisors who will support you throughout your plot-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

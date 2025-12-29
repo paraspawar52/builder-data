@@ -1,0 +1,174 @@
+{
+  "domain": "Plot.com",
+
+  "hero": {
+    "title": "Residential Plots for Sale in Well Connected Sector 83 Faridabad",
+    "description": [
+      "Sector 83 Faridabad is a rapidly developing residential location in the Neharpar region, known for its planned infrastructure, wide roads, and peaceful surroundings. Buyers looking for a plot in Sector 83 Faridabad are attracted by the area’s organized layout and improving connectivity to major roads, highways, and nearby sectors. The location offers a balanced lifestyle with open spaces while still being close to essential city conveniences.",
+      "Plots in Sector 83 Faridabad are ideal for both homebuyers and investors who want long-term value. The sector is surrounded by schools, hospitals, shopping complexes, and upcoming commercial developments, making it suitable for comfortable living. With continuous infrastructure upgrades and rising demand in Neharpar Faridabad, Sector 83 is emerging as a smart choice for those planning to build a home or invest in residential land."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 83",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in Sector 83 Faridabad",
+    "description": [
+      "Selecting the right plot size is an important step when planning your future home or property investment. Sector 83 Faridabad offers a variety of residential plot sizes that suit different family requirements, budgets, and construction plans.",
+      "From compact plots for small families to larger land parcels for spacious homes, plots in Sector 83 Faridabad provide flexibility, legal clarity, and long-term value in a fast-growing residential environment."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 83 Faridabad",
+        "description": "A 4 Marla plot in Sector 83 Faridabad is suitable for small families and first-time buyers. These plots offer affordability and efficient space utilization, making them ideal for building a comfortable independent home with easy maintenance."
+      },
+      {
+        "title": "6 Marla Plot in Sector 83 Faridabad",
+        "description": "6 Marla plots provide a balanced option between space and budget. A 6 Marla plot in Sector 83 Faridabad allows better room planning, parking space, and flexibility for future modifications."
+      },
+      {
+        "title": "8 Marla Plot in Sector 83 Faridabad",
+        "description": "An 8 Marla plot in Sector 83 Faridabad offers ample space for modern home designs. Buyers can plan spacious interiors, proper ventilation, and open areas, making it ideal for long-term family living."
+      },
+      {
+        "title": "10 Marla Plot in Sector 83 Faridabad",
+        "description": "10 Marla plots are preferred by buyers seeking larger homes and better privacy. A 10 Marla plot in Sector 83 Faridabad supports premium layouts, multiple parking options, and improved lifestyle comfort."
+      },
+      {
+        "title": "12 Marla Plot in Sector 83 Faridabad",
+        "description": "A 12 Marla plot offers generous space for luxury residential construction. Buyers choosing a 12 Marla plot in Sector 83 Faridabad benefit from flexible design options and strong resale potential."
+      },
+      {
+        "title": "14 Marla Plot in Sector 83 Faridabad",
+        "description": "14 Marla plots represent premium residential land options. A 14 Marla plot in Sector 83 Faridabad is ideal for spacious independent homes and offers excellent long-term investment value."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Residential Plots in Sector 83 Faridabad and Nearby Areas",
+    "description": [
+      "Buyers searching for a plot in Sector 83 Faridabad often explore nearby sectors to compare pricing, connectivity, and future development prospects.",
+      "Exploring surrounding locations helps buyers make informed decisions while understanding the growth potential of Sector 83."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 83 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 82 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 84 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 85 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Residential Plot in Neharpar Faridabad", "path": "/", "icon": "Layers" },
+      { "title": "Residential Land for Sale in Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Faridabad", "path": "/", "icon": "Home" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 83 Faridabad",
+    "description": [
+      "Buying a residential plot requires verified listings, transparent pricing, and expert guidance. Deal Acres ensures buyers receive accurate and reliable information for plots in Sector 83 Faridabad.",
+      "With a customer-first approach and strong local market expertise, Deal Acres has become a preferred platform for residential plot buyers."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are verified for ownership, approvals, and legal documentation."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden charges or surprises."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth knowledge of Sector 83 Faridabad property trends."
+      },
+      {
+        "title": "Multiple Plot Options",
+        "description": "Wide range of plot sizes to match different buyer needs."
+      },
+      {
+        "title": "Customer-Centric Platform",
+        "description": "Designed to address real buyer concerns effectively."
+      },
+      {
+        "title": "Easy Property Discovery",
+        "description": "Quick access to genuine and relevant plot listings."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Complete assistance from plot selection to registration."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Deal Acres is trusted by thousands of property buyers."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 83 Faridabad",
+    "description": "Detailed answers to common questions to help buyers make confident plot-buying decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 83 Faridabad a good location to buy a plot?",
+        "answer": "Yes, Sector 83 Faridabad is a developing residential area with planned infrastructure, good connectivity, and strong future appreciation potential."
+      },
+      {
+        "question": "What plot sizes are available in Sector 83 Faridabad?",
+        "answer": "Plots in Sector 83 Faridabad are available from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Are plots in Sector 83 legally approved?",
+        "answer": "Most plots listed through trusted platforms like Deal Acres are verified for legal approvals and ownership clarity."
+      },
+      {
+        "question": "Is Sector 83 suitable for families?",
+        "answer": "Yes, the area offers a peaceful environment with nearby schools, hospitals, and daily-use amenities."
+      },
+      {
+        "question": "How is connectivity from Sector 83 Faridabad?",
+        "answer": "Sector 83 enjoys good connectivity to major roads, highways, and nearby sectors of Faridabad."
+      },
+      {
+        "question": "Can I build my own house on the plot?",
+        "answer": "Yes, residential plots allow construction as per approved building norms."
+      },
+      {
+        "question": "Is Sector 83 good for long-term investment?",
+        "answer": "With ongoing development in Neharpar Faridabad, plots in Sector 83 offer good long-term investment potential."
+      },
+      {
+        "question": "What amenities are available nearby?",
+        "answer": "Schools, hospitals, shopping areas, parks, and public transport facilities are easily accessible."
+      },
+      {
+        "question": "What factors affect plot prices in Sector 83?",
+        "answer": "Plot size, location within the sector, road access, and nearby amenities influence plot prices."
+      },
+      {
+        "question": "How does Deal Acres assist plot buyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, and complete support throughout the plot-buying process."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance to Buy Residential Plots in Sector 83 Faridabad",
+    "description": [
+      "Buying a plot in Sector 83 Faridabad becomes easier with expert support and reliable market insights. Professional assistance helps you choose the right plot while avoiding legal and pricing challenges.",
+      "Share your details to connect with experienced property advisors who will guide you through every step of your plot-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

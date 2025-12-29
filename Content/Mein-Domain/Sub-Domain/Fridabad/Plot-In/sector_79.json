@@ -1,0 +1,174 @@
+{
+  "domain": "Plot.com",
+
+  "hero": {
+    "title": "Residential Plots for Sale in Well Connected Sector 79 Faridabad",
+    "description": [
+      "Sector 79 Faridabad is a fast-developing residential locality in the Greater Faridabad (Neharpar) region, known for its planned infrastructure and improving connectivity. Buyers looking for a plot in Sector 79 Faridabad are attracted by the sector’s organized layout, wide internal roads, and easy access to NH-44 and nearby developed sectors. The area offers a peaceful environment while staying connected to major parts of Faridabad and Delhi.",
+      "Plots in Sector 79 Faridabad are suitable for families planning to build their own homes as well as investors looking for long-term growth. The locality is surrounded by upcoming residential projects, schools, hospitals, shopping areas, and green spaces. With continuous development and rising demand in Neharpar Faridabad, Sector 79 is emerging as a promising and future-ready location for residential plot buyers."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 79",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in Sector 79 Faridabad",
+    "description": [
+      "Choosing the right plot size is an important step when planning your dream home or making a secure property investment. Sector 79 Faridabad offers multiple residential plot size options to suit different budgets, family needs, and construction preferences.",
+      "From compact plots for affordable homes to larger plots for spacious independent houses, plots in Sector 79 Faridabad provide flexibility, usability, and strong long-term value."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 79 Faridabad",
+        "description": "A 4 Marla plot in Sector 79 Faridabad is ideal for small families and first-time buyers. These plots allow efficient construction, easy maintenance, and affordable entry into property ownership."
+      },
+      {
+        "title": "6 Marla Plot in Sector 79 Faridabad",
+        "description": "6 Marla plots offer a balanced mix of affordability and usable space. A 6 Marla plot in Sector 79 Faridabad supports comfortable room layouts and daily living convenience."
+      },
+      {
+        "title": "8 Marla Plot in Sector 79 Faridabad",
+        "description": "An 8 Marla plot in Sector 79 Faridabad provides ample space for modern home designs. Buyers can plan spacious interiors, ventilation, and parking areas."
+      },
+      {
+        "title": "10 Marla Plot in Sector 79 Faridabad",
+        "description": "10 Marla plots are suitable for buyers looking for larger homes and better privacy. A 10 Marla plot in Sector 79 Faridabad supports premium construction and lifestyle comfort."
+      },
+      {
+        "title": "12 Marla Plot in Sector 79 Faridabad",
+        "description": "A 12 Marla plot offers generous space for luxury residential construction. Buyers benefit from flexible architectural planning and long-term appreciation."
+      },
+      {
+        "title": "14 Marla Plot in Sector 79 Faridabad",
+        "description": "14 Marla plots represent premium residential land options. A 14 Marla plot in Sector 79 Faridabad is ideal for spacious independent homes and strong resale potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Residential Plots in Sector 79 Faridabad and Nearby Areas",
+    "description": [
+      "Buyers searching for a plot in Sector 79 Faridabad often explore nearby sectors to compare prices, connectivity, and infrastructure development.",
+      "Exploring surrounding localities helps buyers make informed decisions and understand the overall growth potential of Sector 79."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 79 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 78 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 80 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 77 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Residential Plot in Neharpar Faridabad", "path": "/", "icon": "Layers" },
+      { "title": "Residential Land for Sale in Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Faridabad", "path": "/", "icon": "Home" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 79 Faridabad",
+    "description": [
+      "Buying a residential plot requires verified listings, transparent pricing, and reliable guidance. Deal Acres ensures buyers receive genuine and accurate information for plots in Sector 79 Faridabad.",
+      "With strong local market knowledge and a customer-first approach, Deal Acres has become a preferred platform for residential plot buyers in Faridabad."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are verified for ownership, approvals, and legal documentation."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden or unexpected charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth knowledge of Sector 79 Faridabad property trends."
+      },
+      {
+        "title": "Multiple Plot Size Options",
+        "description": "Wide range of plot sizes to suit different buyer requirements."
+      },
+      {
+        "title": "Customer-Centric Platform",
+        "description": "Focused on solving real buyer concerns effectively."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "Quick access to genuine and relevant plot listings."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Complete assistance from plot selection to registration."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Deal Acres is trusted by thousands of satisfied property buyers."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 79 Faridabad",
+    "description": "Detailed and user-friendly answers to help buyers make confident decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 79 Faridabad a good location to buy a plot?",
+        "answer": "Yes, Sector 79 Faridabad is a developing residential area with planned infrastructure, good connectivity, and strong future appreciation potential."
+      },
+      {
+        "question": "What plot sizes are available in Sector 79 Faridabad?",
+        "answer": "Plots in Sector 79 Faridabad are available from 4 Marla to 14 Marla, subject to availability."
+      },
+      {
+        "question": "Are plots in Sector 79 legally approved?",
+        "answer": "Most plots listed through trusted platforms like Deal Acres are verified for legal approvals and ownership clarity."
+      },
+      {
+        "question": "Is Sector 79 suitable for families?",
+        "answer": "Yes, the sector offers a peaceful residential environment with schools, hospitals, and parks nearby."
+      },
+      {
+        "question": "How is connectivity from Sector 79 Faridabad?",
+        "answer": "Sector 79 enjoys good road connectivity to NH-44, nearby sectors, and major parts of Faridabad."
+      },
+      {
+        "question": "Can I build my own house on the plot?",
+        "answer": "Yes, residential plots allow construction as per approved building bylaws."
+      },
+      {
+        "question": "Is Sector 79 good for long-term investment?",
+        "answer": "With ongoing development in Neharpar Faridabad, Sector 79 offers promising long-term investment potential."
+      },
+      {
+        "question": "What amenities are available near Sector 79?",
+        "answer": "Schools, hospitals, shopping areas, parks, and public transport facilities are accessible."
+      },
+      {
+        "question": "What factors affect plot prices in Sector 79?",
+        "answer": "Plot size, road access, nearby development, and market demand influence pricing."
+      },
+      {
+        "question": "How does Deal Acres help plot buyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, transparent pricing, and complete buying support."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance to Buy Residential Plots in Sector 79 Faridabad",
+    "description": [
+      "Buying a plot in Sector 79 Faridabad becomes simple and secure with expert assistance and accurate market insights. Professional guidance helps you choose the right plot while avoiding legal and pricing risks.",
+      "Share your details to connect with experienced property advisors who will assist you throughout your plot-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

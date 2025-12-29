@@ -1,0 +1,174 @@
+{
+  "domain": "Plot.com",
+
+  "hero": {
+    "title": "Residential Plots for Sale in Prime Sector 44 Faridabad",
+    "description": [
+      "Sector 44 Faridabad is a premium and well-developed residential locality known for its strategic location, modern infrastructure, and excellent connectivity. Buyers searching for a plot in Sector 44 Faridabad are drawn to this area because of its close proximity to Mathura Road, Delhi borders, Metro stations, and major commercial hubs. The sector offers wide roads, planned residential layouts, and a clean environment, making it a preferred choice for families and professionals.",
+      "Plots in Sector 44 Faridabad are highly valued due to limited availability and consistent demand. The locality is surrounded by reputed schools, hospitals, shopping complexes, corporate offices, and recreational spaces. With strong civic amenities, security, and long-term appreciation potential, Sector 44 stands out as a reliable option for buyers looking to build independent homes or invest in premium residential land in Faridabad."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 44",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Plot Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in Sector 44 Faridabad",
+    "description": [
+      "Selecting the right plot size is an important step when planning a home or making a secure real estate investment. Sector 44 Faridabad offers a variety of residential plot sizes to match different lifestyle needs and budget preferences.",
+      "From compact plots for efficient construction to larger plots for luxury independent houses, plots in Sector 44 Faridabad provide flexibility, privacy, and strong long-term residential value."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 44 Faridabad",
+        "description": "A 4 Marla plot in Sector 44 Faridabad is suitable for buyers looking for a compact residential option in a premium locality. These plots allow efficient home planning with manageable construction and maintenance costs."
+      },
+      {
+        "title": "6 Marla Plot in Sector 44 Faridabad",
+        "description": "6 Marla plots offer a balanced mix of affordability and comfortable living space. A 6 Marla plot in Sector 44 Faridabad supports practical layouts and modern home designs."
+      },
+      {
+        "title": "8 Marla Plot in Sector 44 Faridabad",
+        "description": "An 8 Marla plot provides ample space for spacious rooms, proper ventilation, and parking facilities, making it ideal for growing families."
+      },
+      {
+        "title": "10 Marla Plot in Sector 44 Faridabad",
+        "description": "10 Marla plots are preferred by buyers seeking larger independent homes with enhanced privacy and flexible architectural planning."
+      },
+      {
+        "title": "12 Marla Plot in Sector 44 Faridabad",
+        "description": "A 12 Marla plot offers generous space for premium residential construction and long-term comfort in a prime sector."
+      },
+      {
+        "title": "14 Marla Plot in Sector 44 Faridabad",
+        "description": "14 Marla plots represent premium residential land options, suitable for luxury homes and strong appreciation potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Residential Plots in Sector 44 and Nearby Faridabad Areas",
+    "description": [
+      "Buyers interested in a plot in Sector 44 Faridabad often explore nearby sectors to compare pricing, connectivity, and residential advantages.",
+      "This helps buyers understand why Sector 44 remains one of the most preferred and high-value residential locations in Faridabad."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 44 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 45 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 46 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 21D Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Residential Plot in Central Faridabad", "path": "/", "icon": "Layers" },
+      { "title": "Residential Land for Sale in Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Faridabad", "path": "/", "icon": "Home" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 44 Faridabad",
+    "description": [
+      "Buying a residential plot in a premium area like Sector 44 Faridabad requires verified listings, legal clarity, and transparent pricing. Deal Acres focuses on providing accurate information and genuine property options.",
+      "With strong local market knowledge and a buyer-first approach, Deal Acres has become a trusted platform for residential plot buyers in Faridabad."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are thoroughly verified for ownership and legal approvals."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear and honest pricing with no hidden charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth knowledge of Sector 44 Faridabad property trends."
+      },
+      {
+        "title": "Wide Plot Size Options",
+        "description": "Multiple plot sizes available to suit different buyer needs."
+      },
+      {
+        "title": "Customer-Centric Platform",
+        "description": "Designed to address real buyer concerns with ease."
+      },
+      {
+        "title": "Easy Property Discovery",
+        "description": "Quick access to relevant and genuine plot listings."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from plot selection to registration and documentation."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Deal Acres is trusted by thousands of residential property buyers."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 44 Faridabad",
+    "description": "Clear answers to common buyer questions for confident decision-making.",
+    "faqs": [
+      {
+        "question": "Is Sector 44 Faridabad a good location to buy a plot?",
+        "answer": "Yes, Sector 44 is a premium and well-developed locality with strong connectivity and high residential demand."
+      },
+      {
+        "question": "What plot sizes are available in Sector 44 Faridabad?",
+        "answer": "Plots are generally available from 4 Marla to 14 Marla, subject to availability."
+      },
+      {
+        "question": "Are plots in Sector 44 legally approved?",
+        "answer": "Most plots listed through trusted platforms like Deal Acres are verified for legal approvals and ownership."
+      },
+      {
+        "question": "Is Sector 44 suitable for family living?",
+        "answer": "Yes, the sector offers a secure, peaceful, and family-friendly environment."
+      },
+      {
+        "question": "How is connectivity from Sector 44 Faridabad?",
+        "answer": "Sector 44 has excellent connectivity to Delhi, Metro stations, and major roads."
+      },
+      {
+        "question": "Can I construct my own house on the plot?",
+        "answer": "Yes, buyers can construct homes as per local authority building bylaws."
+      },
+      {
+        "question": "Is Sector 44 good for long-term investment?",
+        "answer": "Due to limited supply and strong demand, Sector 44 offers excellent long-term appreciation."
+      },
+      {
+        "question": "What amenities are available nearby?",
+        "answer": "Schools, hospitals, malls, offices, parks, and public transport are easily accessible."
+      },
+      {
+        "question": "What factors influence plot prices in Sector 44?",
+        "answer": "Plot size, location within the sector, road access, and market demand affect prices."
+      },
+      {
+        "question": "How does Deal Acres help plot buyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, transparent pricing, and complete support."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance to Buy Residential Plots in Sector 44 Faridabad",
+    "description": [
+      "Buying a plot in Sector 44 Faridabad becomes smooth and secure with expert assistance and reliable market insights. Professional guidance helps buyers avoid risks and make confident property decisions.",
+      "Share your details to connect with experienced property advisors who will assist you throughout your plot-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "domain": "Plot.com",
+
+  "hero": {
+    "title": "Residential Plots for Sale in Well Developed Sector 22 Faridabad",
+    "description": [
+      "Sector 22 Faridabad is a well-established and centrally located residential area, known for its planned infrastructure and peaceful surroundings. Buyers looking for a plot in Sector 22 Faridabad prefer this locality due to its excellent connectivity to Mathura Road, NH-19, and other key sectors of Faridabad. The area offers wide internal roads, green surroundings, and easy access to daily-need markets, schools, hospitals, and public transport facilities, making it suitable for comfortable family living.",
+      "Plots in Sector 22 Faridabad are ideal for both home construction and long-term investment purposes. The sector enjoys consistent demand due to limited plot availability and its proximity to commercial hubs and employment centers. With a mature residential ecosystem, reliable civic amenities, and a secure neighborhood, Sector 22 remains a practical and value-driven choice for buyers planning to build independent homes in Faridabad."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 22",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in Sector 22 Faridabad",
+    "description": [
+      "Selecting the right plot size is an important step when planning a home or evaluating a residential land investment. Sector 22 Faridabad offers multiple plot size options to suit different family needs, construction preferences, and budget ranges.",
+      "From compact plots for efficient home planning to larger plots for spacious independent houses, plots in Sector 22 Faridabad provide flexibility, privacy, and strong long-term residential value."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 22 Faridabad",
+        "description": "A 4 Marla plot in Sector 22 Faridabad is suitable for buyers seeking an affordable residential option. These plots support smart space utilization and easy maintenance while offering good resale demand."
+      },
+      {
+        "title": "6 Marla Plot in Sector 22 Faridabad",
+        "description": "6 Marla plots offer a balance between space and budget. A 6 Marla plot in Sector 22 Faridabad allows comfortable home layouts with parking and functional living areas."
+      },
+      {
+        "title": "8 Marla Plot in Sector 22 Faridabad",
+        "description": "An 8 Marla plot in Sector 22 Faridabad provides ample space for modern home designs, better ventilation, and long-term family living."
+      },
+      {
+        "title": "10 Marla Plot in Sector 22 Faridabad",
+        "description": "10 Marla plots are ideal for buyers planning spacious independent homes with enhanced privacy and flexible architectural options."
+      },
+      {
+        "title": "12 Marla Plot in Sector 22 Faridabad",
+        "description": "A 12 Marla plot offers generous land area for premium residential construction and strong long-term appreciation potential."
+      },
+      {
+        "title": "14 Marla Plot in Sector 22 Faridabad",
+        "description": "14 Marla plots represent premium residential land options, suitable for large homes and high resale value."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Residential Plots in Sector 22 Faridabad and Nearby Areas",
+    "description": [
+      "Buyers searching for a plot in Sector 22 Faridabad often explore nearby sectors to compare connectivity, pricing, and overall livability.",
+      "This helps buyers understand the advantages of Sector 22 as a well-connected and established residential location in Faridabad."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 22 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 21B Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 21A Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 28 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Residential Plot in Central Faridabad", "path": "/", "icon": "Layers" },
+      { "title": "Residential Land for Sale in Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Faridabad", "path": "/", "icon": "Home" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 22 Faridabad",
+    "description": [
+      "Buying a residential plot in a developed locality like Sector 22 Faridabad requires verified listings, legal clarity, and expert guidance. Deal Acres focuses on delivering transparent and reliable property information.",
+      "With strong local market expertise and a customer-first approach, Deal Acres has become a trusted platform for buyers seeking genuine residential plot options."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are checked for ownership and legal approvals."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth understanding of Sector 22 Faridabad property trends."
+      },
+      {
+        "title": "Multiple Plot Size Choices",
+        "description": "Wide range of plot sizes for different buyer needs."
+      },
+      {
+        "title": "Customer-Focused Platform",
+        "description": "Designed to solve real buyer concerns effectively."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "Quick access to relevant and verified plot listings."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Assistance from plot selection to registration."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Deal Acres is trusted by thousands of property buyers."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 22 Faridabad",
+    "description": "User-friendly answers to help buyers make informed property decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 22 Faridabad a good location to buy a plot?",
+        "answer": "Yes, Sector 22 is a well-developed residential area with strong connectivity and stable property demand."
+      },
+      {
+        "question": "What plot sizes are available in Sector 22 Faridabad?",
+        "answer": "Plots are generally available from 4 Marla to 14 Marla, subject to availability."
+      },
+      {
+        "question": "Are plots in Sector 22 legally approved?",
+        "answer": "Plots listed through trusted platforms like Deal Acres are verified for ownership and approvals."
+      },
+      {
+        "question": "Is Sector 22 suitable for family living?",
+        "answer": "Yes, the area offers a peaceful and secure environment with essential amenities nearby."
+      },
+      {
+        "question": "How is connectivity from Sector 22 Faridabad?",
+        "answer": "Sector 22 enjoys excellent connectivity to Mathura Road, NH-19, and public transport."
+      },
+      {
+        "question": "Can I build my own house on the plot?",
+        "answer": "Yes, construction is allowed as per local building bylaws."
+      },
+      {
+        "question": "Is Sector 22 good for long-term investment?",
+        "answer": "Due to limited plot supply and steady demand, Sector 22 offers good long-term investment potential."
+      },
+      {
+        "question": "What amenities are available near Sector 22?",
+        "answer": "Schools, hospitals, parks, markets, and public transport facilities are easily accessible."
+      },
+      {
+        "question": "What factors affect plot prices in Sector 22 Faridabad?",
+        "answer": "Plot size, location within the sector, road access, and market demand influence pricing."
+      },
+      {
+        "question": "How does Deal Acres help plot buyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, transparent pricing, and complete buying support."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance to Buy Plots in Sector 22 Faridabad",
+    "description": [
+      "Buying a plot in Sector 22 Faridabad becomes easier and safer with expert guidance and accurate market insights. Professional support helps buyers avoid legal and pricing risks.",
+      "Share your details to connect with experienced property advisors who will assist you throughout your plot-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

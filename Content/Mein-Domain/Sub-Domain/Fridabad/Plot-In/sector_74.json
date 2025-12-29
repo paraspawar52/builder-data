@@ -1,0 +1,174 @@
+{
+  "domain": "Plot.com",
+
+  "hero": {
+    "title": "Residential Plots for Sale in Developing Sector 74 Faridabad",
+    "description": [
+      "Sector 74 Faridabad is a rapidly developing residential locality that is gaining popularity among buyers looking for affordable yet future-ready plot options. Buyers searching for a plot in Sector 74 Faridabad are attracted by its planned layout, improving infrastructure, and growing residential developments. The sector enjoys good road connectivity to major parts of Faridabad and nearby commercial zones, making daily commuting convenient. Its relatively open surroundings and organized planning make it suitable for families planning to build independent homes.",
+      "Plots in Sector 74 Faridabad are ideal for both end-use and long-term investment. With continuous development, increasing demand, and upcoming civic amenities, the area shows strong appreciation potential. Easy access to schools, healthcare facilities, local markets, and upcoming infrastructure projects makes Sector 74 a practical and value-driven choice for buyers seeking residential land with future growth prospects."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 74",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in Sector 74 Faridabad",
+    "description": [
+      "Choosing the right plot size is an important step when planning a home or making a smart property investment. Sector 74 Faridabad offers multiple residential plot size options to suit different budgets, family sizes, and construction preferences.",
+      "From compact plots for budget-friendly homes to larger plots for spacious independent houses, plots in Sector 74 Faridabad provide flexibility, planned development, and long-term residential value."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 74 Faridabad",
+        "description": "A 4 Marla plot in Sector 74 Faridabad is ideal for small families and first-time buyers looking for an affordable residential land option with easy maintenance."
+      },
+      {
+        "title": "6 Marla Plot in Sector 74 Faridabad",
+        "description": "6 Marla plots offer a balance of affordability and usable space, making them suitable for practical home layouts and comfortable living."
+      },
+      {
+        "title": "8 Marla Plot in Sector 74 Faridabad",
+        "description": "An 8 Marla plot allows better architectural flexibility, parking space, and ventilation, making it a popular choice for growing families."
+      },
+      {
+        "title": "10 Marla Plot in Sector 74 Faridabad",
+        "description": "10 Marla plots are preferred by buyers planning spacious independent homes with enhanced privacy and modern designs."
+      },
+      {
+        "title": "12 Marla Plot in Sector 74 Faridabad",
+        "description": "A 12 Marla plot supports premium residential construction with open areas and flexible planning options."
+      },
+      {
+        "title": "14 Marla Plot in Sector 74 Faridabad",
+        "description": "14 Marla plots represent premium residential land options with strong resale value and long-term appreciation potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Residential Plots in Sector 74 Faridabad and Nearby Areas",
+    "description": [
+      "Buyers interested in a plot in Sector 74 Faridabad often explore nearby sectors to compare pricing, development status, and connectivity advantages.",
+      "This comparison helps buyers understand why Sector 74 is emerging as a promising residential location in Faridabad."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 74 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 75 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 76 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 78 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Residential Plot in Greater Faridabad", "path": "/", "icon": "Layers" },
+      { "title": "Residential Land for Sale in Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Faridabad", "path": "/", "icon": "Home" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 74 Faridabad",
+    "description": [
+      "Buying a residential plot in a developing area like Sector 74 Faridabad requires accurate information, legal clarity, and transparent pricing. Deal Acres ensures buyers receive verified listings and genuine property details.",
+      "With strong local expertise and a customer-first approach, Deal Acres has become a trusted platform for residential plot buyers across Faridabad."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are verified for ownership, approvals, and legal authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing information with no hidden or misleading charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Deep understanding of Sector 74 Faridabad property trends."
+      },
+      {
+        "title": "Wide Plot Size Options",
+        "description": "Multiple plot sizes available to suit different buyer requirements."
+      },
+      {
+        "title": "Customer-Centric Platform",
+        "description": "Designed to address real buyer concerns with trust and simplicity."
+      },
+      {
+        "title": "Easy Property Discovery",
+        "description": "Quick access to relevant and verified residential plot listings."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Complete support from plot selection to documentation and registration."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Deal Acres is trusted by thousands of residential property buyers."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 74 Faridabad",
+    "description": "Detailed answers to common buyer questions to help you make informed decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 74 Faridabad a good location to buy a plot?",
+        "answer": "Yes, Sector 74 is a developing residential area with improving infrastructure and good future growth potential."
+      },
+      {
+        "question": "What plot sizes are available in Sector 74 Faridabad?",
+        "answer": "Plots are generally available from 4 Marla to 14 Marla, subject to availability."
+      },
+      {
+        "question": "Are plots in Sector 74 legally approved?",
+        "answer": "Most plots listed through Deal Acres are verified for legal approvals and ownership clarity."
+      },
+      {
+        "question": "Is Sector 74 suitable for family living?",
+        "answer": "Yes, the area offers a peaceful environment with planned development and nearby amenities."
+      },
+      {
+        "question": "How is connectivity from Sector 74 Faridabad?",
+        "answer": "Sector 74 has good road connectivity to Greater Faridabad and major city routes."
+      },
+      {
+        "question": "Can I build my own house on the plot?",
+        "answer": "Yes, residential plots allow construction as per local authority building norms."
+      },
+      {
+        "question": "Is Sector 74 good for long-term investment?",
+        "answer": "With ongoing development and rising demand, Sector 74 offers strong long-term appreciation potential."
+      },
+      {
+        "question": "What amenities are available nearby?",
+        "answer": "Nearby amenities include schools, hospitals, markets, and public transport facilities."
+      },
+      {
+        "question": "What factors affect plot prices in Sector 74?",
+        "answer": "Plot size, location within the sector, road access, and market demand influence prices."
+      },
+      {
+        "question": "How does Deal Acres help plot buyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, transparent pricing, and end-to-end buying support."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance to Buy Residential Plots in Sector 74 Faridabad",
+    "description": [
+      "Buying a plot in Sector 74 Faridabad becomes simple and secure with expert guidance and accurate market insights. Professional assistance helps buyers avoid risks and make confident property decisions.",
+      "Share your details to connect with experienced property advisors who will support you throughout your plot-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

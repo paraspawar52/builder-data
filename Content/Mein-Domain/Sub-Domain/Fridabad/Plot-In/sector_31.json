@@ -1,0 +1,174 @@
+{
+  "domain": "Plot.com",
+
+  "hero": {
+    "title": "Residential Plots for Sale in Well Connected Sector 31 Faridabad",
+    "description": [
+      "Sector 31 Faridabad is a centrally located and well-developed residential area, known for its excellent road connectivity, established infrastructure, and peaceful living environment. Buyers looking for a plot in Sector 31 Faridabad prefer this locality due to its close proximity to Mathura Road, NH-44, Metro stations, and major commercial zones of the city. The sector is thoughtfully planned with wide roads, green belts, and a balanced mix of residential and civic amenities, making it suitable for families and working professionals.",
+      "Plots in Sector 31 Faridabad are considered a safe and stable investment option due to limited availability and consistent demand. The area is surrounded by reputed schools, hospitals, shopping centers, parks, and daily-need markets. With strong social infrastructure, smooth connectivity to Delhi and Gurugram, and a mature residential setup, Sector 31 remains a preferred choice for buyers seeking long-term value and comfortable living through residential plots."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 31",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in Sector 31 Faridabad",
+    "description": [
+      "Selecting the right plot size plays a crucial role in planning a comfortable home and securing long-term property value. Sector 31 Faridabad offers multiple residential plot size options to cater to different family needs, budgets, and construction preferences.",
+      "Whether you are planning a compact independent house or a spacious premium home, plots in Sector 31 Faridabad provide flexibility, privacy, and strong appreciation potential in one of the city’s established residential locations."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 31 Faridabad",
+        "description": "A 4 Marla plot in Sector 31 Faridabad is ideal for buyers seeking an affordable residential option in a prime central location. These plots allow efficient space utilization, easy maintenance, and steady resale demand."
+      },
+      {
+        "title": "6 Marla Plot in Sector 31 Faridabad",
+        "description": "6 Marla plots offer a balanced combination of space and budget. A 6 Marla plot in Sector 31 Faridabad supports practical home layouts with adequate parking and comfortable living for small to mid-sized families."
+      },
+      {
+        "title": "8 Marla Plot in Sector 31 Faridabad",
+        "description": "An 8 Marla plot in Sector 31 Faridabad provides ample room for modern house designs, better ventilation, and open spaces, making it a preferred choice for long-term residential planning."
+      },
+      {
+        "title": "10 Marla Plot in Sector 31 Faridabad",
+        "description": "10 Marla plots are suitable for buyers looking for spacious independent homes with enhanced privacy. These plots allow flexible architectural planning and premium living standards."
+      },
+      {
+        "title": "12 Marla Plot in Sector 31 Faridabad",
+        "description": "A 12 Marla plot offers generous land area for luxury residential construction. Buyers benefit from design flexibility, comfort, and strong appreciation in a well-established sector."
+      },
+      {
+        "title": "14 Marla Plot in Sector 31 Faridabad",
+        "description": "14 Marla plots represent premium residential land options. A 14 Marla plot in Sector 31 Faridabad is ideal for large independent homes and long-term high-value investment."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Residential Plots in Sector 31 Faridabad and Nearby Areas",
+    "description": [
+      "Buyers searching for a plot in Sector 31 Faridabad often compare nearby sectors to evaluate connectivity, pricing, and lifestyle benefits.",
+      "Exploring surrounding locations helps buyers understand why Sector 31 remains a trusted and centrally positioned residential choice in Faridabad."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 31 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 30 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 28 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 21B Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Residential Plot in Central Faridabad", "path": "/", "icon": "Layers" },
+      { "title": "Residential Land for Sale in Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Faridabad", "path": "/", "icon": "Home" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 31 Faridabad",
+    "description": [
+      "Purchasing a residential plot in a prime area like Sector 31 Faridabad requires reliable information, legal clarity, and professional support. Deal Acres ensures buyers get access to verified and transparent plot listings.",
+      "With strong local expertise and a customer-first approach, Deal Acres has become a trusted platform for buyers seeking genuine residential plot opportunities."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are verified for ownership records, approvals, and documentation."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear and honest pricing with no hidden charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth knowledge of Sector 31 Faridabad property trends."
+      },
+      {
+        "title": "Wide Plot Size Options",
+        "description": "Multiple plot sizes to suit varied buyer requirements."
+      },
+      {
+        "title": "Customer-Focused Platform",
+        "description": "Designed to address real buyer concerns efficiently."
+      },
+      {
+        "title": "Easy Property Discovery",
+        "description": "Quick access to genuine and relevant plot listings."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Assistance from plot selection to registration."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Deal Acres is trusted by thousands of residential property buyers."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 31 Faridabad",
+    "description": "Clear and detailed answers to common buyer queries to help you make informed decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 31 Faridabad a good location to buy a plot?",
+        "answer": "Yes, Sector 31 is a centrally located and well-developed residential area with strong connectivity and stable property demand."
+      },
+      {
+        "question": "What plot sizes are available in Sector 31 Faridabad?",
+        "answer": "Plots in Sector 31 Faridabad are available in sizes ranging from 4 Marla to 14 Marla, subject to availability."
+      },
+      {
+        "question": "Are plots in Sector 31 legally approved?",
+        "answer": "Plots listed through trusted platforms like Deal Acres are verified for approvals and ownership clarity."
+      },
+      {
+        "question": "Is Sector 31 suitable for family living?",
+        "answer": "Yes, the sector offers a peaceful and family-friendly environment with nearby schools, hospitals, and parks."
+      },
+      {
+        "question": "How is connectivity from Sector 31 Faridabad?",
+        "answer": "Sector 31 has excellent connectivity to Mathura Road, NH-44, Metro stations, and major city areas."
+      },
+      {
+        "question": "Can I build my own house on the plot?",
+        "answer": "Yes, residential plots allow construction as per approved building bylaws."
+      },
+      {
+        "question": "Is Sector 31 good for long-term investment?",
+        "answer": "Due to limited plot supply and consistent demand, Sector 31 offers strong long-term investment potential."
+      },
+      {
+        "question": "What amenities are available nearby?",
+        "answer": "The area has access to schools, hospitals, markets, parks, and public transport."
+      },
+      {
+        "question": "What affects plot prices in Sector 31 Faridabad?",
+        "answer": "Plot size, road access, exact location, and market demand influence pricing."
+      },
+      {
+        "question": "How does Deal Acres help plot buyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, transparent pricing, and end-to-end buying support."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Assistance to Buy Plots in Sector 31 Faridabad",
+    "description": [
+      "Buying a plot in Sector 31 Faridabad becomes simple and secure with expert guidance and local market insights. Professional support helps buyers avoid legal and pricing risks.",
+      "Share your details to connect with experienced property advisors who will assist you throughout your plot-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

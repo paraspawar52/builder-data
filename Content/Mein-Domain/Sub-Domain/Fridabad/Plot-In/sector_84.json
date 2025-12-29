@@ -1,0 +1,174 @@
+{
+  "domain": "Plot.com",
+
+  "hero": {
+    "title": "Residential Plots for Sale in Well Planned Sector 84 Faridabad",
+    "description": [
+      "Sector 84 Faridabad is one of the most promising residential locations in Greater Faridabad, known for its planned infrastructure, wide roads, and modern urban layout. Buyers searching for a plot in Sector 84 Faridabad are drawn to its peaceful surroundings, organized development, and excellent connectivity to major roads like the Faridabad–Noida–Ghaziabad Expressway. The sector offers a perfect balance between city convenience and comfortable residential living.",
+      "Plots in Sector 84 Faridabad are ideal for both end-users and investors. Families prefer this location for building independent homes in a clean and well-managed environment, while investors see strong future appreciation due to continuous development in the Neharpar region. With upcoming schools, healthcare facilities, shopping zones, and green spaces nearby, Sector 84 is emerging as a preferred destination for residential plot buyers."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 84",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Multiple Residential Plot Size Options Available in Sector 84",
+    "description": [
+      "Selecting the right plot size is an important step when planning your future home or making a secure property investment. Sector 84 Faridabad offers a wide range of residential plot sizes that suit different budgets, family needs, and construction preferences.",
+      "From compact plots for affordable housing to larger plots for luxury independent homes, plots in Sector 84 Faridabad provide flexibility, functional space, and long-term value."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 84 Faridabad",
+        "description": "A 4 Marla plot in Sector 84 Faridabad is a smart option for small families and first-time buyers. These plots allow efficient home construction with easy maintenance and practical layouts."
+      },
+      {
+        "title": "6 Marla Plot in Sector 84 Faridabad",
+        "description": "6 Marla plots offer a balanced combination of affordability and living space. A 6 Marla plot in Sector 84 Faridabad is suitable for comfortable family homes."
+      },
+      {
+        "title": "8 Marla Plot in Sector 84 Faridabad",
+        "description": "An 8 Marla plot in Sector 84 provides adequate space for modern home designs, proper ventilation, and parking facilities."
+      },
+      {
+        "title": "10 Marla Plot in Sector 84 Faridabad",
+        "description": "10 Marla plots are ideal for buyers looking to build spacious independent houses with enhanced privacy and comfort."
+      },
+      {
+        "title": "12 Marla Plot in Sector 84 Faridabad",
+        "description": "A 12 Marla plot offers generous space for premium residential construction with flexible architectural planning."
+      },
+      {
+        "title": "14 Marla Plot in Sector 84 Faridabad",
+        "description": "14 Marla plots represent premium residential land options, suitable for large homes and strong long-term resale potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Residential Plots in Sector 84 Faridabad and Nearby Areas",
+    "description": [
+      "Buyers searching for a plot in Sector 84 Faridabad often explore nearby sectors to compare infrastructure, pricing, and development advantages.",
+      "Understanding surrounding localities helps buyers recognize why Sector 84 stands out as a preferred residential choice in Greater Faridabad."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 84 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 83 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 85 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 82 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Residential Plot in Neharpar Faridabad", "path": "/", "icon": "Layers" },
+      { "title": "Residential Land for Sale in Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Faridabad", "path": "/", "icon": "Home" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Prefer Deal Acres for Plots in Sector 84 Faridabad",
+    "description": [
+      "Purchasing a residential plot in a developing area like Sector 84 Faridabad requires accurate information and verified listings. Deal Acres focuses on transparency and trust to help buyers make informed decisions.",
+      "With strong local market knowledge and a buyer-focused approach, Deal Acres has become a reliable choice for residential plot buyers in Faridabad."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "Every plot listing is checked for ownership, approvals, and legal clarity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Buyers receive clear pricing details with no hidden charges."
+      },
+      {
+        "title": "Local Property Expertise",
+        "description": "Expert understanding of Sector 84 Faridabad market trends."
+      },
+      {
+        "title": "Wide Plot Options",
+        "description": "Multiple plot sizes available to match different buyer needs."
+      },
+      {
+        "title": "User-Focused Platform",
+        "description": "Designed to solve real buyer concerns with clarity and ease."
+      },
+      {
+        "title": "Simple Property Search",
+        "description": "Quick access to genuine and relevant residential plot listings."
+      },
+      {
+        "title": "Complete Buying Support",
+        "description": "Guidance provided from plot selection to final registration."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Deal Acres is widely trusted by serious residential plot buyers."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 84 Faridabad",
+    "description": "Clear, detailed answers to help buyers confidently plan their property purchase.",
+    "faqs": [
+      {
+        "question": "Is Sector 84 Faridabad a good location to buy a plot?",
+        "answer": "Yes, Sector 84 is a well-planned and rapidly developing area with strong future growth potential."
+      },
+      {
+        "question": "What plot sizes are available in Sector 84 Faridabad?",
+        "answer": "Residential plots usually range from 4 Marla to 14 Marla, subject to availability."
+      },
+      {
+        "question": "Are plots in Sector 84 legally approved?",
+        "answer": "Most plots listed on trusted platforms like Deal Acres are verified for legal approvals and ownership."
+      },
+      {
+        "question": "Is Sector 84 suitable for family living?",
+        "answer": "Yes, the sector offers a peaceful, clean, and family-friendly environment."
+      },
+      {
+        "question": "How is connectivity from Sector 84 Faridabad?",
+        "answer": "Sector 84 has good connectivity to major roads, expressways, and nearby sectors."
+      },
+      {
+        "question": "Can I build my own house on the plot?",
+        "answer": "Yes, construction is permitted as per approved building bylaws."
+      },
+      {
+        "question": "Is Sector 84 good for long-term investment?",
+        "answer": "Due to continuous development in Neharpar Faridabad, Sector 84 offers strong long-term appreciation."
+      },
+      {
+        "question": "What amenities are available near Sector 84?",
+        "answer": "Schools, hospitals, shopping complexes, and daily-need facilities are nearby."
+      },
+      {
+        "question": "What affects plot prices in Sector 84?",
+        "answer": "Plot size, exact location, road access, and market demand influence pricing."
+      },
+      {
+        "question": "How does Deal Acres assist plot buyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, transparent pricing, and complete buying support."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Connect With Experts to Buy Residential Plots in Sector 84 Faridabad",
+    "description": [
+      "Buying a plot in Sector 84 Faridabad becomes simple and secure with expert guidance and reliable local market insights. Professional assistance helps buyers avoid risks and choose the right property.",
+      "Share your details to connect with experienced property advisors who will support you throughout your plot-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

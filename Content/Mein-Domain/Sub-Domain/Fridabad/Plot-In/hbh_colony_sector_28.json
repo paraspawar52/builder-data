@@ -1,0 +1,174 @@
+{
+  "domain": "Plot.com",
+
+  "hero": {
+    "title": "Residential Plots for Sale in HBH Colony Sector 28 Faridabad",
+    "description": [
+      "HBH Colony in Sector 28 Faridabad is a well-established residential locality known for its central location, peaceful surroundings, and strong civic infrastructure. Buyers searching for a plot in HBH Colony, Sector 28 Faridabad prefer this area due to its proximity to Mathura Road, major commercial zones, reputed schools, hospitals, and daily-use markets. The locality offers a mature neighborhood with wide internal roads, green surroundings, and a secure residential environment suitable for family living.",
+      "Plots in HBH Colony, Sector 28 Faridabad are ideal for buyers planning to build independent homes in a premium and well-connected area. Limited availability of residential land, combined with consistent demand, makes this locality a strong choice for long-term investment as well. With easy access to Metro stations, business hubs, and central Faridabad sectors, HBH Colony continues to attract plot buyers looking for stability, convenience, and long-term property value."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in HBH Colony",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Plot Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in HBH Colony Sector 28",
+    "description": [
+      "Selecting the right plot size plays a crucial role in planning a comfortable home or making a secure real estate investment. HBH Colony, Sector 28 Faridabad offers a variety of residential plot sizes designed to meet different lifestyle requirements and budget preferences.",
+      "From compact plots for efficient construction to larger plots for spacious independent houses, plots in HBH Colony provide flexibility, privacy, and strong long-term residential value in one of Faridabad’s prime locations."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in HBH Colony Sector 28 Faridabad",
+        "description": "A 4 Marla plot in HBH Colony, Sector 28 Faridabad is suitable for small families and first-time buyers. These plots allow smart space utilization, cost-effective construction, and easy maintenance while offering good resale value due to the prime location."
+      },
+      {
+        "title": "6 Marla Plot in HBH Colony Sector 28 Faridabad",
+        "description": "6 Marla plots offer a balanced mix of affordability and comfortable living space. A 6 Marla plot in HBH Colony supports well-planned home layouts with adequate parking and ventilation for modern family living."
+      },
+      {
+        "title": "8 Marla Plot in HBH Colony Sector 28 Faridabad",
+        "description": "An 8 Marla plot provides ample space for modern architectural designs, open areas, and better privacy. These plots are ideal for families planning long-term residence in a central Faridabad location."
+      },
+      {
+        "title": "10 Marla Plot in HBH Colony Sector 28 Faridabad",
+        "description": "10 Marla plots are preferred by buyers seeking spacious independent homes. A 10 Marla plot in HBH Colony allows premium construction, multiple parking options, and enhanced living comfort."
+      },
+      {
+        "title": "12 Marla Plot in HBH Colony Sector 28 Faridabad",
+        "description": "A 12 Marla plot offers generous space for luxury residential construction. Buyers benefit from flexible design options and strong appreciation potential in this established locality."
+      },
+      {
+        "title": "14 Marla Plot in HBH Colony Sector 28 Faridabad",
+        "description": "14 Marla plots represent premium residential land options. These plots are ideal for large independent homes and provide excellent long-term investment and resale value."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Residential Plots in HBH Colony Sector 28 and Nearby Areas",
+    "description": [
+      "Buyers looking for a plot in HBH Colony, Sector 28 Faridabad often explore nearby central sectors to compare pricing, infrastructure, and connectivity benefits.",
+      "This comparison helps buyers understand why HBH Colony remains a preferred residential location for plot investment in Faridabad."
+    ],
+    "locations": [
+      { "title": "Plot in HBH Colony Sector 28 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 27 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 29 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 21C Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Residential Plot in Central Faridabad", "path": "/", "icon": "Layers" },
+      { "title": "Residential Land for Sale in Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Faridabad", "path": "/", "icon": "Home" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Deal Acres Is Trusted for Plots in HBH Colony Sector 28",
+    "description": [
+      "Buying a residential plot in a premium locality like HBH Colony, Sector 28 Faridabad requires verified information, legal clarity, and transparent pricing. Deal Acres focuses on delivering reliable plot listings that buyers can trust.",
+      "With strong local market expertise and a customer-first approach, Deal Acres has become a preferred platform for buyers seeking genuine and secure residential plot investments."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are thoroughly verified for ownership, approvals, and legal documentation."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Complete price clarity with no hidden charges or misleading information."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Deep understanding of HBH Colony and Sector 28 Faridabad property trends."
+      },
+      {
+        "title": "Wide Plot Size Options",
+        "description": "Multiple plot sizes available to suit different budgets and needs."
+      },
+      {
+        "title": "Customer-Centric Platform",
+        "description": "Designed to address real buyer concerns efficiently and honestly."
+      },
+      {
+        "title": "Easy Property Discovery",
+        "description": "Quick access to genuine and relevant residential plot listings."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Assistance from plot selection to registration and documentation."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Deal Acres is trusted by thousands of residential property buyers."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in HBH Colony Sector 28",
+    "description": "Detailed answers to common buyer questions to help you make informed and confident decisions.",
+    "faqs": [
+      {
+        "question": "Is HBH Colony Sector 28 Faridabad a good location to buy a plot?",
+        "answer": "Yes, HBH Colony is a centrally located and well-developed residential area with excellent connectivity and strong long-term value."
+      },
+      {
+        "question": "What plot sizes are available in HBH Colony Sector 28?",
+        "answer": "Plots are generally available from 4 Marla to 14 Marla, subject to availability."
+      },
+      {
+        "question": "Are plots in HBH Colony legally approved?",
+        "answer": "Most plots listed through trusted platforms like Deal Acres are verified for legal approvals and ownership clarity."
+      },
+      {
+        "question": "Is HBH Colony suitable for family living?",
+        "answer": "Yes, the locality offers a peaceful, secure, and family-friendly environment with essential amenities nearby."
+      },
+      {
+        "question": "How is connectivity from HBH Colony Sector 28?",
+        "answer": "HBH Colony enjoys excellent connectivity to Mathura Road, Metro stations, and major commercial areas."
+      },
+      {
+        "question": "Can I construct my own house on the plot?",
+        "answer": "Yes, buyers are allowed to construct homes as per local authority building norms."
+      },
+      {
+        "question": "Is HBH Colony good for long-term investment?",
+        "answer": "Due to limited plot availability and consistent demand, the area offers strong long-term appreciation potential."
+      },
+      {
+        "question": "What amenities are available near HBH Colony?",
+        "answer": "Schools, hospitals, markets, parks, banks, and public transport facilities are easily accessible."
+      },
+      {
+        "question": "What factors influence plot prices in HBH Colony Sector 28?",
+        "answer": "Plot size, exact location, road access, and market demand are key factors affecting prices."
+      },
+      {
+        "question": "How does Deal Acres assist plot buyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, transparent pricing, and complete end-to-end buying support."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance to Buy Plots in HBH Colony Sector 28",
+    "description": [
+      "Buying a plot in HBH Colony, Sector 28 Faridabad becomes easier and safer with expert assistance and accurate market insights. Professional guidance helps buyers avoid legal risks and choose the right property.",
+      "Share your details to connect with experienced property advisors who will support you throughout your plot-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "domain": "Plot.com",
+
+  "hero": {
+    "title": "Residential Plots for Sale in Well Planned Sector 7 Faridabad",
+    "description": [
+      "Sector 7 Faridabad is a well-established and centrally located residential sector known for its planned infrastructure and peaceful surroundings. Buyers searching for a plot in Sector 7 Faridabad are drawn to the locality due to its excellent road connectivity, proximity to major markets, and access to daily civic amenities. The sector offers a calm residential environment with wide internal roads, green spaces, and a well-settled neighborhood that supports comfortable family living.",
+      "Plots in Sector 7 Faridabad are in steady demand due to limited availability and the sector’s strategic location. The area is close to schools, hospitals, shopping areas, banks, and public transport options, making everyday life convenient. With strong infrastructure, reliable connectivity to Delhi and other parts of Faridabad, and long-term appreciation potential, Sector 7 remains a preferred choice for residential plot buyers."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 7",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Plot Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in Sector 7 Faridabad",
+    "description": [
+      "Selecting the right plot size is an important step when planning a home or making a long-term real estate investment. Sector 7 Faridabad offers multiple residential plot size options to meet different family needs and budget expectations.",
+      "Whether you are looking for a compact plot for efficient construction or a larger plot for a spacious independent house, plots in Sector 7 Faridabad provide flexibility, usability, and strong residential value."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 7 Faridabad",
+        "description": "A 4 Marla plot in Sector 7 Faridabad is suitable for small families and buyers looking for affordable residential land in a prime location. These plots allow practical home planning with easy maintenance."
+      },
+      {
+        "title": "6 Marla Plot in Sector 7 Faridabad",
+        "description": "6 Marla plots offer a balance between space and budget, making them ideal for families planning comfortable and functional homes."
+      },
+      {
+        "title": "8 Marla Plot in Sector 7 Faridabad",
+        "description": "An 8 Marla plot provides ample space for modern layouts, proper ventilation, and parking facilities, making it a popular choice among homebuyers."
+      },
+      {
+        "title": "10 Marla Plot in Sector 7 Faridabad",
+        "description": "10 Marla plots are preferred by buyers seeking spacious independent homes with better privacy and flexible architectural design."
+      },
+      {
+        "title": "12 Marla Plot in Sector 7 Faridabad",
+        "description": "A 12 Marla plot supports premium residential construction with generous open spaces and long-term comfort."
+      },
+      {
+        "title": "14 Marla Plot in Sector 7 Faridabad",
+        "description": "14 Marla plots represent premium residential land options, ideal for large homes and strong long-term appreciation."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Residential Plots in Sector 7 Faridabad and Nearby Areas",
+    "description": [
+      "Buyers interested in a plot in Sector 7 Faridabad often explore nearby sectors to compare pricing, infrastructure, and lifestyle advantages.",
+      "Exploring surrounding locations helps buyers understand why Sector 7 continues to remain a trusted and preferred residential sector in Faridabad."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 7 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 8 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 9 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 10 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Residential Plot in Central Faridabad", "path": "/", "icon": "Layers" },
+      { "title": "Residential Land for Sale in Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Faridabad", "path": "/", "icon": "Home" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Deal Acres Is Trusted for Plots in Sector 7 Faridabad",
+    "description": [
+      "Buying a residential plot in a well-established area like Sector 7 Faridabad requires verified listings, legal clarity, and transparent pricing. Deal Acres ensures buyers receive accurate and genuine property information.",
+      "With strong local expertise and a buyer-first approach, Deal Acres has become a trusted platform for residential plot buyers across Faridabad."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are verified for ownership, approvals, and legal documentation."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden or unexpected charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Deep understanding of Sector 7 Faridabad property trends."
+      },
+      {
+        "title": "Multiple Plot Size Options",
+        "description": "Wide range of plot sizes to suit different buyer needs."
+      },
+      {
+        "title": "Customer-Centric Platform",
+        "description": "Designed to solve real buyer concerns with simplicity and trust."
+      },
+      {
+        "title": "Easy Property Discovery",
+        "description": "Quick access to relevant and verified residential plot listings."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Complete support from plot selection to registration."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Deal Acres is trusted by thousands of residential buyers."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 7 Faridabad",
+    "description": "Detailed answers to common buyer questions to support confident decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 7 Faridabad a good location to buy a plot?",
+        "answer": "Yes, Sector 7 is a well-developed and centrally located residential area with strong demand and reliable infrastructure."
+      },
+      {
+        "question": "What plot sizes are available in Sector 7 Faridabad?",
+        "answer": "Plots are generally available from 4 Marla to 14 Marla, subject to availability."
+      },
+      {
+        "question": "Are plots in Sector 7 legally approved?",
+        "answer": "Most plots listed through trusted platforms are verified for legal approvals and ownership clarity."
+      },
+      {
+        "question": "Is Sector 7 suitable for family living?",
+        "answer": "Yes, the sector offers a peaceful, secure, and family-friendly environment."
+      },
+      {
+        "question": "How is connectivity from Sector 7 Faridabad?",
+        "answer": "Sector 7 enjoys good connectivity to major roads, markets, and other parts of Faridabad."
+      },
+      {
+        "question": "Can I build my own house on the plot?",
+        "answer": "Yes, construction is allowed as per approved building bylaws."
+      },
+      {
+        "question": "Is Sector 7 good for long-term investment?",
+        "answer": "Due to limited plot availability and consistent demand, Sector 7 offers good long-term appreciation."
+      },
+      {
+        "question": "What amenities are available nearby?",
+        "answer": "Schools, hospitals, parks, markets, banks, and public transport facilities are easily accessible."
+      },
+      {
+        "question": "What factors influence plot prices in Sector 7?",
+        "answer": "Plot size, exact location, road access, and market demand affect plot prices."
+      },
+      {
+        "question": "How does Deal Acres help plot buyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, transparent pricing, and complete buying support."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance to Buy Residential Plots in Sector 7 Faridabad",
+    "description": [
+      "Buying a plot in Sector 7 Faridabad becomes easier and more secure with expert guidance and accurate local market insights. Professional support helps buyers avoid legal risks and make informed property decisions.",
+      "Share your details to connect with experienced property advisors who will assist you throughout your plot-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

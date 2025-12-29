@@ -1,0 +1,174 @@
+{
+  "domain": "Plot.com",
+
+  "hero": {
+    "title": "Residential Plots for Sale in Well Connected New Industrial Township",
+    "description": [
+      "New Industrial Township (NIT) Faridabad is one of the oldest and most established areas of the city, known for its strong infrastructure, excellent connectivity, and mixed residential-commercial environment. Buyers searching for a plot in New Industrial Township Faridabad prefer this locality due to its central location, proximity to Mathura Road, metro stations, markets, schools, hospitals, and major employment zones. The area offers a practical lifestyle with all daily necessities available within short distances.",
+      "Plots in New Industrial Township Faridabad are ideal for those who want to build independent homes in a well-settled neighborhood with stable property demand. Due to limited land availability and consistent buyer interest, NIT remains attractive for long-term investment as well. With developed roads, reliable civic amenities, and easy access to Delhi and nearby sectors, New Industrial Township continues to be a trusted and high-value location for residential plot buyers."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in NIT Faridabad",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in New Industrial Township",
+    "description": [
+      "Selecting the right plot size is an important decision when planning to build a home or make a secure property investment. New Industrial Township Faridabad offers residential plots in multiple sizes to suit different budgets and housing requirements.",
+      "Whether you are looking for a compact plot for practical living or a larger plot for a spacious independent house, plots in New Industrial Township Faridabad provide flexibility, location advantage, and long-term residential value."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in New Industrial Township Faridabad",
+        "description": "A 4 Marla plot is suitable for small families or buyers looking for an affordable option in a central location. These plots allow efficient construction and easy maintenance."
+      },
+      {
+        "title": "6 Marla Plot in New Industrial Township Faridabad",
+        "description": "6 Marla plots offer a balanced combination of affordability and comfortable living space, ideal for practical family homes."
+      },
+      {
+        "title": "8 Marla Plot in New Industrial Township Faridabad",
+        "description": "An 8 Marla plot provides adequate space for modern home layouts, proper ventilation, and parking facilities."
+      },
+      {
+        "title": "10 Marla Plot in New Industrial Township Faridabad",
+        "description": "10 Marla plots are preferred by buyers seeking spacious independent houses with better privacy and design flexibility."
+      },
+      {
+        "title": "12 Marla Plot in New Industrial Township Faridabad",
+        "description": "A 12 Marla plot supports premium residential construction with generous space and long-term comfort."
+      },
+      {
+        "title": "14 Marla Plot in New Industrial Township Faridabad",
+        "description": "14 Marla plots represent premium residential land options with strong resale value in this well-established area."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Residential Plots in New Industrial Township and Nearby Areas",
+    "description": [
+      "Buyers interested in a plot in New Industrial Township Faridabad often explore nearby sectors to compare pricing, connectivity, and infrastructure.",
+      "This comparison helps buyers understand why NIT remains a preferred and trusted residential location in Faridabad."
+    ],
+    "locations": [
+      { "title": "Plot in New Industrial Township Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 16 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 15 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 28 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Residential Plot in Central Faridabad", "path": "/", "icon": "Layers" },
+      { "title": "Residential Land for Sale in Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Faridabad", "path": "/", "icon": "Home" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in New Industrial Township",
+    "description": [
+      "Buying a residential plot in an established area like New Industrial Township Faridabad requires accurate information, legal clarity, and local expertise. Deal Acres focuses on transparency and verified listings to protect buyer interests.",
+      "With a customer-first approach and deep market understanding, Deal Acres has become a trusted platform for genuine residential plot buyers."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are checked for ownership, approvals, and legal authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing details with no hidden charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of New Industrial Township property trends."
+      },
+      {
+        "title": "Multiple Plot Options",
+        "description": "Availability of different plot sizes to match buyer needs."
+      },
+      {
+        "title": "Buyer-Focused Platform",
+        "description": "Designed to address real buyer concerns clearly and honestly."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "Quick access to relevant and verified plot listings."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from plot selection to documentation and registration."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Deal Acres is a preferred choice for serious residential buyers."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in New Industrial Township",
+    "description": "Helpful answers to common buyer questions for confident decision-making.",
+    "faqs": [
+      {
+        "question": "Is New Industrial Township Faridabad a good area to buy a plot?",
+        "answer": "Yes, NIT is a centrally located and well-developed area with strong infrastructure and stable property demand."
+      },
+      {
+        "question": "What plot sizes are available in New Industrial Township Faridabad?",
+        "answer": "Plots are generally available from 4 Marla to 14 Marla, subject to availability."
+      },
+      {
+        "question": "Are plots in NIT Faridabad legally approved?",
+        "answer": "Most plots listed on trusted platforms are verified for legal approvals and ownership."
+      },
+      {
+        "question": "Is New Industrial Township suitable for family living?",
+        "answer": "Yes, the area offers a safe, well-connected, and family-friendly environment."
+      },
+      {
+        "question": "How is connectivity from New Industrial Township?",
+        "answer": "NIT has excellent connectivity to Mathura Road, Metro stations, and major city areas."
+      },
+      {
+        "question": "Can I build my own house on the plot?",
+        "answer": "Yes, construction is allowed as per local authority building norms."
+      },
+      {
+        "question": "Is NIT good for long-term investment?",
+        "answer": "Due to limited land availability and high demand, NIT offers stable long-term value."
+      },
+      {
+        "question": "What amenities are available nearby?",
+        "answer": "Schools, hospitals, markets, parks, and public transport are easily accessible."
+      },
+      {
+        "question": "What factors affect plot prices in NIT Faridabad?",
+        "answer": "Plot size, exact location, road access, and market demand influence prices."
+      },
+      {
+        "question": "How does Deal Acres help plot buyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, transparent pricing, and full buying support."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help to Buy Residential Plots in New Industrial Township",
+    "description": [
+      "Buying a plot in New Industrial Township Faridabad becomes easier and safer with expert guidance and accurate local insights. Professional assistance helps buyers avoid risks and make informed property decisions.",
+      "Share your details to connect with experienced property advisors who will guide you throughout your plot-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

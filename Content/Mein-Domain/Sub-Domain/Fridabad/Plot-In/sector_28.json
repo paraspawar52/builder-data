@@ -1,0 +1,174 @@
+{
+  "domain": "Plot.com",
+
+  "hero": {
+    "title": "Residential Plots for Sale in Prime and Central Sector 28",
+    "description": [
+      "Sector 28 Faridabad is a premium and centrally located residential area known for its excellent connectivity, developed infrastructure, and established neighborhood. Buyers looking for a plot in Sector 28 Faridabad prefer this locality because of its close proximity to Mathura Road, NH-19, metro stations, business hubs, and major commercial areas. The sector offers a peaceful residential environment while keeping daily conveniences and workplaces within easy reach.",
+      "Plots in Sector 28 Faridabad are highly suitable for families planning to build independent homes in a mature and well-serviced locality. Due to limited availability of land and consistent demand, this area also attracts investors seeking stable property value and long-term appreciation. With reputed schools, hospitals, shopping centers, and green spaces nearby, Sector 28 remains one of the most reliable and sought-after locations for residential plot buyers in Faridabad."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 28",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in Sector 28 Faridabad",
+    "description": [
+      "Choosing the right plot size is an important decision when planning your future home or making a long-term property investment. Sector 28 Faridabad offers multiple residential plot sizes to suit different budgets, family requirements, and construction plans.",
+      "From compact plots for practical housing to larger plots for spacious independent homes, plots in Sector 28 Faridabad provide flexibility, premium location advantage, and long-term residential value."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 28 Faridabad",
+        "description": "A 4 Marla plot in Sector 28 Faridabad is suitable for small families or buyers looking for a compact home in a prime location. These plots allow efficient construction and easy maintenance."
+      },
+      {
+        "title": "6 Marla Plot in Sector 28 Faridabad",
+        "description": "6 Marla plots offer a balanced option for comfortable family living with better space planning. A 6 Marla plot in Sector 28 Faridabad is ideal for practical yet spacious homes."
+      },
+      {
+        "title": "8 Marla Plot in Sector 28 Faridabad",
+        "description": "An 8 Marla plot provides ample space for modern layouts, ventilation, and parking facilities, making it a preferred choice for growing families."
+      },
+      {
+        "title": "10 Marla Plot in Sector 28 Faridabad",
+        "description": "10 Marla plots are popular among buyers looking for spacious independent houses with privacy and flexible architectural design options."
+      },
+      {
+        "title": "12 Marla Plot in Sector 28 Faridabad",
+        "description": "A 12 Marla plot supports premium residential construction with generous open areas and long-term comfort in a prime locality."
+      },
+      {
+        "title": "14 Marla Plot in Sector 28 Faridabad",
+        "description": "14 Marla plots represent premium residential land options, ideal for luxury homes and strong long-term appreciation in Sector 28."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Residential Plots in Sector 28 and Nearby Faridabad Areas",
+    "description": [
+      "Buyers searching for a plot in Sector 28 Faridabad often compare nearby localities to understand price trends, connectivity, and infrastructure benefits.",
+      "Exploring surrounding sectors helps buyers see why Sector 28 continues to stand out as a premium and well-established residential location."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 28 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 27 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 16 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 15 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Residential Plot in Central Faridabad", "path": "/", "icon": "Layers" },
+      { "title": "Residential Land for Sale in Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Faridabad", "path": "/", "icon": "Home" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Trusted Choice for Plots in Sector 28",
+    "description": [
+      "Buying a residential plot in a prime area like Sector 28 Faridabad requires verified information, legal clarity, and expert market guidance. Deal Acres focuses on transparency and accuracy to help buyers make confident property decisions.",
+      "With strong local expertise and a customer-first approach, Deal Acres has become a reliable platform for genuine residential plot buyers in Faridabad."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are thoroughly verified for ownership, approvals, and legal documentation."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear and honest pricing information with no hidden costs."
+      },
+      {
+        "title": "Prime Location Expertise",
+        "description": "Deep understanding of Sector 28 Faridabad property dynamics."
+      },
+      {
+        "title": "Multiple Plot Size Options",
+        "description": "Wide range of plot sizes to match different buyer requirements."
+      },
+      {
+        "title": "Buyer-Centric Platform",
+        "description": "Designed to solve real buyer concerns with clarity and trust."
+      },
+      {
+        "title": "Quick and Easy Search",
+        "description": "Fast access to verified and relevant residential plot listings."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Complete assistance from plot selection to registration."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Deal Acres is widely trusted by serious residential plot buyers."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 28 Faridabad",
+    "description": "Detailed answers to common questions to help buyers plan confidently.",
+    "faqs": [
+      {
+        "question": "Is Sector 28 Faridabad a good location to buy a plot?",
+        "answer": "Yes, Sector 28 is a prime and centrally located area with excellent infrastructure and stable property demand."
+      },
+      {
+        "question": "What plot sizes are available in Sector 28 Faridabad?",
+        "answer": "Plots are generally available from 4 Marla to 14 Marla, subject to availability."
+      },
+      {
+        "question": "Are plots in Sector 28 legally approved?",
+        "answer": "Most plots listed on reliable platforms like Deal Acres are verified for legal approvals and ownership."
+      },
+      {
+        "question": "Is Sector 28 suitable for family living?",
+        "answer": "Yes, the sector offers a peaceful, secure, and family-friendly residential environment."
+      },
+      {
+        "question": "How is connectivity from Sector 28 Faridabad?",
+        "answer": "Sector 28 has excellent connectivity to NH-19, Metro stations, and major city areas."
+      },
+      {
+        "question": "Can I build my own house on the plot?",
+        "answer": "Yes, construction is permitted as per local authority building norms."
+      },
+      {
+        "question": "Is Sector 28 good for long-term investment?",
+        "answer": "Due to limited land availability and high demand, Sector 28 offers strong long-term value."
+      },
+      {
+        "question": "What amenities are available near Sector 28?",
+        "answer": "The area has access to schools, hospitals, malls, parks, and daily-need markets."
+      },
+      {
+        "question": "What factors affect plot prices in Sector 28?",
+        "answer": "Plot size, exact location, road access, and market demand influence pricing."
+      },
+      {
+        "question": "How does Deal Acres help plot buyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, transparent pricing, and complete buying support."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Connect With Experts to Buy Residential Plots in Sector 28",
+    "description": [
+      "Buying a plot in Sector 28 Faridabad becomes easier and safer with professional guidance and accurate local market insights. Expert assistance helps buyers avoid risks and choose the right property.",
+      "Share your details to connect with experienced property advisors who will support you throughout your plot-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

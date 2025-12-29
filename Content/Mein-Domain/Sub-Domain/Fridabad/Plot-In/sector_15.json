@@ -1,0 +1,174 @@
+{
+  "domain": "Plot.com",
+
+  "hero": {
+    "title": "Residential Plots for Sale in Prime Sector 15 Faridabad",
+    "description": [
+      "Sector 15 Faridabad is one of the most premium and centrally located residential sectors in the city. Buyers searching for a plot in Sector 15 Faridabad prefer this locality because of its well-planned layout, wide roads, green surroundings, and excellent civic infrastructure. The sector is surrounded by reputed schools, hospitals, shopping markets, and offices, making it an ideal choice for families who want to live close to everyday conveniences while enjoying a peaceful residential environment.",
+      "Plots in Sector 15 Faridabad are highly sought after due to limited availability and consistent demand. The area enjoys excellent connectivity to Mathura Road, Old Faridabad, Delhi borders, and public transport facilities. With strong resale value, stable appreciation, and a mature neighborhood, Sector 15 continues to remain a trusted destination for residential plot buyers and long-term investors."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 15",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Plot Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in Sector 15 Faridabad",
+    "description": [
+      "Choosing the right plot size is an important step when planning your home or making a secure property investment. Sector 15 Faridabad offers multiple residential plot size options to match different family requirements, architectural preferences, and budget ranges.",
+      "From compact plots suitable for practical homes to larger plots ideal for spacious independent houses, plots in Sector 15 Faridabad provide flexibility, comfort, and long-term residential value."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 15 Faridabad",
+        "description": "A 4 Marla plot in Sector 15 Faridabad is suitable for small families and buyers looking for an efficient residential option in a prime locality."
+      },
+      {
+        "title": "6 Marla Plot in Sector 15 Faridabad",
+        "description": "6 Marla plots offer a balance between affordability and comfort. A 6 Marla plot in Sector 15 Faridabad allows practical home planning with good living space."
+      },
+      {
+        "title": "8 Marla Plot in Sector 15 Faridabad",
+        "description": "An 8 Marla plot provides ample space for modern home designs, proper ventilation, and parking, making it ideal for growing families."
+      },
+      {
+        "title": "10 Marla Plot in Sector 15 Faridabad",
+        "description": "10 Marla plots are preferred by buyers seeking spacious independent homes with enhanced privacy and flexible layouts."
+      },
+      {
+        "title": "12 Marla Plot in Sector 15 Faridabad",
+        "description": "A 12 Marla plot offers generous space for premium residential construction and long-term comfortable living."
+      },
+      {
+        "title": "14 Marla Plot in Sector 15 Faridabad",
+        "description": "14 Marla plots represent premium residential land options suitable for luxury homes and strong appreciation potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Residential Plots in Sector 15 Faridabad and Nearby Areas",
+    "description": [
+      "Buyers looking for a plot in Sector 15 Faridabad often explore nearby central sectors to compare pricing, connectivity, and lifestyle benefits.",
+      "Exploring surrounding locations helps buyers understand why Sector 15 continues to be one of the most desirable residential areas in Faridabad."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 15 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 14 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 16 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 10 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Residential Plot in Central Faridabad", "path": "/", "icon": "Layers" },
+      { "title": "Residential Land for Sale in Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Faridabad", "path": "/", "icon": "Home" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Deal Acres Is Trusted for Plots in Sector 15 Faridabad",
+    "description": [
+      "Buying a residential plot in a premium locality like Sector 15 Faridabad requires verified listings, transparent pricing, and legal clarity. Deal Acres focuses on providing accurate property information and genuine plot options.",
+      "With strong local market knowledge and a customer-first approach, Deal Acres has become a trusted platform for residential plot buyers in Faridabad."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are verified for ownership, approvals, and legal documentation."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden or misleading charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Deep understanding of Sector 15 Faridabad property trends."
+      },
+      {
+        "title": "Multiple Plot Size Options",
+        "description": "Plot size choices available to suit different buyer needs."
+      },
+      {
+        "title": "Customer-Centric Platform",
+        "description": "Designed to solve real buyer concerns efficiently."
+      },
+      {
+        "title": "Easy Property Discovery",
+        "description": "Quick access to genuine and relevant plot listings."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from plot selection to final registration."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Deal Acres is a preferred choice among serious residential buyers."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 15 Faridabad",
+    "description": "Detailed answers to common buyer questions for better decision-making.",
+    "faqs": [
+      {
+        "question": "Is Sector 15 Faridabad a good area to buy a plot?",
+        "answer": "Yes, Sector 15 is a premium and centrally located residential area with excellent infrastructure and strong demand."
+      },
+      {
+        "question": "What plot sizes are available in Sector 15 Faridabad?",
+        "answer": "Plots are generally available from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Are plots in Sector 15 legally approved?",
+        "answer": "Most plots listed through trusted platforms like Deal Acres are verified for legal approvals and ownership."
+      },
+      {
+        "question": "Is Sector 15 suitable for family living?",
+        "answer": "Yes, the sector offers a peaceful, secure, and family-friendly environment."
+      },
+      {
+        "question": "How is connectivity from Sector 15 Faridabad?",
+        "answer": "Sector 15 has excellent connectivity to Mathura Road, Delhi borders, and public transport routes."
+      },
+      {
+        "question": "Can I build my own house on the plot?",
+        "answer": "Yes, residential plots allow construction as per approved building bylaws."
+      },
+      {
+        "question": "Is Sector 15 good for long-term investment?",
+        "answer": "Due to limited availability and steady demand, Sector 15 offers strong long-term appreciation."
+      },
+      {
+        "question": "What amenities are available nearby?",
+        "answer": "Schools, hospitals, markets, parks, banks, and daily-need stores are easily accessible."
+      },
+      {
+        "question": "What factors affect plot prices in Sector 15?",
+        "answer": "Plot size, location within the sector, road access, and market demand influence prices."
+      },
+      {
+        "question": "How does Deal Acres help plot buyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, transparent pricing, and end-to-end buying support."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance to Buy Residential Plots in Sector 15 Faridabad",
+    "description": [
+      "Buying a plot in Sector 15 Faridabad becomes smooth and secure with expert guidance and accurate local insights. Professional support helps buyers avoid legal risks and make confident decisions.",
+      "Share your details to connect with experienced property advisors who will assist you throughout your plot-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

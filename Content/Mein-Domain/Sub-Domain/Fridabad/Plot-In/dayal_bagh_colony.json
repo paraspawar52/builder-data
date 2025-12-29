@@ -1,0 +1,174 @@
+{
+  "domain": "Plot.com",
+
+  "hero": {
+    "title": "Residential Plots for Sale in Well Established Dayal Bagh Colony",
+    "description": [
+      "Dayal Bagh Colony Faridabad is a well-developed residential locality known for its peaceful surroundings, strong civic infrastructure, and excellent connectivity to central parts of the city. Buyers searching for a plot in Dayal Bagh Colony Faridabad are attracted by its settled neighborhood, wide internal roads, and close proximity to daily convenience markets, schools, hospitals, and public transport. The area offers a comfortable lifestyle suitable for families as well as end users planning independent home construction.",
+      "Plots in Dayal Bagh Colony Faridabad are considered a stable and secure investment due to limited land availability and consistent residential demand. The locality enjoys good access to Mathura Road and nearby prime sectors, making daily commuting smooth. Whether you are planning to build your own home or looking for long-term appreciation, Dayal Bagh Colony offers reliability, livability, and lasting property value."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Dayal Bagh Colony",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Plot Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in Dayal Bagh Colony",
+    "description": [
+      "Choosing the right plot size plays a major role in planning a comfortable home or making a sound real estate investment. Dayal Bagh Colony Faridabad offers multiple residential plot size options to match different budgets and construction requirements.",
+      "From compact plots for practical homes to larger plots for spacious independent houses, plots in Dayal Bagh Colony provide flexibility, efficient land use, and long-term residential value."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Dayal Bagh Colony Faridabad",
+        "description": "A 4 Marla plot in Dayal Bagh Colony Faridabad is suitable for buyers looking for affordable residential land with easy maintenance and smart home planning."
+      },
+      {
+        "title": "6 Marla Plot in Dayal Bagh Colony Faridabad",
+        "description": "6 Marla plots offer a balanced combination of affordability and usable living space, ideal for small to mid-sized families."
+      },
+      {
+        "title": "8 Marla Plot in Dayal Bagh Colony Faridabad",
+        "description": "An 8 Marla plot provides adequate space for modern home layouts, parking, and better ventilation."
+      },
+      {
+        "title": "10 Marla Plot in Dayal Bagh Colony Faridabad",
+        "description": "10 Marla plots are ideal for buyers planning spacious independent homes with enhanced privacy and comfort."
+      },
+      {
+        "title": "12 Marla Plot in Dayal Bagh Colony Faridabad",
+        "description": "A 12 Marla plot supports premium residential construction with flexible architectural planning and open areas."
+      },
+      {
+        "title": "14 Marla Plot in Dayal Bagh Colony Faridabad",
+        "description": "14 Marla plots represent premium residential land options with strong resale value and long-term appreciation."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Residential Plots in Dayal Bagh Colony and Nearby Areas",
+    "description": [
+      "Buyers interested in a plot in Dayal Bagh Colony Faridabad often explore nearby localities to compare pricing, infrastructure, and connectivity advantages.",
+      "This helps buyers understand the strong residential value and location benefits offered by Dayal Bagh Colony."
+    ],
+    "locations": [
+      { "title": "Plot in Dayal Bagh Colony Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Nav Durga Vihar Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 9 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 10 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Residential Plot in Central Faridabad", "path": "/", "icon": "Layers" },
+      { "title": "Residential Land for Sale in Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Faridabad", "path": "/", "icon": "Home" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Deal Acres Is Trusted for Plots in Dayal Bagh Colony",
+    "description": [
+      "Buying a residential plot in a prime area like Dayal Bagh Colony Faridabad requires verified information, transparent pricing, and expert guidance. Deal Acres ensures buyers receive accurate and legally clear plot listings.",
+      "With a customer-first approach and strong local market knowledge, Deal Acres has become a trusted platform for residential plot buyers in Faridabad."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are verified for ownership, approvals, and legal documentation."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing details with no hidden charges."
+      },
+      {
+        "title": "Local Area Expertise",
+        "description": "In-depth understanding of Dayal Bagh Colony property trends."
+      },
+      {
+        "title": "Multiple Plot Size Options",
+        "description": "Wide range of plot sizes to suit different buyer needs."
+      },
+      {
+        "title": "Customer-Focused Platform",
+        "description": "Designed to solve real buyer concerns with clarity and trust."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "Quick access to relevant and verified plot listings."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from plot selection to final registration."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Deal Acres is preferred by serious residential plot buyers."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Dayal Bagh Colony",
+    "description": "Detailed answers to common buyer questions to help make informed property decisions.",
+    "faqs": [
+      {
+        "question": "Is Dayal Bagh Colony Faridabad a good place to buy a plot?",
+        "answer": "Yes, it is a well-established residential locality with strong infrastructure, good connectivity, and steady property demand."
+      },
+      {
+        "question": "What plot sizes are available in Dayal Bagh Colony?",
+        "answer": "Plot sizes generally range from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Are plots in Dayal Bagh Colony legally approved?",
+        "answer": "Most plots listed on trusted platforms like Deal Acres are verified for ownership and legal approvals."
+      },
+      {
+        "question": "Is the area suitable for family living?",
+        "answer": "Yes, Dayal Bagh Colony is peaceful, safe, and well-suited for families."
+      },
+      {
+        "question": "How is connectivity from Dayal Bagh Colony?",
+        "answer": "The locality has good connectivity to Mathura Road and central Faridabad."
+      },
+      {
+        "question": "Can I build my own house on the plot?",
+        "answer": "Yes, residential plots allow construction as per local building regulations."
+      },
+      {
+        "question": "Is Dayal Bagh Colony good for long-term investment?",
+        "answer": "Due to limited land supply and consistent demand, it offers good long-term appreciation."
+      },
+      {
+        "question": "What amenities are available nearby?",
+        "answer": "Schools, hospitals, markets, banks, and daily-use facilities are easily accessible."
+      },
+      {
+        "question": "What factors affect plot prices here?",
+        "answer": "Plot size, road access, exact location, and market demand influence pricing."
+      },
+      {
+        "question": "How does Deal Acres help plot buyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, transparent pricing, and complete buying support."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help to Buy Residential Plots in Dayal Bagh Colony",
+    "description": [
+      "Buying a plot in Dayal Bagh Colony Faridabad becomes simpler and safer with professional assistance and local market insights. Expert guidance helps buyers avoid legal risks and make confident decisions.",
+      "Share your details to connect with experienced property advisors who will assist you throughout your plot-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

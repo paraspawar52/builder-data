@@ -1,0 +1,174 @@
+{
+  "domain": "Plot.com",
+
+  "hero": {
+    "title": "Residential Plots for Sale in Prime Sector 4 Faridabad",
+    "description": [
+      "Sector 4 Faridabad is a well-established residential locality known for its central location, planned infrastructure, and peaceful living environment. Buyers looking for a plot in Sector 4 Faridabad prefer this area due to its proximity to major roads, commercial markets, educational institutions, hospitals, and everyday convenience facilities. The sector offers a balanced lifestyle with organized internal roads, green surroundings, and a secure residential atmosphere that suits families planning to build independent homes.",
+      "Plots in Sector 4 Faridabad are ideal for both self-use and long-term investment. Due to limited availability of vacant land and consistent residential demand, the locality holds strong appreciation potential. With easy connectivity to Mathura Road, nearby sectors, and central Faridabad, Sector 4 continues to remain a preferred choice for buyers seeking comfort, connectivity, and long-term property value."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 4",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Plot Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in Sector 4 Faridabad",
+    "description": [
+      "Choosing the right plot size is a key decision when planning a home or making a secure property investment. Sector 4 Faridabad offers multiple residential plot size options to suit different family requirements and budgets.",
+      "From compact plots for practical housing to larger plots for spacious independent homes, plots in Sector 4 Faridabad provide flexibility, efficient land utilization, and long-term residential value."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 4 Faridabad",
+        "description": "A 4 Marla plot in Sector 4 Faridabad is suitable for small families and first-time buyers. These plots allow smart construction with lower investment and easy maintenance."
+      },
+      {
+        "title": "6 Marla Plot in Sector 4 Faridabad",
+        "description": "6 Marla plots offer a balanced mix of affordability and comfort, ideal for practical home layouts and everyday living."
+      },
+      {
+        "title": "8 Marla Plot in Sector 4 Faridabad",
+        "description": "An 8 Marla plot provides ample space for modern house designs, parking facilities, and proper ventilation."
+      },
+      {
+        "title": "10 Marla Plot in Sector 4 Faridabad",
+        "description": "10 Marla plots are preferred by buyers looking for spacious independent homes with enhanced privacy and flexible planning."
+      },
+      {
+        "title": "12 Marla Plot in Sector 4 Faridabad",
+        "description": "A 12 Marla plot supports premium residential construction with generous open areas and long-term comfort."
+      },
+      {
+        "title": "14 Marla Plot in Sector 4 Faridabad",
+        "description": "14 Marla plots represent premium residential land options, ideal for large homes and strong resale potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Residential Plots in Sector 4 and Nearby Faridabad Areas",
+    "description": [
+      "Buyers searching for a plot in Sector 4 Faridabad often explore nearby sectors to compare pricing, infrastructure, and connectivity advantages.",
+      "This exploration helps buyers understand why Sector 4 remains a reliable and well-preferred residential location in Faridabad."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 4 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 5 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 3 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 2 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Residential Plot in Central Faridabad", "path": "/", "icon": "Layers" },
+      { "title": "Residential Land for Sale in Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Faridabad", "path": "/", "icon": "Home" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Deal Acres Is Trusted for Plots in Sector 4 Faridabad",
+    "description": [
+      "Buying a residential plot in Sector 4 Faridabad requires verified listings, transparent pricing, and expert local guidance. Deal Acres focuses on providing accurate information and legally clear properties.",
+      "With strong local market knowledge and a customer-first approach, Deal Acres has earned the trust of buyers looking for secure and hassle-free plot investments."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are verified for ownership, legal approvals, and documentation."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden or unexpected costs."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth understanding of Sector 4 Faridabad property trends."
+      },
+      {
+        "title": "Multiple Plot Size Options",
+        "description": "Wide range of plot sizes to suit different buyer needs."
+      },
+      {
+        "title": "Customer-Centric Platform",
+        "description": "Designed to solve real buyer concerns efficiently."
+      },
+      {
+        "title": "Easy Property Discovery",
+        "description": "Quick access to genuine and relevant plot listings."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Complete support from plot selection to registration."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Deal Acres is a preferred choice among serious residential buyers."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 4 Faridabad",
+    "description": "Detailed answers to common buyer questions to support confident property decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 4 Faridabad a good location to buy a plot?",
+        "answer": "Yes, Sector 4 is a centrally located and well-developed residential area with stable demand and good connectivity."
+      },
+      {
+        "question": "What plot sizes are available in Sector 4 Faridabad?",
+        "answer": "Plots are generally available from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Are plots in Sector 4 legally approved?",
+        "answer": "Most plots listed through trusted platforms like Deal Acres are verified for legal approvals and ownership."
+      },
+      {
+        "question": "Is Sector 4 suitable for family living?",
+        "answer": "Yes, the sector offers a peaceful and family-friendly environment with essential amenities nearby."
+      },
+      {
+        "question": "How is connectivity from Sector 4 Faridabad?",
+        "answer": "Sector 4 has excellent connectivity to major roads, central Faridabad, and nearby sectors."
+      },
+      {
+        "question": "Can I construct my own house on the plot?",
+        "answer": "Yes, residential plots allow construction as per local authority building norms."
+      },
+      {
+        "question": "Is Sector 4 good for long-term investment?",
+        "answer": "Due to limited plot availability and steady demand, it offers good long-term appreciation."
+      },
+      {
+        "question": "What amenities are available near Sector 4?",
+        "answer": "Schools, hospitals, parks, markets, banks, and public transport are easily accessible."
+      },
+      {
+        "question": "What factors affect plot prices in Sector 4?",
+        "answer": "Plot size, road access, exact location, and market demand influence prices."
+      },
+      {
+        "question": "How does Deal Acres help plot buyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, transparent pricing, and end-to-end support."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help to Buy Residential Plots in Sector 4 Faridabad",
+    "description": [
+      "Buying a plot in Sector 4 Faridabad becomes smooth and secure with professional guidance and accurate local insights. Expert support helps buyers avoid legal risks and make informed decisions.",
+      "Share your details to connect with experienced property advisors who will assist you throughout your plot-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

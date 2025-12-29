@@ -1,0 +1,174 @@
+{
+  "domain": "Plot.com",
+
+  "hero": {
+    "title": "Residential Plots for Sale in Premium Charmwood Village Faridabad",
+    "description": [
+      "Charmwood Village Faridabad is a well-known and premium residential locality, appreciated for its greenery, planned infrastructure, and peaceful living environment. Buyers searching for a plot in Charmwood Village Faridabad are drawn to its excellent location near Surajkund Road, smooth connectivity to Delhi, and proximity to South Faridabad’s developed sectors. The area offers wide internal roads, parks, and a calm atmosphere that supports quality residential living.",
+      "Plots in Charmwood Village Faridabad are ideal for families looking to build independent homes in a secure and upscale neighborhood. The locality is surrounded by reputed schools, hospitals, shopping complexes, and recreational spaces, ensuring everyday convenience. Due to limited plot availability and consistent demand, Charmwood Village also holds strong long-term investment value, making it a preferred choice for both end-users and investors."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Charmwood Village",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in Charmwood Village Faridabad",
+    "description": [
+      "Selecting the right plot size is an important decision when planning your dream home or evaluating a long-term property investment. Charmwood Village Faridabad offers multiple residential plot size options that cater to different family needs and lifestyle preferences.",
+      "From compact plots for efficient construction to larger plots for luxury independent houses, plots in Charmwood Village Faridabad provide flexibility, usability, and strong residential value."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Charmwood Village Faridabad",
+        "description": "A 4 Marla plot in Charmwood Village Faridabad is suitable for small families and buyers looking for a compact yet premium location. These plots support practical home planning and manageable maintenance."
+      },
+      {
+        "title": "6 Marla Plot in Charmwood Village Faridabad",
+        "description": "6 Marla plots offer a balance of space and affordability. A 6 Marla plot in Charmwood Village Faridabad allows comfortable room layouts and everyday convenience."
+      },
+      {
+        "title": "8 Marla Plot in Charmwood Village Faridabad",
+        "description": "An 8 Marla plot in Charmwood Village Faridabad provides adequate space for modern home designs, proper ventilation, and parking."
+      },
+      {
+        "title": "10 Marla Plot in Charmwood Village Faridabad",
+        "description": "10 Marla plots are ideal for buyers seeking spacious independent homes. A 10 Marla plot in Charmwood Village Faridabad supports premium construction and privacy."
+      },
+      {
+        "title": "12 Marla Plot in Charmwood Village Faridabad",
+        "description": "A 12 Marla plot offers generous space for luxury residential construction with flexible architectural planning options."
+      },
+      {
+        "title": "14 Marla Plot in Charmwood Village Faridabad",
+        "description": "14 Marla plots represent premium residential land options, suitable for large homes and strong resale potential in Charmwood Village."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Residential Plots in Charmwood Village and Nearby Areas",
+    "description": [
+      "Buyers interested in a plot in Charmwood Village Faridabad often explore nearby localities to compare location advantages, pricing, and lifestyle benefits.",
+      "Exploring surrounding areas helps buyers understand why Charmwood Village remains one of the most preferred residential locations in South Faridabad."
+    ],
+    "locations": [
+      { "title": "Plot in Charmwood Village Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Surajkund Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 21 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 46 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Residential Plot in South Faridabad", "path": "/", "icon": "Layers" },
+      { "title": "Residential Land for Sale in Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Faridabad", "path": "/", "icon": "Home" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Charmwood Village",
+    "description": [
+      "Buying a residential plot in a premium locality like Charmwood Village Faridabad requires verified listings and transparent information. Deal Acres ensures buyers receive accurate and genuine plot details.",
+      "With strong local market knowledge and a customer-first approach, Deal Acres has become a trusted platform for residential plot buyers across Faridabad."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are verified for ownership, approvals, and legal clarity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden or misleading charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth understanding of Charmwood Village Faridabad property trends."
+      },
+      {
+        "title": "Multiple Plot Size Options",
+        "description": "Wide range of plot sizes to suit different buyer needs."
+      },
+      {
+        "title": "Customer-Centric Platform",
+        "description": "Designed to address real buyer concerns effectively."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "Quick access to genuine and relevant plot listings."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Complete assistance from plot selection to documentation."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Deal Acres is a preferred choice among serious plot buyers."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Charmwood Village Faridabad",
+    "description": "Detailed answers to common questions to help buyers make confident decisions.",
+    "faqs": [
+      {
+        "question": "Is Charmwood Village Faridabad a good location to buy a plot?",
+        "answer": "Yes, Charmwood Village is a premium and well-established residential area with excellent connectivity and lifestyle amenities."
+      },
+      {
+        "question": "What plot sizes are available in Charmwood Village?",
+        "answer": "Residential plots generally range from 4 Marla to 14 Marla, subject to availability."
+      },
+      {
+        "question": "Are plots in Charmwood Village legally approved?",
+        "answer": "Most plots listed through trusted platforms like Deal Acres are verified for ownership and legal approvals."
+      },
+      {
+        "question": "Is Charmwood Village suitable for family living?",
+        "answer": "Yes, the area is peaceful, green, and family-friendly with schools and hospitals nearby."
+      },
+      {
+        "question": "How is connectivity from Charmwood Village?",
+        "answer": "The locality has excellent connectivity to Surajkund Road, South Faridabad, and Delhi."
+      },
+      {
+        "question": "Can I build my own house on the plot?",
+        "answer": "Yes, residential plots allow construction as per approved building bylaws."
+      },
+      {
+        "question": "Is Charmwood Village good for long-term investment?",
+        "answer": "Due to limited land supply and consistent demand, it offers strong long-term appreciation."
+      },
+      {
+        "question": "What amenities are available nearby?",
+        "answer": "Schools, hospitals, shopping complexes, parks, and recreational facilities are easily accessible."
+      },
+      {
+        "question": "What factors influence plot prices in Charmwood Village?",
+        "answer": "Plot size, location within the colony, road access, and market demand affect pricing."
+      },
+      {
+        "question": "How does Deal Acres help plot buyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, transparent pricing, and complete buying support."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance to Buy Residential Plots in Charmwood Village",
+    "description": [
+      "Buying a plot in Charmwood Village Faridabad becomes simple and secure with expert guidance and accurate market insights. Professional support helps buyers avoid legal risks and make informed decisions.",
+      "Share your details to connect with experienced property advisors who will assist you throughout your plot-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

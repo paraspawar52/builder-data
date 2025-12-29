@@ -1,0 +1,174 @@
+{
+  "domain": "Plot.com",
+
+  "hero": {
+    "title": "Residential Plots for Sale in Prime and Connected Sector 6 Faridabad",
+    "description": [
+      "Sector 6 Faridabad is one of the well-established and centrally located residential sectors, known for its planned infrastructure, wide roads, and calm living environment. Buyers searching for a plot in Sector 6 Faridabad prefer this location because of its strong connectivity to Mathura Road, NH-44, and important commercial and residential hubs of the city. The sector offers a balanced lifestyle with greenery, organized development, and easy access to daily essentials.",
+      "Plots in Sector 6 Faridabad are highly valued due to limited availability and steady residential demand. The locality is surrounded by reputed schools, hospitals, markets, parks, and reliable public transport options. With stable property appreciation, a secure neighborhood, and mature civic amenities, Sector 6 continues to be a trusted choice for homebuyers and investors looking for residential land in Faridabad."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 6",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in Sector 6 Faridabad",
+    "description": [
+      "Selecting the right plot size is a key decision when planning your dream home or making a long-term real estate investment. Sector 6 Faridabad offers a variety of residential plot sizes to suit different family requirements, budgets, and construction plans.",
+      "From compact plots for efficient housing to larger land parcels for spacious independent homes, plots in Sector 6 Faridabad provide flexibility, privacy, and reliable long-term value in a prime central location."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 6 Faridabad",
+        "description": "A 4 Marla plot in Sector 6 Faridabad is suitable for buyers seeking a compact and budget-friendly residential option. These plots support smart home designs, easy maintenance, and consistent resale demand."
+      },
+      {
+        "title": "6 Marla Plot in Sector 6 Faridabad",
+        "description": "6 Marla plots offer a practical balance of space and affordability. A 6 Marla plot in Sector 6 Faridabad allows comfortable layouts, parking space, and efficient living for small families."
+      },
+      {
+        "title": "8 Marla Plot in Sector 6 Faridabad",
+        "description": "An 8 Marla plot in Sector 6 Faridabad provides greater flexibility for modern home construction. Buyers can plan spacious interiors, proper ventilation, and better privacy."
+      },
+      {
+        "title": "10 Marla Plot in Sector 6 Faridabad",
+        "description": "10 Marla plots are ideal for buyers planning larger independent homes. A 10 Marla plot in Sector 6 Faridabad supports premium layouts, multiple floors, and enhanced lifestyle comfort."
+      },
+      {
+        "title": "12 Marla Plot in Sector 6 Faridabad",
+        "description": "A 12 Marla plot offers generous space for luxury residential construction. Buyers benefit from design freedom, open areas, and strong long-term appreciation."
+      },
+      {
+        "title": "14 Marla Plot in Sector 6 Faridabad",
+        "description": "14 Marla plots represent premium residential land options. A 14 Marla plot in Sector 6 Faridabad is ideal for spacious independent homes and delivers excellent investment potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Residential Plots in Sector 6 Faridabad and Nearby Areas",
+    "description": [
+      "Buyers looking for a plot in Sector 6 Faridabad often explore nearby sectors to compare pricing, availability, and connectivity benefits.",
+      "Exploring surrounding areas helps buyers understand why Sector 6 remains a reliable and preferred residential location in Faridabad."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 6 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 3 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 7 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 11 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Residential Plot in Central Faridabad", "path": "/", "icon": "Layers" },
+      { "title": "Residential Land for Sale in Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Faridabad", "path": "/", "icon": "Home" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 6 Faridabad",
+    "description": [
+      "Buying a residential plot in an established locality like Sector 6 Faridabad requires verified information, legal clarity, and expert guidance. Deal Acres ensures buyers receive accurate, transparent, and trustworthy plot listings.",
+      "With a customer-first approach and deep local market knowledge, Deal Acres has become a preferred platform for buyers seeking reliable residential plot options in Faridabad."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are verified for ownership, approvals, and legal documentation."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden charges or surprises."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 6 Faridabad property trends."
+      },
+      {
+        "title": "Multiple Plot Size Options",
+        "description": "Wide range of plot sizes to match different buyer needs."
+      },
+      {
+        "title": "Customer-Centric Platform",
+        "description": "Designed to solve real buyer concerns efficiently."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "Quick access to genuine and relevant plot listings."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Complete assistance from plot selection to registration."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Deal Acres is trusted by thousands of satisfied homebuyers."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 6 Faridabad",
+    "description": "Detailed answers to common buyer questions to help you make confident property decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 6 Faridabad a good location to buy a plot?",
+        "answer": "Yes, Sector 6 Faridabad is a centrally located and well-developed residential area with strong connectivity and stable property value."
+      },
+      {
+        "question": "What plot sizes are available in Sector 6 Faridabad?",
+        "answer": "Plots in Sector 6 Faridabad are generally available from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Are plots in Sector 6 legally approved?",
+        "answer": "Most plots listed through trusted platforms like Deal Acres are verified for legal approvals and ownership clarity."
+      },
+      {
+        "question": "Is Sector 6 suitable for family living?",
+        "answer": "Yes, the sector offers a peaceful, secure, and family-friendly residential environment."
+      },
+      {
+        "question": "How is connectivity from Sector 6 Faridabad?",
+        "answer": "Sector 6 has excellent connectivity to Mathura Road, NH-44, and major parts of Faridabad."
+      },
+      {
+        "question": "Can I build my own house on the plot?",
+        "answer": "Yes, residential plots allow construction as per approved building bylaws."
+      },
+      {
+        "question": "Is Sector 6 good for long-term investment?",
+        "answer": "Limited availability and consistent demand make Sector 6 a strong long-term investment option."
+      },
+      {
+        "question": "What amenities are available nearby?",
+        "answer": "The locality offers schools, hospitals, markets, parks, and public transport facilities."
+      },
+      {
+        "question": "What factors affect plot prices in Sector 6?",
+        "answer": "Plot size, location within the sector, road access, and market demand influence pricing."
+      },
+      {
+        "question": "How does Deal Acres help plot buyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, transparent pricing, and complete buying support."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance to Buy Residential Plots in Sector 6 Faridabad",
+    "description": [
+      "Buying a plot in Sector 6 Faridabad becomes simpler and safer with expert guidance and accurate market insights. Professional assistance helps buyers avoid legal risks and select the right property.",
+      "Share your details to connect with experienced property advisors who will support you throughout your plot-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

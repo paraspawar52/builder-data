@@ -1,0 +1,174 @@
+{
+  "domain": "Plot.com",
+
+  "hero": {
+    "title": "Residential Plots for Sale in Aitmadpur Sector 33 Faridabad",
+    "description": [
+      "Aitmadpur in Sector 33 Faridabad is an emerging residential locality that is gaining attention for its strategic location, improving infrastructure, and peaceful living environment. Buyers searching for a plot in Aitmadpur, Sector 33 Faridabad are attracted by its proximity to main city roads, nearby residential sectors, educational institutions, hospitals, and daily convenience markets. The area offers a balanced mix of connectivity and calm surroundings, making it suitable for families planning independent home construction.",
+      "Plots in Aitmadpur, Sector 33 Faridabad are ideal for both end users and long-term investors. With steady development activity, improving civic facilities, and growing residential demand, the locality holds promising appreciation potential. Easy access to central Faridabad and nearby commercial zones further strengthens its appeal for buyers looking for value, comfort, and future growth."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Aitmadpur Sector 33",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in Aitmadpur Sector 33",
+    "description": [
+      "Selecting the right plot size is an important decision when planning a home or investing in residential land. Aitmadpur, Sector 33 Faridabad offers a variety of residential plot sizes designed to suit different budgets and lifestyle needs.",
+      "From compact plots for practical homes to larger plots for spacious independent houses, plots in Aitmadpur Sector 33 provide flexibility, efficient land use, and long-term residential value."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Aitmadpur Sector 33 Faridabad",
+        "description": "A 4 Marla plot in Aitmadpur, Sector 33 Faridabad is suitable for small families and first-time buyers seeking affordable residential land with easy maintenance."
+      },
+      {
+        "title": "6 Marla Plot in Aitmadpur Sector 33 Faridabad",
+        "description": "6 Marla plots offer a good balance between affordability and comfortable living space, making them ideal for practical home planning."
+      },
+      {
+        "title": "8 Marla Plot in Aitmadpur Sector 33 Faridabad",
+        "description": "An 8 Marla plot provides enough space for modern layouts, proper ventilation, and parking facilities."
+      },
+      {
+        "title": "10 Marla Plot in Aitmadpur Sector 33 Faridabad",
+        "description": "10 Marla plots are preferred by buyers looking for spacious independent homes with better privacy and flexibility in design."
+      },
+      {
+        "title": "12 Marla Plot in Aitmadpur Sector 33 Faridabad",
+        "description": "A 12 Marla plot supports premium residential construction with generous open spaces and comfortable living."
+      },
+      {
+        "title": "14 Marla Plot in Aitmadpur Sector 33 Faridabad",
+        "description": "14 Marla plots represent premium residential land options with strong resale and appreciation potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Residential Plots in Aitmadpur Sector 33 and Nearby Areas",
+    "description": [
+      "Buyers interested in a plot in Aitmadpur, Sector 33 Faridabad often explore nearby sectors to compare pricing, development status, and connectivity advantages.",
+      "This comparison helps buyers understand the growing residential value of Aitmadpur Sector 33 within Faridabad."
+    ],
+    "locations": [
+      { "title": "Plot in Aitmadpur Sector 33 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 32 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 31 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 34 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Residential Plot in Central Faridabad", "path": "/", "icon": "Layers" },
+      { "title": "Residential Land for Sale in Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Faridabad", "path": "/", "icon": "Home" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Deal Acres Is Trusted for Plots in Aitmadpur Sector 33",
+    "description": [
+      "Buying a residential plot in a developing locality like Aitmadpur, Sector 33 Faridabad requires verified information, legal clarity, and transparent pricing. Deal Acres focuses on providing reliable listings and accurate details.",
+      "With strong local market knowledge and a customer-first approach, Deal Acres has become a trusted platform for residential plot buyers in Faridabad."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are verified for ownership, approvals, and legal authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear and honest pricing with no hidden charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth understanding of Aitmadpur Sector 33 property trends."
+      },
+      {
+        "title": "Multiple Plot Size Options",
+        "description": "Wide range of plot sizes to match different buyer needs."
+      },
+      {
+        "title": "Buyer-Centric Platform",
+        "description": "Designed to solve real buyer concerns with simplicity."
+      },
+      {
+        "title": "Quick Property Discovery",
+        "description": "Easy access to relevant and verified plot listings."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from plot selection to documentation and registration."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Deal Acres is preferred by serious residential plot buyers."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Aitmadpur Sector 33",
+    "description": "Clear and detailed answers to common buyer questions.",
+    "faqs": [
+      {
+        "question": "Is Aitmadpur Sector 33 Faridabad a good area to buy a plot?",
+        "answer": "Yes, it is a developing residential area with improving infrastructure and good connectivity."
+      },
+      {
+        "question": "What plot sizes are available in Aitmadpur Sector 33?",
+        "answer": "Plots are generally available from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Are plots in Aitmadpur Sector 33 legally approved?",
+        "answer": "Most listings through Deal Acres are verified for legal approvals and ownership."
+      },
+      {
+        "question": "Is the area suitable for family living?",
+        "answer": "Yes, the locality offers a peaceful environment with nearby schools, hospitals, and markets."
+      },
+      {
+        "question": "How is connectivity from Aitmadpur Sector 33?",
+        "answer": "The area is well connected to central Faridabad and nearby residential sectors."
+      },
+      {
+        "question": "Can I construct my own house on the plot?",
+        "answer": "Yes, construction is allowed as per local authority building norms."
+      },
+      {
+        "question": "Is Aitmadpur Sector 33 good for long-term investment?",
+        "answer": "With ongoing development and rising demand, it offers good long-term appreciation."
+      },
+      {
+        "question": "What amenities are available nearby?",
+        "answer": "Schools, hospitals, markets, banks, and public transport facilities are accessible."
+      },
+      {
+        "question": "What factors affect plot prices here?",
+        "answer": "Plot size, exact location, road access, and market demand influence prices."
+      },
+      {
+        "question": "How does Deal Acres help plot buyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, transparent pricing, and full buying support."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help to Buy Residential Plots in Aitmadpur Sector 33",
+    "description": [
+      "Buying a plot in Aitmadpur, Sector 33 Faridabad becomes easier and safer with expert guidance and accurate local insights. Professional support helps buyers avoid risks and make confident decisions.",
+      "Share your details to connect with experienced property advisors who will assist you throughout your plot-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

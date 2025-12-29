@@ -1,0 +1,174 @@
+{
+  "domain": "Plot.com",
+
+  "hero": {
+    "title": "Residential Plots for Sale in Well Connected Ashoka Enclave Part 3",
+    "description": [
+      "Ashoka Enclave Part 3 Faridabad is a well-established residential locality known for its strategic location, smooth connectivity, and comfortable living environment. Buyers searching for a plot in Ashoka Enclave Part 3 Faridabad prefer this area due to its proximity to Mathura Road, metro stations, and major commercial zones of Faridabad. The locality is planned with wide internal roads, green surroundings, and an organized residential layout that supports peaceful urban living.",
+      "Plots in Ashoka Enclave Part 3 Faridabad are ideal for families planning to build independent homes in a mature and secure neighborhood. The area is surrounded by reputed schools, hospitals, local markets, and daily convenience facilities, making it suitable for end-users. With limited availability of plots and steady residential demand, Ashoka Enclave Part 3 also offers strong long-term investment potential."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Ashoka Enclave Part 3",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in Ashoka Enclave Part 3",
+    "description": [
+      "Selecting the right plot size is a key step when planning your dream home or evaluating a secure real estate investment. Ashoka Enclave Part 3 Faridabad offers multiple residential plot sizes to suit different budgets and family requirements.",
+      "From compact plots for efficient construction to larger plots for spacious independent houses, plots in Ashoka Enclave Part 3 provide flexibility, usability, and long-term residential value."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Ashoka Enclave Part 3 Faridabad",
+        "description": "A 4 Marla plot in Ashoka Enclave Part 3 Faridabad is suitable for small families and budget-conscious buyers. These plots allow practical home planning and easy maintenance."
+      },
+      {
+        "title": "6 Marla Plot in Ashoka Enclave Part 3 Faridabad",
+        "description": "6 Marla plots offer a balanced combination of affordability and space. A 6 Marla plot in Ashoka Enclave Part 3 supports comfortable room layouts."
+      },
+      {
+        "title": "8 Marla Plot in Ashoka Enclave Part 3 Faridabad",
+        "description": "An 8 Marla plot in Ashoka Enclave Part 3 Faridabad provides enough space for modern home designs, parking, and proper ventilation."
+      },
+      {
+        "title": "10 Marla Plot in Ashoka Enclave Part 3 Faridabad",
+        "description": "10 Marla plots are ideal for buyers looking for spacious independent homes with enhanced privacy and comfort."
+      },
+      {
+        "title": "12 Marla Plot in Ashoka Enclave Part 3 Faridabad",
+        "description": "A 12 Marla plot offers generous space for luxury residential construction with flexible architectural planning."
+      },
+      {
+        "title": "14 Marla Plot in Ashoka Enclave Part 3 Faridabad",
+        "description": "14 Marla plots represent premium residential land options, suitable for large homes and strong resale value."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Residential Plots in Ashoka Enclave Part 3 and Nearby Areas",
+    "description": [
+      "Buyers interested in a plot in Ashoka Enclave Part 3 Faridabad often explore nearby localities to compare prices, connectivity, and residential advantages.",
+      "Exploring surrounding areas helps buyers understand why Ashoka Enclave remains a preferred residential destination in Faridabad."
+    ],
+    "locations": [
+      { "title": "Plot in Ashoka Enclave Part 3 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Ashoka Enclave Part 1 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Ashoka Enclave Part 2 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 9 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Residential Plot in Central Faridabad", "path": "/", "icon": "Layers" },
+      { "title": "Residential Land for Sale in Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Faridabad", "path": "/", "icon": "Home" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Ashoka Enclave Part 3",
+    "description": [
+      "Buying a residential plot in a prime locality like Ashoka Enclave Part 3 Faridabad requires verified listings and transparent information. Deal Acres ensures buyers receive accurate and genuine plot details.",
+      "With strong local market expertise and a customer-first approach, Deal Acres has become a trusted platform for residential plot buyers in Faridabad."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are verified for ownership, approvals, and legal clarity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden or misleading charges."
+      },
+      {
+        "title": "Local Area Expertise",
+        "description": "Deep understanding of Ashoka Enclave Part 3 property trends."
+      },
+      {
+        "title": "Multiple Plot Size Options",
+        "description": "Wide range of plot sizes to match different buyer needs."
+      },
+      {
+        "title": "Customer-Centric Platform",
+        "description": "Designed to address real buyer concerns effectively."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "Quick access to genuine and relevant plot listings."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Complete assistance from plot selection to registration."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Deal Acres is a preferred choice among serious plot buyers."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Ashoka Enclave Part 3",
+    "description": "Detailed answers to common questions to help buyers make confident property decisions.",
+    "faqs": [
+      {
+        "question": "Is Ashoka Enclave Part 3 a good location to buy a plot?",
+        "answer": "Yes, it is a well-developed residential area with excellent connectivity and daily amenities nearby."
+      },
+      {
+        "question": "What plot sizes are available in Ashoka Enclave Part 3?",
+        "answer": "Residential plots generally range from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Are plots in Ashoka Enclave Part 3 legally approved?",
+        "answer": "Most plots listed on Deal Acres are verified for ownership and legal approvals."
+      },
+      {
+        "question": "Is the area suitable for family living?",
+        "answer": "Yes, the locality is peaceful, secure, and family-friendly."
+      },
+      {
+        "question": "How is connectivity from Ashoka Enclave Part 3?",
+        "answer": "The area has excellent connectivity to Mathura Road, metro stations, and central Faridabad."
+      },
+      {
+        "question": "Can I construct my own house on the plot?",
+        "answer": "Yes, construction is allowed as per approved building bylaws."
+      },
+      {
+        "question": "Is Ashoka Enclave Part 3 good for long-term investment?",
+        "answer": "Due to limited land supply and steady demand, it offers strong appreciation potential."
+      },
+      {
+        "question": "What amenities are available nearby?",
+        "answer": "Schools, hospitals, markets, banks, and public transport facilities are nearby."
+      },
+      {
+        "question": "What factors influence plot prices here?",
+        "answer": "Plot size, exact location, road access, and market demand affect pricing."
+      },
+      {
+        "question": "How does Deal Acres assist plot buyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, transparent pricing, and end-to-end support."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance to Buy Residential Plots in Ashoka Enclave Part 3",
+    "description": [
+      "Buying a plot in Ashoka Enclave Part 3 Faridabad becomes simple and secure with expert guidance and accurate market insights. Professional support helps buyers avoid legal risks and make informed decisions.",
+      "Share your details to connect with experienced property advisors who will assist you throughout your plot-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

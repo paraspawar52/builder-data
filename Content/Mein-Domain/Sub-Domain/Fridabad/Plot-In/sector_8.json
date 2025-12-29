@@ -1,0 +1,145 @@
+{
+  "domain": "Plot.com",
+
+  "hero": {
+    "title": "Residential Plots for Sale in Prime Sector 8 Faridabad",
+    "description": [
+      "Sector 8 Faridabad is a well-established and centrally located residential area known for its planned layout, excellent connectivity, and peaceful living environment. Buyers searching for a plot in Sector 8 Faridabad are drawn to its proximity to major roads, commercial markets, schools, hospitals, and public transport facilities. The sector offers a mature residential ecosystem with wide internal roads and reliable civic infrastructure, making it suitable for families and end-users.",
+      "Plots in Sector 8 Faridabad are ideal for those planning to build independent homes in a secure and well-connected neighborhood. Due to limited land availability and consistent demand, the area also holds strong long-term investment value. With easy access to nearby sectors and central Faridabad locations, Sector 8 continues to remain a preferred choice for residential plot buyers."
+    ],
+    "buttons": [
+      { "label": "Explore Plots in Sector 8", "path": "/" },
+      { "label": "Get Plot Buying Assistance", "path": "/" }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in Sector 8 Faridabad",
+    "description": [
+      "Selecting the right plot size is an important decision when planning a home or making a secure property investment. Sector 8 Faridabad offers multiple residential plot sizes to meet different family needs and construction preferences.",
+      "From compact plots for efficient living to larger plots for spacious independent houses, plots in Sector 8 Faridabad provide flexibility, proper land utilization, and long-term residential value."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 8 Faridabad",
+        "description": "A 4 Marla plot in Sector 8 Faridabad is ideal for small families and budget-conscious buyers. These plots support cost-effective construction and easy maintenance in a prime location."
+      },
+      {
+        "title": "6 Marla Plot in Sector 8 Faridabad",
+        "description": "6 Marla plots offer a balanced option with comfortable living space and practical home layouts suitable for growing families."
+      },
+      {
+        "title": "8 Marla Plot in Sector 8 Faridabad",
+        "description": "An 8 Marla plot allows better architectural planning, parking space, and ventilation, making it a popular residential choice."
+      },
+      {
+        "title": "10 Marla Plot in Sector 8 Faridabad",
+        "description": "10 Marla plots are preferred by buyers planning spacious independent homes with enhanced privacy and flexibility."
+      },
+      {
+        "title": "12 Marla Plot in Sector 8 Faridabad",
+        "description": "A 12 Marla plot supports premium residential construction with open spaces and long-term comfort."
+      },
+      {
+        "title": "14 Marla Plot in Sector 8 Faridabad",
+        "description": "14 Marla plots represent premium residential land options with strong resale and appreciation potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Residential Plots in Sector 8 and Nearby Faridabad Areas",
+    "description": [
+      "Buyers interested in a plot in Sector 8 Faridabad often explore nearby sectors to compare pricing, infrastructure, and connectivity advantages.",
+      "This comparison helps buyers understand why Sector 8 remains a preferred and well-established residential location."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 8 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 7 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 9 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 10 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Residential Plot in Central Faridabad", "path": "/", "icon": "Layers" },
+      { "title": "Residential Land for Sale in Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Faridabad", "path": "/", "icon": "Home" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Deal Acres Is Trusted for Plots in Sector 8 Faridabad",
+    "description": [
+      "Buying a residential plot in a prime locality like Sector 8 Faridabad requires verified listings, legal clarity, and transparent pricing. Deal Acres ensures buyers receive accurate and trustworthy property information.",
+      "With strong local market expertise and a customer-first approach, Deal Acres has become a reliable platform for residential plot buyers in Faridabad."
+    ],
+    "points": [
+      { "title": "Verified Plot Listings", "description": "All plots are verified for ownership, approvals, and legal authenticity." },
+      { "title": "Transparent Pricing", "description": "Clear and honest pricing with no hidden charges." },
+      { "title": "Local Market Expertise", "description": "In-depth understanding of Sector 8 Faridabad property trends." },
+      { "title": "Multiple Plot Size Options", "description": "Wide range of plot sizes to suit different buyer needs." },
+      { "title": "Buyer-Centric Platform", "description": "Designed to address genuine buyer concerns with clarity." },
+      { "title": "Easy Property Discovery", "description": "Quick access to relevant and verified plot listings." },
+      { "title": "End-to-End Assistance", "description": "Support from plot selection to documentation and registration." },
+      { "title": "Trusted by Homebuyers", "description": "Deal Acres is trusted by thousands of residential buyers."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 8 Faridabad",
+    "description": "Clear and detailed answers to help buyers make confident property decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 8 Faridabad a good area to buy a plot?",
+        "answer": "Yes, Sector 8 is a centrally located and well-developed residential area with strong connectivity and stable property demand."
+      },
+      {
+        "question": "What plot sizes are available in Sector 8 Faridabad?",
+        "answer": "Plots typically range from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Are plots in Sector 8 legally approved?",
+        "answer": "Most plots listed through Deal Acres are verified for legal approvals and ownership clarity."
+      },
+      {
+        "question": "Is Sector 8 suitable for family living?",
+        "answer": "Yes, the sector offers a peaceful, secure, and family-friendly environment."
+      },
+      {
+        "question": "How is connectivity from Sector 8 Faridabad?",
+        "answer": "Sector 8 enjoys excellent connectivity to central Faridabad and nearby sectors."
+      },
+      {
+        "question": "Can I build my own house on the plot?",
+        "answer": "Yes, residential plots allow construction as per local authority norms."
+      },
+      {
+        "question": "Is Sector 8 good for long-term investment?",
+        "answer": "Due to limited land availability and consistent demand, Sector 8 offers good appreciation potential."
+      },
+      {
+        "question": "What amenities are available nearby?",
+        "answer": "Schools, hospitals, markets, parks, and public transport facilities are nearby."
+      },
+      {
+        "question": "What factors affect plot prices in Sector 8?",
+        "answer": "Plot size, road access, location within the sector, and market demand influence pricing."
+      },
+      {
+        "question": "How does Deal Acres assist plot buyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, transparent pricing, and complete buying support."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance to Buy Residential Plots in Sector 8 Faridabad",
+    "description": [
+      "Buying a plot in Sector 8 Faridabad becomes easy and secure with expert guidance and accurate local market insights. Professional support helps buyers avoid risks and make confident decisions.",
+      "Share your details to connect with experienced property advisors who will assist you throughout your plot-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

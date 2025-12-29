@@ -1,0 +1,174 @@
+{
+  "domain": "Plot.com",
+
+  "hero": {
+    "title": "Residential Plots for Sale in Well Planned Sector 72 Faridabad",
+    "description": [
+      "Sector 72 Faridabad is a developing residential locality that offers a balanced mix of connectivity, planned infrastructure, and peaceful surroundings. Buyers looking for a plot in Sector 72 Faridabad are attracted by its strategic location near major roads and easy access to central Faridabad and nearby sectors. The area is designed with wide roads, organized blocks, and growing civic facilities, making it suitable for long-term residential living.",
+      "Plots in Sector 72 Faridabad are ideal for families planning to build their own homes as well as investors seeking future appreciation. The locality is close to schools, hospitals, shopping areas, and daily convenience markets, ensuring a comfortable lifestyle. With ongoing development and increasing demand in the region, Sector 72 is emerging as a promising destination for residential plot buyers in Faridabad."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 72",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964024258-0cbd6bdb8d5b?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1682092163532-6f3a7f9b0f48?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in Sector 72 Faridabad",
+    "description": [
+      "Selecting the right plot size is an important decision when planning your dream home or making a secure property investment. Sector 72 Faridabad offers multiple residential plot sizes to suit different budgets, family needs, and construction preferences.",
+      "From compact plots for practical living to larger plots for spacious independent houses, plots in Sector 72 Faridabad provide flexibility, usability, and strong long-term value."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 72 Faridabad",
+        "description": "A 4 Marla plot in Sector 72 Faridabad is suitable for small families and first-time buyers. These plots allow efficient home construction, easy maintenance, and affordable property ownership."
+      },
+      {
+        "title": "6 Marla Plot in Sector 72 Faridabad",
+        "description": "6 Marla plots offer a balanced combination of space and affordability. A 6 Marla plot in Sector 72 Faridabad supports comfortable room layouts and everyday convenience."
+      },
+      {
+        "title": "8 Marla Plot in Sector 72 Faridabad",
+        "description": "An 8 Marla plot in Sector 72 Faridabad provides enough space for modern home designs. Buyers can plan spacious interiors, ventilation, and parking areas."
+      },
+      {
+        "title": "10 Marla Plot in Sector 72 Faridabad",
+        "description": "10 Marla plots are ideal for buyers seeking larger homes and better privacy. A 10 Marla plot in Sector 72 Faridabad supports premium construction and lifestyle comfort."
+      },
+      {
+        "title": "12 Marla Plot in Sector 72 Faridabad",
+        "description": "A 12 Marla plot offers generous space for luxury residential construction. Buyers benefit from flexible architectural planning and long-term appreciation."
+      },
+      {
+        "title": "14 Marla Plot in Sector 72 Faridabad",
+        "description": "14 Marla plots represent premium residential land options. A 14 Marla plot in Sector 72 Faridabad is ideal for spacious independent homes and strong resale potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Residential Plots in Sector 72 Faridabad and Nearby Areas",
+    "description": [
+      "Buyers searching for a plot in Sector 72 Faridabad often explore nearby localities to compare prices, connectivity, and development status.",
+      "Exploring surrounding areas helps buyers make informed decisions and understand the residential advantages of Sector 72."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 72 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 70 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 73 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Plot in Sector 75 Faridabad", "path": "/", "icon": "MapPin" },
+      { "title": "Residential Plot in Neharpar Faridabad", "path": "/", "icon": "Layers" },
+      { "title": "Residential Land for Sale in Faridabad", "path": "/", "icon": "Building" },
+      { "title": "Residential Property in Faridabad", "path": "/", "icon": "Home" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 72 Faridabad",
+    "description": [
+      "Buying a residential plot requires verified listings, transparent pricing, and dependable guidance. Deal Acres ensures buyers receive genuine and accurate information for plots in Sector 72 Faridabad.",
+      "With strong local expertise and a customer-first approach, Deal Acres has become a preferred platform for residential plot buyers in Faridabad."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are verified for ownership, approvals, and legal documentation."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden or unexpected charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth knowledge of Sector 72 Faridabad property trends."
+      },
+      {
+        "title": "Multiple Plot Size Options",
+        "description": "Wide range of plot sizes to suit different buyer requirements."
+      },
+      {
+        "title": "Customer-Centric Platform",
+        "description": "Focused on solving real buyer concerns effectively."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "Quick access to genuine and relevant plot listings."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Complete assistance from plot selection to registration."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Deal Acres is trusted by thousands of satisfied property buyers."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 72 Faridabad",
+    "description": "Detailed and user-friendly answers to help buyers make confident decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 72 Faridabad a good location to buy a plot?",
+        "answer": "Yes, Sector 72 Faridabad is a developing residential area with good connectivity and growing infrastructure."
+      },
+      {
+        "question": "What plot sizes are available in Sector 72 Faridabad?",
+        "answer": "Plots in Sector 72 Faridabad are available from 4 Marla to 14 Marla, subject to availability."
+      },
+      {
+        "question": "Are plots in Sector 72 legally approved?",
+        "answer": "Most plots listed through trusted platforms like Deal Acres are verified for legal approvals and ownership clarity."
+      },
+      {
+        "question": "Is Sector 72 suitable for families?",
+        "answer": "Yes, the area offers a peaceful environment with schools, hospitals, and markets nearby."
+      },
+      {
+        "question": "How is connectivity from Sector 72 Faridabad?",
+        "answer": "Sector 72 has good road connectivity to major parts of Faridabad and nearby sectors."
+      },
+      {
+        "question": "Can I build my own house on the plot?",
+        "answer": "Yes, residential plots allow construction as per approved building bylaws."
+      },
+      {
+        "question": "Is Sector 72 good for long-term investment?",
+        "answer": "With continuous development, Sector 72 offers promising long-term investment potential."
+      },
+      {
+        "question": "What amenities are available near Sector 72?",
+        "answer": "Schools, hospitals, parks, shopping areas, and public transport facilities are accessible."
+      },
+      {
+        "question": "What factors affect plot prices in Sector 72?",
+        "answer": "Plot size, road access, nearby development, and market demand influence pricing."
+      },
+      {
+        "question": "How does Deal Acres help plot buyers?",
+        "answer": "Deal Acres provides verified listings, expert guidance, transparent pricing, and complete buying support."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance to Buy Residential Plots in Sector 72 Faridabad",
+    "description": [
+      "Buying a plot in Sector 72 Faridabad becomes simple and secure with expert assistance and accurate market insights. Professional guidance helps you choose the right plot while avoiding legal and pricing risks.",
+      "Share your details to connect with experienced property advisors who will assist you throughout your plot-buying journey."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}
