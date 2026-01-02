@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Modern Independent Houses for Rent in Sector 80 Gurugram",
+    "description": [
+      "Sector 80 Gurugram is a fast-growing residential locality located near NH-48 and the upcoming Dwarka Expressway, making it an attractive option for tenants seeking modern living with excellent connectivity. People searching for a house for rent in Sector 80 Gurugram prefer this area due to its proximity to Manesar, IMT zones, and major corporate hubs of Gurugram. The locality is surrounded by developing infrastructure, schools, healthcare facilities, shopping complexes, and daily convenience stores.",
+      "Independent houses in Sector 80 offer spacious layouts, better ventilation, and a peaceful residential environment away from city congestion. The area is ideal for families and professionals looking for affordable yet well-connected rental housing. Choosing a house for rent in Sector 80 Gurugram ensures comfortable living, future-ready infrastructure, and easy access to major roads and employment centers."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sector 80 Gurugram",
+    "description": [
+      "Selecting the right plot size plays an important role when choosing a house for rent in Sector 80 Gurugram, as it impacts comfort, space, and rental budget.",
+      "Sector 80 offers a range of independent houses suitable for small families, joint families, and tenants seeking long-term rental stability."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 80 Gurugram",
+        "description": "A 4 Marla house for rent in Sector 80 Gurugram is ideal for couples or small families looking for an affordable and easy-to-maintain rental home."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 80 Gurugram",
+        "description": "6 Marla houses provide a balanced mix of space and affordability, suitable for nuclear families."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 80 Gurugram",
+        "description": "An 8 Marla rental house offers spacious interiors, good ventilation, and comfortable living for growing families."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 80 Gurugram",
+        "description": "10 Marla houses are preferred by tenants who require larger rooms, parking space, and enhanced privacy."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 80 Gurugram",
+        "description": "12 Marla rental houses fall under the premium segment, offering open spaces and a better lifestyle experience."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 80 Gurugram",
+        "description": "A 14 Marla house for rent is suitable for large families or tenants seeking spacious independent living."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 80 Gurugram",
+    "description": [
+      "Tenants looking for a house for rent in Sector 80 Gurugram often explore nearby areas for better connectivity and rental comparisons.",
+      "This section helps users discover nearby residential localities and choose the most suitable rental option."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 80 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 79 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 81 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 82 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near NH-48", "path": "/", "icon": "Home" },
+      { "title": "House for Rent near Dwarka Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Manesar", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent near IMT Manesar", "path": "/", "icon": "Building" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sector 80 Rental Houses",
+    "description": [
+      "Finding a genuine house for rent in Sector 80 Gurugram requires verified listings, transparent pricing, and local market expertise. Deal Acres focuses on trust and reliability.",
+      "With deep understanding of Gurugram’s emerging rental zones, Deal Acres helps tenants make informed rental decisions."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All rental houses are verified for ownership, authenticity, and availability."
+      },
+      {
+        "title": "Transparent Rental Details",
+        "description": "Clear information about rent, security deposit, and terms builds tenant confidence."
+      },
+      {
+        "title": "Local Market Knowledge",
+        "description": "Strong understanding of Sector 80 and nearby areas ensures accurate guidance."
+      },
+      {
+        "title": "Easy Search Experience",
+        "description": "User-friendly tools make finding the right house quick and simple."
+      },
+      {
+        "title": "Tenant-Focused Suggestions",
+        "description": "Property recommendations are based on budget, family size, and lifestyle needs."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Assistance with rental agreements and paperwork ensures smooth transactions."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from house selection to final move-in."
+      },
+      {
+        "title": "Trusted Rental Platform",
+        "description": "Deal Acres is trusted for transparency, reliability, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 80 Gurugram",
+    "description": "Common tenant questions related to house for rent in Sector 80 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 80 Gurugram a good area to rent a house?",
+        "answer": "Yes, Sector 80 is a developing residential area with good connectivity and affordable rental options."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 80?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Sector 80 suitable for family living?",
+        "answer": "Yes, the area offers peaceful surroundings, upcoming infrastructure, and essential amenities."
+      },
+      {
+        "question": "Are furnished houses available in Sector 80?",
+        "answer": "Furnished and semi-furnished houses are available depending on property listings."
+      },
+      {
+        "question": "What is the average rent in Sector 80 Gurugram?",
+        "answer": "Rental values depend on plot size and property condition, but Sector 80 offers competitive pricing."
+      },
+      {
+        "question": "How is connectivity from Sector 80?",
+        "answer": "Sector 80 is well-connected via NH-48, Dwarka Expressway, and Manesar Road."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sector 80?",
+        "answer": "Some landlords allow bachelors, while others prefer families."
+      },
+      {
+        "question": "Is Sector 80 safe for tenants?",
+        "answer": "Yes, the locality is considered safe with growing residential development."
+      },
+      {
+        "question": "Why choose Deal Acres for renting a house?",
+        "answer": "Deal Acres provides verified listings, transparent details, and expert local support."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 80?",
+        "answer": "You can fill out the contact form to connect with rental property experts."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sector 80 Gurugram",
+    "description": [
+      "Finding the right house for rent in Sector 80 Gurugram becomes simple with expert guidance.",
+      "Share your details to connect with trusted property advisors who will help you find a rental home matching your budget and lifestyle."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

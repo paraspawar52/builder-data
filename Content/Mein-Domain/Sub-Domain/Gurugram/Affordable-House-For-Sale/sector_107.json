@@ -1,0 +1,175 @@
+{
+  "domain": "Affordablehouseforsalecom",
+
+  "hero": {
+    "title": "Affordable Independent Houses for Sale in Sector 107 Gurugram",
+    "description": [
+      "Sector 107 Gurugram is a rapidly developing residential location situated along the Dwarka Expressway, offering excellent connectivity to Delhi, IGI Airport, and major employment hubs of Gurugram. The sector is gaining attention from homebuyers due to its planned infrastructure, wide roads, and peaceful surroundings. Buyers searching for an affordable house for sale in Sector 107 Gurugram prefer this area because it provides a balanced lifestyle with access to schools, hospitals, local markets, parks, and daily convenience facilities, all within a short distance.",
+      "Affordable houses for sale in Sector 107 Gurugram present a strong opportunity for independent living at competitive pricing. With continuous development around the Dwarka Expressway and growing residential demand, the sector promises good future appreciation. Whether you are buying a home for your family or investing for long-term returns, Sector 107 offers affordability, connectivity, and a future-ready residential environment."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1599423300746-b62533397364?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Size Options Available in Sector 107 Gurugram",
+    "description": [
+      "Selecting the right house size in Sector 107 Gurugram helps buyers align budget, comfort, and future family needs.",
+      "The sector offers multiple affordable independent house configurations suitable for different lifestyles."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House for Sale in Sector 107 Gurugram",
+        "description": "A 4 Marla affordable house for sale in Sector 107 Gurugram is ideal for small families and first-time homebuyers. These homes offer independent living, compact layouts, easy maintenance, and proximity to essential amenities."
+      },
+      {
+        "title": "6 Marla Affordable House for Sale in Sector 107 Gurugram",
+        "description": "6 Marla affordable houses in Sector 107 Gurugram provide a balanced mix of space and affordability. They are suitable for nuclear families looking for better room sizes, ventilation, and parking convenience."
+      },
+      {
+        "title": "8 Marla Affordable House for Sale in Sector 107 Gurugram",
+        "description": "An 8 Marla affordable house in Sector 107 Gurugram is a good option for growing families who need additional living space and privacy. These houses also offer better resale potential."
+      },
+      {
+        "title": "10 Marla Affordable House for Sale in Sector 107 Gurugram",
+        "description": "10 Marla houses offer spacious interiors and long-term comfort. Buyers seeking independent homes with future appreciation often prefer this size in Sector 107."
+      },
+      {
+        "title": "12 Marla Affordable House for Sale in Sector 107 Gurugram",
+        "description": "A 12 Marla affordable house in Sector 107 Gurugram provides enhanced space, privacy, and suitability for joint families. These homes are considered strong lifestyle and investment options."
+      },
+      {
+        "title": "14 Marla Affordable House for Sale in Sector 107 Gurugram",
+        "description": "14 Marla houses are ideal for buyers seeking large independent homes at competitive pricing. Their size and location support strong long-term value growth."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses Near Sector 107 Gurugram",
+    "description": [
+      "Buyers searching for affordable houses for sale in Sector 107 Gurugram often explore nearby sectors for better comparison.",
+      "These surrounding locations enhance the residential and investment appeal of Sector 107."
+    ],
+    "locations": [
+      { "title": "Affordable House for Sale in Sector 107 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 106 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 108 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Dwarka Expressway Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Delhi-Gurugram Border", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House in New Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses along Dwarka Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Budget Homes in Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Affordable Houses in Sector 107",
+    "description": [
+      "Buying an affordable house for sale in Sector 107 Gurugram requires verified listings and professional guidance.",
+      "Deal Acres has earned buyer trust through transparency, local expertise, and customer-focused real estate services."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "Every listing is verified for ownership, approvals, and legal clarity to ensure safe property transactions."
+      },
+      {
+        "title": "Transparent Pricing Policy",
+        "description": "Clear pricing without hidden charges helps buyers plan finances confidently."
+      },
+      {
+        "title": "Strong Local Market Knowledge",
+        "description": "In-depth understanding of Sector 107 Gurugram helps buyers make informed decisions."
+      },
+      {
+        "title": "Wide Range of Affordable Options",
+        "description": "Multiple house sizes and budget options give buyers flexibility and choice."
+      },
+      {
+        "title": "Complete Legal Assistance",
+        "description": "Support with documentation, agreements, and registry ensures a smooth buying experience."
+      },
+      {
+        "title": "Personalized Property Guidance",
+        "description": "Tailored property recommendations based on buyer needs and future plans."
+      },
+      {
+        "title": "End-to-End Buying Support",
+        "description": "Deal Acres assists buyers from property search to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Known for ethics, transparency, and customer satisfaction, Deal Acres is a preferred choice."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Sector 107 Gurugram",
+    "description": "User-friendly and detailed answers to common buyer questions.",
+    "faqs": [
+      {
+        "question": "Is Sector 107 Gurugram a good location to buy an affordable house?",
+        "answer": "Yes, Sector 107 is a developing residential area along the Dwarka Expressway with good connectivity, planned infrastructure, and strong future growth potential."
+      },
+      {
+        "question": "What house sizes are available in Sector 107 Gurugram?",
+        "answer": "Affordable independent houses in Sector 107 are available from 4 Marla to 14 Marla, suitable for different family sizes."
+      },
+      {
+        "question": "Is Sector 107 suitable for family living?",
+        "answer": "Yes, the area offers schools, hospitals, parks, and daily convenience markets nearby, making it family-friendly."
+      },
+      {
+        "question": "How is connectivity from Sector 107 Gurugram?",
+        "answer": "Sector 107 enjoys excellent connectivity via Dwarka Expressway, offering smooth access to Delhi and major parts of Gurugram."
+      },
+      {
+        "question": "Are houses in Sector 107 legally approved?",
+        "answer": "Most properties are approved, and Deal Acres assists buyers with complete legal verification."
+      },
+      {
+        "question": "Is buying a house in Sector 107 a good investment?",
+        "answer": "Yes, increasing development and demand around Dwarka Expressway support long-term appreciation."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 107?",
+        "answer": "Yes, leading banks and financial institutions offer home loans for eligible properties in Sector 107 Gurugram."
+      },
+      {
+        "question": "What amenities are available near Sector 107?",
+        "answer": "Nearby amenities include schools, hospitals, shopping areas, parks, and public transport facilities."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, and complete end-to-end buyer support."
+      },
+      {
+        "question": "How can I contact a property expert for Sector 107?",
+        "answer": "You can fill out the contact form on this page to connect with experienced Deal Acres consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for Affordable Houses in Sector 107 Gurugram",
+    "description": [
+      "Finding the right affordable house for sale in Sector 107 Gurugram becomes easy with expert guidance.",
+      "Share your details to connect with trusted real estate professionals and explore verified property options that match your needs."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

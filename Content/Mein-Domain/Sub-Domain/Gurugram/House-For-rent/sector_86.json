@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Comfortable Independent Houses for Rent in Sector 86 Gurugram",
+    "description": [
+      "Sector 86 Gurugram is a rapidly developing residential locality that has become a preferred choice for tenants seeking modern living with good connectivity. People looking for a house for rent in Sector 86 Gurugram are attracted by its planned infrastructure, wide roads, green surroundings, and proximity to Dwarka Expressway, NH-48, and key employment hubs of Gurugram. The area offers a calm and secure environment while still being close to schools, hospitals, shopping complexes, and daily convenience stores.",
+      "Independent houses in Sector 86 provide a perfect balance of space, privacy, and comfort, making them suitable for families, working professionals, and corporate tenants. From compact rental homes to spacious houses, the locality offers options for different budgets and lifestyle needs. Choosing a house for rent in Sector 86 Gurugram means enjoying a peaceful residential lifestyle with the advantage of fast urban growth and strong rental demand."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sector 86 Gurugram",
+    "description": [
+      "Choosing the right plot size is an important factor when searching for a house for rent in Sector 86 Gurugram, as it directly affects living comfort, space utilization, and monthly rent.",
+      "Sector 86 offers a wide range of independent rental houses, making it easy for tenants to find a home that matches their family size, budget, and lifestyle expectations."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 86 Gurugram",
+        "description": "A 4 Marla house for rent in Sector 86 Gurugram is ideal for small families or couples who want an affordable and easy-to-maintain home in a modern residential area."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 86 Gurugram",
+        "description": "6 Marla rental houses offer a comfortable balance of space and affordability, suitable for families looking for practical living without high rental costs."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 86 Gurugram",
+        "description": "An 8 Marla house provides spacious rooms, better ventilation, and a comfortable lifestyle, making it suitable for long-term family rentals."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 86 Gurugram",
+        "description": "10 Marla houses are preferred by tenants who want premium living, larger layouts, and added privacy in a well-planned sector."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 86 Gurugram",
+        "description": "12 Marla rental houses fall into the premium segment, offering open spaces, modern construction, and enhanced comfort for families."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 86 Gurugram",
+        "description": "A 14 Marla house for rent is ideal for large families or corporate tenants seeking luxury, space, and a peaceful residential setup."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 86 Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in Sector 86 Gurugram often explore nearby localities to compare rental prices, connectivity, and lifestyle benefits.",
+      "This section helps users discover surrounding residential areas and make informed rental decisions based on their needs."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 86 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 85 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 84 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 83 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near Dwarka Expressway", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in New Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 90 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent near NH-48", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sector 86 Rental Houses",
+    "description": [
+      "Finding a house for rent in Sector 86 Gurugram requires reliable listings, fair pricing, and genuine local insights. Deal Acres focuses on building trust through transparency.",
+      "With a tenant-first approach and strong understanding of Gurugram’s rental market, Deal Acres has become a preferred choice for renting independent houses."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "Every house listing is verified for ownership, accuracy, and availability to ensure a safe rental experience."
+      },
+      {
+        "title": "Transparent Rental Details",
+        "description": "Clear information on rent, security deposit, and terms helps tenants plan better without hidden costs."
+      },
+      {
+        "title": "Strong Local Expertise",
+        "description": "Deep knowledge of Sector 86 and nearby areas ensures accurate guidance for tenants."
+      },
+      {
+        "title": "Easy-to-Use Platform",
+        "description": "User-friendly search tools make it simple to find the right house for rent quickly."
+      },
+      {
+        "title": "Tenant-Centric Recommendations",
+        "description": "Property suggestions are based on tenant budget, family size, and lifestyle preferences."
+      },
+      {
+        "title": "Rental Documentation Support",
+        "description": "Assistance with rental agreements and basic documentation for a smooth process."
+      },
+      {
+        "title": "End-to-End Rental Assistance",
+        "description": "Support from property search to final move-in ensures a hassle-free experience."
+      },
+      {
+        "title": "Trusted by Thousands of Renters",
+        "description": "Deal Acres is trusted for its transparency, reliability, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 86 Gurugram",
+    "description": "Common tenant questions related to house for rent in Sector 86 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 86 Gurugram a good location for renting a house?",
+        "answer": "Yes, Sector 86 is a well-planned and developing area with good connectivity, modern infrastructure, and essential amenities, making it ideal for tenants."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 86?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are available, suitable for different family sizes and budgets."
+      },
+      {
+        "question": "Is Sector 86 suitable for family living?",
+        "answer": "Yes, the area has schools, hospitals, parks, and shopping options nearby, making it family-friendly."
+      },
+      {
+        "question": "Are furnished houses available for rent in Sector 86?",
+        "answer": "Yes, furnished and semi-furnished rental houses are available depending on the property and landlord."
+      },
+      {
+        "question": "What is the average rent in Sector 86 Gurugram?",
+        "answer": "Rent depends on plot size, location, and furnishings, but Sector 86 offers competitive rental options compared to nearby sectors."
+      },
+      {
+        "question": "Is Sector 86 well-connected to other parts of Gurugram?",
+        "answer": "Yes, it has good connectivity via Dwarka Expressway, NH-48, and internal city roads."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sector 86?",
+        "answer": "Some landlords allow bachelors, while others prefer families. Availability depends on owner preferences."
+      },
+      {
+        "question": "How safe is Sector 86 for tenants?",
+        "answer": "Sector 86 is considered safe, with gated communities, security services, and an active residential environment."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres provides verified listings, transparent rental details, and expert local support for tenants."
+      },
+      {
+        "question": "How can I contact experts for Sector 86 rental houses?",
+        "answer": "You can fill out the contact form to connect with experienced rental property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sector 86 Gurugram",
+    "description": [
+      "Finding the right house for rent in Sector 86 Gurugram becomes easy and stress-free with professional guidance.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that fits your budget, preferences, and lifestyle."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

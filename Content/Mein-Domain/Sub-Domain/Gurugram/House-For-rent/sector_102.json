@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Well Connected Independent Houses for Rent in Sector 102 Gurugram",
+    "description": [
+      "Sector 102 Gurugram is an emerging residential locality strategically located near Dwarka Expressway, offering smooth connectivity to Delhi, IGI Airport, and major business hubs of Gurugram. Tenants searching for a house for rent in Sector 102 Gurugram are drawn to this area because of its planned infrastructure, peaceful surroundings, and easy access to daily necessities. The sector is surrounded by reputed schools, hospitals, local markets, and upcoming commercial developments, making everyday life convenient and stress-free.",
+      "Independent houses in Sector 102 provide spacious layouts, privacy, and a comfortable living environment that suits families as well as working professionals. Compared to congested city areas, this locality offers better ventilation, wider roads, and a calm residential atmosphere. Choosing a house for rent in Sector 102 Gurugram is ideal for tenants looking for modern living, strong connectivity, and long-term residential comfort in a growing neighborhood."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sector 102 Gurugram",
+    "description": [
+      "Choosing the right plot size is an important decision when selecting a house for rent in Sector 102 Gurugram, as it directly affects living space, privacy, and rental budget.",
+      "Sector 102 offers independent houses on rent in various plot sizes, suitable for nuclear families, joint families, and tenants seeking spacious homes."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 102 Gurugram",
+        "description": "A 4 Marla house for rent in Sector 102 Gurugram is suitable for couples or small families looking for an affordable and low-maintenance rental home."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 102 Gurugram",
+        "description": "6 Marla houses offer a balanced mix of space and affordability, making them ideal for small to mid-sized families."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 102 Gurugram",
+        "description": "An 8 Marla rental house provides spacious rooms, good ventilation, and functional layouts for comfortable long-term living."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 102 Gurugram",
+        "description": "10 Marla houses are preferred by tenants who want larger living areas, parking space, and enhanced privacy."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 102 Gurugram",
+        "description": "12 Marla rental houses fall into the premium category, offering open spaces and a more comfortable lifestyle."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 102 Gurugram",
+        "description": "A 14 Marla house for rent is ideal for large families or tenants seeking maximum space and a peaceful residential setup."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 102 Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in Sector 102 Gurugram often explore nearby sectors to compare rental values, connectivity, and living standards.",
+      "This section helps users discover surrounding residential localities and choose the most suitable rental option."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 102 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 103 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 104 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 101 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near Dwarka Expressway", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 99 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 106 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent near Palam Vihar", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sector 102 Rental Houses",
+    "description": [
+      "Finding a genuine house for rent in Sector 102 Gurugram requires verified listings, transparent rental details, and reliable support. Deal Acres focuses on trust and clarity.",
+      "With a tenant-first approach and strong knowledge of Gurugram’s rental market, Deal Acres is a preferred choice for renting independent houses."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "Every property is verified for ownership and authenticity to ensure a safe renting experience."
+      },
+      {
+        "title": "Transparent Rental Information",
+        "description": "Clear details on rent, security deposit, and terms help tenants plan confidently."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth knowledge of Sector 102 and nearby areas ensures accurate rental guidance."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "User-friendly platform makes searching and comparing rental houses simple."
+      },
+      {
+        "title": "Tenant-Focused Approach",
+        "description": "Recommendations are tailored to tenant needs, budget, and family size."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Help with rental agreements and paperwork ensures a smooth process."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from property search to move-in for hassle-free renting."
+      },
+      {
+        "title": "Trusted by Renters",
+        "description": "Deal Acres is trusted for transparency, reliability, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 102 Gurugram",
+    "description": "Common tenant questions related to house for rent in Sector 102 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 102 Gurugram a good area to rent a house?",
+        "answer": "Yes, Sector 102 is a developing residential area with good connectivity and a peaceful living environment."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 102?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are available for different budgets and family sizes."
+      },
+      {
+        "question": "Is Sector 102 suitable for family living?",
+        "answer": "Yes, the sector offers a calm environment with schools, hospitals, and markets nearby."
+      },
+      {
+        "question": "Are furnished houses available for rent in Sector 102?",
+        "answer": "Furnished and semi-furnished houses are available depending on the property."
+      },
+      {
+        "question": "What is the average rent in Sector 102 Gurugram?",
+        "answer": "Rent depends on plot size, furnishings, and exact location, offering affordable to mid-range options."
+      },
+      {
+        "question": "How is connectivity from Sector 102?",
+        "answer": "Sector 102 has excellent connectivity via Dwarka Expressway and major city roads."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sector 102?",
+        "answer": "Some landlords allow bachelors, while others prefer families based on owner policies."
+      },
+      {
+        "question": "Is Sector 102 safe for tenants?",
+        "answer": "Yes, it is considered a safe and planned residential locality."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent information, and expert local support."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 102?",
+        "answer": "You can fill out the contact form to connect with experienced rental property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sector 102 Gurugram",
+    "description": [
+      "Finding the right house for rent in Sector 102 Gurugram becomes simple and stress-free with expert guidance.",
+      "Share your details to connect with trusted property experts who will help you find a rental home based on your budget, preferences, and lifestyle needs."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

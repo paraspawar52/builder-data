@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Well Planned Independent Houses for Rent in Sector 93 Gurugram",
+    "description": [
+      "Sector 93 Gurugram is a rapidly developing residential locality known for its planned infrastructure, wide roads, and peaceful surroundings. Tenants looking for a house for rent in Sector 93 Gurugram are attracted to this area due to its proximity to Dwarka Expressway, NH-48, and key commercial zones of New Gurugram. The sector offers smooth connectivity to business parks, industrial hubs, and major employment corridors, making it suitable for working professionals and families alike.",
+      "Independent houses in Sector 93 provide comfortable layouts, good ventilation, and a balanced lifestyle away from city congestion. The locality is supported by schools, hospitals, shopping complexes, and daily convenience stores, ensuring all essential needs are nearby. Choosing a house for rent in Sector 93 Gurugram is ideal for tenants seeking modern living, better space planning, and long-term residential value."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sector 93 Gurugram",
+    "description": [
+      "Selecting the right plot size plays a key role when searching for a house for rent in Sector 93 Gurugram, as it directly impacts comfort, usability, and rental budget.",
+      "Sector 93 offers independent houses in multiple plot sizes, suitable for small families, growing households, and tenants looking for spacious homes in New Gurugram."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 93 Gurugram",
+        "description": "A 4 Marla house for rent in Sector 93 Gurugram is ideal for couples or small families seeking an affordable and easy-to-maintain rental home."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 93 Gurugram",
+        "description": "6 Marla houses offer a practical balance of space and budget, making them suitable for nuclear families."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 93 Gurugram",
+        "description": "An 8 Marla rental house provides spacious rooms, better natural light, and comfortable living for medium-sized families."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 93 Gurugram",
+        "description": "10 Marla houses are preferred by tenants who want larger living areas, parking space, and added privacy."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 93 Gurugram",
+        "description": "12 Marla rental houses fall into the premium category, offering open spaces, strong construction, and enhanced comfort."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 93 Gurugram",
+        "description": "A 14 Marla house for rent is suitable for large families or tenants seeking maximum space and a peaceful residential setup."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 93 Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in Sector 93 Gurugram often explore nearby sectors to compare rental prices, connectivity, and lifestyle benefits.",
+      "This section highlights surrounding areas to help users find the most suitable rental option."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 93 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 92 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 94 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 95 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near Dwarka Expressway", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in New Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent near NH-48", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 90 Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sector 93 Rental Houses",
+    "description": [
+      "Finding a genuine house for rent in Sector 93 Gurugram requires verified listings, transparent pricing, and local market understanding. Deal Acres focuses on trust and accuracy.",
+      "With a tenant-first approach and strong presence in Gurugram’s rental market, Deal Acres is a preferred choice for independent house rentals."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All rental houses are verified for ownership, availability, and authenticity."
+      },
+      {
+        "title": "Transparent Rental Details",
+        "description": "Clear information about rent, deposit, and terms helps tenants make informed decisions."
+      },
+      {
+        "title": "Local Area Expertise",
+        "description": "In-depth knowledge of Sector 93 and nearby localities ensures accurate guidance."
+      },
+      {
+        "title": "Easy Search Experience",
+        "description": "User-friendly platform and filters simplify the rental property search."
+      },
+      {
+        "title": "Tenant-Focused Suggestions",
+        "description": "Properties are recommended based on budget, family size, and lifestyle needs."
+      },
+      {
+        "title": "Documentation Assistance",
+        "description": "Support with rental agreements and paperwork ensures a smooth process."
+      },
+      {
+        "title": "End-to-End Rental Support",
+        "description": "Complete assistance from shortlisting to final move-in."
+      },
+      {
+        "title": "Trusted by Renters",
+        "description": "Deal Acres is known for reliability, transparency, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 93 Gurugram",
+    "description": "Common tenant queries related to house for rent in Sector 93 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 93 Gurugram a good area to rent a house?",
+        "answer": "Yes, Sector 93 is a planned and developing locality with good connectivity and peaceful surroundings."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 93?",
+        "answer": "Independent houses from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Sector 93 suitable for family living?",
+        "answer": "Yes, the area has schools, healthcare facilities, and daily conveniences nearby."
+      },
+      {
+        "question": "Are furnished houses available in Sector 93?",
+        "answer": "Furnished and semi-furnished options are available depending on the landlord."
+      },
+      {
+        "question": "What is the average rent in Sector 93 Gurugram?",
+        "answer": "Rent depends on plot size, house condition, and location within the sector."
+      },
+      {
+        "question": "How is connectivity from Sector 93?",
+        "answer": "Sector 93 offers easy access to Dwarka Expressway, NH-48, and New Gurugram."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sector 93?",
+        "answer": "Some landlords allow bachelors, while others prefer families."
+      },
+      {
+        "question": "Is Sector 93 safe for tenants?",
+        "answer": "Yes, it is considered a safe residential area with planned development."
+      },
+      {
+        "question": "Why choose Deal Acres for renting a house?",
+        "answer": "Deal Acres provides verified listings, transparent details, and expert rental support."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 93?",
+        "answer": "You can fill out the contact form to connect with experienced rental consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sector 93 Gurugram",
+    "description": [
+      "Finding the right house for rent in Sector 93 Gurugram becomes simple with expert guidance and verified listings.",
+      "Share your details to connect with trusted property professionals who will help you find a rental home that fits your budget and lifestyle."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

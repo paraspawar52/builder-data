@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Well Connected Independent Houses for Rent in Sector 10A Gurugram",
+    "description": [
+      "Sector 10A Gurugram is a well-established residential locality known for its central location, strong connectivity, and practical urban lifestyle. People searching for a house for rent in Sector 10A Gurugram prefer this area due to its close proximity to NH-48, Hero Honda Chowk, Rajiv Chowk, and major commercial zones of Gurugram. The sector is surrounded by schools, hospitals, local markets, shopping areas, and daily convenience stores, making everyday living comfortable and hassle-free.",
+      "Independent houses in Sector 10A offer spacious layouts, privacy, and a calm residential environment compared to crowded apartment complexes. The locality is ideal for families, working professionals, and tenants who want easy access to workplaces without compromising on residential comfort. Choosing a house for rent in Sector 10A Gurugram ensures a balanced lifestyle with good infrastructure, excellent road connectivity, and a well-settled neighborhood."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sector 10A Gurugram",
+    "description": [
+      "Selecting the right plot size is an important step when looking for a house for rent in Sector 10A Gurugram, as it directly impacts space, comfort, and rental budget.",
+      "Sector 10A offers multiple independent house options on rent, catering to different family sizes and lifestyle needs."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 10A Gurugram",
+        "description": "A 4 Marla house for rent in Sector 10A Gurugram is suitable for couples or small families looking for an affordable and easy-to-maintain home in a central location."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 10A Gurugram",
+        "description": "6 Marla houses provide a good balance of space and affordability, making them ideal for small to mid-sized families."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 10A Gurugram",
+        "description": "An 8 Marla rental house offers spacious rooms, proper ventilation, and functional layouts for comfortable long-term living."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 10A Gurugram",
+        "description": "10 Marla houses are preferred by tenants seeking larger living areas, parking space, and enhanced privacy."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 10A Gurugram",
+        "description": "12 Marla rental houses fall into the premium segment, offering open spaces, modern construction, and better lifestyle comfort."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 10A Gurugram",
+        "description": "A 14 Marla house for rent is ideal for large families or tenants looking for spacious living with a peaceful environment."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 10A Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in Sector 10A Gurugram often explore nearby localities to compare rental values, connectivity, and residential advantages.",
+      "This section helps users discover nearby areas and choose the most suitable rental option."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 10A Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 10 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 9 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 7 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near Hero Honda Chowk", "path": "/", "icon": "Home" },
+      { "title": "House for Rent near NH-48", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 4 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 14 Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sector 10A Rental Houses",
+    "description": [
+      "Finding a genuine house for rent in Sector 10A Gurugram requires verified listings, transparent pricing, and strong local market knowledge. Deal Acres ensures trust at every step.",
+      "With a tenant-focused approach and deep understanding of Gurugram’s rental market, Deal Acres has become a reliable choice for renting independent houses."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "Each property is verified for ownership, availability, and authenticity to ensure tenant safety."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear details about rent, security deposit, and rental terms eliminate confusion."
+      },
+      {
+        "title": "Local Area Expertise",
+        "description": "In-depth knowledge of Sector 10A and nearby areas ensures accurate guidance."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "User-friendly search tools make finding the right house simple and fast."
+      },
+      {
+        "title": "Tenant-Centric Recommendations",
+        "description": "Property suggestions are tailored to tenant budget, family size, and preferences."
+      },
+      {
+        "title": "Documentation Assistance",
+        "description": "Support with rental agreements and paperwork for a smooth experience."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Complete assistance from property search to final move-in."
+      },
+      {
+        "title": "Trusted by Renters",
+        "description": "Deal Acres is known for transparency, reliability, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 10A Gurugram",
+    "description": "Common tenant queries related to house for rent in Sector 10A Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 10A Gurugram a good area to rent a house?",
+        "answer": "Yes, Sector 10A is a centrally located residential area with strong connectivity and essential amenities nearby."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 10A?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are available for rent."
+      },
+      {
+        "question": "Is Sector 10A suitable for family living?",
+        "answer": "Yes, the area has schools, hospitals, markets, and parks, making it suitable for families."
+      },
+      {
+        "question": "Are furnished houses available in Sector 10A?",
+        "answer": "Both furnished and semi-furnished houses are available depending on the property."
+      },
+      {
+        "question": "What is the average rent in Sector 10A Gurugram?",
+        "answer": "Rental values vary based on plot size, furnishing, and exact location within the sector."
+      },
+      {
+        "question": "How is connectivity from Sector 10A?",
+        "answer": "Sector 10A has excellent connectivity via NH-48, Hero Honda Chowk, and internal city roads."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sector 10A?",
+        "answer": "Some landlords allow bachelors, while others prefer families, depending on owner preferences."
+      },
+      {
+        "question": "Is Sector 10A safe for tenants?",
+        "answer": "Yes, the locality is considered safe with established residential streets and regular security presence."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and expert local support."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 10A?",
+        "answer": "You can fill out the contact form to connect with experienced rental property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sector 10A Gurugram",
+    "description": [
+      "Finding the right house for rent in Sector 10A Gurugram becomes easy with expert guidance.",
+      "Share your details to connect with trusted property professionals who will help you find a rental home that fits your budget and lifestyle."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

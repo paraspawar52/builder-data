@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Premium Residential and Investment Plots in Sector 84 Gurugram",
+    "description": [
+      "Sector 84 Gurugram is a well-planned residential sector located in the heart of New Gurugram, offering modern infrastructure, organized layouts, and excellent road connectivity. Buyers searching for a Plot in Sector 84 Gurugram are drawn to its proximity to NH-48, Dwarka Expressway, and key commercial hubs, making daily commuting smooth and time-efficient. The sector is surrounded by premium residential societies, schools, healthcare facilities, green belts, and upcoming retail developments, creating a balanced and comfortable living environment.",
+      "Plots in Sector 84 Gurugram are ideal for both end-users and long-term investors. The area has witnessed steady development, increasing demand, and strong price appreciation due to infrastructure upgrades and growing residential occupancy. Choosing a plot in Sector 84 Gurugram means investing in a future-ready location that offers construction flexibility, peaceful surroundings, and promising returns in one of Gurugram’s fastest-growing corridors."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 84",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Options by Size in Sector 84 Gurugram",
+    "description": [
+      "Choosing the right plot size in Sector 84 Gurugram is an important step that influences home design, lifestyle comfort, and future resale value.",
+      "Sector 84 offers a wide range of plot sizes suitable for budget homes, spacious residences, and premium villa-style developments."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 84 Gurugram",
+        "description": "A 4 Marla plot in Sector 84 Gurugram is perfect for buyers seeking an affordable entry into a prime location. These plots are suitable for compact independent homes and attract good demand from small families and rental seekers. With proper planning, a 4 Marla plot offers functional living along with consistent appreciation potential."
+      },
+      {
+        "title": "6 Marla Plot in Sector 84 Gurugram",
+        "description": "6 Marla plots in Sector 84 Gurugram provide an ideal balance between price and usable space. They are well-suited for comfortable family homes with parking and open areas. Due to their popularity among end-users, these plots maintain strong resale demand and long-term value."
+      },
+      {
+        "title": "8 Marla Plot in Sector 84 Gurugram",
+        "description": "An 8 Marla plot in Sector 84 Gurugram allows greater design flexibility and spacious construction. Buyers planning duplex homes or independent floors often prefer this size. With improving infrastructure and connectivity, 8 Marla plots are considered a reliable option for both living and investment."
+      },
+      {
+        "title": "10 Marla Plot in Sector 84 Gurugram",
+        "description": "10 Marla plots are premium land options in Sector 84 Gurugram, suitable for luxury homes with modern layouts and landscaped spaces. These plots are favored by buyers looking for higher appreciation and a premium residential lifestyle in New Gurugram."
+      },
+      {
+        "title": "12 Marla Plot in Sector 84 Gurugram",
+        "description": "A 12 Marla plot in Sector 84 Gurugram offers ample space for large villas and high-end residential projects. These plots are limited in supply, making them valuable assets with strong appreciation potential over the long term."
+      },
+      {
+        "title": "14 Marla Plot in Sector 84 Gurugram",
+        "description": "14 Marla plots in Sector 84 Gurugram are ideal for buyers seeking expansive land parcels for luxury living. Suitable for premium villas and exclusive developments, these plots offer excellent future growth prospects in a rapidly developing area."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Plot Options Near Sector 84 Gurugram",
+    "description": [
+      "Buyers looking for a Plot in Sector 84 Gurugram often explore nearby sectors to compare pricing, connectivity, and development progress.",
+      "This section highlights surrounding locations that enhance the residential and investment appeal of Sector 84 Gurugram."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 84 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 83 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 85 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 82 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Dwarka Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in New Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Plots in Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 84 Gurugram",
+    "description": [
+      "Buying a Plot in Sector 84 Gurugram requires verified information, transparent pricing, and expert guidance.",
+      "Deal Acres has earned buyer trust by delivering reliable property solutions, ethical practices, and customer-centric services."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "Every plot listed on Deal Acres is thoroughly verified for ownership, approvals, and documentation to ensure buyer safety."
+      },
+      {
+        "title": "Transparent and Fair Pricing",
+        "description": "Clear pricing with no hidden costs helps buyers make confident and informed decisions."
+      },
+      {
+        "title": "Strong Local Market Knowledge",
+        "description": "In-depth understanding of Sector 84 Gurugram price trends, infrastructure plans, and growth potential."
+      },
+      {
+        "title": "Wide Range of Plot Options",
+        "description": "Multiple plot sizes and configurations available to match different budgets and requirements."
+      },
+      {
+        "title": "Complete Legal Assistance",
+        "description": "Support with legal verification, registry process, and compliance ensures a smooth transaction."
+      },
+      {
+        "title": "Personalized Property Advice",
+        "description": "Tailored recommendations based on residential needs or investment goals."
+      },
+      {
+        "title": "End-to-End Buying Support",
+        "description": "Guidance from property shortlisting to final possession for a hassle-free experience."
+      },
+      {
+        "title": "Trusted Real Estate Brand",
+        "description": "Deal Acres is known for ethical dealings, customer satisfaction, and long-term trust."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 84 Gurugram",
+    "description": "Common questions and detailed answers to help buyers make informed decisions about plots in Sector 84 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 84 Gurugram a good location to buy a plot?",
+        "answer": "Yes, Sector 84 Gurugram is a well-developed and strategically located area with strong connectivity, modern infrastructure, and high appreciation potential, making it suitable for both living and investment."
+      },
+      {
+        "question": "What plot sizes are available in Sector 84 Gurugram?",
+        "answer": "Plots in Sector 84 Gurugram are available in multiple sizes ranging from 4 Marla to 14 Marla, catering to different budgets and construction needs."
+      },
+      {
+        "question": "Is Sector 84 suitable for residential construction?",
+        "answer": "Yes, Sector 84 is ideal for residential construction due to its planned layout, wide roads, and proximity to essential amenities."
+      },
+      {
+        "question": "Is buying a plot in Sector 84 a good investment?",
+        "answer": "With ongoing development and rising demand, plots in Sector 84 Gurugram offer strong long-term appreciation and investment security."
+      },
+      {
+        "question": "Are plots in Sector 84 legally approved?",
+        "answer": "Most plots are legally approved, but buyers should always verify documents and approvals. Deal Acres provides assistance with legal checks."
+      },
+      {
+        "question": "How is connectivity from Sector 84 Gurugram?",
+        "answer": "Sector 84 enjoys excellent connectivity via NH-48 and Dwarka Expressway, ensuring easy access to major parts of Gurugram and Delhi."
+      },
+      {
+        "question": "Can I start construction immediately after purchase?",
+        "answer": "Construction depends on local building norms and approvals. It is advisable to consult experts before starting construction."
+      },
+      {
+        "question": "What amenities are available near Sector 84?",
+        "answer": "The area offers access to schools, hospitals, shopping centers, parks, and daily convenience facilities."
+      },
+      {
+        "question": "Why choose Deal Acres for buying plots?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, legal support, and end-to-end assistance for a safe buying experience."
+      },
+      {
+        "question": "How can I contact property experts for Sector 84 plots?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property consultants for personalized guidance."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Buying Plots in Sector 84 Gurugram",
+    "description": [
+      "Finding the right Plot in Sector 84 Gurugram becomes simple with expert guidance and verified property options.",
+      "Share your details to connect with trusted real estate professionals who will help you explore genuine listings, compare plot options, and make a confident decision aligned with your budget and investment goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

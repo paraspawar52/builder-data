@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Residential and Investment Plots in Well Connected Sector 49 Gurugram",
+    "description": [
+      "Sector 49 Gurugram is a well-developed residential locality known for its balanced lifestyle, strong connectivity, and proximity to major commercial hubs. Buyers searching for a plot in Sector 49 Gurugram prefer this location because it lies close to Sohna Road, Golf Course Extension Road, and major employment zones. The sector is surrounded by established residential societies, reputed schools, hospitals, shopping complexes, and green open spaces, making it suitable for family living.",
+      "Plots in Sector 49 Gurugram offer a rare combination of central location and long-term value. Whether you are planning to build an independent house or looking for land investment with steady appreciation, this sector offers reliability and growth. With developed infrastructure, smooth road connectivity, and high demand for residential land, choosing a plot in Sector 49 Gurugram ensures both lifestyle comfort and future financial security."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 49",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Size Options Available in Sector 49 Gurugram",
+    "description": [
+      "Choosing the right plot size in Sector 49 Gurugram plays an important role in home planning and investment strategy.",
+      "Sector 49 offers multiple plot configurations suitable for residential construction and long-term appreciation."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 49 Gurugram",
+        "description": "A 4 Marla plot in Sector 49 Gurugram is ideal for compact independent homes. These plots suit buyers looking for affordability in a well-established sector with modern infrastructure."
+      },
+      {
+        "title": "6 Marla Plot in Sector 49 Gurugram",
+        "description": "6 Marla plots offer balanced space for comfortable home designs with parking and functional layouts in a prime residential area."
+      },
+      {
+        "title": "8 Marla Plot in Sector 49 Gurugram",
+        "description": "An 8 Marla plot allows better architectural flexibility and is preferred by families planning spacious independent houses."
+      },
+      {
+        "title": "10 Marla Plot in Sector 49 Gurugram",
+        "description": "10 Marla plots are considered premium and provide excellent resale value due to limited availability and high demand."
+      },
+      {
+        "title": "12 Marla Plot in Sector 49 Gurugram",
+        "description": "A 12 Marla plot is suitable for luxury residences with open spaces, gardens, and premium construction plans."
+      },
+      {
+        "title": "14 Marla Plot in Sector 49 Gurugram",
+        "description": "14 Marla plots attract buyers focused on exclusivity, large homes, and long-term capital appreciation."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Plot Options Near Sector 49 Gurugram",
+    "description": [
+      "Buyers interested in a plot in Sector 49 Gurugram often explore nearby sectors to compare location benefits and pricing.",
+      "These surrounding areas offer alternative plot options with similar lifestyle and connectivity advantages."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 49 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 47 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 48 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 50 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Sohna Road", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Golf Course Extension Road", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Central Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near NH-48", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 49 Gurugram",
+    "description": [
+      "Buying a plot in Sector 49 Gurugram requires accurate information, verified listings, and professional guidance.",
+      "Deal Acres has built strong trust by delivering transparency, market expertise, and customer-focused services."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are verified for ownership, approvals, and legal authenticity before listing."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden charges ensures buyer confidence."
+      },
+      {
+        "title": "Local Area Expertise",
+        "description": "Deep understanding of Sector 49 Gurugram and surrounding localities."
+      },
+      {
+        "title": "Wide Range of Options",
+        "description": "Multiple plot sizes available to suit different budgets and needs."
+      },
+      {
+        "title": "Legal & Registry Support",
+        "description": "End-to-end assistance with documentation and registry procedures."
+      },
+      {
+        "title": "Personalized Guidance",
+        "description": "Tailored recommendations based on buyer goals and preferences."
+      },
+      {
+        "title": "End-to-End Buying Support",
+        "description": "Support from property search to final possession."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Deal Acres is known for professionalism, reliability, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 49 Gurugram",
+    "description": "Common queries asked by buyers looking for plots in Sector 49 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 49 Gurugram a good location to buy a plot?",
+        "answer": "Yes, Sector 49 is a well-developed area with excellent connectivity, social infrastructure, and steady appreciation potential."
+      },
+      {
+        "question": "What plot sizes are available in Sector 49 Gurugram?",
+        "answer": "Plots typically range from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Is Sector 49 suitable for independent house construction?",
+        "answer": "Yes, Sector 49 is ideal for building independent houses due to its planned layout and residential environment."
+      },
+      {
+        "question": "Is buying a plot in Sector 49 a good investment?",
+        "answer": "Due to its central location and high demand, Sector 49 offers strong long-term investment potential."
+      },
+      {
+        "question": "Are plots in Sector 49 legally approved?",
+        "answer": "Most plots are approved, but proper legal verification is essential before purchase."
+      },
+      {
+        "question": "How is connectivity from Sector 49 Gurugram?",
+        "answer": "Sector 49 offers excellent connectivity via Sohna Road, Golf Course Extension Road, and NH-48."
+      },
+      {
+        "question": "Can construction start immediately after purchase?",
+        "answer": "Construction depends on local authority approvals and applicable building norms."
+      },
+      {
+        "question": "What amenities are available near Sector 49?",
+        "answer": "Schools, hospitals, shopping malls, parks, and daily convenience facilities are nearby."
+      },
+      {
+        "question": "Why choose Deal Acres for buying plots?",
+        "answer": "Deal Acres offers verified listings, transparent processes, and complete buyer support."
+      },
+      {
+        "question": "How can I contact plot buying experts?",
+        "answer": "You can fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Buying Plots in Sector 49 Gurugram",
+    "description": [
+      "Finding the right plot in Sector 49 Gurugram becomes easier with expert assistance.",
+      "Share your details to connect with trusted professionals who will help you find verified plots that match your budget and future goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

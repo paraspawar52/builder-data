@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Well Located Independent Houses for Rent in Sector 30 Gurugram",
+    "description": [
+      "Sector 30 Gurugram is a well-planned residential locality known for its central location, smooth connectivity, and peaceful living environment. People searching for a house for rent in Sector 30 Gurugram prefer this area because of its proximity to NH-48, HUDA City Centre Metro Station, Cyber City, and major commercial zones of Gurugram. The locality is surrounded by reputed schools, hospitals, shopping complexes, daily markets, and green parks, ensuring a convenient and balanced lifestyle for tenants.",
+      "Independent houses in Sector 30 offer spacious layouts, privacy, and a calm neighborhood atmosphere, making them ideal for families and working professionals. The sector has wide internal roads, proper civic infrastructure, and a strong residential community. Choosing a house for rent in Sector 30 Gurugram means enjoying comfort, accessibility, and long-term residential stability in one of Gurugram’s established neighborhoods."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sector 30 Gurugram",
+    "description": [
+      "Selecting the right plot size is an important decision when searching for a house for rent in Sector 30 Gurugram, as it directly affects living comfort, space availability, and rental budget.",
+      "Sector 30 offers a wide range of independent houses on rent, suitable for small families, growing households, and tenants looking for premium residential living."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 30 Gurugram",
+        "description": "A 4 Marla house for rent in Sector 30 Gurugram is ideal for couples or small families seeking a compact, affordable, and low-maintenance home in a centrally located area."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 30 Gurugram",
+        "description": "6 Marla houses provide a balanced combination of space and affordability, making them suitable for families looking for comfortable everyday living."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 30 Gurugram",
+        "description": "An 8 Marla rental house offers spacious rooms, proper ventilation, and functional layouts, making it ideal for long-term family residence."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 30 Gurugram",
+        "description": "10 Marla houses are preferred by tenants who need larger living areas, parking space, and enhanced privacy within a well-developed locality."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 30 Gurugram",
+        "description": "12 Marla rental houses fall into the premium category, offering open spaces, modern construction, and an upgraded living experience."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 30 Gurugram",
+        "description": "A 14 Marla house for rent is suitable for large families or corporate tenants seeking luxury, spacious interiors, and a peaceful residential setting."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 30 Gurugram",
+    "description": [
+      "Tenants looking for a house for rent in Sector 30 Gurugram often explore nearby localities to compare rental values, connectivity, and neighborhood advantages.",
+      "This section helps users discover surrounding residential areas and make informed rental decisions."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 30 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 29 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 31 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 32 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near HUDA City Centre", "path": "/", "icon": "Home" },
+      { "title": "House for Rent near NH-48", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 40 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent near Medanta Hospital", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sector 30 Rental Houses",
+    "description": [
+      "Finding a genuine house for rent in Sector 30 Gurugram requires verified listings, transparent pricing, and reliable local expertise. Deal Acres is built on trust and accuracy.",
+      "With a tenant-first approach and deep understanding of Gurugram’s rental market, Deal Acres has become a preferred choice for renting independent houses."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "Each property is verified for ownership, authenticity, and availability to ensure tenant safety."
+      },
+      {
+        "title": "Transparent Rental Details",
+        "description": "Clear information about rent, security deposit, and lease terms helps tenants make confident decisions."
+      },
+      {
+        "title": "Local Market Knowledge",
+        "description": "Strong understanding of Sector 30 and nearby areas ensures accurate rental guidance."
+      },
+      {
+        "title": "Easy Property Discovery",
+        "description": "User-friendly search tools make finding the right house quick and hassle-free."
+      },
+      {
+        "title": "Tenant-Centric Approach",
+        "description": "Property recommendations are aligned with tenant budget, family size, and lifestyle needs."
+      },
+      {
+        "title": "Rental Documentation Support",
+        "description": "Assistance with agreements and paperwork ensures a smooth rental process."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Complete support from property search to final move-in."
+      },
+      {
+        "title": "Trusted Rental Platform",
+        "description": "Deal Acres is trusted by tenants for transparency, reliability, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 30 Gurugram",
+    "description": "Common tenant questions related to house for rent in Sector 30 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 30 Gurugram a good area to rent a house?",
+        "answer": "Yes, Sector 30 is a centrally located and well-developed residential area with excellent connectivity and essential amenities nearby."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 30?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are available, catering to different family sizes and budgets."
+      },
+      {
+        "question": "Is Sector 30 suitable for family living?",
+        "answer": "Yes, the sector has schools, hospitals, parks, and markets nearby, making it ideal for families."
+      },
+      {
+        "question": "Are furnished houses available for rent in Sector 30?",
+        "answer": "Both furnished and semi-furnished houses are available depending on the property and landlord preferences."
+      },
+      {
+        "question": "What is the average rent in Sector 30 Gurugram?",
+        "answer": "Rental values depend on plot size, furnishings, and exact location, but Sector 30 offers competitive rents for its connectivity."
+      },
+      {
+        "question": "How is connectivity from Sector 30?",
+        "answer": "Sector 30 is well-connected via NH-48, HUDA City Centre Metro Station, and major city roads."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sector 30?",
+        "answer": "Some landlords allow bachelors, while others prefer families. This depends on individual owner policies."
+      },
+      {
+        "question": "Is Sector 30 safe for tenants?",
+        "answer": "Yes, the locality is considered safe with established residential surroundings and regular security presence."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent information, and expert local rental assistance."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 30?",
+        "answer": "You can fill out the contact form to connect with experienced rental property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sector 30 Gurugram",
+    "description": [
+      "Finding the right house for rent in Sector 30 Gurugram becomes simple and stress-free with expert guidance.",
+      "Share your details to connect with trusted property professionals who will help you find a rental home that matches your budget, preferences, and lifestyle needs."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

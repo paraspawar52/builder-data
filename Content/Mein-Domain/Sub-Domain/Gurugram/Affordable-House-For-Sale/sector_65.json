@@ -1,0 +1,175 @@
+{
+  "domain": "Affordablehouseforsalecom",
+
+  "hero": {
+    "title": "Affordable Independent Houses for Sale in Sector 65 Gurugram",
+    "description": [
+      "Sector 65 Gurugram is a premium yet well-planned residential locality located along Golf Course Extension Road. Buyers searching for an affordable house for sale in Sector 65 Gurugram are drawn to its modern infrastructure, wide roads, and excellent connectivity to key areas like Sohna Road, Southern Peripheral Road (SPR), and NH-48. The sector is surrounded by reputed residential societies, commercial hubs, schools, hospitals, and daily convenience markets, making it ideal for family living.",
+      "Affordable houses for sale in Sector 65 Gurugram offer a balanced lifestyle with the advantage of independent living in a rapidly developing area. The locality is known for its peaceful environment, good civic amenities, and strong future growth potential. With continuous infrastructure upgrades and rising demand along Golf Course Extension Road, Sector 65 remains a smart choice for end-users and investors looking for long-term value appreciation."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Size Options Available in Sector 65 Gurugram",
+    "description": [
+      "Selecting the right house size in Sector 65 Gurugram depends on budget, family requirements, and future expansion plans.",
+      "The sector offers multiple independent house configurations that suit both residential living and long-term investment."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House for Sale in Sector 65 Gurugram",
+        "description": "A 4 Marla affordable house in Sector 65 Gurugram is ideal for buyers seeking compact independent homes in a prime location at a controlled budget."
+      },
+      {
+        "title": "6 Marla Affordable House for Sale in Sector 65 Gurugram",
+        "description": "6 Marla houses provide a practical layout with sufficient living space, suitable for small to mid-sized families."
+      },
+      {
+        "title": "8 Marla Affordable House for Sale in Sector 65 Gurugram",
+        "description": "An 8 Marla house allows better design flexibility, parking convenience, and comfortable room sizes."
+      },
+      {
+        "title": "10 Marla Affordable House for Sale in Sector 65 Gurugram",
+        "description": "10 Marla houses are preferred by families looking for spacious living and good resale value in a premium corridor."
+      },
+      {
+        "title": "12 Marla Affordable House for Sale in Sector 65 Gurugram",
+        "description": "A 12 Marla house is suitable for buyers who want larger homes with long-term appreciation potential."
+      },
+      {
+        "title": "14 Marla Affordable House for Sale in Sector 65 Gurugram",
+        "description": "14 Marla houses cater to buyers seeking expansive independent homes in a well-developed neighborhood."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses Near Sector 65 Gurugram",
+    "description": [
+      "Buyers interested in affordable houses for sale in Sector 65 Gurugram often explore nearby locations for better comparison.",
+      "These surrounding areas further strengthen the residential and investment appeal of Sector 65."
+    ],
+    "locations": [
+      { "title": "Affordable House for Sale in Sector 65 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 66 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 67 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 68 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Golf Course Extension Road", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Sohna Road Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses near SPR Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Budget Independent Homes in New Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Affordable Houses in Sector 65",
+    "description": [
+      "Buying an affordable house for sale in Sector 65 Gurugram requires verified listings, local expertise, and transparent pricing.",
+      "Deal Acres has earned buyer trust by delivering genuine properties and complete buying support."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "Every house is checked for ownership clarity and legal approvals."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear and honest pricing with no hidden costs."
+      },
+      {
+        "title": "Strong Local Expertise",
+        "description": "Deep understanding of Sector 65 property trends and demand."
+      },
+      {
+        "title": "Wide Inventory Options",
+        "description": "Multiple house sizes available across different budget ranges."
+      },
+      {
+        "title": "Legal and Registry Assistance",
+        "description": "End-to-end support with documentation and registry process."
+      },
+      {
+        "title": "Personalized Property Guidance",
+        "description": "Property suggestions based on family needs and investment goals."
+      },
+      {
+        "title": "Complete Buying Support",
+        "description": "Assistance from property shortlisting to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for ethical practices and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Sector 65 Gurugram",
+    "description": "Detailed answers to common buyer questions to help in confident decision-making.",
+    "faqs": [
+      {
+        "question": "Is Sector 65 Gurugram a good location to buy an affordable house?",
+        "answer": "Yes, Sector 65 is a prime location along Golf Course Extension Road with strong infrastructure and long-term growth potential."
+      },
+      {
+        "question": "What house sizes are available in Sector 65 Gurugram?",
+        "answer": "Independent houses are generally available from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Is Sector 65 suitable for family living?",
+        "answer": "Yes, the area offers schools, hospitals, shopping areas, parks, and excellent road connectivity."
+      },
+      {
+        "question": "Are houses in Sector 65 legally approved?",
+        "answer": "Most houses are approved, and Deal Acres assists buyers with complete legal verification."
+      },
+      {
+        "question": "How is connectivity from Sector 65 Gurugram?",
+        "answer": "Sector 65 enjoys excellent connectivity via Golf Course Extension Road, SPR, Sohna Road, and NH-48."
+      },
+      {
+        "question": "Is buying a house in Sector 65 a good investment?",
+        "answer": "Yes, rising demand and continuous infrastructure development support strong appreciation potential."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 65?",
+        "answer": "Yes, most banks and financial institutions offer home loans for eligible properties."
+      },
+      {
+        "question": "What amenities are available near Sector 65?",
+        "answer": "The area has schools, hospitals, malls, restaurants, parks, and daily convenience facilities."
+      },
+      {
+        "question": "Why choose Deal Acres for buying houses in Sector 65?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, and end-to-end buyer support."
+      },
+      {
+        "question": "How can I contact property experts for Sector 65 houses?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Affordable Houses in Sector 65 Gurugram",
+    "description": [
+      "Finding the right affordable house for sale in Sector 65 Gurugram becomes easy with expert guidance.",
+      "Share your details to connect with trusted real estate professionals and explore verified housing options confidently."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

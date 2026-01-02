@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Premium Independent Houses for Rent in Sector 109 Gurugram",
+    "description": [
+      "Sector 109 Gurugram is a prime residential locality located along the Dwarka Expressway, making it one of the most sought-after areas for modern rental living. Tenants searching for a house for rent in Sector 109 Gurugram are attracted by its excellent connectivity to Delhi, IGI Airport, and major commercial hubs of Gurugram. The sector is well-planned with wide roads, green spaces, and close proximity to reputed schools, hospitals, shopping centers, and daily convenience stores, ensuring a smooth and comfortable lifestyle.",
+      "Independent houses in Sector 109 offer spacious layouts, enhanced privacy, and a calm residential environment compared to high-rise apartments. The locality is ideal for families, working professionals, and corporate tenants looking for quality living with long-term rental potential. Choosing a house for rent in Sector 109 Gurugram means enjoying premium infrastructure, strategic location advantages, and a balanced lifestyle in one of Gurugram’s rapidly developing neighborhoods."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sector 109 Gurugram",
+    "description": [
+      "When searching for a house for rent in Sector 109 Gurugram, plot size plays a crucial role in determining comfort, space utilization, and rental budget.",
+      "Sector 109 offers a wide range of independent houses on rent, catering to small families, large households, and tenants seeking premium residential options."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 109 Gurugram",
+        "description": "A 4 Marla house for rent in Sector 109 Gurugram is ideal for couples or small families looking for an affordable, low-maintenance rental home in a prime location."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 109 Gurugram",
+        "description": "6 Marla houses provide a balanced mix of space and affordability, making them suitable for families seeking comfortable living at a reasonable rent."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 109 Gurugram",
+        "description": "An 8 Marla rental house offers spacious interiors, good ventilation, and practical layouts, ideal for long-term family living."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 109 Gurugram",
+        "description": "10 Marla houses are preferred by tenants who want premium living with larger rooms, parking space, and enhanced privacy."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 109 Gurugram",
+        "description": "12 Marla rental houses fall under the premium segment, offering open spaces, modern construction, and a higher standard of lifestyle comfort."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 109 Gurugram",
+        "description": "A 14 Marla house for rent is suitable for large families or corporate tenants seeking luxury, space, and a peaceful residential environment."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 109 Gurugram",
+    "description": [
+      "Tenants looking for a house for rent in Sector 109 Gurugram often explore nearby sectors to compare rental prices, connectivity, and lifestyle benefits.",
+      "This section helps users discover surrounding residential areas and make informed rental decisions."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 109 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 110 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 108 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 106 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near Dwarka Expressway", "path": "/", "icon": "Home" },
+      { "title": "House for Rent near Dwarka Sector 21", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Palam Vihar", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent near IGI Airport", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sector 109 Rental Houses",
+    "description": [
+      "Finding a genuine house for rent in Sector 109 Gurugram requires verified listings, transparent pricing, and accurate local market insights. Deal Acres focuses on trust and reliability.",
+      "With a tenant-first approach and deep understanding of Gurugram’s rental market, Deal Acres has become a preferred choice for renting independent houses."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "All properties are verified for ownership, authenticity, and availability to ensure tenant safety."
+      },
+      {
+        "title": "Transparent Rental Pricing",
+        "description": "Clear details about rent, security deposit, and rental terms help tenants make confident decisions."
+      },
+      {
+        "title": "Strong Local Market Expertise",
+        "description": "In-depth knowledge of Sector 109 and nearby localities ensures accurate rental guidance."
+      },
+      {
+        "title": "Easy Property Search Platform",
+        "description": "User-friendly tools and filters make finding the right house for rent quick and convenient."
+      },
+      {
+        "title": "Tenant-Centric Recommendations",
+        "description": "Property suggestions are tailored to tenant needs, budget, and lifestyle preferences."
+      },
+      {
+        "title": "Rental Documentation Support",
+        "description": "Assistance with rental agreements and paperwork ensures a smooth and stress-free process."
+      },
+      {
+        "title": "End-to-End Rental Assistance",
+        "description": "Support from property search to final move-in for a hassle-free rental experience."
+      },
+      {
+        "title": "Trusted by Thousands of Renters",
+        "description": "Deal Acres is known for transparency, reliability, and high customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 109 Gurugram",
+    "description": "Common tenant questions related to house for rent in Sector 109 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 109 Gurugram a good location to rent a house?",
+        "answer": "Yes, Sector 109 is a prime location near Dwarka Expressway with excellent connectivity, modern infrastructure, and a peaceful residential environment."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 109?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are available, suitable for different family sizes and budgets."
+      },
+      {
+        "question": "Is Sector 109 suitable for family living?",
+        "answer": "Yes, the area has nearby schools, hospitals, parks, and shopping centers, making it ideal for families."
+      },
+      {
+        "question": "Are furnished houses available for rent in Sector 109?",
+        "answer": "Both furnished and semi-furnished houses are available depending on the property and landlord preferences."
+      },
+      {
+        "question": "What is the average rent in Sector 109 Gurugram?",
+        "answer": "Rental values depend on plot size, furnishings, and location, but Sector 109 offers competitive rental options for its location."
+      },
+      {
+        "question": "How is connectivity from Sector 109?",
+        "answer": "Sector 109 enjoys excellent connectivity via Dwarka Expressway, with easy access to Delhi, IGI Airport, and central Gurugram."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sector 109?",
+        "answer": "Some landlords allow bachelors, while others prefer families. This depends on individual property owner policies."
+      },
+      {
+        "question": "Is Sector 109 safe for tenants?",
+        "answer": "Yes, Sector 109 is considered safe with gated communities, security services, and a well-maintained residential environment."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent rental information, and expert local support for tenants."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 109?",
+        "answer": "You can fill out the contact form to connect with experienced rental property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sector 109 Gurugram",
+    "description": [
+      "Finding the right house for rent in Sector 109 Gurugram becomes simple and stress-free with expert guidance.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that matches your budget, preferences, and lifestyle needs."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

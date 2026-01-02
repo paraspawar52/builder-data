@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforsale.com",
+
+  "hero": {
+    "title": "Independent Houses for Sale in Sector 6 Gurugram",
+    "description": [
+      "Sector 6 Gurugram is a well-established residential locality known for its central location, peaceful surroundings, and excellent civic infrastructure. Buyers searching for a house for sale in Sector 6 Gurugram are attracted to its close proximity to major city areas, Old Gurugram markets, educational institutions, hospitals, and government offices. The sector enjoys smooth road connectivity to NH-48, MG Road, and nearby commercial zones, making daily commuting convenient for working professionals and families alike.",
+      "Independent houses in Sector 6 Gurugram offer spacious layouts, low-density living, and a strong sense of community. The area is preferred by families who value stability, safety, and long-term residential comfort. With consistent demand, limited inventory, and a mature neighborhood setup, investing in a house for sale in Sector 6 Gurugram provides both lifestyle benefits and steady property appreciation in one of Gurugram’s trusted residential pockets."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Sale",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Sale Options by Plot Size in Sector 6 Gurugram",
+    "description": [
+      "Choosing the right plot size plays a crucial role when planning to buy a house for sale in Sector 6 Gurugram, as it impacts space utilization, comfort, and future needs.",
+      "Sector 6 offers multiple independent house configurations suitable for different family sizes and budgets."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Sector 6 Gurugram",
+        "description": "A 4 Marla house for sale in Sector 6 Gurugram is ideal for small families and buyers looking for an affordable independent home in a central location. These houses offer efficient layouts with essential living spaces and low maintenance requirements."
+      },
+      {
+        "title": "6 Marla House for Sale in Sector 6 Gurugram",
+        "description": "A 6 Marla house for sale in Sector 6 Gurugram provides a balanced living option with additional space for comfortable family life. These homes often include parking space, well-planned rooms, and better ventilation."
+      },
+      {
+        "title": "8 Marla House for Sale in Sector 6 Gurugram",
+        "description": "An 8 Marla house for sale in Sector 6 Gurugram offers spacious interiors, multiple bedrooms, and flexible design possibilities, making it suitable for growing families seeking long-term comfort."
+      },
+      {
+        "title": "10 Marla House for Sale in Sector 6 Gurugram",
+        "description": "A 10 Marla house for sale in Sector 6 Gurugram falls into the premium segment, offering enhanced privacy, wider frontage, and superior independent living in a prime neighborhood."
+      },
+      {
+        "title": "12 Marla House for Sale in Sector 6 Gurugram",
+        "description": "A 12 Marla house for sale in Sector 6 Gurugram delivers luxury living with spacious layouts, open areas, and quality construction, ideal for buyers seeking upscale residential comfort."
+      },
+      {
+        "title": "14 Marla House for Sale in Sector 6 Gurugram",
+        "description": "A 14 Marla house for sale in Sector 6 Gurugram represents elite residential living with expansive spaces, premium finishes, and strong long-term value in an established locality."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Sale Near Sector 6 Gurugram",
+    "description": [
+      "Buyers considering a house for sale in Sector 6 Gurugram often explore nearby areas to compare property prices, accessibility, and lifestyle benefits.",
+      "This section highlights surrounding localities to help buyers make confident and informed decisions."
+    ],
+    "locations": [
+      { "title": "House for Sale in Sector 6 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 5 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale in Sector 7 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Sector 4 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale near Old Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Sale near NH-48", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Sector 10 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale near MG Road", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Sector 6 Houses",
+    "description": [
+      "Buying a house for sale in Sector 6 Gurugram requires reliable information, verified listings, and transparent guidance. Deal Acres focuses on building long-term trust with homebuyers.",
+      "With deep local expertise and a customer-first approach, Deal Acres has become a preferred choice for independent house buyers in Gurugram."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "Every property listing is checked to ensure authenticity and clear ownership."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Accurate pricing based on real-time market data and locality trends."
+      },
+      {
+        "title": "Local Area Expertise",
+        "description": "Strong understanding of Sector 6 and surrounding residential pockets."
+      },
+      {
+        "title": "User-Friendly Platform",
+        "description": "Easy-to-use search tools for a smooth property discovery experience."
+      },
+      {
+        "title": "Buyer-Focused Recommendations",
+        "description": "Listings aligned with buyer needs, budgets, and lifestyle preferences."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Basic guidance provided for legal and ownership documentation."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support available from property search to final decision-making."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Strong reputation built on transparency, service quality, and reliability."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About House for Sale in Sector 6 Gurugram",
+    "description": "Detailed answers to common questions to help buyers make informed decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 6 Gurugram a good area to buy a house?",
+        "answer": "Yes, Sector 6 is a well-developed and centrally located area, ideal for family living and long-term investment."
+      },
+      {
+        "question": "What plot sizes are available in Sector 6 Gurugram?",
+        "answer": "Independent houses are typically available from 4 Marla to 14 Marla."
+      },
+      {
+        "question": "Is Sector 6 suitable for families?",
+        "answer": "Yes, the sector offers a safe environment with nearby schools, hospitals, and daily conveniences."
+      },
+      {
+        "question": "Are ready-to-move houses available in Sector 6?",
+        "answer": "Yes, buyers can find ready-to-move and resale houses depending on availability."
+      },
+      {
+        "question": "Is Sector 6 good for long-term investment?",
+        "answer": "Yes, limited supply and consistent demand support steady appreciation."
+      },
+      {
+        "question": "Can I get a home loan for a house in Sector 6?",
+        "answer": "Most properties are eligible for home loans, subject to bank approval and documentation."
+      },
+      {
+        "question": "How is connectivity from Sector 6 Gurugram?",
+        "answer": "Sector 6 offers excellent connectivity to NH-48, MG Road, and key city areas."
+      },
+      {
+        "question": "Is Sector 6 suitable for rental income?",
+        "answer": "Yes, central location and established infrastructure attract stable tenants."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, and local market expertise."
+      },
+      {
+        "question": "How can I contact property experts for Sector 6?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Sale in Sector 6 Gurugram",
+    "description": [
+      "Buying a house for sale in Sector 6 Gurugram is a significant decision, and expert support can simplify the process.",
+      "Share your details to connect with trusted property professionals who will help you find the right home based on your budget, preferences, and future goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

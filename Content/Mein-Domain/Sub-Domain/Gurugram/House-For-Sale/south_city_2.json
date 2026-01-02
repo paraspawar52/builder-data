@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforsale.com",
+
+  "hero": {
+    "title": "Premium Independent Houses for Sale in South City 2 Gurugram",
+    "description": [
+      "South City 2 Gurugram is a well-developed and premium residential township located near Sohna Road, offering a balanced lifestyle with modern infrastructure and green surroundings. Buyers looking for a house for sale in South City 2 Gurugram are drawn to its planned layout, wide internal roads, parks, and peaceful environment. The locality enjoys smooth connectivity to Golf Course Extension Road, NH-48, and major employment hubs like Cyber City and Udyog Vihar. Reputed schools, hospitals, shopping complexes, and daily convenience stores are easily accessible, making it ideal for families.",
+      "Independent houses in South City 2 Gurugram provide spacious layouts, privacy, and low-density living, which are highly preferred by homebuyers seeking long-term comfort. The area has a strong residential reputation with stable property prices and consistent rental demand. Investing in a house for sale in South City 2 Gurugram is a smart decision for buyers looking for a secure neighborhood, excellent livability, and steady appreciation in one of Gurugram’s most trusted residential communities."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Sale",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Sale Options by Plot Size in South City 2",
+    "description": [
+      "Selecting the right plot size is an important step when planning to buy a house for sale in South City 2 Gurugram, as it directly affects comfort, layout flexibility, and budget.",
+      "South City 2 offers multiple independent house configurations designed for different family sizes and lifestyle needs."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in South City 2 Gurugram",
+        "description": "A 4 Marla house for sale in South City 2 Gurugram is ideal for buyers seeking compact, low-maintenance independent homes in a premium township. These houses suit small families and professionals."
+      },
+      {
+        "title": "6 Marla House for Sale in South City 2 Gurugram",
+        "description": "A 6 Marla house for sale in South City 2 Gurugram offers a balanced combination of affordability and comfortable living space, making it suitable for nuclear families."
+      },
+      {
+        "title": "8 Marla House for Sale in South City 2 Gurugram",
+        "description": "An 8 Marla house for sale in South City 2 Gurugram provides spacious interiors, better ventilation, and flexible room layouts for growing families."
+      },
+      {
+        "title": "10 Marla House for Sale in South City 2 Gurugram",
+        "description": "A 10 Marla house for sale in South City 2 Gurugram falls under the premium segment, offering enhanced privacy, larger built-up areas, and independent living comfort."
+      },
+      {
+        "title": "12 Marla House for Sale in South City 2 Gurugram",
+        "description": "A 12 Marla house for sale in South City 2 Gurugram offers luxury-level space with quality construction, open areas, and ample parking facilities."
+      },
+      {
+        "title": "14 Marla House for Sale in South City 2 Gurugram",
+        "description": "A 14 Marla house for sale in South City 2 Gurugram represents elite residential living with expansive layouts and strong long-term appreciation potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Sale In and Around South City 2 Gurugram",
+    "description": [
+      "Buyers exploring a house for sale in South City 2 Gurugram often compare nearby localities to evaluate connectivity, pricing, and lifestyle advantages.",
+      "This section helps users discover surrounding residential options for better decision-making."
+    ],
+    "locations": [
+      { "title": "House for Sale in South City 2 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 49 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale in Sector 50 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Sector 57 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale near Sohna Road", "path": "/", "icon": "Home" },
+      { "title": "House for Sale near Golf Course Extension Road", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in South City 1 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale in South Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for South City 2 Houses",
+    "description": [
+      "Buying a house for sale in South City 2 Gurugram requires verified listings, transparent pricing, and reliable local guidance. Deal Acres focuses on trust and customer satisfaction.",
+      "With a buyer-first approach and strong market expertise, Deal Acres has become a preferred platform for property buyers in Gurugram."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All listings are verified to ensure authenticity and ownership clarity."
+      },
+      {
+        "title": "Transparent Pricing Insights",
+        "description": "Accurate pricing based on real market trends and demand."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Deep understanding of South City 2 and surrounding localities."
+      },
+      {
+        "title": "User-Friendly Platform",
+        "description": "Easy and intuitive interface for property search and comparison."
+      },
+      {
+        "title": "Buyer-Centric Recommendations",
+        "description": "Listings aligned with buyer needs, budgets, and preferences."
+      },
+      {
+        "title": "Documentation Guidance",
+        "description": "Basic assistance provided for legal and documentation checks."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Support available throughout the buying journey."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Strong reputation built on transparency and consistent service quality."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About House for Sale in South City 2 Gurugram",
+    "description": "Detailed answers to common buyer questions.",
+    "faqs": [
+      {
+        "question": "Is South City 2 Gurugram a good area to buy a house?",
+        "answer": "Yes, South City 2 is a premium and well-planned township with excellent livability and connectivity."
+      },
+      {
+        "question": "What plot sizes are available in South City 2 Gurugram?",
+        "answer": "Independent houses are commonly available from 4 Marla to 14 Marla."
+      },
+      {
+        "question": "Is South City 2 suitable for family living?",
+        "answer": "Yes, the area offers a safe environment with schools, parks, and hospitals nearby."
+      },
+      {
+        "question": "Are ready-to-move houses available in South City 2?",
+        "answer": "Yes, buyers can find ready-to-move and resale houses in this locality."
+      },
+      {
+        "question": "Is South City 2 good for rental income?",
+        "answer": "Yes, its location near Sohna Road and corporate hubs ensures steady rental demand."
+      },
+      {
+        "question": "Can I get a home loan for houses in South City 2?",
+        "answer": "Most houses are eligible for home loans, subject to bank policies and documentation."
+      },
+      {
+        "question": "How is connectivity from South City 2 Gurugram?",
+        "answer": "South City 2 is well-connected via Sohna Road and Golf Course Extension Road."
+      },
+      {
+        "question": "Is South City 2 good for long-term investment?",
+        "answer": "Yes, the locality offers stable appreciation due to strong residential demand."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, and expert local support."
+      },
+      {
+        "question": "How can I contact property experts for South City 2?",
+        "answer": "You can fill out the contact form on this page to connect with experienced consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Sale in South City 2 Gurugram",
+    "description": [
+      "Buying a house for sale in South City 2 Gurugram is a significant investment, and professional guidance can simplify the process.",
+      "Share your details to connect with trusted property experts who will help you find the right home based on your budget, preferences, and long-term goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "domain": "Houseforsale.com",
+
+  "hero": {
+    "title": "Independent Houses for Sale in Sector 3 Gurugram",
+    "description": [
+      "Sector 3 Gurugram is a well-established and centrally located residential area that attracts buyers looking for convenience, connectivity, and a peaceful living environment. People searching for a House for sale in Sector 3 Gurugram prefer this locality because of its proximity to Old Gurugram, NH-48, and important commercial and residential zones. The area is known for its planned layout, wide internal roads, and easy access to daily essentials such as markets, schools, hospitals, and public transport.",
+      "Independent houses in Sector 3 offer spacious layouts, privacy, and long-term stability, making them ideal for families and end users. The locality has a mature neighborhood with reliable civic infrastructure, ensuring comfortable everyday living. Investing in a house for sale in Sector 3 Gurugram is a practical choice for buyers seeking steady appreciation, strong resale demand, and a balanced lifestyle in one of Gurugram’s trusted residential sectors."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Sale",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Sale Options by Plot Size in Sector 3 Gurugram",
+    "description": [
+      "Selecting the right plot size is an important decision when planning to buy a house for sale in Sector 3 Gurugram, as it affects space, comfort, and long-term value.",
+      "Sector 3 offers independent houses in multiple plot sizes, allowing buyers to choose according to their family needs, budget, and future plans."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Sector 3 Gurugram",
+        "description": "A 4 Marla house for sale in Sector 3 Gurugram is suitable for buyers looking for a compact home in a well-connected locality. These houses are easy to maintain and offer good rental demand."
+      },
+      {
+        "title": "6 Marla House for Sale in Sector 3 Gurugram",
+        "description": "6 Marla houses provide a comfortable balance between space and affordability, making them ideal for small to mid-sized families."
+      },
+      {
+        "title": "8 Marla House for Sale in Sector 3 Gurugram",
+        "description": "An 8 Marla house offers more spacious interiors, better ventilation, and flexibility for renovation or future expansion."
+      },
+      {
+        "title": "10 Marla House for Sale in Sector 3 Gurugram",
+        "description": "10 Marla houses are preferred by buyers seeking premium living with larger rooms, privacy, and strong resale value."
+      },
+      {
+        "title": "12 Marla House for Sale in Sector 3 Gurugram",
+        "description": "12 Marla houses fall into the luxury segment, offering open layouts, modern architecture, and enhanced comfort."
+      },
+      {
+        "title": "14 Marla House for Sale in Sector 3 Gurugram",
+        "description": "A 14 Marla house represents spacious independent living with excellent long-term appreciation and exclusivity."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Sale Near Sector 3 Gurugram",
+    "description": [
+      "Buyers interested in a house for sale in Sector 3 Gurugram often explore nearby residential areas to compare pricing, connectivity, and lifestyle benefits.",
+      "This section helps users quickly discover surrounding localities and make informed property decisions."
+    ],
+    "locations": [
+      { "title": "House for Sale in Sector 3 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 4 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale in Sector 7 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Sector 10 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale in Sector 14 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Ashok Vihar Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Sadar Bazar Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale in Old Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Sector 3 Houses",
+    "description": [
+      "Buying a house for sale in Sector 3 Gurugram requires accurate information, verified listings, and transparent pricing. Deal Acres focuses on building trust by offering reliable property data.",
+      "With strong local market knowledge and a customer-first approach, Deal Acres has become a preferred platform for buyers searching for independent houses in Gurugram."
+    ],
+    "points": [
+      { "title": "Verified House Listings", "description": "All listings are checked to ensure authenticity and ownership clarity." },
+      { "title": "Transparent Pricing", "description": "Property prices are aligned with real market trends." },
+      { "title": "Local Market Expertise", "description": "In-depth understanding of Sector 3 and nearby areas." },
+      { "title": "User-Friendly Platform", "description": "Easy navigation for a smooth property search experience." },
+      { "title": "Buyer-Focused Approach", "description": "Recommendations tailored to buyer needs and preferences." },
+      { "title": "Documentation Guidance", "description": "Basic assistance with legal and ownership documentation." },
+      { "title": "End-to-End Support", "description": "Help available from property search to final purchase." },
+      { "title": "Trusted by Buyers", "description": "Strong reputation built on transparency and service quality." }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses in Sector 3 Gurugram",
+    "description": "Common questions buyers ask when looking for a house for sale in Sector 3 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 3 Gurugram a good area to buy a house?",
+        "answer": "Yes, Sector 3 is a well-established locality with good connectivity, infrastructure, and long-term residential value."
+      },
+      {
+        "question": "What plot sizes are available in Sector 3?",
+        "answer": "Independent houses are commonly available from 4 Marla to 14 Marla."
+      },
+      {
+        "question": "Is Sector 3 suitable for family living?",
+        "answer": "Yes, the area offers a peaceful environment with schools, hospitals, and markets nearby."
+      },
+      {
+        "question": "Are ready-to-move houses available in Sector 3?",
+        "answer": "Yes, buyers can find ready-to-move and well-maintained resale houses."
+      },
+      {
+        "question": "Is Sector 3 good for long-term investment?",
+        "answer": "Yes, its central location and steady demand ensure consistent appreciation."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 3?",
+        "answer": "Most houses are eligible for home loans, subject to bank approvals."
+      },
+      {
+        "question": "How is connectivity from Sector 3 Gurugram?",
+        "answer": "Sector 3 is well-connected to NH-48, Old Gurugram, and key city areas."
+      },
+      {
+        "question": "Is rental demand strong in Sector 3?",
+        "answer": "Yes, rental demand remains stable due to the area’s location and amenities."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and local expertise."
+      },
+      {
+        "question": "How can I contact property experts for Sector 3?",
+        "answer": "You can fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Sale in Sector 3 Gurugram",
+    "description": [
+      "Buying a house for sale in Sector 3 Gurugram is a significant decision, and expert guidance can help simplify the process.",
+      "Share your details to connect with trusted property experts who will assist you in finding the right home based on your budget, preferences, and long-term goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

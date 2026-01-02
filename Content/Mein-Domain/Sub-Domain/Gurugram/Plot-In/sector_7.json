@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Residential and Investment Plots in Well Established Sector 7 Gurugram",
+    "description": [
+      "Sector 7 Gurugram is one of the well-established and centrally located residential areas of the city, known for its planned layout, strong civic infrastructure, and peaceful surroundings. Buyers searching for a plot in Sector 7 Gurugram prefer this location due to its proximity to Old Gurugram, Hero Honda Chowk, NH-48, and key commercial zones. The sector offers easy access to schools, hospitals, local markets, public transport, and daily-use facilities, making it highly suitable for family living.",
+      "Plots in Sector 7 Gurugram are limited and hold strong value because the area is already developed and witnessing consistent demand. Whether you are planning to construct an independent home, develop builder floors, or invest in land with stable appreciation, Sector 7 offers long-term security. Choosing a plot in Sector 7 Gurugram means investing in a mature neighborhood with reliable connectivity, livability, and steady real estate growth."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 7",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Options by Size in Sector 7 Gurugram",
+    "description": [
+      "Selecting the right plot size in Sector 7 Gurugram helps buyers align construction plans with budget and long-term goals.",
+      "Sector 7 offers a range of plot sizes suitable for residential construction and builder floor development."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 7 Gurugram",
+        "description": "A 4 Marla plot in Sector 7 Gurugram is ideal for compact homes or affordable residential investment. These plots suit buyers looking for independent living within a developed locality."
+      },
+      {
+        "title": "6 Marla Plot in Sector 7 Gurugram",
+        "description": "6 Marla plots provide balanced space for comfortable family homes with parking and efficient layouts, making them a popular choice."
+      },
+      {
+        "title": "8 Marla Plot in Sector 7 Gurugram",
+        "description": "An 8 Marla plot allows more flexible home design and is preferred by buyers planning spacious residences or builder floors."
+      },
+      {
+        "title": "10 Marla Plot in Sector 7 Gurugram",
+        "description": "10 Marla plots are suitable for premium independent houses and offer good resale value in this established sector."
+      },
+      {
+        "title": "12 Marla Plot in Sector 7 Gurugram",
+        "description": "A 12 Marla plot supports larger homes with open spaces and is ideal for joint families or long-term investors."
+      },
+      {
+        "title": "14 Marla Plot in Sector 7 Gurugram",
+        "description": "14 Marla plots represent premium land options in Sector 7 Gurugram, preferred by buyers seeking space, privacy, and stability."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Nearby Plot Locations Around Sector 7 Gurugram",
+    "description": [
+      "Buyers looking for a plot in Sector 7 Gurugram often explore nearby localities to compare pricing, availability, and connectivity.",
+      "This section highlights surrounding areas to help users make informed decisions."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 7 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 9 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 10 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 4 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Old Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Hero Honda Chowk", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near NH-48", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Central Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 7 Gurugram",
+    "description": [
+      "Buying a plot in Sector 7 Gurugram requires verified listings, transparent pricing, and local market understanding.",
+      "Deal Acres has built strong buyer trust by offering reliable property solutions and professional guidance."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are verified for ownership, approvals, and legal clarity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden charges for buyer confidence."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 7 Gurugram property trends."
+      },
+      {
+        "title": "Access to Genuine Listings",
+        "description": "Only authentic and well-located plots are showcased."
+      },
+      {
+        "title": "Legal and Registry Support",
+        "description": "Complete assistance with documentation and registry."
+      },
+      {
+        "title": "Personalized Plot Matching",
+        "description": "Recommendations based on buyer needs and budget."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from site visit to final possession."
+      },
+      {
+        "title": "Trusted Property Platform",
+        "description": "Deal Acres is known for reliability and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 7 Gurugram",
+    "description": "Common questions buyers ask before purchasing plots in Sector 7 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 7 Gurugram a good location to buy a plot?",
+        "answer": "Yes, Sector 7 is a well-developed and centrally located area with stable property demand."
+      },
+      {
+        "question": "What plot sizes are available in Sector 7 Gurugram?",
+        "answer": "Plots generally range from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Is Sector 7 suitable for residential construction?",
+        "answer": "Yes, the sector is ideal for independent homes and builder floor construction."
+      },
+      {
+        "question": "Is buying a plot in Sector 7 a good investment?",
+        "answer": "Sector 7 offers steady appreciation due to limited supply and established infrastructure."
+      },
+      {
+        "question": "Are plots in Sector 7 legally approved?",
+        "answer": "Most plots have clear titles, but verification is always recommended."
+      },
+      {
+        "question": "How is connectivity from Sector 7 Gurugram?",
+        "answer": "Sector 7 is well connected to NH-48, Old Gurugram, and major city roads."
+      },
+      {
+        "question": "Can construction start immediately after purchase?",
+        "answer": "Construction depends on local bylaws and approvals."
+      },
+      {
+        "question": "What amenities are available near Sector 7?",
+        "answer": "Schools, hospitals, markets, parks, and public transport are easily accessible."
+      },
+      {
+        "question": "Why choose Deal Acres for plot buying?",
+        "answer": "Deal Acres provides verified listings, transparency, and complete buyer support."
+      },
+      {
+        "question": "How can I connect with plot experts?",
+        "answer": "Fill out the contact form to get assistance from experienced consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Buying Plots in Sector 7 Gurugram",
+    "description": [
+      "Buying the right plot in Sector 7 Gurugram becomes easier with expert guidance and verified options.",
+      "Share your details to connect with trusted professionals who will help you find plots that match your requirements and investment goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "domain": "Affordablehouseforsalecom",
+
+  "hero": {
+    "title": "Affordable Independent Houses for Sale on Sohna Road Gurugram",
+    "description": [
+      "Sohna Road Gurugram is one of the fastest-growing residential corridors, well known for its excellent connectivity, modern infrastructure, and balanced lifestyle. Buyers searching for an affordable house for sale in Sohna Road Gurugram are attracted by its smooth access to NH-248A, Golf Course Extension Road, Southern Peripheral Road (SPR), and major business hubs. The area connects easily to sectors like Sector 47, Sector 48, Sector 49, and Badshahpur, making daily commuting convenient for professionals and families.",
+      "Affordable houses for sale on Sohna Road Gurugram offer a smart opportunity for buyers looking for independent living in a developing yet well-planned location. The locality is surrounded by schools, hospitals, shopping complexes, office spaces, and green zones, ensuring everyday comfort. With continuous infrastructure upgrades and rising residential demand, Sohna Road remains a strong choice for long-term living and steady property appreciation."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Size Options Available on Sohna Road Gurugram",
+    "description": [
+      "Choosing the right house size on Sohna Road Gurugram depends on family size, lifestyle needs, and future plans.",
+      "The locality offers multiple independent house configurations suitable for both end-users and investors."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House for Sale on Sohna Road Gurugram",
+        "description": "A 4 Marla affordable house on Sohna Road Gurugram is ideal for small families and first-time buyers seeking budget-friendly independent homes."
+      },
+      {
+        "title": "6 Marla Affordable House for Sale on Sohna Road Gurugram",
+        "description": "6 Marla houses provide a balanced layout with comfortable living space and good ventilation."
+      },
+      {
+        "title": "8 Marla Affordable House for Sale on Sohna Road Gurugram",
+        "description": "An 8 Marla house offers better room sizes, parking space, and flexibility for modern home designs."
+      },
+      {
+        "title": "10 Marla Affordable House for Sale on Sohna Road Gurugram",
+        "description": "10 Marla houses are suitable for families looking for spacious homes with strong resale potential."
+      },
+      {
+        "title": "12 Marla Affordable House for Sale on Sohna Road Gurugram",
+        "description": "A 12 Marla house is preferred by buyers who want larger living areas and long-term comfort."
+      },
+      {
+        "title": "14 Marla Affordable House for Sale on Sohna Road Gurugram",
+        "description": "14 Marla houses cater to buyers seeking premium independent living in a rapidly developing corridor."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses Near Sohna Road Gurugram",
+    "description": [
+      "Buyers exploring affordable houses for sale on Sohna Road Gurugram often compare nearby sectors for better insights.",
+      "These surrounding locations enhance the overall residential appeal of Sohna Road."
+    ],
+    "locations": [
+      { "title": "Affordable House for Sale on Sohna Road Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 47 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 48 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 49 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 69 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Golf Course Extension Road", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses near SPR Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Budget Independent Homes in South Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Affordable Houses on Sohna Road",
+    "description": [
+      "Buying an affordable house for sale on Sohna Road Gurugram requires verified listings and transparent guidance.",
+      "Deal Acres is trusted by buyers for its reliability, market knowledge, and customer-first approach."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "Every house listing is verified for ownership clarity and legal compliance."
+      },
+      {
+        "title": "Transparent Pricing Structure",
+        "description": "No hidden charges, ensuring complete pricing transparency."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sohna Road property trends and growth potential."
+      },
+      {
+        "title": "Wide Range of Affordable Options",
+        "description": "Multiple house sizes available to match different budgets."
+      },
+      {
+        "title": "Legal and Documentation Support",
+        "description": "Complete assistance with paperwork, registry, and approvals."
+      },
+      {
+        "title": "Personalized Buying Guidance",
+        "description": "Property suggestions aligned with lifestyle and investment goals."
+      },
+      {
+        "title": "End-to-End Buyer Support",
+        "description": "Support from property search to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for ethical practices and long-term customer trust."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses on Sohna Road Gurugram",
+    "description": "Helpful answers to common questions for confident home-buying decisions.",
+    "faqs": [
+      {
+        "question": "Is Sohna Road Gurugram a good location to buy an affordable house?",
+        "answer": "Yes, Sohna Road is a fast-developing area with strong connectivity and long-term growth prospects."
+      },
+      {
+        "question": "What house sizes are available on Sohna Road Gurugram?",
+        "answer": "Independent houses are typically available from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Is Sohna Road suitable for family living?",
+        "answer": "Yes, the area offers schools, hospitals, shopping centers, and green surroundings."
+      },
+      {
+        "question": "Are houses on Sohna Road legally approved?",
+        "answer": "Most properties are approved, and Deal Acres assists with complete legal verification."
+      },
+      {
+        "question": "How is connectivity from Sohna Road Gurugram?",
+        "answer": "Sohna Road connects well with SPR, Golf Course Extension Road, and NH-248A."
+      },
+      {
+        "question": "Is buying a house on Sohna Road a good investment?",
+        "answer": "Yes, continuous development and demand support stable appreciation."
+      },
+      {
+        "question": "Can I get a home loan for houses on Sohna Road?",
+        "answer": "Yes, home loans are available from major banks for eligible properties."
+      },
+      {
+        "question": "What amenities are available near Sohna Road Gurugram?",
+        "answer": "The area offers schools, hospitals, malls, offices, and daily convenience facilities."
+      },
+      {
+        "question": "Why choose Deal Acres for Sohna Road properties?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, and complete buyer support."
+      },
+      {
+        "question": "How can I contact experts for Sohna Road houses?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for Affordable Houses on Sohna Road Gurugram",
+    "description": [
+      "Finding the right affordable house for sale on Sohna Road Gurugram becomes easier with expert guidance.",
+      "Share your details to connect with trusted real estate professionals and explore verified housing options confidently."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

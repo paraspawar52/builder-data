@@ -1,0 +1,175 @@
+{
+  "domain": "Affordablehouseforsalecom",
+
+  "hero": {
+    "title": "Affordable Independent Houses for Sale in Sector 55 Gurugram",
+    "description": [
+      "Sector 55 Gurugram is a well-established residential locality located near Golf Course Road, known for its premium surroundings, excellent connectivity, and balanced urban lifestyle. Buyers looking for an affordable house for sale in Sector 55 Gurugram prefer this area due to its proximity to Rapid Metro stations, Cyber City, MG Road, and major commercial hubs. The sector is surrounded by reputed schools, hospitals, shopping complexes, and green spaces, making daily life comfortable for families and working professionals.",
+      "Affordable houses for sale in Sector 55 Gurugram offer a rare combination of prime location and long-term value. Independent houses here are suitable for self-use as well as investment, with strong rental demand and consistent appreciation. Choosing a home in Sector 55 means enjoying a peaceful neighborhood, solid infrastructure, and a secure real estate investment in one of Gurugram’s most sought-after residential belts."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Size Options Available in Sector 55 Gurugram",
+    "description": [
+      "Selecting the right house size in Sector 55 Gurugram is essential for budget planning, family needs, and future comfort.",
+      "The sector offers multiple affordable independent house configurations suitable for different lifestyle requirements."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House for Sale in Sector 55 Gurugram",
+        "description": "A 4 Marla affordable house in Sector 55 Gurugram is ideal for small families or professionals seeking independent living in a prime yet peaceful area."
+      },
+      {
+        "title": "6 Marla Affordable House for Sale in Sector 55 Gurugram",
+        "description": "6 Marla houses provide a balanced mix of space and affordability, making them suitable for growing families."
+      },
+      {
+        "title": "8 Marla Affordable House for Sale in Sector 55 Gurugram",
+        "description": "An 8 Marla house offers better layout flexibility, ventilation, and comfortable living space for mid-sized families."
+      },
+      {
+        "title": "10 Marla Affordable House for Sale in Sector 55 Gurugram",
+        "description": "10 Marla houses are preferred by buyers looking for spacious interiors, parking convenience, and long-term usability."
+      },
+      {
+        "title": "12 Marla Affordable House for Sale in Sector 55 Gurugram",
+        "description": "A 12 Marla house is suitable for families seeking premium space, privacy, and higher resale value."
+      },
+      {
+        "title": "14 Marla Affordable House for Sale in Sector 55 Gurugram",
+        "description": "14 Marla houses are premium affordable options offering luxury living with strong long-term appreciation potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses Near Sector 55 Gurugram",
+    "description": [
+      "Buyers searching for affordable houses for sale in Sector 55 Gurugram often explore nearby sectors for comparison.",
+      "These surrounding areas further enhance the residential and investment appeal of Sector 55."
+    ],
+    "locations": [
+      { "title": "Affordable House for Sale in Sector 55 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 54 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 56 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Golf Course Road", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Rapid Metro", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House in Sushant Lok", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses in Central Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Budget Homes near Corporate Offices", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Affordable Houses in Sector 55",
+    "description": [
+      "Buying an affordable house for sale in Sector 55 Gurugram requires verified listings, local expertise, and transparent processes.",
+      "Deal Acres has earned buyer trust by delivering genuine properties and customer-first real estate services."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All affordable houses are verified for ownership, approvals, and legal clarity."
+      },
+      {
+        "title": "Transparent Pricing Assurance",
+        "description": "Clear and honest pricing with no hidden charges for buyers."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth knowledge of Sector 55 pricing trends and growth prospects."
+      },
+      {
+        "title": "Wide Range of Options",
+        "description": "Multiple house sizes and budgets available on one platform."
+      },
+      {
+        "title": "Legal and Documentation Support",
+        "description": "Complete assistance with registry, paperwork, and compliance."
+      },
+      {
+        "title": "Personalized Buying Guidance",
+        "description": "Property recommendations aligned with buyer needs and budget."
+      },
+      {
+        "title": "End-to-End Transaction Support",
+        "description": "Support from shortlisting to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for ethical practices and long-term customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Sector 55 Gurugram",
+    "description": "Helpful answers to common buyer questions for confident decision-making.",
+    "faqs": [
+      {
+        "question": "Is Sector 55 Gurugram a good area to buy an affordable house?",
+        "answer": "Yes, Sector 55 offers excellent connectivity, premium surroundings, and stable long-term residential value."
+      },
+      {
+        "question": "What house sizes are available in Sector 55 Gurugram?",
+        "answer": "Affordable houses are typically available from 4 Marla to 14 Marla, depending on inventory."
+      },
+      {
+        "question": "Is Sector 55 suitable for family living?",
+        "answer": "Yes, the sector is family-friendly with schools, hospitals, parks, and shopping areas nearby."
+      },
+      {
+        "question": "Are properties in Sector 55 legally approved?",
+        "answer": "Most properties are approved, and Deal Acres assists with complete legal verification."
+      },
+      {
+        "question": "How is connectivity from Sector 55 Gurugram?",
+        "answer": "Sector 55 is well connected via Golf Course Road and Rapid Metro stations."
+      },
+      {
+        "question": "Is buying a house in Sector 55 a good investment?",
+        "answer": "Yes, limited supply and strong demand ensure steady appreciation and rental income."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 55?",
+        "answer": "Yes, leading banks and housing finance companies offer home loans for eligible properties."
+      },
+      {
+        "question": "What amenities are available near Sector 55?",
+        "answer": "The area offers schools, hospitals, offices, malls, parks, and public transport."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, and complete buyer support."
+      },
+      {
+        "question": "How can I contact property experts for Sector 55?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Affordable Houses in Sector 55 Gurugram",
+    "description": [
+      "Finding the right affordable house for sale in Sector 55 Gurugram becomes easy with expert assistance.",
+      "Share your details to connect with trusted real estate professionals and explore verified housing options."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

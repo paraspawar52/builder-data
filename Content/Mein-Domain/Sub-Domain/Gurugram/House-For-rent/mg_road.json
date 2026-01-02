@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Premium And Centrally Located Houses for Rent on MG Road Gurugram",
+    "description": [
+      "MG Road Gurugram is one of the most prime and well-established locations in the city, known for excellent connectivity, commercial hubs, and premium residential surroundings. Tenants searching for a house for rent in MG Road Gurugram prefer this area because it offers direct access to Delhi, Cyber City, Golf Course Road, and major business districts. With MG Road Metro Station, NH-48, and rapid public transport options, daily commuting becomes extremely convenient for working professionals.",
+      "Independent houses near MG Road offer a blend of comfort, accessibility, and urban lifestyle. The locality is surrounded by top malls, hospitals, schools, restaurants, and corporate offices, making it ideal for families as well as professionals. Choosing a house for rent in MG Road Gurugram ensures a high-quality lifestyle with unmatched connectivity, established social infrastructure, and the convenience of living in one of Gurugram’s most sought-after residential zones."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964205360-0f2b9a1b4c63?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661901989603-0c5c6c9e0e8a?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size on MG Road",
+    "description": [
+      "Plot size is a key consideration when selecting a house for rent in MG Road Gurugram, as it affects comfort, privacy, and rental value in this prime location.",
+      "MG Road offers independent houses across multiple Marla sizes, catering to different family sizes and lifestyle preferences."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent on MG Road Gurugram",
+        "description": "A 4 Marla house for rent on MG Road Gurugram is suitable for couples or small families seeking a compact home with premium location benefits and excellent connectivity."
+      },
+      {
+        "title": "6 Marla House for Rent on MG Road Gurugram",
+        "description": "6 Marla houses provide a balance of space and location advantage, ideal for nuclear families looking to live close to offices and metro connectivity."
+      },
+      {
+        "title": "8 Marla House for Rent on MG Road Gurugram",
+        "description": "An 8 Marla house for rent on MG Road Gurugram offers spacious interiors, better ventilation, and enhanced living comfort in a central area."
+      },
+      {
+        "title": "10 Marla House for Rent on MG Road Gurugram",
+        "description": "10 Marla houses are preferred by tenants who want larger living spaces, multiple bedrooms, and premium surroundings near commercial hubs."
+      },
+      {
+        "title": "12 Marla House for Rent on MG Road Gurugram",
+        "description": "A 12 Marla house for rent on MG Road Gurugram falls under the premium rental category, offering expansive layouts and high-end living comfort."
+      },
+      {
+        "title": "14 Marla House for Rent on MG Road Gurugram",
+        "description": "A 14 Marla house for rent on MG Road Gurugram is ideal for large families or senior professionals seeking luxury, privacy, and central city access."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near MG Road Gurugram",
+    "description": [
+      "Tenants looking for a house for rent in MG Road Gurugram often explore nearby premium localities to compare lifestyle options and rental values.",
+      "This section highlights surrounding areas to help users find the most suitable rental homes near MG Road."
+    ],
+    "locations": [
+      { "title": "House for Rent on MG Road Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in DLF Phase 2", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in DLF Phase 3", "path": "/", "icon": "Building" },
+      { "title": "House for Rent near Cyber City", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sushant Lok Phase 1", "path": "/", "icon": "Home" },
+      { "title": "House for Rent near Golf Course Road", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 28 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent near NH-48", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for MG Road Rental Homes",
+    "description": [
+      "Finding a genuine house for rent in MG Road Gurugram requires verified listings, accurate pricing, and local expertise. Deal Acres focuses on trust, transparency, and tenant satisfaction.",
+      "With strong experience in Gurugram’s premium rental markets, Deal Acres is a preferred platform for renting houses on MG Road."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All properties are verified for ownership and authenticity to ensure tenant safety."
+      },
+      {
+        "title": "Transparent Rental Pricing",
+        "description": "Clear rental details with no hidden charges or misleading information."
+      },
+      {
+        "title": "Expert Knowledge of Prime Locations",
+        "description": "Strong understanding of MG Road and nearby premium residential areas."
+      },
+      {
+        "title": "Easy And Quick Property Search",
+        "description": "Simple filters and smooth browsing experience save tenant time."
+      },
+      {
+        "title": "Tenant-Focused Recommendations",
+        "description": "Property suggestions based on budget, space needs, and lifestyle preferences."
+      },
+      {
+        "title": "Complete Documentation Support",
+        "description": "Assistance with agreements and paperwork for a hassle-free rental process."
+      },
+      {
+        "title": "End-To-End Rental Assistance",
+        "description": "Support from property shortlisting to final move-in."
+      },
+      {
+        "title": "Trusted By Urban Tenants",
+        "description": "Deal Acres is known for reliability, professionalism, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent on MG Road",
+    "description": "Common tenant questions related to house for rent in MG Road Gurugram.",
+    "faqs": [
+      {
+        "question": "Is MG Road a good area to rent a house?",
+        "answer": "Yes, MG Road is a prime location offering excellent connectivity, metro access, and premium lifestyle facilities."
+      },
+      {
+        "question": "What types of houses are available for rent on MG Road?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are available near MG Road."
+      },
+      {
+        "question": "Is MG Road suitable for family living?",
+        "answer": "Yes, the area is ideal for families due to nearby schools, hospitals, malls, and safe surroundings."
+      },
+      {
+        "question": "Are furnished houses available on MG Road?",
+        "answer": "Yes, furnished, semi-furnished, and unfurnished houses are available depending on the property."
+      },
+      {
+        "question": "What is the average rent on MG Road Gurugram?",
+        "answer": "Rental values vary based on plot size, furnishing, and proximity to metro stations."
+      },
+      {
+        "question": "How is metro connectivity from MG Road?",
+        "answer": "MG Road has direct metro connectivity, making daily commuting very convenient."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses on MG Road?",
+        "answer": "Some landlords allow bachelors, while others prefer families or working professionals."
+      },
+      {
+        "question": "Is MG Road safe for tenants?",
+        "answer": "Yes, it is a well-developed and secure area with regular police patrolling."
+      },
+      {
+        "question": "Why choose Deal Acres for renting a house on MG Road?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and expert local guidance."
+      },
+      {
+        "question": "How can I contact rental experts for MG Road?",
+        "answer": "You can submit your details through the contact form to connect with rental specialists."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent on MG Road Gurugram",
+    "description": [
+      "Finding the right house for rent in MG Road Gurugram becomes easy with professional guidance and verified listings.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that matches your budget, space requirements, and preferred lifestyle."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Peaceful Independent Houses for Rent in Ashok Vihar Phase 2 Gurugram",
+    "description": [
+      "Ashok Vihar Phase 2 Gurugram is a well-planned and peaceful residential locality preferred by tenants who value privacy, comfort, and everyday convenience. People searching for a house for rent in Ashok Vihar Phase 2 Gurugram choose this area due to its calm surroundings, well-laid internal roads, and easy connectivity to NH-48, MG Road, and major employment hubs of Gurugram. The locality is close to schools, hospitals, local markets, and daily utility stores, making it suitable for families and working professionals.",
+      "Independent houses in Ashok Vihar Phase 2 offer spacious layouts, better ventilation, and a low-density living environment. The neighborhood is ideal for long-term rentals, senior citizens, and families looking for a settled residential area. Choosing a house for rent in Ashok Vihar Phase 2 Gurugram ensures a balanced lifestyle with strong connectivity, essential amenities nearby, and a peaceful community atmosphere."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Ashok Vihar Phase 2 Gurugram",
+    "description": [
+      "Choosing the right plot size is an important step when searching for a house for rent in Ashok Vihar Phase 2 Gurugram, as it directly affects living comfort, space, and rental budget.",
+      "Ashok Vihar Phase 2 offers independent houses across multiple plot sizes, suitable for small families, joint families, and tenants seeking spacious homes."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Ashok Vihar Phase 2 Gurugram",
+        "description": "A 4 Marla house for rent in Ashok Vihar Phase 2 Gurugram is ideal for couples or small families looking for an affordable, easy-to-maintain home in a quiet residential setting."
+      },
+      {
+        "title": "6 Marla House for Rent in Ashok Vihar Phase 2 Gurugram",
+        "description": "6 Marla houses offer a comfortable balance between space and affordability, making them suitable for families seeking practical living."
+      },
+      {
+        "title": "8 Marla House for Rent in Ashok Vihar Phase 2 Gurugram",
+        "description": "An 8 Marla rental house provides spacious rooms, good ventilation, and functional layouts for long-term family living."
+      },
+      {
+        "title": "10 Marla House for Rent in Ashok Vihar Phase 2 Gurugram",
+        "description": "10 Marla houses are preferred by tenants looking for larger living areas, private parking, and enhanced privacy."
+      },
+      {
+        "title": "12 Marla House for Rent in Ashok Vihar Phase 2 Gurugram",
+        "description": "12 Marla rental houses fall into the premium segment, offering open spaces, modern construction, and improved lifestyle comfort."
+      },
+      {
+        "title": "14 Marla House for Rent in Ashok Vihar Phase 2 Gurugram",
+        "description": "A 14 Marla house for rent is ideal for large families or tenants seeking maximum space in a peaceful neighborhood."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Ashok Vihar Phase 2 Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in Ashok Vihar Phase 2 Gurugram often explore nearby localities to compare rental values, connectivity, and lifestyle benefits.",
+      "This section highlights surrounding residential areas to help users make informed rental decisions."
+    ],
+    "locations": [
+      { "title": "House for Rent in Ashok Vihar Phase 2 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Ashok Vihar Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 3 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Palam Vihar Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near NH-48", "path": "/", "icon": "Home" },
+      { "title": "House for Rent near MG Road", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 10A Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent near Sadar Bazar", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Ashok Vihar Phase 2 Rental Houses",
+    "description": [
+      "Finding a genuine house for rent in Ashok Vihar Phase 2 Gurugram requires verified listings, transparent pricing, and strong local knowledge. Deal Acres focuses on trust and accuracy.",
+      "With a tenant-first approach and deep understanding of Gurugram’s rental market, Deal Acres has become a preferred platform for renting independent houses."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "All properties are verified for ownership, authenticity, and availability to protect tenant interests."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear information about rent, security deposit, and terms ensures informed decisions."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Ashok Vihar Phase 2 and nearby areas ensures accurate rental guidance."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "Simple search tools and filters help tenants find suitable houses quickly."
+      },
+      {
+        "title": "Tenant-Centric Recommendations",
+        "description": "Listings are suggested based on tenant budget, family size, and lifestyle needs."
+      },
+      {
+        "title": "Documentation Assistance",
+        "description": "Support with rental agreements and paperwork ensures a smooth experience."
+      },
+      {
+        "title": "End-to-End Rental Support",
+        "description": "Complete assistance from property discovery to final move-in."
+      },
+      {
+        "title": "Trusted by Renters",
+        "description": "Deal Acres is known for reliability, transparency, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Ashok Vihar Phase 2 Gurugram",
+    "description": "Common tenant questions related to house for rent in Ashok Vihar Phase 2 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Ashok Vihar Phase 2 Gurugram a good area to rent a house?",
+        "answer": "Yes, it is a peaceful and well-established residential area with good connectivity and daily amenities nearby."
+      },
+      {
+        "question": "What types of houses are available for rent in Ashok Vihar Phase 2?",
+        "answer": "Independent houses from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Ashok Vihar Phase 2 suitable for family living?",
+        "answer": "Yes, the area is family-friendly with schools, markets, and healthcare facilities nearby."
+      },
+      {
+        "question": "Are furnished houses available for rent in Ashok Vihar Phase 2?",
+        "answer": "Furnished and semi-furnished houses are available depending on the property owner."
+      },
+      {
+        "question": "What is the average rent in Ashok Vihar Phase 2 Gurugram?",
+        "answer": "Rent depends on plot size, condition, and furnishings, but remains competitive for the location."
+      },
+      {
+        "question": "How is connectivity from Ashok Vihar Phase 2?",
+        "answer": "The area connects well to NH-48, MG Road, and other key parts of Gurugram."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses here?",
+        "answer": "Some landlords allow bachelors, while others prefer families. This varies by property."
+      },
+      {
+        "question": "Is Ashok Vihar Phase 2 safe for tenants?",
+        "answer": "Yes, it is considered safe with an active residential community and established surroundings."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent details, and expert rental support."
+      },
+      {
+        "question": "How can I contact rental experts for Ashok Vihar Phase 2?",
+        "answer": "You can submit the contact form to connect with experienced rental property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Ashok Vihar Phase 2 Gurugram",
+    "description": [
+      "Finding the right house for rent in Ashok Vihar Phase 2 Gurugram becomes easy with expert guidance.",
+      "Share your details to connect with trusted property professionals who will help you find a rental home that matches your budget, preferences, and lifestyle."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

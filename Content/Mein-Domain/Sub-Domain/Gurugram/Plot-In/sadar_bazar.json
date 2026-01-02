@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Residential and Investment Plots Available in Sadar Bazar Gurugram",
+    "description": [
+      "Sadar Bazar Gurugram is one of the oldest and most commercially active localities in the city, known for its central location and everyday convenience. Buyers searching for a plot in Sadar Bazar Gurugram are attracted to this area because of its close connectivity to Old Gurugram, MG Road, NH-48, and surrounding residential sectors. The locality offers easy access to wholesale markets, retail shops, schools, hospitals, banks, and public transport, making it a practical choice for residential as well as mixed-use development.",
+      "Plots in Sadar Bazar Gurugram hold consistent demand due to the area’s strong commercial activity and dense residential population. Whether you are planning to build an independent house, develop rental floors, or invest in land for stable appreciation, this location offers reliability and daily usability. Choosing a plot in Sadar Bazar Gurugram means investing in a well-established neighborhood with proven real estate value and long-term growth potential."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sadar Bazar",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Options by Size in Sadar Bazar Gurugram",
+    "description": [
+      "Selecting the right plot size in Sadar Bazar Gurugram depends on construction plans, budget, and intended residential or investment use.",
+      "The locality offers multiple plot size options suitable for independent homes, builder floors, and rental developments."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sadar Bazar Gurugram",
+        "description": "A 4 Marla plot in Sadar Bazar Gurugram is ideal for compact residential construction or small rental projects. These plots are preferred by buyers seeking affordability in a central location with high rental demand."
+      },
+      {
+        "title": "6 Marla Plot in Sadar Bazar Gurugram",
+        "description": "6 Marla plots offer a balance between space and budget, allowing construction of comfortable independent houses with parking and multiple floors."
+      },
+      {
+        "title": "8 Marla Plot in Sadar Bazar Gurugram",
+        "description": "An 8 Marla plot provides flexibility for spacious home designs or builder floors. These plots are popular for both self-use and investment purposes."
+      },
+      {
+        "title": "10 Marla Plot in Sadar Bazar Gurugram",
+        "description": "10 Marla plots are suitable for larger independent houses or mixed-use development, offering better resale value and construction flexibility."
+      },
+      {
+        "title": "12 Marla Plot in Sadar Bazar Gurugram",
+        "description": "A 12 Marla plot supports premium residential construction or multi-floor rental buildings, making it attractive for long-term investors."
+      },
+      {
+        "title": "14 Marla Plot in Sadar Bazar Gurugram",
+        "description": "14 Marla plots are considered premium land options in Sadar Bazar Gurugram, ideal for buyers looking for larger land parcels with strong appreciation potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Nearby Plot Locations Around Sadar Bazar Gurugram",
+    "description": [
+      "Buyers interested in a plot in Sadar Bazar Gurugram often explore nearby localities to compare pricing, accessibility, and development potential.",
+      "This section highlights surrounding areas to help users make informed property decisions."
+    ],
+    "locations": [
+      { "title": "Plot in Sadar Bazar Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 8 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 9 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Old Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near MG Road Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Civil Lines Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Central Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sadar Bazar Gurugram",
+    "description": [
+      "Buying a plot in Sadar Bazar Gurugram requires verified listings, legal clarity, and strong local market understanding.",
+      "Deal Acres has built trust by offering transparent processes, genuine properties, and expert guidance."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "Each plot is thoroughly checked for ownership records and legal authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden charges helps buyers plan confidently."
+      },
+      {
+        "title": "Strong Local Knowledge",
+        "description": "Deep understanding of Sadar Bazar Gurugram ensures accurate property guidance."
+      },
+      {
+        "title": "Wide Range of Plot Options",
+        "description": "Access to multiple plot sizes based on budget and usage needs."
+      },
+      {
+        "title": "Legal and Registry Support",
+        "description": "Complete assistance with documentation and property registration."
+      },
+      {
+        "title": "Personalized Property Matching",
+        "description": "Recommendations aligned with residential or investment goals."
+      },
+      {
+        "title": "End-to-End Buying Assistance",
+        "description": "Support from property shortlisting to final possession."
+      },
+      {
+        "title": "Trusted by Local Buyers",
+        "description": "Deal Acres is known for reliability, transparency, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sadar Bazar Gurugram",
+    "description": "Common questions buyers have when considering a plot in Sadar Bazar Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sadar Bazar Gurugram a good location to buy a plot?",
+        "answer": "Yes, Sadar Bazar is a well-established area with strong residential and commercial demand, making it suitable for both living and investment."
+      },
+      {
+        "question": "What plot sizes are available in Sadar Bazar Gurugram?",
+        "answer": "Plots generally range from 4 Marla to 14 Marla, depending on availability and exact location."
+      },
+      {
+        "question": "Is Sadar Bazar suitable for residential construction?",
+        "answer": "Yes, the area supports independent houses, builder floors, and rental developments."
+      },
+      {
+        "question": "Is buying a plot in Sadar Bazar a good investment?",
+        "answer": "Due to its central location and constant demand, plots here offer stable long-term appreciation."
+      },
+      {
+        "question": "Are plots legally approved?",
+        "answer": "Most plots have clear titles, but legal verification is essential before purchase."
+      },
+      {
+        "question": "How is connectivity from Sadar Bazar Gurugram?",
+        "answer": "The locality is well connected to MG Road, NH-48, Old Gurugram, and nearby sectors."
+      },
+      {
+        "question": "Can I build multiple floors on my plot?",
+        "answer": "Construction depends on local bylaws and approvals, which should be checked before planning."
+      },
+      {
+        "question": "Are daily amenities easily accessible?",
+        "answer": "Yes, markets, schools, hospitals, banks, and transport options are all nearby."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres offers verified listings, transparent processes, and complete buying support."
+      },
+      {
+        "question": "How can I contact property experts?",
+        "answer": "You can fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for Buying Plots in Sadar Bazar Gurugram",
+    "description": [
+      "Finding the right plot in Sadar Bazar Gurugram becomes easier with professional guidance and verified listings.",
+      "Share your details to connect with trusted property experts who will help you find plots matching your budget and investment plans."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

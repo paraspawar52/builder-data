@@ -1,0 +1,175 @@
+{
+  "domain": "Affordablehouseforsalecom",
+
+  "hero": {
+    "title": "Affordable and Premium Houses for Sale in Sector 50 Gurugram",
+    "description": [
+      "Sector 50 Gurugram is a well-established and highly sought-after residential locality, known for its central location, excellent infrastructure, and smooth connectivity to major parts of the city. Buyers looking for an affordable house for sale in Sector 50 Gurugram are attracted by its proximity to Golf Course Extension Road, Sohna Road, HUDA City Centre, and key commercial hubs. The area is surrounded by reputed schools, hospitals, shopping malls, parks, and daily convenience markets, making it ideal for comfortable family living.",
+      "Affordable houses for sale in Sector 50 Gurugram offer a rare combination of prime location and value pricing. Despite being centrally located, the sector provides budget-friendly housing options with strong rental demand and long-term appreciation potential. Choosing a home in Sector 50 means investing in a mature residential neighborhood that offers stability, convenience, and a high quality of life in Gurugram."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Size Options Available in Sector 50 Gurugram",
+    "description": [
+      "Choosing the right house size in Sector 50 Gurugram depends on lifestyle needs, family size, and budget considerations.",
+      "The sector offers multiple affordable house options that suit both end-users and long-term investors."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House for Sale in Sector 50 Gurugram",
+        "description": "A 4 Marla affordable house in Sector 50 Gurugram is ideal for small families and first-time buyers seeking a prime location at a reasonable price."
+      },
+      {
+        "title": "6 Marla Affordable House for Sale in Sector 50 Gurugram",
+        "description": "6 Marla houses offer a balanced mix of affordability and living space, suitable for nuclear families and professionals."
+      },
+      {
+        "title": "8 Marla Affordable House for Sale in Sector 50 Gurugram",
+        "description": "An 8 Marla affordable house provides better room layouts, parking space, and flexibility for future modifications."
+      },
+      {
+        "title": "10 Marla Affordable House for Sale in Sector 50 Gurugram",
+        "description": "10 Marla houses are preferred by buyers looking for spacious interiors in a central and well-connected locality."
+      },
+      {
+        "title": "12 Marla Affordable House for Sale in Sector 50 Gurugram",
+        "description": "A 12 Marla affordable house suits families seeking larger living areas, privacy, and long-term residential comfort."
+      },
+      {
+        "title": "14 Marla Affordable House for Sale in Sector 50 Gurugram",
+        "description": "14 Marla houses are ideal for buyers looking for expansive homes with excellent resale and rental value."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses Near Sector 50 Gurugram",
+    "description": [
+      "Buyers searching for affordable houses for sale in Sector 50 Gurugram often explore nearby sectors for comparison.",
+      "These surrounding localities further strengthen the residential and investment appeal of Sector 50."
+    ],
+    "locations": [
+      { "title": "Affordable House for Sale in Sector 50 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 49 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 51 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 57 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Golf Course Extension Road", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Sohna Road Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House in Central Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Budget Homes in Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Affordable Houses in Sector 50",
+    "description": [
+      "Buying an affordable house for sale in Sector 50 Gurugram requires verified listings, transparent pricing, and expert local support.",
+      "Deal Acres stands out as a trusted real estate platform delivering reliable and customer-focused services."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All affordable houses are verified for ownership clarity, approvals, and legal documentation."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear and honest pricing with no hidden charges builds buyer confidence."
+      },
+      {
+        "title": "Strong Local Expertise",
+        "description": "In-depth knowledge of Sector 50 property trends and market demand."
+      },
+      {
+        "title": "Wide Property Options",
+        "description": "Access to multiple affordable house sizes across Sector 50."
+      },
+      {
+        "title": "Legal and Registry Assistance",
+        "description": "Complete support with documentation, registry, and compliance."
+      },
+      {
+        "title": "Personalized Buying Guidance",
+        "description": "Property recommendations based on budget, lifestyle, and investment goals."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Assistance from property search to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Brand",
+        "description": "Deal Acres is known for ethical practices and long-term customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Sector 50 Gurugram",
+    "description": "Detailed answers to common buyer questions to support informed decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 50 Gurugram a good location to buy an affordable house?",
+        "answer": "Yes, Sector 50 is a prime and well-developed locality with excellent connectivity, amenities, and strong property value."
+      },
+      {
+        "question": "What house sizes are available in Sector 50 Gurugram?",
+        "answer": "Affordable houses are available from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Is Sector 50 suitable for family living?",
+        "answer": "Yes, the area offers top schools, hospitals, parks, and shopping centers nearby."
+      },
+      {
+        "question": "Are affordable houses in Sector 50 legally approved?",
+        "answer": "Most properties are approved, and Deal Acres assists buyers with legal verification."
+      },
+      {
+        "question": "How is connectivity from Sector 50 Gurugram?",
+        "answer": "Sector 50 enjoys excellent connectivity via Golf Course Extension Road, Sohna Road, and HUDA City Centre."
+      },
+      {
+        "question": "Is buying an affordable house in Sector 50 a good investment?",
+        "answer": "Yes, due to its central location and high demand, Sector 50 offers strong appreciation and rental potential."
+      },
+      {
+        "question": "Are home loans available for houses in Sector 50?",
+        "answer": "Yes, leading banks and financial institutions provide home loan facilities."
+      },
+      {
+        "question": "What amenities are available near Sector 50?",
+        "answer": "Schools, hospitals, malls, parks, restaurants, and public transport are easily accessible."
+      },
+      {
+        "question": "Why choose Deal Acres for buying affordable houses?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, legal support, and end-to-end assistance."
+      },
+      {
+        "question": "How can I contact experts for affordable houses in Sector 50 Gurugram?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for Affordable Houses in Sector 50 Gurugram",
+    "description": [
+      "Finding the right affordable house for sale in Sector 50 Gurugram becomes easy with professional guidance.",
+      "Share your details to connect with trusted real estate experts who will help you find verified homes that suit your budget and lifestyle."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

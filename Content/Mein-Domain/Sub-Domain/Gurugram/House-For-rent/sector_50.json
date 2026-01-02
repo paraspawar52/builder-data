@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Prime Independent Houses for Rent in Sector 50 Gurugram",
+    "description": [
+      "Sector 50 Gurugram is one of the most established and highly demanded residential localities in the city, known for its central location and excellent connectivity. People searching for a house for rent in Sector 50 Gurugram prefer this area because it is close to Golf Course Extension Road, Sohna Road, HUDA City Centre Metro Station, and major corporate hubs. The locality is surrounded by reputed schools, top hospitals, shopping malls, restaurants, and daily convenience markets, making everyday life smooth and comfortable for families and professionals.",
+      "Independent houses in Sector 50 offer spacious layouts, privacy, and a peaceful neighborhood atmosphere that many tenants look for. The area is ideal for families, senior citizens, and working professionals who want a premium residential environment with long-term rental stability. Choosing a house for rent in Sector 50 Gurugram means enjoying a well-developed neighborhood, strong social infrastructure, and easy access to all major parts of Gurugram."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sector 50 Gurugram",
+    "description": [
+      "When looking for a house for rent in Sector 50 Gurugram, understanding different plot sizes helps tenants choose a home that matches their space requirements and rental budget.",
+      "Sector 50 offers a wide range of independent houses on rent, suitable for small families, large households, and tenants seeking premium living."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 50 Gurugram",
+        "description": "A 4 Marla house for rent in Sector 50 Gurugram is ideal for couples or small families looking for a compact, easy-to-maintain rental home in a prime location."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 50 Gurugram",
+        "description": "6 Marla houses provide a balanced combination of space and affordability, making them suitable for families who want comfortable living."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 50 Gurugram",
+        "description": "An 8 Marla rental house offers spacious rooms, good ventilation, and functional layouts for long-term family living."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 50 Gurugram",
+        "description": "10 Marla houses are preferred by tenants seeking premium living with larger interiors, parking space, and privacy."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 50 Gurugram",
+        "description": "12 Marla rental houses fall under the premium segment, offering open spaces, modern construction, and an upgraded lifestyle."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 50 Gurugram",
+        "description": "A 14 Marla house for rent is suitable for large families or corporate tenants who value luxury, space, and a peaceful environment."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 50 Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in Sector 50 Gurugram often explore nearby sectors to compare rental prices, connectivity, and lifestyle advantages.",
+      "This section helps users discover surrounding residential localities and choose the best rental option."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 50 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 49 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 51 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 47 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near Golf Course Extension Road", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Nirvana Country", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 57 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent near Sohna Road", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sector 50 Rental Houses",
+    "description": [
+      "Finding a genuine house for rent in Sector 50 Gurugram requires verified listings, transparent pricing, and strong local expertise. Deal Acres focuses on trust and accuracy.",
+      "With a tenant-first approach and deep knowledge of Gurugram’s rental market, Deal Acres has become a preferred platform for renting independent houses."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "All rental properties are verified for ownership, authenticity, and availability to ensure tenant safety."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear details on rent, security deposits, and terms help tenants make confident decisions."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 50 and nearby localities ensures accurate rental guidance."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "User-friendly tools and filters make finding the right house for rent quick and simple."
+      },
+      {
+        "title": "Tenant-Focused Recommendations",
+        "description": "Property suggestions are tailored to tenant needs, budget, and lifestyle preferences."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Assistance with rental agreements and paperwork ensures a smooth rental process."
+      },
+      {
+        "title": "End-to-End Rental Assistance",
+        "description": "Support from initial search to final move-in for a hassle-free experience."
+      },
+      {
+        "title": "Trusted by Renters",
+        "description": "Deal Acres is trusted for transparency, reliability, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 50 Gurugram",
+    "description": "Common tenant questions related to house for rent in Sector 50 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 50 Gurugram a good area to rent a house?",
+        "answer": "Yes, Sector 50 is a prime residential locality with excellent connectivity, strong infrastructure, and a family-friendly environment."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 50?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are available, suitable for different family sizes and budgets."
+      },
+      {
+        "question": "Is Sector 50 suitable for family living?",
+        "answer": "Yes, the area has top schools, hospitals, parks, and shopping centers nearby, making it ideal for families."
+      },
+      {
+        "question": "Are furnished houses available for rent in Sector 50?",
+        "answer": "Both furnished and semi-furnished houses are available depending on the property and landlord preferences."
+      },
+      {
+        "question": "What is the average rent in Sector 50 Gurugram?",
+        "answer": "Rental values vary based on plot size, furnishings, and exact location, but Sector 50 commands strong rental demand."
+      },
+      {
+        "question": "How is connectivity from Sector 50?",
+        "answer": "Sector 50 offers excellent connectivity via Golf Course Extension Road, Sohna Road, and nearby metro stations."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sector 50?",
+        "answer": "Some landlords allow bachelors, while others prefer families. This depends on individual owner preferences."
+      },
+      {
+        "question": "Is Sector 50 safe for tenants?",
+        "answer": "Yes, Sector 50 is considered safe with gated colonies, security services, and a well-established residential community."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres provides verified listings, transparent information, and expert local support for tenants."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 50?",
+        "answer": "You can fill out the contact form to connect with experienced rental property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sector 50 Gurugram",
+    "description": [
+      "Finding the right house for rent in Sector 50 Gurugram becomes simple and stress-free with professional assistance.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that matches your budget, preferences, and lifestyle needs."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

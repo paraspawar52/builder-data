@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Premium Independent Houses for Rent in Sector 112 Gurugram",
+    "description": [
+      "Sector 112 Gurugram is an emerging residential locality located along the Dwarka Expressway, offering excellent connectivity and future-ready infrastructure. Tenants searching for a house for rent in Sector 112 Gurugram prefer this area due to its proximity to Delhi, IGI Airport, NH-48, and major business hubs of Gurugram. The sector is surrounded by wide roads, green surroundings, upcoming commercial developments, and essential amenities such as schools, hospitals, and local markets.",
+      "Independent houses in Sector 112 provide spacious living, privacy, and a calm residential environment that appeals to families and professionals alike. The locality is well-planned and steadily developing, making it suitable for long-term rental living. Choosing a house for rent in Sector 112 Gurugram ensures a comfortable lifestyle with modern infrastructure, smooth connectivity, and a peaceful neighborhood."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sector 112 Gurugram",
+    "description": [
+      "Choosing the right plot size is an important factor when looking for a house for rent in Sector 112 Gurugram, as it directly impacts space, comfort, and rental budget.",
+      "Sector 112 offers a wide range of independent houses on rent, catering to small families, joint families, and tenants seeking premium residential options."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 112 Gurugram",
+        "description": "A 4 Marla house for rent in Sector 112 Gurugram is ideal for couples or small families looking for a compact and affordable home in a developing location."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 112 Gurugram",
+        "description": "6 Marla houses offer a balanced mix of space and affordability, making them suitable for nuclear families."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 112 Gurugram",
+        "description": "An 8 Marla rental house provides spacious interiors, proper ventilation, and functional layouts for comfortable family living."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 112 Gurugram",
+        "description": "10 Marla houses are preferred by tenants who need larger rooms, parking space, and enhanced privacy."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 112 Gurugram",
+        "description": "12 Marla rental houses fall under the premium segment, offering open spaces, modern construction, and better lifestyle comfort."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 112 Gurugram",
+        "description": "A 14 Marla house for rent is suitable for large families or corporate tenants seeking spacious and independent living."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 112 Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in Sector 112 Gurugram often explore nearby localities to compare rental values and connectivity advantages.",
+      "This section helps users discover surrounding residential areas and make informed rental decisions."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 112 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 111 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 113 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 109 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near Dwarka Expressway", "path": "/", "icon": "Home" },
+      { "title": "House for Rent near Delhi Border", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in New Palam Vihar", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent near IGI Airport", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sector 112 Rental Houses",
+    "description": [
+      "Finding a genuine house for rent in Sector 112 Gurugram requires verified listings, transparent pricing, and reliable local guidance. Deal Acres focuses on trust and accuracy.",
+      "With a tenant-first approach and deep understanding of Gurugram’s rental market, Deal Acres has become a preferred platform for renting independent houses."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All rental houses are verified for ownership, authenticity, and availability."
+      },
+      {
+        "title": "Transparent Rental Details",
+        "description": "Clear information about rent, security deposit, and rental terms builds tenant confidence."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong knowledge of Sector 112 and nearby areas ensures accurate rental advice."
+      },
+      {
+        "title": "Easy Property Discovery",
+        "description": "User-friendly filters help tenants find suitable houses quickly."
+      },
+      {
+        "title": "Tenant-Centric Suggestions",
+        "description": "Recommendations are tailored based on budget, family size, and lifestyle needs."
+      },
+      {
+        "title": "Documentation Assistance",
+        "description": "Support with rental agreements and legal paperwork ensures a smooth process."
+      },
+      {
+        "title": "End-to-End Rental Support",
+        "description": "Assistance from property search to final move-in."
+      },
+      {
+        "title": "Trusted by Renters",
+        "description": "Deal Acres is trusted for transparency, reliability, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 112 Gurugram",
+    "description": "Common tenant questions related to house for rent in Sector 112 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 112 Gurugram a good area to rent a house?",
+        "answer": "Yes, Sector 112 is a well-planned and developing residential area with excellent connectivity via Dwarka Expressway."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 112?",
+        "answer": "Independent houses from 4 Marla to 14 Marla are available, catering to different family sizes."
+      },
+      {
+        "question": "Is Sector 112 suitable for family living?",
+        "answer": "Yes, the area offers a peaceful environment with nearby schools, hospitals, and daily conveniences."
+      },
+      {
+        "question": "Are furnished houses available in Sector 112?",
+        "answer": "Both furnished and semi-furnished houses are available depending on the property."
+      },
+      {
+        "question": "What is the average rent in Sector 112 Gurugram?",
+        "answer": "Rental prices vary based on plot size, furnishing, and exact location within the sector."
+      },
+      {
+        "question": "How is connectivity from Sector 112?",
+        "answer": "Sector 112 is well-connected to Delhi, IGI Airport, and Gurugram via Dwarka Expressway."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sector 112?",
+        "answer": "Some landlords allow bachelors, while others prefer families."
+      },
+      {
+        "question": "Is Sector 112 safe for tenants?",
+        "answer": "Yes, it is considered a safe and planned residential locality."
+      },
+      {
+        "question": "Why choose Deal Acres for renting a house?",
+        "answer": "Deal Acres provides verified listings, transparent information, and expert local assistance."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 112?",
+        "answer": "You can fill out the contact form to connect with experienced rental consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sector 112 Gurugram",
+    "description": [
+      "Finding the right house for rent in Sector 112 Gurugram becomes simple with professional assistance.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that matches your budget, preferences, and lifestyle."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

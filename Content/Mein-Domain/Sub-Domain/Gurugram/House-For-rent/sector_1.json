@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Peaceful Independent Houses for Rent in Sector 1 Gurugram",
+    "description": [
+      "Sector 1 Gurugram is a calm and well-established residential locality, preferred by tenants who seek peaceful surroundings along with good city connectivity. People looking for a house for rent in Sector 1 Gurugram often choose this area for its low-density housing, planned roads, and easy access to nearby sectors and key city routes. The locality is well connected to NH-48, local markets, schools, and essential services, making daily life smooth and convenient for residents.",
+      "Independent houses in Sector 1 offer comfortable layouts, privacy, and a community-driven living environment. The area is suitable for families, senior citizens, and working professionals who prefer a quiet neighborhood away from heavy commercial activity. Choosing a house for rent in Sector 1 Gurugram ensures a balanced lifestyle with essential amenities nearby, stable rental options, and a relaxed residential atmosphere."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sector 1 Gurugram",
+    "description": [
+      "Choosing the right plot size plays an important role when searching for a house for rent in Sector 1 Gurugram, as it impacts comfort, space requirements, and rental budget.",
+      "Sector 1 offers independent houses across multiple plot sizes, making it suitable for both small and large families."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 1 Gurugram",
+        "description": "A 4 Marla house for rent in Sector 1 Gurugram is ideal for couples or small families seeking affordable and easy-to-maintain rental homes."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 1 Gurugram",
+        "description": "6 Marla houses offer a balanced combination of space and affordability, suitable for nuclear families."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 1 Gurugram",
+        "description": "An 8 Marla rental house provides spacious rooms, better ventilation, and comfortable living for growing families."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 1 Gurugram",
+        "description": "10 Marla houses are preferred by tenants looking for larger living areas, parking space, and improved privacy."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 1 Gurugram",
+        "description": "12 Marla rental houses fall into the premium category, offering open spaces and enhanced comfort."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 1 Gurugram",
+        "description": "A 14 Marla house for rent is suitable for large families seeking maximum space and peaceful surroundings."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 1 Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in Sector 1 Gurugram often explore nearby sectors to compare rental options and connectivity.",
+      "This section highlights nearby residential areas to help users make informed rental decisions."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 1 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 2 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 3 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 4 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near NH-48", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Palam Vihar", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 5 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent near Local Markets", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sector 1 Rental Houses",
+    "description": [
+      "Finding a reliable house for rent in Sector 1 Gurugram requires verified listings, transparent pricing, and dependable guidance. Deal Acres focuses on trust and clarity.",
+      "With strong local knowledge and a tenant-first approach, Deal Acres has become a trusted platform for rental housing."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "Each rental listing is verified for ownership and availability to ensure tenant safety."
+      },
+      {
+        "title": "Transparent Rental Pricing",
+        "description": "Clear details on rent, deposits, and lease terms help tenants make confident decisions."
+      },
+      {
+        "title": "Local Area Expertise",
+        "description": "Deep understanding of Sector 1 and nearby areas ensures accurate rental guidance."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "Simple filters and user-friendly tools make property discovery quick and smooth."
+      },
+      {
+        "title": "Tenant-Centric Approach",
+        "description": "Recommendations are tailored to tenant needs, budget, and family size."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Assistance with rental agreements and paperwork for hassle-free transactions."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from property search to final move-in."
+      },
+      {
+        "title": "Trusted Rental Platform",
+        "description": "Deal Acres is known for transparency, reliability, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 1 Gurugram",
+    "description": "Common tenant questions related to house for rent in Sector 1 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 1 Gurugram a good area to rent a house?",
+        "answer": "Yes, Sector 1 is a peaceful residential area with good connectivity and essential amenities nearby."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 1?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are available for rent."
+      },
+      {
+        "question": "Is Sector 1 suitable for family living?",
+        "answer": "Yes, the locality is family-friendly with schools, parks, and markets nearby."
+      },
+      {
+        "question": "Are furnished houses available in Sector 1?",
+        "answer": "Both furnished and semi-furnished houses are available depending on landlord preferences."
+      },
+      {
+        "question": "What is the average rent in Sector 1 Gurugram?",
+        "answer": "Rent depends on plot size and property condition, offering affordable to mid-range options."
+      },
+      {
+        "question": "How is connectivity from Sector 1?",
+        "answer": "Sector 1 is well connected to NH-48 and nearby sectors through local roads."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sector 1?",
+        "answer": "Some landlords allow bachelors, while others prefer families."
+      },
+      {
+        "question": "Is Sector 1 safe for tenants?",
+        "answer": "Yes, it is a calm and secure residential locality."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres provides verified listings, transparent information, and expert guidance."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 1?",
+        "answer": "You can fill out the contact form to connect with experienced rental consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sector 1 Gurugram",
+    "description": [
+      "Finding the right house for rent in Sector 1 Gurugram becomes easy with professional assistance.",
+      "Share your details to connect with trusted rental experts who will help you find a home that fits your budget and lifestyle."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

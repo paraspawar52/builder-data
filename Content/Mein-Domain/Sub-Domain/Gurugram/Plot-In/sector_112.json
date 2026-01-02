@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Strategically Located Residential and Investment Plots in Sector 112 Gurugram",
+    "description": [
+      "Sector 112 Gurugram is a rapidly developing residential sector located along the Dwarka Expressway, making it a preferred choice for buyers seeking excellent connectivity and modern infrastructure. People searching for a plot in Sector 112 Gurugram are drawn by its close proximity to Delhi, IGI Airport, Dwarka, and major business hubs of Gurugram. The sector features wide internal roads, planned residential layouts, and upcoming social infrastructure such as schools, healthcare facilities, and shopping zones.",
+      "Plots in Sector 112 Gurugram are well suited for both residential construction and long-term investment. With continuous development along the Dwarka Expressway corridor, property demand in this sector is steadily increasing. Whether you plan to build an independent home or invest in land for future appreciation, choosing a plot in Sector 112 Gurugram offers connectivity, growth potential, and a balanced urban lifestyle in one of Gurugram’s promising locations."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 112",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Options by Size in Sector 112 Gurugram",
+    "description": [
+      "Choosing the right plot size in Sector 112 Gurugram helps buyers plan construction efficiently and align with their investment goals.",
+      "The sector offers multiple plot sizes suitable for modern residential development and future value appreciation."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 112 Gurugram",
+        "description": "A 4 Marla plot in Sector 112 Gurugram is ideal for buyers seeking affordable land options to build compact, well-planned independent homes."
+      },
+      {
+        "title": "6 Marla Plot in Sector 112 Gurugram",
+        "description": "6 Marla plots provide a practical balance between budget and space, making them suitable for small families and end-use buyers."
+      },
+      {
+        "title": "8 Marla Plot in Sector 112 Gurugram",
+        "description": "An 8 Marla plot offers flexibility for spacious home layouts and is preferred by families planning long-term residential living."
+      },
+      {
+        "title": "10 Marla Plot in Sector 112 Gurugram",
+        "description": "10 Marla plots are ideal for premium independent houses or builder floors with good resale and rental demand."
+      },
+      {
+        "title": "12 Marla Plot in Sector 112 Gurugram",
+        "description": "A 12 Marla plot allows ample space for modern homes with parking, open areas, and enhanced privacy."
+      },
+      {
+        "title": "14 Marla Plot in Sector 112 Gurugram",
+        "description": "14 Marla plots represent premium land options in Sector 112 Gurugram, offering strong long-term appreciation potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Nearby Plot Locations Around Sector 112 Gurugram",
+    "description": [
+      "Buyers looking for a plot in Sector 112 Gurugram often explore nearby sectors along the Dwarka Expressway for better comparison.",
+      "This section highlights surrounding locations to help users evaluate connectivity, pricing, and growth prospects."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 112 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 111 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 113 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 110 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Dwarka Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Delhi Border", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near IGI Airport", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in New Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 112 Gurugram",
+    "description": [
+      "Buying a plot in Sector 112 Gurugram requires verified listings, transparent pricing, and local market expertise.",
+      "Deal Acres is trusted by buyers for providing genuine properties and end-to-end professional assistance."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are verified for ownership, approvals, and legal authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "No hidden charges with complete price clarity."
+      },
+      {
+        "title": "Strong Local Expertise",
+        "description": "In-depth knowledge of Sector 112 Gurugram and Dwarka Expressway belt."
+      },
+      {
+        "title": "Multiple Plot Options",
+        "description": "Wide selection of plot sizes to suit different budgets."
+      },
+      {
+        "title": "Legal and Registry Support",
+        "description": "Complete assistance with documentation and registry process."
+      },
+      {
+        "title": "Personalized Guidance",
+        "description": "Property suggestions aligned with buyer needs and goals."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Assistance from site visit to final possession."
+      },
+      {
+        "title": "Customer-First Approach",
+        "description": "Deal Acres is known for trust, reliability, and long-term customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 112 Gurugram",
+    "description": "Common queries related to buying plots in Sector 112 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 112 Gurugram a good location to buy a plot?",
+        "answer": "Yes, Sector 112 is a fast-developing location with excellent connectivity and future growth potential."
+      },
+      {
+        "question": "What plot sizes are available in Sector 112 Gurugram?",
+        "answer": "Plots ranging from 4 Marla to 14 Marla are available depending on inventory."
+      },
+      {
+        "question": "Is Sector 112 suitable for residential construction?",
+        "answer": "Yes, the sector is suitable for independent houses and builder floor construction."
+      },
+      {
+        "question": "Is buying a plot in Sector 112 a good investment?",
+        "answer": "Due to its location along Dwarka Expressway, Sector 112 offers strong long-term appreciation."
+      },
+      {
+        "question": "Are plots in Sector 112 legally approved?",
+        "answer": "Most plots have clear titles, but legal verification is always recommended."
+      },
+      {
+        "question": "How is connectivity from Sector 112 Gurugram?",
+        "answer": "Sector 112 offers excellent connectivity to Delhi, IGI Airport, and major Gurugram sectors."
+      },
+      {
+        "question": "Can construction start immediately after purchase?",
+        "answer": "Construction depends on local building norms and required approvals."
+      },
+      {
+        "question": "What amenities are available near Sector 112?",
+        "answer": "Schools, hospitals, shopping centers, and commercial hubs are nearby."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparent dealings, and expert support."
+      },
+      {
+        "question": "How can I contact plot experts?",
+        "answer": "You can fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Buying Plots in Sector 112 Gurugram",
+    "description": [
+      "Finding the right plot in Sector 112 Gurugram becomes easy with professional assistance.",
+      "Share your details to connect with trusted experts who will help you find verified plots that match your budget and requirements."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

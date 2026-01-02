@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Well Connected And Modern Houses for Rent on Sohna Road Gurugram",
+    "description": [
+      "Sohna Road Gurugram is one of the fastest-developing residential and commercial corridors, known for excellent connectivity, modern infrastructure, and a wide range of housing options. Tenants searching for a house for rent in Sohna Road Gurugram prefer this location due to its proximity to Golf Course Extension Road, NH-48, major IT parks, and corporate offices. The area offers smooth daily commuting and is well connected to key parts of Gurugram and South Delhi.",
+      "Independent houses on Sohna Road provide comfortable living spaces, planned layouts, and access to a growing social ecosystem. The locality is surrounded by reputed schools, hospitals, shopping malls, restaurants, and business hubs, making it suitable for families as well as working professionals. Choosing a house for rent in Sohna Road Gurugram is ideal for tenants looking for a balanced lifestyle that combines modern amenities, strong connectivity, and long-term residential value."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964205360-0f2b9a1b4c63?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661901989603-0c5c6c9e0e8a?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size on Sohna Road",
+    "description": [
+      "Selecting the right plot size is important when choosing a house for rent in Sohna Road Gurugram, as it directly affects comfort, space, and rental budget.",
+      "Sohna Road offers independent houses in multiple Marla sizes, catering to different family sizes and lifestyle requirements."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent on Sohna Road Gurugram",
+        "description": "A 4 Marla house for rent on Sohna Road Gurugram is ideal for couples or small families looking for affordable housing with good connectivity and modern surroundings."
+      },
+      {
+        "title": "6 Marla House for Rent on Sohna Road Gurugram",
+        "description": "6 Marla houses offer a balanced combination of space and affordability, making them suitable for nuclear families seeking comfort and convenience."
+      },
+      {
+        "title": "8 Marla House for Rent on Sohna Road Gurugram",
+        "description": "An 8 Marla house for rent on Sohna Road Gurugram provides spacious interiors, better ventilation, and enhanced privacy for growing families."
+      },
+      {
+        "title": "10 Marla House for Rent on Sohna Road Gurugram",
+        "description": "10 Marla houses are preferred by tenants who need larger living areas, multiple bedrooms, and a premium residential environment."
+      },
+      {
+        "title": "12 Marla House for Rent on Sohna Road Gurugram",
+        "description": "A 12 Marla house for rent on Sohna Road Gurugram falls under the premium rental category, offering expansive layouts and long-term living comfort."
+      },
+      {
+        "title": "14 Marla House for Rent on Sohna Road Gurugram",
+        "description": "A 14 Marla house for rent on Sohna Road Gurugram is suitable for large or joint families seeking maximum space, privacy, and a modern neighborhood."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sohna Road Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in Sohna Road Gurugram often explore nearby localities to compare rental values and lifestyle benefits.",
+      "This section highlights surrounding areas to help users find suitable rental homes near Sohna Road."
+    ],
+    "locations": [
+      { "title": "House for Rent on Sohna Road Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 48 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 49 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent near Golf Course Extension Road", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 47 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent near NH-48", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in South City 2", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent near Vatika Chowk", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sohna Road Rental Homes",
+    "description": [
+      "Finding a reliable house for rent in Sohna Road Gurugram requires verified listings, transparent pricing, and strong local expertise. Deal Acres focuses on building trust and clarity for tenants.",
+      "With deep understanding of Gurugram’s rental market, Deal Acres has become a preferred choice for renting houses on Sohna Road."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All rental properties are verified for authenticity and ownership."
+      },
+      {
+        "title": "Transparent Rental Pricing",
+        "description": "Clear rent and deposit details with no hidden charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong knowledge of Sohna Road and surrounding residential sectors."
+      },
+      {
+        "title": "Easy Property Search Experience",
+        "description": "Simple filters and smooth browsing save time for tenants."
+      },
+      {
+        "title": "Tenant-Focused Recommendations",
+        "description": "Property suggestions based on budget, family size, and lifestyle needs."
+      },
+      {
+        "title": "Documentation And Agreement Support",
+        "description": "Assistance with rental agreements and paperwork."
+      },
+      {
+        "title": "End-To-End Rental Assistance",
+        "description": "Support from property selection to final move-in."
+      },
+      {
+        "title": "Trusted By Thousands of Tenants",
+        "description": "Deal Acres is known for reliability, transparency, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent on Sohna Road",
+    "description": "Common tenant questions related to house for rent in Sohna Road Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sohna Road a good area to rent a house?",
+        "answer": "Yes, Sohna Road is a well-developed corridor with excellent connectivity and modern infrastructure."
+      },
+      {
+        "question": "What types of houses are available for rent on Sohna Road?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Sohna Road suitable for family living?",
+        "answer": "Yes, the area is family-friendly with schools, hospitals, parks, and malls nearby."
+      },
+      {
+        "question": "Are furnished houses available on Sohna Road?",
+        "answer": "Yes, furnished, semi-furnished, and unfurnished options are available."
+      },
+      {
+        "question": "What is the average rent on Sohna Road Gurugram?",
+        "answer": "Rent depends on plot size, furnishing, and proximity to main roads and commercial hubs."
+      },
+      {
+        "question": "How is connectivity from Sohna Road?",
+        "answer": "Sohna Road is well connected to NH-48, Golf Course Extension Road, and key city areas."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses on Sohna Road?",
+        "answer": "Some landlords allow bachelors, while others prefer families."
+      },
+      {
+        "question": "Is Sohna Road safe for tenants?",
+        "answer": "Yes, it is a well-populated area with good security and residential communities."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and expert local guidance."
+      },
+      {
+        "question": "How can I contact rental experts for Sohna Road?",
+        "answer": "You can fill out the contact form to connect with experienced rental consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent on Sohna Road Gurugram",
+    "description": [
+      "Finding the right house for rent in Sohna Road Gurugram becomes simple with professional support and verified property listings.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that matches your budget, space needs, and lifestyle preferences."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

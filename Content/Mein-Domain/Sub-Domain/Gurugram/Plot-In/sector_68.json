@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Residential and Investment Plots in Well-Planned Sector 68 Gurugram",
+    "description": [
+      "Sector 68 Gurugram is an emerging residential destination known for planned infrastructure, wide roads, and smooth connectivity to major parts of the city. Buyers looking for a plot in Sector 68 Gurugram are attracted by its proximity to Sohna Road, Southern Peripheral Road (SPR), NH-48, and upcoming commercial hubs. The sector is surrounded by modern residential projects, schools, hospitals, shopping complexes, and green open spaces, making it suitable for both end-users and investors.",
+      "Plots in Sector 68 offer an excellent opportunity to build independent homes or invest in land with strong future appreciation. With continuous development, improving civic amenities, and increasing demand for low-density housing, Sector 68 is steadily becoming a preferred choice among buyers. Choosing a plot in Sector 68 Gurugram means investing in growth potential, better lifestyle planning, and long-term real estate value."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 68",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1605146769289-440113cc3d00?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Options by Size in Sector 68 Gurugram",
+    "description": [
+      "Choosing the right plot size in Sector 68 Gurugram helps buyers plan construction efficiently while aligning with lifestyle and budget goals.",
+      "Sector 68 offers multiple plot configurations that cater to compact homes, spacious residences, and long-term investment strategies."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 68 Gurugram",
+        "description": "A 4 Marla plot in Sector 68 Gurugram is ideal for buyers seeking affordable land options in a developing yet well-connected residential sector."
+      },
+      {
+        "title": "6 Marla Plot in Sector 68 Gurugram",
+        "description": "6 Marla plots offer a balanced combination of space and value, suitable for independent homes with efficient layouts and future resale potential."
+      },
+      {
+        "title": "8 Marla Plot in Sector 68 Gurugram",
+        "description": "An 8 Marla plot provides additional flexibility for larger rooms, parking space, and comfortable family living."
+      },
+      {
+        "title": "10 Marla Plot in Sector 68 Gurugram",
+        "description": "10 Marla plots are preferred by buyers planning spacious independent houses with modern design and long-term appreciation in mind."
+      },
+      {
+        "title": "12 Marla Plot in Sector 68 Gurugram",
+        "description": "A 12 Marla plot is suitable for premium residences, offering ample space for landscaped areas and luxury construction."
+      },
+      {
+        "title": "14 Marla Plot in Sector 68 Gurugram",
+        "description": "14 Marla plots represent high-value land options in Sector 68, ideal for buyers focused on exclusivity and future growth."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Plot Options Near Sector 68 Gurugram",
+    "description": [
+      "Buyers searching for a plot in Sector 68 Gurugram often explore nearby sectors to compare development status, pricing, and connectivity.",
+      "This section helps users discover surrounding locations that complement Sector 68’s residential and investment appeal."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 68 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 67 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 69 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 70 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Sohna Road Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near SPR Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in New Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 68 Gurugram",
+    "description": [
+      "Purchasing a plot in Sector 68 Gurugram requires verified listings, transparent processes, and strong market understanding.",
+      "Deal Acres stands out as a trusted platform by offering reliability, legal clarity, and personalized buyer support."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "Every plot is verified for ownership, approvals, and documentation authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear and honest pricing without hidden charges builds buyer confidence."
+      },
+      {
+        "title": "Local Market Knowledge",
+        "description": "In-depth understanding of Sector 68 trends helps buyers make informed decisions."
+      },
+      {
+        "title": "Wide Choice of Plots",
+        "description": "Access to multiple plot sizes across prime residential pockets."
+      },
+      {
+        "title": "Legal & Registry Assistance",
+        "description": "End-to-end support for documentation and registration."
+      },
+      {
+        "title": "Personalized Property Matching",
+        "description": "Recommendations based on budget, location preference, and goals."
+      },
+      {
+        "title": "Complete Buying Support",
+        "description": "Assistance from property search to final handover."
+      },
+      {
+        "title": "Customer-First Approach",
+        "description": "Deal Acres is trusted for ethical practices and long-term satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 68 Gurugram",
+    "description": "Common questions buyers ask before purchasing a plot in Sector 68 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 68 Gurugram a good area to buy a plot?",
+        "answer": "Yes, Sector 68 is a fast-developing residential sector with strong connectivity and future appreciation potential."
+      },
+      {
+        "question": "What plot sizes are available in Sector 68 Gurugram?",
+        "answer": "Plots generally range from 4 Marla to 14 Marla, depending on availability and layout."
+      },
+      {
+        "question": "Is Sector 68 suitable for residential construction?",
+        "answer": "Yes, the sector is suitable for independent homes and low-density residential development."
+      },
+      {
+        "question": "Is buying a plot in Sector 68 a good investment?",
+        "answer": "With ongoing infrastructure development, Sector 68 offers promising long-term returns."
+      },
+      {
+        "question": "Are plots in Sector 68 legally approved?",
+        "answer": "Most plots are approved, but legal verification is recommended before purchase."
+      },
+      {
+        "question": "How is connectivity from Sector 68 Gurugram?",
+        "answer": "Sector 68 enjoys excellent connectivity via Sohna Road, SPR, and NH-48."
+      },
+      {
+        "question": "Can I start construction immediately after buying a plot?",
+        "answer": "Construction depends on applicable building norms and approvals."
+      },
+      {
+        "question": "What amenities are available near Sector 68?",
+        "answer": "Schools, hospitals, shopping areas, and daily-use facilities are located nearby."
+      },
+      {
+        "question": "Why choose Deal Acres for buying plots?",
+        "answer": "Deal Acres offers verified listings, transparent dealings, and complete buyer support."
+      },
+      {
+        "question": "How can I contact plot experts for Sector 68?",
+        "answer": "You can fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Buying Plots in Sector 68 Gurugram",
+    "description": [
+      "Buying the right plot in Sector 68 Gurugram becomes easier with professional assistance.",
+      "Share your details to connect with trusted real estate experts who will help you find verified plots aligned with your residential or investment goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

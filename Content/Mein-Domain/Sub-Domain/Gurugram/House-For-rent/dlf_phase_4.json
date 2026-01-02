@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Premium Independent Houses for Rent in DLF Phase 4 Gurugram",
+    "description": [
+      "DLF Phase 4 Gurugram is one of the most prestigious and well-established residential localities in the city. Known for its upscale environment, excellent infrastructure, and prime location, this area is highly preferred by professionals, business owners, and families. Tenants searching for a house for rent in DLF Phase 4 Gurugram choose this locality because of its close proximity to Golf Course Road, Cyber City, Rapid Metro stations, and major corporate hubs. The area offers seamless connectivity to major parts of Gurugram and Delhi.",
+      "Independent houses in DLF Phase 4 provide a premium lifestyle with spacious layouts, greenery, and privacy. The locality is surrounded by reputed schools, hospitals, shopping malls, cafes, and recreational zones, making everyday life comfortable and convenient. Choosing a house for rent in DLF Phase 4 Gurugram means living in a safe, posh neighborhood that offers both luxury and long-term residential value."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964205360-0f2b9a1b4c63?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661901989603-0c5c6c9e0e8a?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in DLF Phase 4",
+    "description": [
+      "When searching for a house for rent in DLF Phase 4 Gurugram, plot size plays a major role in deciding comfort, privacy, and rental budget.",
+      "DLF Phase 4 offers independent houses in various Marla sizes, catering to different family sizes and lifestyle expectations."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in DLF Phase 4 Gurugram",
+        "description": "A 4 Marla house for rent in DLF Phase 4 Gurugram is suitable for couples and small families looking for a premium address with manageable space. These homes offer functional layouts, quality construction, and easy access to markets and metro connectivity."
+      },
+      {
+        "title": "6 Marla House for Rent in DLF Phase 4 Gurugram",
+        "description": "6 Marla houses provide a balance of space and luxury, making them ideal for nuclear families. These houses often include better room sizes, parking facilities, and a peaceful residential setting."
+      },
+      {
+        "title": "8 Marla House for Rent in DLF Phase 4 Gurugram",
+        "description": "An 8 Marla house for rent in DLF Phase 4 Gurugram offers spacious interiors, enhanced ventilation, and improved privacy. These homes are perfect for families seeking comfort in a prime locality."
+      },
+      {
+        "title": "10 Marla House for Rent in DLF Phase 4 Gurugram",
+        "description": "10 Marla houses are preferred by tenants who want larger living areas, multiple bedrooms, servant quarters, and premium surroundings."
+      },
+      {
+        "title": "12 Marla House for Rent in DLF Phase 4 Gurugram",
+        "description": "A 12 Marla house for rent in DLF Phase 4 Gurugram falls under the luxury rental segment, offering expansive layouts, modern design, and top-class living standards."
+      },
+      {
+        "title": "14 Marla House for Rent in DLF Phase 4 Gurugram",
+        "description": "A 14 Marla house for rent in DLF Phase 4 Gurugram is ideal for large or joint families looking for maximum space, privacy, and a prestigious residential environment."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near DLF Phase 4 Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in DLF Phase 4 Gurugram often explore nearby premium localities to compare options and rental values.",
+      "This section highlights surrounding areas to help users find the best rental homes near DLF Phase 4."
+    ],
+    "locations": [
+      { "title": "House for Rent in DLF Phase 4 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in DLF Phase 3 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in DLF Phase 2 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent near Golf Course Road", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sushant Lok Phase 1", "path": "/", "icon": "Home" },
+      { "title": "House for Rent near Rapid Metro", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 43 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 42 Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for DLF Phase 4 Rentals",
+    "description": [
+      "Finding a genuine house for rent in DLF Phase 4 Gurugram requires trust, transparency, and deep local expertise. Deal Acres is built to deliver all three.",
+      "With a strong reputation and tenant-first approach, Deal Acres has become the preferred choice for renting premium houses in DLF Phase 4."
+    ],
+    "points": [
+      {
+        "title": "Verified Premium Listings",
+        "description": "All houses are verified for ownership, authenticity, and accurate property details."
+      },
+      {
+        "title": "Transparent Rental Pricing",
+        "description": "Clear rental terms, deposits, and pricing with no hidden charges."
+      },
+      {
+        "title": "Expert Local Knowledge",
+        "description": "Strong understanding of DLF Phase 4 and surrounding luxury localities."
+      },
+      {
+        "title": "Curated Property Options",
+        "description": "Only high-quality and tenant-relevant listings are showcased."
+      },
+      {
+        "title": "Tenant-Centric Support",
+        "description": "Personalized assistance based on tenant lifestyle and budget needs."
+      },
+      {
+        "title": "Complete Documentation Help",
+        "description": "Support with rental agreements and legal paperwork."
+      },
+      {
+        "title": "End-To-End Assistance",
+        "description": "Guidance from property search to final possession."
+      },
+      {
+        "title": "Trusted By Premium Tenants",
+        "description": "Deal Acres is known for reliability, professionalism, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in DLF Phase 4",
+    "description": "Common tenant queries related to house for rent in DLF Phase 4 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is DLF Phase 4 a good area to rent a house?",
+        "answer": "Yes, DLF Phase 4 is one of the most premium and well-connected residential areas in Gurugram."
+      },
+      {
+        "question": "What types of houses are available for rent in DLF Phase 4?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is DLF Phase 4 suitable for family living?",
+        "answer": "Yes, it offers a safe environment with schools, hospitals, parks, and markets nearby."
+      },
+      {
+        "question": "Are furnished houses available in DLF Phase 4?",
+        "answer": "Yes, furnished, semi-furnished, and unfurnished houses are available based on property."
+      },
+      {
+        "question": "What is the average rent in DLF Phase 4 Gurugram?",
+        "answer": "Rental prices vary depending on plot size, furnishing, and exact location."
+      },
+      {
+        "question": "How is connectivity from DLF Phase 4?",
+        "answer": "The area has excellent connectivity via Golf Course Road and Rapid Metro."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses here?",
+        "answer": "Some landlords allow bachelors, but many prefer families."
+      },
+      {
+        "question": "Is DLF Phase 4 a safe locality?",
+        "answer": "Yes, it is a secure and well-maintained residential area."
+      },
+      {
+        "question": "Why choose Deal Acres for renting in DLF Phase 4?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and expert guidance."
+      },
+      {
+        "question": "How can I contact rental experts for DLF Phase 4?",
+        "answer": "You can fill out the contact form to connect with experienced rental consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in DLF Phase 4 Gurugram",
+    "description": [
+      "Finding the right house for rent in DLF Phase 4 Gurugram becomes effortless with professional guidance.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that perfectly matches your budget, space requirements, and lifestyle expectations."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

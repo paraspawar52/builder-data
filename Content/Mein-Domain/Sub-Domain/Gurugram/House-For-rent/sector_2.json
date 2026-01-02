@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Well Connected Independent Houses for Rent in Sector 2 Gurugram",
+    "description": [
+      "Sector 2 Gurugram is one of the well-established residential localities offering a calm living environment with strong connectivity to key areas of the city. Tenants searching for a house for rent in Sector 2 Gurugram often prefer this location due to its proximity to NH-48, Delhi border areas, and major commercial zones. The sector is known for its planned roads, low congestion, and easy access to daily essentials, making it suitable for families as well as working professionals.",
+      "Independent houses in Sector 2 provide practical layouts, decent space, and a peaceful neighborhood atmosphere. The locality is surrounded by schools, healthcare centers, local markets, parks, and public transport facilities, ensuring convenience in everyday life. Choosing a house for rent in Sector 2 Gurugram is ideal for tenants looking for affordability, accessibility, and a stable residential setup in a prime part of Gurugram."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964205360-0f2b9a1b4c63?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661901989603-0c5c6c9e0e8a?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sector 2",
+    "description": [
+      "While looking for a house for rent in Sector 2 Gurugram, understanding plot size options helps tenants choose a home that matches their space requirements and rental budget.",
+      "Sector 2 offers independent houses in various Marla sizes, suitable for small families, mid-sized households, and tenants seeking spacious living."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 2 Gurugram",
+        "description": "A 4 Marla house for rent in Sector 2 Gurugram is ideal for couples or small families seeking affordable housing in a well-connected locality. These houses offer functional layouts, easy maintenance, and proximity to markets and transport facilities."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 2 Gurugram",
+        "description": "6 Marla houses provide a comfortable balance between space and budget. These homes are suitable for nuclear families looking for better room sizes, parking options, and a peaceful residential environment."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 2 Gurugram",
+        "description": "An 8 Marla house for rent in Sector 2 Gurugram offers spacious interiors, improved ventilation, and enhanced privacy. These houses are ideal for medium-sized families seeking comfortable independent living."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 2 Gurugram",
+        "description": "10 Marla houses are preferred by tenants who need larger living spaces, multiple bedrooms, and better layout flexibility. These homes offer a premium rental experience within the locality."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 2 Gurugram",
+        "description": "A 12 Marla house for rent in Sector 2 Gurugram falls into the premium rental category, offering expansive layouts, open areas, and long-term comfort for large families."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 2 Gurugram",
+        "description": "A 14 Marla house for rent in Sector 2 Gurugram is ideal for joint or large families looking for maximum space, privacy, and a well-established neighborhood setting."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 2 Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in Sector 2 Gurugram often explore nearby areas to compare rental prices, connectivity, and lifestyle options.",
+      "This section highlights surrounding residential localities to help users find the most suitable rental homes near Sector 2."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 2 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 3 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Palam Vihar", "path": "/", "icon": "Building" },
+      { "title": "House for Rent near NH-48", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 4 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Old Gurugram Area", "path": "/", "icon": "Building" },
+      { "title": "House for Rent near Delhi Border", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 5 Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sector 2 Rental Homes",
+    "description": [
+      "Finding a genuine house for rent in Sector 2 Gurugram requires verified listings, transparent details, and strong local expertise. Deal Acres focuses on trust, clarity, and customer satisfaction.",
+      "With a tenant-first approach and deep understanding of Gurugram’s rental market, Deal Acres has become a reliable platform for renting independent houses in Sector 2."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All rental houses are verified to ensure authenticity and genuine ownership details."
+      },
+      {
+        "title": "Transparent Rental Information",
+        "description": "Clear information on rent, deposit, and terms helps tenants make informed decisions."
+      },
+      {
+        "title": "Strong Local Knowledge",
+        "description": "In-depth understanding of Sector 2 and surrounding residential areas."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "User-friendly filters and smooth navigation simplify house hunting."
+      },
+      {
+        "title": "Tenant-Centric Recommendations",
+        "description": "Property suggestions are tailored to tenant budget and family needs."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Assistance with rental agreements and paperwork ensures smooth transactions."
+      },
+      {
+        "title": "End-To-End Assistance",
+        "description": "Support from initial inquiry to final possession of the rental house."
+      },
+      {
+        "title": "Trusted By Thousands Of Users",
+        "description": "Deal Acres is known for reliability, transparency, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 2",
+    "description": "Common tenant questions related to house for rent in Sector 2 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 2 Gurugram a good area to rent a house?",
+        "answer": "Yes, Sector 2 is a well-established residential area offering good connectivity, affordability, and a peaceful environment."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 2?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are commonly available in Sector 2 Gurugram."
+      },
+      {
+        "question": "Is Sector 2 suitable for families?",
+        "answer": "Yes, the area is family-friendly with schools, parks, markets, and healthcare facilities nearby."
+      },
+      {
+        "question": "Are furnished houses available in Sector 2?",
+        "answer": "Yes, furnished, semi-furnished, and unfurnished houses are available depending on the property."
+      },
+      {
+        "question": "What is the average rent in Sector 2 Gurugram?",
+        "answer": "Rental prices vary based on plot size, condition, and exact location within the sector."
+      },
+      {
+        "question": "How is connectivity from Sector 2?",
+        "answer": "Sector 2 has good connectivity to NH-48, Delhi border areas, and other parts of Gurugram."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sector 2?",
+        "answer": "Some landlords allow bachelors, while others prefer families, depending on house rules."
+      },
+      {
+        "question": "Is Sector 2 safe for tenants?",
+        "answer": "Yes, Sector 2 is a safe and populated residential area with a stable community."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent details, and expert rental guidance."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 2?",
+        "answer": "You can fill out the contact form to connect with experienced rental consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sector 2 Gurugram",
+    "description": [
+      "Finding the right house for rent in Sector 2 Gurugram becomes simple with professional guidance and verified listings.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that matches your budget, space needs, and lifestyle preferences."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

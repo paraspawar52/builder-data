@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Affordable And Well Planned Houses for Rent in Sector 90 Gurugram",
+    "description": [
+      "Sector 90 Gurugram is a rapidly growing residential locality in New Gurugram, known for its planned infrastructure, open surroundings, and improving connectivity. Tenants searching for a house for rent in Sector 90 Gurugram are attracted to this area because it offers a peaceful living environment while remaining well-connected to Dwarka Expressway, NH-48, and Pataudi Road. The sector is emerging as a preferred choice for families and professionals looking for value-for-money rental homes.",
+      "Independent houses in Sector 90 provide comfortable layouts, good ventilation, and a community-oriented lifestyle. The area has access to schools, healthcare facilities, daily markets, shopping complexes, and public transport options, making everyday life convenient. Choosing a house for rent in Sector 90 Gurugram is ideal for tenants who want affordable rentals, future growth potential, and a balanced lifestyle away from overcrowded city zones."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964205360-0f2b9a1b4c63?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661901989603-0c5c6c9e0e8a?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sector 90",
+    "description": [
+      "While searching for a house for rent in Sector 90 Gurugram, choosing the right plot size is important to match your family needs, comfort level, and rental budget.",
+      "Sector 90 offers independent houses in various Marla sizes, suitable for small families, mid-sized households, and tenants looking for spacious homes."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 90 Gurugram",
+        "description": "A 4 Marla house for rent in Sector 90 Gurugram is ideal for couples or small families looking for affordable and low-maintenance rental housing. These homes offer functional layouts, basic amenities, and easy access to nearby roads and markets, making them a practical option for budget-conscious tenants."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 90 Gurugram",
+        "description": "6 Marla houses provide a comfortable balance of space and affordability. They are well-suited for nuclear families who want better room sizes, parking space, and a peaceful residential environment with good connectivity."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 90 Gurugram",
+        "description": "An 8 Marla house for rent in Sector 90 Gurugram offers spacious interiors, improved ventilation, and enhanced privacy. These houses are ideal for medium-sized families seeking comfortable living in a developing neighborhood."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 90 Gurugram",
+        "description": "10 Marla houses are preferred by tenants who need larger living areas, multiple bedrooms, and dedicated parking. These homes offer a premium rental experience with better layout flexibility."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 90 Gurugram",
+        "description": "A 12 Marla house for rent in Sector 90 Gurugram falls into the premium rental category. These houses offer expansive layouts, modern construction, and a comfortable lifestyle suitable for large families."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 90 Gurugram",
+        "description": "A 14 Marla house for rent in Sector 90 Gurugram is ideal for joint or large families looking for maximum space, privacy, and long-term residential comfort."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 90 Gurugram",
+    "description": [
+      "Tenants looking for a house for rent in Sector 90 Gurugram often explore nearby sectors to compare rental prices, amenities, and connectivity advantages.",
+      "This section highlights surrounding residential locations to help users find the most suitable rental homes near Sector 90."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 90 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 89 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 91 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent near Dwarka Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 92 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 88 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent near Pataudi Road", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in New Gurugram Area", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sector 90 Rental Homes",
+    "description": [
+      "Finding a genuine house for rent in Sector 90 Gurugram requires verified listings, transparent pricing, and local expertise. Deal Acres focuses on trust, clarity, and tenant satisfaction.",
+      "With a tenant-first approach and deep understanding of Gurugram’s rental market, Deal Acres has become a reliable choice for renting independent houses in Sector 90."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All houses are verified for authenticity and ownership before being listed."
+      },
+      {
+        "title": "Transparent Rental Information",
+        "description": "Clear details on rent, deposit, and terms help tenants make informed decisions."
+      },
+      {
+        "title": "Local Market Knowledge",
+        "description": "Strong understanding of Sector 90 and surrounding residential areas."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "User-friendly filters and location-based search simplify house hunting."
+      },
+      {
+        "title": "Tenant-Centric Approach",
+        "description": "Recommendations are tailored to tenant budget, family size, and preferences."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Assistance with rental agreements and paperwork ensures smooth transactions."
+      },
+      {
+        "title": "End-To-End Assistance",
+        "description": "Support from initial inquiry to final possession of the rental home."
+      },
+      {
+        "title": "Trusted By Thousands Of Users",
+        "description": "Deal Acres is known for reliability, transparency, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 90",
+    "description": "Common tenant questions related to house for rent in Sector 90 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 90 Gurugram a good area to rent a house?",
+        "answer": "Yes, Sector 90 is a developing and well-planned area offering affordable rentals, peaceful surroundings, and improving connectivity."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 90?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are commonly available in Sector 90."
+      },
+      {
+        "question": "Is Sector 90 suitable for families?",
+        "answer": "Yes, the area is suitable for families with schools, healthcare facilities, and daily markets nearby."
+      },
+      {
+        "question": "Are furnished houses available in Sector 90?",
+        "answer": "Yes, furnished, semi-furnished, and unfurnished houses are available depending on the property."
+      },
+      {
+        "question": "What is the average rent in Sector 90 Gurugram?",
+        "answer": "Rental prices vary based on plot size, property condition, and location within the sector."
+      },
+      {
+        "question": "How is connectivity from Sector 90?",
+        "answer": "Sector 90 has good connectivity via Dwarka Expressway, Pataudi Road, and NH-48."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sector 90?",
+        "answer": "Some landlords allow bachelors, while others prefer families based on house rules."
+      },
+      {
+        "question": "Is Sector 90 safe for tenants?",
+        "answer": "Yes, Sector 90 is a safe and developing residential area with planned infrastructure."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent details, and expert rental guidance."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 90?",
+        "answer": "You can fill out the contact form to connect with experienced rental consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sector 90 Gurugram",
+    "description": [
+      "Finding the right house for rent in Sector 90 Gurugram becomes easy with professional guidance and verified listings.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that matches your budget, space needs, and lifestyle preferences."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

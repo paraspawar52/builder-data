@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Family Friendly Independent Houses for Rent in Palam Vihar Gurugram",
+    "description": [
+      "Palam Vihar Gurugram is one of the most well-established and family-oriented residential localities, known for its wide roads, green parks, and peaceful environment. People looking for a house for rent in Palam Vihar Gurugram prefer this area because of its excellent connectivity to Dwarka, IGI Airport, NH-48, and major parts of Gurugram. The locality has reputed schools, hospitals, shopping complexes, daily convenience stores, and well-maintained parks, making it ideal for comfortable everyday living.",
+      "Independent houses in Palam Vihar are highly preferred due to spacious layouts, privacy, and a secure neighborhood atmosphere. The area is popular among families, senior professionals, and tenants who value long-term stability and quality living. Choosing a house for rent in Palam Vihar Gurugram means enjoying a balanced lifestyle with strong infrastructure, good connectivity, and a calm residential setting away from crowded high-rise zones."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Palam Vihar Gurugram",
+    "description": [
+      "Selecting the right plot size is an important decision when choosing a house for rent in Palam Vihar Gurugram, as it affects comfort, privacy, and monthly rental budget.",
+      "Palam Vihar offers a wide range of independent house options on rent, suitable for small families, joint families, and tenants seeking spacious homes."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Palam Vihar Gurugram",
+        "description": "A 4 Marla house for rent in Palam Vihar Gurugram is ideal for couples or small families looking for an affordable and easy-to-maintain home."
+      },
+      {
+        "title": "6 Marla House for Rent in Palam Vihar Gurugram",
+        "description": "6 Marla houses offer a balanced mix of space and budget, making them suitable for families seeking comfortable living."
+      },
+      {
+        "title": "8 Marla House for Rent in Palam Vihar Gurugram",
+        "description": "An 8 Marla rental house provides spacious rooms, good ventilation, and functional layouts for long-term family living."
+      },
+      {
+        "title": "10 Marla House for Rent in Palam Vihar Gurugram",
+        "description": "10 Marla houses are preferred by tenants who want larger interiors, parking facilities, and better privacy."
+      },
+      {
+        "title": "12 Marla House for Rent in Palam Vihar Gurugram",
+        "description": "12 Marla rental houses fall into the premium segment, offering open spaces, modern construction, and enhanced lifestyle comfort."
+      },
+      {
+        "title": "14 Marla House for Rent in Palam Vihar Gurugram",
+        "description": "A 14 Marla house for rent is suitable for large families or corporate tenants seeking luxury, space, and a prestigious address."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Palam Vihar Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in Palam Vihar Gurugram often explore nearby localities to compare rental prices, connectivity, and lifestyle benefits.",
+      "This section helps users discover surrounding residential areas and make well-informed rental decisions."
+    ],
+    "locations": [
+      { "title": "House for Rent in Palam Vihar Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 23 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 22 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 21 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near Dwarka Expressway", "path": "/", "icon": "Home" },
+      { "title": "House for Rent near IGI Airport", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 110 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 111 Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Palam Vihar Rental Houses",
+    "description": [
+      "Finding a genuine house for rent in Palam Vihar Gurugram requires verified listings, transparent rental terms, and strong local market knowledge. Deal Acres focuses on reliability and trust.",
+      "With a tenant-first approach and deep understanding of Gurugram’s rental market, Deal Acres has become a preferred choice for renting independent houses."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "All properties are verified for ownership and authenticity to ensure tenant safety and confidence."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear information on rent, deposits, and terms helps tenants make informed decisions."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth knowledge of Palam Vihar and nearby areas ensures accurate rental guidance."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "User-friendly platform makes finding the right house quick and hassle-free."
+      },
+      {
+        "title": "Tenant-Focused Recommendations",
+        "description": "Property suggestions are tailored to tenant budget, family size, and lifestyle needs."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Guidance with rental agreements and paperwork ensures a smooth process."
+      },
+      {
+        "title": "End-to-End Rental Assistance",
+        "description": "Support from property search to move-in for a stress-free experience."
+      },
+      {
+        "title": "Trusted by Families",
+        "description": "Deal Acres is trusted for transparency, professionalism, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Palam Vihar Gurugram",
+    "description": "Common tenant questions related to house for rent in Palam Vihar Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Palam Vihar Gurugram a good area to rent a house?",
+        "answer": "Yes, Palam Vihar is a well-established and family-friendly locality with excellent connectivity and infrastructure."
+      },
+      {
+        "question": "What types of houses are available for rent in Palam Vihar?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are available to suit different budgets and family sizes."
+      },
+      {
+        "question": "Is Palam Vihar suitable for family living?",
+        "answer": "Yes, the area offers schools, hospitals, parks, and a secure residential environment ideal for families."
+      },
+      {
+        "question": "Are furnished houses available for rent in Palam Vihar?",
+        "answer": "Yes, furnished and semi-furnished houses are available depending on the property and landlord."
+      },
+      {
+        "question": "What is the average rent in Palam Vihar Gurugram?",
+        "answer": "Rental values vary based on plot size, furnishings, and exact location, offering mid-range to premium options."
+      },
+      {
+        "question": "How is connectivity from Palam Vihar?",
+        "answer": "Palam Vihar offers excellent connectivity to Dwarka, IGI Airport, NH-48, and major Gurugram sectors."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Palam Vihar?",
+        "answer": "Some landlords allow bachelors, while others prefer families. This depends on individual owner preferences."
+      },
+      {
+        "question": "Is Palam Vihar safe for tenants?",
+        "answer": "Yes, Palam Vihar is considered safe with a strong residential community and good security."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent details, and expert local rental assistance."
+      },
+      {
+        "question": "How can I contact rental experts for Palam Vihar?",
+        "answer": "You can fill out the contact form to connect with experienced rental property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Palam Vihar Gurugram",
+    "description": [
+      "Finding the right house for rent in Palam Vihar Gurugram becomes simple and stress-free with expert guidance.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that matches your budget, preferences, and lifestyle needs."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

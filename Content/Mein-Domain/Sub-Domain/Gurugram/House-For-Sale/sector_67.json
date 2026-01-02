@@ -1,0 +1,151 @@
+{
+  "domain": "Houseforsale.com",
+
+  "hero": {
+    "title": "Independent Houses for Sale in Well Connected Sector 67 Gurugram",
+    "description": [
+      "Sector 67 Gurugram is a rapidly developing and well-planned residential locality known for its modern infrastructure and excellent connectivity. Buyers looking for a House for sale in Sector 67 Gurugram are attracted by its proximity to Golf Course Extension Road, Sohna Road, and major employment hubs. The area is surrounded by reputed schools, hospitals, shopping malls, restaurants, and daily convenience facilities, making it a comfortable location for families and working professionals.",
+      "Independent houses in Sector 67 offer a perfect blend of privacy, space, and contemporary living. The sector is designed for peaceful residential life while staying well connected to the rest of Gurugram. Investing in a house for sale in Sector 67 Gurugram ensures long-term appreciation, good rental demand, and a high-quality lifestyle in one of Gurugram’s preferred residential zones."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Sale",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Sale Options by Plot Size in Sector 67 Gurugram",
+    "description": [
+      "Selecting the right plot size is essential when planning to buy a house for sale in Sector 67 Gurugram. The locality offers independent houses in multiple marla sizes to meet different lifestyle needs and budget preferences.",
+      "Whether you are looking for a compact home or a spacious luxury house, Sector 67 provides well-planned options with wide roads, proper drainage, reliable utilities, and a secure residential environment."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Sector 67 Gurugram",
+        "description": "A 4 Marla house for sale in Sector 67 Gurugram is ideal for small families and budget-conscious buyers. These homes are easy to maintain and benefit from the sector’s growing rental demand."
+      },
+      {
+        "title": "6 Marla House for Sale in Sector 67 Gurugram",
+        "description": "6 Marla houses offer a good balance between space and affordability. They feature comfortable layouts, proper ventilation, and parking, making them suitable for long-term family living."
+      },
+      {
+        "title": "8 Marla House for Sale in Sector 67 Gurugram",
+        "description": "An 8 Marla house provides additional living space and design flexibility. These houses are preferred by families seeking modern interiors and enhanced lifestyle comfort."
+      },
+      {
+        "title": "10 Marla House for Sale in Sector 67 Gurugram",
+        "description": "A 10 Marla house for sale in Sector 67 Gurugram is considered a premium residential option, offering spacious interiors, better privacy, and strong resale value."
+      },
+      {
+        "title": "12 Marla House for Sale in Sector 67 Gurugram",
+        "description": "12 Marla houses are ideal for buyers who prioritize spacious living and architectural freedom. These homes are suitable for luxury living and long-term investment."
+      },
+      {
+        "title": "14 Marla House for Sale in Sector 67 Gurugram",
+        "description": "A 14 Marla house represents the most premium category in Sector 67. Limited availability and high demand make these houses attractive for luxury buyers and investors."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Sale in and Around Sector 67 Gurugram",
+    "description": [
+      "While searching for a house for sale in Sector 67 Gurugram, many buyers also explore nearby sectors to compare pricing, infrastructure, and connectivity. Golf Course Extension Road has several well-developed residential locations.",
+      "This section helps users easily navigate and explore nearby areas to make informed property decisions."
+    ],
+    "locations": [
+      { "title": "House for Sale in Sector 67 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 66 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale in Sector 65 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Sector 68 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale on Golf Course Extension Road", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 69 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Sector 70 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale near Sohna Road", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Sector 67 Houses",
+    "description": [
+      "Buying a house for sale in Sector 67 Gurugram requires trustworthy information and verified listings. Deal Acres focuses on accuracy, transparency, and genuine property options.",
+      "With strong local expertise and a buyer-first approach, Deal Acres has become a reliable choice for families and investors in Gurugram."
+    ],
+    "points": [
+      { "title": "Verified House Listings", "description": "Each listing is checked to ensure authenticity and accuracy." },
+      { "title": "Transparent Pricing", "description": "Clear pricing with no misleading information." },
+      { "title": "Local Market Knowledge", "description": "Deep understanding of Sector 67 and surrounding areas." },
+      { "title": "Easy Property Search", "description": "User-friendly platform for smooth browsing." },
+      { "title": "Buyer-Focused Services", "description": "Solutions designed around real buyer requirements." },
+      { "title": "Legal Guidance Support", "description": "Basic help with documentation and legal clarity." },
+      { "title": "End-to-End Assistance", "description": "Support throughout the buying journey." },
+      { "title": "Trusted by Homebuyers", "description": "Positive feedback reflecting long-term user trust." }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses in Sector 67 Gurugram",
+    "description": "Common questions related to house for sale in Sector 67 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 67 Gurugram a good area to buy a house?",
+        "answer": "Yes, Sector 67 offers modern infrastructure, excellent connectivity, and strong future growth potential."
+      },
+      {
+        "question": "What house sizes are available in Sector 67?",
+        "answer": "Independent houses from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Sector 67 suitable for family living?",
+        "answer": "Yes, the area provides a peaceful environment along with schools, hospitals, and shopping facilities nearby."
+      },
+      {
+        "question": "Are ready-to-move houses available in Sector 67?",
+        "answer": "Yes, both ready-to-move and newly built houses are available."
+      },
+      {
+        "question": "Is buying a house in Sector 67 a good investment?",
+        "answer": "Due to its location near Golf Course Extension Road, the sector offers strong appreciation potential."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 67?",
+        "answer": "Most houses are eligible for home loans, subject to bank approval."
+      },
+      {
+        "question": "How is connectivity from Sector 67 Gurugram?",
+        "answer": "Sector 67 is well connected to Sohna Road, Golf Course Extension Road, and major city areas."
+      },
+      {
+        "question": "Is Sector 67 good for rental income?",
+        "answer": "Yes, high demand from professionals ensures good rental returns."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, and expert local guidance."
+      },
+      {
+        "question": "How can I contact property experts?",
+        "answer": "You can fill out the contact form to connect with experienced property advisors."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Sale in Sector 67 Gurugram",
+    "description": [
+      "Buying a house for sale in Sector 67 Gurugram is an important life decision, and expert guidance can make the process smooth and secure.",
+      "Share your details to connect with trusted property experts who will help you find the right house based on your budget, preferences, and long-term goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

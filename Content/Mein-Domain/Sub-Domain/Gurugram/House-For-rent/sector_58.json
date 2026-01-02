@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Premium Independent Houses for Rent in Sector 58 Gurugram",
+    "description": [
+      "Sector 58 Gurugram is a well-developed residential locality known for its premium surroundings, smooth connectivity, and peaceful living environment. Tenants searching for a house for rent in Sector 58 Gurugram are drawn to this area because of its proximity to Golf Course Extension Road, Sohna Road, and major corporate hubs. The sector offers a balanced lifestyle where residents can enjoy modern infrastructure while staying well-connected to offices, schools, and shopping destinations.",
+      "Independent houses in Sector 58 provide spacious layouts, privacy, and a calm neighborhood atmosphere. The area is surrounded by reputed schools, hospitals, daily convenience stores, and green open spaces, making it suitable for families and professionals alike. Choosing a house for rent in Sector 58 Gurugram is ideal for tenants who value comfort, connectivity, and a high-quality residential experience."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sector 58 Gurugram",
+    "description": [
+      "Selecting the right plot size plays a key role when searching for a house for rent in Sector 58 Gurugram, as it directly impacts space utilization and rental budget.",
+      "Sector 58 offers independent houses in multiple plot sizes, catering to small families, joint families, and tenants looking for premium residential living."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 58 Gurugram",
+        "description": "A 4 Marla house for rent in Sector 58 Gurugram is suitable for couples or small families seeking affordable yet well-located housing near major roads."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 58 Gurugram",
+        "description": "6 Marla houses provide a comfortable balance of space and cost, making them ideal for families looking for practical living arrangements."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 58 Gurugram",
+        "description": "An 8 Marla rental house offers spacious rooms, better ventilation, and enhanced comfort for long-term family stays."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 58 Gurugram",
+        "description": "10 Marla houses are preferred by tenants who need larger living spaces, parking facilities, and improved privacy."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 58 Gurugram",
+        "description": "12 Marla houses fall into the premium category, offering open layouts, quality construction, and superior living comfort."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 58 Gurugram",
+        "description": "A 14 Marla house for rent is ideal for large families or tenants seeking maximum space in a prime residential location."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 58 Gurugram",
+    "description": [
+      "Tenants looking for a house for rent in Sector 58 Gurugram often explore nearby sectors to compare rental values and connectivity advantages.",
+      "This section highlights surrounding localities to help users find the most suitable rental option."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 58 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 55 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 56 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 57 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near Golf Course Extension Road", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 59 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 60 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent near Sohna Road", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sector 58 Rental Houses",
+    "description": [
+      "Finding a genuine house for rent in Sector 58 Gurugram requires accurate listings, transparent pricing, and strong local market knowledge. Deal Acres focuses on delivering trust and clarity to tenants.",
+      "With deep understanding of Gurugram’s rental market, Deal Acres has become a preferred platform for renting independent houses."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "Every rental house is verified for ownership, availability, and authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear information on rent, security deposit, and terms helps tenants plan confidently."
+      },
+      {
+        "title": "Local Area Expertise",
+        "description": "Strong knowledge of Sector 58 ensures accurate and relevant rental suggestions."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "User-friendly filters make it simple to find suitable rental houses quickly."
+      },
+      {
+        "title": "Tenant-Focused Recommendations",
+        "description": "Properties are shortlisted based on tenant budget, family size, and preferences."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Assistance with rental agreements and paperwork ensures a smooth process."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Complete support from property discovery to final move-in."
+      },
+      {
+        "title": "Trusted by Renters",
+        "description": "Deal Acres is known for reliability, transparency, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 58 Gurugram",
+    "description": "Common tenant questions related to house for rent in Sector 58 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 58 Gurugram a good place to rent a house?",
+        "answer": "Yes, Sector 58 is a premium residential area with excellent connectivity and amenities."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 58?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Sector 58 suitable for family living?",
+        "answer": "Yes, the area has schools, hospitals, parks, and daily convenience stores nearby."
+      },
+      {
+        "question": "Are furnished houses available in Sector 58 Gurugram?",
+        "answer": "Both furnished and semi-furnished houses are available depending on the owner."
+      },
+      {
+        "question": "What is the average rent in Sector 58 Gurugram?",
+        "answer": "Rental prices vary based on plot size and condition but are competitive for the location."
+      },
+      {
+        "question": "How is connectivity from Sector 58?",
+        "answer": "Sector 58 is well-connected via Golf Course Extension Road and Sohna Road."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sector 58?",
+        "answer": "Some landlords allow bachelors, while others prefer families."
+      },
+      {
+        "question": "Is Sector 58 a safe area for tenants?",
+        "answer": "Yes, it is a well-planned and secure residential locality."
+      },
+      {
+        "question": "Why choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent details, and expert guidance."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 58?",
+        "answer": "You can fill out the contact form to connect with experienced rental consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sector 58 Gurugram",
+    "description": [
+      "Finding the right house for rent in Sector 58 Gurugram becomes easy with professional support.",
+      "Share your details to connect with trusted property experts who will help you find a rental home matching your budget, space needs, and lifestyle."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

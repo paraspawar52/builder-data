@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Premium Residential and Investment Plots in Prime Sector 25 Gurugram",
+    "description": [
+      "Sector 25 Gurugram is one of the most established and premium residential areas, strategically located near MG Road and major commercial hubs. Buyers searching for a plot in Sector 25 Gurugram are attracted to its central location, smooth road connectivity, and proximity to Cyber City, Udyog Vihar, and Golf Course Road. The area is surrounded by reputed residential colonies, green parks, top schools, hospitals, and daily convenience markets, making it ideal for comfortable urban living.",
+      "Plots in Sector 25 are limited in supply, which adds to their exclusivity and strong appreciation potential. Whether you plan to build an independent home or invest in land for long-term returns, this location offers stability, lifestyle comfort, and excellent resale value. Choosing a plot in Sector 25 Gurugram means investing in a mature neighborhood with high demand and long-term real estate security."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 25",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154084-4e5fe7c39198?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Options by Size in Sector 25 Gurugram",
+    "description": [
+      "Selecting the right plot size in Sector 25 Gurugram is essential for efficient construction planning, lifestyle needs, and future appreciation.",
+      "Sector 25 offers multiple plot size options suitable for compact homes, premium residences, and long-term land investments."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 25 Gurugram",
+        "description": "A 4 Marla plot in Sector 25 Gurugram is suitable for buyers seeking compact residential options in a prime central location with strong connectivity."
+      },
+      {
+        "title": "6 Marla Plot in Sector 25 Gurugram",
+        "description": "6 Marla plots provide a practical balance between space and budget, ideal for independent homes in a well-established locality."
+      },
+      {
+        "title": "8 Marla Plot in Sector 25 Gurugram",
+        "description": "An 8 Marla plot offers greater design flexibility, allowing for spacious layouts, parking, and comfortable living spaces."
+      },
+      {
+        "title": "10 Marla Plot in Sector 25 Gurugram",
+        "description": "10 Marla plots are premium choices, preferred by buyers planning luxury independent houses with strong resale value."
+      },
+      {
+        "title": "12 Marla Plot in Sector 25 Gurugram",
+        "description": "A 12 Marla plot provides ample space for high-end villas, landscaped areas, and modern architectural designs."
+      },
+      {
+        "title": "14 Marla Plot in Sector 25 Gurugram",
+        "description": "14 Marla plots represent elite land parcels in Sector 25, ideal for buyers focused on exclusivity and long-term appreciation."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Plot Options Near Sector 25 Gurugram",
+    "description": [
+      "Buyers interested in a plot in Sector 25 Gurugram often explore nearby premium locations to compare pricing, availability, and lifestyle advantages.",
+      "This section highlights surrounding areas that complement Sector 25’s residential and investment appeal."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 25 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 24 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 26 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in DLF Phase 1 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near MG Road Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Cyber City Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Golf Course Road", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Central Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 25 Gurugram",
+    "description": [
+      "Buying a plot in Sector 25 Gurugram requires verified listings, transparent pricing, and strong local expertise.",
+      "Deal Acres has built buyer trust by delivering reliability, legal clarity, and professional real estate guidance."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are carefully verified for ownership, approvals, and documentation."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden costs ensures buyer confidence."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Deep understanding of Sector 25 property trends and demand."
+      },
+      {
+        "title": "Access to Prime Plots",
+        "description": "Exclusive access to limited and high-value plots."
+      },
+      {
+        "title": "Legal & Registry Support",
+        "description": "Complete assistance with legal checks and registration."
+      },
+      {
+        "title": "Personalized Property Matching",
+        "description": "Plot recommendations based on budget and long-term goals."
+      },
+      {
+        "title": "End-to-End Buying Support",
+        "description": "Guidance from initial inquiry to final possession."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Deal Acres is known for ethical practices and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 25 Gurugram",
+    "description": "Common buyer queries related to plot purchase in Sector 25 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 25 Gurugram a good location to buy a plot?",
+        "answer": "Yes, Sector 25 is a premium and centrally located area with strong connectivity and high demand."
+      },
+      {
+        "question": "What plot sizes are available in Sector 25 Gurugram?",
+        "answer": "Plot sizes typically range from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Is Sector 25 suitable for residential construction?",
+        "answer": "Yes, it is ideal for independent homes and premium residential construction."
+      },
+      {
+        "question": "Is buying a plot in Sector 25 a good investment?",
+        "answer": "Due to limited supply and prime location, Sector 25 offers excellent long-term appreciation."
+      },
+      {
+        "question": "Are plots in Sector 25 legally approved?",
+        "answer": "Most plots are approved, but legal verification is always recommended."
+      },
+      {
+        "question": "How is connectivity from Sector 25 Gurugram?",
+        "answer": "Sector 25 is well connected via MG Road, NH-48, and major city roads."
+      },
+      {
+        "question": "Can construction start immediately after purchase?",
+        "answer": "Construction depends on local norms and approvals; expert guidance is helpful."
+      },
+      {
+        "question": "What amenities are available near Sector 25?",
+        "answer": "Schools, hospitals, malls, offices, and daily convenience facilities are nearby."
+      },
+      {
+        "question": "Why choose Deal Acres for buying plots?",
+        "answer": "Deal Acres provides verified listings, transparent processes, and complete support."
+      },
+      {
+        "question": "How can I contact plot buying experts?",
+        "answer": "You can connect with experts by filling out the contact form on the website."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Buying Plots in Sector 25 Gurugram",
+    "description": [
+      "Finding the right plot in Sector 25 Gurugram becomes easy with professional assistance.",
+      "Share your details to connect with experienced real estate experts who will help you find verified plots matching your lifestyle and investment goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

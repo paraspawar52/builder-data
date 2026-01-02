@@ -1,0 +1,175 @@
+{
+  "domain": "Affordablehouseforsalecom",
+
+  "hero": {
+    "title": "Affordable Independent Houses for Sale in Sector 23 Gurugram",
+    "description": [
+      "Sector 23 Gurugram is a well-established and strategically located residential area, known for its peaceful environment, good infrastructure, and excellent connectivity. Buyers searching for an affordable house for sale in Sector 23 Gurugram prefer this locality due to its proximity to Palam Vihar, Udyog Vihar, MG Road, and Delhi-Gurugram border. The sector enjoys smooth access to NH-48 and key employment hubs, making it a convenient choice for working professionals and families.",
+      "Affordable houses for sale in Sector 23 Gurugram offer a balanced lifestyle with access to schools, hospitals, local markets, parks, and daily convenience stores. The area has a stable residential demand and limited independent housing supply, which supports long-term value appreciation. Choosing Sector 23 means investing in a livable, well-connected neighborhood that offers comfort today and strong growth potential for the future."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1592595896616-c37162298647?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Size Options Available in Sector 23 Gurugram",
+    "description": [
+      "Choosing the right house size in Sector 23 Gurugram depends on family size, budget, and lifestyle preferences.",
+      "The locality offers multiple independent house configurations suitable for end-users and long-term investors."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House for Sale in Sector 23 Gurugram",
+        "description": "A 4 Marla affordable house in Sector 23 Gurugram is ideal for small families or first-time buyers looking for independent living at a reasonable price point."
+      },
+      {
+        "title": "6 Marla Affordable House for Sale in Sector 23 Gurugram",
+        "description": "6 Marla houses provide a balanced layout with adequate living space, making them suitable for nuclear families."
+      },
+      {
+        "title": "8 Marla Affordable House for Sale in Sector 23 Gurugram",
+        "description": "An 8 Marla house offers more spacious interiors, parking convenience, and flexibility for modern home designs."
+      },
+      {
+        "title": "10 Marla Affordable House for Sale in Sector 23 Gurugram",
+        "description": "10 Marla houses are preferred by families seeking larger homes with better resale and rental demand."
+      },
+      {
+        "title": "12 Marla Affordable House for Sale in Sector 23 Gurugram",
+        "description": "A 12 Marla house is suitable for buyers who want expansive living areas and long-term value appreciation."
+      },
+      {
+        "title": "14 Marla Affordable House for Sale in Sector 23 Gurugram",
+        "description": "14 Marla houses cater to buyers looking for premium independent homes in a well-connected locality."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses Near Sector 23 Gurugram",
+    "description": [
+      "Buyers exploring affordable houses for sale in Sector 23 Gurugram often compare nearby localities for pricing and amenities.",
+      "These surrounding areas enhance the overall residential and investment appeal."
+    ],
+    "locations": [
+      { "title": "Affordable House for Sale in Sector 23 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Palam Vihar Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 22 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 21 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near MG Road Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Udyog Vihar", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses in West Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Budget Independent Homes in Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Affordable Houses in Sector 23",
+    "description": [
+      "Buying an affordable house for sale in Sector 23 Gurugram requires reliable listings, transparent pricing, and local expertise.",
+      "Deal Acres has built strong trust by offering verified properties and customer-focused services."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "Each property is verified for ownership clarity and legal compliance."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden charges ensures buyer confidence."
+      },
+      {
+        "title": "Local Area Expertise",
+        "description": "In-depth understanding of Sector 23 market trends and demand."
+      },
+      {
+        "title": "Wide Property Options",
+        "description": "Multiple house sizes and budget-friendly choices available."
+      },
+      {
+        "title": "Legal and Registry Support",
+        "description": "Complete assistance with documentation and registration."
+      },
+      {
+        "title": "Personalized Buying Advice",
+        "description": "Property suggestions based on budget, needs, and goals."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from shortlisting to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for ethical practices and long-term customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Sector 23 Gurugram",
+    "description": "Common buyer questions answered clearly to help with confident decision-making.",
+    "faqs": [
+      {
+        "question": "Is Sector 23 Gurugram a good location to buy an affordable house?",
+        "answer": "Yes, Sector 23 offers good connectivity, a peaceful environment, and stable long-term appreciation potential."
+      },
+      {
+        "question": "What house sizes are available in Sector 23 Gurugram?",
+        "answer": "Independent houses are generally available from 4 Marla to 14 Marla, subject to availability."
+      },
+      {
+        "question": "Is Sector 23 suitable for family living?",
+        "answer": "Yes, the sector has schools, parks, markets, and healthcare facilities nearby."
+      },
+      {
+        "question": "Are properties in Sector 23 legally approved?",
+        "answer": "Most properties are approved, and Deal Acres helps with legal verification."
+      },
+      {
+        "question": "How is connectivity from Sector 23 Gurugram?",
+        "answer": "The area is well connected to NH-48, MG Road, and Delhi-Gurugram border."
+      },
+      {
+        "question": "Is buying a house in Sector 23 a good investment?",
+        "answer": "Yes, due to limited independent housing supply and consistent demand."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 23?",
+        "answer": "Yes, home loans are available from major banks for eligible properties."
+      },
+      {
+        "question": "What amenities are available nearby?",
+        "answer": "The locality offers schools, hospitals, local markets, and public transport."
+      },
+      {
+        "question": "Why choose Deal Acres for Sector 23 properties?",
+        "answer": "Deal Acres provides verified listings, transparent deals, and full buyer support."
+      },
+      {
+        "question": "How can I contact experts for Sector 23 houses?",
+        "answer": "You can fill out the contact form on this page to connect with property experts."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for Affordable Houses in Sector 23 Gurugram",
+    "description": [
+      "Finding the right affordable house for sale in Sector 23 Gurugram is easier with professional guidance.",
+      "Share your details to connect with trusted real estate experts and explore verified housing options confidently."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

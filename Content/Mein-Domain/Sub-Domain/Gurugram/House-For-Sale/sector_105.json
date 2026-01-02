@@ -1,0 +1,151 @@
+{
+  "domain": "Houseforsale.com",
+
+  "hero": {
+    "title": "Independent Houses for Sale in Sector 105 Gurugram",
+    "description": [
+      "Sector 105 Gurugram is an emerging residential locality located close to Dwarka Expressway, offering excellent connectivity to Delhi, IGI Airport, and major commercial hubs of Gurugram. Buyers searching for a House for sale in Sector 105 Gurugram prefer this area due to its planned infrastructure, peaceful surroundings, and growing residential demand. The sector is ideal for homebuyers looking for a balanced lifestyle with smooth road connectivity, nearby schools, hospitals, and daily convenience facilities.",
+      "Independent houses in Sector 105 provide spacious layouts, better privacy, and flexibility in living compared to high-rise apartments. The locality is witnessing steady development, making it suitable for both end-users and investors. Investing in a house for sale in Sector 105 Gurugram offers long-term value appreciation, strong future growth prospects, and comfortable living in a well-connected residential zone of Gurugram."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Sale",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Sale Options by Plot Size in Sector 105 Gurugram",
+    "description": [
+      "Choosing the right plot size is an important factor when planning to buy a house for sale in Sector 105 Gurugram. Different plot sizes are designed to match varied family needs, budgets, and future plans.",
+      "Sector 105 offers a wide range of independent houses, from compact homes for small families to spacious luxury residences, all within a developing and well-connected residential environment."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Sector 105 Gurugram",
+        "description": "A 4 Marla house for sale in Sector 105 Gurugram is ideal for buyers looking for an affordable independent home. These houses are easy to maintain and suitable for small families or rental investment."
+      },
+      {
+        "title": "6 Marla House for Sale in Sector 105 Gurugram",
+        "description": "6 Marla houses offer a good balance between space and budget. They are suitable for families seeking comfortable living with better room layouts."
+      },
+      {
+        "title": "8 Marla House for Sale in Sector 105 Gurugram",
+        "description": "An 8 Marla house provides spacious interiors, improved ventilation, and flexible design options, making it ideal for long-term family living."
+      },
+      {
+        "title": "10 Marla House for Sale in Sector 105 Gurugram",
+        "description": "10 Marla houses are preferred by buyers looking for premium space, privacy, and better resale value in a growing locality."
+      },
+      {
+        "title": "12 Marla House for Sale in Sector 105 Gurugram",
+        "description": "12 Marla houses fall into the luxury category, offering ample open space, modern architecture, and a superior living experience."
+      },
+      {
+        "title": "14 Marla House for Sale in Sector 105 Gurugram",
+        "description": "A 14 Marla house represents premium living with expansive layouts, high-quality construction, and excellent future appreciation potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Sale Near Sector 105 Gurugram",
+    "description": [
+      "Buyers interested in a house for sale in Sector 105 Gurugram often explore nearby sectors to compare pricing, development, and connectivity advantages.",
+      "This section helps users easily discover nearby residential locations and make well-informed property decisions."
+    ],
+    "locations": [
+      { "title": "House for Sale in Sector 105 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 104 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale in Sector 106 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Sector 103 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale near Dwarka Expressway", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 102 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Palam Vihar", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale near Delhi Border", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Sector 105 Houses",
+    "description": [
+      "Buying a house for sale in Sector 105 Gurugram requires verified listings, transparent pricing, and accurate local insights. Deal Acres focuses on providing reliable information that buyers can trust.",
+      "With strong local market knowledge and a buyer-first approach, Deal Acres has become a preferred platform for finding independent houses in Sector 105 Gurugram."
+    ],
+    "points": [
+      { "title": "Verified House Listings", "description": "All properties are verified to ensure ownership clarity and authenticity." },
+      { "title": "Transparent Pricing Insights", "description": "Pricing reflects current market trends without hidden surprises." },
+      { "title": "Local Area Expertise", "description": "In-depth knowledge of Sector 105 and surrounding locations." },
+      { "title": "Easy-to-Use Platform", "description": "Simple and user-friendly property search experience." },
+      { "title": "Buyer-Focused Listings", "description": "Recommendations aligned with buyer needs and budgets." },
+      { "title": "Documentation Guidance", "description": "Support for understanding essential legal documentation." },
+      { "title": "End-to-End Support", "description": "Assistance available from property search to final purchase." },
+      { "title": "Trusted Property Platform", "description": "Strong reputation built on transparency and customer satisfaction." }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses in Sector 105 Gurugram",
+    "description": "Common buyer questions related to house for sale in Sector 105 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 105 Gurugram a good place to buy a house?",
+        "answer": "Yes, Sector 105 is a developing residential area with good connectivity and strong future growth potential."
+      },
+      {
+        "question": "What plot sizes are available in Sector 105?",
+        "answer": "Independent houses are available in plot sizes ranging from 4 Marla to 14 Marla."
+      },
+      {
+        "question": "Is Sector 105 suitable for family living?",
+        "answer": "Yes, the area offers a peaceful environment with nearby schools, hospitals, and daily convenience facilities."
+      },
+      {
+        "question": "Are ready-to-move houses available in Sector 105?",
+        "answer": "Yes, buyers can find ready-to-move and newly constructed houses in this sector."
+      },
+      {
+        "question": "Is Sector 105 good for investment purposes?",
+        "answer": "Yes, proximity to Dwarka Expressway makes it a promising area for long-term investment."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 105?",
+        "answer": "Most houses are eligible for home loans, subject to bank approval and documentation."
+      },
+      {
+        "question": "How is connectivity from Sector 105 Gurugram?",
+        "answer": "Sector 105 is well-connected via Dwarka Expressway, NH-48, and nearby arterial roads."
+      },
+      {
+        "question": "Is rental demand good in Sector 105?",
+        "answer": "Yes, rental demand is gradually increasing due to connectivity and nearby commercial areas."
+      },
+      {
+        "question": "Why should I choose Deal Acres for buying a house?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and expert local guidance."
+      },
+      {
+        "question": "How can I contact property experts for Sector 105?",
+        "answer": "You can fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Sale in Sector 105 Gurugram",
+    "description": [
+      "Buying a house for sale in Sector 105 Gurugram is a significant investment, and expert assistance can help you make the right decision.",
+      "Share your details to connect with trusted property experts who will help you find the right home based on your budget, preferences, and long-term goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

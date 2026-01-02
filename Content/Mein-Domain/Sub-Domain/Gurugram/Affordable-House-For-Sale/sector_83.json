@@ -1,0 +1,175 @@
+{
+  "domain": "Affordablehouseforsalecom",
+
+  "hero": {
+    "title": "Affordable Independent Houses for Sale in Sector 83 Gurugram",
+    "description": [
+      "Sector 83 Gurugram is a rapidly developing residential hub in New Gurugram, widely preferred for its modern planning, wide roads, and strong connectivity. Strategically located near NH-48, Dwarka Expressway, and Southern Peripheral Road (SPR), the sector offers smooth access to Cyber City, IMT Manesar, and major commercial zones. Buyers searching for an affordable house for sale in Sector 83 Gurugram are attracted by the well-organized infrastructure, proximity to schools, hospitals, shopping complexes, and green open spaces that support comfortable daily living.",
+      "Affordable houses for sale in Sector 83 Gurugram offer an ideal mix of budget-friendly pricing, independent living, and future growth. With increasing residential demand and ongoing infrastructure upgrades, the sector holds strong appreciation potential. Choosing Sector 83 means investing in a peaceful residential environment today while securing long-term value in one of Gurugram’s most promising locations."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1599423300746-b62533397364?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Size Options Available in Sector 83 Gurugram",
+    "description": [
+      "Selecting the right house size in Sector 83 Gurugram helps buyers balance budget, comfort, and future requirements.",
+      "The sector offers a wide range of affordable independent house options suitable for different family needs."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House for Sale in Sector 83 Gurugram",
+        "description": "A 4 Marla affordable house in Sector 83 Gurugram is ideal for small families and first-time buyers seeking independent living at a practical budget."
+      },
+      {
+        "title": "6 Marla Affordable House for Sale in Sector 83 Gurugram",
+        "description": "6 Marla houses provide comfortable layouts with sufficient space, making them popular among nuclear families."
+      },
+      {
+        "title": "8 Marla Affordable House for Sale in Sector 83 Gurugram",
+        "description": "An 8 Marla affordable house offers better room sizes, parking space, and improved resale potential."
+      },
+      {
+        "title": "10 Marla Affordable House for Sale in Sector 83 Gurugram",
+        "description": "10 Marla houses are suitable for families looking for spacious interiors and long-term residential comfort."
+      },
+      {
+        "title": "12 Marla Affordable House for Sale in Sector 83 Gurugram",
+        "description": "A 12 Marla house delivers enhanced living space, privacy, and suitability for joint families."
+      },
+      {
+        "title": "14 Marla Affordable House for Sale in Sector 83 Gurugram",
+        "description": "14 Marla houses are preferred by buyers seeking large independent homes with strong appreciation prospects."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses Near Sector 83 Gurugram",
+    "description": [
+      "Buyers exploring affordable houses for sale in Sector 83 Gurugram often consider nearby developed sectors.",
+      "These surrounding locations further enhance the residential and investment appeal of Sector 83."
+    ],
+    "locations": [
+      { "title": "Affordable House for Sale in Sector 83 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 82 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 84 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Dwarka Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House in New Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses in West Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Budget Homes in Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Affordable Houses in Sector 83",
+    "description": [
+      "Buying an affordable house for sale in Sector 83 Gurugram requires verified listings and local expertise.",
+      "Deal Acres is trusted by homebuyers for transparent processes and customer-focused property solutions."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All properties are verified for legal approvals, ownership clarity, and authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden costs helps buyers make confident decisions."
+      },
+      {
+        "title": "Strong Local Expertise",
+        "description": "In-depth knowledge of Sector 83 and New Gurugram real estate trends."
+      },
+      {
+        "title": "Wide Range of Choices",
+        "description": "Multiple house sizes and affordable options available under one platform."
+      },
+      {
+        "title": "Complete Legal Support",
+        "description": "Assistance with documentation, agreements, and registry for smooth transactions."
+      },
+      {
+        "title": "Personalized Property Guidance",
+        "description": "Recommendations based on buyer budget, needs, and future plans."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from property search to final possession without hassle."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for reliability, ethical practices, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Sector 83 Gurugram",
+    "description": "Detailed answers to common buyer questions for better decision-making.",
+    "faqs": [
+      {
+        "question": "Is Sector 83 Gurugram a good location to buy an affordable house?",
+        "answer": "Yes, Sector 83 offers modern infrastructure, strong connectivity, and good future growth potential."
+      },
+      {
+        "question": "What house sizes are available in Sector 83 Gurugram?",
+        "answer": "Affordable independent houses are generally available from 4 Marla to 14 Marla."
+      },
+      {
+        "question": "Is Sector 83 suitable for family living?",
+        "answer": "Yes, the sector has schools, hospitals, parks, and shopping facilities nearby."
+      },
+      {
+        "question": "How is connectivity from Sector 83?",
+        "answer": "Sector 83 is well connected to NH-48, Dwarka Expressway, and SPR."
+      },
+      {
+        "question": "Are houses in Sector 83 legally approved?",
+        "answer": "Most properties are approved, and Deal Acres assists with legal verification."
+      },
+      {
+        "question": "Is buying a house in Sector 83 a good investment?",
+        "answer": "Yes, increasing demand and infrastructure development support long-term appreciation."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 83?",
+        "answer": "Yes, leading banks and housing finance companies provide home loans for eligible properties."
+      },
+      {
+        "question": "What amenities are available near Sector 83?",
+        "answer": "Schools, hospitals, malls, parks, and public transport are easily accessible."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and complete buyer support."
+      },
+      {
+        "question": "How can I contact a property expert?",
+        "answer": "You can fill out the contact form on this page to connect with experienced consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Affordable Houses in Sector 83 Gurugram",
+    "description": [
+      "Finding the right affordable house for sale in Sector 83 Gurugram becomes easy with professional guidance.",
+      "Share your details to connect with trusted real estate experts and explore verified property options tailored to your needs."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "domain": "Affordablehouseforsalecom",
+
+  "hero": {
+    "title": "Affordable Independent Houses for Sale in Sector 26 Gurugram",
+    "description": [
+      "Sector 26 Gurugram is a premium and centrally located residential area, well known for its proximity to MG Road, Cyber City, and major commercial hubs. Buyers searching for an affordable house for sale in Sector 26 Gurugram prefer this locality because it offers excellent connectivity, well-developed infrastructure, and a high standard of living. The sector is surrounded by reputed schools, hospitals, shopping malls, metro stations, and daily convenience markets, making it ideal for families and working professionals.",
+      "Affordable houses for sale in Sector 26 Gurugram provide the advantage of independent living in one of the city’s most established neighborhoods. The area has consistently strong demand due to its location and lifestyle benefits, ensuring good resale and rental value. Choosing Sector 26 means investing in a mature residential zone that offers comfort, convenience, and long-term property appreciation."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1599423300746-b62533397364?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Size Options Available in Sector 26 Gurugram",
+    "description": [
+      "Choosing the right house size in Sector 26 Gurugram helps buyers balance budget, space requirements, and long-term lifestyle comfort.",
+      "The locality offers multiple affordable independent house configurations suitable for different family sizes and investment goals."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House for Sale in Sector 26 Gurugram",
+        "description": "A 4 Marla affordable house in Sector 26 Gurugram is ideal for small families and professionals looking for independent living in a prime location with manageable investment and maintenance."
+      },
+      {
+        "title": "6 Marla Affordable House for Sale in Sector 26 Gurugram",
+        "description": "6 Marla houses offer a balanced living experience with comfortable room sizes, making them suitable for nuclear families seeking value and convenience."
+      },
+      {
+        "title": "8 Marla Affordable House for Sale in Sector 26 Gurugram",
+        "description": "An 8 Marla house provides enhanced living space, better parking options, and flexibility for growing families in a well-connected area."
+      },
+      {
+        "title": "10 Marla Affordable House for Sale in Sector 26 Gurugram",
+        "description": "10 Marla houses are preferred by buyers who want spacious interiors, privacy, and long-term residential comfort in a premium sector."
+      },
+      {
+        "title": "12 Marla Affordable House for Sale in Sector 26 Gurugram",
+        "description": "A 12 Marla house delivers generous space, improved ventilation, and strong resale potential due to Sector 26’s central location."
+      },
+      {
+        "title": "14 Marla Affordable House for Sale in Sector 26 Gurugram",
+        "description": "14 Marla houses are ideal for buyers seeking large independent homes with premium living standards and excellent appreciation prospects."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses Near Sector 26 Gurugram",
+    "description": [
+      "Buyers interested in affordable houses for sale in Sector 26 Gurugram often explore nearby prime localities for comparison.",
+      "These surrounding areas further enhance the residential and investment appeal of Sector 26."
+    ],
+    "locations": [
+      { "title": "Affordable House for Sale in Sector 26 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in DLF Phase 1 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 28 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near MG Road Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Cyber City Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House in Central Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses in Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Budget Homes in Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Affordable Houses in Sector 26",
+    "description": [
+      "Buying an affordable house for sale in Sector 26 Gurugram requires verified listings and reliable professional guidance.",
+      "Deal Acres is trusted for its transparent process, strong market knowledge, and customer-first real estate solutions."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All listed properties are verified for ownership authenticity and legal approvals."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing ensures buyers face no hidden costs or surprises."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Deep understanding of Sector 26 Gurugram property trends and values."
+      },
+      {
+        "title": "Wide Property Choices",
+        "description": "Multiple house sizes and budget-friendly options available on one platform."
+      },
+      {
+        "title": "Legal and Registry Support",
+        "description": "Complete assistance with documentation, registry, and compliance."
+      },
+      {
+        "title": "Personalized Property Advice",
+        "description": "Recommendations tailored to buyer budget, family needs, and goals."
+      },
+      {
+        "title": "End-to-End Buying Assistance",
+        "description": "Support from property search to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for reliability, ethics, and long-term customer trust."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Sector 26 Gurugram",
+    "description": "Helpful answers to common buyer questions for confident and informed decision-making.",
+    "faqs": [
+      {
+        "question": "Is Sector 26 Gurugram a good location to buy an affordable house?",
+        "answer": "Yes, Sector 26 is a centrally located and well-developed area with excellent connectivity, making it a strong choice for homebuyers."
+      },
+      {
+        "question": "What house sizes are available in Sector 26 Gurugram?",
+        "answer": "Affordable independent houses are generally available from 4 Marla to 14 Marla, depending on budget and requirement."
+      },
+      {
+        "question": "Is Sector 26 suitable for family living?",
+        "answer": "Yes, the sector offers easy access to schools, hospitals, parks, metro stations, and shopping centers."
+      },
+      {
+        "question": "How is connectivity from Sector 26 Gurugram?",
+        "answer": "Sector 26 is well connected to MG Road, Cyber City, and other major parts of Gurugram."
+      },
+      {
+        "question": "Are houses in Sector 26 legally approved?",
+        "answer": "Most properties are legally approved, and Deal Acres helps with proper legal verification."
+      },
+      {
+        "question": "Is buying a house in Sector 26 a good investment?",
+        "answer": "Yes, strong demand and prime location support long-term appreciation and rental returns."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 26?",
+        "answer": "Yes, leading banks and financial institutions provide home loans for eligible properties."
+      },
+      {
+        "question": "What amenities are available near Sector 26?",
+        "answer": "Metro connectivity, malls, hospitals, schools, offices, and parks are all nearby."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and complete buyer support."
+      },
+      {
+        "question": "How can I contact a property consultant?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property experts."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance to Buy Affordable Houses in Sector 26 Gurugram",
+    "description": [
+      "Finding the right affordable house for sale in Sector 26 Gurugram becomes easy with expert support.",
+      "Share your details to connect with trusted property consultants and explore verified housing options."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Modern Independent Houses for Rent in Sector 88 Gurugram",
+    "description": [
+      "Sector 88 Gurugram is a fast-developing residential locality located close to Dwarka Expressway and Northern Peripheral Road, making it an attractive option for tenants seeking modern infrastructure and smooth connectivity. People looking for a house for rent in Sector 88 Gurugram choose this area for its proximity to NH-48, IMT Manesar, IGI Airport, and major corporate hubs. The locality is surrounded by wide roads, green zones, reputed schools, healthcare facilities, and everyday convenience stores.",
+      "Independent houses in Sector 88 offer spacious layouts, better privacy, and a peaceful living environment compared to high-rise apartments. The area is well-planned with upcoming commercial developments and strong civic infrastructure, making it ideal for long-term rental living. Choosing a house for rent in Sector 88 Gurugram ensures a comfortable lifestyle with excellent connectivity, growing social infrastructure, and a balanced urban environment."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sector 88 Gurugram",
+    "description": [
+      "Choosing the right plot size is a key factor when searching for a house for rent in Sector 88 Gurugram, as it impacts living comfort, space requirements, and monthly rental budget.",
+      "Sector 88 offers multiple independent house options on rent, suitable for small families, joint families, and tenants looking for premium residential living."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 88 Gurugram",
+        "description": "A 4 Marla house for rent in Sector 88 Gurugram is suitable for couples or small families looking for a compact and budget-friendly rental home."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 88 Gurugram",
+        "description": "6 Marla houses provide a comfortable balance of space and affordability, ideal for nuclear families."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 88 Gurugram",
+        "description": "An 8 Marla rental house offers spacious interiors, good ventilation, and practical layouts for family living."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 88 Gurugram",
+        "description": "10 Marla houses are preferred by tenants seeking larger living areas, parking space, and enhanced privacy."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 88 Gurugram",
+        "description": "12 Marla rental houses fall in the premium category, offering open spaces and modern construction."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 88 Gurugram",
+        "description": "A 14 Marla house for rent is ideal for large families or corporate tenants looking for spacious and independent living."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 88 Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in Sector 88 Gurugram often explore nearby localities to compare rental prices, connectivity, and lifestyle advantages.",
+      "This section highlights surrounding residential areas to help users choose the most suitable rental location."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 88 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 89 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 87 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 90 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near Dwarka Expressway", "path": "/", "icon": "Home" },
+      { "title": "House for Rent near NH-48", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 85 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent near IMT Manesar", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sector 88 Rental Houses",
+    "description": [
+      "Finding a genuine house for rent in Sector 88 Gurugram requires verified listings, transparent pricing, and reliable market insights. Deal Acres focuses on trust and accuracy.",
+      "With a tenant-first approach and strong knowledge of Gurugram’s rental market, Deal Acres has become a preferred platform for renting independent houses."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "Each rental property is verified for ownership and availability to ensure tenant safety."
+      },
+      {
+        "title": "Transparent Rental Information",
+        "description": "Clear details about rent, deposits, and rental terms help tenants make informed decisions."
+      },
+      {
+        "title": "Local Area Expertise",
+        "description": "In-depth knowledge of Sector 88 and nearby areas ensures accurate guidance."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "Advanced filters make finding the right rental house quick and convenient."
+      },
+      {
+        "title": "Tenant-Focused Recommendations",
+        "description": "Suggestions are based on tenant budget, family size, and lifestyle needs."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Assistance with rental agreements and paperwork ensures a smooth process."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from property discovery to final move-in."
+      },
+      {
+        "title": "Trusted by Renters",
+        "description": "Deal Acres is known for reliability, transparency, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 88 Gurugram",
+    "description": "Common tenant questions related to house for rent in Sector 88 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 88 Gurugram a good area to rent a house?",
+        "answer": "Yes, Sector 88 is a developing residential area with excellent connectivity and modern infrastructure."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 88?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are available for rent."
+      },
+      {
+        "question": "Is Sector 88 suitable for families?",
+        "answer": "Yes, the locality offers a peaceful environment with nearby schools, hospitals, and markets."
+      },
+      {
+        "question": "Are furnished houses available in Sector 88?",
+        "answer": "Both furnished and semi-furnished houses are available depending on the property."
+      },
+      {
+        "question": "What is the average rent in Sector 88 Gurugram?",
+        "answer": "Rental values depend on plot size, furnishing level, and exact location within the sector."
+      },
+      {
+        "question": "How is connectivity from Sector 88?",
+        "answer": "Sector 88 offers excellent connectivity via Dwarka Expressway, NH-48, and major city roads."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sector 88?",
+        "answer": "Some landlords allow bachelors, while others prefer families."
+      },
+      {
+        "question": "Is Sector 88 safe for tenants?",
+        "answer": "Yes, the area is considered safe with planned roads and residential communities."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres provides verified listings, transparent details, and expert local support."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 88?",
+        "answer": "You can fill out the contact form to connect with experienced rental consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sector 88 Gurugram",
+    "description": [
+      "Finding the right house for rent in Sector 88 Gurugram becomes simple with expert guidance.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that suits your budget, preferences, and lifestyle."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

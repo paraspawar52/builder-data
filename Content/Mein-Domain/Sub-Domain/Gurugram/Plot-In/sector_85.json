@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Residential and Investment Plots in Fast Growing Sector 85 Gurugram",
+    "description": [
+      "Sector 85 Gurugram is an emerging residential destination in New Gurugram, known for its modern planning, wide roads, and strong future growth potential. Buyers searching for a plot in Sector 85 Gurugram are attracted by its excellent connectivity to Dwarka Expressway, NH-48, and proximity to major commercial and industrial hubs like IMT Manesar. The sector is surrounded by well-developed residential societies, upcoming infrastructure projects, schools, hospitals, and shopping destinations, making daily living convenient and comfortable.",
+      "Plots in Sector 85 offer buyers the flexibility to build independent homes or secure land as a long-term investment. With continuous infrastructure development and increasing residential demand, property values in the area show steady appreciation. Choosing a plot in Sector 85 Gurugram means investing in a well-planned neighborhood that combines connectivity, livability, and long-term real estate growth."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 85",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Expert Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Options by Size in Sector 85 Gurugram",
+    "description": [
+      "Selecting the right plot size in Sector 85 Gurugram plays an important role in construction planning, lifestyle comfort, and investment returns.",
+      "Sector 85 offers a wide range of plot sizes suitable for small families, growing households, and premium home buyers."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 85 Gurugram",
+        "description": "A 4 Marla plot in Sector 85 Gurugram is ideal for first-time buyers and budget-focused investors. These plots are suitable for compact independent homes and provide an affordable entry into a developing area with strong future appreciation potential."
+      },
+      {
+        "title": "6 Marla Plot in Sector 85 Gurugram",
+        "description": "6 Marla plots offer a balanced combination of affordability and usable space. Buyers can plan comfortable family homes with parking, proper ventilation, and practical layouts in a planned residential environment."
+      },
+      {
+        "title": "8 Marla Plot in Sector 85 Gurugram",
+        "description": "An 8 Marla plot allows more design flexibility and spacious construction. These plots are preferred by families planning modern homes with larger rooms, balconies, and improved privacy."
+      },
+      {
+        "title": "10 Marla Plot in Sector 85 Gurugram",
+        "description": "10 Marla plots fall under the premium residential category and are suitable for buyers looking to build spacious independent houses with enhanced lifestyle comfort and resale value."
+      },
+      {
+        "title": "12 Marla Plot in Sector 85 Gurugram",
+        "description": "A 12 Marla plot offers ample space for luxury homes and landscaped surroundings. These plots are ideal for joint families or buyers seeking premium living with long-term stability."
+      },
+      {
+        "title": "14 Marla Plot in Sector 85 Gurugram",
+        "description": "14 Marla plots represent premium investment opportunities in Sector 85 Gurugram. These plots attract buyers focused on exclusivity, larger living spaces, and strong capital appreciation."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Plot Options Near Sector 85 Gurugram",
+    "description": [
+      "Buyers interested in a plot in Sector 85 Gurugram often explore nearby sectors to compare prices, infrastructure growth, and connectivity.",
+      "This section highlights surrounding localities to help users make informed and confident property decisions."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 85 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 84 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 83 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 86 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Dwarka Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in New Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near IMT Manesar", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 85 Gurugram",
+    "description": [
+      "Buying a plot in Sector 85 Gurugram requires verified listings, legal transparency, and reliable local expertise.",
+      "Deal Acres has become a preferred platform by offering genuine properties, clear processes, and customer-focused support."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are thoroughly verified for ownership, approvals, and authenticity to ensure buyer safety."
+      },
+      {
+        "title": "Transparent Pricing Policy",
+        "description": "Clear and honest pricing helps buyers plan their investments confidently without hidden costs."
+      },
+      {
+        "title": "Strong Local Market Expertise",
+        "description": "In-depth understanding of Sector 85 Gurugram ensures accurate guidance and fair property valuation."
+      },
+      {
+        "title": "Wide Range of Plot Options",
+        "description": "Multiple plot sizes and budget options are available to suit diverse buyer requirements."
+      },
+      {
+        "title": "Legal and Documentation Support",
+        "description": "Complete assistance with registry, paperwork, and compliance ensures smooth transactions."
+      },
+      {
+        "title": "Personalized Property Matching",
+        "description": "Plots are recommended based on buyer goals, whether residential use or investment."
+      },
+      {
+        "title": "End-to-End Buying Assistance",
+        "description": "Support from initial inquiry to final possession makes the buying journey stress-free."
+      },
+      {
+        "title": "Trusted by Property Buyers",
+        "description": "Deal Acres is known for reliability, transparency, and long-term customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 85 Gurugram",
+    "description": "Common buyer questions related to plot purchase in Sector 85 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 85 Gurugram a good location to buy a plot?",
+        "answer": "Yes, Sector 85 is a fast-developing area in New Gurugram with strong connectivity, modern infrastructure, and high future appreciation potential."
+      },
+      {
+        "question": "What plot sizes are available in Sector 85 Gurugram?",
+        "answer": "Plots ranging from 4 Marla to 14 Marla are available, suitable for different budgets and construction needs."
+      },
+      {
+        "question": "Is Sector 85 suitable for residential construction?",
+        "answer": "Yes, the sector supports independent residential construction and is surrounded by planned residential developments."
+      },
+      {
+        "question": "Is buying a plot in Sector 85 a good investment?",
+        "answer": "Due to its proximity to Dwarka Expressway and IMT Manesar, Sector 85 offers strong long-term investment returns."
+      },
+      {
+        "question": "Are plots in Sector 85 legally approved?",
+        "answer": "Most plots have clear titles, but verification is essential. Deal Acres assists buyers with legal checks."
+      },
+      {
+        "question": "How is connectivity from Sector 85 Gurugram?",
+        "answer": "Sector 85 enjoys excellent connectivity via NH-48, Dwarka Expressway, and major city roads."
+      },
+      {
+        "question": "Can construction start immediately after purchase?",
+        "answer": "Construction depends on local regulations and approvals. Our experts guide buyers throughout the process."
+      },
+      {
+        "question": "What amenities are available near Sector 85?",
+        "answer": "Schools, hospitals, malls, parks, and daily-need facilities are easily accessible."
+      },
+      {
+        "question": "Why should I choose Deal Acres for buying plots?",
+        "answer": "Deal Acres offers verified listings, transparent processes, and end-to-end buyer support."
+      },
+      {
+        "question": "How can I contact experts for plot buying?",
+        "answer": "You can fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Buying Plots in Sector 85 Gurugram",
+    "description": [
+      "Finding the right plot in Sector 85 Gurugram becomes easy with expert guidance.",
+      "Share your details to connect with trusted property professionals who will help you find verified plots matching your budget and long-term goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforsale.com",
+
+  "hero": {
+    "title": "Independent Houses for Sale in Sector 90 Gurugram",
+    "description": [
+      "Sector 90 Gurugram is a rapidly developing residential locality in New Gurugram, strategically located near the Dwarka Expressway and NH-48. Buyers searching for a house for sale in Sector 90 Gurugram are increasingly drawn to this area due to its improving infrastructure, planned road networks, and smooth connectivity to IMT Manesar, Cyber City, and IGI Airport. The sector is surrounded by upcoming commercial hubs, reputed schools, healthcare facilities, and daily convenience markets, making it a practical choice for modern families and professionals.",
+      "Independent houses in Sector 90 Gurugram offer a low-density living environment with better privacy, spacious layouts, and future-ready residential planning. As New Gurugram continues to expand, this sector holds strong potential for property appreciation and rental demand. Whether you are a first-time homebuyer or an investor looking for growth-oriented opportunities, choosing a house for sale in Sector 90 Gurugram ensures affordability today and promising returns tomorrow in one of Gurugram’s fastest-growing corridors."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Sale",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Sale Options by Plot Size in Sector 90 Gurugram",
+    "description": [
+      "Choosing the right plot size is a key factor when planning to buy a house for sale in Sector 90 Gurugram, as it influences comfort, layout design, and overall budget.",
+      "Sector 90 offers a wide range of independent house options to suit different family needs and investment goals."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Sector 90 Gurugram",
+        "description": "A 4 Marla house for sale in Sector 90 Gurugram is ideal for buyers looking for compact and budget-friendly independent homes. These houses are suitable for small families, couples, or first-time buyers who want good connectivity at an affordable price point."
+      },
+      {
+        "title": "6 Marla House for Sale in Sector 90 Gurugram",
+        "description": "A 6 Marla house for sale in Sector 90 Gurugram offers a balanced combination of space and affordability. These homes usually include well-planned interiors, parking facilities, and comfortable room sizes, making them suitable for nuclear families."
+      },
+      {
+        "title": "8 Marla House for Sale in Sector 90 Gurugram",
+        "description": "An 8 Marla house for sale in Sector 90 Gurugram is preferred by families seeking spacious interiors and flexible layouts. These houses provide better ventilation, larger bedrooms, and defined living spaces for long-term comfort."
+      },
+      {
+        "title": "10 Marla House for Sale in Sector 90 Gurugram",
+        "description": "A 10 Marla house for sale in Sector 90 Gurugram falls into the premium residential segment, offering enhanced privacy, wider frontage, and larger built-up areas. These homes are ideal for joint families or buyers who value open spaces."
+      },
+      {
+        "title": "12 Marla House for Sale in Sector 90 Gurugram",
+        "description": "A 12 Marla house for sale in Sector 90 Gurugram provides luxury-level living with premium construction quality, open terraces, and ample parking space. These houses appeal to buyers seeking exclusivity and long-term comfort."
+      },
+      {
+        "title": "14 Marla House for Sale in Sector 90 Gurugram",
+        "description": "A 14 Marla house for sale in Sector 90 Gurugram represents elite independent living with expansive layouts and strong appreciation potential due to limited supply in a growing location."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Sale In and Around Sector 90 Gurugram",
+    "description": [
+      "While exploring a house for sale in Sector 90 Gurugram, buyers often compare nearby sectors to evaluate pricing, connectivity, and future development prospects.",
+      "This section highlights surrounding residential areas to help buyers make informed choices."
+    ],
+    "locations": [
+      { "title": "House for Sale in Sector 90 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 89 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale in Sector 91 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Sector 88 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale near Dwarka Expressway", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 85 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale near NH-48 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale in New Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Deal Acres Is Trusted for Houses in Sector 90 Gurugram",
+    "description": [
+      "Buying a house for sale in Sector 90 Gurugram requires verified listings, transparent pricing, and accurate local insights. Deal Acres focuses on trust, clarity, and customer satisfaction.",
+      "With a buyer-first approach, Deal Acres has become a reliable platform for homebuyers across Gurugram."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All listings are verified for ownership authenticity and legal clarity."
+      },
+      {
+        "title": "Transparent Pricing Insights",
+        "description": "Clear and updated pricing based on real market trends."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth knowledge of Sector 90 helps buyers make confident decisions."
+      },
+      {
+        "title": "User-Friendly Platform",
+        "description": "Simple and intuitive interface for smooth property search."
+      },
+      {
+        "title": "Buyer-Centric Recommendations",
+        "description": "Listings aligned with buyer needs, budget, and future plans."
+      },
+      {
+        "title": "Documentation Guidance",
+        "description": "Basic support provided for legal and documentation processes."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Assistance available throughout the complete buying journey."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Strong reputation built on transparency and consistent service quality."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About House for Sale in Sector 90 Gurugram",
+    "description": "User-friendly answers to common buyer queries.",
+    "faqs": [
+      {
+        "question": "Is Sector 90 Gurugram a good location to buy a house?",
+        "answer": "Yes, Sector 90 is a developing area with improving infrastructure and strong future growth potential."
+      },
+      {
+        "question": "What plot sizes are available in Sector 90 Gurugram?",
+        "answer": "Independent houses are generally available from 4 Marla to 14 Marla."
+      },
+      {
+        "question": "Is Sector 90 suitable for family living?",
+        "answer": "Yes, the area offers a peaceful residential environment with nearby schools and markets."
+      },
+      {
+        "question": "Are ready-to-move houses available in Sector 90?",
+        "answer": "Yes, buyers can find ready-to-move and resale houses based on current listings."
+      },
+      {
+        "question": "Is Sector 90 good for rental income?",
+        "answer": "Yes, proximity to Dwarka Expressway and employment hubs supports rental demand."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 90?",
+        "answer": "Most houses are eligible for home loans, subject to bank policies and documentation."
+      },
+      {
+        "question": "How is connectivity from Sector 90 Gurugram?",
+        "answer": "Sector 90 is well-connected via Dwarka Expressway and NH-48."
+      },
+      {
+        "question": "Is Sector 90 good for long-term investment?",
+        "answer": "Yes, ongoing development supports steady long-term appreciation."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, and expert guidance."
+      },
+      {
+        "question": "How can I contact property experts for Sector 90?",
+        "answer": "You can fill out the contact form on this page to connect with experienced consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Sale in Sector 90 Gurugram",
+    "description": [
+      "Buying a house for sale in Sector 90 Gurugram is a major financial decision, and expert guidance can simplify the process.",
+      "Share your details to connect with trusted property professionals who will help you find the right home based on your budget, preferences, and long-term plans."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

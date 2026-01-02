@@ -1,0 +1,175 @@
+{
+  "domain": "Affordablehouseforsalecom",
+
+  "hero": {
+    "title": "Affordable Independent Houses for Sale in DLF Phase 1 Gurugram",
+    "description": [
+      "DLF Phase 1 Gurugram is one of the most premium and well-established residential localities in the city, known for its prime location, excellent infrastructure, and elite neighborhood. Buyers looking for an affordable house for sale in DLF Phase 1 Gurugram are attracted by its proximity to Golf Course Road, MG Road, Cyber City, and major business hubs. The area offers seamless connectivity to Delhi via NH-48 and rapid metro stations, making daily commuting convenient for professionals and families.",
+      "Affordable houses for sale in DLF Phase 1 Gurugram provide a rare opportunity to own an independent home in a high-demand and centrally located area. The locality is surrounded by top schools, hospitals, malls, restaurants, and green parks, ensuring a high-quality lifestyle. Investing in DLF Phase 1 is not just about comfortable living but also about securing long-term appreciation and strong resale value in one of Gurugram’s most trusted residential addresses."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1599423300746-b62533397364?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Size Options in DLF Phase 1 Gurugram",
+    "description": [
+      "Selecting the right house size in DLF Phase 1 Gurugram depends on family needs, budget planning, and future requirements.",
+      "The locality offers multiple independent house configurations suitable for different lifestyle preferences."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House for Sale in DLF Phase 1 Gurugram",
+        "description": "A 4 Marla affordable house in DLF Phase 1 Gurugram is suitable for small families seeking independent living in a prime location at a comparatively lower budget."
+      },
+      {
+        "title": "6 Marla Affordable House for Sale in DLF Phase 1 Gurugram",
+        "description": "6 Marla houses offer better space planning and are ideal for nuclear families wanting comfort and convenience."
+      },
+      {
+        "title": "8 Marla Affordable House for Sale in DLF Phase 1 Gurugram",
+        "description": "An 8 Marla house provides spacious interiors, parking facilities, and flexibility for modern home designs."
+      },
+      {
+        "title": "10 Marla Affordable House for Sale in DLF Phase 1 Gurugram",
+        "description": "10 Marla houses are perfect for families looking for premium living space with strong long-term value."
+      },
+      {
+        "title": "12 Marla Affordable House for Sale in DLF Phase 1 Gurugram",
+        "description": "A 12 Marla house offers expansive living areas and is preferred by buyers seeking luxury within an established locality."
+      },
+      {
+        "title": "14 Marla Affordable House for Sale in DLF Phase 1 Gurugram",
+        "description": "14 Marla houses cater to buyers looking for large independent homes with excellent resale and rental demand."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses Near DLF Phase 1 Gurugram",
+    "description": [
+      "Buyers interested in affordable houses for sale in DLF Phase 1 Gurugram often explore nearby premium sectors.",
+      "These surrounding localities add more options in terms of pricing, layout, and lifestyle benefits."
+    ],
+    "locations": [
+      { "title": "Affordable House for Sale in DLF Phase 1 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in DLF Phase 2 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in DLF Phase 3 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Golf Course Road", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near MG Road Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House in Sector 26 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses in Central Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Budget Independent Homes in Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Deal Acres Is Trusted for Affordable Houses in DLF Phase 1",
+    "description": [
+      "Buying an affordable house for sale in DLF Phase 1 Gurugram requires expert guidance, verified listings, and transparent processes.",
+      "Deal Acres has earned buyer trust by delivering reliable and customer-centric real estate solutions."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All houses are thoroughly verified for ownership clarity and legal approvals."
+      },
+      {
+        "title": "Transparent Pricing Structure",
+        "description": "No hidden costs, ensuring buyers make informed decisions."
+      },
+      {
+        "title": "Strong Local Market Knowledge",
+        "description": "Deep understanding of DLF Phase 1 pricing trends and demand."
+      },
+      {
+        "title": "Wide Range of Options",
+        "description": "Multiple house sizes and configurations available."
+      },
+      {
+        "title": "Complete Legal Assistance",
+        "description": "Support with documentation, registry, and compliance."
+      },
+      {
+        "title": "Personalized Property Guidance",
+        "description": "Recommendations tailored to budget and lifestyle needs."
+      },
+      {
+        "title": "End-to-End Buying Support",
+        "description": "Assistance from property search to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Brand",
+        "description": "Deal Acres is known for ethical practices and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in DLF Phase 1 Gurugram",
+    "description": "Clear and detailed answers to help buyers make confident property decisions.",
+    "faqs": [
+      {
+        "question": "Is DLF Phase 1 Gurugram a good place to buy an affordable house?",
+        "answer": "Yes, DLF Phase 1 offers prime location benefits, excellent infrastructure, and strong long-term appreciation."
+      },
+      {
+        "question": "What house sizes are available in DLF Phase 1 Gurugram?",
+        "answer": "Independent houses are generally available from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Is DLF Phase 1 suitable for family living?",
+        "answer": "Yes, it offers a safe, green, and well-developed environment with top-class amenities."
+      },
+      {
+        "question": "Are properties in DLF Phase 1 legally approved?",
+        "answer": "Most properties are approved, and Deal Acres assists with full legal verification."
+      },
+      {
+        "question": "How is connectivity from DLF Phase 1?",
+        "answer": "The area enjoys excellent connectivity via Golf Course Road, MG Road, NH-48, and Rapid Metro."
+      },
+      {
+        "question": "Is buying a house in DLF Phase 1 a good investment?",
+        "answer": "Yes, due to limited supply and high demand, the area offers strong resale and rental value."
+      },
+      {
+        "question": "Can I get a home loan for houses in DLF Phase 1?",
+        "answer": "Yes, leading banks and financial institutions offer home loans for eligible properties."
+      },
+      {
+        "question": "What amenities are nearby?",
+        "answer": "The area has schools, hospitals, malls, offices, parks, and restaurants nearby."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, and end-to-end buyer support."
+      },
+      {
+        "question": "How can I contact experts for DLF Phase 1 properties?",
+        "answer": "Fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Affordable Houses in DLF Phase 1 Gurugram",
+    "description": [
+      "Finding the right affordable house for sale in DLF Phase 1 Gurugram becomes simple with expert assistance.",
+      "Submit your details to connect with trusted real estate professionals and explore verified housing options confidently."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

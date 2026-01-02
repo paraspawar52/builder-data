@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Premium Residential and Investment Plots in Palam Vihar Gurugram",
+    "description": [
+      "Palam Vihar Gurugram is one of the most established and well-planned residential townships, known for its wide roads, green surroundings, and excellent civic infrastructure. Buyers searching for a plot in Palam Vihar Gurugram prefer this location due to its close proximity to the Delhi border, Dwarka Expressway, NH-48, and Indira Gandhi International Airport. The area is well-equipped with reputed schools, hospitals, shopping complexes, local markets, parks, and daily convenience facilities, making it a preferred choice for families and professionals.",
+      "Plots in Palam Vihar hold strong long-term value because of limited availability and consistent demand. Whether you are planning to build a spacious independent home or looking for a secure land investment, this locality offers reliability and appreciation. Choosing a plot in Palam Vihar Gurugram means investing in a mature residential neighborhood that delivers connectivity, comfort, and long-term real estate stability."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Palam Vihar",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Options by Size in Palam Vihar Gurugram",
+    "description": [
+      "Choosing the right plot size in Palam Vihar Gurugram is important for home design, lifestyle comfort, and future resale value.",
+      "Palam Vihar offers a wide range of residential plot sizes suitable for compact homes, spacious villas, and premium independent houses."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Palam Vihar Gurugram",
+        "description": "A 4 Marla plot in Palam Vihar Gurugram is ideal for buyers seeking compact yet comfortable residential options. These plots are suitable for modern homes with efficient layouts and easy maintenance."
+      },
+      {
+        "title": "6 Marla Plot in Palam Vihar Gurugram",
+        "description": "6 Marla plots offer a balanced mix of space and affordability. Buyers can build comfortable family homes with parking and proper ventilation."
+      },
+      {
+        "title": "8 Marla Plot in Palam Vihar Gurugram",
+        "description": "An 8 Marla plot provides flexibility for spacious home construction. These plots are preferred by families planning contemporary homes with better privacy."
+      },
+      {
+        "title": "10 Marla Plot in Palam Vihar Gurugram",
+        "description": "10 Marla plots fall into the premium category and are ideal for large independent houses with strong resale and rental potential."
+      },
+      {
+        "title": "12 Marla Plot in Palam Vihar Gurugram",
+        "description": "A 12 Marla plot offers ample space for luxury residences and landscaped surroundings, suitable for joint families."
+      },
+      {
+        "title": "14 Marla Plot in Palam Vihar Gurugram",
+        "description": "14 Marla plots represent premium investment opportunities in Palam Vihar Gurugram, attracting buyers focused on exclusivity and long-term appreciation."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Plot Options Near Palam Vihar Gurugram",
+    "description": [
+      "Buyers interested in a plot in Palam Vihar Gurugram often explore nearby localities to compare pricing, connectivity, and development potential.",
+      "This section highlights surrounding areas to help users make informed and confident property decisions."
+    ],
+    "locations": [
+      { "title": "Plot in Palam Vihar Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 23 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 22 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Dwarka Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Delhi Border", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near IGI Airport", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in New Palam Vihar", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Old Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Palam Vihar",
+    "description": [
+      "Buying a plot in Palam Vihar Gurugram requires verified listings, legal clarity, and local market expertise.",
+      "Deal Acres has become a trusted name by offering transparency, genuine properties, and customer-focused services."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "Every plot is verified for ownership, approvals, and legal authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden charges builds buyer confidence."
+      },
+      {
+        "title": "Strong Local Expertise",
+        "description": "Deep understanding of Palam Vihar Gurugram ensures accurate guidance."
+      },
+      {
+        "title": "Access to Genuine Properties",
+        "description": "Only trusted and verified residential plots are listed."
+      },
+      {
+        "title": "Legal and Registry Support",
+        "description": "Complete assistance with documentation, registry, and compliance."
+      },
+      {
+        "title": "Personalized Property Matching",
+        "description": "Plot recommendations based on budget, lifestyle, and investment goals."
+      },
+      {
+        "title": "End-to-End Buying Assistance",
+        "description": "Support from initial inquiry to final possession."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Deal Acres is known for reliability, transparency, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Palam Vihar Gurugram",
+    "description": "Common buyer queries related to plot purchase in Palam Vihar Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Palam Vihar Gurugram a good area to buy a plot?",
+        "answer": "Yes, Palam Vihar is a well-established residential township with excellent connectivity and strong appreciation potential."
+      },
+      {
+        "question": "What plot sizes are available in Palam Vihar Gurugram?",
+        "answer": "Plots ranging from 4 Marla to 14 Marla are available, depending on inventory."
+      },
+      {
+        "question": "Is Palam Vihar suitable for family living?",
+        "answer": "Yes, the area is family-friendly with schools, hospitals, parks, and markets nearby."
+      },
+      {
+        "question": "Is buying a plot in Palam Vihar a good investment?",
+        "answer": "Due to limited supply and proximity to Delhi and the airport, Palam Vihar offers steady long-term returns."
+      },
+      {
+        "question": "Are plots in Palam Vihar legally approved?",
+        "answer": "Most plots have clear titles, but proper verification is essential. Deal Acres assists with due diligence."
+      },
+      {
+        "question": "How is connectivity from Palam Vihar Gurugram?",
+        "answer": "Palam Vihar enjoys excellent connectivity via Dwarka Expressway, NH-48, and major city roads."
+      },
+      {
+        "question": "Can construction start immediately after buying a plot?",
+        "answer": "Construction depends on local building norms and approvals. Expert guidance is provided."
+      },
+      {
+        "question": "What amenities are available near Palam Vihar?",
+        "answer": "Reputed schools, hospitals, shopping complexes, parks, and daily-need facilities are nearby."
+      },
+      {
+        "question": "Why should I choose Deal Acres for buying plots?",
+        "answer": "Deal Acres offers verified listings, transparent processes, and complete buyer support."
+      },
+      {
+        "question": "How can I contact plot buying experts?",
+        "answer": "You can fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Buying Plots in Palam Vihar Gurugram",
+    "description": [
+      "Finding the right plot in Palam Vihar Gurugram becomes easy with expert assistance.",
+      "Share your details to connect with trusted property professionals who will help you find verified plots matching your budget and long-term goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Modern Independent Houses for Rent in Sector 92 Gurugram",
+    "description": [
+      "Sector 92 Gurugram is a fast-growing residential locality in New Gurugram, designed to offer a balanced lifestyle with modern infrastructure and smooth connectivity. Tenants searching for a house for rent in Sector 92 Gurugram are drawn to this area because of its planned roads, green surroundings, and easy access to Dwarka Expressway, NH-48, and major commercial zones. The sector is close to schools, hospitals, shopping complexes, and daily-need markets, making everyday life convenient and stress-free.",
+      "Independent houses in Sector 92 provide the comfort of privacy, spacious layouts, and peaceful living, which many tenants prefer over high-rise apartments. Whether you are a working professional, a growing family, or a corporate tenant, renting a house in this sector offers flexibility and long-term comfort. Choosing a house for rent in Sector 92 Gurugram means living in a well-planned area that combines affordability, connectivity, and a promising residential environment."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sector 92 Gurugram",
+    "description": [
+      "When looking for a house for rent in Sector 92 Gurugram, plot size plays a key role in deciding comfort, space requirements, and rental budget.",
+      "Sector 92 offers multiple independent house options across different plot sizes, making it easier for tenants to choose a home that suits their lifestyle and family needs."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 92 Gurugram",
+        "description": "A 4 Marla house for rent in Sector 92 Gurugram is suitable for small families, couples, or professionals looking for an affordable and low-maintenance rental home."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 92 Gurugram",
+        "description": "6 Marla rental houses offer a practical balance of space and rent, making them ideal for families who want comfort without stretching their budget."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 92 Gurugram",
+        "description": "An 8 Marla house provides spacious rooms, better ventilation, and comfortable living, suitable for long-term family rentals."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 92 Gurugram",
+        "description": "10 Marla houses are preferred by tenants seeking premium living with larger layouts, parking space, and added privacy."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 92 Gurugram",
+        "description": "12 Marla rental houses fall in the premium segment, offering open spaces, modern construction, and enhanced lifestyle comfort."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 92 Gurugram",
+        "description": "A 14 Marla house for rent is ideal for large families or corporate tenants who value luxury, space, and peaceful surroundings."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 92 Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in Sector 92 Gurugram often compare nearby sectors to find the best rental value and connectivity.",
+      "This section helps users explore surrounding residential localities and choose a rental home that fits their needs."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 92 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 91 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 93 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 90 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near Dwarka Expressway", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in New Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 95 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent near NH-48", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sector 92 Rental Houses",
+    "description": [
+      "Finding a reliable house for rent in Sector 92 Gurugram requires verified listings, honest information, and local market expertise. Deal Acres focuses on trust and transparency.",
+      "With a tenant-first approach and deep knowledge of Gurugram’s rental market, Deal Acres has become a preferred platform for renting independent houses."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "Each rental house is verified for ownership, authenticity, and availability to ensure a safe experience."
+      },
+      {
+        "title": "Transparent Rental Information",
+        "description": "Clear details on rent, deposits, and terms help tenants make informed decisions."
+      },
+      {
+        "title": "Strong Local Expertise",
+        "description": "In-depth understanding of Sector 92 and nearby areas ensures accurate rental guidance."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "User-friendly tools make it simple to find suitable houses for rent quickly."
+      },
+      {
+        "title": "Tenant-Centric Approach",
+        "description": "Property recommendations are based on tenant budget, preferences, and lifestyle."
+      },
+      {
+        "title": "Documentation Assistance",
+        "description": "Support with rental agreements and basic documentation for a smooth process."
+      },
+      {
+        "title": "End-to-End Rental Support",
+        "description": "Assistance from property search to final move-in for a hassle-free journey."
+      },
+      {
+        "title": "Trusted by Renters",
+        "description": "Deal Acres is trusted for transparency, reliability, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 92 Gurugram",
+    "description": "Common tenant questions related to house for rent in Sector 92 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 92 Gurugram a good area to rent a house?",
+        "answer": "Yes, Sector 92 is a planned and developing locality with good connectivity, modern infrastructure, and essential amenities, making it suitable for tenants."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 92?",
+        "answer": "Independent houses from 4 Marla to 14 Marla are available, catering to different family sizes and budgets."
+      },
+      {
+        "question": "Is Sector 92 suitable for families?",
+        "answer": "Yes, the sector has nearby schools, hospitals, parks, and shopping areas, making it family-friendly."
+      },
+      {
+        "question": "Are furnished houses available for rent in Sector 92?",
+        "answer": "Both furnished and semi-furnished houses are available, depending on the property and landlord."
+      },
+      {
+        "question": "What is the average rent in Sector 92 Gurugram?",
+        "answer": "Rent varies based on plot size, location, and furnishings, but Sector 92 offers competitive rental options."
+      },
+      {
+        "question": "How is connectivity from Sector 92?",
+        "answer": "Sector 92 is well-connected via Dwarka Expressway, NH-48, and internal city roads."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sector 92?",
+        "answer": "Some landlords allow bachelors, while others prefer families. It depends on owner policies."
+      },
+      {
+        "question": "Is Sector 92 safe for tenants?",
+        "answer": "Yes, the area is considered safe with gated communities, security services, and active residential living."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent information, and expert local support for tenants."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 92?",
+        "answer": "You can fill out the contact form to connect with experienced rental property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sector 92 Gurugram",
+    "description": [
+      "Finding the right house for rent in Sector 92 Gurugram becomes simple with expert assistance.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that matches your budget, preferences, and lifestyle."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

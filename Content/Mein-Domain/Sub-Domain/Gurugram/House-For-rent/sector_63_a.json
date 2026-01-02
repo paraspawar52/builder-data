@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Modern Independent Houses for Rent in Sector 63A Gurugram",
+    "description": [
+      "Sector 63A Gurugram is an emerging residential locality located near Golf Course Extension Road, known for its modern infrastructure and growing residential demand. People looking for a house for rent in Sector 63A Gurugram prefer this area due to its smooth connectivity to major IT hubs, Sohna Road, and central Gurugram. The sector offers a peaceful environment while still being close to schools, hospitals, shopping complexes, and daily convenience stores, making it suitable for families and working professionals.",
+      "Independent houses in Sector 63A provide spacious layouts, better ventilation, and privacy compared to crowded apartment societies. The locality is ideal for tenants seeking long-term rental options with a balanced lifestyle. Choosing a house for rent in Sector 63A Gurugram ensures comfortable living, modern surroundings, and access to fast-developing infrastructure in one of Gurugram’s promising residential zones."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sector 63A Gurugram",
+    "description": [
+      "Choosing the right plot size is an important decision when selecting a house for rent in Sector 63A Gurugram, as it directly impacts comfort, privacy, and rental budget.",
+      "Sector 63A offers a variety of independent houses on rent, suitable for small families, joint families, and tenants looking for spacious living."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 63A Gurugram",
+        "description": "A 4 Marla house for rent in Sector 63A Gurugram is ideal for couples or small families seeking an affordable and easy-to-maintain rental home."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 63A Gurugram",
+        "description": "6 Marla houses offer a good balance of space and budget, making them suitable for families looking for comfortable living."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 63A Gurugram",
+        "description": "An 8 Marla rental house provides spacious interiors, good ventilation, and practical layouts for long-term family living."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 63A Gurugram",
+        "description": "10 Marla houses are preferred by tenants who want larger living spaces, parking facilities, and better privacy."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 63A Gurugram",
+        "description": "12 Marla rental houses fall into the premium category, offering open areas, modern construction, and enhanced comfort."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 63A Gurugram",
+        "description": "A 14 Marla house for rent is suitable for large families or corporate tenants seeking luxury, space, and a peaceful environment."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 63A Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in Sector 63A Gurugram often explore nearby localities to compare rental values, connectivity, and lifestyle benefits.",
+      "This section helps users discover surrounding residential areas and make informed rental decisions."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 63A Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 63 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 62 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 65 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near Golf Course Extension Road", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 66 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent near Sohna Road", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 67 Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sector 63A Rental Houses",
+    "description": [
+      "Finding a genuine house for rent in Sector 63A Gurugram requires verified listings, transparent rental details, and strong local market understanding. Deal Acres focuses on trust and accuracy.",
+      "With a tenant-first approach and deep knowledge of Gurugram’s rental market, Deal Acres has become a preferred choice for renting independent houses."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "All properties are verified for ownership, authenticity, and availability to ensure tenant confidence."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear rent, security deposit, and agreement details help tenants make informed decisions."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 63A and nearby areas ensures accurate rental guidance."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "User-friendly tools make finding the right house for rent quick and simple."
+      },
+      {
+        "title": "Tenant-Centric Recommendations",
+        "description": "Property suggestions are tailored to tenant budget, family size, and lifestyle needs."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Assistance with rental agreements and paperwork ensures a smooth process."
+      },
+      {
+        "title": "End-to-End Rental Assistance",
+        "description": "Support from property search to final move-in for a hassle-free experience."
+      },
+      {
+        "title": "Trusted by Renters",
+        "description": "Deal Acres is trusted for transparency, reliability, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 63A Gurugram",
+    "description": "Common tenant questions related to house for rent in Sector 63A Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 63A Gurugram a good area to rent a house?",
+        "answer": "Yes, Sector 63A is a developing locality with good connectivity, modern infrastructure, and a peaceful residential environment."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 63A?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are available to suit different family sizes and budgets."
+      },
+      {
+        "question": "Is Sector 63A suitable for family living?",
+        "answer": "Yes, the area offers a calm environment with access to schools, hospitals, and daily convenience facilities."
+      },
+      {
+        "question": "Are furnished houses available for rent in Sector 63A?",
+        "answer": "Furnished and semi-furnished houses are available depending on the property and landlord preferences."
+      },
+      {
+        "question": "What is the average rent in Sector 63A Gurugram?",
+        "answer": "Rental values depend on plot size, furnishings, and exact location, offering mid-range to premium options."
+      },
+      {
+        "question": "How is connectivity from Sector 63A?",
+        "answer": "Sector 63A is well-connected via Golf Course Extension Road and major city routes."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sector 63A?",
+        "answer": "Some landlords allow bachelors, while others prefer families. This depends on individual owner policies."
+      },
+      {
+        "question": "Is Sector 63A safe for tenants?",
+        "answer": "Yes, the locality is considered safe with growing residential communities and improving infrastructure."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres provides verified listings, transparent details, and expert local rental assistance."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 63A?",
+        "answer": "You can fill out the contact form to connect with experienced rental property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sector 63A Gurugram",
+    "description": [
+      "Finding the right house for rent in Sector 63A Gurugram becomes easy and stress-free with expert assistance.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that matches your budget, preferences, and lifestyle needs."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

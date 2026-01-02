@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforsale.com",
+
+  "hero": {
+    "title": "Well Connected Independent Houses for Sale in Sector 31 Gurugram",
+    "description": [
+      "Sector 31 Gurugram is a centrally located and well-established residential area, making it a preferred choice for families and professionals. Buyers looking for a house for sale in Sector 31 Gurugram benefit from its excellent connectivity to NH-48, MG Road, and major commercial hubs like Udyog Vihar and Cyber City. The locality is surrounded by reputed schools, hospitals, local markets, and parks, ensuring a comfortable and convenient lifestyle. Its balanced mix of residential calm and urban accessibility makes Sector 31 a practical choice for long-term living.",
+      "Independent houses in Sector 31 Gurugram offer spacious layouts, privacy, and a peaceful neighborhood atmosphere. The sector has wide roads, mature infrastructure, and a strong community feel that appeals to end-users. With consistent demand, stable rental returns, and limited availability of independent homes, investing in a house for sale in Sector 31 Gurugram is a reliable option for both self-use and long-term property appreciation."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Sale",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Sale Options by Plot Size in Sector 31 Gurugram",
+    "description": [
+      "Selecting the right plot size is an important step when planning to buy a house for sale in Sector 31 Gurugram, as it defines comfort, layout flexibility, and overall budget.",
+      "Sector 31 offers independent houses across multiple plot sizes to suit varied lifestyle and family requirements."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Sector 31 Gurugram",
+        "description": "A 4 Marla house for sale in Sector 31 Gurugram is suitable for small families or buyers seeking an affordable independent home in a central location with essential amenities nearby."
+      },
+      {
+        "title": "6 Marla House for Sale in Sector 31 Gurugram",
+        "description": "A 6 Marla house for sale in Sector 31 Gurugram offers a comfortable balance of space and affordability, making it ideal for nuclear families."
+      },
+      {
+        "title": "8 Marla House for Sale in Sector 31 Gurugram",
+        "description": "An 8 Marla house for sale in Sector 31 Gurugram provides spacious interiors, better ventilation, and flexibility for future modifications."
+      },
+      {
+        "title": "10 Marla House for Sale in Sector 31 Gurugram",
+        "description": "A 10 Marla house for sale in Sector 31 Gurugram falls in the premium category, offering enhanced privacy and strong resale potential."
+      },
+      {
+        "title": "12 Marla House for Sale in Sector 31 Gurugram",
+        "description": "A 12 Marla house for sale in Sector 31 Gurugram delivers luxury living with spacious layouts, parking space, and quality construction."
+      },
+      {
+        "title": "14 Marla House for Sale in Sector 31 Gurugram",
+        "description": "A 14 Marla house for sale in Sector 31 Gurugram represents elite residential living with expansive spaces and long-term value."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Sale Near Sector 31 Gurugram",
+    "description": [
+      "Homebuyers exploring a house for sale in Sector 31 Gurugram often compare nearby sectors to evaluate connectivity, pricing, and lifestyle advantages.",
+      "This section highlights surrounding residential areas to help buyers make informed decisions."
+    ],
+    "locations": [
+      { "title": "House for Sale in Sector 31 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 30 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale in Sector 32 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Sector 29 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale near NH-48", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 40 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale near MG Road", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale near HUDA City Centre", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Sector 31 Houses",
+    "description": [
+      "Buying a house for sale in Sector 31 Gurugram requires verified information, transparent pricing, and reliable local insights. Deal Acres focuses on delivering trust at every step.",
+      "With a buyer-first approach and deep knowledge of Gurugram’s residential market, Deal Acres has become a preferred platform for homebuyers."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "Each listing is verified to ensure authenticity and clear ownership."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Accurate pricing based on real market trends."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 31 and surrounding areas."
+      },
+      {
+        "title": "User-Friendly Platform",
+        "description": "Easy navigation for quick and smooth property search."
+      },
+      {
+        "title": "Buyer-Centric Listings",
+        "description": "Properties aligned with buyer needs and budgets."
+      },
+      {
+        "title": "Documentation Guidance",
+        "description": "Basic support for legal and ownership documentation."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support throughout the property buying journey."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Reputation built on transparency and service quality."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About House for Sale in Sector 31 Gurugram",
+    "description": "Answers to common buyer queries for better decision-making.",
+    "faqs": [
+      {
+        "question": "Is Sector 31 Gurugram a good location to buy a house?",
+        "answer": "Yes, Sector 31 is centrally located with strong connectivity and established infrastructure."
+      },
+      {
+        "question": "What plot sizes are available in Sector 31 Gurugram?",
+        "answer": "Independent houses are generally available from 4 Marla to 14 Marla."
+      },
+      {
+        "question": "Is Sector 31 suitable for family living?",
+        "answer": "Yes, the sector offers a peaceful environment with schools, hospitals, and parks nearby."
+      },
+      {
+        "question": "Are ready-to-move houses available in Sector 31?",
+        "answer": "Yes, both ready-to-move and resale houses are available depending on listings."
+      },
+      {
+        "question": "Is Sector 31 good for long-term investment?",
+        "answer": "Yes, limited supply and steady demand support long-term appreciation."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 31?",
+        "answer": "Most houses are eligible for home loans, subject to bank policies."
+      },
+      {
+        "question": "How is connectivity from Sector 31 Gurugram?",
+        "answer": "Sector 31 is well-connected via NH-48, MG Road, and HUDA City Centre."
+      },
+      {
+        "question": "Is Sector 31 good for rental income?",
+        "answer": "Yes, central location and nearby offices attract stable tenants."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, and expert local guidance."
+      },
+      {
+        "question": "How can I contact property experts for Sector 31?",
+        "answer": "Fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Sale in Sector 31 Gurugram",
+    "description": [
+      "Buying a house for sale in Sector 31 Gurugram is a significant decision, and professional guidance can make the process smoother.",
+      "Share your details to connect with trusted property experts who will help you find the right home based on your budget, preferences, and future plans."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

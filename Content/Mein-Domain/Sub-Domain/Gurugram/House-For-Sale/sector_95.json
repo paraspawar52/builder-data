@@ -1,0 +1,151 @@
+{
+  "domain": "Houseforsale.com",
+
+  "hero": {
+    "title": "Modern Independent Houses for Sale in Sector 95 Gurugram",
+    "description": [
+      "Sector 95 Gurugram is an emerging residential destination in New Gurugram, known for its planned infrastructure, wide roads, and improving connectivity. Buyers searching for a house for sale in Sector 95 Gurugram are attracted by its proximity to Dwarka Expressway, NH-48, and upcoming commercial hubs. The area offers a balanced environment with open spaces, greenery, and organized residential development, making it suitable for families and working professionals.",
+      "Independent houses in Sector 95 provide privacy, spacious layouts, and the flexibility to customize living spaces according to personal needs. The locality has easy access to schools, hospitals, shopping centers, and daily convenience markets. Investing in a house for sale in Sector 95 Gurugram is a smart choice for buyers looking for affordable entry prices, future infrastructure growth, and strong long-term appreciation potential."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Sale",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Sale Options by Plot Size in Sector 95 Gurugram",
+    "description": [
+      "Selecting the right plot size is an important decision when planning to buy a house for sale in Sector 95 Gurugram, as it impacts comfort, budget, and future requirements.",
+      "Sector 95 offers a variety of independent house options ranging from compact homes to larger premium residences, suitable for different buyer preferences."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Sector 95 Gurugram",
+        "description": "A 4 Marla house for sale in Sector 95 Gurugram is ideal for buyers looking for an affordable independent home with low maintenance and good rental prospects."
+      },
+      {
+        "title": "6 Marla House for Sale in Sector 95 Gurugram",
+        "description": "6 Marla houses provide a practical balance of space and cost, making them suitable for small to mid-sized families."
+      },
+      {
+        "title": "8 Marla House for Sale in Sector 95 Gurugram",
+        "description": "An 8 Marla house offers spacious rooms, better ventilation, and flexibility in interior planning for long-term living."
+      },
+      {
+        "title": "10 Marla House for Sale in Sector 95 Gurugram",
+        "description": "10 Marla houses are preferred by buyers seeking premium comfort, privacy, and stronger resale value."
+      },
+      {
+        "title": "12 Marla House for Sale in Sector 95 Gurugram",
+        "description": "12 Marla houses fall into the luxury segment, offering modern architecture, open spaces, and enhanced lifestyle appeal."
+      },
+      {
+        "title": "14 Marla House for Sale in Sector 95 Gurugram",
+        "description": "A 14 Marla house represents spacious and exclusive living with high appreciation potential in the future."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Sale Near Sector 95 Gurugram",
+    "description": [
+      "Buyers interested in a house for sale in Sector 95 Gurugram often explore nearby sectors to compare pricing, connectivity, and development potential.",
+      "This section helps users discover surrounding residential locations for better property decision-making."
+    ],
+    "locations": [
+      { "title": "House for Sale in Sector 95 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 94 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale in Sector 93 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Sector 92 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale near Dwarka Expressway", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in New Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Sector 96 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale near NH-48 Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Sector 95 Houses",
+    "description": [
+      "Buying a house for sale in Sector 95 Gurugram requires accurate listings, transparent pricing, and dependable guidance. Deal Acres focuses on providing verified property information and a smooth buying experience.",
+      "With strong local market understanding and a customer-first approach, Deal Acres has become a trusted platform for house buyers in Gurugram."
+    ],
+    "points": [
+      { "title": "Verified Property Listings", "description": "All listings are checked for authenticity and ownership clarity." },
+      { "title": "Transparent Pricing", "description": "Market-aligned pricing insights without hidden charges." },
+      { "title": "Local Area Expertise", "description": "Deep understanding of Sector 95 and nearby sectors." },
+      { "title": "Easy Property Search", "description": "User-friendly platform for quick and simple browsing." },
+      { "title": "Buyer-Focused Guidance", "description": "Recommendations based on buyer needs and budget." },
+      { "title": "Documentation Support", "description": "Basic assistance with legal and ownership documentation." },
+      { "title": "End-to-End Assistance", "description": "Support from property shortlisting to final deal." },
+      { "title": "Trusted by Buyers", "description": "Reputation built on transparency and service quality." }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses in Sector 95 Gurugram",
+    "description": "Common buyer questions related to house for sale in Sector 95 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 95 Gurugram a good area to buy a house?",
+        "answer": "Yes, Sector 95 is a developing locality with planned infrastructure and strong future growth potential."
+      },
+      {
+        "question": "What plot sizes are available in Sector 95?",
+        "answer": "Independent houses are commonly available from 4 Marla to 14 Marla."
+      },
+      {
+        "question": "Is Sector 95 suitable for family living?",
+        "answer": "Yes, the area offers a calm environment with access to essential amenities."
+      },
+      {
+        "question": "Are ready-to-move houses available in Sector 95?",
+        "answer": "Both ready-to-move and newly constructed houses are available in this sector."
+      },
+      {
+        "question": "Is Sector 95 good for rental income?",
+        "answer": "Yes, proximity to major roads and upcoming developments supports rental demand."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 95?",
+        "answer": "Most houses are eligible for home loans, subject to bank approvals."
+      },
+      {
+        "question": "How is connectivity from Sector 95 Gurugram?",
+        "answer": "Sector 95 enjoys good connectivity via Dwarka Expressway and NH-48."
+      },
+      {
+        "question": "Is Sector 95 a good long-term investment?",
+        "answer": "Yes, ongoing infrastructure projects make it attractive for long-term appreciation."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, and expert local guidance."
+      },
+      {
+        "question": "How can I contact property experts for Sector 95?",
+        "answer": "You can fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Sale in Sector 95 Gurugram",
+    "description": [
+      "Buying a house for sale in Sector 95 Gurugram is a significant investment, and expert advice can help you make the right decision.",
+      "Share your details to connect with trusted property experts who will assist you in finding the right home based on your budget and preferences."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Premium Independent Houses for Rent in DLF Phase 1 Gurugram",
+    "description": [
+      "DLF Phase 1 Gurugram is one of the most prestigious and well-planned residential localities in the city, known for its prime location near Golf Course Road and excellent urban infrastructure. Tenants searching for a house for rent in DLF Phase 1 Gurugram prefer this area because of its central connectivity, green surroundings, and close proximity to major business hubs, corporate offices, and luxury retail destinations. The locality offers easy access to metro stations, top schools, hospitals, and high-end markets, making everyday life convenient and comfortable.",
+      "Independent houses in DLF Phase 1 are highly sought after for their spacious layouts, privacy, and premium lifestyle appeal. The area attracts senior professionals, expatriates, and families looking for a secure and well-established neighborhood. Choosing a house for rent in DLF Phase 1 Gurugram ensures elegant living, strong social infrastructure, and a refined residential experience in one of Gurugram’s most desirable addresses."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in DLF Phase 1 Gurugram",
+    "description": [
+      "Selecting the right plot size is an important factor when choosing a house for rent in DLF Phase 1 Gurugram, as it defines comfort, lifestyle, and rental value.",
+      "DLF Phase 1 offers a wide range of independent houses on rent, suitable for small families as well as large households seeking premium living."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in DLF Phase 1 Gurugram",
+        "description": "A 4 Marla house for rent in DLF Phase 1 Gurugram is ideal for couples or small families who want to live in a premium location with manageable space."
+      },
+      {
+        "title": "6 Marla House for Rent in DLF Phase 1 Gurugram",
+        "description": "6 Marla houses provide a balanced mix of space and affordability, making them suitable for comfortable family living."
+      },
+      {
+        "title": "8 Marla House for Rent in DLF Phase 1 Gurugram",
+        "description": "An 8 Marla rental house offers spacious interiors, better ventilation, and functional layouts for long-term residence."
+      },
+      {
+        "title": "10 Marla House for Rent in DLF Phase 1 Gurugram",
+        "description": "10 Marla houses are preferred by tenants seeking larger rooms, parking space, and enhanced privacy."
+      },
+      {
+        "title": "12 Marla House for Rent in DLF Phase 1 Gurugram",
+        "description": "12 Marla rental houses fall into the premium category, offering open areas, modern architecture, and superior comfort."
+      },
+      {
+        "title": "14 Marla House for Rent in DLF Phase 1 Gurugram",
+        "description": "A 14 Marla house for rent is ideal for large families, senior executives, or expats looking for luxury, space, and exclusivity."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near DLF Phase 1 Gurugram",
+    "description": [
+      "Tenants looking for a house for rent in DLF Phase 1 Gurugram often explore nearby premium localities to compare rental options and lifestyle benefits.",
+      "This section highlights surrounding residential areas to help users make well-informed rental choices."
+    ],
+    "locations": [
+      { "title": "House for Rent in DLF Phase 1 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in DLF Phase 2 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in DLF Phase 3 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sushant Lok Phase 1", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near Golf Course Road", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 26 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 28 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent near Rapid Metro", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for DLF Phase 1 Rental Houses",
+    "description": [
+      "Finding a genuine house for rent in DLF Phase 1 Gurugram requires verified listings, transparent pricing, and deep local expertise. Deal Acres is built on these core principles.",
+      "With a tenant-focused approach and strong presence in Gurugram’s premium rental market, Deal Acres is a trusted choice for renting independent houses."
+    ],
+    "points": [
+      {
+        "title": "Verified Premium Listings",
+        "description": "Each rental property is verified for ownership and authenticity to ensure complete peace of mind."
+      },
+      {
+        "title": "Transparent Rental Details",
+        "description": "Clear information on rent, deposits, and terms helps tenants plan confidently."
+      },
+      {
+        "title": "Local Area Expertise",
+        "description": "In-depth knowledge of DLF Phase 1 ensures accurate guidance and better options."
+      },
+      {
+        "title": "User-Friendly Search Platform",
+        "description": "Easy navigation helps tenants find suitable rental houses quickly."
+      },
+      {
+        "title": "Tenant-Centric Approach",
+        "description": "Property recommendations are aligned with tenant lifestyle and budget needs."
+      },
+      {
+        "title": "Documentation Assistance",
+        "description": "Support with rental agreements and legal basics simplifies the process."
+      },
+      {
+        "title": "End-to-End Rental Support",
+        "description": "From property discovery to move-in, tenants receive complete assistance."
+      },
+      {
+        "title": "Trusted Rental Brand",
+        "description": "Deal Acres is known for reliability, transparency, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in DLF Phase 1 Gurugram",
+    "description": "Common tenant queries related to house for rent in DLF Phase 1 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is DLF Phase 1 Gurugram a good area to rent a house?",
+        "answer": "Yes, it is one of Gurugram’s most premium residential areas with excellent connectivity and infrastructure."
+      },
+      {
+        "question": "What plot sizes are available for rent in DLF Phase 1?",
+        "answer": "Independent houses are available from 4 Marla to 14 Marla."
+      },
+      {
+        "question": "Is DLF Phase 1 suitable for family living?",
+        "answer": "Yes, the locality offers safety, green surroundings, and access to top schools and hospitals."
+      },
+      {
+        "question": "Are furnished houses available in DLF Phase 1?",
+        "answer": "Yes, furnished and semi-furnished houses are available depending on the property."
+      },
+      {
+        "question": "What is the rental range in DLF Phase 1 Gurugram?",
+        "answer": "Rental values vary based on plot size, furnishings, and location, generally falling in the premium segment."
+      },
+      {
+        "question": "How is connectivity from DLF Phase 1?",
+        "answer": "The area is well-connected via Golf Course Road, Rapid Metro, and major city routes."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in DLF Phase 1?",
+        "answer": "Some landlords allow bachelors, while others prefer families or corporate tenants."
+      },
+      {
+        "question": "Is DLF Phase 1 safe for tenants?",
+        "answer": "Yes, it is considered one of the safest and most secure residential areas in Gurugram."
+      },
+      {
+        "question": "Why choose Deal Acres for renting in DLF Phase 1?",
+        "answer": "Deal Acres offers verified listings, transparent details, and expert local guidance."
+      },
+      {
+        "question": "How can I connect with rental experts for DLF Phase 1?",
+        "answer": "You can fill out the contact form to connect with experienced rental property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in DLF Phase 1 Gurugram",
+    "description": [
+      "Renting a house in a premium location like DLF Phase 1 Gurugram becomes easy with professional guidance.",
+      "Share your details to connect with trusted property experts who will help you find the right rental home based on your budget, preferences, and lifestyle."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

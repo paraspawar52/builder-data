@@ -1,0 +1,151 @@
+{
+  "domain": "Houseforsale.com",
+
+  "hero": {
+    "title": "Luxury Independent Houses for Sale in DLF Phase 5 Gurugram",
+    "description": [
+      "DLF Phase 5 Gurugram is one of the most premium and well-established residential localities in the city, located along the prestigious Golf Course Road. Buyers searching for a House for sale in DLF Phase 5 Gurugram are drawn to its elite neighborhood, excellent road connectivity, and close proximity to corporate hubs, metro stations, luxury malls, and top social infrastructure. The area is known for wide internal roads, green surroundings, and a secure, high-end residential environment.",
+      "Independent houses in DLF Phase 5 offer unmatched privacy, spacious layouts, and premium construction quality that suit luxury living standards. The locality is surrounded by reputed schools, multi-specialty hospitals, fine dining restaurants, and recreational zones, ensuring a refined lifestyle for families and professionals. Investing in a house for sale in DLF Phase 5 Gurugram is considered a high-value decision due to strong rental demand, brand credibility of DLF, and consistent long-term property appreciation."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Sale",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Sale Options by Plot Size in DLF Phase 5 Gurugram",
+    "description": [
+      "Selecting the right plot size is an important aspect when planning to buy a house for sale in DLF Phase 5 Gurugram. Different plot sizes are designed to cater to luxury preferences, family size, and lifestyle needs.",
+      "DLF Phase 5 offers a range of independent houses, from compact premium homes to expansive luxury residences, all within a prestigious and well-maintained residential setting."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in DLF Phase 5 Gurugram",
+        "description": "A 4 Marla house for sale in DLF Phase 5 Gurugram is ideal for buyers seeking a compact yet premium independent home with excellent rental potential."
+      },
+      {
+        "title": "6 Marla House for Sale in DLF Phase 5 Gurugram",
+        "description": "6 Marla houses offer a perfect balance of space and affordability within a luxury locality, suitable for modern nuclear families."
+      },
+      {
+        "title": "8 Marla House for Sale in DLF Phase 5 Gurugram",
+        "description": "An 8 Marla house provides spacious interiors, better ventilation, and flexible floor planning for comfortable long-term living."
+      },
+      {
+        "title": "10 Marla House for Sale in DLF Phase 5 Gurugram",
+        "description": "10 Marla houses are preferred by buyers looking for premium living with larger rooms, private parking, and strong resale value."
+      },
+      {
+        "title": "12 Marla House for Sale in DLF Phase 5 Gurugram",
+        "description": "12 Marla houses fall under the luxury segment, offering ample open space, modern design, and enhanced privacy."
+      },
+      {
+        "title": "14 Marla House for Sale in DLF Phase 5 Gurugram",
+        "description": "A 14 Marla house represents ultra-luxury living with expansive layouts, premium finishes, and long-term appreciation benefits."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Sale Near DLF Phase 5 Gurugram",
+    "description": [
+      "Buyers interested in a house for sale in DLF Phase 5 Gurugram often explore nearby premium localities to compare lifestyle advantages, pricing, and connectivity.",
+      "This section helps users easily discover surrounding high-end residential locations and make informed buying decisions."
+    ],
+    "locations": [
+      { "title": "House for Sale in DLF Phase 5 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in DLF Phase 4 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale in Sector 54 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Sector 53 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale on Golf Course Road", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sushant Lok Phase 1", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in DLF Phase 1 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale in Sector 56 Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for DLF Phase 5 Houses",
+    "description": [
+      "Buying a house for sale in DLF Phase 5 Gurugram requires accurate listings, verified ownership details, and transparent pricing. Deal Acres ensures buyers receive reliable information to make confident decisions.",
+      "With strong local expertise and a customer-focused approach, Deal Acres has become a trusted platform for buyers seeking luxury independent houses in Gurugram’s most premium areas."
+    ],
+    "points": [
+      { "title": "Verified Luxury Listings", "description": "Every property is verified for authenticity and clear ownership." },
+      { "title": "Transparent Market Pricing", "description": "Pricing insights based on current and realistic market trends." },
+      { "title": "Premium Local Expertise", "description": "In-depth knowledge of DLF Phase 5 and Golf Course Road." },
+      { "title": "Easy Property Search", "description": "User-friendly platform for smooth browsing and shortlisting." },
+      { "title": "Buyer-Focused Guidance", "description": "Recommendations tailored to buyer preferences and budgets." },
+      { "title": "Documentation Assistance", "description": "Support for basic legal and ownership documentation." },
+      { "title": "End-to-End Support", "description": "Assistance from property discovery to final transaction." },
+      { "title": "Trusted by Premium Buyers", "description": "A strong reputation built on service quality and transparency." }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses in DLF Phase 5 Gurugram",
+    "description": "Common buyer questions related to house for sale in DLF Phase 5 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is DLF Phase 5 a good area to buy a house?",
+        "answer": "Yes, DLF Phase 5 is one of the most premium localities in Gurugram with excellent connectivity, luxury infrastructure, and high appreciation value."
+      },
+      {
+        "question": "What plot sizes are available in DLF Phase 5?",
+        "answer": "Independent houses are generally available from 4 Marla to 14 Marla in this locality."
+      },
+      {
+        "question": "Is DLF Phase 5 suitable for family living?",
+        "answer": "Yes, the area offers a secure environment with reputed schools, hospitals, and lifestyle amenities nearby."
+      },
+      {
+        "question": "Are ready-to-move houses available in DLF Phase 5?",
+        "answer": "Yes, buyers can find both ready-to-move and fully renovated independent houses."
+      },
+      {
+        "question": "Is DLF Phase 5 good for investment?",
+        "answer": "Yes, strong rental demand and premium location ensure long-term value appreciation."
+      },
+      {
+        "question": "Can I get a home loan for houses in DLF Phase 5?",
+        "answer": "Most properties are eligible for home loans, subject to bank approval and documentation."
+      },
+      {
+        "question": "How is connectivity from DLF Phase 5 Gurugram?",
+        "answer": "DLF Phase 5 is well-connected via Golf Course Road and Rapid Metro stations."
+      },
+      {
+        "question": "Is DLF Phase 5 good for rental income?",
+        "answer": "Yes, the area has strong rental demand from corporate professionals and expatriates."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, and expert local guidance."
+      },
+      {
+        "question": "How can I contact property experts for DLF Phase 5?",
+        "answer": "You can fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Sale in DLF Phase 5 Gurugram",
+    "description": [
+      "Buying a house for sale in DLF Phase 5 Gurugram is a major investment, and expert support can simplify the entire buying process.",
+      "Share your details to connect with trusted property experts who will help you find the right home based on your lifestyle needs, budget, and long-term goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

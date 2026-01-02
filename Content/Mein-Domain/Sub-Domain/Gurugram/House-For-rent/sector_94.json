@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Well Planned And Affordable Houses for Rent in Sector 94 Gurugram",
+    "description": [
+      "Sector 94 Gurugram is an emerging residential locality in New Gurugram that is gaining attention for its planned layout, open surroundings, and improving infrastructure. Tenants searching for a house for rent in Sector 94 Gurugram often prefer this area because it offers peaceful living away from city congestion while still maintaining good connectivity to major routes like Dwarka Expressway, NH-48, and Pataudi Road. The sector is steadily developing, making it a suitable option for families and professionals looking for value-driven rental homes.",
+      "Independent houses in Sector 94 provide comfortable layouts, proper ventilation, and a calm neighborhood atmosphere. The area has access to nearby schools, healthcare facilities, local markets, and daily convenience stores, ensuring basic needs are easily met. Choosing a house for rent in Sector 94 Gurugram is ideal for tenants who want affordable rentals, future growth potential, and a balanced lifestyle in a developing part of Gurugram."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964205360-0f2b9a1b4c63?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661901989603-0c5c6c9e0e8a?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sector 94",
+    "description": [
+      "Selecting the right plot size is an important step when searching for a house for rent in Sector 94 Gurugram, as it directly impacts comfort, privacy, and rental budget.",
+      "Sector 94 offers independent houses in various Marla sizes, making it suitable for small families, growing households, and tenants looking for spacious yet affordable homes."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 94 Gurugram",
+        "description": "A 4 Marla house for rent in Sector 94 Gurugram is ideal for couples or small families seeking affordable housing with easy maintenance. These homes offer functional layouts, essential amenities, and a peaceful environment suitable for budget-conscious tenants."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 94 Gurugram",
+        "description": "6 Marla houses provide a good balance between space and affordability. These houses are suitable for nuclear families looking for better room sizes, parking space, and a calm residential setting."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 94 Gurugram",
+        "description": "An 8 Marla house for rent in Sector 94 Gurugram offers spacious interiors, improved ventilation, and enhanced privacy. These houses are ideal for medium-sized families seeking comfortable independent living."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 94 Gurugram",
+        "description": "10 Marla houses are preferred by tenants who want larger living areas, multiple bedrooms, and better layout flexibility. These homes offer a more premium rental experience within the locality."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 94 Gurugram",
+        "description": "A 12 Marla house for rent in Sector 94 Gurugram falls into the premium rental segment, offering expansive layouts, open spaces, and long-term comfort for large families."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 94 Gurugram",
+        "description": "A 14 Marla house for rent in Sector 94 Gurugram is ideal for joint or large families looking for maximum space, privacy, and a peaceful residential environment."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 94 Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in Sector 94 Gurugram often explore nearby sectors to compare rental values, connectivity, and available amenities.",
+      "This section highlights surrounding residential areas to help users find the most suitable rental homes near Sector 94."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 94 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 95 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 93 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent near Dwarka Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 92 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent near Pataudi Road", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 91 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in New Gurugram Area", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sector 94 Rental Homes",
+    "description": [
+      "Finding a genuine house for rent in Sector 94 Gurugram requires verified listings, transparent pricing, and reliable local support. Deal Acres is built on trust and customer satisfaction.",
+      "With a tenant-first approach and strong understanding of Gurugram’s rental market, Deal Acres has become a dependable platform for renting independent houses in Sector 94."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All rental houses are verified for authenticity and ownership to ensure safe transactions."
+      },
+      {
+        "title": "Transparent Rental Details",
+        "description": "Clear information on rent, deposit, and rental terms helps tenants make informed decisions."
+      },
+      {
+        "title": "Local Area Expertise",
+        "description": "Strong understanding of Sector 94 and nearby developing residential areas."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "User-friendly filters and smooth navigation simplify the rental house search."
+      },
+      {
+        "title": "Tenant-Centric Approach",
+        "description": "Property recommendations are based on tenant budget, family size, and preferences."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Assistance with rental agreements and paperwork ensures a hassle-free process."
+      },
+      {
+        "title": "End-To-End Rental Assistance",
+        "description": "Support from initial inquiry to final possession of the rental house."
+      },
+      {
+        "title": "Trusted By Growing User Base",
+        "description": "Deal Acres continues to earn trust through transparency, reliability, and service quality."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 94",
+    "description": "Common tenant questions related to house for rent in Sector 94 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 94 Gurugram a good area to rent a house?",
+        "answer": "Yes, Sector 94 is a developing residential area offering affordable rentals, peaceful surroundings, and improving infrastructure."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 94?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are commonly available in Sector 94 Gurugram."
+      },
+      {
+        "question": "Is Sector 94 suitable for family living?",
+        "answer": "Yes, the area is suitable for families due to its calm environment and access to basic amenities."
+      },
+      {
+        "question": "Are furnished houses available in Sector 94?",
+        "answer": "Both furnished and unfurnished houses are available depending on property listings."
+      },
+      {
+        "question": "What is the average rent in Sector 94 Gurugram?",
+        "answer": "Rental values depend on plot size, house condition, and exact location within the sector."
+      },
+      {
+        "question": "How is connectivity from Sector 94?",
+        "answer": "Sector 94 has improving connectivity via Dwarka Expressway, NH-48, and Pataudi Road."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sector 94?",
+        "answer": "Some landlords allow bachelors, while others prefer families based on house rules."
+      },
+      {
+        "question": "Is Sector 94 safe for tenants?",
+        "answer": "Yes, Sector 94 is considered safe with a growing residential community."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent details, and expert rental guidance."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 94?",
+        "answer": "You can fill out the contact form to connect with experienced rental consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sector 94 Gurugram",
+    "description": [
+      "Finding the right house for rent in Sector 94 Gurugram becomes simple with professional guidance and verified listings.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that matches your budget, space needs, and lifestyle preferences."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

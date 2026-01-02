@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Modern Independent Houses for Rent in Sector 66 Gurugram",
+    "description": [
+      "Sector 66 Gurugram is a fast-growing and premium residential locality located along Golf Course Extension Road. Tenants searching for a house for rent in Sector 66 Gurugram prefer this area due to its modern infrastructure, excellent road connectivity, and proximity to major IT parks, business hubs, and commercial centers. The locality offers smooth access to Sohna Road, Southern Peripheral Road (SPR), NH-48, and key employment zones, making daily commuting convenient for professionals.",
+      "Independent houses in Sector 66 are known for spacious layouts, contemporary designs, and a peaceful living environment. The area is surrounded by reputed schools, hospitals, malls, cafes, and daily utility stores, ensuring a comfortable lifestyle for families. Choosing a house for rent in Sector 66 Gurugram means enjoying premium residential living with strong connectivity, security, and modern amenities."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sector 66 Gurugram",
+    "description": [
+      "Choosing the right plot size is an important step when looking for a house for rent in Sector 66 Gurugram, as it impacts comfort, space utilization, and rental budget.",
+      "Sector 66 offers independent houses in multiple plot sizes, suitable for small families, working professionals, and tenants seeking premium residential living."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 66 Gurugram",
+        "description": "A 4 Marla house for rent in Sector 66 Gurugram is ideal for couples or small families looking for an affordable home in a modern and well-connected locality."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 66 Gurugram",
+        "description": "6 Marla houses provide a balanced combination of space and budget, making them suitable for nuclear families seeking comfort and convenience."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 66 Gurugram",
+        "description": "An 8 Marla rental house offers spacious rooms, better ventilation, and functional layouts for long-term family living."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 66 Gurugram",
+        "description": "10 Marla houses are preferred by tenants who want larger living areas, private parking, and enhanced privacy."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 66 Gurugram",
+        "description": "12 Marla rental houses fall into the premium segment, offering open spaces, modern construction, and upgraded lifestyle features."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 66 Gurugram",
+        "description": "A 14 Marla house for rent is ideal for large families or tenants looking for luxury, space, and a peaceful residential environment."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 66 Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in Sector 66 Gurugram often explore nearby areas to compare rental prices, connectivity, and lifestyle advantages.",
+      "This section highlights surrounding localities to help users find the most suitable rental home."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 66 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 65 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 67 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 68 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near Golf Course Extension Road", "path": "/", "icon": "Home" },
+      { "title": "House for Rent near Sohna Road", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 69 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent near SPR Road", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sector 66 Rental Houses",
+    "description": [
+      "Finding a genuine house for rent in Sector 66 Gurugram requires verified listings, transparent pricing, and deep local market knowledge. Deal Acres focuses on trust and reliability.",
+      "With a tenant-first approach and strong understanding of Gurugram’s rental market, Deal Acres has become a preferred platform for renting independent houses."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "Each property is thoroughly verified for ownership, authenticity, and availability to ensure tenant safety."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear details about rent, security deposit, and rental terms help tenants make confident decisions."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong knowledge of Sector 66 and nearby areas ensures accurate and reliable rental guidance."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "User-friendly platform and advanced filters simplify the house-hunting process."
+      },
+      {
+        "title": "Tenant-Focused Recommendations",
+        "description": "Property suggestions are based on tenant budget, family size, and lifestyle preferences."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Assistance with rental agreements and paperwork ensures a smooth and hassle-free process."
+      },
+      {
+        "title": "End-to-End Rental Assistance",
+        "description": "Complete support from property shortlisting to final move-in."
+      },
+      {
+        "title": "Trusted by Renters",
+        "description": "Deal Acres is widely trusted for transparency, professionalism, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 66 Gurugram",
+    "description": "Common tenant questions related to house for rent in Sector 66 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 66 Gurugram a good area to rent a house?",
+        "answer": "Yes, Sector 66 is a premium and well-developed locality with excellent connectivity and modern infrastructure."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 66?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are available to suit different budgets and family sizes."
+      },
+      {
+        "question": "Is Sector 66 suitable for family living?",
+        "answer": "Yes, the area has reputed schools, hospitals, parks, and shopping centers nearby, making it family-friendly."
+      },
+      {
+        "question": "Are furnished houses available for rent in Sector 66?",
+        "answer": "Yes, furnished and semi-furnished rental houses are available depending on the property owner."
+      },
+      {
+        "question": "What is the average rent in Sector 66 Gurugram?",
+        "answer": "Rental values vary based on plot size, location, and amenities, offering mid-range to premium options."
+      },
+      {
+        "question": "How is connectivity from Sector 66?",
+        "answer": "Sector 66 is well-connected via Golf Course Extension Road, Sohna Road, SPR, and NH-48."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sector 66?",
+        "answer": "Some landlords allow bachelors, while others prefer families. This depends on individual property owners."
+      },
+      {
+        "question": "Is Sector 66 safe for tenants?",
+        "answer": "Yes, Sector 66 is considered a safe and secure residential area with gated societies nearby."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and expert local rental support."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 66?",
+        "answer": "You can fill out the contact form to connect with experienced rental property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sector 66 Gurugram",
+    "description": [
+      "Finding the right house for rent in Sector 66 Gurugram becomes simple and stress-free with professional guidance.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that matches your budget, preferences, and lifestyle needs."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

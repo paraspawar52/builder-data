@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Affordable And Peaceful Houses for Rent in Sector 3A Gurugram",
+    "description": [
+      "Sector 3A Gurugram is a well-established residential locality located close to Old Gurugram, known for its affordability, calm surroundings, and strong connectivity. Tenants searching for a house for rent in Sector 3A Gurugram prefer this area because it offers easy access to NH-48, Hero Honda Chowk, Railway Road, and major commercial zones of the city. The sector is ideal for people who want a simple, well-connected lifestyle without the noise of crowded commercial areas.",
+      "Independent houses in Sector 3A are mostly low-rise properties built with practical layouts and comfortable living spaces. The locality is surrounded by schools, hospitals, local markets, banks, and public transport facilities, making daily life convenient for families and working professionals. Choosing a house for rent in Sector 3A Gurugram is suitable for tenants looking for budget-friendly housing, a stable neighborhood, and easy access to essential city infrastructure."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964205360-0f2b9a1b4c63?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661901989603-0c5c6c9e0e8a?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sector 3A",
+    "description": [
+      "Plot size is an important factor when selecting a house for rent in Sector 3A Gurugram, as it directly impacts living comfort, space availability, and rental budget.",
+      "Sector 3A offers independent houses in different Marla sizes, suitable for small families, working professionals, and large households."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 3A Gurugram",
+        "description": "A 4 Marla house for rent in Sector 3A Gurugram is ideal for couples or small families seeking an affordable and easy-to-maintain home in a peaceful area."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 3A Gurugram",
+        "description": "6 Marla houses offer a balanced combination of space and affordability, making them suitable for nuclear families looking for comfortable living."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 3A Gurugram",
+        "description": "An 8 Marla house for rent in Sector 3A Gurugram provides spacious rooms, better ventilation, and a comfortable lifestyle for growing families."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 3A Gurugram",
+        "description": "10 Marla houses are preferred by tenants who need larger living areas and additional space for family needs."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 3A Gurugram",
+        "description": "A 12 Marla house for rent in Sector 3A Gurugram falls into the premium rental category, offering open layouts and enhanced comfort."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 3A Gurugram",
+        "description": "A 14 Marla house for rent in Sector 3A Gurugram is suitable for large or joint families seeking maximum space and privacy."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 3A Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in Sector 3A Gurugram often explore nearby localities to compare rental prices and connectivity benefits.",
+      "This section highlights surrounding areas to help users find suitable rental homes near Sector 3A."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 3A Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 4 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 5 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent near Railway Road", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near Hero Honda Chowk", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Old Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent near NH-48", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 10A Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sector 3A Rental Homes",
+    "description": [
+      "Finding a genuine house for rent in Sector 3A Gurugram requires verified listings, transparent pricing, and strong local knowledge. Deal Acres is built on trust and tenant satisfaction.",
+      "With deep understanding of Old Gurugram’s residential market, Deal Acres has become a reliable choice for renting independent houses in Sector 3A."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All rental properties are verified for ownership and authenticity."
+      },
+      {
+        "title": "Transparent Rental Pricing",
+        "description": "Clear rent and deposit details with no hidden charges."
+      },
+      {
+        "title": "Local Area Expertise",
+        "description": "In-depth knowledge of Sector 3A and surrounding localities."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "Simple filters and smooth browsing experience."
+      },
+      {
+        "title": "Tenant-Focused Approach",
+        "description": "Property suggestions based on tenant budget and family needs."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Assistance with rental agreements and paperwork."
+      },
+      {
+        "title": "End-To-End Rental Assistance",
+        "description": "Support from property shortlisting to final possession."
+      },
+      {
+        "title": "Trusted By Local Tenants",
+        "description": "Deal Acres is known for reliability and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 3A",
+    "description": "Common tenant questions related to house for rent in Sector 3A Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 3A Gurugram a good area to rent a house?",
+        "answer": "Yes, Sector 3A is an affordable and well-connected residential locality suitable for families and professionals."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 3A?",
+        "answer": "Independent houses from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Sector 3A suitable for family living?",
+        "answer": "Yes, the area has schools, hospitals, and markets nearby, making it family-friendly."
+      },
+      {
+        "question": "Are furnished houses available in Sector 3A?",
+        "answer": "Both furnished and semi-furnished houses are available depending on the property."
+      },
+      {
+        "question": "What is the average rent in Sector 3A Gurugram?",
+        "answer": "Rent depends on plot size, condition of the house, and exact location."
+      },
+      {
+        "question": "How is connectivity from Sector 3A?",
+        "answer": "Sector 3A is well connected to NH-48, Railway Road, and Hero Honda Chowk."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sector 3A?",
+        "answer": "Some landlords allow bachelors, while others prefer families."
+      },
+      {
+        "question": "Is Sector 3A safe for tenants?",
+        "answer": "Yes, it is a populated and stable residential area."
+      },
+      {
+        "question": "Why choose Deal Acres for renting a house in Sector 3A?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and expert guidance."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 3A?",
+        "answer": "You can fill out the contact form to connect with experienced rental consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sector 3A Gurugram",
+    "description": [
+      "Finding the right house for rent in Sector 3A Gurugram becomes easy with professional support and verified property listings.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that matches your budget, space needs, and lifestyle preferences."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

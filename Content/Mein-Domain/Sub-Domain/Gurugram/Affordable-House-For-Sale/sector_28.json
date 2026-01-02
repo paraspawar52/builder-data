@@ -1,0 +1,175 @@
+{
+  "domain": "Affordablehouseforsalecom",
+
+  "hero": {
+    "title": "Affordable Independent Houses for Sale in Sector 28 Gurugram",
+    "description": [
+      "Sector 28 Gurugram is a well-established and centrally located residential area, known for its excellent connectivity and premium urban lifestyle. Situated close to MG Road, Golf Course Road, and Cyber City, the sector offers easy access to major commercial hubs, metro stations, and business districts. Buyers searching for an affordable house for sale in Sector 28 Gurugram are attracted by the locality’s mature infrastructure, wide internal roads, green parks, reputed schools, hospitals, shopping malls, and daily convenience markets. The area ensures a balanced lifestyle with both comfort and accessibility.",
+      "Affordable houses for sale in Sector 28 Gurugram provide a rare opportunity to enjoy independent living in a prime location at competitive prices. With strong demand from professionals and families, the sector offers good rental potential and stable long-term appreciation. Whether you are planning to buy a home for self-use or as an investment, Sector 28 stands out as a reliable and future-secure residential destination in Gurugram."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1599423300746-b62533397364?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Size Options Available in Sector 28 Gurugram",
+    "description": [
+      "Choosing the right house size in Sector 28 Gurugram helps buyers align budget, comfort, and long-term living needs.",
+      "The sector offers multiple affordable independent house configurations suitable for different family sizes."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House for Sale in Sector 28 Gurugram",
+        "description": "A 4 Marla affordable house for sale in Sector 28 Gurugram is ideal for small families and first-time buyers. These homes offer compact layouts, independent living, and easy access to nearby offices and markets."
+      },
+      {
+        "title": "6 Marla Affordable House for Sale in Sector 28 Gurugram",
+        "description": "6 Marla affordable houses in Sector 28 Gurugram provide a comfortable balance of space and affordability. They are suitable for nuclear families seeking better room sizes and parking convenience."
+      },
+      {
+        "title": "8 Marla Affordable House for Sale in Sector 28 Gurugram",
+        "description": "An 8 Marla affordable house in Sector 28 Gurugram is a good choice for growing families that need additional living space and privacy, along with strong resale demand."
+      },
+      {
+        "title": "10 Marla Affordable House for Sale in Sector 28 Gurugram",
+        "description": "10 Marla houses offer spacious interiors and long-term comfort. Buyers looking for independent homes in a central location often prefer this size."
+      },
+      {
+        "title": "12 Marla Affordable House for Sale in Sector 28 Gurugram",
+        "description": "A 12 Marla affordable house in Sector 28 Gurugram delivers enhanced space and privacy, making it suitable for joint families and long-term living."
+      },
+      {
+        "title": "14 Marla Affordable House for Sale in Sector 28 Gurugram",
+        "description": "14 Marla houses are ideal for buyers seeking large independent homes in a prime area with excellent long-term value."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses Near Sector 28 Gurugram",
+    "description": [
+      "Buyers searching for affordable houses for sale in Sector 28 Gurugram often explore nearby prime locations.",
+      "These surrounding areas further enhance the residential and investment appeal of Sector 28."
+    ],
+    "locations": [
+      { "title": "Affordable House for Sale in Sector 28 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 27 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 25 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near MG Road Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Golf Course Road Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Cyber City Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses in Central Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Budget Homes in Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Affordable Houses in Sector 28",
+    "description": [
+      "Buying an affordable house for sale in Sector 28 Gurugram requires verified listings and expert local guidance.",
+      "Deal Acres is trusted by buyers for transparency, market expertise, and customer-first real estate solutions."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "Every property is verified for ownership, approvals, and legal clarity to ensure safe buying."
+      },
+      {
+        "title": "Transparent Pricing Policy",
+        "description": "Clear pricing with no hidden charges helps buyers plan finances confidently."
+      },
+      {
+        "title": "Strong Local Market Knowledge",
+        "description": "Deep understanding of Sector 28 Gurugram real estate trends supports informed decisions."
+      },
+      {
+        "title": "Wide Range of Affordable Options",
+        "description": "Multiple house sizes and budget segments give buyers flexibility and choice."
+      },
+      {
+        "title": "Complete Legal Assistance",
+        "description": "Support with documentation, agreements, and registry ensures smooth transactions."
+      },
+      {
+        "title": "Personalized Property Guidance",
+        "description": "Tailored recommendations based on buyer needs, budget, and future goals."
+      },
+      {
+        "title": "End-to-End Buying Support",
+        "description": "Deal Acres assists buyers from property search to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Known for ethics, reliability, and customer satisfaction, Deal Acres is a preferred choice."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Sector 28 Gurugram",
+    "description": "Clear and detailed answers to common buyer questions.",
+    "faqs": [
+      {
+        "question": "Is Sector 28 Gurugram a good location to buy an affordable house?",
+        "answer": "Yes, Sector 28 is a prime and well-developed area with excellent connectivity and strong residential demand."
+      },
+      {
+        "question": "What house sizes are available in Sector 28 Gurugram?",
+        "answer": "Affordable independent houses in Sector 28 are available from 4 Marla to 14 Marla."
+      },
+      {
+        "question": "Is Sector 28 suitable for family living?",
+        "answer": "Yes, the area offers reputed schools, hospitals, parks, malls, and a safe residential environment."
+      },
+      {
+        "question": "How is connectivity from Sector 28 Gurugram?",
+        "answer": "Sector 28 enjoys excellent connectivity via MG Road, Golf Course Road, and metro stations."
+      },
+      {
+        "question": "Are houses in Sector 28 legally approved?",
+        "answer": "Most properties are approved, and Deal Acres assists buyers with complete legal verification."
+      },
+      {
+        "question": "Is buying a house in Sector 28 a good investment?",
+        "answer": "Yes, its central location and high demand support stable appreciation and rental income."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 28?",
+        "answer": "Yes, leading banks and financial institutions provide home loans for eligible properties."
+      },
+      {
+        "question": "What amenities are available near Sector 28?",
+        "answer": "Nearby amenities include schools, hospitals, malls, offices, metro stations, and parks."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and complete end-to-end buyer support."
+      },
+      {
+        "question": "How can I contact a property expert for Sector 28?",
+        "answer": "You can fill out the contact form on this page to connect with experienced Deal Acres consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for Affordable Houses in Sector 28 Gurugram",
+    "description": [
+      "Finding the right affordable house for sale in Sector 28 Gurugram becomes easy with expert guidance.",
+      "Share your details to connect with trusted real estate professionals and explore verified property options that match your requirements."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

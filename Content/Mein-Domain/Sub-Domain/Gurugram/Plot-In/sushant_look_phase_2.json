@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Premium Residential Plots in Well Planned Sushant Lok Phase 2",
+    "description": [
+      "Sushant Lok Phase 2 Gurugram is a premium and well-planned residential locality known for its peaceful surroundings, organized layout, and proximity to Golf Course Extension Road. Buyers searching for a plot in Sushant Lok Phase 2 Gurugram prefer this area due to its excellent connectivity to Golf Course Road, Sohna Road, NH-48, and major business hubs of Gurugram. The locality is surrounded by reputed schools, hospitals, shopping malls, cafes, and daily convenience stores, making it ideal for families seeking a high-quality lifestyle.",
+      "Plots in Sushant Lok Phase 2 are limited in supply, which enhances their long-term value and investment appeal. Whether you plan to construct a luxury independent home or invest in land for future appreciation, this location offers stability and strong demand. Choosing a plot in Sushant Lok Phase 2 Gurugram means investing in a mature, upscale neighborhood that delivers connectivity, comfort, and consistent real estate growth."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sushant Lok Phase 2",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Options by Size in Sushant Lok Phase 2",
+    "description": [
+      "Selecting the right plot size in Sushant Lok Phase 2 Gurugram is essential for home design flexibility, comfort, and future resale value.",
+      "The locality offers multiple plot sizes catering to compact homes, spacious family houses, and premium independent villas."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sushant Lok Phase 2 Gurugram",
+        "description": "A 4 Marla plot in Sushant Lok Phase 2 Gurugram is suitable for buyers seeking compact residential land in a premium neighborhood. These plots are ideal for modern, low-maintenance homes."
+      },
+      {
+        "title": "6 Marla Plot in Sushant Lok Phase 2 Gurugram",
+        "description": "6 Marla plots offer a balanced mix of affordability and space, making them perfect for small families planning comfortable independent homes."
+      },
+      {
+        "title": "8 Marla Plot in Sushant Lok Phase 2 Gurugram",
+        "description": "An 8 Marla plot provides greater design flexibility and better living space. These plots are preferred by families seeking modern layouts."
+      },
+      {
+        "title": "10 Marla Plot in Sushant Lok Phase 2 Gurugram",
+        "description": "10 Marla plots fall into the premium category and are ideal for building spacious independent homes with strong long-term value."
+      },
+      {
+        "title": "12 Marla Plot in Sushant Lok Phase 2 Gurugram",
+        "description": "A 12 Marla plot allows the construction of luxury homes with open areas, suitable for joint families and premium buyers."
+      },
+      {
+        "title": "14 Marla Plot in Sushant Lok Phase 2 Gurugram",
+        "description": "14 Marla plots represent exclusive investment opportunities in Sushant Lok Phase 2 Gurugram, offering privacy and high appreciation potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Plot Options Near Sushant Lok Phase 2 Gurugram",
+    "description": [
+      "Buyers interested in a plot in Sushant Lok Phase 2 Gurugram often explore nearby premium localities for comparison.",
+      "This section highlights surrounding areas to help users make informed and confident property decisions."
+    ],
+    "locations": [
+      { "title": "Plot in Sushant Lok Phase 2 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sushant Lok Phase 1 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 56 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Golf Course Extension Road", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Golf Course Road", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 57 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 55 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Central Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sushant Lok Phase 2",
+    "description": [
+      "Buying a plot in Sushant Lok Phase 2 Gurugram requires verified listings, transparent processes, and deep local expertise.",
+      "Deal Acres has earned buyer trust by consistently offering genuine properties and customer-centric services."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are verified for ownership, approvals, and legal authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden charges ensures buyer confidence."
+      },
+      {
+        "title": "Strong Local Market Knowledge",
+        "description": "In-depth understanding of Sushant Lok Phase 2 Gurugram ensures accurate guidance."
+      },
+      {
+        "title": "Access to Premium Inventory",
+        "description": "Exclusive access to limited and high-demand residential plots."
+      },
+      {
+        "title": "Legal and Documentation Support",
+        "description": "Complete assistance with paperwork, registry, and compliance."
+      },
+      {
+        "title": "Personalized Buyer Assistance",
+        "description": "Plot recommendations aligned with buyer goals and lifestyle needs."
+      },
+      {
+        "title": "End-to-End Buying Support",
+        "description": "Support from property search to final possession."
+      },
+      {
+        "title": "Trusted by Property Buyers",
+        "description": "Deal Acres is known for reliability, transparency, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sushant Lok Phase 2 Gurugram",
+    "description": "Common buyer queries related to plot purchase in Sushant Lok Phase 2 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sushant Lok Phase 2 a good area to buy a plot?",
+        "answer": "Yes, it is a premium and well-established locality with excellent connectivity and strong long-term value."
+      },
+      {
+        "question": "What plot sizes are available in Sushant Lok Phase 2 Gurugram?",
+        "answer": "Plots ranging from 4 Marla to 14 Marla are available, subject to inventory."
+      },
+      {
+        "question": "Is Sushant Lok Phase 2 suitable for luxury home construction?",
+        "answer": "Yes, the locality is ideal for building premium independent homes."
+      },
+      {
+        "question": "Is buying a plot in Sushant Lok Phase 2 a good investment?",
+        "answer": "Due to limited supply and high demand, the area offers stable appreciation."
+      },
+      {
+        "question": "Are plots in Sushant Lok Phase 2 legally approved?",
+        "answer": "Most plots have clear titles, but proper verification is advised. Deal Acres assists with due diligence."
+      },
+      {
+        "question": "How is connectivity from Sushant Lok Phase 2?",
+        "answer": "The area enjoys excellent connectivity to Golf Course Road, Sohna Road, and NH-48."
+      },
+      {
+        "question": "Can construction start immediately after buying a plot?",
+        "answer": "Construction depends on local building norms and approvals. Expert guidance is provided."
+      },
+      {
+        "question": "What amenities are available near Sushant Lok Phase 2?",
+        "answer": "Schools, hospitals, malls, restaurants, and daily-need facilities are nearby."
+      },
+      {
+        "question": "Why should I choose Deal Acres for buying plots?",
+        "answer": "Deal Acres offers verified listings, transparent processes, and complete buyer support."
+      },
+      {
+        "question": "How can I contact plot buying experts?",
+        "answer": "You can fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for Buying Plots in Sushant Lok Phase 2 Gurugram",
+    "description": [
+      "Finding the right plot in Sushant Lok Phase 2 Gurugram becomes simple with expert guidance.",
+      "Share your details to connect with trusted property professionals who will help you find verified plots matching your budget and lifestyle goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

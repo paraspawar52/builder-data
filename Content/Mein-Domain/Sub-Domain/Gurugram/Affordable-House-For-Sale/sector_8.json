@@ -1,0 +1,175 @@
+{
+  "domain": "Affordablehouseforsalecom",
+
+  "hero": {
+    "title": "Affordable Independent Houses for Sale in Sector 8 Gurugram",
+    "description": [
+      "Sector 8 Gurugram is a well-established residential locality in Old Gurugram, known for its central location, peaceful environment, and strong infrastructure. Buyers searching for an affordable house for sale in Sector 8 Gurugram prefer this area due to its proximity to NH-48, Hero Honda Chowk, Rajiv Chowk, and major commercial zones. The sector enjoys smooth connectivity to nearby areas like Sector 7, Sector 9, Sector 10A, and Basai, making daily commuting easy for professionals and families.",
+      "Affordable houses for sale in Sector 8 Gurugram offer a practical housing solution for buyers who want independent living in a mature neighborhood. The area is surrounded by schools, hospitals, local markets, parks, and public transport facilities, ensuring everyday convenience. With limited supply of independent houses and steady demand in Old Gurugram, Sector 8 continues to remain a reliable option for long-term residential use and stable property appreciation."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Size Options Available in Sector 8 Gurugram",
+    "description": [
+      "Choosing the right house size in Sector 8 Gurugram depends on family size, lifestyle needs, and future plans.",
+      "The locality offers multiple independent house configurations suitable for comfortable living and investment."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House for Sale in Sector 8 Gurugram",
+        "description": "A 4 Marla affordable house in Sector 8 Gurugram is ideal for small families or buyers looking for budget-friendly independent homes in a central location."
+      },
+      {
+        "title": "6 Marla Affordable House for Sale in Sector 8 Gurugram",
+        "description": "6 Marla houses provide a balanced layout with adequate living space, making them suitable for nuclear families."
+      },
+      {
+        "title": "8 Marla Affordable House for Sale in Sector 8 Gurugram",
+        "description": "An 8 Marla house offers better room sizes, parking convenience, and flexibility for modern home designs."
+      },
+      {
+        "title": "10 Marla Affordable House for Sale in Sector 8 Gurugram",
+        "description": "10 Marla houses are preferred by families seeking spacious homes with good resale and rental potential."
+      },
+      {
+        "title": "12 Marla Affordable House for Sale in Sector 8 Gurugram",
+        "description": "A 12 Marla house is suitable for buyers who want larger living areas and long-term value appreciation."
+      },
+      {
+        "title": "14 Marla Affordable House for Sale in Sector 8 Gurugram",
+        "description": "14 Marla houses cater to buyers looking for premium independent living in a well-settled neighborhood."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses Near Sector 8 Gurugram",
+    "description": [
+      "Buyers interested in affordable houses for sale in Sector 8 Gurugram often explore nearby sectors to compare pricing and connectivity.",
+      "These surrounding locations further enhance the residential appeal of Sector 8."
+    ],
+    "locations": [
+      { "title": "Affordable House for Sale in Sector 8 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 7 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 9 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 10A Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Basai Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses near Hero Honda Chowk", "path": "/", "icon": "Landmark" },
+      { "title": "Budget Independent Homes in Old Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Affordable Houses in Sector 8",
+    "description": [
+      "Buying an affordable house for sale in Sector 8 Gurugram requires verified listings, transparent pricing, and local market expertise.",
+      "Deal Acres is trusted by buyers for its genuine properties and customer-first approach."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All houses are verified for ownership clarity and legal approvals."
+      },
+      {
+        "title": "Transparent Pricing Policy",
+        "description": "Clear pricing structure with no hidden charges."
+      },
+      {
+        "title": "Strong Local Market Knowledge",
+        "description": "In-depth understanding of Sector 8 property trends and demand."
+      },
+      {
+        "title": "Wide Range of Affordable Houses",
+        "description": "Multiple house sizes available to suit different budgets and needs."
+      },
+      {
+        "title": "Legal and Registry Support",
+        "description": "Complete assistance with documentation and registry process."
+      },
+      {
+        "title": "Personalized Property Advice",
+        "description": "Recommendations based on family needs and investment goals."
+      },
+      {
+        "title": "End-to-End Buying Assistance",
+        "description": "Support from property shortlisting to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for ethical practices and long-term customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Sector 8 Gurugram",
+    "description": "Answers to common buyer questions to help make informed property decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 8 Gurugram a good location to buy an affordable house?",
+        "answer": "Yes, Sector 8 is a centrally located and well-developed area with steady residential demand and long-term value."
+      },
+      {
+        "question": "What house sizes are available in Sector 8 Gurugram?",
+        "answer": "Independent houses are generally available from 4 Marla to 14 Marla, subject to availability."
+      },
+      {
+        "question": "Is Sector 8 suitable for family living?",
+        "answer": "Yes, the area offers schools, hospitals, markets, parks, and good public transport connectivity."
+      },
+      {
+        "question": "Are properties in Sector 8 legally approved?",
+        "answer": "Most properties are approved, and Deal Acres assists with complete legal verification."
+      },
+      {
+        "question": "How is connectivity from Sector 8 Gurugram?",
+        "answer": "Sector 8 has excellent connectivity via NH-48, Hero Honda Chowk, and city roads."
+      },
+      {
+        "question": "Is buying a house in Sector 8 a good investment?",
+        "answer": "Yes, limited supply and consistent demand support stable appreciation."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 8?",
+        "answer": "Yes, home loans are available from major banks for eligible properties."
+      },
+      {
+        "question": "What amenities are available near Sector 8 Gurugram?",
+        "answer": "The area offers schools, hospitals, shopping areas, parks, and daily convenience facilities."
+      },
+      {
+        "question": "Why should I choose Deal Acres for Sector 8 properties?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and end-to-end buyer support."
+      },
+      {
+        "question": "How can I contact property experts for Sector 8 houses?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Affordable Houses in Sector 8 Gurugram",
+    "description": [
+      "Finding the right affordable house for sale in Sector 8 Gurugram becomes simple with expert guidance.",
+      "Share your details to connect with trusted real estate professionals and explore verified housing options confidently."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

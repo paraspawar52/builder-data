@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Well Located Independent Houses for Rent in Sector 23 Gurugram",
+    "description": [
+      "Sector 23 Gurugram is a well-established residential locality known for its excellent connectivity, calm surroundings, and proximity to major commercial areas. Tenants looking for a house for rent in Sector 23 Gurugram prefer this area because it is close to Palam Vihar, Udyog Vihar, and IGI Airport, making daily commuting convenient. The sector has wide internal roads, parks, schools, hospitals, and local markets, ensuring a comfortable and practical lifestyle for families and working professionals.",
+      "Independent houses in Sector 23 offer spacious layouts, privacy, and a peaceful living environment compared to high-density apartment complexes. The locality is ideal for long-term rentals due to its stable infrastructure and established residential community. Choosing a house for rent in Sector 23 Gurugram means enjoying a balanced lifestyle with easy access to workplaces, daily essentials, and strong road connectivity within Gurugram and Delhi."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sector 23 Gurugram",
+    "description": [
+      "Choosing the right plot size is important when selecting a house for rent in Sector 23 Gurugram, as it impacts comfort, privacy, and rental affordability.",
+      "Sector 23 offers independent houses in multiple plot sizes, suitable for small families, joint families, and tenants seeking spacious living."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 23 Gurugram",
+        "description": "A 4 Marla house for rent in Sector 23 Gurugram is suitable for couples or small families looking for an affordable and easy-to-maintain rental home."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 23 Gurugram",
+        "description": "6 Marla houses provide a good balance of space and budget, making them ideal for comfortable family living."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 23 Gurugram",
+        "description": "An 8 Marla rental house offers spacious rooms, proper ventilation, and functional layouts for long-term residence."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 23 Gurugram",
+        "description": "10 Marla houses are preferred by tenants who want larger living areas, parking space, and enhanced privacy."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 23 Gurugram",
+        "description": "12 Marla rental houses fall into the premium segment, offering open spaces and better lifestyle comfort."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 23 Gurugram",
+        "description": "A 14 Marla house for rent is ideal for large families or corporate tenants seeking space, comfort, and a peaceful environment."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 23 Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in Sector 23 Gurugram often explore nearby localities to compare rental options, connectivity, and amenities.",
+      "This section highlights surrounding residential areas to help users make well-informed rental decisions."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 23 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Palam Vihar Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 22 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 21 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near Udyog Vihar", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 24 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent near IGI Airport", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in DLF Phase 2 Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sector 23 Rental Houses",
+    "description": [
+      "Finding a reliable house for rent in Sector 23 Gurugram requires verified listings, transparent rental details, and strong local market understanding. Deal Acres focuses on trust and clarity.",
+      "With a tenant-first approach and deep knowledge of Gurugram’s rental market, Deal Acres has become a preferred platform for renting independent houses."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "Every property is verified for ownership and authenticity to ensure tenant safety."
+      },
+      {
+        "title": "Transparent Rental Information",
+        "description": "Clear details on rent, deposits, and terms help tenants plan confidently."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 23 and nearby areas ensures accurate guidance."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "User-friendly tools make searching for rental houses quick and simple."
+      },
+      {
+        "title": "Tenant-Focused Recommendations",
+        "description": "Suggestions are tailored to tenant budget, family size, and lifestyle needs."
+      },
+      {
+        "title": "Documentation Assistance",
+        "description": "Support with rental agreements and paperwork ensures a smooth experience."
+      },
+      {
+        "title": "End-to-End Rental Support",
+        "description": "Assistance from property search to move-in for hassle-free renting."
+      },
+      {
+        "title": "Trusted by Renters",
+        "description": "Deal Acres is known for reliability, transparency, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 23 Gurugram",
+    "description": "Common tenant questions related to house for rent in Sector 23 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 23 Gurugram a good area to rent a house?",
+        "answer": "Yes, Sector 23 is a well-established residential area with good connectivity and a peaceful environment."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 23?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are available for different budgets and family sizes."
+      },
+      {
+        "question": "Is Sector 23 suitable for family living?",
+        "answer": "Yes, the sector has schools, parks, hospitals, and markets nearby, making it ideal for families."
+      },
+      {
+        "question": "Are furnished houses available for rent in Sector 23?",
+        "answer": "Yes, furnished and semi-furnished houses are available depending on the property and landlord."
+      },
+      {
+        "question": "What is the average rent in Sector 23 Gurugram?",
+        "answer": "Rental values depend on plot size, furnishings, and location, offering both mid-range and premium options."
+      },
+      {
+        "question": "How is connectivity from Sector 23?",
+        "answer": "Sector 23 offers easy access to Palam Vihar, Udyog Vihar, NH-48, and IGI Airport."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sector 23?",
+        "answer": "Some landlords allow bachelors, while others prefer families, depending on owner preferences."
+      },
+      {
+        "question": "Is Sector 23 safe for tenants?",
+        "answer": "Yes, it is considered a safe and well-populated residential locality."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres provides verified listings, transparent details, and expert local rental support."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 23?",
+        "answer": "You can fill out the contact form to connect with experienced rental property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sector 23 Gurugram",
+    "description": [
+      "Finding the right house for rent in Sector 23 Gurugram becomes easy with professional assistance.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that fits your budget, preferences, and lifestyle."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

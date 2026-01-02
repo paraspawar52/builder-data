@@ -1,0 +1,175 @@
+{
+  "domain": "Affordablehouseforsalecom",
+
+  "hero": {
+    "title": "Affordable and Premium Houses for Sale in Sector 42 Gurugram",
+    "description": [
+      "Sector 42 Gurugram is one of the most prime and centrally located residential sectors, situated along the prestigious Golf Course Road. Buyers searching for an affordable house for sale in Sector 42 Gurugram are drawn to its excellent connectivity, green surroundings, and proximity to major business districts. The sector offers seamless access to Rapid Metro, MG Road, Cyber City, and Golf Course Extension Road, making it ideal for professionals and families seeking convenience and comfort.",
+      "Affordable houses for sale in Sector 42 Gurugram offer a rare opportunity to own a home in a premium locality at competitive pricing. With reputed schools, multi-specialty hospitals, shopping malls, and recreational spaces nearby, the sector ensures a high-quality lifestyle. Investing in an affordable house here not only provides excellent living standards but also ensures strong appreciation potential and long-term value in one of Gurugram’s most established residential areas."
+    ],
+    "buttons": [
+      {
+        "label": "View Affordable Houses",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Size Options Available in Sector 42 Gurugram",
+    "description": [
+      "Selecting the right house size in Sector 42 Gurugram depends on family needs, lifestyle expectations, and long-term investment goals.",
+      "The sector offers multiple affordable house configurations suitable for both end-users and investors."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House for Sale in Sector 42 Gurugram",
+        "description": "A 4 Marla affordable house in Sector 42 Gurugram is suitable for small families or professionals seeking a compact home in a premium location."
+      },
+      {
+        "title": "6 Marla Affordable House for Sale in Sector 42 Gurugram",
+        "description": "6 Marla houses offer a comfortable living layout with balanced space, making them ideal for nuclear families."
+      },
+      {
+        "title": "8 Marla Affordable House for Sale in Sector 42 Gurugram",
+        "description": "An 8 Marla affordable house provides enhanced space, better ventilation, and flexibility for interior customization."
+      },
+      {
+        "title": "10 Marla Affordable House for Sale in Sector 42 Gurugram",
+        "description": "10 Marla houses are preferred by families looking for spacious interiors in a prime and well-connected locality."
+      },
+      {
+        "title": "12 Marla Affordable House for Sale in Sector 42 Gurugram",
+        "description": "A 12 Marla affordable house is ideal for buyers seeking larger homes with privacy and long-term comfort."
+      },
+      {
+        "title": "14 Marla Affordable House for Sale in Sector 42 Gurugram",
+        "description": "14 Marla houses cater to buyers who want expansive living spaces and strong resale value in a top-tier sector."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses Near Sector 42 Gurugram",
+    "description": [
+      "Buyers interested in affordable houses for sale in Sector 42 Gurugram often explore nearby premium sectors for comparison.",
+      "These surrounding locations enhance the residential and investment appeal of Sector 42."
+    ],
+    "locations": [
+      { "title": "Affordable House for Sale in Sector 42 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 43 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 41 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in DLF Phase 1", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Golf Course Road", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Rapid Metro", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House in Central Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Budget Homes in Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Choose Deal Acres for Affordable Houses in Sector 42",
+    "description": [
+      "Buying an affordable house for sale in Sector 42 Gurugram requires reliable listings and expert local support.",
+      "Deal Acres stands out by offering transparency, verified properties, and customer-focused service."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "Every affordable house is checked for ownership, approvals, and documentation authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "No hidden costs, ensuring buyers make informed financial decisions."
+      },
+      {
+        "title": "Local Market Knowledge",
+        "description": "In-depth understanding of Sector 42 pricing trends and property demand."
+      },
+      {
+        "title": "Wide Property Selection",
+        "description": "Multiple house sizes and configurations available within Sector 42."
+      },
+      {
+        "title": "Legal and Registry Support",
+        "description": "Complete assistance with agreements, registry, and compliance."
+      },
+      {
+        "title": "Personalized Guidance",
+        "description": "Tailored property suggestions based on budget and lifestyle needs."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from property shortlisting to final handover."
+      },
+      {
+        "title": "Trusted Real Estate Brand",
+        "description": "Deal Acres is known for ethical dealings and long-term customer trust."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Sector 42 Gurugram",
+    "description": "Clear and detailed answers to help buyers make confident property decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 42 Gurugram a good area to buy an affordable house?",
+        "answer": "Yes, Sector 42 is a premium location with excellent connectivity, making it a strong choice for residential living and investment."
+      },
+      {
+        "question": "What house sizes are available in Sector 42 Gurugram?",
+        "answer": "Affordable houses are typically available from 4 Marla to 14 Marla, subject to availability."
+      },
+      {
+        "question": "Is Sector 42 suitable for families?",
+        "answer": "Yes, the sector offers schools, hospitals, parks, shopping centers, and a secure environment."
+      },
+      {
+        "question": "Are properties in Sector 42 legally approved?",
+        "answer": "Most houses are approved, and Deal Acres assists buyers with full legal verification."
+      },
+      {
+        "question": "How is connectivity from Sector 42 Gurugram?",
+        "answer": "Sector 42 enjoys excellent connectivity via Golf Course Road, Rapid Metro, and major city roads."
+      },
+      {
+        "question": "Is buying an affordable house in Sector 42 a good investment?",
+        "answer": "Yes, due to high demand and limited supply, properties here show strong appreciation."
+      },
+      {
+        "question": "Are home loans available for houses in Sector 42?",
+        "answer": "Yes, leading banks provide home loan options for eligible properties."
+      },
+      {
+        "question": "What amenities are available near Sector 42?",
+        "answer": "Residents enjoy access to malls, restaurants, healthcare, schools, and recreational facilities."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and end-to-end buying support."
+      },
+      {
+        "question": "How can I contact property experts for Sector 42?",
+        "answer": "Simply fill out the contact form on this page to connect with experienced consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Connect With Experts for Affordable Houses in Sector 42 Gurugram",
+    "description": [
+      "Buying an affordable house for sale in Sector 42 Gurugram becomes easier with expert guidance.",
+      "Share your details to connect with trusted professionals who will help you find the right home at the right price."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

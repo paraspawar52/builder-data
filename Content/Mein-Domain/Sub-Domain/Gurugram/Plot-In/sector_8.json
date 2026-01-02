@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Residential and Investment Plots in Established Sector 8 Gurugram",
+    "description": [
+      "Sector 8 Gurugram is one of the well-established and centrally located residential areas, known for its planned layout and everyday convenience. Buyers searching for a plot in Sector 8 Gurugram are attracted to its close proximity to NH-48, Hero Honda Chowk, IMT Manesar Road, and major commercial zones of Old Gurugram. The sector offers a peaceful residential environment with wide roads, green pockets, local markets, schools, hospitals, and essential daily-use facilities, making it suitable for long-term family living.",
+      "Plots in Sector 8 Gurugram are limited in number, which adds to their long-term value and demand. Whether you plan to construct an independent home or hold land as a stable investment, this sector provides reliability and steady appreciation. Choosing a plot in Sector 8 Gurugram means investing in a mature neighborhood that offers strong connectivity, established infrastructure, and dependable real estate growth."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 8",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Options by Size in Sector 8 Gurugram",
+    "description": [
+      "Selecting the right plot size in Sector 8 Gurugram is important for home planning, construction flexibility, and future resale value.",
+      "Sector 8 offers a range of residential plot sizes suitable for compact homes, family houses, and premium independent residences."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 8 Gurugram",
+        "description": "A 4 Marla plot in Sector 8 Gurugram is ideal for buyers seeking affordable residential land in a well-connected area. These plots suit compact independent homes with efficient layouts."
+      },
+      {
+        "title": "6 Marla Plot in Sector 8 Gurugram",
+        "description": "6 Marla plots offer a balanced mix of space and affordability, making them suitable for small families planning comfortable homes."
+      },
+      {
+        "title": "8 Marla Plot in Sector 8 Gurugram",
+        "description": "An 8 Marla plot provides better design flexibility and spacious living options. These plots are popular among families seeking modern home layouts."
+      },
+      {
+        "title": "10 Marla Plot in Sector 8 Gurugram",
+        "description": "10 Marla plots fall under the premium segment and are ideal for building spacious independent houses with strong long-term value."
+      },
+      {
+        "title": "12 Marla Plot in Sector 8 Gurugram",
+        "description": "A 12 Marla plot allows the construction of larger homes with open areas, suitable for joint families and premium buyers."
+      },
+      {
+        "title": "14 Marla Plot in Sector 8 Gurugram",
+        "description": "14 Marla plots represent premium investment opportunities in Sector 8 Gurugram, offering exclusivity and steady appreciation."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Plot Options Near Sector 8 Gurugram",
+    "description": [
+      "Buyers interested in a plot in Sector 8 Gurugram often explore nearby sectors to compare pricing, accessibility, and neighborhood benefits.",
+      "This section highlights surrounding residential areas to help users make informed property decisions."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 8 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 7 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 9 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Hero Honda Chowk", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 10 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Old Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near IMT Manesar Road", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 8 Gurugram",
+    "description": [
+      "Buying a plot in Sector 8 Gurugram requires verified listings, transparent processes, and reliable local market expertise.",
+      "Deal Acres has built strong trust by consistently offering genuine properties and buyer-focused services."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are verified for ownership, approvals, and legal authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden charges builds buyer confidence."
+      },
+      {
+        "title": "Strong Local Knowledge",
+        "description": "Deep understanding of Sector 8 Gurugram ensures accurate property guidance."
+      },
+      {
+        "title": "Wide Range of Options",
+        "description": "Multiple plot sizes are available to suit different budgets and needs."
+      },
+      {
+        "title": "Legal and Documentation Support",
+        "description": "Complete assistance with paperwork, registry, and compliance."
+      },
+      {
+        "title": "Personalized Buyer Assistance",
+        "description": "Property recommendations aligned with buyer goals and preferences."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Support from initial inquiry to final possession."
+      },
+      {
+        "title": "Trusted by Property Buyers",
+        "description": "Deal Acres is known for reliability, transparency, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 8 Gurugram",
+    "description": "Common buyer queries related to plot purchase in Sector 8 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 8 Gurugram a good location to buy a plot?",
+        "answer": "Yes, Sector 8 is a well-established area with excellent connectivity and stable long-term value."
+      },
+      {
+        "question": "What plot sizes are available in Sector 8 Gurugram?",
+        "answer": "Plots from 4 Marla to 14 Marla are available, depending on current inventory."
+      },
+      {
+        "question": "Is Sector 8 suitable for family living?",
+        "answer": "Yes, the sector offers schools, hospitals, parks, and markets nearby, making it family-friendly."
+      },
+      {
+        "question": "Is buying a plot in Sector 8 a good investment?",
+        "answer": "Due to limited supply and established infrastructure, Sector 8 offers steady appreciation."
+      },
+      {
+        "question": "Are plots in Sector 8 legally approved?",
+        "answer": "Most plots have clear titles, but proper verification is advised. Deal Acres assists with due diligence."
+      },
+      {
+        "question": "How is connectivity from Sector 8 Gurugram?",
+        "answer": "Sector 8 enjoys smooth connectivity to NH-48, Hero Honda Chowk, and major city roads."
+      },
+      {
+        "question": "Can construction start immediately after purchase?",
+        "answer": "Construction depends on local building norms and approvals. Professional guidance is provided."
+      },
+      {
+        "question": "What amenities are available near Sector 8?",
+        "answer": "Schools, hospitals, shopping areas, and daily-need facilities are easily accessible."
+      },
+      {
+        "question": "Why should I choose Deal Acres for buying plots?",
+        "answer": "Deal Acres provides verified listings, transparent processes, and complete buyer support."
+      },
+      {
+        "question": "How can I contact plot buying experts?",
+        "answer": "You can fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for Buying Plots in Sector 8 Gurugram",
+    "description": [
+      "Finding the right plot in Sector 8 Gurugram becomes easy with professional assistance.",
+      "Share your details to connect with trusted property experts who will help you find verified plots matching your budget and long-term goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

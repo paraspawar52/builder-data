@@ -1,0 +1,175 @@
+{
+  "domain": "Affordablehouseforsalecom",
+
+  "hero": {
+    "title": "Affordable Independent Houses for Sale in Sector 102 Gurugram",
+    "description": [
+      "Sector 102 Gurugram is a fast-developing residential locality located along the Dwarka Expressway, making it a preferred choice for buyers seeking connectivity, affordability, and future growth. People searching for an affordable house for sale in Sector 102 Gurugram are attracted by its strategic location between Delhi and Gurugram, smooth road infrastructure, and proximity to employment hubs. The sector offers easy access to schools, hospitals, shopping centers, and daily convenience markets, ensuring a comfortable lifestyle for families.",
+      "Affordable houses for sale in Sector 102 Gurugram provide a strong opportunity for both end-users and investors. The area is witnessing steady development with improving civic infrastructure and increasing residential demand. Buying a house here allows homeowners to enjoy independent living at a reasonable price while benefiting from long-term appreciation, rental demand, and a well-planned urban environment."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Size Options Available in Sector 102 Gurugram",
+    "description": [
+      "Selecting the right house size in Sector 102 Gurugram is essential for balancing budget, living comfort, and future needs.",
+      "The locality offers multiple affordable house configurations suitable for small families, growing households, and investors."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House for Sale in Sector 102 Gurugram",
+        "description": "4 Marla affordable houses in Sector 102 Gurugram are ideal for first-time buyers and nuclear families. These homes provide independent ownership, efficient layouts, and easy maintenance while keeping the overall investment budget-friendly."
+      },
+      {
+        "title": "6 Marla Affordable House for Sale in Sector 102 Gurugram",
+        "description": "6 Marla houses offer a perfect balance between price and space. They are suitable for families looking for comfortable room sizes, parking space, and better ventilation without stretching their budget."
+      },
+      {
+        "title": "8 Marla Affordable House for Sale in Sector 102 Gurugram",
+        "description": "8 Marla houses provide spacious interiors and flexible design options. These homes are preferred by buyers planning long-term family living with better lifestyle comfort and resale value."
+      },
+      {
+        "title": "10 Marla Affordable House for Sale in Sector 102 Gurugram",
+        "description": "10 Marla houses are ideal for larger families seeking more living space, privacy, and premium independent housing within a developing residential sector."
+      },
+      {
+        "title": "12 Marla Affordable House for Sale in Sector 102 Gurugram",
+        "description": "12 Marla houses cater to buyers who want bigger homes with open areas, multiple floors, and strong long-term appreciation potential in Sector 102."
+      },
+      {
+        "title": "14 Marla Affordable House for Sale in Sector 102 Gurugram",
+        "description": "14 Marla houses are spacious properties suitable for luxury living or long-term investment. These homes offer exclusivity, high demand, and excellent resale prospects."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses Near Sector 102 Gurugram",
+    "description": [
+      "Buyers looking for an affordable house for sale in Sector 102 Gurugram often compare nearby sectors to evaluate pricing and connectivity advantages.",
+      "These nearby residential areas further enhance the appeal of Sector 102 as a housing destination."
+    ],
+    "locations": [
+      { "title": "Affordable House for Sale in Sector 102 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 103 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 104 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Dwarka Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House in New Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses in Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Budget Houses near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Houses in Developing Sectors Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Affordable Houses",
+    "description": [
+      "Buying an affordable house for sale in Sector 102 Gurugram requires verified listings, clear pricing, and professional support.",
+      "Deal Acres has earned buyer trust through transparency, local expertise, and customer-first real estate services."
+    ],
+    "points": [
+      {
+        "title": "Verified House Listings",
+        "description": "Every property is checked for ownership clarity, approvals, and authenticity before listing."
+      },
+      {
+        "title": "Transparent Pricing Structure",
+        "description": "Clear pricing with no hidden costs ensures complete buyer confidence."
+      },
+      {
+        "title": "Strong Local Market Knowledge",
+        "description": "Deep understanding of Sector 102 Gurugram property trends and growth prospects."
+      },
+      {
+        "title": "Wide Range of Affordable Options",
+        "description": "Multiple house sizes and budget-friendly choices available in one place."
+      },
+      {
+        "title": "Complete Legal Assistance",
+        "description": "Support with documentation, agreements, registry, and compliance."
+      },
+      {
+        "title": "Personalized Buying Support",
+        "description": "Property suggestions tailored to buyer budget, family needs, and goals."
+      },
+      {
+        "title": "End-to-End Transaction Support",
+        "description": "Assistance from property search to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for ethical dealings, professionalism, and long-term customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses in Sector 102 Gurugram",
+    "description": "Clear and detailed answers to common buyer queries to support informed decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 102 Gurugram a good area to buy an affordable house?",
+        "answer": "Yes, Sector 102 is a promising residential area with good connectivity, improving infrastructure, and rising demand for independent houses."
+      },
+      {
+        "question": "What house sizes are available in Sector 102 Gurugram?",
+        "answer": "Affordable houses are generally available from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Is Sector 102 suitable for family living?",
+        "answer": "Yes, the area offers schools, hospitals, parks, markets, and a peaceful environment suitable for families."
+      },
+      {
+        "question": "Are houses in Sector 102 legally approved?",
+        "answer": "Most properties are approved, but legal verification is essential. Deal Acres helps buyers with due diligence."
+      },
+      {
+        "question": "How is connectivity from Sector 102 Gurugram?",
+        "answer": "Sector 102 enjoys excellent connectivity via Dwarka Expressway, NH-48, and major city roads."
+      },
+      {
+        "question": "Is buying a house in Sector 102 a good investment?",
+        "answer": "Yes, ongoing development and increasing residential demand make it a strong option for long-term appreciation."
+      },
+      {
+        "question": "Are home loans available for these houses?",
+        "answer": "Yes, many banks and housing finance companies provide home loans for eligible properties in Sector 102."
+      },
+      {
+        "question": "What amenities are available near Sector 102?",
+        "answer": "Residents have access to schools, healthcare facilities, shopping areas, public transport, and daily convenience services."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, expert guidance, and complete buying support."
+      },
+      {
+        "question": "How can I contact property experts for Sector 102?",
+        "answer": "You can fill out the contact form on this page to connect with experienced real estate professionals."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for Affordable Houses in Sector 102 Gurugram",
+    "description": [
+      "Finding the right affordable house for sale in Sector 102 Gurugram becomes easier with professional guidance.",
+      "Share your details to receive verified listings, pricing insights, and personalized assistance from trusted property experts."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

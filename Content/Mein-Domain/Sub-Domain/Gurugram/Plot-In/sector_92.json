@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Residential and Investment Plots in Well Planned Sector 92 Gurugram",
+    "description": [
+      "Sector 92 Gurugram is a rapidly developing residential locality in New Gurugram, known for its planned infrastructure, open surroundings, and future growth potential. Buyers searching for a plot in Sector 92 Gurugram prefer this area due to its strategic location near Dwarka Expressway, NH-48, and IMT Manesar. The sector is surrounded by upcoming residential projects, schools, healthcare facilities, and retail zones, making it suitable for both end-users and long-term investors.",
+      "Plots in Sector 92 offer the freedom to design and construct homes as per individual preferences while benefiting from modern urban planning. With continuous infrastructure development and increasing demand, the locality promises steady appreciation. Choosing a plot in Sector 92 Gurugram means investing in a future-ready neighborhood that combines connectivity, livability, and strong investment value."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 92",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Options by Size in Sector 92 Gurugram",
+    "description": [
+      "Selecting the right plot size in Sector 92 Gurugram is essential for planning construction, managing budget, and ensuring future returns.",
+      "Sector 92 offers a wide range of plot sizes suitable for compact homes, spacious residences, and premium investment purposes."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 92 Gurugram",
+        "description": "A 4 Marla plot in Sector 92 Gurugram is ideal for first-time buyers and budget-focused investors. These plots support compact home designs and are well-suited for buyers looking to enter a high-growth area with promising future appreciation."
+      },
+      {
+        "title": "6 Marla Plot in Sector 92 Gurugram",
+        "description": "6 Marla plots provide a comfortable balance of space and affordability. They allow buyers to construct practical family homes with proper ventilation, parking, and modern layouts in a planned residential environment."
+      },
+      {
+        "title": "8 Marla Plot in Sector 92 Gurugram",
+        "description": "An 8 Marla plot offers greater flexibility for spacious home construction. These plots are preferred by families seeking well-designed homes with larger rooms, open spaces, and enhanced privacy."
+      },
+      {
+        "title": "10 Marla Plot in Sector 92 Gurugram",
+        "description": "10 Marla plots fall into the premium residential segment and are suitable for buyers planning larger independent houses. These plots offer better lifestyle comfort along with strong resale and rental demand."
+      },
+      {
+        "title": "12 Marla Plot in Sector 92 Gurugram",
+        "description": "A 12 Marla plot provides ample space for luxury residences and landscaped areas. These plots are ideal for joint families or buyers seeking long-term residential stability with premium living standards."
+      },
+      {
+        "title": "14 Marla Plot in Sector 92 Gurugram",
+        "description": "14 Marla plots represent premium investment opportunities in Sector 92 Gurugram. They are perfect for luxury home construction and attract buyers focused on exclusivity, space, and high capital appreciation."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Plot Options Near Sector 92 Gurugram",
+    "description": [
+      "Buyers looking for a plot in Sector 92 Gurugram often explore nearby sectors to compare development pace, pricing, and connectivity advantages.",
+      "This section highlights surrounding locations to help users make informed and confident plot-buying decisions."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 92 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 91 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 93 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 95 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Dwarka Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in New Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near IMT Manesar", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 92 Gurugram",
+    "description": [
+      "Buying a plot in Sector 92 Gurugram requires verified listings, legal transparency, and reliable guidance to ensure a safe investment.",
+      "Deal Acres stands out as a trusted platform by delivering genuine properties, clear processes, and customer-focused support."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "Each plot is verified for ownership, approvals, and authenticity to protect buyers from legal risks."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear and upfront pricing ensures buyers have complete clarity with no hidden charges."
+      },
+      {
+        "title": "Strong Local Expertise",
+        "description": "In-depth knowledge of Sector 92 Gurugram helps buyers make informed decisions."
+      },
+      {
+        "title": "Wide Range of Options",
+        "description": "Multiple plot sizes and budget options are available to match diverse buyer needs."
+      },
+      {
+        "title": "Legal and Documentation Support",
+        "description": "Complete assistance with registry, paperwork, and compliance ensures a smooth transaction."
+      },
+      {
+        "title": "Personalized Property Matching",
+        "description": "Plots are recommended based on buyer goals, whether residential or investment-focused."
+      },
+      {
+        "title": "End-to-End Buying Assistance",
+        "description": "Support from initial search to final possession makes the buying journey stress-free."
+      },
+      {
+        "title": "Trusted by Property Buyers",
+        "description": "Deal Acres is known for reliability, transparency, and long-term customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 92 Gurugram",
+    "description": "Common buyer questions related to purchasing plots in Sector 92 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 92 Gurugram a good location to buy a plot?",
+        "answer": "Yes, Sector 92 is a planned and developing area in New Gurugram with strong infrastructure growth and future appreciation potential."
+      },
+      {
+        "question": "What plot sizes are available in Sector 92 Gurugram?",
+        "answer": "Plots ranging from 4 Marla to 14 Marla are commonly available to suit different budgets and construction needs."
+      },
+      {
+        "question": "Is Sector 92 suitable for residential construction?",
+        "answer": "Yes, the sector is designed for residential development and supports independent house construction."
+      },
+      {
+        "question": "Is buying a plot in Sector 92 good for investment?",
+        "answer": "Due to proximity to Dwarka Expressway and New Gurugram growth corridors, Sector 92 offers strong long-term returns."
+      },
+      {
+        "question": "Are plots in Sector 92 legally approved?",
+        "answer": "Most plots have clear titles and approvals, but proper verification is essential. Deal Acres assists with this process."
+      },
+      {
+        "question": "How is connectivity from Sector 92 Gurugram?",
+        "answer": "Sector 92 is well connected to NH-48, Dwarka Expressway, and major business hubs."
+      },
+      {
+        "question": "Can construction start immediately after purchase?",
+        "answer": "Construction depends on plot approval and local regulations. Our experts guide buyers accordingly."
+      },
+      {
+        "question": "What amenities are available near Sector 92?",
+        "answer": "Schools, hospitals, shopping centers, and daily-need facilities are easily accessible."
+      },
+      {
+        "question": "Why should I choose Deal Acres for buying plots?",
+        "answer": "Deal Acres offers verified listings, transparent dealings, and complete buyer support."
+      },
+      {
+        "question": "How can I contact experts for plot buying in Sector 92?",
+        "answer": "You can fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Buying Plots in Sector 92 Gurugram",
+    "description": [
+      "Finding the right plot in Sector 92 Gurugram becomes easy with professional guidance.",
+      "Share your details to connect with trusted property experts who will help you find verified plots that match your budget and investment goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

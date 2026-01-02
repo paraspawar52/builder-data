@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Modern And Well Connected Houses for Rent in Sector 106 Gurugram",
+    "description": [
+      "Sector 106 Gurugram is a rapidly developing residential locality situated along the Dwarka Expressway, offering excellent connectivity and modern infrastructure. Tenants searching for a house for rent in Sector 106 Gurugram prefer this area because of its strategic location between Delhi and Gurugram, smooth road connectivity, and peaceful residential planning. The sector provides quick access to IGI Airport, Dwarka, and major employment hubs, making it an attractive choice for professionals and families.",
+      "Independent houses in Sector 106 are designed with contemporary layouts, good ventilation, and comfortable living spaces. The locality is surrounded by upcoming schools, healthcare facilities, shopping complexes, and daily convenience stores, ensuring that everyday needs are easily met. Choosing a house for rent in Sector 106 Gurugram is ideal for tenants who want a modern lifestyle, future-ready infrastructure, and a calm residential environment with strong long-term growth potential."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964205360-0f2b9a1b4c63?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661901989603-0c5c6c9e0e8a?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sector 106",
+    "description": [
+      "Plot size plays an important role when selecting a house for rent in Sector 106 Gurugram, as it directly impacts space utilization, comfort, and rental budget.",
+      "Sector 106 offers independent houses in various Marla sizes, suitable for small families, growing households, and tenants seeking spacious homes near Dwarka Expressway."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 106 Gurugram",
+        "description": "A 4 Marla house for rent in Sector 106 Gurugram is ideal for couples or small families looking for an affordable and easy-to-maintain home. These houses offer functional layouts and good connectivity."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 106 Gurugram",
+        "description": "6 Marla houses provide a balanced mix of space and affordability. They are suitable for nuclear families seeking comfortable room sizes and a peaceful residential setting."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 106 Gurugram",
+        "description": "An 8 Marla house for rent in Sector 106 Gurugram offers spacious interiors, better ventilation, and improved privacy, making it ideal for growing families."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 106 Gurugram",
+        "description": "10 Marla houses are perfect for tenants who need larger living areas, multiple bedrooms, and flexible layouts in a well-planned locality."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 106 Gurugram",
+        "description": "A 12 Marla house for rent in Sector 106 Gurugram falls under the premium rental segment, offering expansive layouts and long-term living comfort."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 106 Gurugram",
+        "description": "A 14 Marla house for rent in Sector 106 Gurugram is suitable for large or joint families seeking maximum space, privacy, and a modern residential environment."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 106 Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in Sector 106 Gurugram often explore nearby sectors and areas to compare rental options and connectivity benefits.",
+      "This section highlights surrounding localities to help users find the most suitable rental homes near Sector 106."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 106 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 105 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 108 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent near Dwarka Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 109 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent near IGI Airport", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Palam Vihar Extension", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in New Gurgaon Area", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sector 106 Rental Homes",
+    "description": [
+      "Finding a genuine house for rent in Sector 106 Gurugram requires verified listings, transparent pricing, and reliable local guidance. Deal Acres is built on trust and tenant satisfaction.",
+      "With strong expertise in Gurugram’s emerging rental corridors, Deal Acres has become a preferred platform for renting independent houses in Sector 106."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All houses are verified for ownership and authenticity to ensure safe and genuine rentals."
+      },
+      {
+        "title": "Transparent Rental Information",
+        "description": "Clear details on rent, security deposit, and terms help tenants make informed decisions."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth understanding of Sector 106 and nearby developing localities."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "User-friendly filters and smooth navigation make house hunting simple."
+      },
+      {
+        "title": "Tenant-Centric Recommendations",
+        "description": "Property suggestions based on tenant budget, family size, and lifestyle needs."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Assistance with rental agreements and paperwork ensures hassle-free transactions."
+      },
+      {
+        "title": "End-To-End Rental Assistance",
+        "description": "Support from property shortlisting to final possession of the rental home."
+      },
+      {
+        "title": "Trusted By Growing Tenant Community",
+        "description": "Deal Acres is known for reliability, transparency, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 106",
+    "description": "Common tenant questions related to house for rent in Sector 106 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 106 Gurugram a good area to rent a house?",
+        "answer": "Yes, Sector 106 is a developing locality with excellent connectivity and modern infrastructure."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 106?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are commonly available in Sector 106 Gurugram."
+      },
+      {
+        "question": "Is Sector 106 suitable for family living?",
+        "answer": "Yes, the area offers a peaceful environment with upcoming schools, parks, and healthcare facilities."
+      },
+      {
+        "question": "Are furnished houses available in Sector 106?",
+        "answer": "Yes, furnished, semi-furnished, and unfurnished houses are available depending on the property."
+      },
+      {
+        "question": "What is the average rent in Sector 106 Gurugram?",
+        "answer": "Rental prices depend on plot size, furnishing, and exact location within the sector."
+      },
+      {
+        "question": "How is connectivity from Sector 106?",
+        "answer": "Sector 106 offers excellent connectivity via Dwarka Expressway to Delhi and Gurugram."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sector 106?",
+        "answer": "Some landlords allow bachelors, while others prefer families."
+      },
+      {
+        "question": "Is Sector 106 safe for tenants?",
+        "answer": "Yes, it is considered safe with planned development and growing residential communities."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, and expert rental assistance."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 106?",
+        "answer": "You can fill out the contact form to connect with experienced rental consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sector 106 Gurugram",
+    "description": [
+      "Finding the right house for rent in Sector 106 Gurugram becomes easy with professional guidance and verified property listings.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that matches your budget, space requirements, and lifestyle preferences."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

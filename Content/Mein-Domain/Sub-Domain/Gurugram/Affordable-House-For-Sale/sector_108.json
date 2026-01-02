@@ -1,0 +1,175 @@
+{
+  "domain": "Affordablehouseforsalecom",
+
+  "hero": {
+    "title": "Affordable Independent Houses for Sale in Sector 108 Gurugram",
+    "description": [
+      "Sector 108 Gurugram is a fast-developing residential location near Dwarka Expressway, offering excellent connectivity, planned infrastructure, and a peaceful living environment. Buyers searching for an affordable house for sale in Sector 108 Gurugram are attracted by its proximity to Dwarka Expressway, IGI Airport, Palam Vihar, and major employment hubs of Gurugram and Delhi. The area is surrounded by modern residential projects, schools, healthcare centers, daily convenience stores, and green open spaces, making it suitable for families and professionals.",
+      "Affordable houses for sale in Sector 108 Gurugram offer a strong balance between price, location advantage, and future growth. With continuous infrastructure development and rising residential demand, Sector 108 is emerging as a promising destination for end-users as well as investors. Buying an independent house here ensures long-term livability, rental demand, and steady appreciation in one of Gurugram’s growth corridors."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Size Options Available in Sector 108 Gurugram",
+    "description": [
+      "Choosing the right house size in Sector 108 Gurugram depends on family needs, budget, and long-term plans.",
+      "The locality offers multiple affordable house sizes suitable for compact homes as well as spacious independent residences."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House for Sale in Sector 108 Gurugram",
+        "description": "4 Marla affordable houses in Sector 108 Gurugram are ideal for first-time buyers and small families. These homes offer independent ownership, efficient layouts, and budget-friendly pricing in a developing location."
+      },
+      {
+        "title": "6 Marla Affordable House for Sale in Sector 108 Gurugram",
+        "description": "6 Marla houses provide a comfortable balance of space and affordability. They are suitable for families seeking privacy, better room sizes, and future resale potential."
+      },
+      {
+        "title": "8 Marla Affordable House for Sale in Sector 108 Gurugram",
+        "description": "8 Marla houses offer enhanced living space with flexible floor planning. These homes are preferred by growing families looking for long-term residential comfort."
+      },
+      {
+        "title": "10 Marla Affordable House for Sale in Sector 108 Gurugram",
+        "description": "10 Marla houses are ideal for buyers seeking spacious independent homes with parking, balconies, and multiple floors in a well-connected sector."
+      },
+      {
+        "title": "12 Marla Affordable House for Sale in Sector 108 Gurugram",
+        "description": "12 Marla houses provide expansive living areas, better ventilation, and premium residential experience at competitive prices."
+      },
+      {
+        "title": "14 Marla Affordable House for Sale in Sector 108 Gurugram",
+        "description": "14 Marla houses cater to buyers looking for large independent homes or high-value long-term investment opportunities near Dwarka Expressway."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses Near Sector 108 Gurugram",
+    "description": [
+      "Buyers considering an affordable house for sale in Sector 108 Gurugram often compare nearby locations for connectivity and pricing.",
+      "These surrounding sectors enhance the residential and investment appeal of Sector 108."
+    ],
+    "locations": [
+      { "title": "Affordable House for Sale in Sector 108 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 109 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 107 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Dwarka Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House in Palam Vihar Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses near IGI Airport", "path": "/", "icon": "Landmark" },
+      { "title": "Budget Houses in New Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Houses in Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Affordable Houses",
+    "description": [
+      "Buying an affordable house for sale in Sector 108 Gurugram requires verified listings, transparent pricing, and expert support.",
+      "Deal Acres is trusted by buyers for reliable properties and a smooth buying experience."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All houses are verified for ownership, approvals, and legal clarity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden charges builds buyer confidence."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 108 pricing trends and future growth."
+      },
+      {
+        "title": "Wide Property Options",
+        "description": "Multiple house sizes and budget-friendly options available."
+      },
+      {
+        "title": "Legal and Registry Assistance",
+        "description": "Complete support for documentation and registration process."
+      },
+      {
+        "title": "Personalized Buying Advice",
+        "description": "Recommendations based on budget, family needs, and investment goals."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Assistance from property shortlisting to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for transparency, ethics, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses in Sector 108 Gurugram",
+    "description": "Detailed answers to help buyers make informed decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 108 Gurugram a good location to buy an affordable house?",
+        "answer": "Yes, Sector 108 offers good connectivity, developing infrastructure, and strong future growth potential."
+      },
+      {
+        "question": "What house sizes are available in Sector 108 Gurugram?",
+        "answer": "Affordable houses are generally available from 4 Marla to 14 Marla, subject to availability."
+      },
+      {
+        "question": "Is Sector 108 suitable for family living?",
+        "answer": "Yes, the area offers schools, healthcare facilities, parks, and a peaceful residential environment."
+      },
+      {
+        "question": "Are houses in Sector 108 legally approved?",
+        "answer": "Most houses are approved, but legal verification is essential. Deal Acres assists with due diligence."
+      },
+      {
+        "question": "How is connectivity from Sector 108 Gurugram?",
+        "answer": "Sector 108 is well connected via Dwarka Expressway and major city roads."
+      },
+      {
+        "question": "Is buying a house in Sector 108 a good investment?",
+        "answer": "Yes, rising demand and infrastructure growth support long-term appreciation."
+      },
+      {
+        "question": "Are home loans available for Sector 108 houses?",
+        "answer": "Yes, most banks and financial institutions provide home loans for eligible properties."
+      },
+      {
+        "question": "What amenities are available near Sector 108?",
+        "answer": "Nearby amenities include schools, hospitals, markets, parks, and public transport."
+      },
+      {
+        "question": "Why choose Deal Acres for buying a house?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and complete buying assistance."
+      },
+      {
+        "question": "How can I contact experts for Sector 108 properties?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for Affordable Houses in Sector 108 Gurugram",
+    "description": [
+      "Finding the right affordable house for sale in Sector 108 Gurugram is easier with expert guidance.",
+      "Share your details to receive verified listings, pricing insights, and personalized support from trusted real estate professionals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

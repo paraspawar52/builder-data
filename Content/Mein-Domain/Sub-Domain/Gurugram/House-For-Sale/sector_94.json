@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforsale.com",
+
+  "hero": {
+    "title": "Independent Houses for Sale in Sector 94 Gurugram",
+    "description": [
+      "Sector 94 Gurugram is an emerging residential destination located close to Dwarka Expressway, making it highly attractive for buyers seeking modern living with future growth potential. Homebuyers searching for a house for sale in Sector 94 Gurugram appreciate its strategic location, smooth connectivity to NH-48, IGI Airport, and key business zones of Gurugram and Delhi. The sector is surrounded by upcoming infrastructure, wide roads, and planned developments, ensuring a well-organized and future-ready residential environment. Essential facilities such as schools, hospitals, shopping complexes, and daily convenience stores are easily accessible from the area.",
+      "Independent houses in Sector 94 Gurugram offer a peaceful, low-density living experience with spacious layouts and enhanced privacy. As New Gurugram continues to develop rapidly, this locality shows strong potential for property appreciation and rental demand. Whether you are planning to purchase a home for self-use or investment, choosing a house for sale in Sector 94 Gurugram ensures affordability today and promising long-term returns in a fast-developing part of the city."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Sale",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Sale Options by Plot Size in Sector 94 Gurugram",
+    "description": [
+      "Selecting the right plot size is an important step when planning to buy a house for sale in Sector 94 Gurugram, as it directly influences comfort, layout flexibility, and budget.",
+      "Sector 94 offers multiple independent house options designed to meet diverse family needs and investment goals."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Sector 94 Gurugram",
+        "description": "A 4 Marla house for sale in Sector 94 Gurugram is ideal for buyers looking for compact and affordable independent homes. These houses are suitable for small families, working professionals, and first-time buyers."
+      },
+      {
+        "title": "6 Marla House for Sale in Sector 94 Gurugram",
+        "description": "A 6 Marla house for sale in Sector 94 Gurugram offers a balanced combination of space and affordability. These homes typically feature practical layouts, parking space, and comfortable living areas."
+      },
+      {
+        "title": "8 Marla House for Sale in Sector 94 Gurugram",
+        "description": "An 8 Marla house for sale in Sector 94 Gurugram provides spacious interiors, better ventilation, and flexibility in design, making it ideal for growing families."
+      },
+      {
+        "title": "10 Marla House for Sale in Sector 94 Gurugram",
+        "description": "A 10 Marla house for sale in Sector 94 Gurugram falls into the premium category, offering enhanced privacy, wider frontage, and superior independent living comfort."
+      },
+      {
+        "title": "12 Marla House for Sale in Sector 94 Gurugram",
+        "description": "A 12 Marla house for sale in Sector 94 Gurugram offers luxury-level space with quality construction, open areas, and ample parking facilities."
+      },
+      {
+        "title": "14 Marla House for Sale in Sector 94 Gurugram",
+        "description": "A 14 Marla house for sale in Sector 94 Gurugram represents elite residential living with expansive layouts and strong long-term appreciation potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Sale In and Around Sector 94 Gurugram",
+    "description": [
+      "Buyers exploring a house for sale in Sector 94 Gurugram often compare nearby sectors to understand pricing trends, connectivity, and future development prospects.",
+      "This section highlights surrounding residential locations to help buyers make informed property decisions."
+    ],
+    "locations": [
+      { "title": "House for Sale in Sector 94 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 93 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale in Sector 95 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Sector 92 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale near Dwarka Expressway", "path": "/", "icon": "Home" },
+      { "title": "House for Sale near NH-48 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in New Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale near IMT Manesar", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Sector 94 Houses",
+    "description": [
+      "Buying a house for sale in Sector 94 Gurugram requires verified listings, transparent pricing, and dependable local insights. Deal Acres focuses on building buyer trust and confidence.",
+      "With a customer-first approach and strong local market understanding, Deal Acres has become a preferred platform for property buyers in Gurugram."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All properties are verified to ensure authenticity and ownership clarity."
+      },
+      {
+        "title": "Transparent Pricing Insights",
+        "description": "Accurate pricing based on current market trends and locality demand."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth understanding of Sector 94 and nearby residential areas."
+      },
+      {
+        "title": "User-Friendly Platform",
+        "description": "Easy and intuitive property search experience."
+      },
+      {
+        "title": "Buyer-Centric Recommendations",
+        "description": "Listings aligned with buyer preferences, budget, and goals."
+      },
+      {
+        "title": "Documentation Guidance",
+        "description": "Basic support provided for legal and documentation checks."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Assistance available throughout the buying journey."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Strong reputation built on transparency and service quality."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About House for Sale in Sector 94 Gurugram",
+    "description": "Clear and detailed answers to common buyer queries.",
+    "faqs": [
+      {
+        "question": "Is Sector 94 Gurugram a good location to buy a house?",
+        "answer": "Yes, Sector 94 is a fast-developing area with strong connectivity and future growth potential."
+      },
+      {
+        "question": "What plot sizes are available in Sector 94 Gurugram?",
+        "answer": "Independent houses are generally available from 4 Marla to 14 Marla."
+      },
+      {
+        "question": "Is Sector 94 suitable for family living?",
+        "answer": "Yes, the area offers a peaceful environment with access to essential amenities."
+      },
+      {
+        "question": "Are ready-to-move houses available in Sector 94?",
+        "answer": "Yes, buyers can find ready-to-move and resale houses depending on availability."
+      },
+      {
+        "question": "Is Sector 94 good for rental income?",
+        "answer": "Yes, proximity to Dwarka Expressway and commercial hubs supports rental demand."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 94?",
+        "answer": "Most houses are eligible for home loans, subject to bank policies and documentation."
+      },
+      {
+        "question": "How is connectivity from Sector 94 Gurugram?",
+        "answer": "Sector 94 is well-connected via Dwarka Expressway and NH-48."
+      },
+      {
+        "question": "Is Sector 94 good for long-term investment?",
+        "answer": "Yes, the sector shows strong appreciation potential due to ongoing development."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, and expert local guidance."
+      },
+      {
+        "question": "How can I contact property experts for Sector 94?",
+        "answer": "You can fill out the contact form on this page to connect with experienced consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Sale in Sector 94 Gurugram",
+    "description": [
+      "Buying a house for sale in Sector 94 Gurugram is an important decision, and professional guidance can make the process smooth and stress-free.",
+      "Share your details to connect with trusted property experts who will help you find the right home based on your budget, preferences, and long-term plans."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

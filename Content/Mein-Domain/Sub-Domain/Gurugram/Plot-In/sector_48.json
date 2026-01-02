@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Well Connected Residential and Investment Plots in Sector 48 Gurugram",
+    "description": [
+      "Sector 48 Gurugram is a prime residential locality known for its strategic location near Sohna Road and excellent connectivity to major business and lifestyle hubs. Buyers looking for a plot in Sector 48 Gurugram prefer this area due to its proximity to Golf Course Extension Road, NH-48, and leading commercial zones of the city. The sector is surrounded by reputed schools, multi-specialty hospitals, shopping malls, and well-developed residential societies, making it a preferred choice for families.",
+      "Plots in Sector 48 Gurugram are highly demanded because of the sector’s mature infrastructure and strong future growth prospects. Whether you are planning to build an independent home or invest in land for long-term appreciation, this sector offers stability and value. Choosing a plot in Sector 48 Gurugram means securing a property in a well-established neighborhood that combines comfort, connectivity, and reliable real estate returns."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 48",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Available Plot Sizes in Sector 48 Gurugram",
+    "description": [
+      "Selecting the right plot size in Sector 48 Gurugram helps buyers plan better construction and long-term investment.",
+      "The sector offers multiple plot configurations to suit different residential and investment needs."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 48 Gurugram",
+        "description": "A 4 Marla plot in Sector 48 Gurugram is suitable for buyers seeking compact homes in a premium and well-connected area. These plots are ideal for modern, efficiently designed houses."
+      },
+      {
+        "title": "6 Marla Plot in Sector 48 Gurugram",
+        "description": "6 Marla plots offer balanced space for comfortable independent houses with parking and functional layouts in a developed locality."
+      },
+      {
+        "title": "8 Marla Plot in Sector 48 Gurugram",
+        "description": "An 8 Marla plot provides flexibility for spacious home designs and is preferred by families looking for larger living areas."
+      },
+      {
+        "title": "10 Marla Plot in Sector 48 Gurugram",
+        "description": "10 Marla plots fall under the premium category and are known for their strong resale value and limited availability."
+      },
+      {
+        "title": "12 Marla Plot in Sector 48 Gurugram",
+        "description": "A 12 Marla plot allows construction of luxury independent homes with open spaces and landscaped surroundings."
+      },
+      {
+        "title": "14 Marla Plot in Sector 48 Gurugram",
+        "description": "14 Marla plots attract buyers focused on exclusivity, spacious living, and long-term capital appreciation."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Nearby Plot Locations Around Sector 48 Gurugram",
+    "description": [
+      "Buyers searching for a plot in Sector 48 Gurugram often compare nearby sectors for better understanding of pricing and availability.",
+      "This section highlights surrounding localities with similar residential advantages."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 48 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 47 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 49 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 50 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Sohna Road", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Golf Course Extension Road", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near NH-48", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Central Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Deal Acres Is Trusted for Plots in Sector 48 Gurugram",
+    "description": [
+      "Buying a plot in Sector 48 Gurugram requires reliable listings, legal clarity, and local market expertise.",
+      "Deal Acres stands out by offering transparent services and customer-focused property solutions."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "Every plot is checked for ownership, approvals, and legal authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear and honest pricing with no hidden charges."
+      },
+      {
+        "title": "Local Market Knowledge",
+        "description": "Strong understanding of Sector 48 and nearby residential areas."
+      },
+      {
+        "title": "Wide Plot Options",
+        "description": "Multiple plot sizes to match different budgets and requirements."
+      },
+      {
+        "title": "Legal & Registry Assistance",
+        "description": "Complete support for documentation and registration process."
+      },
+      {
+        "title": "Personalized Property Advice",
+        "description": "Guidance tailored to buyer lifestyle and investment goals."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Assistance from property search to final possession."
+      },
+      {
+        "title": "Customer Trust & Satisfaction",
+        "description": "Deal Acres is known for professionalism and long-term buyer trust."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 48 Gurugram",
+    "description": "Answers to common questions asked by buyers planning to purchase plots in Sector 48 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 48 Gurugram a good area to buy a plot?",
+        "answer": "Yes, Sector 48 is a well-developed area with strong connectivity, social infrastructure, and good appreciation potential."
+      },
+      {
+        "question": "What plot sizes are available in Sector 48 Gurugram?",
+        "answer": "Plots generally range from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Is Sector 48 suitable for independent house construction?",
+        "answer": "Yes, the sector is ideal for independent homes due to its planned layout and residential environment."
+      },
+      {
+        "question": "Is buying a plot in Sector 48 a good investment?",
+        "answer": "Due to high demand and central location, Sector 48 offers reliable long-term investment returns."
+      },
+      {
+        "question": "Are plots in Sector 48 legally approved?",
+        "answer": "Most plots are approved, but legal verification is essential before finalizing a purchase."
+      },
+      {
+        "question": "How is connectivity from Sector 48 Gurugram?",
+        "answer": "Sector 48 has excellent connectivity via Sohna Road, Golf Course Extension Road, and NH-48."
+      },
+      {
+        "question": "Can construction start immediately after purchase?",
+        "answer": "Construction depends on local authority approvals and applicable building norms."
+      },
+      {
+        "question": "What amenities are available near Sector 48?",
+        "answer": "Schools, hospitals, shopping malls, parks, and daily convenience facilities are easily accessible."
+      },
+      {
+        "question": "Why choose Deal Acres for buying plots?",
+        "answer": "Deal Acres provides verified listings, transparent processes, and complete buyer assistance."
+      },
+      {
+        "question": "How can I contact property experts?",
+        "answer": "You can submit your details through the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for Buying Plots in Sector 48 Gurugram",
+    "description": [
+      "Finding the right plot in Sector 48 Gurugram becomes simple with professional guidance.",
+      "Fill in your details to connect with trusted experts who will help you find verified plots matching your budget and future plans."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

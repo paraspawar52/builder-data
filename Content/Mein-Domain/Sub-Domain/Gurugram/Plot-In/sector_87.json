@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Fast Growing Residential and Investment Plots in Sector 87 Gurugram",
+    "description": [
+      "Sector 87 Gurugram is an emerging residential destination in New Gurugram, known for its modern planning, wide roads, and rapidly improving infrastructure. Buyers searching for a Plot in Sector 87 Gurugram are attracted by its strategic location near NH-48, Dwarka Expressway, and Pataudi Road, which ensures smooth connectivity to Delhi, Manesar, and major commercial hubs. The sector is surrounded by well-developed residential projects, schools, hospitals, shopping centers, and upcoming commercial zones, making it suitable for both end users and investors.",
+      "Plots in Sector 87 Gurugram offer an excellent combination of affordability, lifestyle convenience, and long-term growth potential. With continuous infrastructure development and increasing residential demand, property prices in this area are steadily appreciating. Choosing a plot in Sector 87 Gurugram allows buyers to build custom homes in a planned environment while securing a valuable asset in one of Gurugram’s fastest-growing residential corridors."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 87",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Size Options Available in Sector 87 Gurugram",
+    "description": [
+      "Selecting the right plot size in Sector 87 Gurugram helps buyers plan construction efficiently while aligning with budget and future requirements.",
+      "Sector 87 offers multiple plot size options suitable for compact homes, spacious family residences, and long-term real estate investments."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 87 Gurugram",
+        "description": "A 4 Marla plot in Sector 87 Gurugram is ideal for buyers looking for an affordable entry into a well-planned locality. These plots are suitable for compact residential construction and are popular among first-time buyers due to good connectivity and future appreciation prospects."
+      },
+      {
+        "title": "6 Marla Plot in Sector 87 Gurugram",
+        "description": "6 Marla plots in Sector 87 Gurugram offer a balanced combination of space and value. They are suitable for comfortable independent houses and attract families seeking long-term residential stability in New Gurugram."
+      },
+      {
+        "title": "8 Marla Plot in Sector 87 Gurugram",
+        "description": "An 8 Marla plot in Sector 87 Gurugram provides flexibility in home design and open spaces. Buyers planning spacious family homes often prefer this size for better ventilation and resale potential."
+      },
+      {
+        "title": "10 Marla Plot in Sector 87 Gurugram",
+        "description": "10 Marla plots are premium residential options in Sector 87 Gurugram. These plots allow construction of larger homes with modern layouts and are considered strong long-term investments."
+      },
+      {
+        "title": "12 Marla Plot in Sector 87 Gurugram",
+        "description": "A 12 Marla plot in Sector 87 Gurugram is ideal for buyers seeking expansive living spaces and premium construction possibilities. Limited availability adds to their investment appeal."
+      },
+      {
+        "title": "14 Marla Plot in Sector 87 Gurugram",
+        "description": "14 Marla plots in Sector 87 Gurugram cater to buyers looking for large land parcels for luxury homes. These plots are suitable for high-end residential development and wealth creation."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Plot Options Near Sector 87 Gurugram",
+    "description": [
+      "Buyers interested in a Plot in Sector 87 Gurugram often explore nearby sectors to compare pricing, development progress, and connectivity.",
+      "This section highlights surrounding locations that complement Sector 87’s residential and investment appeal."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 87 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 86 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 88 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 89 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Dwarka Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in New Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Plots in Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 87 Gurugram",
+    "description": [
+      "Buying a Plot in Sector 87 Gurugram requires verified listings, transparent pricing, and reliable local expertise.",
+      "Deal Acres has earned buyer trust by consistently delivering genuine property options and customer-focused real estate services."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are thoroughly verified for ownership, approvals, and legal documentation."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden charges ensures complete peace of mind for buyers."
+      },
+      {
+        "title": "Strong Local Market Knowledge",
+        "description": "In-depth understanding of Sector 87 Gurugram development trends and future prospects."
+      },
+      {
+        "title": "Wide Range of Plot Options",
+        "description": "Access to multiple plot sizes that suit different budgets and housing needs."
+      },
+      {
+        "title": "Legal and Registry Assistance",
+        "description": "Complete support with legal verification, registry, and compliance procedures."
+      },
+      {
+        "title": "Personalized Property Guidance",
+        "description": "Customized recommendations based on buyer lifestyle and investment goals."
+      },
+      {
+        "title": "End-to-End Buying Support",
+        "description": "Assistance from property shortlisting to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for ethical practices, transparency, and long-term customer trust."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 87 Gurugram",
+    "description": "Clear and detailed answers to common buyer questions to support informed decision-making.",
+    "faqs": [
+      {
+        "question": "Is Sector 87 Gurugram a good location to buy a plot?",
+        "answer": "Yes, Sector 87 Gurugram is a fast-developing area with strong connectivity, modern infrastructure, and good appreciation potential."
+      },
+      {
+        "question": "What plot sizes are available in Sector 87 Gurugram?",
+        "answer": "Plots in Sector 87 Gurugram are generally available from 4 Marla to 14 Marla, subject to availability."
+      },
+      {
+        "question": "Is Sector 87 suitable for residential construction?",
+        "answer": "Yes, the sector is suitable for residential construction due to its planned layout and developing civic amenities."
+      },
+      {
+        "question": "Is buying a plot in Sector 87 a good investment?",
+        "answer": "With ongoing development and increasing demand, Sector 87 offers strong long-term investment potential."
+      },
+      {
+        "question": "Are plots in Sector 87 legally approved?",
+        "answer": "Most plots are approved, but legal verification is essential. Deal Acres assists buyers with due diligence."
+      },
+      {
+        "question": "How is connectivity from Sector 87 Gurugram?",
+        "answer": "Sector 87 enjoys good connectivity via NH-48, Dwarka Expressway, and major city roads."
+      },
+      {
+        "question": "Can construction start immediately after purchase?",
+        "answer": "Construction depends on local authority approvals and building norms. Expert guidance is recommended."
+      },
+      {
+        "question": "What amenities are available near Sector 87?",
+        "answer": "The area has access to schools, hospitals, shopping complexes, and daily convenience facilities."
+      },
+      {
+        "question": "Why choose Deal Acres for buying plots in Sector 87?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, legal assistance, and end-to-end buyer support."
+      },
+      {
+        "question": "How can I contact property experts for Sector 87 plots?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Buying Plots in Sector 87 Gurugram",
+    "description": [
+      "Finding the right Plot in Sector 87 Gurugram becomes simple with professional support and verified property options.",
+      "Share your details to connect with trusted real estate experts who will help you explore suitable plots and make a confident buying decision."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Residential and Investment Plots in Rajendra Park Gurugram",
+    "description": [
+      "Rajendra Park Gurugram is a well-established residential locality known for its affordability, convenient location, and strong connectivity to major parts of Gurugram and Delhi. Buyers searching for a plot in Rajendra Park Gurugram prefer this area due to its proximity to Dwarka Expressway, NH-48, and nearby localities such as Palam Vihar, New Palam Vihar, and Sector 105. The locality offers a settled neighborhood with access to schools, hospitals, local markets, and daily convenience facilities, making it suitable for families and end-users.",
+      "Plots in Rajendra Park are ideal for buyers planning independent homes as well as investors looking for steady appreciation. With ongoing infrastructure development and increasing demand for affordable plotted developments, Rajendra Park continues to attract attention from first-time buyers and long-term investors. Choosing a plot in Rajendra Park Gurugram offers a balance of reasonable pricing, connectivity advantages, and a comfortable residential environment."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Rajendra Park",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585153490-76fb20a32601?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1597047084897-51e81819a499?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Size Options Available in Rajendra Park Gurugram",
+    "description": [
+      "Choosing the right plot size in Rajendra Park Gurugram is important for construction planning, budget suitability, and future requirements.",
+      "The locality offers multiple plot size options suitable for independent houses, builder floors, and long-term investment purposes."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Rajendra Park Gurugram",
+        "description": "A 4 Marla plot in Rajendra Park Gurugram is suitable for compact independent homes. These plots are ideal for buyers looking for affordable residential options in a well-connected area."
+      },
+      {
+        "title": "6 Marla Plot in Rajendra Park Gurugram",
+        "description": "6 Marla plots offer a good balance between space and price, allowing buyers to design functional homes with parking and proper ventilation."
+      },
+      {
+        "title": "8 Marla Plot in Rajendra Park Gurugram",
+        "description": "An 8 Marla plot provides flexibility for larger home layouts and is preferred by families planning spacious living areas."
+      },
+      {
+        "title": "10 Marla Plot in Rajendra Park Gurugram",
+        "description": "10 Marla plots fall under the premium segment and are suitable for independent houses with enhanced privacy and modern architectural designs."
+      },
+      {
+        "title": "12 Marla Plot in Rajendra Park Gurugram",
+        "description": "A 12 Marla plot offers ample space for luxury residential construction with open areas and landscaped surroundings."
+      },
+      {
+        "title": "14 Marla Plot in Rajendra Park Gurugram",
+        "description": "14 Marla plots are ideal for buyers seeking long-term investment opportunities due to limited availability and rising demand."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Nearby Plot Locations Around Rajendra Park",
+    "description": [
+      "Buyers interested in a plot in Rajendra Park Gurugram often explore nearby localities to compare pricing, availability, and connectivity.",
+      "These surrounding areas offer similar residential advantages and development potential."
+    ],
+    "locations": [
+      { "title": "Plot in Rajendra Park Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in New Palam Vihar Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Palam Vihar Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 105 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Dwarka Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Udyog Vihar", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in New Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Rajendra Park",
+    "description": [
+      "Buying a plot in Rajendra Park Gurugram requires verified listings, transparent transactions, and local market expertise.",
+      "Deal Acres is trusted by buyers for reliable services, legal clarity, and professional property assistance."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are verified for ownership, approvals, and legal documentation."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing structure with no hidden charges builds buyer confidence."
+      },
+      {
+        "title": "Local Market Knowledge",
+        "description": "In-depth understanding of Rajendra Park property trends and demand."
+      },
+      {
+        "title": "Multiple Plot Options",
+        "description": "Wide range of plot sizes to suit different budgets and requirements."
+      },
+      {
+        "title": "Legal and Registry Support",
+        "description": "Complete assistance with documentation, registry, and compliance."
+      },
+      {
+        "title": "Personalized Property Matching",
+        "description": "Tailored plot recommendations based on buyer preferences."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from initial search to final possession of the plot."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Deal Acres is known for reliability, transparency, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Rajendra Park",
+    "description": "Common buyer queries related to purchasing plots in Rajendra Park Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Rajendra Park a good location to buy a plot?",
+        "answer": "Yes, Rajendra Park offers affordable plots, good connectivity, and a well-settled residential environment."
+      },
+      {
+        "question": "What plot sizes are available in Rajendra Park Gurugram?",
+        "answer": "Plots generally range from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Is Rajendra Park suitable for residential construction?",
+        "answer": "Yes, the locality is suitable for independent houses and builder floor construction."
+      },
+      {
+        "question": "Is buying a plot in Rajendra Park a good investment?",
+        "answer": "With improving infrastructure and rising demand, the area offers steady long-term appreciation."
+      },
+      {
+        "question": "Are plots in Rajendra Park legally approved?",
+        "answer": "Most plots have clear titles, but legal verification is always recommended."
+      },
+      {
+        "question": "How is connectivity from Rajendra Park?",
+        "answer": "The area is well connected to Dwarka Expressway, NH-48, and major city roads."
+      },
+      {
+        "question": "Can construction start immediately after purchase?",
+        "answer": "Construction depends on local authority approvals and applicable building norms."
+      },
+      {
+        "question": "What amenities are available near Rajendra Park?",
+        "answer": "Schools, hospitals, markets, and daily convenience facilities are easily accessible."
+      },
+      {
+        "question": "Why choose Deal Acres for buying plots?",
+        "answer": "Deal Acres offers verified listings, transparent deals, and complete buyer support."
+      },
+      {
+        "question": "How can I contact a plot expert?",
+        "answer": "You can fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Buying Plots in Rajendra Park",
+    "description": [
+      "Finding the right plot in Rajendra Park Gurugram becomes easier with expert guidance.",
+      "Share your details to connect with trusted property professionals who will help you find verified plots matching your residential or investment goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

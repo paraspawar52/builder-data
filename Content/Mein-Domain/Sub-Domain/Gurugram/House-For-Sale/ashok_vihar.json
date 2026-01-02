@@ -1,0 +1,151 @@
+{
+  "domain": "Houseforsale.com",
+
+  "hero": {
+    "title": "Independent Residential Houses for Sale in Ashok Vihar Gurugram",
+    "description": [
+      "Ashok Vihar Gurugram is a well-established residential locality known for its calm surroundings, central connectivity, and practical urban living. Buyers searching for a House for sale in Ashok Vihar Gurugram are attracted by its proximity to key city roads, commercial areas, and daily convenience facilities. The locality offers a balanced lifestyle with organized streets, greenery, and easy access to schools, markets, hospitals, and public transport, making it suitable for families as well as working professionals.",
+      "Independent houses in Ashok Vihar provide privacy, spacious layouts, and long-term residential comfort. Unlike high-rise apartments, these homes offer personal space, better ventilation, and customization flexibility. Investing in a house for sale in Ashok Vihar Gurugram is a sensible choice for buyers looking for stable property value, consistent rental demand, and a peaceful yet well-connected neighborhood within Gurugram."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Sale",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Sale Options by Plot Size in Ashok Vihar Gurugram",
+    "description": [
+      "Selecting the right plot size is an important decision when buying a house for sale in Ashok Vihar Gurugram, as it directly impacts space utilization, lifestyle comfort, and budget planning.",
+      "Ashok Vihar offers multiple independent house configurations, ranging from compact homes to spacious premium residences, catering to diverse buyer needs."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Ashok Vihar Gurugram",
+        "description": "A 4 Marla house for sale in Ashok Vihar Gurugram is ideal for buyers seeking a compact, easy-to-maintain home in a well-connected residential area with good rental potential."
+      },
+      {
+        "title": "6 Marla House for Sale in Ashok Vihar Gurugram",
+        "description": "6 Marla houses provide a practical balance of space and affordability, making them suitable for small to mid-sized families."
+      },
+      {
+        "title": "8 Marla House for Sale in Ashok Vihar Gurugram",
+        "description": "An 8 Marla house offers spacious rooms, improved ventilation, and flexible layouts for comfortable long-term living."
+      },
+      {
+        "title": "10 Marla House for Sale in Ashok Vihar Gurugram",
+        "description": "10 Marla houses are preferred by buyers looking for premium living with larger interiors, privacy, and strong resale value."
+      },
+      {
+        "title": "12 Marla House for Sale in Ashok Vihar Gurugram",
+        "description": "12 Marla houses fall into the luxury segment, offering ample open space, modern construction, and exclusivity."
+      },
+      {
+        "title": "14 Marla House for Sale in Ashok Vihar Gurugram",
+        "description": "A 14 Marla house represents high-end independent living with expansive layouts, premium design, and long-term appreciation potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Sale Near Ashok Vihar Gurugram",
+    "description": [
+      "Buyers considering a house for sale in Ashok Vihar Gurugram often explore nearby localities to compare pricing, connectivity, and residential advantages.",
+      "This section helps users quickly discover surrounding areas and evaluate suitable property options."
+    ],
+    "locations": [
+      { "title": "House for Sale in Ashok Vihar Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 8 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale in Sector 9 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Sector 10 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale in Palam Vihar Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 7 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in New Palam Vihar", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale near Old Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Ashok Vihar Houses",
+    "description": [
+      "Buying a house for sale in Ashok Vihar Gurugram requires accurate property details, transparent pricing, and dependable local insights. Deal Acres focuses on providing verified listings and clear information.",
+      "With a customer-first approach and deep understanding of Gurugram’s residential market, Deal Acres has earned the trust of homebuyers across the city."
+    ],
+    "points": [
+      { "title": "Verified House Listings", "description": "All listings are verified to ensure ownership clarity and authenticity." },
+      { "title": "Transparent Pricing", "description": "Prices are aligned with actual market trends and locality value." },
+      { "title": "Local Market Knowledge", "description": "Strong understanding of Ashok Vihar and nearby residential areas." },
+      { "title": "Easy Property Discovery", "description": "Simple and user-friendly platform for smooth browsing." },
+      { "title": "Buyer-Focused Guidance", "description": "Recommendations based on buyer needs, budget, and goals." },
+      { "title": "Documentation Assistance", "description": "Basic support for property paperwork and legal clarity." },
+      { "title": "End-to-End Support", "description": "Help available from shortlisting to final transaction." },
+      { "title": "Trusted by Buyers", "description": "Reputation built on transparency, reliability, and service quality." }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses in Ashok Vihar Gurugram",
+    "description": "Common buyer questions related to house for sale in Ashok Vihar Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Ashok Vihar a good area to buy a house?",
+        "answer": "Yes, Ashok Vihar is a well-established locality offering good connectivity, daily conveniences, and stable property value."
+      },
+      {
+        "question": "What plot sizes are available in Ashok Vihar?",
+        "answer": "Independent houses are commonly available from 4 Marla to 14 Marla plot sizes."
+      },
+      {
+        "question": "Is Ashok Vihar suitable for family living?",
+        "answer": "Yes, the area offers a peaceful residential environment with schools, markets, and hospitals nearby."
+      },
+      {
+        "question": "Are ready-to-move houses available in Ashok Vihar?",
+        "answer": "Yes, buyers can find ready-to-move as well as renovated independent houses."
+      },
+      {
+        "question": "Is Ashok Vihar good for long-term investment?",
+        "answer": "Yes, its central location and steady demand support long-term value appreciation."
+      },
+      {
+        "question": "Can I get a home loan for houses in Ashok Vihar?",
+        "answer": "Most houses are eligible for home loans, subject to bank approval."
+      },
+      {
+        "question": "How is connectivity from Ashok Vihar Gurugram?",
+        "answer": "Ashok Vihar is well-connected to major city roads and nearby commercial hubs."
+      },
+      {
+        "question": "Is there rental demand in Ashok Vihar?",
+        "answer": "Yes, rental demand remains consistent due to its location and livability."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and trusted local guidance."
+      },
+      {
+        "question": "How can I contact property experts for Ashok Vihar?",
+        "answer": "You can fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Sale in Ashok Vihar Gurugram",
+    "description": [
+      "Buying a house for sale in Ashok Vihar Gurugram is an important decision, and expert assistance can make the process smooth and informed.",
+      "Share your details to connect with trusted property experts who will help you find the right home based on your preferences, budget, and future plans."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Strategic Residential and Investment Plots in Sector 113 Gurugram",
+    "description": [
+      "Sector 113 Gurugram is a rapidly developing residential sector located along the Dwarka Expressway, making it one of the most promising growth corridors in the city. Buyers searching for a Plot in Sector 113 Gurugram are attracted by its direct connectivity to Delhi, IGI Airport, and key commercial hubs of Gurugram. The sector benefits from planned infrastructure, wide roads, upcoming metro connectivity, and proximity to diplomatic enclaves and premium developments, offering both convenience and future readiness.",
+      "Plots in Sector 113 Gurugram present an excellent opportunity for homebuyers and investors looking for early entry into a high-potential location. With continuous infrastructure upgrades, increasing residential demand, and strategic positioning near the Delhi-Gurugram border, the area shows strong appreciation prospects. Choosing a plot in Sector 113 Gurugram means investing in a future-focused location that combines connectivity, growth potential, and flexibility for custom residential development."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 113",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Size Options Available in Sector 113 Gurugram",
+    "description": [
+      "Selecting the right plot size in Sector 113 Gurugram is an important step that influences construction planning, budget allocation, and long-term resale value.",
+      "Sector 113 offers multiple plot size options suitable for modern homes, spacious family residences, and premium independent houses."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 113 Gurugram",
+        "description": "A 4 Marla plot in Sector 113 Gurugram is ideal for buyers seeking an affordable entry into a fast-developing corridor. These plots are suitable for compact homes and attract first-time buyers due to their lower investment and future appreciation potential."
+      },
+      {
+        "title": "6 Marla Plot in Sector 113 Gurugram",
+        "description": "6 Marla plots in Sector 113 Gurugram offer a balanced combination of price and usable space. They are suitable for comfortable independent houses and are preferred by families planning long-term residential use."
+      },
+      {
+        "title": "8 Marla Plot in Sector 113 Gurugram",
+        "description": "An 8 Marla plot in Sector 113 Gurugram provides flexibility in home design and layout. Buyers planning spacious family homes often choose this size for better ventilation, open areas, and resale value."
+      },
+      {
+        "title": "10 Marla Plot in Sector 113 Gurugram",
+        "description": "10 Marla plots are premium residential options in Sector 113 Gurugram. These plots allow construction of larger homes with modern layouts and are favored by buyers looking for long-term appreciation."
+      },
+      {
+        "title": "12 Marla Plot in Sector 113 Gurugram",
+        "description": "A 12 Marla plot in Sector 113 Gurugram is ideal for buyers seeking spacious living and premium construction possibilities. Limited availability of such plots adds to their investment appeal."
+      },
+      {
+        "title": "14 Marla Plot in Sector 113 Gurugram",
+        "description": "14 Marla plots in Sector 113 Gurugram cater to buyers looking for expansive land parcels for luxury homes. These plots are suitable for high-end residential development and wealth creation."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Plot Options Near Sector 113 Gurugram",
+    "description": [
+      "Buyers interested in a Plot in Sector 113 Gurugram often explore nearby sectors to compare pricing, development progress, and connectivity.",
+      "This section highlights surrounding locations that enhance Sector 113’s residential and investment appeal."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 113 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 112 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 114 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Dwarka Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Delhi Gurugram Border", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near IGI Airport", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in New Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Plots in Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 113 Gurugram",
+    "description": [
+      "Buying a Plot in Sector 113 Gurugram requires verified listings, transparent processes, and reliable local expertise.",
+      "Deal Acres has earned buyer trust by consistently delivering genuine property options and customer-centric real estate services."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are verified for ownership, approvals, and legal documentation to ensure buyer confidence."
+      },
+      {
+        "title": "Transparent Pricing Structure",
+        "description": "Clear pricing with no hidden charges helps buyers make informed decisions."
+      },
+      {
+        "title": "Strong Local Market Knowledge",
+        "description": "In-depth understanding of Sector 113 Gurugram development plans and pricing trends."
+      },
+      {
+        "title": "Wide Range of Plot Options",
+        "description": "Multiple plot sizes available to suit different budgets and housing needs."
+      },
+      {
+        "title": "Legal and Registry Assistance",
+        "description": "Complete support with legal checks, registry, and compliance processes."
+      },
+      {
+        "title": "Personalized Property Guidance",
+        "description": "Tailored recommendations based on buyer goals and investment plans."
+      },
+      {
+        "title": "End-to-End Buying Support",
+        "description": "Assistance from property shortlisting to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for ethical practices, professionalism, and long-term customer trust."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 113 Gurugram",
+    "description": "Detailed answers to common buyer queries to help make confident property decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 113 Gurugram a good location to buy a plot?",
+        "answer": "Yes, Sector 113 Gurugram is a fast-developing area along Dwarka Expressway with strong connectivity and future growth potential."
+      },
+      {
+        "question": "What plot sizes are available in Sector 113 Gurugram?",
+        "answer": "Plots in Sector 113 Gurugram are available in sizes ranging from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Is Sector 113 suitable for residential construction?",
+        "answer": "Yes, the sector is suitable for residential construction due to its planned layout and upcoming infrastructure."
+      },
+      {
+        "question": "Is buying a plot in Sector 113 a good investment?",
+        "answer": "With ongoing infrastructure development and rising demand, Sector 113 offers strong long-term appreciation potential."
+      },
+      {
+        "question": "Are plots in Sector 113 legally approved?",
+        "answer": "Most plots are legally approved, but buyers should verify documents. Deal Acres assists with legal verification."
+      },
+      {
+        "question": "How is connectivity from Sector 113 Gurugram?",
+        "answer": "Sector 113 enjoys excellent connectivity via Dwarka Expressway and proximity to Delhi and IGI Airport."
+      },
+      {
+        "question": "Can construction start immediately after purchase?",
+        "answer": "Construction depends on local building norms and approvals. Professional guidance is recommended."
+      },
+      {
+        "question": "What amenities are available near Sector 113?",
+        "answer": "The area is developing with access to schools, hospitals, markets, and upcoming civic amenities."
+      },
+      {
+        "question": "Why choose Deal Acres for buying plots in Sector 113?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, legal assistance, and end-to-end buyer support."
+      },
+      {
+        "question": "How can I contact property experts for Sector 113 plots?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Buying Plots in Sector 113 Gurugram",
+    "description": [
+      "Finding the right Plot in Sector 113 Gurugram becomes easy with professional support and verified property listings.",
+      "Share your details to connect with trusted real estate experts who will help you explore suitable plot options and make a confident buying decision."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

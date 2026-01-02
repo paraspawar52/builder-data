@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforsale.com",
+
+  "hero": {
+    "title": "Independent Houses for Sale in Sector 47 Gurugram",
+    "description": [
+      "Sector 47 Gurugram is a well-established and highly preferred residential locality known for its central location and excellent connectivity. Homebuyers searching for a house for sale in Sector 47 Gurugram are drawn to this area due to its close proximity to Sohna Road, Golf Course Extension Road, NH-48, and major commercial hubs of the city. The sector offers easy access to reputed schools, hospitals, shopping malls, daily markets, and corporate offices, making everyday life smooth and convenient for families and working professionals.",
+      "Independent houses in Sector 47 Gurugram provide a rare combination of space, privacy, and a peaceful living environment within a prime city location. The area features wide internal roads, planned residential layouts, and a strong neighborhood community. Whether you are buying for self-use or investment, choosing a house for sale in Sector 47 Gurugram ensures stable property appreciation, strong rental demand, and a comfortable lifestyle in one of Gurugram’s most sought-after residential sectors."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Sale",
+        "path": "/"
+      },
+      {
+        "label": "Talk to Property Experts",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Sale Options by Plot Size in Sector 47 Gurugram",
+    "description": [
+      "Choosing the right plot size is a key step when planning to buy a house for sale in Sector 47 Gurugram, as it directly affects comfort, layout flexibility, and long-term suitability.",
+      "Sector 47 offers multiple independent house plot sizes to match different budgets, family needs, and lifestyle preferences."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Sector 47 Gurugram",
+        "description": "A 4 Marla house for sale in Sector 47 Gurugram is an excellent option for buyers looking for an affordable independent home in a prime location. These houses are compact, easy to maintain, and ideal for small families or professionals. Due to the central location, they also offer strong rental demand."
+      },
+      {
+        "title": "6 Marla House for Sale in Sector 47 Gurugram",
+        "description": "A 6 Marla house for sale in Sector 47 Gurugram offers a practical balance between space and budget. These homes usually feature comfortable room sizes, parking space, and good ventilation, making them suitable for families planning long-term residence."
+      },
+      {
+        "title": "8 Marla House for Sale in Sector 47 Gurugram",
+        "description": "An 8 Marla house for sale in Sector 47 Gurugram is preferred by buyers seeking spacious interiors and flexible layouts. These houses often include larger bedrooms, balconies, and separate living areas, ensuring better comfort and resale value."
+      },
+      {
+        "title": "10 Marla House for Sale in Sector 47 Gurugram",
+        "description": "A 10 Marla house for sale in Sector 47 Gurugram falls under the premium housing category, offering wider frontage, enhanced privacy, and modern construction. These homes are ideal for joint families and buyers who value space and location."
+      },
+      {
+        "title": "12 Marla House for Sale in Sector 47 Gurugram",
+        "description": "A 12 Marla house for sale in Sector 47 Gurugram provides luxury-level living with spacious layouts, terraces, and premium fittings. These homes attract buyers looking for exclusivity, comfort, and long-term capital appreciation."
+      },
+      {
+        "title": "14 Marla House for Sale in Sector 47 Gurugram",
+        "description": "A 14 Marla house for sale in Sector 47 Gurugram represents elite independent living in a prime residential sector. These properties offer expansive space, superior privacy, and are considered premium assets with excellent long-term value."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Sale In and Around Sector 47 Gurugram",
+    "description": [
+      "While searching for a house for sale in Sector 47 Gurugram, buyers often explore nearby sectors to compare pricing, connectivity, and residential advantages.",
+      "This section highlights surrounding locations to help users evaluate multiple housing options."
+    ],
+    "locations": [
+      { "title": "House for Sale in Sector 47 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 46 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale in Sector 48 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Sector 49 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale near Sohna Road Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 50 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale near Golf Course Extension Road", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale near NH-48 Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Trusted Choice for Sector 47 Houses",
+    "description": [
+      "Buying a house for sale in Sector 47 Gurugram requires verified listings, transparent pricing, and reliable local guidance. Deal Acres focuses on delivering trust and clarity at every step.",
+      "With a customer-first approach, Deal Acres has become a preferred property platform across Gurugram."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All listings are thoroughly verified for ownership and authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Buyers receive accurate pricing based on current market trends."
+      },
+      {
+        "title": "Local Expertise",
+        "description": "Strong understanding of Sector 47 and surrounding residential areas."
+      },
+      {
+        "title": "Easy Search Experience",
+        "description": "Simple tools help users search, compare, and shortlist houses easily."
+      },
+      {
+        "title": "Buyer-Focused Listings",
+        "description": "Properties curated according to buyer needs, budget, and goals."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Basic guidance provided for legal and paperwork processes."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support available from first inquiry to final discussions."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "A reputation built on transparency, service quality, and satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About House for Sale in Sector 47 Gurugram",
+    "description": "Detailed answers to common buyer questions to help you make informed decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 47 Gurugram a good area to buy a house?",
+        "answer": "Yes, Sector 47 is a prime residential area with excellent connectivity, strong infrastructure, and high demand."
+      },
+      {
+        "question": "What plot sizes are available in Sector 47 Gurugram?",
+        "answer": "Independent houses are available from 4 Marla to 14 Marla, depending on location and availability."
+      },
+      {
+        "question": "Is Sector 47 suitable for family living?",
+        "answer": "Yes, the sector offers a peaceful environment with schools, hospitals, parks, and markets nearby."
+      },
+      {
+        "question": "Are ready-to-move houses available in Sector 47?",
+        "answer": "Yes, buyers can find ready-to-move and resale houses based on current listings."
+      },
+      {
+        "question": "Is Sector 47 good for long-term investment?",
+        "answer": "Yes, its central location and consistent demand support strong long-term appreciation."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 47?",
+        "answer": "Most houses are eligible for home loans, subject to bank approval and documentation."
+      },
+      {
+        "question": "How is connectivity from Sector 47 Gurugram?",
+        "answer": "Sector 47 enjoys smooth connectivity to Sohna Road, NH-48, and major city areas."
+      },
+      {
+        "question": "Is rental demand strong in Sector 47?",
+        "answer": "Yes, proximity to offices and commercial hubs ensures steady rental demand."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and local market expertise."
+      },
+      {
+        "question": "How can I contact property experts for Sector 47?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Sale in Sector 47 Gurugram",
+    "description": [
+      "Buying a house for sale in Sector 47 Gurugram is a major financial decision, and expert guidance can simplify the entire process.",
+      "Share your details to connect with trusted property experts who will help you find the right home based on your budget, preferences, and long-term goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

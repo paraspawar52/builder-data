@@ -1,0 +1,151 @@
+{
+  "domain": "Houseforsale.com",
+
+  "hero": {
+    "title": "Premium Independent Houses for Sale in Sector 76 Gurugram",
+    "description": [
+      "Sector 76 Gurugram is a fast-developing residential locality that offers a modern lifestyle combined with strong connectivity and planned infrastructure. Buyers searching for a house for sale in Sector 76 Gurugram are drawn to its proximity to Southern Peripheral Road (SPR), NH-48, and key business hubs of Gurugram. The sector is surrounded by green belts, wide internal roads, and reputed residential projects, making it an emerging choice for families and professionals looking for peaceful yet well-connected living.",
+      "Independent houses in Sector 76 provide the advantage of privacy, flexible layouts, and long-term comfort compared to high-rise apartments. The area has easy access to schools, hospitals, shopping complexes, and daily convenience stores. Investing in a house for sale in Sector 76 Gurugram is considered a smart move due to rising demand, future infrastructure growth, and strong potential for property appreciation and rental income."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Sale",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Sale Options by Plot Size in Sector 76 Gurugram",
+    "description": [
+      "Choosing the right plot size is essential when planning to buy a house for sale in Sector 76 Gurugram, as it directly impacts space utilization, comfort, and future needs.",
+      "Sector 76 offers a wide range of independent house options, catering to different budgets and lifestyle preferences, from compact homes to spacious luxury residences."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Sector 76 Gurugram",
+        "description": "A 4 Marla house for sale in Sector 76 Gurugram is suitable for buyers looking for an affordable independent home with easy maintenance and good rental potential."
+      },
+      {
+        "title": "6 Marla House for Sale in Sector 76 Gurugram",
+        "description": "6 Marla houses offer a balanced combination of space and affordability, ideal for small families seeking comfortable living in a growing locality."
+      },
+      {
+        "title": "8 Marla House for Sale in Sector 76 Gurugram",
+        "description": "An 8 Marla house provides spacious interiors, better ventilation, and flexibility in design, making it ideal for long-term family use."
+      },
+      {
+        "title": "10 Marla House for Sale in Sector 76 Gurugram",
+        "description": "10 Marla houses are preferred by buyers looking for premium space, privacy, and strong resale value."
+      },
+      {
+        "title": "12 Marla House for Sale in Sector 76 Gurugram",
+        "description": "12 Marla houses fall into the luxury category, offering modern architecture, open areas, and enhanced lifestyle comfort."
+      },
+      {
+        "title": "14 Marla House for Sale in Sector 76 Gurugram",
+        "description": "A 14 Marla house represents spacious and exclusive living with excellent appreciation potential in Sector 76."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Sale Near Sector 76 Gurugram",
+    "description": [
+      "Buyers interested in a house for sale in Sector 76 Gurugram often explore nearby sectors to compare pricing, connectivity, and lifestyle advantages.",
+      "This section highlights surrounding residential areas to help users make informed property decisions."
+    ],
+    "locations": [
+      { "title": "House for Sale in Sector 76 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 77 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale in Sector 75 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Sector 78 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale near SPR Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 79 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in New Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale near NH-48 Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Sector 76 Houses",
+    "description": [
+      "Buying a house for sale in Sector 76 Gurugram requires verified listings, transparent pricing, and reliable guidance. Deal Acres focuses on delivering clarity and trust throughout the property buying journey.",
+      "With deep local market knowledge and a buyer-first approach, Deal Acres has become a preferred platform for independent house buyers in Gurugram."
+    ],
+    "points": [
+      { "title": "Verified Property Listings", "description": "Every listing is checked to ensure authenticity and ownership clarity." },
+      { "title": "Transparent Pricing Insights", "description": "Prices are aligned with real market trends and conditions." },
+      { "title": "Local Market Knowledge", "description": "Strong understanding of Sector 76 and nearby residential areas." },
+      { "title": "Easy-to-Use Platform", "description": "User-friendly interface for smooth property search." },
+      { "title": "Buyer-Centric Approach", "description": "Recommendations based on buyer needs and budget." },
+      { "title": "Documentation Assistance", "description": "Guidance for basic legal and property documentation." },
+      { "title": "End-to-End Support", "description": "Support from property discovery to final purchase." },
+      { "title": "Trusted Brand Reputation", "description": "Known for transparency, reliability, and service quality." }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses in Sector 76 Gurugram",
+    "description": "Answers to common buyer questions related to house for sale in Sector 76 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 76 Gurugram a good area to buy a house?",
+        "answer": "Yes, Sector 76 is a developing locality with good connectivity, planned infrastructure, and strong future growth prospects."
+      },
+      {
+        "question": "What plot sizes are available in Sector 76?",
+        "answer": "Independent houses in Sector 76 are commonly available from 4 Marla to 14 Marla."
+      },
+      {
+        "question": "Is Sector 76 suitable for family living?",
+        "answer": "Yes, the area offers a peaceful environment, green surroundings, and access to essential amenities."
+      },
+      {
+        "question": "Are ready-to-move houses available in Sector 76?",
+        "answer": "Buyers can find both ready-to-move and newly constructed houses in this sector."
+      },
+      {
+        "question": "Is Sector 76 good for rental income?",
+        "answer": "Yes, its proximity to major roads and business hubs ensures good rental demand."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 76?",
+        "answer": "Most properties are eligible for home loans, subject to bank and legal approvals."
+      },
+      {
+        "question": "How is connectivity from Sector 76 Gurugram?",
+        "answer": "Sector 76 is well-connected via SPR, NH-48, and major city roads."
+      },
+      {
+        "question": "Is Sector 76 a good long-term investment?",
+        "answer": "Yes, ongoing development and infrastructure projects support long-term appreciation."
+      },
+      {
+        "question": "Why choose Deal Acres for buying a house?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and expert local guidance."
+      },
+      {
+        "question": "How can I contact property experts for Sector 76?",
+        "answer": "You can fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Sale in Sector 76 Gurugram",
+    "description": [
+      "Buying a house for sale in Sector 76 Gurugram is an important decision, and expert assistance can simplify the process and reduce risks.",
+      "Share your details to connect with trusted property experts who will help you find the right home based on your budget, preferences, and future goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

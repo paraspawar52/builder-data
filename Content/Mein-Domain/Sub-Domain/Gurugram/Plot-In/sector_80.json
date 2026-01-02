@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Premium Residential and Investment Plots in Sector 80 Gurugram",
+    "description": [
+      "Sector 80 Gurugram is a rapidly developing residential destination in New Gurugram, known for its modern planning, excellent connectivity, and future-ready infrastructure. Buyers searching for a plot in Sector 80 Gurugram are drawn to its proximity to NH-48, Southern Peripheral Road (SPR), and Dwarka Expressway, making daily commuting smooth and convenient. The sector is surrounded by reputed residential projects, green zones, schools, hospitals, and upcoming commercial hubs.",
+      "Plots in Sector 80 offer a strong combination of lifestyle comfort and investment growth. With continuous infrastructure upgrades and increasing demand from homebuyers and investors, this location promises steady appreciation. Choosing a plot in Sector 80 Gurugram means investing in a well-planned area that offers long-term value, peaceful living, and excellent future prospects in one of Gurugram’s fastest-growing regions."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 80",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Options by Size in Sector 80 Gurugram",
+    "description": [
+      "Choosing the right plot size in Sector 80 Gurugram plays a key role in construction planning, budget alignment, and future resale value.",
+      "Sector 80 offers multiple plot size options suitable for modern homes, premium villas, and long-term land investments."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 80 Gurugram",
+        "description": "A 4 Marla plot in Sector 80 Gurugram is ideal for buyers looking for affordable entry-level plots in a well-connected and developing locality."
+      },
+      {
+        "title": "6 Marla Plot in Sector 80 Gurugram",
+        "description": "6 Marla plots provide a balanced mix of affordability and usable space, suitable for comfortable independent residences."
+      },
+      {
+        "title": "8 Marla Plot in Sector 80 Gurugram",
+        "description": "An 8 Marla plot allows better flexibility in design and layout, making it suitable for families planning spacious homes."
+      },
+      {
+        "title": "10 Marla Plot in Sector 80 Gurugram",
+        "description": "10 Marla plots are considered premium options, offering excellent resale value and suitability for luxury home construction."
+      },
+      {
+        "title": "12 Marla Plot in Sector 80 Gurugram",
+        "description": "A 12 Marla plot offers ample space for high-end villas with open areas, parking, and landscaped surroundings."
+      },
+      {
+        "title": "14 Marla Plot in Sector 80 Gurugram",
+        "description": "14 Marla plots are ideal for buyers seeking large land parcels with strong appreciation potential in New Gurugram."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Plot Options Near Sector 80 Gurugram",
+    "description": [
+      "Buyers interested in a plot in Sector 80 Gurugram often explore nearby sectors to compare pricing, connectivity, and growth potential.",
+      "This section highlights surrounding locations that complement Sector 80’s residential and investment appeal."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 80 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 79 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 81 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 82 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near SPR Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Dwarka Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in New Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 80 Gurugram",
+    "description": [
+      "Buying a plot in Sector 80 Gurugram requires verified listings, transparent transactions, and local market expertise.",
+      "Deal Acres has earned buyer trust by consistently delivering reliability, professionalism, and end-to-end support."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are thoroughly verified for ownership, approvals, and documentation."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing structure with no hidden charges ensures peace of mind."
+      },
+      {
+        "title": "Strong Local Knowledge",
+        "description": "In-depth understanding of Sector 80 development and future growth plans."
+      },
+      {
+        "title": "Wide Plot Inventory",
+        "description": "Access to multiple plot sizes across Sector 80 and nearby areas."
+      },
+      {
+        "title": "Legal & Registry Assistance",
+        "description": "Complete support with legal checks, registry, and compliance."
+      },
+      {
+        "title": "Personalized Recommendations",
+        "description": "Plots suggested based on budget, lifestyle, and investment goals."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Guidance from property shortlisting to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Brand",
+        "description": "Deal Acres is known for ethical practices and long-term customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 80 Gurugram",
+    "description": "Answers to common buyer queries related to plot purchase in Sector 80 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 80 Gurugram a good location to buy a plot?",
+        "answer": "Yes, Sector 80 is a fast-growing area with strong connectivity, modern planning, and high appreciation potential."
+      },
+      {
+        "question": "What plot sizes are available in Sector 80 Gurugram?",
+        "answer": "Plots are generally available from 4 Marla to 14 Marla, suitable for different budgets and needs."
+      },
+      {
+        "question": "Is Sector 80 suitable for residential construction?",
+        "answer": "Yes, the sector is ideal for residential construction with planned infrastructure and nearby amenities."
+      },
+      {
+        "question": "Is buying a plot in Sector 80 a good investment?",
+        "answer": "With ongoing development and rising demand, Sector 80 offers strong long-term investment potential."
+      },
+      {
+        "question": "Are plots in Sector 80 legally approved?",
+        "answer": "Most plots are approved, but proper legal verification is essential before buying."
+      },
+      {
+        "question": "How is connectivity from Sector 80 Gurugram?",
+        "answer": "Sector 80 enjoys excellent connectivity via NH-48, SPR, and Dwarka Expressway."
+      },
+      {
+        "question": "Can construction start immediately after purchase?",
+        "answer": "Construction depends on approvals and building norms; expert guidance is recommended."
+      },
+      {
+        "question": "What amenities are available near Sector 80?",
+        "answer": "Schools, hospitals, malls, and daily convenience facilities are easily accessible."
+      },
+      {
+        "question": "Why choose Deal Acres for buying plots?",
+        "answer": "Deal Acres provides verified listings, transparent deals, and complete buyer support."
+      },
+      {
+        "question": "How can I contact property experts for Sector 80 plots?",
+        "answer": "Fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Buying Plots in Sector 80 Gurugram",
+    "description": [
+      "Finding the right plot in Sector 80 Gurugram becomes simple with professional assistance.",
+      "Share your details to connect with trusted real estate experts who will help you find verified plots aligned with your budget and investment goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

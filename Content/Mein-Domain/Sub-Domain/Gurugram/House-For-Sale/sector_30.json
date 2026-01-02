@@ -1,0 +1,151 @@
+{
+  "domain": "Houseforsale.com",
+
+  "hero": {
+    "title": "Independent Residential Houses for Sale in Sector 30 Gurugram",
+    "description": [
+      "Sector 30 Gurugram is a well-developed and centrally located residential area known for its excellent connectivity and balanced lifestyle. Buyers searching for a House for sale in Sector 30 Gurugram are attracted by its proximity to major roads, business hubs, hospitals, and educational institutions. The sector offers a calm residential environment while still being close to Gurugram’s commercial and corporate zones, making it suitable for both families and working professionals.",
+      "Independent houses in Sector 30 provide spacious living, privacy, and long-term comfort that many buyers prefer over apartment living. The locality features well-planned internal roads, nearby parks, and easy access to daily conveniences. Investing in a house for sale in Sector 30 Gurugram is a smart choice for buyers looking for stable property value, good rental demand, and a comfortable lifestyle in a prime part of the city."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Sale",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Sale Options by Plot Size in Sector 30 Gurugram",
+    "description": [
+      "Choosing the right plot size is an important step when planning to buy a house for sale in Sector 30 Gurugram, as it directly affects space, budget, and lifestyle comfort.",
+      "Sector 30 offers multiple independent house configurations, suitable for both compact living and spacious family homes."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Sector 30 Gurugram",
+        "description": "A 4 Marla house for sale in Sector 30 Gurugram is ideal for small families and first-time buyers looking for an affordable independent home in a central location."
+      },
+      {
+        "title": "6 Marla House for Sale in Sector 30 Gurugram",
+        "description": "6 Marla houses provide a good balance of space and affordability, making them suitable for comfortable everyday living."
+      },
+      {
+        "title": "8 Marla House for Sale in Sector 30 Gurugram",
+        "description": "An 8 Marla house offers larger rooms, better ventilation, and flexibility for future customization."
+      },
+      {
+        "title": "10 Marla House for Sale in Sector 30 Gurugram",
+        "description": "10 Marla houses are preferred by buyers seeking premium living with more privacy and strong resale potential."
+      },
+      {
+        "title": "12 Marla House for Sale in Sector 30 Gurugram",
+        "description": "12 Marla houses fall into the premium category, offering spacious layouts and enhanced living comfort."
+      },
+      {
+        "title": "14 Marla House for Sale in Sector 30 Gurugram",
+        "description": "A 14 Marla house represents luxury independent living with ample open space and long-term value."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Sale Near Sector 30 Gurugram",
+    "description": [
+      "Buyers looking for a house for sale in Sector 30 Gurugram often explore nearby sectors to compare pricing, accessibility, and lifestyle benefits.",
+      "This section helps users discover surrounding residential locations and make informed property decisions."
+    ],
+    "locations": [
+      { "title": "House for Sale in Sector 30 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 29 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale in Sector 31 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Sector 40 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale near NH-48 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 45 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Sector 32 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale in HUDA City Centre Area", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Sector 30 Houses",
+    "description": [
+      "Buying a house for sale in Sector 30 Gurugram requires accurate information, verified listings, and transparent guidance. Deal Acres focuses on providing a trustworthy and smooth property search experience.",
+      "With strong local market understanding and a buyer-first approach, Deal Acres helps customers make confident property decisions."
+    ],
+    "points": [
+      { "title": "Verified House Listings", "description": "Every listing is checked for authenticity and ownership clarity." },
+      { "title": "Transparent Pricing", "description": "Prices reflect current local market trends." },
+      { "title": "Local Area Expertise", "description": "In-depth knowledge of Sector 30 and nearby localities." },
+      { "title": "Easy-to-Use Platform", "description": "Simple navigation for hassle-free property search." },
+      { "title": "Buyer-Centric Guidance", "description": "Recommendations aligned with buyer requirements." },
+      { "title": "Documentation Support", "description": "Basic assistance for legal and ownership paperwork." },
+      { "title": "End-to-End Assistance", "description": "Support from property search to final purchase." },
+      { "title": "Trusted by Homebuyers", "description": "Strong reputation built on transparency and service quality." }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses in Sector 30 Gurugram",
+    "description": "Common buyer questions related to house for sale in Sector 30 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 30 Gurugram a good area to buy a house?",
+        "answer": "Yes, Sector 30 is centrally located with good connectivity and residential infrastructure, making it suitable for families and professionals."
+      },
+      {
+        "question": "What plot sizes are available in Sector 30?",
+        "answer": "Independent houses are commonly available from 4 Marla to 14 Marla."
+      },
+      {
+        "question": "Is Sector 30 suitable for family living?",
+        "answer": "Yes, the area offers a peaceful environment with nearby schools, hospitals, and parks."
+      },
+      {
+        "question": "Are ready-to-move houses available in Sector 30?",
+        "answer": "Yes, buyers can find ready-to-move as well as resale independent houses."
+      },
+      {
+        "question": "Is Sector 30 good for long-term investment?",
+        "answer": "Yes, its central location supports stable appreciation and rental demand."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 30?",
+        "answer": "Most houses are eligible for home loans, subject to bank approval."
+      },
+      {
+        "question": "How is connectivity from Sector 30 Gurugram?",
+        "answer": "Sector 30 is well-connected to NH-48, HUDA City Centre, and major roads."
+      },
+      {
+        "question": "Is there rental demand in Sector 30?",
+        "answer": "Yes, rental demand is strong due to proximity to offices and metro connectivity."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, and expert local guidance."
+      },
+      {
+        "question": "How can I contact property experts for Sector 30?",
+        "answer": "You can fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Sale in Sector 30 Gurugram",
+    "description": [
+      "Buying a house for sale in Sector 30 Gurugram is an important decision, and expert guidance can simplify the entire process.",
+      "Share your details to connect with trusted property experts who will help you find the right home based on your budget and preferences."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

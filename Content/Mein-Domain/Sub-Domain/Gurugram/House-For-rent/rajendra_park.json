@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Affordable Independent Houses for Rent in Rajendra Park Gurugram",
+    "description": [
+      "Rajendra Park Gurugram is a well-established residential locality known for its affordability, good connectivity, and peaceful neighborhood environment. Tenants searching for a house for rent in Rajendra Park Gurugram often prefer this area because it offers budget-friendly rental options without compromising on daily conveniences. The locality is well-connected to Hero Honda Chowk, NH-48, Garhi Harsaru Road, and nearby industrial and commercial hubs, making daily travel easy for working professionals.",
+      "Independent houses in Rajendra Park provide practical layouts, adequate space, and a community-oriented lifestyle. The area is surrounded by schools, local markets, clinics, temples, and public transport facilities, ensuring all essential needs are within reach. Choosing a house for rent in Rajendra Park Gurugram is ideal for families and tenants who value affordability, accessibility, and a settled residential environment."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Rajendra Park",
+    "description": [
+      "Choosing the right plot size is an important factor when looking for a house for rent in Rajendra Park Gurugram, as it directly impacts living comfort and rental budget.",
+      "Rajendra Park offers independent houses in multiple plot sizes, suitable for small families, joint families, and tenants looking for economical housing."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Rajendra Park Gurugram",
+        "description": "A 4 Marla house for rent in Rajendra Park Gurugram is ideal for couples or small families seeking an affordable and low-maintenance rental home."
+      },
+      {
+        "title": "6 Marla House for Rent in Rajendra Park Gurugram",
+        "description": "6 Marla houses offer a balanced mix of space and affordability, making them suitable for nuclear families."
+      },
+      {
+        "title": "8 Marla House for Rent in Rajendra Park Gurugram",
+        "description": "An 8 Marla rental house provides more spacious rooms, better ventilation, and comfortable living for growing families."
+      },
+      {
+        "title": "10 Marla House for Rent in Rajendra Park Gurugram",
+        "description": "10 Marla houses are preferred by tenants who want larger living areas and added privacy."
+      },
+      {
+        "title": "12 Marla House for Rent in Rajendra Park Gurugram",
+        "description": "12 Marla houses fall into the premium rental category, offering open layouts and enhanced comfort."
+      },
+      {
+        "title": "14 Marla House for Rent in Rajendra Park Gurugram",
+        "description": "A 14 Marla house for rent is suitable for large families looking for maximum space in a budget-friendly locality."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Rajendra Park Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in Rajendra Park Gurugram often explore nearby localities to compare rental prices and connectivity advantages.",
+      "This section highlights surrounding areas to help users find the most suitable rental option."
+    ],
+    "locations": [
+      { "title": "House for Rent in Rajendra Park Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Garhi Harsaru", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent near Hero Honda Chowk", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 37 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near NH-48", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Basai Road Area", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 10A Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent near IMT Manesar Road", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Rajendra Park Rental Homes",
+    "description": [
+      "Finding a genuine house for rent in Rajendra Park Gurugram requires verified listings, fair pricing, and local market knowledge. Deal Acres focuses on transparency and trust.",
+      "With a tenant-first approach and strong understanding of Gurugram’s rental market, Deal Acres has become a reliable choice for renting independent houses."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All rental listings are checked for ownership and authenticity."
+      },
+      {
+        "title": "Transparent Rental Pricing",
+        "description": "Clear details on rent, deposit, and terms with no hidden charges."
+      },
+      {
+        "title": "Local Area Expertise",
+        "description": "In-depth knowledge of Rajendra Park and surrounding localities."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "Simple filters and smooth browsing experience."
+      },
+      {
+        "title": "Tenant-Centric Approach",
+        "description": "Recommendations based on tenant needs and budget."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Assistance with rental agreements and paperwork."
+      },
+      {
+        "title": "End-to-End Rental Assistance",
+        "description": "Support from property shortlisting to final possession."
+      },
+      {
+        "title": "Trusted by Renters",
+        "description": "Deal Acres is known for reliability and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Rajendra Park",
+    "description": "Common tenant questions related to house for rent in Rajendra Park Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Rajendra Park a good area to rent a house?",
+        "answer": "Yes, Rajendra Park is an affordable and well-connected residential area suitable for families."
+      },
+      {
+        "question": "What types of houses are available for rent in Rajendra Park?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Rajendra Park suitable for family living?",
+        "answer": "Yes, the area has schools, markets, and healthcare facilities nearby."
+      },
+      {
+        "question": "Are furnished houses available in Rajendra Park?",
+        "answer": "Both furnished and semi-furnished houses are available depending on the property."
+      },
+      {
+        "question": "What is the average rent in Rajendra Park Gurugram?",
+        "answer": "Rental values depend on plot size, condition, and exact location within the area."
+      },
+      {
+        "question": "How is connectivity from Rajendra Park?",
+        "answer": "The area is well-connected via NH-48, Hero Honda Chowk, and major city roads."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses here?",
+        "answer": "Some landlords allow bachelors, while others prefer families."
+      },
+      {
+        "question": "Is Rajendra Park safe for tenants?",
+        "answer": "Yes, it is a populated residential area with a stable community."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres provides verified listings, transparent details, and expert guidance."
+      },
+      {
+        "question": "How can I contact rental experts for Rajendra Park?",
+        "answer": "You can fill out the contact form to connect with experienced rental consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Rajendra Park Gurugram",
+    "description": [
+      "Finding the right house for rent in Rajendra Park Gurugram becomes easy with professional guidance.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that matches your budget, space needs, and lifestyle preferences."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

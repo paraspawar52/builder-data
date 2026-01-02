@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Well Connected Independent Houses for Rent in Sector 11 Gurugram",
+    "description": [
+      "Sector 11 Gurugram is a well-established residential locality known for its central location, smooth road connectivity, and peaceful living environment. Tenants searching for a house for rent in Sector 11 Gurugram prefer this area due to its proximity to Old Gurugram, Hero Honda Chowk, NH-48, and major employment hubs. The sector offers easy access to schools, hospitals, local markets, banks, and daily convenience stores, making everyday life comfortable and hassle-free for families and working professionals.",
+      "Independent houses in Sector 11 provide spacious layouts, better privacy, and a community-oriented neighborhood atmosphere. The area is ideal for families, senior citizens, and tenants who value stability and long-term rental comfort. Choosing a house for rent in Sector 11 Gurugram ensures a balanced lifestyle with reliable infrastructure, good civic amenities, and convenient connectivity to major parts of the city."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sector 11 Gurugram",
+    "description": [
+      "Choosing the right plot size is an important step when looking for a house for rent in Sector 11 Gurugram, as it directly impacts living comfort, space utilization, and monthly rent.",
+      "Sector 11 offers independent houses in multiple plot sizes, catering to small families, joint families, and tenants seeking spacious homes in a central location."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 11 Gurugram",
+        "description": "A 4 Marla house for rent in Sector 11 Gurugram is suitable for couples or small families looking for an affordable and easy-to-maintain home with essential amenities nearby."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 11 Gurugram",
+        "description": "6 Marla houses offer a balanced combination of space and budget, making them ideal for nuclear families seeking practical living."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 11 Gurugram",
+        "description": "An 8 Marla rental house provides spacious rooms, better ventilation, and functional layouts for comfortable family living."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 11 Gurugram",
+        "description": "10 Marla houses are preferred by tenants who want larger living areas, parking space, and enhanced privacy."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 11 Gurugram",
+        "description": "12 Marla rental houses fall into the premium category, offering open spaces, strong construction quality, and improved lifestyle comfort."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 11 Gurugram",
+        "description": "A 14 Marla house for rent is ideal for large families or tenants looking for maximum space and a peaceful residential environment."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 11 Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in Sector 11 Gurugram often explore nearby sectors to compare rental values, connectivity, and lifestyle advantages.",
+      "This section highlights surrounding residential areas to help users make informed rental decisions."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 11 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 10 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 12 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 14 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near Hero Honda Chowk", "path": "/", "icon": "Home" },
+      { "title": "House for Rent near NH-48", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Old Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent near Bus Stand Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sector 11 Rental Houses",
+    "description": [
+      "Finding a genuine house for rent in Sector 11 Gurugram requires verified listings, transparent pricing, and reliable local expertise. Deal Acres is built on trust and accuracy.",
+      "With a tenant-first approach and deep understanding of Gurugram’s rental market, Deal Acres has become a preferred choice for renting independent houses."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "All properties are verified for ownership, availability, and authenticity to ensure tenant safety."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear information about rent, security deposit, and terms helps tenants make confident decisions."
+      },
+      {
+        "title": "Local Market Knowledge",
+        "description": "Strong understanding of Sector 11 and nearby areas ensures accurate rental guidance."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "User-friendly filters and tools make finding the right house quick and simple."
+      },
+      {
+        "title": "Tenant-Centric Recommendations",
+        "description": "Properties are suggested based on budget, family size, and lifestyle needs."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Assistance with rental agreements and paperwork ensures a smooth process."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Complete support from property search to final move-in."
+      },
+      {
+        "title": "Trusted by Renters",
+        "description": "Deal Acres is known for transparency, reliability, and high customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 11 Gurugram",
+    "description": "Common tenant questions related to house for rent in Sector 11 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 11 Gurugram a good area to rent a house?",
+        "answer": "Yes, Sector 11 is a well-developed locality with good connectivity, markets, and essential amenities nearby."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 11?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Sector 11 suitable for family living?",
+        "answer": "Yes, the sector has schools, hospitals, parks, and markets, making it ideal for families."
+      },
+      {
+        "question": "Are furnished houses available in Sector 11?",
+        "answer": "Furnished and semi-furnished houses are available depending on landlord preferences."
+      },
+      {
+        "question": "What is the average rent in Sector 11 Gurugram?",
+        "answer": "Rental values vary based on plot size, condition, and exact location within the sector."
+      },
+      {
+        "question": "How is connectivity from Sector 11?",
+        "answer": "Sector 11 is well-connected to NH-48, Old Gurugram, and major city roads."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sector 11?",
+        "answer": "Some landlords allow bachelors, while others prefer families, depending on the property."
+      },
+      {
+        "question": "Is Sector 11 safe for tenants?",
+        "answer": "Yes, it is a well-established and safe residential area with an active local community."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres provides verified listings, transparent details, and expert rental assistance."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 11?",
+        "answer": "You can fill out the contact form to connect with experienced rental property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sector 11 Gurugram",
+    "description": [
+      "Finding the right house for rent in Sector 11 Gurugram becomes simple and stress-free with professional support.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that matches your budget, preferences, and lifestyle needs."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

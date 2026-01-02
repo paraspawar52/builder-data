@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Residential and Investment Plots in Well Connected Sector 23 Gurugram",
+    "description": [
+      "Sector 23 Gurugram is a well-established residential locality known for its strategic location near Palam Vihar, Delhi border, and major arterial roads. Buyers searching for a plot in Sector 23 Gurugram prefer this area due to its excellent connectivity to NH-48, Dwarka Expressway, IGI Airport, and key commercial hubs of Gurugram. The sector offers a balanced environment with wide internal roads, green surroundings, schools, hospitals, local markets, and daily convenience stores, making it suitable for comfortable family living.",
+      "Plots in Sector 23 Gurugram are highly valued because of limited availability and steady demand from end users and investors. Whether you plan to build an independent home or secure land for long-term appreciation, this locality provides stability and growth potential. Choosing a plot in Sector 23 Gurugram means investing in a mature residential area that offers accessibility, livability, and strong real estate value over time."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 23",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Options by Size in Sector 23 Gurugram",
+    "description": [
+      "Selecting the right plot size in Sector 23 Gurugram is important for planning construction, budget control, and long-term resale value.",
+      "Sector 23 offers a range of plot sizes suitable for compact homes, family residences, and premium independent houses."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 23 Gurugram",
+        "description": "A 4 Marla plot in Sector 23 Gurugram is ideal for buyers looking for affordable residential land in a well-connected area. These plots are suitable for compact independent homes with easy maintenance."
+      },
+      {
+        "title": "6 Marla Plot in Sector 23 Gurugram",
+        "description": "6 Marla plots provide a balanced mix of space and affordability. They are preferred by small families planning practical and comfortable homes."
+      },
+      {
+        "title": "8 Marla Plot in Sector 23 Gurugram",
+        "description": "An 8 Marla plot offers flexibility in home design and better living space. These plots are popular among families seeking modern layouts."
+      },
+      {
+        "title": "10 Marla Plot in Sector 23 Gurugram",
+        "description": "10 Marla plots fall into the premium category and are suitable for spacious independent houses with good long-term value."
+      },
+      {
+        "title": "12 Marla Plot in Sector 23 Gurugram",
+        "description": "A 12 Marla plot allows the construction of luxury homes with open spaces, making it ideal for joint families."
+      },
+      {
+        "title": "14 Marla Plot in Sector 23 Gurugram",
+        "description": "14 Marla plots represent premium investment opportunities in Sector 23 Gurugram with strong appreciation potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Plot Options Near Sector 23 Gurugram",
+    "description": [
+      "Buyers interested in a plot in Sector 23 Gurugram often explore nearby residential localities to compare pricing and connectivity.",
+      "This section highlights surrounding areas to help users make informed property decisions."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 23 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Palam Vihar Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 22 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 21 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Dwarka Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Delhi Border", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near IGI Airport", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Old Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 23 Gurugram",
+    "description": [
+      "Buying a plot in Sector 23 Gurugram requires verified listings, transparent transactions, and strong local market knowledge.",
+      "Deal Acres has built trust by offering genuine properties and customer-focused services."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are verified for ownership, approvals, and legal authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden charges ensures buyer confidence."
+      },
+      {
+        "title": "Strong Local Expertise",
+        "description": "Deep understanding of Sector 23 Gurugram helps buyers make informed decisions."
+      },
+      {
+        "title": "Wide Range of Options",
+        "description": "Multiple plot sizes are available to match different budgets and needs."
+      },
+      {
+        "title": "Legal and Documentation Support",
+        "description": "Complete assistance with paperwork, registry, and compliance."
+      },
+      {
+        "title": "Personalized Property Matching",
+        "description": "Plot recommendations are aligned with buyer goals and preferences."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from initial inquiry to final possession."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Deal Acres is known for reliability, transparency, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 23 Gurugram",
+    "description": "Common buyer questions related to plot purchase in Sector 23 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 23 Gurugram a good location to buy a plot?",
+        "answer": "Yes, Sector 23 is a well-developed residential area with excellent connectivity and strong long-term value."
+      },
+      {
+        "question": "What plot sizes are available in Sector 23 Gurugram?",
+        "answer": "Plots ranging from 4 Marla to 14 Marla are available, depending on current inventory."
+      },
+      {
+        "question": "Is Sector 23 suitable for family living?",
+        "answer": "Yes, the area offers schools, hospitals, parks, and markets nearby, making it family-friendly."
+      },
+      {
+        "question": "Is buying a plot in Sector 23 a good investment?",
+        "answer": "Due to its established nature and proximity to key locations, Sector 23 offers stable appreciation."
+      },
+      {
+        "question": "Are plots in Sector 23 legally approved?",
+        "answer": "Most plots have clear titles, but proper verification is recommended. Deal Acres assists with due diligence."
+      },
+      {
+        "question": "How is connectivity from Sector 23 Gurugram?",
+        "answer": "Sector 23 enjoys smooth connectivity to NH-48, Dwarka Expressway, and IGI Airport."
+      },
+      {
+        "question": "Can construction start immediately after purchase?",
+        "answer": "Construction depends on local building norms and approvals. Expert guidance is provided."
+      },
+      {
+        "question": "What amenities are available near Sector 23?",
+        "answer": "Schools, hospitals, shopping areas, and daily-need facilities are easily accessible."
+      },
+      {
+        "question": "Why should I choose Deal Acres for buying plots?",
+        "answer": "Deal Acres offers verified listings, transparent processes, and complete buyer support."
+      },
+      {
+        "question": "How can I contact plot buying experts?",
+        "answer": "You can fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for Buying Plots in Sector 23 Gurugram",
+    "description": [
+      "Finding the right plot in Sector 23 Gurugram becomes easy with professional assistance.",
+      "Share your details to connect with trusted property experts who will help you find verified plots matching your budget and long-term goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

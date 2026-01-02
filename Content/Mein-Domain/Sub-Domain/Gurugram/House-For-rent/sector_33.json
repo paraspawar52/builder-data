@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Well Connected Independent Houses for Rent in Sector 33 Gurugram",
+    "description": [
+      "Sector 33 Gurugram is a well-developed residential locality known for its strategic location, smooth connectivity, and peaceful living environment. Tenants searching for a house for rent in Sector 33 Gurugram prefer this area due to its close proximity to NH-48, HUDA City Centre, and major commercial hubs of Gurugram. The locality offers easy access to reputed schools, hospitals, shopping complexes, and daily convenience markets, making everyday life comfortable and hassle-free.",
+      "Independent houses in Sector 33 provide spacious layouts, privacy, and a calm neighborhood atmosphere that appeals to families, senior citizens, and working professionals. The area is ideal for long-term rentals with stable infrastructure, wide roads, and a well-established residential community. Choosing a house for rent in Sector 33 Gurugram ensures a balanced lifestyle with strong connectivity, essential amenities, and a secure living environment."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sector 33 Gurugram",
+    "description": [
+      "Selecting the right plot size is an important factor when looking for a house for rent in Sector 33 Gurugram, as it directly impacts comfort, space, and monthly rental budget.",
+      "Sector 33 offers a wide range of independent houses on rent, catering to small families, joint families, and tenants seeking spacious living."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 33 Gurugram",
+        "description": "A 4 Marla house for rent in Sector 33 Gurugram is suitable for couples or small families looking for an affordable and low-maintenance home in a central location."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 33 Gurugram",
+        "description": "6 Marla houses offer a balanced combination of space and affordability, making them ideal for nuclear families seeking comfortable living."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 33 Gurugram",
+        "description": "An 8 Marla rental house provides spacious interiors, good ventilation, and practical layouts for long-term family use."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 33 Gurugram",
+        "description": "10 Marla houses are preferred by tenants who need larger living areas, private parking, and enhanced privacy."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 33 Gurugram",
+        "description": "12 Marla rental houses fall under the premium category, offering open spaces, modern construction, and a refined lifestyle."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 33 Gurugram",
+        "description": "A 14 Marla house for rent is ideal for large families or tenants looking for maximum space and comfort in a peaceful neighborhood."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 33 Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in Sector 33 Gurugram often explore nearby residential areas to compare rental options and connectivity advantages.",
+      "This section helps users discover surrounding localities and choose the most suitable rental home."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 33 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 32 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 34 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 31 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near NH-48", "path": "/", "icon": "Home" },
+      { "title": "House for Rent near HUDA City Centre", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 40 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent near Medanta Hospital", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sector 33 Rental Houses",
+    "description": [
+      "Finding a genuine house for rent in Sector 33 Gurugram requires verified listings, transparent pricing, and reliable local expertise. Deal Acres ensures trust at every step.",
+      "With a tenant-first approach and deep knowledge of Gurugram’s rental market, Deal Acres has become a preferred platform for renting independent houses."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "Each property is verified for ownership, authenticity, and availability to protect tenants."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear information on rent, security deposit, and terms helps tenants make confident decisions."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth knowledge of Sector 33 and nearby localities ensures accurate rental guidance."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "Simple filters and search tools make house hunting quick and convenient."
+      },
+      {
+        "title": "Tenant-Focused Recommendations",
+        "description": "Property suggestions are tailored based on tenant budget, family size, and preferences."
+      },
+      {
+        "title": "Documentation Assistance",
+        "description": "Support with rental agreements and paperwork ensures a smooth process."
+      },
+      {
+        "title": "End-to-End Rental Support",
+        "description": "Assistance from property search to final move-in for a stress-free experience."
+      },
+      {
+        "title": "Trusted by Renters",
+        "description": "Deal Acres is trusted for reliability, transparency, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 33 Gurugram",
+    "description": "Common tenant questions related to house for rent in Sector 33 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 33 Gurugram a good area to rent a house?",
+        "answer": "Yes, Sector 33 is a well-established residential area with excellent connectivity and essential amenities nearby."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 33?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Sector 33 suitable for family living?",
+        "answer": "Yes, the area is family-friendly with schools, hospitals, parks, and markets close by."
+      },
+      {
+        "question": "Are furnished houses available for rent in Sector 33?",
+        "answer": "Furnished and semi-furnished houses are available depending on the landlord and property."
+      },
+      {
+        "question": "What is the average rent in Sector 33 Gurugram?",
+        "answer": "Rent depends on plot size, condition, and furnishings, but remains competitive for its location."
+      },
+      {
+        "question": "How is connectivity from Sector 33?",
+        "answer": "Sector 33 offers smooth connectivity via NH-48, HUDA City Centre, and major city roads."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sector 33?",
+        "answer": "Some landlords allow bachelors, while others prefer families. This varies by property."
+      },
+      {
+        "question": "Is Sector 33 safe for tenants?",
+        "answer": "Yes, the locality is considered safe with a well-settled residential community."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent details, and expert rental assistance."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 33?",
+        "answer": "You can fill out the contact form to connect with experienced rental property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sector 33 Gurugram",
+    "description": [
+      "Finding the right house for rent in Sector 33 Gurugram becomes simple with expert guidance.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that matches your budget, preferences, and lifestyle needs."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

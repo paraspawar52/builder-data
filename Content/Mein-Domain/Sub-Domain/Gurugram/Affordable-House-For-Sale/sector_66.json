@@ -1,0 +1,175 @@
+{
+  "domain": "Affordablehouseforsalecom",
+
+  "hero": {
+    "title": "Affordable Independent Houses for Sale in Sector 66 Gurugram",
+    "description": [
+      "Sector 66 Gurugram is a premium yet well-balanced residential locality located along Golf Course Extension Road, offering excellent connectivity and modern infrastructure. The area is surrounded by reputed residential projects, corporate offices, schools, hospitals, and shopping complexes, making it highly convenient for daily living. Buyers searching for an affordable house for sale in Sector 66 Gurugram prefer this location due to its smooth road connectivity to Sohna Road, NH-48, and major business hubs of Gurugram. The sector also offers green surroundings, planned roads, and a safe residential environment.",
+      "Affordable houses for sale in Sector 66 Gurugram provide a rare opportunity to enjoy independent living in a well-developed and high-demand area. With strong rental demand, quality infrastructure, and consistent price appreciation, Sector 66 is suitable for both end-users and investors. Choosing a home here means investing in comfort, connectivity, and long-term value in one of Gurugram’s most desirable locations."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1599423300746-b62533397364?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Size Options Available in Sector 66 Gurugram",
+    "description": [
+      "Selecting the right house size in Sector 66 Gurugram helps buyers balance location advantage, comfort, and budget.",
+      "The sector offers a wide range of affordable independent house configurations for different family needs."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House for Sale in Sector 66 Gurugram",
+        "description": "A 4 Marla affordable house for sale in Sector 66 Gurugram is ideal for small families and first-time buyers. These homes offer independent living, compact layouts, easy maintenance, and access to premium surrounding infrastructure."
+      },
+      {
+        "title": "6 Marla Affordable House for Sale in Sector 66 Gurugram",
+        "description": "6 Marla affordable houses in Sector 66 Gurugram provide a comfortable balance of space and affordability. They suit nuclear families looking for better room sizes, ventilation, and parking convenience."
+      },
+      {
+        "title": "8 Marla Affordable House for Sale in Sector 66 Gurugram",
+        "description": "An 8 Marla affordable house in Sector 66 Gurugram is suitable for growing families needing additional living space and privacy. These homes also enjoy strong resale and rental demand."
+      },
+      {
+        "title": "10 Marla Affordable House for Sale in Sector 66 Gurugram",
+        "description": "10 Marla houses offer spacious interiors, modern layouts, and long-term comfort. Buyers seeking independent homes in a premium location often prefer this size."
+      },
+      {
+        "title": "12 Marla Affordable House for Sale in Sector 66 Gurugram",
+        "description": "A 12 Marla affordable house in Sector 66 Gurugram delivers enhanced space, privacy, and suitability for joint families, making it a strong lifestyle and investment choice."
+      },
+      {
+        "title": "14 Marla Affordable House for Sale in Sector 66 Gurugram",
+        "description": "14 Marla houses are ideal for buyers seeking large independent homes in a prime location. Their size and address support long-term appreciation and luxury living."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses Near Sector 66 Gurugram",
+    "description": [
+      "Buyers searching for affordable houses for sale in Sector 66 Gurugram often explore nearby sectors for better comparison.",
+      "These surrounding locations further enhance the residential and investment appeal of Sector 66."
+    ],
+    "locations": [
+      { "title": "Affordable House for Sale in Sector 66 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 65 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 67 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Golf Course Extension Road", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Sohna Road Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House in South Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses in Central Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Budget Homes in Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Affordable Houses in Sector 66",
+    "description": [
+      "Buying an affordable house for sale in Sector 66 Gurugram requires verified listings and professional guidance.",
+      "Deal Acres has earned buyer trust through transparency, local expertise, and customer-focused real estate services."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "Every listing is verified for ownership, approvals, and legal clarity to ensure safe buying."
+      },
+      {
+        "title": "Transparent Pricing Policy",
+        "description": "Clear pricing without hidden charges helps buyers plan finances confidently."
+      },
+      {
+        "title": "Strong Local Market Expertise",
+        "description": "In-depth knowledge of Sector 66 Gurugram helps buyers make informed property decisions."
+      },
+      {
+        "title": "Wide Range of Affordable Options",
+        "description": "Multiple house sizes and budget options provide flexibility and choice."
+      },
+      {
+        "title": "Complete Legal Assistance",
+        "description": "Support with documentation, agreements, and registry ensures a smooth transaction."
+      },
+      {
+        "title": "Personalized Property Guidance",
+        "description": "Tailored property recommendations based on buyer needs and future goals."
+      },
+      {
+        "title": "End-to-End Buying Support",
+        "description": "Deal Acres assists buyers from property search to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Known for ethics, transparency, and customer satisfaction, Deal Acres is a preferred choice."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Sector 66 Gurugram",
+    "description": "User-friendly and detailed answers to common buyer queries.",
+    "faqs": [
+      {
+        "question": "Is Sector 66 Gurugram a good location to buy an affordable house?",
+        "answer": "Yes, Sector 66 is a premium residential area with excellent connectivity, strong infrastructure, and high demand, making it a reliable choice."
+      },
+      {
+        "question": "What house sizes are available in Sector 66 Gurugram?",
+        "answer": "Affordable independent houses are available from 4 Marla to 14 Marla, suitable for different family sizes."
+      },
+      {
+        "question": "Is Sector 66 suitable for family living?",
+        "answer": "Yes, the area offers top schools, hospitals, parks, and shopping centers, making it family-friendly."
+      },
+      {
+        "question": "How is connectivity from Sector 66 Gurugram?",
+        "answer": "Sector 66 enjoys excellent connectivity via Golf Course Extension Road, Sohna Road, and NH-48."
+      },
+      {
+        "question": "Are houses in Sector 66 legally approved?",
+        "answer": "Most properties are approved, and Deal Acres assists buyers with complete legal verification."
+      },
+      {
+        "question": "Is buying a house in Sector 66 a good investment?",
+        "answer": "Yes, strong demand and a prime location support stable appreciation and rental income."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 66?",
+        "answer": "Yes, leading banks and financial institutions offer home loans for eligible properties."
+      },
+      {
+        "question": "What amenities are available near Sector 66?",
+        "answer": "Nearby amenities include schools, hospitals, malls, parks, offices, and public transport."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and end-to-end buyer support."
+      },
+      {
+        "question": "How can I contact a property expert for Sector 66?",
+        "answer": "You can fill out the contact form on this page to connect with experienced Deal Acres consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for Affordable Houses in Sector 66 Gurugram",
+    "description": [
+      "Finding the right affordable house for sale in Sector 66 Gurugram becomes simple with expert guidance.",
+      "Share your details to connect with trusted real estate professionals and explore verified property options that match your requirements."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

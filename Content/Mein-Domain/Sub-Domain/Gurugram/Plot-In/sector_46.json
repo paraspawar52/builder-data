@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Premium Residential and Investment Plots in Sector 46 Gurugram",
+    "description": [
+      "Sector 46 Gurugram is a prime and well-developed residential locality known for its central positioning, excellent connectivity, and peaceful living environment. Buyers searching for a Plot in Sector 46 Gurugram are attracted to its close proximity to HUDA City Centre, Sohna Road, Golf Course Extension Road, and NH-48, ensuring smooth access to major commercial hubs and daily necessities. The sector is surrounded by reputed schools, hospitals, shopping markets, parks, and established residential societies, making it a highly desirable choice for families and professionals.",
+      "Plots in Sector 46 Gurugram offer a rare opportunity to own land in a mature and high-demand locality. Due to limited availability and consistent demand, the area has shown steady price appreciation over the years. Choosing a plot in Sector 46 Gurugram allows buyers to build customized homes in a secure neighborhood or make a long-term investment in one of Gurugram’s most stable and trusted residential zones."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 46",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Size Options Available in Sector 46 Gurugram",
+    "description": [
+      "Choosing the right plot size in Sector 46 Gurugram is important for planning construction, budget allocation, and future resale value.",
+      "Sector 46 offers a variety of plot sizes suitable for compact homes, spacious family residences, and premium independent houses."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 46 Gurugram",
+        "description": "A 4 Marla plot in Sector 46 Gurugram is suitable for buyers looking for a compact and affordable residential option in a prime central location. These plots are ideal for small independent homes with easy access to daily amenities."
+      },
+      {
+        "title": "6 Marla Plot in Sector 46 Gurugram",
+        "description": "6 Marla plots offer a balanced combination of space and affordability. They are well-suited for comfortable family homes in a well-established neighborhood."
+      },
+      {
+        "title": "8 Marla Plot in Sector 46 Gurugram",
+        "description": "An 8 Marla plot in Sector 46 Gurugram provides flexibility in home design and layout. Families planning spacious residences often prefer this size for better living comfort."
+      },
+      {
+        "title": "10 Marla Plot in Sector 46 Gurugram",
+        "description": "10 Marla plots are premium residential options that allow construction of larger independent houses. These plots enjoy strong demand due to limited availability."
+      },
+      {
+        "title": "12 Marla Plot in Sector 46 Gurugram",
+        "description": "A 12 Marla plot in Sector 46 Gurugram is ideal for buyers seeking expansive living spaces and strong long-term appreciation."
+      },
+      {
+        "title": "14 Marla Plot in Sector 46 Gurugram",
+        "description": "14 Marla plots cater to buyers looking for large land parcels for luxury villas. These plots are rare and considered valuable long-term assets."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Plot Options Near Sector 46 Gurugram",
+    "description": [
+      "Buyers interested in a Plot in Sector 46 Gurugram often explore nearby sectors to compare connectivity, pricing, and residential advantages.",
+      "This section highlights surrounding locations that enhance the overall appeal of Sector 46."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 46 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 45 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 47 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 48 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near HUDA City Centre", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Sohna Road Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in South City Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Plots in Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 46",
+    "description": [
+      "Buying a Plot in Sector 46 Gurugram requires verified listings, transparent pricing, and strong local expertise.",
+      "Deal Acres has earned buyer trust by consistently delivering genuine properties and customer-focused real estate services."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are thoroughly verified for ownership clarity, approvals, and legal documentation."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden charges ensures complete peace of mind."
+      },
+      {
+        "title": "Strong Local Market Knowledge",
+        "description": "In-depth understanding of Sector 46 pricing trends and buyer demand."
+      },
+      {
+        "title": "Access to Premium Inventory",
+        "description": "Availability of limited and high-demand plot options in prime locations."
+      },
+      {
+        "title": "Legal and Registry Assistance",
+        "description": "Complete support with legal verification, registry, and compliance."
+      },
+      {
+        "title": "Personalized Property Guidance",
+        "description": "Customized recommendations based on budget, lifestyle, and investment goals."
+      },
+      {
+        "title": "End-to-End Buying Support",
+        "description": "Assistance from plot shortlisting to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for ethical practices, professionalism, and long-term customer trust."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 46 Gurugram",
+    "description": "Comprehensive answers to common buyer queries to support informed decision-making.",
+    "faqs": [
+      {
+        "question": "Is Sector 46 Gurugram a good location to buy a plot?",
+        "answer": "Yes, Sector 46 is a prime and well-developed locality offering excellent connectivity, lifestyle convenience, and stable long-term appreciation."
+      },
+      {
+        "question": "What plot sizes are available in Sector 46 Gurugram?",
+        "answer": "Plots in Sector 46 Gurugram are generally available from 4 Marla to 14 Marla, subject to availability."
+      },
+      {
+        "question": "Is Sector 46 suitable for residential construction?",
+        "answer": "Yes, the sector is ideal for residential construction with planned layouts and nearby amenities."
+      },
+      {
+        "question": "Is buying a plot in Sector 46 a good investment?",
+        "answer": "Due to limited land supply and consistent demand, Sector 46 offers stable appreciation and strong resale value."
+      },
+      {
+        "question": "Are plots in Sector 46 legally approved?",
+        "answer": "Most plots are approved, but legal verification is essential. Deal Acres assists buyers with due diligence."
+      },
+      {
+        "question": "How is connectivity from Sector 46 Gurugram?",
+        "answer": "Sector 46 enjoys excellent connectivity via Sohna Road, HUDA City Centre, and NH-48."
+      },
+      {
+        "question": "Can construction start immediately after purchase?",
+        "answer": "Construction depends on local building norms and approvals. Professional guidance is recommended."
+      },
+      {
+        "question": "What amenities are available near Sector 46?",
+        "answer": "The area offers schools, hospitals, markets, parks, and daily convenience facilities."
+      },
+      {
+        "question": "Why choose Deal Acres for buying plots in Sector 46?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, legal assistance, and end-to-end buyer support."
+      },
+      {
+        "question": "How can I contact property experts for Sector 46 plots?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Buying Plots in Sector 46 Gurugram",
+    "description": [
+      "Finding the right Plot in Sector 46 Gurugram becomes simple with professional guidance and verified property options.",
+      "Share your details to connect with trusted real estate experts who will help you explore suitable plots and make a confident buying decision."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

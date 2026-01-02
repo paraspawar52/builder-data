@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Premium Independent Houses for Rent in Sector 48 Gurugram",
+    "description": [
+      "Sector 48 Gurugram is a well-planned and highly sought-after residential locality located close to Sohna Road and Golf Course Extension Road. Tenants looking for a house for rent in Sector 48 Gurugram prefer this area due to its excellent connectivity to NH-48, Southern Peripheral Road (SPR), HUDA City Centre, and major corporate hubs. The locality is surrounded by reputed schools, hospitals, shopping malls, supermarkets, and daily convenience stores, making it a practical choice for families and working professionals.",
+      "Independent houses in Sector 48 offer spacious layouts, privacy, and a calm residential environment. The area is known for wide internal roads, greenery, and a secure neighborhood feel. Choosing a house for rent in Sector 48 Gurugram ensures comfortable living with modern infrastructure, easy commuting, and access to all essential lifestyle amenities."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sector 48 Gurugram",
+    "description": [
+      "Selecting the right plot size is an important step when searching for a house for rent in Sector 48 Gurugram, as it directly impacts comfort, space, and rental budget.",
+      "Sector 48 offers independent houses across multiple plot sizes, catering to small families, large households, and tenants seeking premium residential options."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 48 Gurugram",
+        "description": "A 4 Marla house for rent in Sector 48 Gurugram is suitable for couples or small families looking for an affordable and low-maintenance home in a prime location."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 48 Gurugram",
+        "description": "6 Marla houses provide a balanced combination of space and affordability, making them ideal for nuclear families."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 48 Gurugram",
+        "description": "An 8 Marla rental house offers spacious interiors, good ventilation, and practical layouts for comfortable long-term living."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 48 Gurugram",
+        "description": "10 Marla houses are preferred by tenants who want larger living areas, private parking, and enhanced privacy."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 48 Gurugram",
+        "description": "12 Marla rental houses fall under the premium category, offering open spaces, modern construction, and upgraded lifestyle comfort."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 48 Gurugram",
+        "description": "A 14 Marla house for rent is ideal for large families or tenants looking for luxury, space, and a peaceful residential environment."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 48 Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in Sector 48 Gurugram often explore nearby localities to compare rental values, connectivity, and lifestyle benefits.",
+      "This section helps users identify surrounding residential areas and choose the most suitable rental option."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 48 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 49 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 47 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 50 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near Sohna Road", "path": "/", "icon": "Home" },
+      { "title": "House for Rent near Golf Course Extension Road", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 46 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent near SPR Road", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sector 48 Rental Houses",
+    "description": [
+      "Finding a genuine house for rent in Sector 48 Gurugram requires verified listings, transparent pricing, and strong local market knowledge. Deal Acres focuses on reliability and trust.",
+      "With a tenant-first approach and deep understanding of Gurugram’s rental market, Deal Acres has become a preferred choice for renting independent houses."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "All rental properties are verified for ownership, authenticity, and availability to ensure tenant safety."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear information about rent, security deposit, and rental terms helps tenants make informed decisions."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth knowledge of Sector 48 and nearby areas ensures accurate rental guidance."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "User-friendly tools and filters make the house-hunting process simple and efficient."
+      },
+      {
+        "title": "Tenant-Centric Recommendations",
+        "description": "Properties are suggested based on tenant budget, family size, and lifestyle preferences."
+      },
+      {
+        "title": "Documentation Assistance",
+        "description": "Support with rental agreements and paperwork ensures a smooth and secure process."
+      },
+      {
+        "title": "End-to-End Rental Support",
+        "description": "Complete assistance from property search to final move-in."
+      },
+      {
+        "title": "Trusted by Renters",
+        "description": "Deal Acres is trusted for transparency, reliability, and high customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 48 Gurugram",
+    "description": "Common tenant questions related to house for rent in Sector 48 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 48 Gurugram a good area to rent a house?",
+        "answer": "Yes, Sector 48 is a well-developed and family-friendly locality with strong connectivity and modern amenities."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 48?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are available for different budgets and family sizes."
+      },
+      {
+        "question": "Is Sector 48 suitable for family living?",
+        "answer": "Yes, the area has schools, hospitals, parks, and markets nearby, making it ideal for families."
+      },
+      {
+        "question": "Are furnished houses available for rent in Sector 48?",
+        "answer": "Both furnished and semi-furnished houses are available depending on landlord preferences."
+      },
+      {
+        "question": "What is the average rent in Sector 48 Gurugram?",
+        "answer": "Rental values depend on plot size, condition, and location, offering mid-range to premium options."
+      },
+      {
+        "question": "How is connectivity from Sector 48?",
+        "answer": "Sector 48 is well-connected via Sohna Road, Golf Course Extension Road, NH-48, and SPR."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sector 48?",
+        "answer": "Some landlords allow bachelors, while others prefer families. This varies by property owner."
+      },
+      {
+        "question": "Is Sector 48 safe for tenants?",
+        "answer": "Yes, it is considered a safe and well-established residential locality."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and expert local rental support."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 48?",
+        "answer": "You can fill out the contact form to connect with experienced rental property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sector 48 Gurugram",
+    "description": [
+      "Finding the right house for rent in Sector 48 Gurugram becomes easy and stress-free with professional assistance.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that matches your budget, preferences, and lifestyle needs."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

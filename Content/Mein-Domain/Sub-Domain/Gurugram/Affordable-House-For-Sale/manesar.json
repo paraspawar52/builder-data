@@ -1,0 +1,175 @@
+{
+  "domain": "Affordablehouseforsalecom",
+
+  "hero": {
+    "title": "Affordable Independent Houses for Sale in Manesar Gurugram",
+    "description": [
+      "Manesar Gurugram is a fast-growing residential and industrial hub, known for its planned infrastructure, wide roads, and strong connectivity to NH-48, IMT Manesar, and key employment zones. Buyers looking for an affordable house for sale in Manesar Gurugram are attracted by comparatively lower property prices, peaceful surroundings, and increasing residential development. The area is supported by schools, hospitals, local markets, manufacturing hubs, and daily-use amenities, making it suitable for families as well as working professionals.",
+      "Affordable houses for sale in Manesar Gurugram offer an excellent opportunity for budget-conscious buyers and long-term investors. With continuous infrastructure upgrades and expanding job opportunities nearby, Manesar promises steady appreciation and rental demand. Choosing Manesar means investing in a developing location that balances affordability, connectivity, and future growth potential within the Gurugram real estate market."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1599423300746-b62533397364?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Size Options Available in Manesar Gurugram",
+    "description": [
+      "Choosing the right house size in Manesar Gurugram helps buyers manage budget and living comfort effectively.",
+      "The area offers multiple affordable independent house options suitable for different family needs."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House for Sale in Manesar Gurugram",
+        "description": "A 4 Marla affordable house in Manesar Gurugram is ideal for small families or first-time homebuyers seeking independent living."
+      },
+      {
+        "title": "6 Marla Affordable House for Sale in Manesar Gurugram",
+        "description": "6 Marla houses provide a balanced combination of space, affordability, and practical layouts."
+      },
+      {
+        "title": "8 Marla Affordable House for Sale in Manesar Gurugram",
+        "description": "An 8 Marla house offers comfortable room sizes, parking space, and better living flexibility."
+      },
+      {
+        "title": "10 Marla Affordable House for Sale in Manesar Gurugram",
+        "description": "10 Marla houses are suitable for families looking for spacious interiors and future-ready homes."
+      },
+      {
+        "title": "12 Marla Affordable House for Sale in Manesar Gurugram",
+        "description": "A 12 Marla house offers enhanced privacy, larger layouts, and good resale potential."
+      },
+      {
+        "title": "14 Marla Affordable House for Sale in Manesar Gurugram",
+        "description": "14 Marla houses cater to buyers seeking larger independent homes with long-term appreciation prospects."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses Near Manesar Gurugram",
+    "description": [
+      "Buyers exploring affordable houses for sale in Manesar Gurugram often compare nearby residential areas.",
+      "These surrounding locations add to Manesar’s residential and investment appeal."
+    ],
+    "locations": [
+      { "title": "Affordable House for Sale in Manesar Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale near IMT Manesar", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 1 Manesar", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Bhiwadi", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses in New Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Budget Homes near Industrial Hubs", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable Independent Houses in Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Affordable Houses in Manesar",
+    "description": [
+      "Buying an affordable house for sale in Manesar Gurugram requires verified listings and local market knowledge.",
+      "Deal Acres is trusted for transparent processes and customer-focused real estate services."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "Each property is checked for ownership clarity and legal approvals."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing structure with no hidden charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Manesar property trends and growth areas."
+      },
+      {
+        "title": "Wide Property Options",
+        "description": "Multiple house sizes and budget ranges available."
+      },
+      {
+        "title": "Legal and Registry Support",
+        "description": "Complete assistance with documentation and registration."
+      },
+      {
+        "title": "Personalized Buying Guidance",
+        "description": "Property suggestions aligned with buyer needs and budget."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from property search to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for reliability and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Manesar Gurugram",
+    "description": "Detailed answers to help buyers make informed property decisions.",
+    "faqs": [
+      {
+        "question": "Is Manesar a good location to buy an affordable house?",
+        "answer": "Yes, Manesar is a rapidly developing area with affordable pricing, good connectivity, and future growth potential."
+      },
+      {
+        "question": "What house sizes are available in Manesar Gurugram?",
+        "answer": "Affordable independent houses are commonly available from 4 Marla to 14 Marla, depending on location and project."
+      },
+      {
+        "question": "Is Manesar suitable for family living?",
+        "answer": "Yes, Manesar offers schools, hospitals, markets, and a peaceful residential environment suitable for families."
+      },
+      {
+        "question": "Are properties in Manesar legally approved?",
+        "answer": "Most properties are approved, and Deal Acres helps buyers with full legal verification."
+      },
+      {
+        "question": "How is connectivity from Manesar?",
+        "answer": "Manesar is well connected via NH-48 to Gurugram, Delhi, and nearby industrial zones."
+      },
+      {
+        "question": "Is buying a house in Manesar a good investment?",
+        "answer": "Yes, ongoing infrastructure development and job growth support long-term appreciation."
+      },
+      {
+        "question": "Can I get a home loan for houses in Manesar?",
+        "answer": "Yes, banks and financial institutions offer home loans for eligible properties."
+      },
+      {
+        "question": "What amenities are available nearby?",
+        "answer": "The area has schools, hospitals, markets, transport facilities, and employment hubs."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, and complete buyer support."
+      },
+      {
+        "question": "How can I contact a property expert?",
+        "answer": "Fill out the contact form on this page to connect with experienced real estate professionals."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Affordable Houses in Manesar Gurugram",
+    "description": [
+      "Finding the right affordable house for sale in Manesar Gurugram is easier with expert assistance.",
+      "Share your details to connect with trusted property consultants and explore verified housing options."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

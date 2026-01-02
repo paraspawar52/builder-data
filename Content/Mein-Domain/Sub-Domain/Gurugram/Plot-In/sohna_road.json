@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Fast Growing Residential and Investment Plots on Sohna Road Gurugram",
+    "description": [
+      "Sohna Road Gurugram is one of the most rapidly developing real estate corridors, known for its excellent connectivity, modern infrastructure, and balanced residential–commercial growth. Buyers looking for a Plot in Sohna Road Gurugram are attracted to its seamless access to Golf Course Extension Road, NH-48, SPR, and Southern Gurugram. The area is surrounded by premium residential societies, IT parks, business hubs, schools, hospitals, and shopping destinations, making it a preferred choice for both end users and investors.",
+      "Plots on Sohna Road Gurugram offer a strong mix of lifestyle convenience and future appreciation. With continuous infrastructure upgrades, metro expansion plans, and growing demand for independent housing, this location promises long-term value. Choosing a plot in Sohna Road Gurugram allows buyers to build customized homes or secure land in a high-potential zone that is steadily emerging as one of Gurugram’s most promising growth belts."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots on Sohna Road",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Size Options Available on Sohna Road Gurugram",
+    "description": [
+      "Choosing the right plot size on Sohna Road Gurugram is important for construction planning, budget alignment, and long-term investment growth.",
+      "Sohna Road offers a variety of plot sizes suitable for compact homes, spacious family residences, and premium villas."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot on Sohna Road Gurugram",
+        "description": "A 4 Marla plot on Sohna Road Gurugram is ideal for buyers seeking an affordable residential option in a fast-developing area. These plots are popular among first-time buyers due to future appreciation potential."
+      },
+      {
+        "title": "6 Marla Plot on Sohna Road Gurugram",
+        "description": "6 Marla plots provide a good balance of space and value, making them suitable for independent homes with comfortable layouts and strong resale demand."
+      },
+      {
+        "title": "8 Marla Plot on Sohna Road Gurugram",
+        "description": "An 8 Marla plot on Sohna Road Gurugram offers greater flexibility in home design. Families planning spacious homes often prefer this size for better living comfort."
+      },
+      {
+        "title": "10 Marla Plot on Sohna Road Gurugram",
+        "description": "10 Marla plots are premium residential options that support larger independent houses. These plots are well-suited for long-term investment and luxury living."
+      },
+      {
+        "title": "12 Marla Plot on Sohna Road Gurugram",
+        "description": "A 12 Marla plot on Sohna Road Gurugram is ideal for buyers looking for expansive residential development opportunities with strong future value."
+      },
+      {
+        "title": "14 Marla Plot on Sohna Road Gurugram",
+        "description": "14 Marla plots cater to buyers seeking large land parcels for luxury villas. Limited availability makes them highly desirable investment assets."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Plot Options Near Sohna Road Gurugram",
+    "description": [
+      "Buyers interested in a Plot in Sohna Road Gurugram often explore nearby localities to compare pricing, infrastructure, and growth prospects.",
+      "This section highlights surrounding locations that enhance the residential and investment appeal of Sohna Road."
+    ],
+    "locations": [
+      { "title": "Plot in Sohna Road Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Golf Course Extension Road", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 48 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 49 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 70 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Southern Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near SPR Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Plots in Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots on Sohna Road",
+    "description": [
+      "Buying a Plot in Sohna Road Gurugram requires verified listings, transparent transactions, and strong local expertise.",
+      "Deal Acres has built trust by delivering reliable properties, ethical practices, and customer-first real estate solutions."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are checked for ownership clarity, approvals, and legal documentation."
+      },
+      {
+        "title": "Transparent Pricing Structure",
+        "description": "Clear pricing with no hidden charges ensures buyer confidence."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Deep understanding of Sohna Road development trends and appreciation potential."
+      },
+      {
+        "title": "Wide Plot Inventory",
+        "description": "Access to multiple plot sizes across Sohna Road and nearby sectors."
+      },
+      {
+        "title": "Legal and Registry Support",
+        "description": "Complete assistance with documentation, registry, and compliance."
+      },
+      {
+        "title": "Personalized Property Advice",
+        "description": "Recommendations aligned with buyer budgets and investment goals."
+      },
+      {
+        "title": "End-to-End Buying Support",
+        "description": "Guidance from plot selection to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for professionalism, ethics, and long-term customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots on Sohna Road Gurugram",
+    "description": "Answers to common buyer questions to help make informed property decisions.",
+    "faqs": [
+      {
+        "question": "Is Sohna Road Gurugram a good location to buy a plot?",
+        "answer": "Yes, Sohna Road is a fast-growing corridor with strong infrastructure, connectivity, and long-term appreciation potential."
+      },
+      {
+        "question": "What plot sizes are available on Sohna Road Gurugram?",
+        "answer": "Plots are typically available from 4 Marla to 14 Marla, depending on sector and availability."
+      },
+      {
+        "question": "Is Sohna Road suitable for residential construction?",
+        "answer": "Yes, the area is suitable for residential construction with planned layouts and modern amenities."
+      },
+      {
+        "question": "Is buying a plot on Sohna Road a good investment?",
+        "answer": "With continuous development and rising demand, Sohna Road offers strong investment growth."
+      },
+      {
+        "question": "Are plots on Sohna Road legally approved?",
+        "answer": "Most plots are approved, but legal verification is essential. Deal Acres assists with due diligence."
+      },
+      {
+        "question": "How is connectivity from Sohna Road Gurugram?",
+        "answer": "Sohna Road enjoys excellent connectivity via NH-48, SPR, and Golf Course Extension Road."
+      },
+      {
+        "question": "Can construction start immediately after purchase?",
+        "answer": "Construction depends on local building norms and approvals. Expert guidance is recommended."
+      },
+      {
+        "question": "What amenities are available near Sohna Road?",
+        "answer": "The area offers schools, hospitals, offices, malls, and daily convenience facilities."
+      },
+      {
+        "question": "Why choose Deal Acres for buying plots on Sohna Road?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, legal assistance, and end-to-end support."
+      },
+      {
+        "question": "How can I contact experts for Sohna Road plots?",
+        "answer": "Fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Buying Plots on Sohna Road Gurugram",
+    "description": [
+      "Finding the right Plot in Sohna Road Gurugram becomes simple with professional guidance and verified property options.",
+      "Share your details to connect with trusted real estate experts who will help you explore suitable plots and make a confident buying decision."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

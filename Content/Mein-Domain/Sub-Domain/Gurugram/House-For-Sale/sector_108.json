@@ -1,0 +1,151 @@
+{
+  "domain": "Houseforsale.com",
+
+  "hero": {
+    "title": "Independent Residential Houses for Sale in Sector 108 Gurugram",
+    "description": [
+      "Sector 108 Gurugram is a fast-developing residential locality known for its strategic location near Dwarka Expressway and smooth connectivity to Delhi and key parts of Gurugram. Buyers searching for a House for sale in Sector 108 Gurugram are drawn to its planned infrastructure, peaceful surroundings, and growing residential appeal. The sector offers a balanced lifestyle with access to daily essentials, schools, healthcare facilities, and well-connected road networks, making it suitable for both families and professionals.",
+      "Independent houses in Sector 108 provide the advantage of privacy, spacious layouts, and long-term living comfort. Compared to apartment living, houses here offer more flexibility, personal space, and future expansion possibilities. Investing in a house for sale in Sector 108 Gurugram is considered a smart decision due to upcoming infrastructure growth, improving connectivity, and steady appreciation potential, making it ideal for both end-users and investors."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Sale",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Sale Options by Plot Size in Sector 108 Gurugram",
+    "description": [
+      "Selecting the right plot size is an important factor when buying a house for sale in Sector 108 Gurugram, as it impacts comfort, budget, and long-term usability.",
+      "Sector 108 offers a wide variety of independent house options, catering to different family sizes and lifestyle preferences."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Sector 108 Gurugram",
+        "description": "A 4 Marla house for sale in Sector 108 Gurugram is ideal for buyers seeking an affordable independent home with low maintenance and good rental potential."
+      },
+      {
+        "title": "6 Marla House for Sale in Sector 108 Gurugram",
+        "description": "6 Marla houses offer a comfortable balance between space and affordability, suitable for small to mid-sized families."
+      },
+      {
+        "title": "8 Marla House for Sale in Sector 108 Gurugram",
+        "description": "An 8 Marla house provides spacious interiors, better ventilation, and flexibility for modern home designs."
+      },
+      {
+        "title": "10 Marla House for Sale in Sector 108 Gurugram",
+        "description": "10 Marla houses are preferred by buyers looking for premium living with enhanced privacy and future value."
+      },
+      {
+        "title": "12 Marla House for Sale in Sector 108 Gurugram",
+        "description": "12 Marla houses fall under the luxury category, offering large rooms, open spaces, and a refined lifestyle."
+      },
+      {
+        "title": "14 Marla House for Sale in Sector 108 Gurugram",
+        "description": "A 14 Marla house represents high-end independent living with expansive layouts and strong appreciation potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Sale Near Sector 108 Gurugram",
+    "description": [
+      "Buyers interested in a house for sale in Sector 108 Gurugram often explore nearby sectors to evaluate pricing, connectivity, and lifestyle options.",
+      "This section helps users easily discover surrounding residential localities."
+    ],
+    "locations": [
+      { "title": "House for Sale in Sector 108 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 109 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale in Sector 106 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Sector 110 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale near Dwarka Expressway", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 113 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Sector 104 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale in New Palam Vihar", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Sector 108 Houses",
+    "description": [
+      "Buying a house for sale in Sector 108 Gurugram requires reliable listings, clear pricing, and trusted guidance. Deal Acres focuses on delivering transparency and accuracy throughout the property search process.",
+      "With strong local market knowledge and a customer-first approach, Deal Acres has become a preferred platform for homebuyers."
+    ],
+    "points": [
+      { "title": "Verified Property Listings", "description": "All houses are verified to ensure authenticity and ownership clarity." },
+      { "title": "Transparent Pricing Insights", "description": "Prices are aligned with current market trends." },
+      { "title": "Local Market Expertise", "description": "Detailed understanding of Sector 108 and nearby areas." },
+      { "title": "User-Friendly Experience", "description": "Simple and intuitive property search platform." },
+      { "title": "Buyer-Focused Recommendations", "description": "Property options aligned with buyer needs and budgets." },
+      { "title": "Documentation Assistance", "description": "Basic guidance for legal and ownership documentation." },
+      { "title": "End-to-End Support", "description": "Assistance from property discovery to final deal closure." },
+      { "title": "Trusted by Buyers", "description": "Strong reputation built on transparency and service quality." }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses in Sector 108 Gurugram",
+    "description": "Common buyer queries related to house for sale in Sector 108 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 108 Gurugram a good place to buy a house?",
+        "answer": "Yes, Sector 108 offers good connectivity, planned development, and growing residential demand."
+      },
+      {
+        "question": "What plot sizes are available in Sector 108?",
+        "answer": "Independent houses are typically available from 4 Marla to 14 Marla."
+      },
+      {
+        "question": "Is Sector 108 suitable for family living?",
+        "answer": "Yes, the area offers a peaceful environment with access to schools and daily conveniences."
+      },
+      {
+        "question": "Are ready-to-move houses available in Sector 108?",
+        "answer": "Yes, buyers can find ready-to-move and resale independent houses."
+      },
+      {
+        "question": "Is Sector 108 good for long-term investment?",
+        "answer": "Yes, proximity to Dwarka Expressway supports long-term appreciation."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 108?",
+        "answer": "Most properties are eligible for home loans, subject to bank approval."
+      },
+      {
+        "question": "How is connectivity from Sector 108 Gurugram?",
+        "answer": "Sector 108 is well-connected to Dwarka Expressway and major city routes."
+      },
+      {
+        "question": "Is rental demand good in Sector 108?",
+        "answer": "Yes, rental demand is increasing due to improved connectivity and new developments."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and local expertise."
+      },
+      {
+        "question": "How can I contact property experts for Sector 108?",
+        "answer": "You can fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Sale in Sector 108 Gurugram",
+    "description": [
+      "Buying a house for sale in Sector 108 Gurugram is a major investment, and expert guidance can simplify the process.",
+      "Share your details to connect with trusted property experts who will help you find the right home based on your needs and budget."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

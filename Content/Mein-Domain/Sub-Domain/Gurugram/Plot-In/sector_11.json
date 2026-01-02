@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Residential and Investment Plots in Well Connected Sector 11 Gurugram",
+    "description": [
+      "Sector 11 Gurugram is a well-established residential area known for its central location and excellent civic infrastructure. Buyers searching for a plot in Sector 11 Gurugram prefer this locality due to its proximity to old Gurugram markets, government offices, schools, and hospitals. The sector offers smooth road connectivity to NH-48, Sheetla Mata Road, and key commercial areas, making daily commuting convenient for residents.",
+      "Plots in Sector 11 Gurugram are ideal for buyers looking to build independent homes in a settled neighborhood with strong social infrastructure. Due to limited availability and consistent demand, land parcels here hold solid resale and long-term appreciation value. Whether for self-use or investment, choosing a plot in Sector 11 means securing property in a location that combines connectivity, livability, and steady real estate growth."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 11",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1605146769289-440113cc3d00?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Size Options Available in Sector 11 Gurugram",
+    "description": [
+      "Choosing the right plot size in Sector 11 Gurugram helps buyers plan construction efficiently while ensuring long-term property value.",
+      "Sector 11 offers multiple plot sizes suitable for compact homes, spacious residences, and premium independent houses."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 11 Gurugram",
+        "description": "A 4 Marla plot in Sector 11 Gurugram is suitable for buyers planning compact independent homes within a well-developed locality."
+      },
+      {
+        "title": "6 Marla Plot in Sector 11 Gurugram",
+        "description": "6 Marla plots offer balanced space for comfortable living, parking, and efficient home layouts in a central area."
+      },
+      {
+        "title": "8 Marla Plot in Sector 11 Gurugram",
+        "description": "An 8 Marla plot allows more design flexibility, making it ideal for families seeking spacious interiors and open areas."
+      },
+      {
+        "title": "10 Marla Plot in Sector 11 Gurugram",
+        "description": "10 Marla plots are preferred by buyers looking to build larger independent houses with strong resale potential."
+      },
+      {
+        "title": "12 Marla Plot in Sector 11 Gurugram",
+        "description": "A 12 Marla plot provides ample space for premium residential construction and landscaped surroundings."
+      },
+      {
+        "title": "14 Marla Plot in Sector 11 Gurugram",
+        "description": "14 Marla plots attract buyers focused on larger land holdings, privacy, and long-term capital appreciation."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Nearby Locations Offering Plots Around Sector 11 Gurugram",
+    "description": [
+      "Buyers interested in a plot in Sector 11 Gurugram often explore nearby sectors to compare availability and pricing.",
+      "This section highlights surrounding areas that offer similar residential advantages."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 11 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 10 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 12 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 9 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Old Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Civil Lines Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Central Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 11 Gurugram",
+    "description": [
+      "Purchasing a plot in Sector 11 Gurugram requires verified listings, local market understanding, and legal clarity.",
+      "Deal Acres has earned buyer trust by providing transparent services and reliable property guidance."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are verified for ownership authenticity and approval status."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing ensures buyers face no hidden costs."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 11 and surrounding areas."
+      },
+      {
+        "title": "Wide Plot Options",
+        "description": "Multiple plot sizes to suit different residential needs."
+      },
+      {
+        "title": "Legal & Registry Support",
+        "description": "Complete assistance with documentation and registry process."
+      },
+      {
+        "title": "Personalized Recommendations",
+        "description": "Property suggestions aligned with buyer goals and budget."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from site visit to final possession."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Deal Acres is known for professionalism and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 11 Gurugram",
+    "description": "Common queries answered to help buyers make informed decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 11 Gurugram a good location to buy a plot?",
+        "answer": "Yes, Sector 11 is a centrally located and well-developed area with strong residential demand."
+      },
+      {
+        "question": "What plot sizes are available in Sector 11 Gurugram?",
+        "answer": "Plots generally range from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Is Sector 11 suitable for independent house construction?",
+        "answer": "Yes, Sector 11 is ideal for building independent residential homes."
+      },
+      {
+        "question": "Is buying a plot in Sector 11 a good investment?",
+        "answer": "Due to limited land availability and central location, Sector 11 offers stable long-term returns."
+      },
+      {
+        "question": "Are plots in Sector 11 legally approved?",
+        "answer": "Most plots are approved, but legal verification is recommended before purchase."
+      },
+      {
+        "question": "How is connectivity from Sector 11 Gurugram?",
+        "answer": "Sector 11 has excellent road connectivity to NH-48 and other major routes."
+      },
+      {
+        "question": "Can construction start immediately after purchase?",
+        "answer": "Construction depends on local building bylaws and required approvals."
+      },
+      {
+        "question": "What amenities are available near Sector 11?",
+        "answer": "Schools, hospitals, markets, and daily conveniences are easily accessible."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres offers verified listings, transparent processes, and full buyer support."
+      },
+      {
+        "question": "How can I contact plot experts?",
+        "answer": "Fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Assistance for Buying Plots in Sector 11 Gurugram",
+    "description": [
+      "Finding the right plot in Sector 11 Gurugram becomes simple with expert guidance.",
+      "Share your details to connect with trusted professionals who will help you find verified plots that match your requirements."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

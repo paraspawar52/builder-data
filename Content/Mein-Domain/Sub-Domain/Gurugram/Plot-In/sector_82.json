@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Premium Residential and Investment Plots in Sector 82 Gurugram",
+    "description": [
+      "Sector 82 Gurugram is a well-planned and fast-growing residential location in New Gurugram, known for its modern infrastructure and excellent connectivity. Buyers looking for a plot in Sector 82 Gurugram are attracted by its proximity to NH-48, Dwarka Expressway, and key employment hubs of Gurugram and Manesar. The sector is surrounded by reputed residential societies, schools, hospitals, shopping complexes, and daily convenience facilities, making it ideal for families and long-term residents.",
+      "Plots in Sector 82 offer a perfect opportunity to build customized homes or secure land in a high-demand area. With continuous infrastructure upgrades and rising residential interest, the locality promises stable appreciation and strong future value. Choosing a plot in Sector 82 Gurugram means investing in a balanced neighborhood that offers connectivity, comfort, and long-term real estate growth."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 82",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Options by Size in Sector 82 Gurugram",
+    "description": [
+      "Selecting the right plot size in Sector 82 Gurugram is an important step that impacts construction planning, lifestyle comfort, and future returns.",
+      "Sector 82 offers multiple plot size options catering to first-time buyers, growing families, and premium investors."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 82 Gurugram",
+        "description": "A 4 Marla plot in Sector 82 Gurugram is suitable for buyers seeking an affordable entry into a well-developed locality. These plots are ideal for compact independent homes and are preferred by small families and first-time buyers looking for long-term appreciation."
+      },
+      {
+        "title": "6 Marla Plot in Sector 82 Gurugram",
+        "description": "6 Marla plots offer a balanced combination of space and budget. They allow buyers to construct comfortable family homes with proper ventilation, parking, and functional layouts in a planned residential environment."
+      },
+      {
+        "title": "8 Marla Plot in Sector 82 Gurugram",
+        "description": "An 8 Marla plot provides enhanced design flexibility and spacious construction. These plots are popular among families planning modern homes with larger rooms, open spaces, and improved privacy."
+      },
+      {
+        "title": "10 Marla Plot in Sector 82 Gurugram",
+        "description": "10 Marla plots fall under the premium residential segment and are ideal for buyers looking to build spacious independent houses. These plots offer strong resale demand and lifestyle comfort."
+      },
+      {
+        "title": "12 Marla Plot in Sector 82 Gurugram",
+        "description": "A 12 Marla plot allows ample space for luxury homes and landscaped areas. These plots are suitable for joint families or buyers seeking premium living with long-term value."
+      },
+      {
+        "title": "14 Marla Plot in Sector 82 Gurugram",
+        "description": "14 Marla plots represent high-end investment opportunities in Sector 82 Gurugram. Ideal for luxury residences, these plots attract buyers focused on exclusivity, space, and strong capital appreciation."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Plot Options Near Sector 82 Gurugram",
+    "description": [
+      "Buyers searching for a plot in Sector 82 Gurugram often explore nearby sectors to compare pricing, connectivity, and development status.",
+      "This section highlights surrounding localities to help users make informed and confident property decisions."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 82 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 83 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 81 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 84 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Dwarka Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in New Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near IMT Manesar", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 82 Gurugram",
+    "description": [
+      "Buying a plot in Sector 82 Gurugram requires verified listings, legal clarity, and reliable market guidance.",
+      "Deal Acres has earned strong buyer trust by delivering transparent processes, genuine properties, and customer-centric support."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "Each plot is carefully verified for ownership, approvals, and authenticity to ensure buyer safety."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear and honest pricing helps buyers make confident investment decisions without hidden costs."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth understanding of Sector 82 Gurugram ensures accurate advice and fair valuation."
+      },
+      {
+        "title": "Wide Range of Plot Options",
+        "description": "Multiple plot sizes and budget options are available to suit diverse buyer requirements."
+      },
+      {
+        "title": "Legal and Documentation Support",
+        "description": "Complete assistance with registry, paperwork, and compliance ensures smooth transactions."
+      },
+      {
+        "title": "Personalized Property Matching",
+        "description": "Plots are recommended based on buyer goals, whether residential use or investment."
+      },
+      {
+        "title": "End-to-End Buying Assistance",
+        "description": "Support from initial inquiry to final possession makes the buying journey stress-free."
+      },
+      {
+        "title": "Trusted by Property Buyers",
+        "description": "Deal Acres is known for reliability, transparency, and long-term customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 82 Gurugram",
+    "description": "Common buyer questions related to plot purchase in Sector 82 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 82 Gurugram a good location to buy a plot?",
+        "answer": "Yes, Sector 82 is a well-planned and developing area with strong connectivity and future appreciation potential."
+      },
+      {
+        "question": "What plot sizes are available in Sector 82 Gurugram?",
+        "answer": "Plots from 4 Marla to 14 Marla are available, catering to different budgets and construction needs."
+      },
+      {
+        "question": "Is Sector 82 suitable for residential construction?",
+        "answer": "Yes, the sector supports independent residential construction with proper planning norms."
+      },
+      {
+        "question": "Is buying a plot in Sector 82 good for investment?",
+        "answer": "Due to its location in New Gurugram and infrastructure growth, Sector 82 offers strong long-term returns."
+      },
+      {
+        "question": "Are plots in Sector 82 legally approved?",
+        "answer": "Most plots have clear titles, but verification is essential. Deal Acres assists with legal checks."
+      },
+      {
+        "question": "How is connectivity from Sector 82 Gurugram?",
+        "answer": "Sector 82 is well connected to NH-48, Dwarka Expressway, and major business hubs."
+      },
+      {
+        "question": "Can construction start immediately after purchase?",
+        "answer": "Construction depends on local approvals and regulations. Our experts guide buyers through the process."
+      },
+      {
+        "question": "What amenities are available near Sector 82?",
+        "answer": "Schools, hospitals, shopping malls, and daily-need facilities are easily accessible."
+      },
+      {
+        "question": "Why choose Deal Acres for buying plots?",
+        "answer": "Deal Acres provides verified listings, transparent processes, and end-to-end buyer support."
+      },
+      {
+        "question": "How can I contact experts for plot buying?",
+        "answer": "You can fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Buying Plots in Sector 82 Gurugram",
+    "description": [
+      "Finding the right plot in Sector 82 Gurugram becomes easier with professional support.",
+      "Share your details to connect with trusted property experts who will help you find verified plots matching your budget and investment goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Residential and Investment Plots in Rapidly Developing Sector 107 Gurugram",
+    "description": [
+      "Sector 107 Gurugram is an emerging residential locality located close to Dwarka Expressway, offering excellent connectivity to Delhi and major parts of Gurugram. Buyers looking for a plot in Sector 107 Gurugram are attracted by its planned layout, upcoming infrastructure, and proximity to premium residential projects. The sector is well connected to NH-48, IGI Airport, and key commercial hubs, making it a practical choice for both end users and investors.",
+      "Plots in Sector 107 Gurugram provide an excellent opportunity to build independent homes in a fast-developing neighborhood. With improving road networks, nearby schools, hospitals, and retail zones, the sector promises strong future growth. Whether you are planning self-construction or long-term land investment, choosing a plot in Sector 107 ensures value appreciation, connectivity, and a modern urban lifestyle."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 107",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1597047084897-51e81819a499?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Available Plot Sizes in Sector 107 Gurugram",
+    "description": [
+      "Selecting the right plot size in Sector 107 Gurugram is essential for comfortable living and long-term investment planning.",
+      "The sector offers multiple plot configurations suitable for modern independent homes and future-ready construction."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 107 Gurugram",
+        "description": "A 4 Marla plot in Sector 107 Gurugram is ideal for buyers seeking compact homes within a planned residential environment."
+      },
+      {
+        "title": "6 Marla Plot in Sector 107 Gurugram",
+        "description": "6 Marla plots provide a balance of affordability and space, suitable for practical home layouts and parking needs."
+      },
+      {
+        "title": "8 Marla Plot in Sector 107 Gurugram",
+        "description": "An 8 Marla plot offers flexibility for spacious design, preferred by families planning comfortable independent houses."
+      },
+      {
+        "title": "10 Marla Plot in Sector 107 Gurugram",
+        "description": "10 Marla plots are ideal for larger residences and hold strong resale value due to increasing demand."
+      },
+      {
+        "title": "12 Marla Plot in Sector 107 Gurugram",
+        "description": "A 12 Marla plot allows premium construction with open areas, suitable for buyers focused on long-term living."
+      },
+      {
+        "title": "14 Marla Plot in Sector 107 Gurugram",
+        "description": "14 Marla plots are perfect for buyers seeking larger land parcels with high future appreciation potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Nearby Plot Locations Around Sector 107 Gurugram",
+    "description": [
+      "Buyers interested in a plot in Sector 107 Gurugram often explore nearby sectors to evaluate pricing and connectivity.",
+      "This section helps users compare similar residential locations near Sector 107."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 107 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 106 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 108 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Dwarka Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 104 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in New Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near IGI Airport", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in West Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Choose Deal Acres for Plots in Sector 107 Gurugram",
+    "description": [
+      "Buying a plot in Sector 107 Gurugram requires verified listings, legal clarity, and expert local guidance.",
+      "Deal Acres is trusted by buyers for transparent processes and reliable property support."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "Each plot is checked for ownership, approvals, and legal authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear and honest pricing with no hidden charges."
+      },
+      {
+        "title": "Local Market Knowledge",
+        "description": "Strong understanding of Sector 107 and Dwarka Expressway belt."
+      },
+      {
+        "title": "Wide Plot Options",
+        "description": "Multiple plot sizes to match diverse buyer needs."
+      },
+      {
+        "title": "Legal & Registry Assistance",
+        "description": "Complete support with documentation and registration."
+      },
+      {
+        "title": "Personalized Property Matching",
+        "description": "Plot suggestions based on lifestyle and investment goals."
+      },
+      {
+        "title": "End-to-End Buying Support",
+        "description": "Assistance from search to final possession."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Deal Acres is known for reliability and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 107 Gurugram",
+    "description": "Important questions buyers ask before purchasing plots in Sector 107 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 107 Gurugram a good location to buy a plot?",
+        "answer": "Yes, Sector 107 is a fast-developing area near Dwarka Expressway with strong future growth prospects."
+      },
+      {
+        "question": "What plot sizes are available in Sector 107 Gurugram?",
+        "answer": "Plots typically range from 4 Marla to 14 Marla, subject to availability."
+      },
+      {
+        "question": "Is Sector 107 suitable for independent house construction?",
+        "answer": "Yes, the sector is planned for residential development and independent homes."
+      },
+      {
+        "question": "Is buying a plot in Sector 107 a good investment?",
+        "answer": "Due to infrastructure growth and connectivity, Sector 107 offers strong long-term appreciation."
+      },
+      {
+        "question": "Are plots in Sector 107 legally approved?",
+        "answer": "Most plots are approved, but legal verification is always recommended."
+      },
+      {
+        "question": "How is connectivity from Sector 107 Gurugram?",
+        "answer": "Sector 107 enjoys excellent connectivity via Dwarka Expressway and NH-48."
+      },
+      {
+        "question": "Can construction start immediately after purchase?",
+        "answer": "Construction depends on local bylaws and necessary approvals."
+      },
+      {
+        "question": "What amenities are available near Sector 107?",
+        "answer": "Schools, hospitals, shopping centers, and daily conveniences are nearby."
+      },
+      {
+        "question": "Why should I buy through Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparent processes, and expert guidance."
+      },
+      {
+        "question": "How can I contact plot experts?",
+        "answer": "Fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for Buying Plots in Sector 107 Gurugram",
+    "description": [
+      "Finding the right plot in Sector 107 Gurugram becomes easy with professional support.",
+      "Share your details to connect with trusted experts who will help you find verified plots aligned with your needs."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

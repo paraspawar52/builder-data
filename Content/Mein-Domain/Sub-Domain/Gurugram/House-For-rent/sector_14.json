@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Well Established Independent Houses for Rent in Sector 14 Gurugram",
+    "description": [
+      "Sector 14 Gurugram is one of the most sought-after and centrally located residential areas, known for its mature infrastructure and excellent accessibility. Tenants searching for a house for rent in Sector 14 Gurugram prefer this locality due to its close proximity to HUDA City Centre Metro Station, NH-48, and major business hubs of Gurugram. The sector is surrounded by reputed schools, hospitals, shopping markets, banks, and restaurants, making daily life extremely convenient.",
+      "Independent houses in Sector 14 offer spacious layouts, privacy, and a peaceful residential environment, which makes them ideal for families, professionals, and long-term tenants. The locality is well-planned with wide roads, green surroundings, and a strong community presence. Choosing a house for rent in Sector 14 Gurugram means enjoying comfort, connectivity, and a well-balanced lifestyle in one of the city’s most reliable residential neighborhoods."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sector 14 Gurugram",
+    "description": [
+      "Choosing the right plot size is an important factor when looking for a house for rent in Sector 14 Gurugram, as it directly impacts comfort, space, and monthly rental budget.",
+      "Sector 14 offers a wide range of independent houses on rent, catering to small families, joint families, and tenants seeking premium living."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 14 Gurugram",
+        "description": "A 4 Marla house for rent in Sector 14 Gurugram is ideal for couples or small families looking for an affordable, low-maintenance home in a central location."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 14 Gurugram",
+        "description": "6 Marla houses provide a balanced combination of space and affordability, making them suitable for nuclear families seeking comfortable living."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 14 Gurugram",
+        "description": "An 8 Marla rental house offers spacious rooms, good ventilation, and practical layouts, perfect for long-term family living."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 14 Gurugram",
+        "description": "10 Marla houses are preferred by tenants who want larger living areas, parking space, and enhanced privacy."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 14 Gurugram",
+        "description": "12 Marla rental houses fall into the premium category, offering open spaces, modern construction, and a comfortable lifestyle."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 14 Gurugram",
+        "description": "A 14 Marla house for rent is suitable for large families or corporate tenants seeking luxury, space, and a peaceful residential environment."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 14 Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in Sector 14 Gurugram often explore nearby localities to compare rental options, connectivity, and lifestyle benefits.",
+      "This section helps users discover surrounding residential areas for better rental decision-making."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 14 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 15 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 12 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 10A Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near HUDA City Centre", "path": "/", "icon": "Home" },
+      { "title": "House for Rent near NH-48 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 31 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent near Old Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sector 14 Rental Houses",
+    "description": [
+      "Finding a genuine house for rent in Sector 14 Gurugram requires verified listings, transparent pricing, and reliable local expertise. Deal Acres focuses on building trust at every stage.",
+      "With a tenant-first approach and deep understanding of Gurugram’s rental market, Deal Acres has become a preferred choice for independent house rentals."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All rental houses are verified for ownership and authenticity to ensure tenant safety."
+      },
+      {
+        "title": "Transparent Rental Details",
+        "description": "Clear information on rent, security deposit, and terms helps tenants make confident decisions."
+      },
+      {
+        "title": "Strong Local Expertise",
+        "description": "In-depth knowledge of Sector 14 ensures accurate rental guidance."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "Advanced filters make finding the right house fast and simple."
+      },
+      {
+        "title": "Tenant-Focused Recommendations",
+        "description": "Properties are suggested based on budget, family size, and lifestyle needs."
+      },
+      {
+        "title": "Documentation Assistance",
+        "description": "Support with rental agreements and paperwork ensures a smooth process."
+      },
+      {
+        "title": "End-to-End Rental Support",
+        "description": "Assistance from property discovery to final move-in."
+      },
+      {
+        "title": "Trusted by Renters",
+        "description": "Deal Acres is known for transparency, reliability, and high customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 14 Gurugram",
+    "description": "Common tenant queries related to house for rent in Sector 14 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 14 Gurugram a good area to rent a house?",
+        "answer": "Yes, Sector 14 is a prime and centrally located residential area with excellent connectivity and amenities."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 14?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are available for rent."
+      },
+      {
+        "question": "Is Sector 14 suitable for family living?",
+        "answer": "Yes, the locality is family-friendly with schools, hospitals, parks, and markets nearby."
+      },
+      {
+        "question": "Are furnished houses available for rent in Sector 14?",
+        "answer": "Both furnished and semi-furnished houses are available depending on the property."
+      },
+      {
+        "question": "What is the average rent in Sector 14 Gurugram?",
+        "answer": "Rental values depend on plot size, condition, and exact location within the sector."
+      },
+      {
+        "question": "How is connectivity from Sector 14?",
+        "answer": "Sector 14 offers excellent connectivity via NH-48, metro stations, and major city roads."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sector 14?",
+        "answer": "Some landlords allow bachelors, while others prefer families. This varies by property."
+      },
+      {
+        "question": "Is Sector 14 safe for tenants?",
+        "answer": "Yes, it is considered a safe and well-established residential neighborhood."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparent details, and expert rental support."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 14?",
+        "answer": "You can fill out the contact form to connect with experienced rental consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sector 14 Gurugram",
+    "description": [
+      "Finding the right house for rent in Sector 14 Gurugram becomes easy with professional assistance.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that matches your budget and lifestyle."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

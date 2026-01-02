@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Affordable Independent Houses for Rent in Sector 8 Gurugram",
+    "description": [
+      "Sector 8 Gurugram is one of the oldest and most well-connected residential areas in the city, known for its practical location and everyday convenience. Tenants searching for a house for rent in Sector 8 Gurugram often choose this locality due to its close proximity to NH-48, IMT Manesar Road, Hero Honda Chowk, and major commercial zones. The sector offers easy access to schools, hospitals, local markets, banks, and public transport, making it a preferred choice for families and working professionals.",
+      "Independent houses in Sector 8 provide spacious layouts, privacy, and a peaceful residential environment compared to high-rise apartments. The area has a stable community, wide roads, and established civic infrastructure, which makes it suitable for long-term rental living. Choosing a house for rent in Sector 8 Gurugram ensures comfortable living with reliable connectivity and essential amenities in a well-settled neighborhood."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sector 8 Gurugram",
+    "description": [
+      "Selecting the right plot size is an important step when choosing a house for rent in Sector 8 Gurugram, as it directly impacts comfort, space, and monthly rental budget.",
+      "Sector 8 offers independent houses on rent in multiple plot sizes, suitable for small families as well as larger households."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 8 Gurugram",
+        "description": "A 4 Marla house for rent in Sector 8 Gurugram is ideal for couples or small families looking for an affordable and easy-to-maintain rental home."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 8 Gurugram",
+        "description": "6 Marla houses offer a good balance of space and budget, making them suitable for comfortable family living."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 8 Gurugram",
+        "description": "An 8 Marla rental house provides spacious rooms, proper ventilation, and practical layouts for long-term residence."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 8 Gurugram",
+        "description": "10 Marla houses are preferred by tenants who want larger living areas, parking space, and enhanced privacy."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 8 Gurugram",
+        "description": "12 Marla rental houses fall into the premium segment, offering open spaces and better lifestyle comfort."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 8 Gurugram",
+        "description": "A 14 Marla house for rent is suitable for large families or corporate tenants seeking space, comfort, and a peaceful environment."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 8 Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in Sector 8 Gurugram often explore nearby localities to compare rental options, connectivity, and amenities.",
+      "This section highlights surrounding residential areas to help users make informed rental decisions."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 8 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 7 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 9 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 10 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near Hero Honda Chowk", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 5 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent near NH-48", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Old Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sector 8 Rental Houses",
+    "description": [
+      "Finding a genuine house for rent in Sector 8 Gurugram requires verified listings, transparent rental details, and strong local market knowledge. Deal Acres focuses on trust and clarity.",
+      "With a tenant-first approach and deep understanding of Gurugram’s rental market, Deal Acres has become a preferred platform for renting independent houses."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "Every property is verified for ownership and authenticity to ensure tenant safety."
+      },
+      {
+        "title": "Transparent Rental Information",
+        "description": "Clear details on rent, security deposit, and agreement terms help tenants plan confidently."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 8 and nearby areas ensures accurate rental guidance."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "User-friendly tools make searching for rental houses quick and simple."
+      },
+      {
+        "title": "Tenant-Centric Recommendations",
+        "description": "Suggestions are tailored to tenant budget, family size, and lifestyle needs."
+      },
+      {
+        "title": "Documentation Assistance",
+        "description": "Support with rental agreements and paperwork ensures a smooth renting experience."
+      },
+      {
+        "title": "End-to-End Rental Support",
+        "description": "Assistance from property search to move-in for hassle-free renting."
+      },
+      {
+        "title": "Trusted by Renters",
+        "description": "Deal Acres is known for reliability, transparency, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 8 Gurugram",
+    "description": "Common tenant questions related to house for rent in Sector 8 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 8 Gurugram a good area to rent a house?",
+        "answer": "Yes, Sector 8 is a well-established locality with good connectivity, markets, and daily amenities nearby."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 8?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are available for different budgets and family sizes."
+      },
+      {
+        "question": "Is Sector 8 suitable for family living?",
+        "answer": "Yes, the sector has schools, parks, hospitals, and a peaceful residential environment suitable for families."
+      },
+      {
+        "question": "Are furnished houses available for rent in Sector 8?",
+        "answer": "Yes, furnished and semi-furnished houses are available depending on the property."
+      },
+      {
+        "question": "What is the average rent in Sector 8 Gurugram?",
+        "answer": "Rental values depend on plot size, furnishings, and exact location, offering affordable to mid-range options."
+      },
+      {
+        "question": "How is connectivity from Sector 8?",
+        "answer": "Sector 8 is well-connected via NH-48, Hero Honda Chowk, and major city roads."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sector 8?",
+        "answer": "Some landlords allow bachelors, while others prefer families, depending on owner preferences."
+      },
+      {
+        "question": "Is Sector 8 safe for tenants?",
+        "answer": "Yes, it is considered a safe and well-populated residential area."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres provides verified listings, transparent information, and expert local rental support."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 8?",
+        "answer": "You can fill out the contact form to connect with experienced rental property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sector 8 Gurugram",
+    "description": [
+      "Finding the right house for rent in Sector 8 Gurugram becomes simple and stress-free with professional guidance.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that matches your budget, preferences, and lifestyle needs."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

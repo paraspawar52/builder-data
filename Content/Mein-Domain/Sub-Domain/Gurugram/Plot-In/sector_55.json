@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Premium Residential and Investment Plots in Prime Sector 56 Gurugram",
+    "description": [
+      "Sector 56 Gurugram is one of the most premium and well-developed residential sectors located along Golf Course Road, making it a highly preferred location for homebuyers and investors. People searching for a plot in Sector 56 Gurugram value the area for its excellent connectivity to Golf Course Road, Golf Course Extension Road, HUDA City Centre Metro Station, and major business hubs of Gurugram. The sector is surrounded by top schools, reputed hospitals, malls, offices, parks, and daily convenience stores, offering a high-quality urban lifestyle.",
+      "Plots in Sector 56 are limited and considered high-value assets due to the sector’s mature infrastructure and elite neighborhood. Whether you want to build a luxury independent home or invest in land with strong appreciation potential, this location delivers long-term stability and prestige. Choosing a plot in Sector 56 Gurugram means investing in a prime address that combines connectivity, lifestyle convenience, and strong real estate growth."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 56",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Options by Size in Sector 56 Gurugram",
+    "description": [
+      "Choosing the right plot size in Sector 56 Gurugram is crucial for construction planning, lifestyle comfort, and long-term property value.",
+      "Sector 56 offers premium residential plots suitable for compact homes, spacious villas, and ultra-luxury independent houses."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 56 Gurugram",
+        "description": "A 4 Marla plot in Sector 56 Gurugram is suitable for buyers seeking compact luxury living in a prime location. These plots are ideal for modern, efficient home designs with easy maintenance."
+      },
+      {
+        "title": "6 Marla Plot in Sector 56 Gurugram",
+        "description": "6 Marla plots offer a balanced combination of space and premium location. Buyers can plan comfortable family homes with proper ventilation, parking, and privacy."
+      },
+      {
+        "title": "8 Marla Plot in Sector 56 Gurugram",
+        "description": "An 8 Marla plot provides greater flexibility for spacious and elegant home construction. These plots are preferred by families planning modern homes with better layouts."
+      },
+      {
+        "title": "10 Marla Plot in Sector 56 Gurugram",
+        "description": "10 Marla plots fall into the premium category and are ideal for luxury independent houses with strong resale and rental demand."
+      },
+      {
+        "title": "12 Marla Plot in Sector 56 Gurugram",
+        "description": "A 12 Marla plot offers ample space for high-end villas and landscaped surroundings, suitable for joint families and premium buyers."
+      },
+      {
+        "title": "14 Marla Plot in Sector 56 Gurugram",
+        "description": "14 Marla plots represent elite investment opportunities in Sector 56 Gurugram, attracting buyers focused on exclusivity and long-term appreciation."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Plot Options Near Sector 56 Gurugram",
+    "description": [
+      "Buyers interested in a plot in Sector 56 Gurugram often explore nearby premium sectors to compare pricing, availability, and lifestyle advantages.",
+      "This section highlights surrounding localities to help users make informed and confident property decisions."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 56 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 55 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 57 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 54 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Golf Course Road", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Golf Course Extension Road", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near HUDA City Centre", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Central Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 56 Gurugram",
+    "description": [
+      "Buying a plot in Sector 56 Gurugram requires verified listings, legal clarity, and deep local market understanding.",
+      "Deal Acres has earned buyer trust by delivering transparent processes, genuine properties, and customer-focused services."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are thoroughly verified for ownership, approvals, and legal authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden charges helps buyers plan investments confidently."
+      },
+      {
+        "title": "Strong Local Expertise",
+        "description": "In-depth knowledge of Sector 56 Gurugram ensures accurate property guidance."
+      },
+      {
+        "title": "Access to Premium Properties",
+        "description": "Exclusive access to high-value residential plots in prime locations."
+      },
+      {
+        "title": "Legal and Registry Support",
+        "description": "Complete assistance with documentation, registry, and compliance."
+      },
+      {
+        "title": "Personalized Property Matching",
+        "description": "Plot recommendations based on buyer needs, lifestyle, and investment goals."
+      },
+      {
+        "title": "End-to-End Buying Assistance",
+        "description": "Support from initial inquiry to final possession."
+      },
+      {
+        "title": "Trusted by Home Buyers",
+        "description": "Deal Acres is known for trust, transparency, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 56 Gurugram",
+    "description": "Common buyer questions related to plot purchase in Sector 56 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 56 Gurugram a good location to buy a plot?",
+        "answer": "Yes, Sector 56 is a premium and well-developed area with excellent connectivity and strong appreciation potential."
+      },
+      {
+        "question": "What plot sizes are available in Sector 56 Gurugram?",
+        "answer": "Plots ranging from 4 Marla to 14 Marla are available, depending on inventory."
+      },
+      {
+        "question": "Is Sector 56 suitable for residential construction?",
+        "answer": "Yes, the sector is ideal for independent residential construction with modern infrastructure."
+      },
+      {
+        "question": "Is buying a plot in Sector 56 a good investment?",
+        "answer": "Due to limited supply and prime location, Sector 56 offers strong long-term investment returns."
+      },
+      {
+        "question": "Are plots in Sector 56 legally approved?",
+        "answer": "Most plots have clear titles, but proper verification is essential. Deal Acres assists with due diligence."
+      },
+      {
+        "question": "How is connectivity from Sector 56 Gurugram?",
+        "answer": "Sector 56 enjoys excellent connectivity via Golf Course Road, Metro, and major city roads."
+      },
+      {
+        "question": "Can construction start immediately after purchase?",
+        "answer": "Construction depends on local building norms and approvals. Expert guidance is provided."
+      },
+      {
+        "question": "What amenities are available near Sector 56?",
+        "answer": "Top schools, hospitals, malls, parks, and offices are located nearby."
+      },
+      {
+        "question": "Why should I choose Deal Acres for buying plots?",
+        "answer": "Deal Acres provides verified listings, transparent processes, and complete buyer support."
+      },
+      {
+        "question": "How can I contact plot buying experts?",
+        "answer": "You can fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Buying Plots in Sector 56 Gurugram",
+    "description": [
+      "Finding the right plot in Sector 56 Gurugram becomes simple with expert assistance.",
+      "Share your details to connect with trusted property professionals who will help you find verified plots matching your budget and long-term goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

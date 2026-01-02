@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Prime Commercial and Residential Plots on MG Road Gurugram",
+    "description": [
+      "MG Road Gurugram is one of the most prestigious and centrally located corridors in the city, known for its commercial vibrancy, premium residential pockets, and unmatched connectivity. Buyers searching for a Plot in MG Road Gurugram are drawn to its direct access to Delhi, NH-48, Rapid Metro stations, and proximity to Cyber City, DLF Phase 2, and Golf Course Road. The area is surrounded by high-end malls, corporate offices, hotels, hospitals, and luxury residences, making it a high-demand destination for both residential and mixed-use development.",
+      "Plots on MG Road Gurugram are extremely limited and highly valuable due to constant demand from investors, businesses, and end users. Whether for boutique commercial use, premium residences, or long-term land banking, MG Road offers strong rental potential and capital appreciation. Choosing a plot in MG Road Gurugram means investing in a landmark location that ensures visibility, convenience, and long-term financial strength in the heart of Gurugram."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots on MG Road",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Size Options Available on MG Road Gurugram",
+    "description": [
+      "Selecting the right plot size on MG Road Gurugram is crucial for optimizing land usage, construction planning, and return on investment.",
+      "MG Road offers selective plot size options suitable for premium residences, commercial establishments, and mixed-use developments."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot on MG Road Gurugram",
+        "description": "A 4 Marla plot on MG Road Gurugram is suitable for compact commercial units or premium residential construction. These plots are highly sought after due to their central location and excellent rental prospects."
+      },
+      {
+        "title": "6 Marla Plot on MG Road Gurugram",
+        "description": "6 Marla plots offer better flexibility for boutique offices, showrooms, or independent houses. Buyers prefer this size for balanced investment and usability."
+      },
+      {
+        "title": "8 Marla Plot on MG Road Gurugram",
+        "description": "An 8 Marla plot on MG Road Gurugram allows for efficient planning of premium residences or mixed-use buildings. This size is ideal for maximizing commercial visibility and long-term value."
+      },
+      {
+        "title": "10 Marla Plot on MG Road Gurugram",
+        "description": "10 Marla plots are premium options suitable for high-end commercial or residential development. These plots command strong demand and excellent appreciation."
+      },
+      {
+        "title": "12 Marla Plot on MG Road Gurugram",
+        "description": "A 12 Marla plot on MG Road Gurugram is ideal for buyers seeking expansive development possibilities. Limited availability makes these plots highly valuable assets."
+      },
+      {
+        "title": "14 Marla Plot on MG Road Gurugram",
+        "description": "14 Marla plots cater to investors looking for landmark properties on MG Road. These plots are suitable for luxury projects and long-term wealth creation."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Plot Options Near MG Road Gurugram",
+    "description": [
+      "Buyers interested in a Plot in MG Road Gurugram often explore nearby premium locations to evaluate commercial potential and connectivity.",
+      "This section highlights surrounding areas that further enhance MG Road’s strategic and investment appeal."
+    ],
+    "locations": [
+      { "title": "Plot in MG Road Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in DLF Phase 2 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in DLF Phase 3 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 25 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Cyber City Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Golf Course Road", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Rapid Metro", "path": "/", "icon": "Landmark" },
+      { "title": "Commercial Plots in Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots on MG Road",
+    "description": [
+      "Buying a Plot in MG Road Gurugram requires deep market understanding, verified ownership, and complete transparency.",
+      "Deal Acres has emerged as a trusted real estate partner by consistently delivering reliable listings and customer-centric solutions."
+    ],
+    "points": [
+      {
+        "title": "Verified Prime Listings",
+        "description": "All plots are verified for ownership, zoning, and legal approvals."
+      },
+      {
+        "title": "Transparent Deal Process",
+        "description": "Clear pricing and structured transactions with no hidden costs."
+      },
+      {
+        "title": "Expert Local Market Insight",
+        "description": "Strong understanding of MG Road commercial and residential value trends."
+      },
+      {
+        "title": "Exclusive Plot Inventory",
+        "description": "Access to rare and premium plot opportunities on MG Road."
+      },
+      {
+        "title": "Legal and Registry Support",
+        "description": "Complete assistance with documentation, registry, and compliance."
+      },
+      {
+        "title": "Customized Investment Guidance",
+        "description": "Recommendations aligned with business, rental, or long-term investment goals."
+      },
+      {
+        "title": "End-to-End Transaction Support",
+        "description": "Support from shortlisting to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Brand",
+        "description": "Deal Acres is known for ethics, professionalism, and long-term client trust."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots on MG Road Gurugram",
+    "description": "Detailed answers to common buyer queries to support confident decision-making.",
+    "faqs": [
+      {
+        "question": "Is MG Road Gurugram a good location to buy a plot?",
+        "answer": "Yes, MG Road is one of the most premium and commercially active corridors in Gurugram, offering excellent appreciation and rental potential."
+      },
+      {
+        "question": "Are plots on MG Road suitable for commercial use?",
+        "answer": "Yes, many plots on MG Road are ideal for commercial, mixed-use, and premium residential development, subject to zoning norms."
+      },
+      {
+        "question": "What plot sizes are available on MG Road Gurugram?",
+        "answer": "Plot sizes generally range from 4 Marla to 14 Marla, depending on availability and specific location."
+      },
+      {
+        "question": "Is buying a plot on MG Road a good investment?",
+        "answer": "Due to limited supply and constant demand, MG Road plots offer strong long-term appreciation and rental yields."
+      },
+      {
+        "question": "Are MG Road plots legally approved?",
+        "answer": "Most plots are approved, but legal verification is essential. Deal Acres assists with due diligence."
+      },
+      {
+        "question": "How is connectivity from MG Road Gurugram?",
+        "answer": "MG Road offers excellent connectivity via NH-48, Rapid Metro, and direct access to Delhi and Cyber City."
+      },
+      {
+        "question": "Can construction start immediately after purchase?",
+        "answer": "Construction depends on zoning regulations and approvals. Expert consultation is recommended."
+      },
+      {
+        "question": "What amenities are available around MG Road?",
+        "answer": "The area offers malls, offices, hospitals, hotels, metro stations, and daily conveniences."
+      },
+      {
+        "question": "Why choose Deal Acres for buying plots on MG Road?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, legal assistance, and complete transaction support."
+      },
+      {
+        "question": "How can I contact experts for MG Road plots?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Buying Plots on MG Road Gurugram",
+    "description": [
+      "Finding the right Plot in MG Road Gurugram becomes easier with professional guidance and verified property options.",
+      "Share your details to connect with trusted real estate experts who will help you identify premium plot opportunities and make a confident investment decision."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

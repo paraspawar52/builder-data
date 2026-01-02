@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "High Growth Residential and Investment Plots in New Gurgaon",
+    "description": [
+      "New Gurgaon is one of the fastest-growing residential corridors of Gurugram, strategically positioned between Delhi and Manesar. Buyers searching for a Plot in New Gurgaon Gurugram are drawn to its modern planning, wide road network, and seamless connectivity via NH-48, Dwarka Expressway, and SPR. The region covers well-developed sectors like 82, 83, 84, 85, 86, 87, and 90, offering a mix of residential, commercial, and social infrastructure. With reputed schools, hospitals, shopping complexes, and upcoming business hubs, New Gurgaon is emerging as a self-sustained urban destination.",
+      "Plots in New Gurgaon Gurugram offer an excellent balance of affordability, lifestyle convenience, and long-term appreciation. Continuous infrastructure development, rising demand from homebuyers, and increasing corporate presence are driving strong capital growth. Choosing a plot in New Gurgaon Gurugram allows buyers to build customized homes or secure land in a future-ready location that promises steady returns and quality living in Gurugram’s most dynamic growth belt."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in New Gurgaon",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Size Options Available in New Gurgaon Gurugram",
+    "description": [
+      "Selecting the right plot size in New Gurgaon Gurugram is essential for construction planning, budget control, and long-term value creation.",
+      "New Gurgaon offers a wide range of plot sizes suitable for compact homes, spacious family residences, and premium villas."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in New Gurgaon Gurugram",
+        "description": "A 4 Marla plot in New Gurgaon Gurugram is ideal for buyers seeking an affordable entry into a high-growth location. These plots are suitable for compact homes and are popular among first-time buyers due to strong future appreciation."
+      },
+      {
+        "title": "6 Marla Plot in New Gurgaon Gurugram",
+        "description": "6 Marla plots in New Gurgaon Gurugram offer a balanced mix of affordability and usable space. They are suitable for independent houses and attract families planning long-term residential living."
+      },
+      {
+        "title": "8 Marla Plot in New Gurgaon Gurugram",
+        "description": "An 8 Marla plot in New Gurgaon Gurugram provides flexibility in home design and layout. Buyers looking for spacious homes with open areas often prefer this size for comfort and resale value."
+      },
+      {
+        "title": "10 Marla Plot in New Gurgaon Gurugram",
+        "description": "10 Marla plots are premium residential options in New Gurgaon Gurugram. These plots support larger homes and offer strong long-term investment potential due to rising demand."
+      },
+      {
+        "title": "12 Marla Plot in New Gurgaon Gurugram",
+        "description": "A 12 Marla plot in New Gurgaon Gurugram is ideal for buyers seeking expansive living spaces and premium construction opportunities. Limited availability enhances their value."
+      },
+      {
+        "title": "14 Marla Plot in New Gurgaon Gurugram",
+        "description": "14 Marla plots in New Gurgaon Gurugram cater to buyers looking for large land parcels for luxury villas. These plots are suitable for high-end residential development and wealth creation."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Plot Options Across New Gurgaon Gurugram",
+    "description": [
+      "Buyers interested in a Plot in New Gurgaon Gurugram often explore different sectors within the region to compare pricing, development status, and connectivity.",
+      "This section highlights prominent locations that strengthen New Gurgaon’s residential and investment appeal."
+    ],
+    "locations": [
+      { "title": "Plot in New Gurgaon Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 82 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 83 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 84 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 85 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 86 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Plots in Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in New Gurgaon",
+    "description": [
+      "Buying a Plot in New Gurgaon Gurugram requires verified listings, transparent transactions, and deep local market insight.",
+      "Deal Acres has become a trusted choice for buyers by consistently delivering reliable properties and customer-first services."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are thoroughly verified for ownership, approvals, and legal documentation."
+      },
+      {
+        "title": "Transparent Pricing Policy",
+        "description": "Clear pricing with no hidden costs ensures buyer confidence."
+      },
+      {
+        "title": "Strong Local Market Knowledge",
+        "description": "In-depth understanding of New Gurgaon development plans and appreciation trends."
+      },
+      {
+        "title": "Wide Inventory Across Sectors",
+        "description": "Access to multiple plot sizes and sectors within New Gurgaon."
+      },
+      {
+        "title": "Legal and Registry Support",
+        "description": "Complete assistance with documentation, registry, and compliance."
+      },
+      {
+        "title": "Personalized Property Guidance",
+        "description": "Recommendations aligned with buyer budget, lifestyle, and investment goals."
+      },
+      {
+        "title": "End-to-End Buying Assistance",
+        "description": "Support from plot shortlisting to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Brand",
+        "description": "Deal Acres is known for ethical practices, professionalism, and long-term customer trust."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in New Gurgaon Gurugram",
+    "description": "Detailed answers to common buyer questions to help make informed property decisions.",
+    "faqs": [
+      {
+        "question": "Is New Gurgaon a good location to buy a plot?",
+        "answer": "Yes, New Gurgaon is one of the fastest-growing areas of Gurugram with strong infrastructure development, excellent connectivity, and high appreciation potential."
+      },
+      {
+        "question": "What plot sizes are available in New Gurgaon Gurugram?",
+        "answer": "Plots in New Gurgaon Gurugram are available in multiple sizes ranging from 4 Marla to 14 Marla, depending on the sector and availability."
+      },
+      {
+        "question": "Is New Gurgaon suitable for residential construction?",
+        "answer": "Yes, New Gurgaon is suitable for residential construction with planned layouts, wide roads, and improving civic amenities."
+      },
+      {
+        "question": "Is buying a plot in New Gurgaon a good investment?",
+        "answer": "With continuous development and rising demand, New Gurgaon offers strong long-term investment and appreciation prospects."
+      },
+      {
+        "question": "Are plots in New Gurgaon legally approved?",
+        "answer": "Most plots are approved, but legal verification is essential. Deal Acres assists buyers with due diligence."
+      },
+      {
+        "question": "How is connectivity from New Gurgaon?",
+        "answer": "New Gurgaon enjoys excellent connectivity via NH-48, Dwarka Expressway, and SPR, ensuring smooth access to Delhi and Manesar."
+      },
+      {
+        "question": "Can construction start immediately after buying a plot?",
+        "answer": "Construction depends on sector-specific guidelines and approvals. Expert guidance is recommended."
+      },
+      {
+        "question": "What amenities are available in New Gurgaon?",
+        "answer": "The area offers schools, hospitals, malls, office hubs, and daily convenience facilities."
+      },
+      {
+        "question": "Why choose Deal Acres for buying plots in New Gurgaon?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, legal assistance, and end-to-end buyer support."
+      },
+      {
+        "question": "How can I contact property experts for New Gurgaon plots?",
+        "answer": "You can fill out the contact form on this page to connect with experienced real estate consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Buying Plots in New Gurgaon Gurugram",
+    "description": [
+      "Finding the right Plot in New Gurgaon Gurugram becomes easy with expert guidance and verified property options.",
+      "Share your details to connect with trusted real estate professionals who will help you explore suitable plots and make a confident buying decision."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "domain": "Affordablehouseforsalecom",
+
+  "hero": {
+    "title": "Affordable Independent Houses for Sale in Sector 2 Gurugram",
+    "description": [
+      "Sector 2 Gurugram is a well-established residential locality known for its peaceful surroundings, strategic connectivity, and everyday convenience. Buyers searching for an affordable house for sale in Sector 2 Gurugram are attracted to its close access to major city roads, public transport, and nearby employment zones. The area is supported by schools, hospitals, local markets, parks, and essential services, making it suitable for families, working professionals, and retirees.",
+      "Affordable houses for sale in Sector 2 Gurugram offer a balanced mix of reasonable pricing, independent living, and long-term residential stability. The locality has consistent housing demand, which supports both self-use and rental investment. Choosing Sector 2 means investing in a mature neighborhood that delivers comfort today and dependable value growth in the future."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1599423300746-b62533397364?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Size Options Available in Sector 2 Gurugram",
+    "description": [
+      "Selecting the right house size in Sector 2 Gurugram helps buyers balance budget, space, and long-term comfort.",
+      "The locality offers multiple affordable independent house configurations suitable for different family needs."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House for Sale in Sector 2 Gurugram",
+        "description": "A 4 Marla affordable house in Sector 2 Gurugram is ideal for small families and first-time buyers seeking independent living at a controlled budget with low maintenance."
+      },
+      {
+        "title": "6 Marla Affordable House for Sale in Sector 2 Gurugram",
+        "description": "6 Marla houses provide a balanced layout with comfortable room sizes, making them a popular choice among nuclear families."
+      },
+      {
+        "title": "8 Marla Affordable House for Sale in Sector 2 Gurugram",
+        "description": "An 8 Marla house offers better living space, parking convenience, and flexibility for growing families."
+      },
+      {
+        "title": "10 Marla Affordable House for Sale in Sector 2 Gurugram",
+        "description": "10 Marla houses are suitable for buyers who prefer spacious interiors, privacy, and long-term residential comfort."
+      },
+      {
+        "title": "12 Marla Affordable House for Sale in Sector 2 Gurugram",
+        "description": "A 12 Marla house delivers premium space, better ventilation, and strong resale value in a stable locality."
+      },
+      {
+        "title": "14 Marla Affordable House for Sale in Sector 2 Gurugram",
+        "description": "14 Marla houses are ideal for buyers seeking large independent homes with excellent appreciation and lifestyle benefits."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses Near Sector 2 Gurugram",
+    "description": [
+      "Buyers looking for affordable houses for sale in Sector 2 Gurugram often explore nearby sectors for comparison.",
+      "These surrounding locations enhance the residential and investment appeal of Sector 2."
+    ],
+    "locations": [
+      { "title": "Affordable House for Sale in Sector 2 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 1 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 3 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Old Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House in Central Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses in Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Budget Homes in Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Affordable Houses in Sector 2",
+    "description": [
+      "Buying an affordable house for sale in Sector 2 Gurugram requires verified listings and reliable guidance.",
+      "Deal Acres is trusted for its transparent approach and customer-first property solutions."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All listed properties are checked for ownership clarity and legal compliance."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear and honest pricing helps buyers avoid hidden costs."
+      },
+      {
+        "title": "Local Market Knowledge",
+        "description": "Strong understanding of Sector 2 Gurugram property trends and pricing."
+      },
+      {
+        "title": "Multiple Budget Options",
+        "description": "Wide range of house sizes and price points available."
+      },
+      {
+        "title": "Legal and Registry Support",
+        "description": "Complete assistance with documentation and registration process."
+      },
+      {
+        "title": "Personalized Property Advice",
+        "description": "Recommendations based on buyer budget, family size, and goals."
+      },
+      {
+        "title": "End-to-End Buying Support",
+        "description": "Support from property search to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for reliability, ethics, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Sector 2 Gurugram",
+    "description": "Detailed answers to common buyer questions to help make informed decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 2 Gurugram a good area to buy an affordable house?",
+        "answer": "Yes, Sector 2 Gurugram is a well-established residential area with good connectivity, daily amenities, and steady housing demand, making it suitable for homebuyers."
+      },
+      {
+        "question": "What house sizes are available in Sector 2 Gurugram?",
+        "answer": "Affordable independent houses are generally available from 4 Marla to 14 Marla, catering to different budgets and family requirements."
+      },
+      {
+        "question": "Is Sector 2 suitable for family living?",
+        "answer": "Yes, the area offers schools, hospitals, parks, markets, and public transport facilities, making it family-friendly."
+      },
+      {
+        "question": "How is connectivity from Sector 2 Gurugram?",
+        "answer": "Sector 2 is well connected to major roads and nearby commercial areas, ensuring easy daily commuting."
+      },
+      {
+        "question": "Are houses in Sector 2 legally approved?",
+        "answer": "Many properties are legally approved, and Deal Acres assists buyers with proper verification before purchase."
+      },
+      {
+        "question": "Is buying a house in Sector 2 a good investment?",
+        "answer": "Yes, consistent residential demand and location advantages support long-term value appreciation."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 2?",
+        "answer": "Yes, leading banks and financial institutions provide home loans for eligible properties."
+      },
+      {
+        "question": "What amenities are available near Sector 2?",
+        "answer": "Schools, hospitals, shopping areas, parks, and public transport are easily accessible."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, and complete buyer support."
+      },
+      {
+        "question": "How can I contact a property consultant?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property experts."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help to Buy Affordable Houses in Sector 2 Gurugram",
+    "description": [
+      "Finding the right affordable house for sale in Sector 2 Gurugram becomes simple with expert guidance.",
+      "Share your details to connect with trusted property consultants and explore verified housing options."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforsale.com",
+
+  "hero": {
+    "title": "Modern Independent Houses for Sale in Sector 84 Gurugram",
+    "description": [
+      "Sector 84 Gurugram is a fast-developing residential destination located in the New Gurugram region, close to the Dwarka Expressway and NH-48. Buyers searching for a house for sale in Sector 84 Gurugram are drawn to its strategic connectivity to IGI Airport, Cyber City, Manesar, and major commercial hubs. The area is well-planned with wide roads, upcoming infrastructure, reputed schools, hospitals, shopping centers, and everyday convenience facilities, making it a preferred choice for families and professionals looking for future-ready living.",
+      "Independent houses in Sector 84 Gurugram offer privacy, spacious layouts, and a calm residential environment away from city congestion. With continuous infrastructure growth and increasing demand, the locality presents strong potential for capital appreciation and rental returns. Whether you are planning to settle with your family or invest for long-term gains, choosing a house for sale in Sector 84 Gurugram ensures balanced urban living, growing social infrastructure, and excellent future prospects in one of Gurugram’s most promising corridors."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Sale",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Sale Options by Plot Size in Sector 84 Gurugram",
+    "description": [
+      "Selecting the right plot size is an important step when buying a house for sale in Sector 84 Gurugram, as it directly impacts lifestyle comfort, layout flexibility, and budget planning.",
+      "Sector 84 offers multiple independent house options designed to suit different family sizes and long-term goals."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Sector 84 Gurugram",
+        "description": "A 4 Marla house for sale in Sector 84 Gurugram is suitable for buyers seeking compact and affordable independent living. These homes are ideal for small families, young professionals, and first-time buyers, offering easy maintenance and steady rental demand."
+      },
+      {
+        "title": "6 Marla House for Sale in Sector 84 Gurugram",
+        "description": "A 6 Marla house for sale in Sector 84 Gurugram provides a good balance between space and affordability. These houses generally include well-planned interiors, parking space, and ventilation, making them ideal for nuclear families."
+      },
+      {
+        "title": "8 Marla House for Sale in Sector 84 Gurugram",
+        "description": "An 8 Marla house for sale in Sector 84 Gurugram is preferred by families who want spacious interiors and flexible layouts. These homes offer larger bedrooms, balconies, and comfortable living areas for long-term use."
+      },
+      {
+        "title": "10 Marla House for Sale in Sector 84 Gurugram",
+        "description": "A 10 Marla house for sale in Sector 84 Gurugram falls into the premium category, offering enhanced privacy, wider frontage, and larger built-up areas. These houses are ideal for joint families or buyers seeking open spaces."
+      },
+      {
+        "title": "12 Marla House for Sale in Sector 84 Gurugram",
+        "description": "A 12 Marla house for sale in Sector 84 Gurugram offers luxury living with premium construction quality, open terraces, and ample parking. These homes appeal to buyers who value comfort and exclusivity."
+      },
+      {
+        "title": "14 Marla House for Sale in Sector 84 Gurugram",
+        "description": "A 14 Marla house for sale in Sector 84 Gurugram represents elite independent living with expansive layouts and strong long-term appreciation potential due to limited availability."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Sale In and Around Sector 84 Gurugram",
+    "description": [
+      "While exploring a house for sale in Sector 84 Gurugram, buyers often look at nearby sectors to compare pricing, connectivity, and development prospects.",
+      "This section helps users discover surrounding residential localities easily."
+    ],
+    "locations": [
+      { "title": "House for Sale in Sector 84 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 83 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale in Sector 85 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Sector 82 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale near Dwarka Expressway", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 81 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale near NH-48 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale in New Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Deal Acres Is Trusted for Houses in Sector 84 Gurugram",
+    "description": [
+      "Buying a house for sale in Sector 84 Gurugram requires verified listings, transparent pricing, and reliable local insights. Deal Acres focuses on delivering trust and accuracy.",
+      "With a buyer-first approach, Deal Acres has become a trusted choice for property buyers across Gurugram."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "Every property listing is verified to ensure authenticity and ownership clarity."
+      },
+      {
+        "title": "Transparent Pricing Insights",
+        "description": "Accurate pricing based on current market trends helps buyers plan better."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 84 ensures informed buying decisions."
+      },
+      {
+        "title": "User-Friendly Platform",
+        "description": "Simple and intuitive platform for searching and comparing properties."
+      },
+      {
+        "title": "Buyer-Centric Recommendations",
+        "description": "Listings curated as per buyer budget, needs, and future plans."
+      },
+      {
+        "title": "Documentation Guidance",
+        "description": "Basic support provided for legal and documentation checks."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Assistance available throughout the entire property buying journey."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "A strong reputation built on transparency and consistent service quality."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About House for Sale in Sector 84 Gurugram",
+    "description": "Clear and detailed answers to common buyer queries.",
+    "faqs": [
+      {
+        "question": "Is Sector 84 Gurugram a good area to buy a house?",
+        "answer": "Yes, Sector 84 is a fast-growing area with excellent connectivity and future growth potential."
+      },
+      {
+        "question": "What plot sizes are available in Sector 84?",
+        "answer": "Independent houses are available from 4 Marla to 14 Marla."
+      },
+      {
+        "question": "Is Sector 84 suitable for family living?",
+        "answer": "Yes, it offers a peaceful environment with access to schools, hospitals, and markets."
+      },
+      {
+        "question": "Are ready-to-move houses available in Sector 84?",
+        "answer": "Yes, buyers can find ready-to-move and resale houses here."
+      },
+      {
+        "question": "Is Sector 84 good for rental income?",
+        "answer": "Yes, proximity to Dwarka Expressway and business hubs ensures rental demand."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 84?",
+        "answer": "Most houses are eligible for home loans, subject to bank policies."
+      },
+      {
+        "question": "How is connectivity from Sector 84 Gurugram?",
+        "answer": "Sector 84 is well-connected via Dwarka Expressway and NH-48."
+      },
+      {
+        "question": "Is Sector 84 good for long-term investment?",
+        "answer": "Yes, infrastructure growth supports long-term appreciation."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, and expert guidance."
+      },
+      {
+        "question": "How can I contact property experts?",
+        "answer": "You can fill out the contact form to connect with experienced consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Sale in Sector 84 Gurugram",
+    "description": [
+      "Buying a house for sale in Sector 84 Gurugram is a major decision, and professional guidance can simplify the process.",
+      "Share your details to connect with trusted property experts who will help you find the right home based on your budget and preferences."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

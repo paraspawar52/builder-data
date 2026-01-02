@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Residential and Affordable Plots in Peaceful Chandan Vihar Gurugram",
+    "description": [
+      "Chandan Vihar Gurugram is a growing residential locality known for its calm surroundings, affordable land options, and improving connectivity. Buyers searching for a plot in Chandan Vihar Gurugram are often looking for a balance between budget-friendly pricing and long-term residential stability. The area is well connected to nearby sectors, local markets, schools, healthcare facilities, and daily convenience stores, making it suitable for families planning independent homes.",
+      "Plots in Chandan Vihar Gurugram are ideal for both first-time buyers and investors seeking steady appreciation. As infrastructure and nearby developments continue to grow, land demand in this area is gradually increasing. Whether you plan to construct a personal residence or invest in land for future returns, choosing a plot in Chandan Vihar Gurugram offers affordability, practicality, and promising growth potential."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Chandan Vihar",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in Chandan Vihar",
+    "description": [
+      "Choosing the right plot size in Chandan Vihar Gurugram helps in better home planning, construction flexibility, and future resale value.",
+      "The locality offers multiple plot size options to suit different budgets and family requirements."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Chandan Vihar Gurugram",
+        "description": "A 4 Marla plot in Chandan Vihar Gurugram is ideal for budget-conscious buyers planning compact and functional independent homes."
+      },
+      {
+        "title": "6 Marla Plot in Chandan Vihar Gurugram",
+        "description": "6 Marla plots offer a practical balance between affordability and living space, suitable for small families."
+      },
+      {
+        "title": "8 Marla Plot in Chandan Vihar Gurugram",
+        "description": "An 8 Marla plot provides better layout flexibility with space for parking, ventilation, and modern home designs."
+      },
+      {
+        "title": "10 Marla Plot in Chandan Vihar Gurugram",
+        "description": "10 Marla plots are preferred by buyers looking for spacious independent houses with long-term value."
+      },
+      {
+        "title": "12 Marla Plot in Chandan Vihar Gurugram",
+        "description": "A 12 Marla plot is suitable for larger families planning multi-floor construction and open living spaces."
+      },
+      {
+        "title": "14 Marla Plot in Chandan Vihar Gurugram",
+        "description": "14 Marla plots are limited in availability and ideal for premium residential construction or long-term investment."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Nearby Areas Offering Plots Around Chandan Vihar",
+    "description": [
+      "Buyers interested in a plot in Chandan Vihar Gurugram often explore nearby localities to compare pricing and connectivity.",
+      "This section highlights surrounding areas to help users make informed property decisions."
+    ],
+    "locations": [
+      { "title": "Plot in Chandan Vihar Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Ashok Vihar Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 9 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 10 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Palam Vihar", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Old Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Dwarka Expressway", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Chandan Vihar",
+    "description": [
+      "Purchasing a plot in Chandan Vihar Gurugram requires verified listings, fair pricing, and local expertise.",
+      "Deal Acres is trusted by buyers for its transparent approach and complete property support."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are checked for legal ownership and authenticity before listing."
+      },
+      {
+        "title": "Transparent Pricing Structure",
+        "description": "Clear and honest pricing with no hidden charges."
+      },
+      {
+        "title": "Strong Local Area Knowledge",
+        "description": "Accurate guidance based on deep understanding of Chandan Vihar."
+      },
+      {
+        "title": "Multiple Plot Size Choices",
+        "description": "Wide selection of plot sizes to match buyer needs and budgets."
+      },
+      {
+        "title": "Legal Documentation Support",
+        "description": "Complete assistance with registry, approvals, and paperwork."
+      },
+      {
+        "title": "Personalized Buyer Assistance",
+        "description": "Customized property suggestions based on buyer requirements."
+      },
+      {
+        "title": "End-to-End Buying Support",
+        "description": "Support from property search to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for reliability, transparency, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Chandan Vihar Gurugram",
+    "description": "Common buyer questions related to plots in Chandan Vihar Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Chandan Vihar Gurugram a good area to buy a plot?",
+        "answer": "Yes, Chandan Vihar is a developing locality offering affordable plots with good future growth potential."
+      },
+      {
+        "question": "What plot sizes are available in Chandan Vihar?",
+        "answer": "Plots are generally available from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Is Chandan Vihar suitable for building an independent house?",
+        "answer": "Yes, the area is suitable for residential construction and family living."
+      },
+      {
+        "question": "Is buying a plot in Chandan Vihar a good investment?",
+        "answer": "Due to ongoing development and rising demand, the area offers steady appreciation."
+      },
+      {
+        "question": "Are plots in Chandan Vihar legally approved?",
+        "answer": "Most plots have clear titles, but proper verification is recommended. Deal Acres assists with due diligence."
+      },
+      {
+        "question": "How is connectivity from Chandan Vihar Gurugram?",
+        "answer": "The locality is well connected to nearby sectors, NH-48, and key Gurugram locations."
+      },
+      {
+        "question": "Can construction start immediately after purchase?",
+        "answer": "Construction depends on local bylaws and approvals, and expert guidance is provided."
+      },
+      {
+        "question": "What amenities are available near Chandan Vihar?",
+        "answer": "Schools, hospitals, markets, and daily convenience facilities are easily accessible."
+      },
+      {
+        "question": "Why should I buy a plot through Deal Acres?",
+        "answer": "Deal Acres offers verified listings, transparent deals, and complete buyer support."
+      },
+      {
+        "question": "How can I contact property experts for Chandan Vihar plots?",
+        "answer": "You can fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for Buying Plots in Chandan Vihar Gurugram",
+    "description": [
+      "Finding the right plot in Chandan Vihar Gurugram becomes simple with professional assistance.",
+      "Share your details to connect with trusted property experts who will help you find verified plots matching your budget and future plans."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

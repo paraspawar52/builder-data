@@ -1,0 +1,175 @@
+{
+  "domain": "Affordablehouseforsalecom",
+
+  "hero": {
+    "title": "Affordable and Well Located Houses for Sale in Sector 67 Gurugram",
+    "description": [
+      "Sector 67 Gurugram is a premium yet well-balanced residential locality situated near Golf Course Extension Road, offering a mix of modern infrastructure and comfortable urban living. Buyers searching for an affordable house for sale in Sector 67 Gurugram are attracted by its excellent connectivity to Sohna Road, Southern Peripheral Road (SPR), NH-48, and key commercial hubs of Gurugram. The area is surrounded by reputed schools, hospitals, shopping malls, business parks, and green spaces, making it a preferred choice for families and professionals.",
+      "Affordable houses for sale in Sector 67 Gurugram provide an ideal opportunity to live in a prime location without stretching budgets excessively. The sector has witnessed steady residential demand due to its strategic location and well-developed social infrastructure. Investing in an affordable home here ensures long-term appreciation, strong rental demand, and a quality lifestyle in one of Gurugram’s most desirable residential belts."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Size Options Available in Sector 67 Gurugram",
+    "description": [
+      "Choosing the right house size in Sector 67 Gurugram depends on family size, lifestyle preferences, and long-term financial planning.",
+      "The sector offers a range of affordable house configurations to meet diverse residential needs."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House for Sale in Sector 67 Gurugram",
+        "description": "A 4 Marla affordable house in Sector 67 Gurugram is suitable for small families and first-time buyers seeking a prime location at a manageable budget."
+      },
+      {
+        "title": "6 Marla Affordable House for Sale in Sector 67 Gurugram",
+        "description": "6 Marla houses offer a practical balance of affordability and living space, ideal for working professionals and nuclear families."
+      },
+      {
+        "title": "8 Marla Affordable House for Sale in Sector 67 Gurugram",
+        "description": "An 8 Marla affordable house provides better room layouts, parking space, and flexibility for future home improvements."
+      },
+      {
+        "title": "10 Marla Affordable House for Sale in Sector 67 Gurugram",
+        "description": "10 Marla houses are preferred by families looking for spacious interiors in a well-connected and established locality."
+      },
+      {
+        "title": "12 Marla Affordable House for Sale in Sector 67 Gurugram",
+        "description": "A 12 Marla affordable house suits buyers seeking larger living areas, privacy, and long-term residential comfort."
+      },
+      {
+        "title": "14 Marla Affordable House for Sale in Sector 67 Gurugram",
+        "description": "14 Marla houses are ideal for buyers who want expansive homes with excellent resale value and premium living standards."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses Near Sector 67 Gurugram",
+    "description": [
+      "Buyers interested in affordable houses for sale in Sector 67 Gurugram often explore nearby localities to compare pricing and connectivity.",
+      "These surrounding sectors further enhance the residential and investment appeal of Sector 67."
+    ],
+    "locations": [
+      { "title": "Affordable House for Sale in Sector 67 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 66 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 68 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 69 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Golf Course Extension Road", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Sohna Road Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House in Central Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Budget Homes in Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Affordable Houses in Sector 67",
+    "description": [
+      "Buying an affordable house for sale in Sector 67 Gurugram requires verified listings, transparent pricing, and expert local guidance.",
+      "Deal Acres has earned buyer trust by delivering reliable properties and customer-first real estate solutions."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All affordable houses are verified for ownership clarity, legal approvals, and documentation."
+      },
+      {
+        "title": "Transparent Pricing Policy",
+        "description": "Clear pricing with no hidden charges ensures complete peace of mind."
+      },
+      {
+        "title": "Strong Local Expertise",
+        "description": "Deep understanding of Sector 67 property trends and market demand."
+      },
+      {
+        "title": "Wide Property Options",
+        "description": "Access to multiple affordable house sizes within Sector 67."
+      },
+      {
+        "title": "Legal and Registry Assistance",
+        "description": "End-to-end support with documentation, registry, and compliance."
+      },
+      {
+        "title": "Personalized Buying Guidance",
+        "description": "Property recommendations based on buyer budget, lifestyle, and goals."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Assistance from property shortlisting to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for ethical practices and long-term customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Sector 67 Gurugram",
+    "description": "Detailed answers to common buyer questions for confident decision-making.",
+    "faqs": [
+      {
+        "question": "Is Sector 67 Gurugram a good location to buy an affordable house?",
+        "answer": "Yes, Sector 67 is a prime residential area with excellent connectivity, social infrastructure, and strong property demand."
+      },
+      {
+        "question": "What house sizes are available in Sector 67 Gurugram?",
+        "answer": "Affordable houses are generally available from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Is Sector 67 suitable for family living?",
+        "answer": "Yes, the area offers reputed schools, hospitals, parks, malls, and daily convenience facilities."
+      },
+      {
+        "question": "Are affordable houses in Sector 67 legally approved?",
+        "answer": "Most properties are approved, and Deal Acres assists buyers with legal verification."
+      },
+      {
+        "question": "How is connectivity from Sector 67 Gurugram?",
+        "answer": "Sector 67 enjoys excellent connectivity via Golf Course Extension Road, Sohna Road, and SPR."
+      },
+      {
+        "question": "Is buying an affordable house in Sector 67 a good investment?",
+        "answer": "Yes, due to its location and demand, Sector 67 offers strong appreciation and rental potential."
+      },
+      {
+        "question": "Are home loans available for houses in Sector 67?",
+        "answer": "Yes, leading banks and financial institutions offer home loan facilities for eligible properties."
+      },
+      {
+        "question": "What amenities are available near Sector 67?",
+        "answer": "Schools, hospitals, malls, restaurants, parks, and public transport are easily accessible."
+      },
+      {
+        "question": "Why choose Deal Acres for buying affordable houses?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, legal support, and end-to-end assistance."
+      },
+      {
+        "question": "How can I contact experts for affordable houses in Sector 67 Gurugram?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for Affordable Houses in Sector 67 Gurugram",
+    "description": [
+      "Finding the right affordable house for sale in Sector 67 Gurugram becomes simple with professional guidance.",
+      "Share your details to connect with trusted real estate experts who will help you find verified homes that match your budget and lifestyle."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "domain": "Houseforsale.com",
+
+  "hero": {
+    "title": "Independent Houses for Sale in Well Developed Sector 50 Gurugram",
+    "description": [
+      "Sector 50 Gurugram is one of the most premium and well-established residential localities in the city, known for its planned infrastructure, greenery, and excellent connectivity. Homebuyers searching for a House for sale in Sector 50 Gurugram prefer this area due to its proximity to Golf Course Extension Road, Sohna Road, and major corporate hubs. The sector is surrounded by reputed schools, hospitals, shopping malls, cafes, and daily convenience stores, making it an ideal choice for families.",
+      "Independent houses in Sector 50 offer a perfect mix of comfort, privacy, and modern living. The locality is peaceful yet well-connected, providing a balanced lifestyle for end-users as well as investors. Investing in a house for sale in Sector 50 Gurugram ensures long-term value appreciation, strong rental demand, and a high standard of living in one of Gurugram’s most desirable neighborhoods."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Sale",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Sale Options by Plot Size in Sector 50 Gurugram",
+    "description": [
+      "Choosing the right plot size is an important step when planning to buy a house for sale in Sector 50 Gurugram. The sector offers independent houses in multiple marla configurations to suit different budgets, family sizes, and lifestyle needs.",
+      "From compact homes for practical living to spacious houses designed for luxury comfort, Sector 50 provides well-planned residential options with wide roads, proper utilities, and a well-settled neighborhood."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Sector 50 Gurugram",
+        "description": "A 4 Marla house for sale in Sector 50 Gurugram is suitable for small families and buyers looking for an affordable entry into a premium location. These houses are easy to maintain and have good rental demand."
+      },
+      {
+        "title": "6 Marla House for Sale in Sector 50 Gurugram",
+        "description": "6 Marla houses offer a balanced mix of space and affordability. They feature comfortable layouts, proper ventilation, and parking space, making them ideal for long-term family living."
+      },
+      {
+        "title": "8 Marla House for Sale in Sector 50 Gurugram",
+        "description": "An 8 Marla house provides additional living space and flexibility in design. These houses are preferred by families looking for modern interiors and enhanced lifestyle comfort."
+      },
+      {
+        "title": "10 Marla House for Sale in Sector 50 Gurugram",
+        "description": "A 10 Marla house for sale in Sector 50 Gurugram is considered a premium residential option. These houses offer spacious interiors, better privacy, and strong resale potential."
+      },
+      {
+        "title": "12 Marla House for Sale in Sector 50 Gurugram",
+        "description": "12 Marla houses are ideal for buyers who value spacious living and architectural freedom. These homes are well-suited for luxury living and long-term investment."
+      },
+      {
+        "title": "14 Marla House for Sale in Sector 50 Gurugram",
+        "description": "A 14 Marla house represents the most premium segment in Sector 50. Limited availability and high demand make these houses highly desirable for luxury buyers."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Sale in and Around Sector 50 Gurugram",
+    "description": [
+      "While searching for a house for sale in Sector 50 Gurugram, many buyers also explore nearby sectors to compare pricing, connectivity, and lifestyle benefits. Central and South Gurugram offer several well-developed residential localities.",
+      "This section features nearby location options to help users discover the most suitable houses based on their preferences and budget."
+    ],
+    "locations": [
+      { "title": "House for Sale in Sector 50 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 49 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale in Sector 51 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Sector 47 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale in Nirvana Country", "path": "/", "icon": "Home" },
+      { "title": "House for Sale on Golf Course Extension Road", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Sector 57 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale in South City 2", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Sector 50 Houses",
+    "description": [
+      "Finding the right house for sale in Sector 50 Gurugram requires reliable information and verified listings. Deal Acres ensures buyers get accurate property details and transparent pricing.",
+      "With deep local expertise and a customer-first approach, Deal Acres has become a preferred platform for buying independent houses in Gurugram."
+    ],
+    "points": [
+      { "title": "Verified House Listings", "description": "All listings are carefully verified for authenticity and accuracy." },
+      { "title": "Transparent Pricing", "description": "Clear pricing with no hidden information." },
+      { "title": "Local Area Expertise", "description": "Strong understanding of Sector 50 and nearby locations." },
+      { "title": "Easy-to-Use Platform", "description": "Simple navigation for a smooth property search." },
+      { "title": "Buyer-Focused Services", "description": "Services designed around real buyer needs." },
+      { "title": "Legal Guidance Support", "description": "Basic assistance with documentation and legal checks." },
+      { "title": "End-to-End Assistance", "description": "Support available throughout the buying process." },
+      { "title": "Trusted by Buyers", "description": "Proven trust built through transparency and service quality." }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses in Sector 50 Gurugram",
+    "description": "Common questions related to house for sale in Sector 50 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 50 Gurugram a good area to buy a house?",
+        "answer": "Yes, Sector 50 is a premium residential locality with excellent infrastructure, connectivity, and lifestyle amenities."
+      },
+      {
+        "question": "What house sizes are available in Sector 50?",
+        "answer": "Independent houses from 4 Marla to 14 Marla are commonly available in Sector 50."
+      },
+      {
+        "question": "Is Sector 50 suitable for family living?",
+        "answer": "Yes, the sector offers a peaceful environment along with schools, hospitals, parks, and shopping options nearby."
+      },
+      {
+        "question": "Are ready-to-move houses available in Sector 50?",
+        "answer": "Yes, both ready-to-move and newly constructed houses are available."
+      },
+      {
+        "question": "Is buying a house in Sector 50 a good investment?",
+        "answer": "Due to its prime location and high demand, Sector 50 offers strong long-term appreciation."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 50?",
+        "answer": "Most houses are eligible for home loans, subject to bank approval and documentation."
+      },
+      {
+        "question": "How is connectivity from Sector 50 Gurugram?",
+        "answer": "Sector 50 has excellent connectivity to Sohna Road, Golf Course Extension Road, and major city areas."
+      },
+      {
+        "question": "Is Sector 50 good for rental income?",
+        "answer": "Yes, its central location and premium lifestyle ensure strong rental demand."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and expert local support."
+      },
+      {
+        "question": "How can I contact property experts?",
+        "answer": "You can fill out the contact form to connect with experienced property advisors."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Sale in Sector 50 Gurugram",
+    "description": [
+      "Buying a house for sale in Sector 50 Gurugram is an important decision, and expert guidance can make the process smooth and stress-free.",
+      "Share your details to connect with trusted property experts who will help you find the right house based on your budget, preferences, and long-term goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

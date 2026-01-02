@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Strategically Located Residential and Investment Plots in Sector 106 Gurugram",
+    "description": [
+      "Sector 106 Gurugram is a fast-emerging residential locality situated along the Dwarka Expressway, offering excellent connectivity and future-ready infrastructure. Buyers searching for a Plot in Sector 106 Gurugram are attracted by its proximity to Delhi, IGI Airport, and major employment hubs of Gurugram. The sector is part of a well-planned development zone featuring wide roads, upcoming metro connectivity, and easy access to schools, hospitals, and commercial areas. Its location near the Delhi–Gurugram border makes it a preferred choice for professionals and families seeking convenience and growth.",
+      "Plots in Sector 106 Gurugram provide a strong opportunity for both homebuyers and investors. With continuous infrastructure development, increasing residential demand, and limited plotted supply, property values in this area show promising appreciation. Choosing a plot in Sector 106 Gurugram allows buyers to build custom homes in a planned environment while securing a valuable asset in one of Gurugram’s most promising growth corridors."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 106",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Size Options Available in Sector 106 Gurugram",
+    "description": [
+      "Choosing the right plot size in Sector 106 Gurugram helps buyers plan construction effectively while aligning with budget and lifestyle needs.",
+      "Sector 106 offers multiple plot size options suitable for compact homes, spacious residences, and long-term real estate investments."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 106 Gurugram",
+        "description": "A 4 Marla plot in Sector 106 Gurugram is ideal for buyers seeking an affordable entry into a fast-developing locality. These plots are suitable for compact homes and attract first-time buyers due to their growth potential."
+      },
+      {
+        "title": "6 Marla Plot in Sector 106 Gurugram",
+        "description": "6 Marla plots in Sector 106 Gurugram offer a balanced mix of space and affordability. They are suitable for comfortable independent houses and long-term residential planning."
+      },
+      {
+        "title": "8 Marla Plot in Sector 106 Gurugram",
+        "description": "An 8 Marla plot in Sector 106 Gurugram provides flexibility in home design and open areas. Buyers planning spacious family homes often prefer this size for better comfort and resale value."
+      },
+      {
+        "title": "10 Marla Plot in Sector 106 Gurugram",
+        "description": "10 Marla plots are premium residential options in Sector 106 Gurugram. These plots allow construction of larger homes and are considered strong long-term investments."
+      },
+      {
+        "title": "12 Marla Plot in Sector 106 Gurugram",
+        "description": "A 12 Marla plot in Sector 106 Gurugram is ideal for buyers seeking expansive living spaces and premium construction possibilities. Limited availability enhances their investment appeal."
+      },
+      {
+        "title": "14 Marla Plot in Sector 106 Gurugram",
+        "description": "14 Marla plots in Sector 106 Gurugram cater to buyers looking for large land parcels for luxury homes. These plots are suitable for high-end residential development and wealth creation."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Plot Options Near Sector 106 Gurugram",
+    "description": [
+      "Buyers interested in a Plot in Sector 106 Gurugram often explore nearby sectors to compare pricing, development progress, and connectivity.",
+      "This section highlights surrounding locations that enhance Sector 106’s residential and investment appeal."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 106 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 105 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 107 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 108 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Dwarka Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Delhi Gurugram Border", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near IGI Airport", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Plots in Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 106 Gurugram",
+    "description": [
+      "Buying a Plot in Sector 106 Gurugram requires verified listings, transparent pricing, and expert local knowledge.",
+      "Deal Acres has earned strong buyer trust by consistently offering genuine properties and customer-first real estate services."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are verified for ownership, approvals, and legal documentation."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden charges ensures buyer confidence."
+      },
+      {
+        "title": "Strong Local Market Expertise",
+        "description": "In-depth understanding of Sector 106 Gurugram development plans and pricing trends."
+      },
+      {
+        "title": "Wide Range of Plot Options",
+        "description": "Access to multiple plot sizes suitable for different budgets and needs."
+      },
+      {
+        "title": "Legal and Registry Assistance",
+        "description": "Complete support with legal verification, registry, and compliance."
+      },
+      {
+        "title": "Personalized Property Guidance",
+        "description": "Customized recommendations based on buyer lifestyle and investment goals."
+      },
+      {
+        "title": "End-to-End Buying Support",
+        "description": "Assistance from property shortlisting to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for ethical practices, transparency, and long-term customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 106 Gurugram",
+    "description": "Detailed answers to common buyer questions for informed decision-making.",
+    "faqs": [
+      {
+        "question": "Is Sector 106 Gurugram a good location to buy a plot?",
+        "answer": "Yes, Sector 106 Gurugram is a fast-developing area along Dwarka Expressway with strong connectivity and future growth potential."
+      },
+      {
+        "question": "What plot sizes are available in Sector 106 Gurugram?",
+        "answer": "Plots in Sector 106 Gurugram are generally available from 4 Marla to 14 Marla, subject to availability."
+      },
+      {
+        "question": "Is Sector 106 suitable for residential construction?",
+        "answer": "Yes, the sector is suitable for residential construction due to its planned layout and improving infrastructure."
+      },
+      {
+        "question": "Is buying a plot in Sector 106 a good investment?",
+        "answer": "With ongoing infrastructure development and increasing demand, Sector 106 offers strong long-term appreciation potential."
+      },
+      {
+        "question": "Are plots in Sector 106 legally approved?",
+        "answer": "Most plots are approved, but buyers should verify documents. Deal Acres assists with legal due diligence."
+      },
+      {
+        "question": "How is connectivity from Sector 106 Gurugram?",
+        "answer": "Sector 106 enjoys excellent connectivity via Dwarka Expressway and proximity to Delhi and IGI Airport."
+      },
+      {
+        "question": "Can construction start immediately after purchase?",
+        "answer": "Construction depends on local authority approvals and building norms. Professional guidance is recommended."
+      },
+      {
+        "question": "What amenities are available near Sector 106?",
+        "answer": "The area has access to schools, hospitals, markets, and upcoming civic amenities."
+      },
+      {
+        "question": "Why choose Deal Acres for buying plots in Sector 106?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, legal assistance, and complete buyer support."
+      },
+      {
+        "question": "How can I contact property experts for Sector 106 plots?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Buying Plots in Sector 106 Gurugram",
+    "description": [
+      "Finding the right Plot in Sector 106 Gurugram becomes simple with professional guidance and verified property options.",
+      "Share your details to connect with trusted real estate experts who will help you explore suitable plots and make a confident buying decision."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

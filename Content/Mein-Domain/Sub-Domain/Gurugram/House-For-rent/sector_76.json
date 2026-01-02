@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Well Planned Independent Houses for Rent in Sector 76 Gurugram",
+    "description": [
+      "Sector 76 Gurugram is a rapidly developing residential locality located close to Southern Peripheral Road (SPR), NH-48, and key commercial hubs of New Gurugram. Tenants searching for a house for rent in Sector 76 Gurugram prefer this area due to its modern infrastructure, planned road network, and easy connectivity to Sohna Road, Golf Course Extension Road, and major employment zones. The sector is surrounded by schools, hospitals, shopping complexes, and daily convenience stores, ensuring a comfortable lifestyle.",
+      "Independent houses in Sector 76 offer spacious layouts, better privacy, and a peaceful living environment compared to high-density apartment societies. The locality is suitable for families, working professionals, and tenants looking for long-term rental stability in a well-planned neighborhood. Choosing a house for rent in Sector 76 Gurugram means enjoying modern surroundings, improving social infrastructure, and strong future growth potential."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sector 76 Gurugram",
+    "description": [
+      "Choosing the right plot size plays a key role when looking for a house for rent in Sector 76 Gurugram, as it directly affects space, comfort, and monthly rent.",
+      "Sector 76 offers a variety of independent houses on rent, catering to different family sizes and lifestyle preferences."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 76 Gurugram",
+        "description": "A 4 Marla house for rent in Sector 76 Gurugram is ideal for couples or small families looking for an affordable and low-maintenance rental home."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 76 Gurugram",
+        "description": "6 Marla houses provide a practical balance between space and budget, making them suitable for small to mid-sized families."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 76 Gurugram",
+        "description": "An 8 Marla rental house offers spacious rooms, proper ventilation, and functional layouts for comfortable family living."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 76 Gurugram",
+        "description": "10 Marla houses are preferred by tenants who want larger living areas, parking space, and enhanced privacy."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 76 Gurugram",
+        "description": "12 Marla rental houses fall under the premium category, offering open spaces and modern construction quality."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 76 Gurugram",
+        "description": "A 14 Marla house for rent is ideal for large families or tenants seeking luxury, space, and a peaceful residential setup."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 76 Gurugram",
+    "description": [
+      "Tenants looking for a house for rent in Sector 76 Gurugram often explore nearby sectors to compare rental values and connectivity advantages.",
+      "This section highlights nearby residential areas to help users make better rental decisions."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 76 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 77 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 75 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 74 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near SPR Road", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 78 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent near NH-48", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 79 Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sector 76 Rental Houses",
+    "description": [
+      "Finding a genuine house for rent in Sector 76 Gurugram requires verified listings, transparent pricing, and reliable local expertise. Deal Acres focuses on building trust.",
+      "With a tenant-first approach and deep knowledge of Gurugram’s rental market, Deal Acres has become a preferred choice for rental housing."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "All properties are verified for ownership and authenticity to ensure tenant safety."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear information on rent, deposit, and terms helps tenants make confident decisions."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 76 and nearby areas ensures accurate rental guidance."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "Advanced filters and user-friendly tools simplify property discovery."
+      },
+      {
+        "title": "Tenant-Focused Suggestions",
+        "description": "Recommendations are tailored based on budget, family size, and lifestyle needs."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Assistance with rental agreements and paperwork ensures a smooth process."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from property shortlisting to final move-in."
+      },
+      {
+        "title": "Trusted by Renters",
+        "description": "Deal Acres is trusted for transparency, reliability, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 76 Gurugram",
+    "description": "Common tenant questions related to house for rent in Sector 76 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 76 Gurugram a good area to rent a house?",
+        "answer": "Yes, Sector 76 is a well-planned and developing residential area with good connectivity and modern infrastructure."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 76?",
+        "answer": "Independent houses from 4 Marla to 14 Marla are available for rent."
+      },
+      {
+        "question": "Is Sector 76 suitable for family living?",
+        "answer": "Yes, the area offers a peaceful environment with access to schools, hospitals, and markets."
+      },
+      {
+        "question": "Are furnished houses available in Sector 76?",
+        "answer": "Furnished and semi-furnished houses are available depending on the property."
+      },
+      {
+        "question": "What is the average rent in Sector 76 Gurugram?",
+        "answer": "Rental values vary based on plot size, furnishing, and location within the sector."
+      },
+      {
+        "question": "How is connectivity from Sector 76?",
+        "answer": "Sector 76 offers strong connectivity via SPR Road, NH-48, and Sohna Road."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sector 76?",
+        "answer": "Some landlords allow bachelors, while others prefer families."
+      },
+      {
+        "question": "Is Sector 76 safe for tenants?",
+        "answer": "Yes, the locality is considered safe with planned streets and residential security."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and expert rental assistance."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 76?",
+        "answer": "You can submit your details through the contact form to connect with rental experts."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sector 76 Gurugram",
+    "description": [
+      "Finding the right house for rent in Sector 76 Gurugram becomes easy with professional guidance.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that suits your budget and lifestyle."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

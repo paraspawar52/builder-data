@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Spacious Independent Houses for Rent in Sector 91 Gurugram",
+    "description": [
+      "Sector 91 Gurugram is a well-planned residential locality in New Gurugram that is steadily emerging as a preferred choice for tenants. People looking for a house for rent in Sector 91 Gurugram are attracted by its strategic location near Dwarka Expressway, NH-48, and easy connectivity to major business hubs of Gurugram and Manesar. The sector offers a peaceful living environment with wide roads, green surroundings, and well-developed infrastructure. Daily essentials, schools, hospitals, shopping complexes, and recreational areas are easily accessible, making day-to-day life convenient.",
+      "Independent houses in Sector 91 provide more privacy, better space utilization, and a comfortable lifestyle compared to apartment living. The locality is suitable for families, working professionals, and corporate tenants seeking long-term rental stability. Choosing a house for rent in Sector 91 Gurugram ensures a balanced lifestyle with modern amenities, strong connectivity, and a safe residential environment."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sector 91 Gurugram",
+    "description": [
+      "When searching for a house for rent in Sector 91 Gurugram, understanding available plot sizes helps tenants select a home that fits their space needs and rental budget.",
+      "Sector 91 offers a variety of independent rental houses, catering to small families, large households, and tenants looking for premium residential options."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 91 Gurugram",
+        "description": "A 4 Marla house for rent in Sector 91 Gurugram is suitable for couples or small families looking for an affordable and easy-to-maintain rental home."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 91 Gurugram",
+        "description": "6 Marla houses offer a comfortable balance of space and affordability, ideal for families seeking practical and convenient living."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 91 Gurugram",
+        "description": "An 8 Marla rental house provides spacious rooms, good ventilation, and a functional layout for long-term family living."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 91 Gurugram",
+        "description": "10 Marla houses are preferred by tenants looking for premium living with larger spaces, parking, and enhanced privacy."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 91 Gurugram",
+        "description": "12 Marla rental houses fall into the premium category, offering open areas, modern construction, and a higher standard of comfort."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 91 Gurugram",
+        "description": "A 14 Marla house for rent is ideal for large families or corporate tenants seeking luxury, space, and a peaceful residential setup."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 91 Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in Sector 91 Gurugram often explore nearby sectors to compare rental prices, connectivity, and lifestyle benefits.",
+      "This section showcases surrounding residential localities to help users make informed rental choices."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 91 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 92 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 90 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 93 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near Dwarka Expressway", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in New Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 95 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent near NH-48", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sector 91 Rental Houses",
+    "description": [
+      "Finding a genuine house for rent in Sector 91 Gurugram requires verified listings, transparent pricing, and strong local expertise. Deal Acres is built on trust and reliability.",
+      "With a tenant-first approach and deep understanding of Gurugram’s rental market, Deal Acres has become a preferred platform for renting independent houses."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "Every rental property is verified for ownership, authenticity, and availability to ensure tenant safety."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear information about rent, security deposits, and terms helps tenants make confident decisions."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong knowledge of Sector 91 and nearby areas ensures accurate rental guidance."
+      },
+      {
+        "title": "User-Friendly Platform",
+        "description": "Easy-to-use search tools make finding the right house for rent simple and quick."
+      },
+      {
+        "title": "Tenant-Centric Approach",
+        "description": "Property recommendations are tailored to tenant needs, budget, and lifestyle."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Assistance with rental agreements and paperwork ensures a smooth process."
+      },
+      {
+        "title": "End-to-End Rental Assistance",
+        "description": "Support from property search to final move-in for a hassle-free experience."
+      },
+      {
+        "title": "Trusted by Renters",
+        "description": "Deal Acres is trusted for transparency, reliability, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 91 Gurugram",
+    "description": "Common tenant questions related to house for rent in Sector 91 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 91 Gurugram a good area to rent a house?",
+        "answer": "Yes, Sector 91 is a well-planned locality with good connectivity, modern infrastructure, and a peaceful residential environment."
+      },
+      {
+        "question": "What plot sizes are available for houses on rent in Sector 91?",
+        "answer": "Independent houses from 4 Marla to 14 Marla are available, suitable for different family sizes and budgets."
+      },
+      {
+        "question": "Is Sector 91 suitable for family living?",
+        "answer": "Yes, the sector offers nearby schools, hospitals, parks, and shopping areas, making it family-friendly."
+      },
+      {
+        "question": "Are furnished houses available for rent in Sector 91?",
+        "answer": "Both furnished and semi-furnished houses are available depending on the property and landlord preferences."
+      },
+      {
+        "question": "What is the average rent in Sector 91 Gurugram?",
+        "answer": "Rental values depend on plot size, location, and furnishings, but Sector 91 offers competitive rental options."
+      },
+      {
+        "question": "How is connectivity from Sector 91?",
+        "answer": "Sector 91 is well-connected via Dwarka Expressway, NH-48, and major city roads."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sector 91?",
+        "answer": "Some landlords allow bachelors, while others prefer families. It depends on individual owner policies."
+      },
+      {
+        "question": "Is Sector 91 safe for tenants?",
+        "answer": "Yes, the locality is considered safe with gated communities, security services, and active residential areas."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent information, and expert local support for tenants."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 91?",
+        "answer": "You can fill out the contact form to connect with experienced rental property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sector 91 Gurugram",
+    "description": [
+      "Finding the right house for rent in Sector 91 Gurugram becomes easy and stress-free with expert assistance.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that matches your budget, preferences, and lifestyle needs."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

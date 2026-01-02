@@ -1,0 +1,176 @@
+{
+  "domain": "Affordablehouseforsalecom",
+
+  "hero": {
+    "title": "Affordable Independent Houses for Sale in Sector 11 Gurugram",
+    "description": [
+      "Sector 11 Gurugram is a well-established residential locality located in Old Gurugram, known for its practical living environment and strong city connectivity. The sector enjoys easy access to NH-48, Old Railway Road, and major commercial areas, making daily commuting convenient. Buyers searching for an affordable house for sale in Sector 11 Gurugram prefer this location due to its mature infrastructure, wide roads, local markets, schools, hospitals, and reliable public transport. The area offers a peaceful residential setting while staying close to essential urban facilities.",
+      "Affordable houses for sale in Sector 11 Gurugram are ideal for families and investors looking for independent living in a stable neighborhood. With consistent housing demand, reasonable property prices, and good rental potential, Sector 11 offers a balanced mix of affordability and long-term value. Whether you plan to live here or invest, this locality provides comfort, connectivity, and steady growth prospects."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1599423300746-b62533397364?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Size Options Available in Sector 11 Gurugram",
+    "description": [
+      "Selecting the right house size in Sector 11 Gurugram helps buyers balance budget, comfort, and future requirements.",
+      "The sector offers multiple affordable independent house options suitable for different family sizes."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House for Sale in Sector 11 Gurugram",
+        "description": "A 4 Marla affordable house for sale in Sector 11 Gurugram is ideal for small families and first-time homebuyers. These homes offer compact layouts, independent living, and easy maintenance with close access to daily essentials."
+      },
+      {
+        "title": "6 Marla Affordable House for Sale in Sector 11 Gurugram",
+        "description": "6 Marla affordable houses in Sector 11 Gurugram provide a good balance of space and affordability. They are suitable for nuclear families looking for comfortable interiors and parking convenience."
+      },
+      {
+        "title": "8 Marla Affordable House for Sale in Sector 11 Gurugram",
+        "description": "An 8 Marla affordable house in Sector 11 Gurugram is ideal for growing families that need extra living space and privacy. These homes also offer better resale potential."
+      },
+      {
+        "title": "10 Marla Affordable House for Sale in Sector 11 Gurugram",
+        "description": "10 Marla houses offer spacious interiors and long-term usability. Buyers seeking independent homes with stable appreciation often prefer this size."
+      },
+      {
+        "title": "12 Marla Affordable House for Sale in Sector 11 Gurugram",
+        "description": "A 12 Marla affordable house in Sector 11 Gurugram provides enhanced space and privacy, making it suitable for joint families and long-term living."
+      },
+      {
+        "title": "14 Marla Affordable House for Sale in Sector 11 Gurugram",
+        "description": "14 Marla houses are ideal for buyers seeking larger independent homes in a well-established area. Their size and location support steady long-term value."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses Near Sector 11 Gurugram",
+    "description": [
+      "Buyers searching for affordable houses for sale in Sector 11 Gurugram often explore nearby sectors for comparison.",
+      "These surrounding locations enhance the residential and investment appeal of Sector 11."
+    ],
+    "locations": [
+      { "title": "Affordable House for Sale in Sector 11 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 10 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 12 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Old Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House in Central Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses in Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Budget Homes in Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Affordable Houses in Sector 11",
+    "description": [
+      "Buying an affordable house for sale in Sector 11 Gurugram requires verified listings and dependable guidance.",
+      "Deal Acres is trusted by buyers for transparency, local expertise, and customer-first services."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "Each property is verified for ownership, approvals, and legal clarity to ensure buyer confidence."
+      },
+      {
+        "title": "Transparent Pricing Policy",
+        "description": "Clear pricing with no hidden charges helps buyers plan their finances easily."
+      },
+      {
+        "title": "Strong Local Market Knowledge",
+        "description": "Deep understanding of Sector 11 Gurugram real estate trends supports informed decisions."
+      },
+      {
+        "title": "Wide Range of Affordable Options",
+        "description": "Multiple house sizes and budget ranges provide flexibility and choice."
+      },
+      {
+        "title": "Complete Legal Assistance",
+        "description": "Support with documentation, agreements, and registry ensures smooth transactions."
+      },
+      {
+        "title": "Personalized Property Guidance",
+        "description": "Customized recommendations based on buyer needs and future plans."
+      },
+      {
+        "title": "End-to-End Buying Support",
+        "description": "Deal Acres assists buyers from property search to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Known for ethics, transparency, and customer satisfaction, Deal Acres is a preferred choice."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Sector 11 Gurugram",
+    "description": "Detailed and user-friendly answers to common buyer queries.",
+    "faqs": [
+      {
+        "question": "Is Sector 11 Gurugram a good location to buy an affordable house?",
+        "answer": "Yes, Sector 11 is a well-established area with good connectivity, stable infrastructure, and consistent housing demand."
+      },
+      {
+        "question": "What house sizes are available in Sector 11 Gurugram?",
+        "answer": "Affordable independent houses in Sector 11 are available from 4 Marla to 14 Marla."
+      },
+      {
+        "question": "Is Sector 11 suitable for family living?",
+        "answer": "Yes, the area offers schools, hospitals, markets, parks, and a peaceful residential environment."
+      },
+      {
+        "question": "How is connectivity from Sector 11 Gurugram?",
+        "answer": "Sector 11 has good road connectivity to NH-48 and other major areas of Gurugram."
+      },
+      {
+        "question": "Are houses in Sector 11 legally approved?",
+        "answer": "Most properties are approved, and Deal Acres assists buyers with complete legal verification."
+      },
+      {
+        "question": "Is buying a house in Sector 11 a good investment?",
+        "answer": "Yes, stable demand and affordable pricing make Sector 11 a reliable long-term investment."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 11?",
+        "answer": "Yes, leading banks and financial institutions provide home loans for eligible properties."
+      },
+      {
+        "question": "What amenities are available near Sector 11?",
+        "answer": "Nearby amenities include schools, hospitals, local markets, parks, and public transport."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and complete buyer support."
+      },
+      {
+        "question": "How can I contact a property expert for Sector 11?",
+        "answer": "You can fill out the contact form on this page to connect with experienced Deal Acres consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for Affordable Houses in Sector 11 Gurugram",
+    "description": [
+      "Finding the right affordable house for sale in Sector 11 Gurugram becomes simple with expert guidance.",
+      "Share your details to connect with trusted real estate professionals and explore verified property options that match your needs."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}
+s

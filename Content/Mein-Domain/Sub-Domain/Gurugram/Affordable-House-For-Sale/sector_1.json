@@ -1,0 +1,175 @@
+{
+  "domain": "Affordablehouseforsalecom",
+
+  "hero": {
+    "title": "Affordable Independent Houses for Sale in Sector 1 Gurugram",
+    "description": [
+      "Sector 1 Gurugram is a developing residential locality that offers a practical living environment with good connectivity to key parts of the city. Located close to major roads and surrounded by emerging residential sectors, this area attracts buyers looking for value-driven housing options. People searching for an affordable house for sale in Sector 1 Gurugram prefer this location due to its peaceful surroundings, improving infrastructure, and easy access to daily essentials. Nearby schools, local markets, healthcare facilities, and public transport make Sector 1 suitable for families as well as working professionals.",
+      "Affordable houses for sale in Sector 1 Gurugram provide an excellent opportunity for buyers who want independent living at a reasonable price point. The locality is gradually witnessing development, which adds to its future appreciation potential. Whether you are planning to live here or invest for the long term, Sector 1 offers a balanced mix of affordability, comfort, and growth prospects in Gurugram."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1599423300746-b62533397364?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Size Options Available in Sector 1 Gurugram",
+    "description": [
+      "Choosing the right house size in Sector 1 Gurugram helps buyers align their space needs with budget planning.",
+      "The sector offers multiple affordable independent house configurations suitable for different family sizes."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House for Sale in Sector 1 Gurugram",
+        "description": "A 4 Marla affordable house for sale in Sector 1 Gurugram is ideal for small families and first-time homebuyers. These houses offer independent living with efficient layouts, easy maintenance, and proximity to essential daily facilities."
+      },
+      {
+        "title": "6 Marla Affordable House for Sale in Sector 1 Gurugram",
+        "description": "6 Marla affordable houses in Sector 1 Gurugram provide a balanced combination of comfort and affordability. They are suitable for nuclear families looking for better room sizes, ventilation, and parking convenience."
+      },
+      {
+        "title": "8 Marla Affordable House for Sale in Sector 1 Gurugram",
+        "description": "An 8 Marla affordable house in Sector 1 Gurugram is a good option for growing families who need additional space. These homes offer improved privacy, better layouts, and stronger resale potential."
+      },
+      {
+        "title": "10 Marla Affordable House for Sale in Sector 1 Gurugram",
+        "description": "10 Marla houses offer spacious interiors and long-term usability. Buyers looking for independent homes with future appreciation often prefer this size in Sector 1 Gurugram."
+      },
+      {
+        "title": "12 Marla Affordable House for Sale in Sector 1 Gurugram",
+        "description": "A 12 Marla affordable house in Sector 1 Gurugram provides enhanced space, privacy, and suitability for joint families. These houses are also considered good long-term investment assets."
+      },
+      {
+        "title": "14 Marla Affordable House for Sale in Sector 1 Gurugram",
+        "description": "14 Marla houses are ideal for buyers seeking large independent homes at competitive pricing. Their size and location support strong future growth potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses Near Sector 1 Gurugram",
+    "description": [
+      "Buyers searching for affordable houses for sale in Sector 1 Gurugram often explore nearby sectors for comparison.",
+      "These surrounding locations enhance the residential and investment appeal of Sector 1."
+    ],
+    "locations": [
+      { "title": "Affordable House for Sale in Sector 1 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 2 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 4 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Old Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Delhi-Gurugram Border", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House in North Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses in Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Budget Homes in Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Affordable Houses in Sector 1",
+    "description": [
+      "Buying an affordable house for sale in Sector 1 Gurugram requires verified listings and reliable guidance.",
+      "Deal Acres is trusted by buyers for its transparency, experience, and customer-first approach."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All listings on Deal Acres are verified for ownership, approvals, and legal clarity to protect buyer interests."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing without hidden charges helps buyers plan their budget with confidence."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 1 Gurugram real estate trends supports informed decision-making."
+      },
+      {
+        "title": "Wide Range of Options",
+        "description": "Multiple house sizes and budget options give buyers flexibility and choice."
+      },
+      {
+        "title": "Complete Legal Support",
+        "description": "Deal Acres assists with documentation, agreements, and registry processes for a smooth transaction."
+      },
+      {
+        "title": "Personalized Property Guidance",
+        "description": "Property recommendations are tailored based on buyer requirements and future goals."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support is provided from property search to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for reliability, ethics, and long-term customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Sector 1 Gurugram",
+    "description": "Detailed answers to common buyer questions for better clarity and confidence.",
+    "faqs": [
+      {
+        "question": "Is Sector 1 Gurugram a good location to buy an affordable house?",
+        "answer": "Yes, Sector 1 Gurugram is a developing residential area offering affordable pricing, improving infrastructure, and good future growth potential."
+      },
+      {
+        "question": "What house sizes are available in Sector 1 Gurugram?",
+        "answer": "Affordable independent houses in Sector 1 are available from 4 Marla to 14 Marla, catering to different family sizes."
+      },
+      {
+        "question": "Is Sector 1 suitable for family living?",
+        "answer": "Yes, the sector has access to schools, markets, healthcare facilities, and a peaceful residential environment."
+      },
+      {
+        "question": "How is connectivity from Sector 1 Gurugram?",
+        "answer": "Sector 1 offers good road connectivity to major parts of Gurugram and nearby areas."
+      },
+      {
+        "question": "Are houses in Sector 1 legally approved?",
+        "answer": "Most properties are approved, and Deal Acres assists buyers with proper legal verification."
+      },
+      {
+        "question": "Is buying a house in Sector 1 a good investment?",
+        "answer": "Yes, affordable pricing and gradual development make Sector 1 a promising long-term investment."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 1?",
+        "answer": "Yes, banks and financial institutions provide home loans for eligible properties in Sector 1 Gurugram."
+      },
+      {
+        "question": "What amenities are available near Sector 1?",
+        "answer": "Nearby amenities include schools, local markets, hospitals, and public transport."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and complete buyer support."
+      },
+      {
+        "question": "How can I contact a property expert for Sector 1?",
+        "answer": "You can fill out the contact form on this page to connect with experienced Deal Acres consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for Affordable Houses in Sector 1 Gurugram",
+    "description": [
+      "Finding the right affordable house for sale in Sector 1 Gurugram becomes easy with expert guidance.",
+      "Share your details to connect with trusted real estate professionals and explore verified property options that match your needs."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

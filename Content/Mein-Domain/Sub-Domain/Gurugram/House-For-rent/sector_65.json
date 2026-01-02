@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Modern Independent Houses for Rent in Sector 65 Gurugram",
+    "description": [
+      "Sector 65 Gurugram is a rapidly developing residential locality situated along Golf Course Extension Road, offering a perfect mix of modern infrastructure and everyday convenience. Tenants searching for a house for rent in Sector 65 Gurugram prefer this area due to its excellent connectivity to major IT hubs, Sohna Road, and central Gurugram. The sector is surrounded by reputed schools, hospitals, shopping malls, cafes, and daily utility stores, making it a practical and comfortable choice for families and working professionals.",
+      "Independent houses in Sector 65 are known for their spacious layouts, better ventilation, and privacy compared to high-rise apartments. The locality offers a peaceful environment while still being close to premium lifestyle destinations. Choosing a house for rent in Sector 65 Gurugram ensures comfortable living, modern surroundings, and strong connectivity in one of Gurugram’s most preferred residential zones."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sector 65 Gurugram",
+    "description": [
+      "Choosing the right plot size is an important step when selecting a house for rent in Sector 65 Gurugram, as it affects comfort, privacy, and monthly rental budget.",
+      "Sector 65 offers independent houses in multiple plot sizes, suitable for nuclear families, joint families, and tenants seeking spacious homes."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 65 Gurugram",
+        "description": "A 4 Marla house for rent in Sector 65 Gurugram is ideal for couples or small families looking for an affordable and low-maintenance rental option."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 65 Gurugram",
+        "description": "6 Marla houses provide a balanced combination of space and budget, making them suitable for comfortable family living."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 65 Gurugram",
+        "description": "An 8 Marla rental house offers spacious rooms, good ventilation, and practical layouts for long-term residence."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 65 Gurugram",
+        "description": "10 Marla houses are preferred by tenants who want larger living areas, parking facilities, and enhanced privacy."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 65 Gurugram",
+        "description": "12 Marla rental houses fall into the premium category, offering open spaces and a more comfortable lifestyle."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 65 Gurugram",
+        "description": "A 14 Marla house for rent is ideal for large families or corporate tenants seeking space, comfort, and a peaceful environment."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 65 Gurugram",
+    "description": [
+      "Tenants looking for a house for rent in Sector 65 Gurugram often explore nearby localities to compare rental values, connectivity, and lifestyle advantages.",
+      "This section highlights surrounding residential areas to help users make informed rental decisions."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 65 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 66 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 67 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 63 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near Golf Course Extension Road", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 62 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent near Sohna Road", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 68 Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sector 65 Rental Houses",
+    "description": [
+      "Finding a genuine house for rent in Sector 65 Gurugram requires verified listings, transparent rental details, and strong local market knowledge. Deal Acres focuses on trust and clarity.",
+      "With a tenant-first approach and deep understanding of Gurugram’s rental market, Deal Acres has become a preferred platform for renting independent houses."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "Every property is verified for ownership and authenticity to ensure tenant safety."
+      },
+      {
+        "title": "Transparent Rental Information",
+        "description": "Clear details on rent, security deposit, and agreement terms help tenants plan confidently."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 65 and nearby areas ensures accurate rental guidance."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "User-friendly tools make searching for rental houses quick and simple."
+      },
+      {
+        "title": "Tenant-Centric Recommendations",
+        "description": "Suggestions are tailored to tenant budget, family size, and lifestyle needs."
+      },
+      {
+        "title": "Documentation Assistance",
+        "description": "Support with rental agreements and paperwork ensures a smooth renting experience."
+      },
+      {
+        "title": "End-to-End Rental Support",
+        "description": "Assistance from property search to move-in for hassle-free renting."
+      },
+      {
+        "title": "Trusted by Renters",
+        "description": "Deal Acres is known for reliability, transparency, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 65 Gurugram",
+    "description": "Common tenant questions related to house for rent in Sector 65 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 65 Gurugram a good area to rent a house?",
+        "answer": "Yes, Sector 65 is a modern and well-connected locality with good infrastructure and lifestyle amenities."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 65?",
+        "answer": "Independent houses from 4 Marla to 14 Marla are available for different budgets and family sizes."
+      },
+      {
+        "question": "Is Sector 65 suitable for family living?",
+        "answer": "Yes, the sector has schools, hospitals, parks, and shopping areas nearby, making it ideal for families."
+      },
+      {
+        "question": "Are furnished houses available for rent in Sector 65?",
+        "answer": "Yes, furnished and semi-furnished houses are available depending on the property."
+      },
+      {
+        "question": "What is the average rent in Sector 65 Gurugram?",
+        "answer": "Rental values depend on plot size, furnishings, and location, offering mid-range to premium options."
+      },
+      {
+        "question": "How is connectivity from Sector 65?",
+        "answer": "Sector 65 is well-connected via Golf Course Extension Road and major city routes."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sector 65?",
+        "answer": "Some landlords allow bachelors, while others prefer families, depending on owner preferences."
+      },
+      {
+        "question": "Is Sector 65 safe for tenants?",
+        "answer": "Yes, it is considered a safe and well-developed residential locality."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent information, and expert local rental support."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 65?",
+        "answer": "You can fill out the contact form to connect with experienced rental property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sector 65 Gurugram",
+    "description": [
+      "Finding the right house for rent in Sector 65 Gurugram becomes simple and stress-free with professional guidance.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that matches your budget, preferences, and lifestyle needs."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

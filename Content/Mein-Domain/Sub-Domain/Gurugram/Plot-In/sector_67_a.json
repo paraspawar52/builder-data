@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Premium Residential and Investment Plots in Sector 67A Gurugram",
+    "description": [
+      "Sector 67A Gurugram is an emerging residential location strategically placed near Golf Course Extension Road and Southern Peripheral Road. The sector is gaining popularity among buyers looking for a plot in Sector 67A Gurugram due to its planned development, smooth connectivity, and proximity to premium residential sectors like Sector 66, Sector 67, and Sohna Road. The area offers a peaceful living environment while staying well-connected to business hubs, schools, hospitals, and shopping destinations across Gurugram.",
+      "Plots in Sector 67A Gurugram are ideal for building independent homes as well as for long-term real estate investment. With growing infrastructure, upcoming residential projects, and steady demand, this sector promises good appreciation potential. Choosing a plot in Sector 67A Gurugram ensures a balance of modern lifestyle, future growth, and strong connectivity, making it suitable for both end users and investors."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 67A",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1605146769289-440113cc3d00?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Available Plot Size Options in Sector 67A Gurugram",
+    "description": [
+      "Choosing the right plot size in Sector 67A Gurugram plays a key role in home design, construction planning, and investment value.",
+      "The sector offers a variety of plot sizes suitable for residential use, builder floors, and long-term appreciation."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 67A Gurugram",
+        "description": "A 4 Marla plot in Sector 67A Gurugram is suitable for compact independent homes. These plots are ideal for buyers looking for affordability in a developing yet well-connected location."
+      },
+      {
+        "title": "6 Marla Plot in Sector 67A Gurugram",
+        "description": "6 Marla plots offer a good balance between price and usable space, allowing comfortable residential construction with parking and ventilation."
+      },
+      {
+        "title": "8 Marla Plot in Sector 67A Gurugram",
+        "description": "An 8 Marla plot provides flexibility for spacious home layouts and is preferred by families planning modern independent houses."
+      },
+      {
+        "title": "10 Marla Plot in Sector 67A Gurugram",
+        "description": "10 Marla plots fall into the premium category and are suitable for independent houses with enhanced privacy and open spaces."
+      },
+      {
+        "title": "12 Marla Plot in Sector 67A Gurugram",
+        "description": "A 12 Marla plot offers ample space for luxury home construction with landscaped areas and premium architectural designs."
+      },
+      {
+        "title": "14 Marla Plot in Sector 67A Gurugram",
+        "description": "14 Marla plots are ideal for buyers seeking exclusivity and long-term investment benefits due to limited availability and rising demand."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Nearby Plot Locations Around Sector 67A Gurugram",
+    "description": [
+      "Buyers looking for a plot in Sector 67A Gurugram often explore nearby sectors to compare pricing, plot sizes, and future growth prospects.",
+      "These surrounding locations offer similar lifestyle advantages and strong connectivity."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 67A Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 67 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 66 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 65 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Golf Course Extension Road", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Sohna Road", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 62 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in New Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 67A Gurugram",
+    "description": [
+      "Buying a plot in Sector 67A Gurugram requires verified listings, legal clarity, and local market understanding.",
+      "Deal Acres has earned buyer trust by offering transparency, reliability, and complete property support."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are checked for ownership authenticity, approvals, and legal documents."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear and fair pricing with no hidden charges for buyers."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 67A price trends and future potential."
+      },
+      {
+        "title": "Multiple Plot Options",
+        "description": "Access to different plot sizes based on budget and requirements."
+      },
+      {
+        "title": "Legal and Registry Support",
+        "description": "Complete assistance with paperwork, registry, and compliance processes."
+      },
+      {
+        "title": "Personalized Assistance",
+        "description": "Tailored property suggestions aligned with buyer goals."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Guidance from plot search to final possession."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Deal Acres is known for professionalism, transparency, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 67A Gurugram",
+    "description": "Helpful answers to common buyer queries related to plot purchase in Sector 67A Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 67A Gurugram a good location to buy a plot?",
+        "answer": "Yes, Sector 67A is a developing area with good connectivity, planned infrastructure, and strong future appreciation potential."
+      },
+      {
+        "question": "What plot sizes are available in Sector 67A Gurugram?",
+        "answer": "Plot sizes generally range from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Is Sector 67A suitable for residential construction?",
+        "answer": "Yes, the sector is suitable for independent houses and builder floor developments."
+      },
+      {
+        "question": "Is buying a plot in Sector 67A a good investment?",
+        "answer": "With infrastructure growth and increasing demand, Sector 67A offers promising long-term returns."
+      },
+      {
+        "question": "Are plots in Sector 67A legally approved?",
+        "answer": "Most plots have clear titles, but legal verification is always recommended before purchase."
+      },
+      {
+        "question": "How is connectivity from Sector 67A Gurugram?",
+        "answer": "The area is well connected via Golf Course Extension Road and Sohna Road."
+      },
+      {
+        "question": "Can construction start immediately after purchase?",
+        "answer": "Construction depends on local authority approvals and building norms."
+      },
+      {
+        "question": "What amenities are available nearby?",
+        "answer": "Schools, hospitals, malls, and daily convenience facilities are easily accessible."
+      },
+      {
+        "question": "Why choose Deal Acres for buying plots?",
+        "answer": "Deal Acres offers verified listings, transparent deals, and complete buyer support."
+      },
+      {
+        "question": "How can I contact a plot expert?",
+        "answer": "You can fill out the enquiry form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Buying Plots in Sector 67A Gurugram",
+    "description": [
+      "Finding the right plot in Sector 67A Gurugram becomes simple with expert guidance and verified options.",
+      "Share your details to connect with trusted property professionals who will help you find plots that match your residential or investment needs."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

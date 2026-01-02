@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Affordable Residential and Investment Plots in Sector 3A Gurugram",
+    "description": [
+      "Sector 3A Gurugram is a strategically located residential locality in Old Gurugram, known for its affordability, good connectivity, and growing residential demand. Buyers searching for a Plot in Sector 3A Gurugram are attracted by its proximity to NH-48, Hero Honda Chowk, IMT Manesar Road, and key industrial and commercial hubs. The sector is well connected to nearby areas such as Sector 3, Sector 4, Rajendra Park, and Basai, making daily commuting easy for working professionals and families. With schools, hospitals, markets, and public transport facilities nearby, Sector 3A offers practical and comfortable urban living.",
+      "Plots in Sector 3A Gurugram present a strong opportunity for both homebuyers and investors looking for value-driven real estate options. The locality has shown steady growth due to infrastructure upgrades and rising demand for independent housing in Old Gurugram. Choosing a plot in Sector 3A Gurugram allows buyers to build customized homes or secure land in a well-connected area that promises stable appreciation and long-term usability."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 3A",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Size Options Available in Sector 3A Gurugram",
+    "description": [
+      "Choosing the right plot size in Sector 3A Gurugram is important for budget planning, construction needs, and future resale value.",
+      "Sector 3A offers multiple plot size options suitable for compact houses, family homes, and long-term investment purposes."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 3A Gurugram",
+        "description": "A 4 Marla plot in Sector 3A Gurugram is ideal for buyers looking for an affordable residential option. These plots are suitable for compact independent homes and are popular among first-time buyers."
+      },
+      {
+        "title": "6 Marla Plot in Sector 3A Gurugram",
+        "description": "6 Marla plots provide a balanced combination of space and value. They are suitable for comfortable family homes with practical layouts and good connectivity."
+      },
+      {
+        "title": "8 Marla Plot in Sector 3A Gurugram",
+        "description": "An 8 Marla plot in Sector 3A Gurugram offers flexibility in home design and future expansion. Families planning spacious homes often prefer this size."
+      },
+      {
+        "title": "10 Marla Plot in Sector 3A Gurugram",
+        "description": "10 Marla plots are premium residential options within the sector. These plots allow construction of larger independent houses and offer better resale potential."
+      },
+      {
+        "title": "12 Marla Plot in Sector 3A Gurugram",
+        "description": "A 12 Marla plot in Sector 3A Gurugram is suitable for buyers seeking expansive living spaces and long-term appreciation in a developing locality."
+      },
+      {
+        "title": "14 Marla Plot in Sector 3A Gurugram",
+        "description": "14 Marla plots cater to buyers looking for larger land parcels for luxury homes or long-term land investment. These plots are limited and valuable."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Plot Options Near Sector 3A Gurugram",
+    "description": [
+      "Buyers interested in a Plot in Sector 3A Gurugram often explore nearby localities to compare pricing, connectivity, and development potential.",
+      "This section highlights surrounding areas that enhance the residential and investment appeal of Sector 3A."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 3A Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 3 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 4 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Rajendra Park Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Basai Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Hero Honda Chowk", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Plots in Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 3A",
+    "description": [
+      "Buying a Plot in Sector 3A Gurugram requires verified listings, transparent pricing, and reliable local guidance.",
+      "Deal Acres has built strong trust by offering genuine properties and customer-focused real estate solutions."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are verified for ownership clarity, approvals, and legal documentation."
+      },
+      {
+        "title": "Transparent Pricing Policy",
+        "description": "Clear pricing with no hidden charges ensures buyer confidence."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 3A pricing trends and development potential."
+      },
+      {
+        "title": "Wide Plot Inventory",
+        "description": "Access to multiple plot sizes across Sector 3A and nearby areas."
+      },
+      {
+        "title": "Legal and Registry Support",
+        "description": "Complete assistance with documentation, registry, and compliance."
+      },
+      {
+        "title": "Personalized Property Advice",
+        "description": "Recommendations based on buyer budget, usage, and investment goals."
+      },
+      {
+        "title": "End-to-End Buying Assistance",
+        "description": "Support from plot shortlisting to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for ethical practices, professionalism, and long-term customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 3A Gurugram",
+    "description": "Detailed answers to common buyer queries to help make informed property decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 3A Gurugram a good location to buy a plot?",
+        "answer": "Yes, Sector 3A is a well-connected and affordable locality with steady residential demand and long-term growth potential."
+      },
+      {
+        "question": "What plot sizes are available in Sector 3A Gurugram?",
+        "answer": "Plots in Sector 3A Gurugram are generally available from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Is Sector 3A suitable for residential construction?",
+        "answer": "Yes, the sector is suitable for residential construction with access to basic infrastructure and amenities."
+      },
+      {
+        "question": "Is buying a plot in Sector 3A a good investment?",
+        "answer": "With improving infrastructure and rising housing demand, Sector 3A offers stable appreciation potential."
+      },
+      {
+        "question": "Are plots in Sector 3A legally approved?",
+        "answer": "Most plots are approved, but legal verification is essential. Deal Acres assists with due diligence."
+      },
+      {
+        "question": "How is connectivity from Sector 3A Gurugram?",
+        "answer": "Sector 3A enjoys good connectivity via NH-48, Hero Honda Chowk, and nearby city roads."
+      },
+      {
+        "question": "Can construction start immediately after buying a plot?",
+        "answer": "Construction depends on local building norms and approvals. Professional guidance is recommended."
+      },
+      {
+        "question": "What amenities are available near Sector 3A?",
+        "answer": "The area offers schools, hospitals, markets, public transport, and daily convenience facilities."
+      },
+      {
+        "question": "Why choose Deal Acres for buying plots in Sector 3A?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, legal assistance, and end-to-end buyer support."
+      },
+      {
+        "question": "How can I contact property experts for Sector 3A plots?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Buying Plots in Sector 3A Gurugram",
+    "description": [
+      "Finding the right Plot in Sector 3A Gurugram becomes simple with expert guidance and verified property options.",
+      "Share your details to connect with trusted real estate professionals who will help you explore suitable plots and make a confident buying decision."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

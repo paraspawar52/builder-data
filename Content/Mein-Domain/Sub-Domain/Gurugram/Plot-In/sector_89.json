@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Well Planned Residential and Investment Plots in Sector 89 Gurugram",
+    "description": [
+      "Sector 89 Gurugram is a rapidly developing residential sector in New Gurugram, known for its strategic location, modern infrastructure, and organized layout. Buyers looking for a Plot in Sector 89 Gurugram are attracted by its smooth connectivity to Dwarka Expressway, NH-48, and key employment hubs of Gurugram. The sector is surrounded by established residential societies, proposed commercial zones, educational institutions, healthcare facilities, and green open spaces, making it suitable for peaceful and convenient living.",
+      "Plots in Sector 89 Gurugram are ideal for both homebuyers and investors seeking long-term value. With continuous infrastructure development, improving road networks, and rising demand, the area shows strong appreciation potential. Choosing a plot in Sector 89 Gurugram offers the freedom to build as per personal needs while securing an asset in one of Gurugram’s fastest-growing residential corridors."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 89",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Size Options Available in Sector 89 Gurugram",
+    "description": [
+      "Selecting the right plot size in Sector 89 Gurugram plays a key role in planning construction, managing budget, and ensuring future resale value.",
+      "Sector 89 offers multiple plot size options that cater to compact homes, spacious family residences, and premium villa developments."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 89 Gurugram",
+        "description": "A 4 Marla plot in Sector 89 Gurugram is suitable for buyers looking for an affordable entry into a well-connected residential area. These plots are ideal for compact homes and attract steady demand from small families and tenants. With growing development around the sector, 4 Marla plots offer functional living along with gradual appreciation."
+      },
+      {
+        "title": "6 Marla Plot in Sector 89 Gurugram",
+        "description": "6 Marla plots in Sector 89 Gurugram offer a balanced combination of space and affordability. They are well-suited for comfortable independent homes with parking and ventilation. Due to consistent end-user demand, this plot size remains a popular choice for both residential use and long-term investment."
+      },
+      {
+        "title": "8 Marla Plot in Sector 89 Gurugram",
+        "description": "An 8 Marla plot in Sector 89 Gurugram provides greater flexibility in home design and layout. Buyers planning duplex homes or independent floors often prefer this size. With improving infrastructure and connectivity, 8 Marla plots hold strong resale value and appreciation potential."
+      },
+      {
+        "title": "10 Marla Plot in Sector 89 Gurugram",
+        "description": "10 Marla plots are considered premium land options in Sector 89 Gurugram. These plots allow the construction of spacious homes with modern amenities and landscaped areas. Investors favor this size due to higher demand among premium buyers and strong capital growth prospects."
+      },
+      {
+        "title": "12 Marla Plot in Sector 89 Gurugram",
+        "description": "A 12 Marla plot in Sector 89 Gurugram is ideal for buyers seeking spacious living and luxury construction options. These plots are limited in availability, making them valuable assets with long-term appreciation potential."
+      },
+      {
+        "title": "14 Marla Plot in Sector 89 Gurugram",
+        "description": "14 Marla plots in Sector 89 Gurugram cater to buyers looking for expansive land parcels and exclusive residential development. Suitable for luxury villas, these plots offer excellent future growth opportunities in a rapidly developing part of New Gurugram."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Plot Locations Near Sector 89 Gurugram",
+    "description": [
+      "Buyers searching for a Plot in Sector 89 Gurugram often compare nearby sectors to evaluate pricing, connectivity, and development prospects.",
+      "This section highlights surrounding locations that complement Sector 89’s residential appeal and investment potential."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 89 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 90 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 88 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 91 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Dwarka Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in New Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Plots in Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Deal Acres Is Trusted for Plots in Sector 89 Gurugram",
+    "description": [
+      "Buying a Plot in Sector 89 Gurugram requires verified listings, transparent processes, and expert local guidance.",
+      "Deal Acres has earned strong customer trust by offering reliable property solutions, ethical practices, and end-to-end buyer support."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All plots listed on Deal Acres are carefully verified for ownership, approvals, and legal documentation."
+      },
+      {
+        "title": "Transparent Pricing Policy",
+        "description": "Clear pricing with no hidden charges ensures buyers can plan their purchase confidently."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth knowledge of Sector 89 Gurugram price trends, development plans, and future growth."
+      },
+      {
+        "title": "Wide Range of Plot Choices",
+        "description": "Multiple plot sizes and options available to suit different budgets and property goals."
+      },
+      {
+        "title": "Legal and Registry Assistance",
+        "description": "Complete support with legal verification, registry procedures, and compliance requirements."
+      },
+      {
+        "title": "Personalized Property Guidance",
+        "description": "Expert recommendations based on buyer needs, whether for living or investment."
+      },
+      {
+        "title": "End-to-End Buyer Support",
+        "description": "Assistance from shortlisting to possession ensures a smooth buying experience."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for customer satisfaction, ethical dealings, and long-term reliability."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 89 Gurugram",
+    "description": "Detailed answers to common buyer questions to help make informed property decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 89 Gurugram a good location to buy a plot?",
+        "answer": "Yes, Sector 89 Gurugram is a fast-developing residential area with strong connectivity, planned infrastructure, and high appreciation potential, making it suitable for both end-use and investment."
+      },
+      {
+        "question": "What plot sizes are available in Sector 89 Gurugram?",
+        "answer": "Plots in Sector 89 Gurugram are available in sizes ranging from 4 Marla to 14 Marla, catering to different budgets and construction requirements."
+      },
+      {
+        "question": "Is Sector 89 suitable for residential construction?",
+        "answer": "Yes, Sector 89 is suitable for residential construction due to its organized layout, wide roads, and proximity to essential amenities."
+      },
+      {
+        "question": "Is buying a plot in Sector 89 a good investment?",
+        "answer": "With ongoing development and increasing demand, plots in Sector 89 Gurugram offer strong long-term appreciation and investment security."
+      },
+      {
+        "question": "Are plots in Sector 89 legally approved?",
+        "answer": "Most plots are legally approved, but buyers should always verify documents. Deal Acres assists with legal due diligence."
+      },
+      {
+        "question": "How is connectivity from Sector 89 Gurugram?",
+        "answer": "Sector 89 enjoys good connectivity via Dwarka Expressway and NH-48, providing easy access to Gurugram and Delhi."
+      },
+      {
+        "question": "Can construction start immediately after plot purchase?",
+        "answer": "Construction depends on local building norms and approvals. Expert guidance is recommended before starting construction."
+      },
+      {
+        "question": "What amenities are available near Sector 89?",
+        "answer": "The sector has access to schools, hospitals, shopping areas, parks, and daily convenience facilities."
+      },
+      {
+        "question": "Why should I choose Deal Acres for buying plots?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, legal support, and complete buyer assistance."
+      },
+      {
+        "question": "How can I get in touch with property experts for Sector 89 plots?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property consultants for personalized support."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for Buying Plots in Sector 89 Gurugram",
+    "description": [
+      "Finding the right Plot in Sector 89 Gurugram becomes simple with professional guidance and verified property options.",
+      "Share your details to connect with trusted real estate experts who will help you explore genuine listings, compare plot sizes, and make a confident decision aligned with your budget and long-term goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

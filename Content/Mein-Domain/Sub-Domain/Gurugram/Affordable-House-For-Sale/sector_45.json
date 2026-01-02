@@ -1,0 +1,175 @@
+{
+  "domain": "Affordablehouseforsalecom",
+
+  "hero": {
+    "title": "Affordable Independent Houses for Sale in Sector 45 Gurugram",
+    "description": [
+      "Sector 45 Gurugram is a prime and well-established residential locality located close to Golf Course Road and major corporate hubs. Buyers searching for an affordable house for sale in Sector 45 Gurugram are attracted to its excellent connectivity, peaceful environment, and access to top social infrastructure. The sector is surrounded by reputed schools, hospitals, office complexes, metro connectivity, shopping centers, and green spaces, making it ideal for families and working professionals.",
+      "Affordable houses for sale in Sector 45 Gurugram offer the benefit of independent living in a highly desirable location. The area has maintained strong residential demand over the years, supporting good rental income and long-term appreciation. Choosing Sector 45 means investing in a centrally located neighborhood that offers lifestyle comfort today and stable property value growth in the future."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1599423300746-b62533397364?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Size Options Available in Sector 45 Gurugram",
+    "description": [
+      "Selecting the right house size in Sector 45 Gurugram helps buyers align budget, living space, and lifestyle needs.",
+      "The sector offers multiple affordable independent house configurations suitable for different family sizes and investment goals."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House for Sale in Sector 45 Gurugram",
+        "description": "A 4 Marla affordable house in Sector 45 Gurugram is suitable for small families and professionals looking for independent living at a reasonable price in a prime location."
+      },
+      {
+        "title": "6 Marla Affordable House for Sale in Sector 45 Gurugram",
+        "description": "6 Marla houses provide a balanced layout with comfortable room sizes, making them ideal for nuclear families seeking value and convenience."
+      },
+      {
+        "title": "8 Marla Affordable House for Sale in Sector 45 Gurugram",
+        "description": "An 8 Marla house offers enhanced living space, better parking options, and flexibility for growing families."
+      },
+      {
+        "title": "10 Marla Affordable House for Sale in Sector 45 Gurugram",
+        "description": "10 Marla houses are preferred by buyers who want spacious interiors, privacy, and long-term residential comfort."
+      },
+      {
+        "title": "12 Marla Affordable House for Sale in Sector 45 Gurugram",
+        "description": "A 12 Marla house delivers generous space, improved ventilation, and strong resale potential due to Sector 45’s location advantage."
+      },
+      {
+        "title": "14 Marla Affordable House for Sale in Sector 45 Gurugram",
+        "description": "14 Marla houses are ideal for buyers seeking large independent homes with premium living standards and excellent appreciation prospects."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses Near Sector 45 Gurugram",
+    "description": [
+      "Buyers interested in affordable houses for sale in Sector 45 Gurugram often explore nearby sectors for comparison.",
+      "These surrounding locations further enhance the residential and investment appeal of Sector 45."
+    ],
+    "locations": [
+      { "title": "Affordable House for Sale in Sector 45 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 44 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 46 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Golf Course Road Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near HUDA City Centre", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House in Central Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses in Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Budget Homes in Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Affordable Houses in Sector 45",
+    "description": [
+      "Buying an affordable house for sale in Sector 45 Gurugram requires verified listings and dependable professional support.",
+      "Deal Acres is trusted for transparent processes, local expertise, and a customer-first approach."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All properties are thoroughly verified for ownership clarity and legal approvals."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing ensures buyers face no hidden costs."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 45 Gurugram property trends and values."
+      },
+      {
+        "title": "Wide Property Choices",
+        "description": "Multiple house sizes and budget-friendly options available on one platform."
+      },
+      {
+        "title": "Legal and Registry Support",
+        "description": "Complete assistance with documentation and property registration."
+      },
+      {
+        "title": "Personalized Property Advice",
+        "description": "Recommendations based on buyer budget, lifestyle, and future plans."
+      },
+      {
+        "title": "End-to-End Buying Assistance",
+        "description": "Support from property search to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for reliability, ethics, and long-term customer trust."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Sector 45 Gurugram",
+    "description": "Clear answers to common buyer queries to help with confident decision-making.",
+    "faqs": [
+      {
+        "question": "Is Sector 45 Gurugram a good location to buy an affordable house?",
+        "answer": "Yes, Sector 45 is a centrally located and well-developed area with excellent connectivity and strong residential demand."
+      },
+      {
+        "question": "What house sizes are available in Sector 45 Gurugram?",
+        "answer": "Affordable independent houses are generally available from 4 Marla to 14 Marla, depending on availability and budget."
+      },
+      {
+        "question": "Is Sector 45 suitable for family living?",
+        "answer": "Yes, the area offers easy access to schools, hospitals, parks, metro stations, and shopping centers."
+      },
+      {
+        "question": "How is connectivity from Sector 45 Gurugram?",
+        "answer": "Sector 45 is well connected to Golf Course Road, HUDA City Centre, and major business hubs."
+      },
+      {
+        "question": "Are houses in Sector 45 legally approved?",
+        "answer": "Most properties are legally approved, and Deal Acres assists buyers with complete legal verification."
+      },
+      {
+        "question": "Is buying a house in Sector 45 a good investment?",
+        "answer": "Yes, the prime location and consistent demand support strong long-term appreciation."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 45?",
+        "answer": "Yes, leading banks and financial institutions offer home loans for eligible properties."
+      },
+      {
+        "question": "What amenities are available near Sector 45?",
+        "answer": "Metro connectivity, malls, offices, hospitals, schools, and parks are easily accessible."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, and complete buyer support."
+      },
+      {
+        "question": "How can I contact a property consultant?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property experts."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance to Buy Affordable Houses in Sector 45 Gurugram",
+    "description": [
+      "Finding the right affordable house for sale in Sector 45 Gurugram becomes easy with expert guidance.",
+      "Share your details to connect with trusted property consultants and explore verified housing options."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

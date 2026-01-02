@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Affordable And Well Planned Houses for Rent in New Gurugram",
+    "description": [
+      "New Gurugram has emerged as one of the fastest-growing residential zones, offering modern infrastructure, planned sectors, and strong connectivity to major parts of the city. Tenants searching for a house for rent in New Gurugram Gurugram prefer this area due to its balanced mix of affordability, open spaces, and improving social infrastructure. The region is well connected to NH-48, Dwarka Expressway, Pataudi Road, and Manesar, making daily travel smooth for professionals working across Gurugram and nearby industrial hubs.",
+      "Independent houses in New Gurugram are known for their practical layouts, newer construction quality, and peaceful surroundings. The area is surrounded by schools, hospitals, shopping complexes, local markets, and green belts, ensuring a comfortable lifestyle for families. Choosing a house for rent in New Gurugram Gurugram is ideal for tenants who want modern living at reasonable rents, future-ready infrastructure, and a calm residential environment away from overcrowded city areas."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964205360-0f2b9a1b4c63?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661901989603-0c5c6c9e0e8a?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in New Gurugram",
+    "description": [
+      "Plot size is an important factor when selecting a house for rent in New Gurugram Gurugram, as it directly influences comfort, space utilization, and rental budget.",
+      "New Gurugram offers independent houses in various Marla sizes, catering to small families, working professionals, and large households."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in New Gurugram",
+        "description": "A 4 Marla house for rent in New Gurugram Gurugram is ideal for couples or small families looking for budget-friendly rental homes with modern layouts and easy maintenance."
+      },
+      {
+        "title": "6 Marla House for Rent in New Gurugram",
+        "description": "6 Marla houses offer a balanced combination of space and affordability. These homes are suitable for nuclear families seeking comfort and peaceful surroundings."
+      },
+      {
+        "title": "8 Marla House for Rent in New Gurugram",
+        "description": "An 8 Marla house for rent in New Gurugram Gurugram provides spacious rooms, better ventilation, and enhanced privacy, making it ideal for growing families."
+      },
+      {
+        "title": "10 Marla House for Rent in New Gurugram",
+        "description": "10 Marla houses are preferred by tenants who require larger living areas, multiple bedrooms, and flexible interior layouts in a planned locality."
+      },
+      {
+        "title": "12 Marla House for Rent in New Gurugram",
+        "description": "A 12 Marla house for rent in New Gurugram Gurugram falls into the premium rental segment, offering expansive layouts and long-term living comfort."
+      },
+      {
+        "title": "14 Marla House for Rent in New Gurugram",
+        "description": "A 14 Marla house for rent in New Gurugram Gurugram is suitable for large or joint families seeking maximum space, privacy, and peaceful surroundings."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near New Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in New Gurugram Gurugram often explore nearby sectors and corridors to compare rental options and connectivity advantages.",
+      "This section highlights surrounding residential areas to help users find the most suitable rental homes in and around New Gurugram."
+    ],
+    "locations": [
+      { "title": "House for Rent in New Gurugram Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 85 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 86 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 87 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near Dwarka Expressway", "path": "/", "icon": "Home" },
+      { "title": "House for Rent near NH-48", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Manesar Area", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent near Pataudi Road", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for New Gurugram Rental Homes",
+    "description": [
+      "Finding a reliable house for rent in New Gurugram Gurugram requires verified listings, fair pricing, and dependable local expertise. Deal Acres focuses on transparency and tenant satisfaction.",
+      "With deep knowledge of New Gurugram’s rental market, Deal Acres has become a trusted choice for tenants looking for genuine and value-driven rental homes."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All rental properties are verified to ensure authenticity and tenant safety."
+      },
+      {
+        "title": "Transparent Rental Pricing",
+        "description": "Clear details on rent, deposit, and terms with no hidden charges."
+      },
+      {
+        "title": "Strong Local Expertise",
+        "description": "In-depth understanding of New Gurugram and surrounding residential sectors."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "User-friendly filters and smooth navigation make house hunting simple."
+      },
+      {
+        "title": "Tenant-Centric Approach",
+        "description": "Property suggestions aligned with tenant budget, family size, and lifestyle needs."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Assistance with rental agreements and paperwork for hassle-free transactions."
+      },
+      {
+        "title": "End-To-End Rental Assistance",
+        "description": "Support from property shortlisting to final possession of the rental home."
+      },
+      {
+        "title": "Trusted By Growing Tenant Base",
+        "description": "Deal Acres is known for reliability, transparency, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in New Gurugram",
+    "description": "Common tenant questions related to house for rent in New Gurugram Gurugram.",
+    "faqs": [
+      {
+        "question": "Is New Gurugram a good area to rent a house?",
+        "answer": "Yes, New Gurugram is a fast-developing area offering modern infrastructure, planned sectors, and affordable rental options."
+      },
+      {
+        "question": "What types of houses are available for rent in New Gurugram?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are commonly available in New Gurugram."
+      },
+      {
+        "question": "Is New Gurugram suitable for family living?",
+        "answer": "Yes, the area is family-friendly with schools, hospitals, parks, and markets nearby."
+      },
+      {
+        "question": "Are furnished houses available in New Gurugram?",
+        "answer": "Yes, furnished, semi-furnished, and unfurnished houses are available depending on the property."
+      },
+      {
+        "question": "What is the average rent in New Gurugram Gurugram?",
+        "answer": "Rental prices depend on plot size, location, furnishing level, and property condition."
+      },
+      {
+        "question": "How is connectivity from New Gurugram?",
+        "answer": "New Gurugram is well connected via NH-48, Dwarka Expressway, and Pataudi Road."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in New Gurugram?",
+        "answer": "Some landlords allow bachelors, while others prefer families."
+      },
+      {
+        "question": "Is New Gurugram safe for tenants?",
+        "answer": "Yes, it is considered safe with planned development and growing residential communities."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and expert rental guidance."
+      },
+      {
+        "question": "How can I contact rental experts for New Gurugram?",
+        "answer": "You can fill out the contact form to connect with experienced rental consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in New Gurugram Gurugram",
+    "description": [
+      "Finding the right house for rent in New Gurugram Gurugram becomes easy with professional guidance and verified property listings.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that matches your budget, space requirements, and lifestyle preferences."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

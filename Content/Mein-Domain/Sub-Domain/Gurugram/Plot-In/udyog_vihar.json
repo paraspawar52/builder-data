@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Premium Residential and Investment Plots in Udyog Vihar Gurugram",
+    "description": [
+      "Udyog Vihar Gurugram is one of the most strategically located and commercially significant areas of the city. Widely known as a major corporate and industrial hub, Udyog Vihar attracts investors and buyers looking for a plot in Udyog Vihar Gurugram due to its unmatched connectivity, strong infrastructure, and proximity to Delhi. The area is well-connected to NH-48, Cyber City, DLF Phase 3, and Indira Gandhi International Airport, making it a high-demand location for both residential and mixed-use development.",
+      "Plots in Udyog Vihar are limited and highly valuable, especially for buyers seeking long-term appreciation and strategic land assets. Whether you plan to develop an independent residence, commercial space, or invest in land near corporate zones, choosing a plot here ensures consistent demand, excellent returns, and long-term real estate security in Gurugram."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Udyog Vihar",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1494526585095-c41746248156?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Size Options Available in Udyog Vihar Gurugram",
+    "description": [
+      "Selecting the right plot size in Udyog Vihar Gurugram is important for construction planning, budget alignment, and future growth.",
+      "The area offers multiple plot size options suitable for residential, commercial, and investment-focused buyers."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Udyog Vihar Gurugram",
+        "description": "A 4 Marla plot in Udyog Vihar Gurugram is ideal for buyers seeking compact development opportunities near major business hubs. These plots are suitable for small residences or office-use properties and offer strong rental and resale potential due to location demand."
+      },
+      {
+        "title": "6 Marla Plot in Udyog Vihar Gurugram",
+        "description": "6 Marla plots provide a balanced option for buyers planning comfortable residential construction or small commercial setups. The proximity to corporate offices and arterial roads makes these plots a smart investment choice."
+      },
+      {
+        "title": "8 Marla Plot in Udyog Vihar Gurugram",
+        "description": "An 8 Marla plot offers better design flexibility and space utilization. These plots are preferred by buyers looking for independent houses or mixed-use development in a well-connected industrial-cum-commercial area."
+      },
+      {
+        "title": "10 Marla Plot in Udyog Vihar Gurugram",
+        "description": "10 Marla plots fall into the premium category and are suitable for larger residences or commercial projects. Limited availability and high demand make them valuable long-term assets."
+      },
+      {
+        "title": "12 Marla Plot in Udyog Vihar Gurugram",
+        "description": "A 12 Marla plot provides ample space for high-end construction with parking and modern layouts. These plots are ideal for buyers seeking space, flexibility, and strong future appreciation."
+      },
+      {
+        "title": "14 Marla Plot in Udyog Vihar Gurugram",
+        "description": "14 Marla plots represent premium land opportunities in Udyog Vihar. These are best suited for large-scale residential or commercial developments with high visibility and long-term growth prospects."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Nearby Plot Locations Around Udyog Vihar Gurugram",
+    "description": [
+      "Buyers interested in a plot in Udyog Vihar Gurugram often explore nearby areas to compare pricing, connectivity, and development potential.",
+      "These nearby localities offer similar advantages and strong real estate demand."
+    ],
+    "locations": [
+      { "title": "Plot in Udyog Vihar Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in DLF Phase 3 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Cyber City Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 18 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 19 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near IGI Airport Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Central Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Deal Acres Is Trusted for Plots in Udyog Vihar Gurugram",
+    "description": [
+      "Buying a plot in Udyog Vihar Gurugram requires verified listings, market knowledge, and legal clarity.",
+      "Deal Acres has become a preferred platform by consistently offering transparency, reliability, and expert support."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "Every plot is checked for ownership authenticity and legal approvals."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing policies ensure no hidden costs for buyers."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Udyog Vihar’s commercial and residential potential."
+      },
+      {
+        "title": "Access to High-Demand Plots",
+        "description": "Exclusive access to limited and premium plot options."
+      },
+      {
+        "title": "Complete Legal Assistance",
+        "description": "Support with documentation, registry, and compliance processes."
+      },
+      {
+        "title": "Personalized Property Matching",
+        "description": "Plot suggestions aligned with buyer goals and budgets."
+      },
+      {
+        "title": "End-to-End Buying Support",
+        "description": "Guidance from initial inquiry to final transaction."
+      },
+      {
+        "title": "Trusted by Investors",
+        "description": "Deal Acres is known for professionalism and long-term customer trust."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Udyog Vihar Gurugram",
+    "description": "Answers to common questions buyers ask before purchasing plots in Udyog Vihar Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Udyog Vihar a good location to buy a plot?",
+        "answer": "Yes, Udyog Vihar is a prime location due to its proximity to corporate hubs, highways, and the airport, offering strong investment potential."
+      },
+      {
+        "question": "What plot sizes are available in Udyog Vihar Gurugram?",
+        "answer": "Plot sizes generally range from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Are plots in Udyog Vihar suitable for commercial use?",
+        "answer": "Yes, many plots are suitable for commercial or mixed-use development, subject to zoning regulations."
+      },
+      {
+        "question": "Is buying a plot in Udyog Vihar a good investment?",
+        "answer": "Due to limited land supply and high demand, plots here offer strong appreciation potential."
+      },
+      {
+        "question": "Are plots legally approved?",
+        "answer": "Most plots have clear titles, but legal verification is always recommended."
+      },
+      {
+        "question": "How is connectivity from Udyog Vihar?",
+        "answer": "Udyog Vihar offers excellent connectivity to NH-48, Cyber City, and IGI Airport."
+      },
+      {
+        "question": "Can construction begin immediately after purchase?",
+        "answer": "Construction depends on local authority approvals and applicable building norms."
+      },
+      {
+        "question": "What amenities are available nearby?",
+        "answer": "Corporate offices, hospitals, hotels, markets, and transport facilities are nearby."
+      },
+      {
+        "question": "Why should I buy through Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparent processes, and expert guidance."
+      },
+      {
+        "question": "How can I contact a property expert?",
+        "answer": "You can submit your details through the contact form to connect with experts."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for Buying Plots in Udyog Vihar Gurugram",
+    "description": [
+      "Finding the right plot in Udyog Vihar Gurugram becomes easier with professional support.",
+      "Share your details to connect with experienced property advisors who will help you find verified plots aligned with your investment and development goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

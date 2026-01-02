@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Well Planned Independent Houses for Rent in Sector 83 Gurugram",
+    "description": [
+      "Sector 83 Gurugram is a fast-developing residential locality known for its modern infrastructure, excellent road connectivity, and peaceful living environment. Tenants looking for a house for rent in Sector 83 Gurugram prefer this area because it offers a balanced lifestyle with easy access to Dwarka Expressway, NH-48, and major commercial hubs of Gurugram. The locality is surrounded by green spaces, wide internal roads, and well-planned residential pockets, making it suitable for families and professionals alike.",
+      "Independent houses in Sector 83 are designed to offer comfortable layouts, good ventilation, and privacy. Residents enjoy proximity to reputed schools, hospitals, shopping complexes, daily need stores, and entertainment zones. Choosing a house for rent in Sector 83 Gurugram is ideal for tenants seeking a secure neighborhood, smooth connectivity, and long-term rental stability in one of Gurugram’s most preferred sectors."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964205360-0f2b9a1b4c63?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661901989603-0c5c6c9e0e8a?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sector 83",
+    "description": [
+      "Selecting the right plot size plays a major role when searching for a house for rent in Sector 83 Gurugram, as it directly affects comfort, privacy, and rental budget.",
+      "Sector 83 offers independent houses in multiple Marla sizes, catering to small families, growing households, and tenants looking for premium rental homes."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 83 Gurugram",
+        "description": "A 4 Marla house for rent in Sector 83 Gurugram is suitable for couples and small families looking for affordable rental options in a well-connected locality."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 83 Gurugram",
+        "description": "6 Marla houses offer a comfortable balance of space and budget, making them ideal for nuclear families and working professionals."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 83 Gurugram",
+        "description": "An 8 Marla house for rent provides spacious rooms, better ventilation, and a more comfortable lifestyle for medium-sized families."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 83 Gurugram",
+        "description": "10 Marla houses are preferred by tenants who want larger living areas, parking space, and enhanced privacy."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 83 Gurugram",
+        "description": "12 Marla houses fall under the premium rental segment, offering expansive layouts and a refined living experience."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 83 Gurugram",
+        "description": "A 14 Marla house for rent in Sector 83 Gurugram is ideal for large or joint families seeking luxury, space, and exclusivity."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 83 Gurugram",
+    "description": [
+      "While searching for a house for rent in Sector 83 Gurugram, many tenants also explore nearby sectors to compare rental values and lifestyle benefits.",
+      "This section highlights nearby residential areas to help users find the most suitable rental home around Sector 83."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 83 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 82 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 84 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent near Dwarka Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 85 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 86 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent near NH-48 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in New Gurugram Area", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sector 83 Rental Homes",
+    "description": [
+      "Finding a genuine house for rent in Sector 83 Gurugram requires a platform that offers verified listings, accurate information, and complete transparency. Deal Acres focuses on building trust through reliability and customer satisfaction.",
+      "With deep knowledge of Gurugram’s rental market and a tenant-first approach, Deal Acres has become a preferred choice for renting independent houses in Sector 83."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "Every house listing is verified to ensure authenticity and ownership clarity."
+      },
+      {
+        "title": "Transparent Rental Pricing",
+        "description": "Clear details on rent, security deposit, and rental terms with no hidden charges."
+      },
+      {
+        "title": "Strong Local Expertise",
+        "description": "In-depth understanding of Sector 83 and nearby residential areas."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "User-friendly filters and smooth navigation for quick property discovery."
+      },
+      {
+        "title": "Tenant-Focused Recommendations",
+        "description": "Property suggestions based on budget, family size, and lifestyle needs."
+      },
+      {
+        "title": "Complete Documentation Support",
+        "description": "Assistance with rental agreements and necessary paperwork."
+      },
+      {
+        "title": "End-to-End Rental Assistance",
+        "description": "Support from initial search to final possession of the house."
+      },
+      {
+        "title": "Trusted by Thousands of Renters",
+        "description": "Deal Acres is known for reliability, service quality, and customer trust."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 83",
+    "description": "Answers to common tenant queries related to house for rent in Sector 83 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 83 Gurugram a good area to rent a house?",
+        "answer": "Yes, Sector 83 is a well-planned and well-connected area, making it a preferred choice for tenants."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 83?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are commonly available for rent."
+      },
+      {
+        "question": "Is Sector 83 suitable for families?",
+        "answer": "Yes, the area has schools, hospitals, parks, and daily convenience stores nearby."
+      },
+      {
+        "question": "Are furnished houses available in Sector 83?",
+        "answer": "Yes, furnished, semi-furnished, and unfurnished houses are available depending on the property."
+      },
+      {
+        "question": "What is the average rent in Sector 83 Gurugram?",
+        "answer": "Rental prices vary based on house size, amenities, and exact location within the sector."
+      },
+      {
+        "question": "How is connectivity from Sector 83?",
+        "answer": "Sector 83 has excellent connectivity via Dwarka Expressway, NH-48, and major city roads."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sector 83?",
+        "answer": "Some landlords allow bachelors, while others prefer families."
+      },
+      {
+        "question": "Is Sector 83 a safe area for tenants?",
+        "answer": "Yes, it is a secure and well-populated residential area with good infrastructure."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent details, and expert rental assistance."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 83?",
+        "answer": "You can fill out the contact form to connect with experienced rental consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sector 83 Gurugram",
+    "description": [
+      "Finding the right house for rent in Sector 83 Gurugram becomes easy with expert guidance and verified listings.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that matches your budget, space requirements, and lifestyle preferences."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

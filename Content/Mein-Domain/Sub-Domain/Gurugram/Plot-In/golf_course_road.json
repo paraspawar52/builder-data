@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Luxury Residential and Investment Plots on Prime Golf Course Road Gurugram",
+    "description": [
+      "Golf Course Road Gurugram is one of the most prestigious and high-demand real estate corridors in the city. Known for its premium surroundings, seamless connectivity, and elite lifestyle, this location attracts buyers looking for a high-value plot in Golf Course Road Gurugram. The area offers direct access to Rapid Metro, major business hubs, top corporate offices, luxury malls, five-star hotels, and reputed educational institutions, making it ideal for both residential and investment purposes.",
+      "Plots along Golf Course Road are extremely limited and highly sought after due to the mature infrastructure and upscale neighborhood. Whether you plan to build a luxury independent villa or secure a land asset with assured appreciation, investing in a plot here ensures exclusivity, superior lifestyle, and long-term real estate stability in one of Gurugram’s most premium locations."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots on Golf Course Road",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Plot Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Size Options Available on Golf Course Road Gurugram",
+    "description": [
+      "Choosing the right plot size on Golf Course Road Gurugram is essential for luxury living, architectural planning, and long-term value.",
+      "The area offers premium plot sizes designed for high-end residential construction and elite investment."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot on Golf Course Road Gurugram",
+        "description": "A 4 Marla plot on Golf Course Road Gurugram is ideal for buyers seeking compact luxury living in a prime location. These plots are suitable for modern, efficiently designed independent homes and offer excellent resale demand due to the prestige of the address."
+      },
+      {
+        "title": "6 Marla Plot on Golf Course Road Gurugram",
+        "description": "6 Marla plots provide a perfect balance between space and premium location. Buyers can build comfortable independent houses with modern layouts while enjoying the advantages of Golf Course Road connectivity and surroundings."
+      },
+      {
+        "title": "8 Marla Plot on Golf Course Road Gurugram",
+        "description": "An 8 Marla plot allows greater flexibility for spacious home designs. These plots are preferred by families planning elegant residences with better ventilation, parking space, and premium construction standards."
+      },
+      {
+        "title": "10 Marla Plot on Golf Course Road Gurugram",
+        "description": "10 Marla plots fall under the premium category and are ideal for luxury independent villas. Limited availability and prime location make these plots highly valuable for long-term appreciation."
+      },
+      {
+        "title": "12 Marla Plot on Golf Course Road Gurugram",
+        "description": "A 12 Marla plot offers ample space for high-end villas with landscaped surroundings. These plots are best suited for buyers who value exclusivity, comfort, and a refined lifestyle."
+      },
+      {
+        "title": "14 Marla Plot on Golf Course Road Gurugram",
+        "description": "14 Marla plots represent elite real estate opportunities on Golf Course Road Gurugram. These plots attract premium buyers focused on luxury living, architectural freedom, and strong investment growth."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Nearby Plot Locations Around Golf Course Road Gurugram",
+    "description": [
+      "Buyers interested in a plot in Golf Course Road Gurugram often explore nearby premium localities to compare availability and pricing.",
+      "These surrounding areas offer similar lifestyle advantages and connectivity benefits."
+    ],
+    "locations": [
+      { "title": "Plot on Golf Course Road Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 42 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 43 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in DLF Phase 1 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in DLF Phase 5 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Rapid Metro Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Central Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Cyber City Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Preferred Choice for Golf Course Road Plots",
+    "description": [
+      "Buying a plot on Golf Course Road Gurugram requires expert guidance, verified listings, and complete legal clarity.",
+      "Deal Acres has earned strong buyer trust by delivering transparent, reliable, and professional real estate services."
+    ],
+    "points": [
+      {
+        "title": "Verified Premium Plot Listings",
+        "description": "All plots are thoroughly verified for ownership, approvals, and legal authenticity."
+      },
+      {
+        "title": "Complete Pricing Transparency",
+        "description": "Clear and honest pricing ensures buyers face no hidden costs."
+      },
+      {
+        "title": "Expert Knowledge of Golf Course Road",
+        "description": "Deep understanding of the local premium real estate market."
+      },
+      {
+        "title": "Access to Exclusive Plot Options",
+        "description": "Deal Acres offers access to limited and high-value plot opportunities."
+      },
+      {
+        "title": "Legal & Documentation Support",
+        "description": "End-to-end assistance with paperwork, registry, and compliance."
+      },
+      {
+        "title": "Personalized Buying Guidance",
+        "description": "Plot recommendations tailored to lifestyle and investment goals."
+      },
+      {
+        "title": "End-to-End Transaction Support",
+        "description": "Support from initial inquiry to final possession."
+      },
+      {
+        "title": "Trusted by Premium Buyers",
+        "description": "Deal Acres is known for trust, professionalism, and long-term customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots on Golf Course Road Gurugram",
+    "description": "Common buyer questions related to plot purchase on Golf Course Road Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Golf Course Road a good location to buy a plot?",
+        "answer": "Yes, Golf Course Road is one of Gurugram’s most premium and prestigious locations with excellent appreciation potential."
+      },
+      {
+        "question": "What plot sizes are available on Golf Course Road Gurugram?",
+        "answer": "Plot sizes generally range from 4 Marla to 14 Marla, subject to availability."
+      },
+      {
+        "question": "Is Golf Course Road suitable for luxury villa construction?",
+        "answer": "Yes, the area is ideal for luxury independent villas and premium residences."
+      },
+      {
+        "question": "Is buying a plot on Golf Course Road a good investment?",
+        "answer": "Due to limited supply and high demand, plots here offer strong long-term returns."
+      },
+      {
+        "question": "Are plots on Golf Course Road legally approved?",
+        "answer": "Most plots have clear titles, but professional legal verification is recommended."
+      },
+      {
+        "question": "How is connectivity from Golf Course Road?",
+        "answer": "The area offers excellent connectivity via Rapid Metro, NH-48, and major city roads."
+      },
+      {
+        "question": "What amenities are available nearby?",
+        "answer": "Luxury malls, schools, hospitals, offices, and entertainment hubs are nearby."
+      },
+      {
+        "question": "Can construction start immediately after purchase?",
+        "answer": "Construction depends on local building norms and necessary approvals."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres offers verified listings, transparent processes, and expert guidance."
+      },
+      {
+        "question": "How can I contact a plot expert?",
+        "answer": "Fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Assistance for Buying Plots on Golf Course Road Gurugram",
+    "description": [
+      "Buying a premium plot on Golf Course Road Gurugram becomes seamless with expert guidance.",
+      "Share your details to connect with trusted property advisors who will help you find verified plots that match your lifestyle and investment goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

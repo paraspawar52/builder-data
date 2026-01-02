@@ -1,0 +1,175 @@
+{
+  "domain": "Affordablehouseforsalecom",
+
+  "hero": {
+    "title": "Affordable and Well Planned Houses for Sale in Sector 91 Gurugram",
+    "description": [
+      "Sector 91 Gurugram is a fast-developing residential locality in New Gurugram, preferred for its planned infrastructure, excellent road connectivity, and availability of budget-friendly housing options. Buyers looking for an affordable house for sale in Sector 91 Gurugram are drawn to its proximity to Dwarka Expressway, NH-48, and key employment hubs of Gurugram and Manesar. The sector is surrounded by wide roads, green belts, schools, healthcare facilities, and shopping complexes, making daily life comfortable and convenient for families.",
+      "Affordable houses for sale in Sector 91 Gurugram offer a perfect blend of modern living and value pricing. The locality is witnessing steady development with improved civic amenities and increasing residential demand. Buying a house in Sector 91 is a smart choice for first-time homebuyers and investors seeking long-term appreciation, peaceful surroundings, and reliable connectivity in one of Gurugram’s most promising residential zones."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Size Options Available in Sector 91 Gurugram",
+    "description": [
+      "Choosing the right house size in Sector 91 Gurugram depends on budget, family size, and long-term living requirements.",
+      "The sector offers multiple affordable house configurations to match different lifestyle and space needs."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House for Sale in Sector 91 Gurugram",
+        "description": "A 4 Marla affordable house in Sector 91 Gurugram is ideal for small families and first-time buyers seeking economical home ownership with essential modern amenities."
+      },
+      {
+        "title": "6 Marla Affordable House for Sale in Sector 91 Gurugram",
+        "description": "6 Marla houses provide a balanced combination of affordability and usable living space, making them suitable for working professionals and growing families."
+      },
+      {
+        "title": "8 Marla Affordable House for Sale in Sector 91 Gurugram",
+        "description": "An 8 Marla affordable house offers better room layouts, parking convenience, and flexibility for future home expansion."
+      },
+      {
+        "title": "10 Marla Affordable House for Sale in Sector 91 Gurugram",
+        "description": "10 Marla houses deliver spacious interiors and improved lifestyle comfort while remaining budget-friendly compared to central Gurugram areas."
+      },
+      {
+        "title": "12 Marla Affordable House for Sale in Sector 91 Gurugram",
+        "description": "A 12 Marla affordable house is perfect for families seeking larger living spaces, privacy, and long-term residential stability."
+      },
+      {
+        "title": "14 Marla Affordable House for Sale in Sector 91 Gurugram",
+        "description": "14 Marla houses are suitable for buyers looking for expansive homes with strong resale value and future appreciation potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses Near Sector 91 Gurugram",
+    "description": [
+      "Buyers interested in affordable houses in Sector 91 Gurugram often explore nearby sectors to compare pricing, connectivity, and amenities.",
+      "These surrounding areas further enhance the residential and investment appeal of Sector 91."
+    ],
+    "locations": [
+      { "title": "Affordable House for Sale in Sector 91 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 90 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 92 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 93 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Dwarka Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House in New Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Budget Homes in Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Affordable Houses in Sector 91",
+    "description": [
+      "Buying an affordable house for sale in Sector 91 Gurugram requires verified listings, transparent pricing, and expert local guidance.",
+      "Deal Acres is trusted by buyers for its ethical practices and customer-focused real estate services."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All affordable houses are checked for legal approvals, clear ownership, and proper documentation."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "No hidden costs, ensuring complete pricing clarity for buyers."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth knowledge of Sector 91 property trends and growth potential."
+      },
+      {
+        "title": "Wide Property Choices",
+        "description": "Multiple affordable house options across various plot sizes."
+      },
+      {
+        "title": "Legal and Registry Support",
+        "description": "Assistance with documentation, registry, and compliance processes."
+      },
+      {
+        "title": "Personalized Property Guidance",
+        "description": "Property suggestions based on buyer budget, usage, and future goals."
+      },
+      {
+        "title": "End-to-End Buying Assistance",
+        "description": "Support from property shortlisting to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for transparency, reliability, and long-term customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Sector 91 Gurugram",
+    "description": "Helpful answers to common buyer queries for confident property decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 91 Gurugram a good area for buying an affordable house?",
+        "answer": "Yes, Sector 91 offers modern infrastructure, good connectivity, and affordable housing suitable for families and investors."
+      },
+      {
+        "question": "What house sizes are available in Sector 91 Gurugram?",
+        "answer": "Affordable houses are generally available from 4 Marla to 14 Marla, depending on project availability."
+      },
+      {
+        "question": "Is Sector 91 suitable for family living?",
+        "answer": "Yes, the sector has access to schools, hospitals, parks, shopping areas, and daily convenience facilities."
+      },
+      {
+        "question": "Are affordable houses in Sector 91 legally approved?",
+        "answer": "Most properties are approved, and Deal Acres assists buyers with proper legal verification."
+      },
+      {
+        "question": "How is connectivity from Sector 91 Gurugram?",
+        "answer": "Sector 91 enjoys smooth connectivity via Dwarka Expressway, NH-48, and internal road networks."
+      },
+      {
+        "question": "Is buying an affordable house in Sector 91 a good investment?",
+        "answer": "With growing residential demand and infrastructure development, Sector 91 offers good appreciation potential."
+      },
+      {
+        "question": "Are home loans available for houses in Sector 91?",
+        "answer": "Yes, leading banks and financial institutions provide home loan options for eligible properties."
+      },
+      {
+        "question": "What amenities are available near Sector 91?",
+        "answer": "The area offers schools, hospitals, shopping complexes, parks, and public transport facilities."
+      },
+      {
+        "question": "Why should I choose Deal Acres for buying an affordable house?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, legal assistance, and end-to-end buyer support."
+      },
+      {
+        "question": "How can I contact experts for affordable houses in Sector 91 Gurugram?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for Affordable Houses in Sector 91 Gurugram",
+    "description": [
+      "Finding the right affordable house for sale in Sector 91 Gurugram becomes easy with professional guidance.",
+      "Share your details to connect with trusted property experts who will help you explore verified homes that match your budget and lifestyle."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

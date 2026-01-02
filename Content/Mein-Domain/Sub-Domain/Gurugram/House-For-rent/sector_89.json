@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Peaceful And Well Connected Houses for Rent in Sector 89 Gurugram",
+    "description": [
+      "Sector 89 Gurugram is a well-planned residential locality located in New Gurugram, known for its calm surroundings, modern infrastructure, and smooth connectivity. Tenants searching for a house for rent in Sector 89 Gurugram often choose this area because it offers a balanced lifestyle with access to Dwarka Expressway, Pataudi Road, and NH-48. The sector is developing rapidly and is surrounded by residential societies, green belts, and essential urban facilities.",
+      "Independent houses in Sector 89 are designed to meet the needs of families, professionals, and long-term tenants who prefer privacy and comfort. The locality is close to schools, hospitals, daily markets, shopping complexes, and public transport options, making everyday living convenient. Opting for a house for rent in Sector 89 Gurugram is a smart choice for those seeking affordability, good neighborhood planning, and future-ready infrastructure in Gurugram."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964205360-0f2b9a1b4c63?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661901989603-0c5c6c9e0e8a?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sector 89",
+    "description": [
+      "When looking for a house for rent in Sector 89 Gurugram, choosing the right plot size plays a crucial role in determining comfort, space utilization, and rental budget.",
+      "Sector 89 offers independent houses in multiple Marla sizes, making it suitable for small families, growing households, and tenants seeking spacious premium homes."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 89 Gurugram",
+        "description": "A 4 Marla house for rent in Sector 89 Gurugram is ideal for couples and small families looking for affordable housing with easy maintenance. These houses offer functional layouts, essential amenities, and good connectivity to nearby markets and transport routes, making them a practical choice for budget-conscious tenants."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 89 Gurugram",
+        "description": "6 Marla houses provide a comfortable balance between space and affordability. Suitable for nuclear families, these homes usually offer better room sizes, parking space, and a peaceful residential environment while remaining close to major roads and daily conveniences."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 89 Gurugram",
+        "description": "An 8 Marla house for rent in Sector 89 Gurugram offers spacious interiors, improved ventilation, and enhanced privacy. These homes are ideal for medium-sized families seeking comfortable living with modern surroundings and well-planned neighborhood infrastructure."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 89 Gurugram",
+        "description": "10 Marla houses are preferred by tenants who want larger living areas, multiple bedrooms, and dedicated parking. These houses provide a premium rental experience and are suitable for families that value space and comfort."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 89 Gurugram",
+        "description": "A 12 Marla house for rent in Sector 89 Gurugram falls under the premium rental segment. These homes offer expansive layouts, modern construction, and a refined lifestyle, making them ideal for large families and long-term tenants."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 89 Gurugram",
+        "description": "A 14 Marla house for rent in Sector 89 Gurugram is best suited for joint or large families seeking luxury, privacy, and ample space. These houses offer superior comfort, open areas, and a prestigious residential feel."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 89 Gurugram",
+    "description": [
+      "While searching for a house for rent in Sector 89 Gurugram, many tenants explore nearby sectors to compare rental values, amenities, and connectivity advantages.",
+      "This section showcases nearby residential locations to help users discover the best rental options around Sector 89."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 89 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 90 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 88 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent near Dwarka Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 91 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 92 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent near Pataudi Road", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in New Gurugram Area", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sector 89 Rental Homes",
+    "description": [
+      "Finding a reliable house for rent in Sector 89 Gurugram requires verified listings, transparent pricing, and expert local guidance. Deal Acres is built on trust, accuracy, and a customer-first approach.",
+      "With deep understanding of the Gurugram rental market, Deal Acres has become a preferred platform for tenants looking for genuine and hassle-free rental homes in Sector 89."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All houses listed on Deal Acres are verified for authenticity, ensuring tenants deal only with genuine properties."
+      },
+      {
+        "title": "Transparent Rental Details",
+        "description": "Clear information on rent, security deposit, and rental terms helps tenants make informed decisions."
+      },
+      {
+        "title": "Local Area Expertise",
+        "description": "Strong knowledge of Sector 89 and nearby localities ensures accurate property recommendations."
+      },
+      {
+        "title": "Easy And Fast Search",
+        "description": "User-friendly filters and location-based search simplify the rental house hunting process."
+      },
+      {
+        "title": "Tenant-Focused Approach",
+        "description": "Deal Acres prioritizes tenant needs, budget, and lifestyle preferences."
+      },
+      {
+        "title": "Documentation Assistance",
+        "description": "Support with rental agreements and paperwork ensures a smooth transaction."
+      },
+      {
+        "title": "End-To-End Support",
+        "description": "Assistance from initial inquiry to final possession provides a stress-free rental experience."
+      },
+      {
+        "title": "Trusted By Thousands Of Users",
+        "description": "Deal Acres has earned strong trust through consistent service quality and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 89",
+    "description": "Common tenant queries related to house for rent in Sector 89 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 89 Gurugram a good area to rent a house?",
+        "answer": "Yes, Sector 89 is a well-planned and developing residential area with good connectivity and essential amenities, making it suitable for renting."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 89?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are commonly available in Sector 89 Gurugram."
+      },
+      {
+        "question": "Is Sector 89 suitable for family living?",
+        "answer": "Yes, the area is family-friendly with schools, hospitals, parks, and markets located nearby."
+      },
+      {
+        "question": "Are furnished houses available in Sector 89?",
+        "answer": "Yes, furnished, semi-furnished, and unfurnished rental houses are available depending on the property."
+      },
+      {
+        "question": "What is the average rent in Sector 89 Gurugram?",
+        "answer": "Rental prices vary based on plot size, property condition, and exact location within the sector."
+      },
+      {
+        "question": "How is connectivity from Sector 89?",
+        "answer": "Sector 89 enjoys good connectivity via Dwarka Expressway, Pataudi Road, and NH-48."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sector 89?",
+        "answer": "Some landlords allow bachelors, while others prefer families depending on house rules."
+      },
+      {
+        "question": "Is Sector 89 safe for tenants?",
+        "answer": "Yes, Sector 89 is a safe and well-populated residential area with planned development."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent information, and expert rental assistance."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 89?",
+        "answer": "You can fill out the contact form to connect with experienced rental consultants for Sector 89."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sector 89 Gurugram",
+    "description": [
+      "Finding the right house for rent in Sector 89 Gurugram becomes easier with professional guidance and verified listings.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that fits your budget, space requirements, and lifestyle needs."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

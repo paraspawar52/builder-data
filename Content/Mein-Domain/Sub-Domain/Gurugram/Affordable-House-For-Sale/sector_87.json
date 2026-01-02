@@ -1,0 +1,175 @@
+{
+  "domain": "Affordablehouseforsalecom",
+
+  "hero": {
+    "title": "Affordable Independent Houses for Sale in Sector 87 Gurugram",
+    "description": [
+      "Sector 87 Gurugram is a rapidly developing residential hub in New Gurugram, known for its planned infrastructure, wide roads, and strong connectivity to Dwarka Expressway and NH-48. Homebuyers searching for an affordable house for sale in Sector 87 Gurugram are drawn to the area due to its proximity to commercial zones, reputed schools, hospitals, and upcoming retail developments. The sector offers a balanced lifestyle where modern living meets everyday convenience.",
+      "Affordable houses for sale in Sector 87 Gurugram are ideal for families and investors looking for independent living at competitive prices. With continuous infrastructure upgrades and growing residential demand, Sector 87 promises steady appreciation and long-term value. The presence of parks, open spaces, and well-planned neighborhoods makes it a preferred choice for buyers who want comfort, connectivity, and future growth potential in one location."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Size Options Available in Sector 87 Gurugram",
+    "description": [
+      "Choosing the right house size in Sector 87 Gurugram depends on family requirements, lifestyle preferences, and budget considerations.",
+      "The locality offers a wide range of independent house sizes that cater to both end-users and investors."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House for Sale in Sector 87 Gurugram",
+        "description": "A 4 Marla affordable house in Sector 87 Gurugram is suitable for small families and first-time buyers seeking budget-friendly independent homes with essential amenities nearby."
+      },
+      {
+        "title": "6 Marla Affordable House for Sale in Sector 87 Gurugram",
+        "description": "6 Marla houses offer a well-balanced layout with sufficient living space, making them ideal for nuclear families."
+      },
+      {
+        "title": "8 Marla Affordable House for Sale in Sector 87 Gurugram",
+        "description": "An 8 Marla house provides spacious rooms, better ventilation, and parking convenience for comfortable family living."
+      },
+      {
+        "title": "10 Marla Affordable House for Sale in Sector 87 Gurugram",
+        "description": "10 Marla houses are preferred by buyers looking for larger living areas and strong resale potential."
+      },
+      {
+        "title": "12 Marla Affordable House for Sale in Sector 87 Gurugram",
+        "description": "A 12 Marla house is ideal for families seeking enhanced privacy, bigger interiors, and long-term value."
+      },
+      {
+        "title": "14 Marla Affordable House for Sale in Sector 87 Gurugram",
+        "description": "14 Marla houses cater to buyers who want premium independent living in a well-planned and growing neighborhood."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses Near Sector 87 Gurugram",
+    "description": [
+      "Buyers interested in affordable houses for sale in Sector 87 Gurugram often explore nearby sectors for better comparison and availability.",
+      "These surrounding locations enhance connectivity and lifestyle choices."
+    ],
+    "locations": [
+      { "title": "Affordable House for Sale in Sector 87 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 86 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 88 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 89 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Dwarka Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Budget Independent Homes in New Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable Houses near IMT Manesar", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Affordable Houses in Sector 87",
+    "description": [
+      "Buying an affordable house for sale in Sector 87 Gurugram requires trusted listings, clear pricing, and local expertise.",
+      "Deal Acres is preferred by buyers for its transparent approach and verified property options."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "Each property is verified for ownership, approvals, and documentation clarity."
+      },
+      {
+        "title": "Transparent Pricing Policy",
+        "description": "No hidden charges with honest and clear pricing structures."
+      },
+      {
+        "title": "Strong Local Market Expertise",
+        "description": "In-depth knowledge of Sector 87 property trends and future developments."
+      },
+      {
+        "title": "Wide Range of Affordable Options",
+        "description": "Multiple house sizes available to suit different budgets and needs."
+      },
+      {
+        "title": "Legal and Registry Support",
+        "description": "Complete assistance with legal verification and registry process."
+      },
+      {
+        "title": "Personalized Buying Guidance",
+        "description": "Property recommendations tailored to family and investment goals."
+      },
+      {
+        "title": "End-to-End Buying Assistance",
+        "description": "Support from property search to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for ethical practices and long-term customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Sector 87 Gurugram",
+    "description": "Detailed answers to common questions to help buyers make confident property decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 87 Gurugram a good location to buy an affordable house?",
+        "answer": "Yes, Sector 87 is a fast-growing residential area with strong connectivity, modern infrastructure, and future appreciation potential."
+      },
+      {
+        "question": "What house sizes are available in Sector 87 Gurugram?",
+        "answer": "Independent houses are generally available from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Is Sector 87 suitable for family living?",
+        "answer": "Yes, the sector offers a peaceful environment with access to schools, hospitals, parks, and daily conveniences."
+      },
+      {
+        "question": "Are properties in Sector 87 legally approved?",
+        "answer": "Most properties are approved, and Deal Acres assists buyers with complete legal verification."
+      },
+      {
+        "question": "How is connectivity from Sector 87 Gurugram?",
+        "answer": "Sector 87 is well-connected via Dwarka Expressway, NH-48, and internal sector roads."
+      },
+      {
+        "question": "Is buying a house in Sector 87 a good investment?",
+        "answer": "Yes, increasing demand and infrastructure growth support long-term appreciation."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 87?",
+        "answer": "Yes, home loans are available from leading banks for eligible properties."
+      },
+      {
+        "question": "What amenities are available near Sector 87?",
+        "answer": "The area offers schools, hospitals, shopping complexes, parks, and public transport facilities."
+      },
+      {
+        "question": "Why should I choose Deal Acres for Sector 87 properties?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, and complete buying support."
+      },
+      {
+        "question": "How can I contact property experts for Sector 87 Gurugram?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Affordable Houses in Sector 87 Gurugram",
+    "description": [
+      "Finding the right affordable house for sale in Sector 87 Gurugram becomes easier with expert guidance.",
+      "Share your details to connect with trusted real estate professionals and explore verified housing options with confidence."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

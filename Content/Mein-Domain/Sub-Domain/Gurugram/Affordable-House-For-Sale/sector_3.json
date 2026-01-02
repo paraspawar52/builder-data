@@ -1,0 +1,175 @@
+{
+  "domain": "Affordablehouseforsalecom",
+
+  "hero": {
+    "title": "Affordable Independent Houses for Sale in Sector 3 Gurugram",
+    "description": [
+      "Sector 3 Gurugram is a well-established residential locality known for its peaceful environment, organized infrastructure, and easy access to major city routes. Buyers searching for an affordable house for sale in Sector 3 Gurugram are attracted by its proximity to Old Gurugram, NH-48, Palam Vihar, and key commercial zones. The sector is surrounded by essential amenities such as schools, hospitals, local markets, banks, and public transport, making it a convenient choice for families and working professionals.",
+      "Affordable houses for sale in Sector 3 Gurugram offer independent living at reasonable pricing in a mature residential setup. The area has steady housing demand due to limited inventory and its central connectivity. Whether for self-use or long-term investment, Sector 3 provides stability, daily convenience, and consistent appreciation, making it a reliable option for budget-conscious homebuyers in Gurugram."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1599423300746-b62533397364?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Size Options Available in Sector 3 Gurugram",
+    "description": [
+      "Choosing the right house size in Sector 3 Gurugram helps buyers balance budget, comfort, and long-term usability.",
+      "The locality offers multiple affordable independent house configurations suitable for different family sizes."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House for Sale in Sector 3 Gurugram",
+        "description": "A 4 Marla affordable house in Sector 3 Gurugram is ideal for small families or first-time buyers seeking independent living."
+      },
+      {
+        "title": "6 Marla Affordable House for Sale in Sector 3 Gurugram",
+        "description": "6 Marla houses provide a practical layout with comfortable living space for nuclear families."
+      },
+      {
+        "title": "8 Marla Affordable House for Sale in Sector 3 Gurugram",
+        "description": "An 8 Marla house offers better room planning, parking convenience, and enhanced residential comfort."
+      },
+      {
+        "title": "10 Marla Affordable House for Sale in Sector 3 Gurugram",
+        "description": "10 Marla houses are preferred by buyers looking for spacious interiors and long-term family living."
+      },
+      {
+        "title": "12 Marla Affordable House for Sale in Sector 3 Gurugram",
+        "description": "A 12 Marla house delivers premium space with strong resale and rental potential due to location demand."
+      },
+      {
+        "title": "14 Marla Affordable House for Sale in Sector 3 Gurugram",
+        "description": "14 Marla houses suit buyers seeking larger independent homes with privacy and appreciation value."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses Near Sector 3 Gurugram",
+    "description": [
+      "Buyers considering affordable houses for sale in Sector 3 Gurugram often explore nearby residential areas.",
+      "These locations offer similar connectivity, infrastructure, and housing demand."
+    ],
+    "locations": [
+      { "title": "Affordable House for Sale in Sector 3 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Palam Vihar Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 4 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Old Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses in Old Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Budget Homes in Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable Independent Houses in Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Houses in Sector 3 Gurugram",
+    "description": [
+      "Buying an affordable house for sale in Sector 3 Gurugram requires verified listings and local expertise.",
+      "Deal Acres is trusted for transparent transactions and customer-first property solutions."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "Each property is verified for ownership and legal clarity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "No hidden charges, ensuring buyer confidence and trust."
+      },
+      {
+        "title": "Local Market Knowledge",
+        "description": "Accurate pricing insights based on Sector 3 trends."
+      },
+      {
+        "title": "Multiple House Options",
+        "description": "Wide range of house sizes and budgets available."
+      },
+      {
+        "title": "Legal Documentation Support",
+        "description": "Complete assistance with paperwork and registry."
+      },
+      {
+        "title": "Personalized Property Guidance",
+        "description": "Recommendations aligned with buyer needs and budget."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from search to possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for reliability and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Sector 3 Gurugram",
+    "description": "Detailed answers to help buyers make informed property decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 3 Gurugram a good location to buy an affordable house?",
+        "answer": "Yes, Sector 3 is a well-established area with good connectivity, daily amenities, and stable housing demand."
+      },
+      {
+        "question": "What house sizes are available in Sector 3 Gurugram?",
+        "answer": "Affordable houses generally range from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Is Sector 3 suitable for family living?",
+        "answer": "Yes, it offers a peaceful environment with schools, hospitals, and markets nearby."
+      },
+      {
+        "question": "Are houses in Sector 3 legally approved?",
+        "answer": "Most properties are approved, and Deal Acres assists with complete legal verification."
+      },
+      {
+        "question": "How is connectivity from Sector 3 Gurugram?",
+        "answer": "Sector 3 connects well to NH-48, Old Gurugram, Palam Vihar, and public transport routes."
+      },
+      {
+        "question": "Is Sector 3 a good investment option?",
+        "answer": "Yes, limited supply and steady demand support long-term appreciation and rental income."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 3?",
+        "answer": "Yes, most banks and financial institutions provide home loans for eligible properties."
+      },
+      {
+        "question": "What amenities are available near Sector 3?",
+        "answer": "Nearby amenities include schools, hospitals, local markets, parks, and transport facilities."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and complete buyer support."
+      },
+      {
+        "question": "How can I contact property experts?",
+        "answer": "Fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Affordable Houses in Sector 3 Gurugram",
+    "description": [
+      "Finding the right affordable house for sale in Sector 3 Gurugram becomes easier with expert assistance.",
+      "Share your details to connect with trusted real estate professionals and explore verified listings."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

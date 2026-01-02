@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Peaceful Independent Houses for Rent in Palam Vihar Extension Gurugram",
+    "description": [
+      "Palam Vihar Extension Gurugram is a rapidly developing residential locality known for its calm surroundings, planned infrastructure, and excellent connectivity. People looking for a house for rent in Palam Vihar Extension Gurugram prefer this area due to its close proximity to Dwarka Expressway, NH-48, Palam Vihar, and key commercial zones of Gurugram. The locality offers smooth road access, nearby schools, hospitals, and daily convenience markets, making everyday life comfortable for families and professionals.",
+      "Independent houses in Palam Vihar Extension provide spacious layouts, better ventilation, and a peaceful neighborhood environment away from city congestion. The area is ideal for families, working professionals, and tenants seeking long-term rental stability. Choosing a house for rent in Palam Vihar Extension Gurugram ensures a balanced lifestyle with affordability, connectivity, and a well-settled residential feel."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Palam Vihar Extension",
+    "description": [
+      "Selecting the right plot size is an important step when searching for a house for rent in Palam Vihar Extension Gurugram, as it directly impacts comfort, space, and monthly rental budget.",
+      "Palam Vihar Extension offers independent houses in multiple plot sizes, suitable for small families, growing households, and tenants looking for spacious living."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Palam Vihar Extension",
+        "description": "A 4 Marla house for rent in Palam Vihar Extension Gurugram is suitable for couples or small families looking for an affordable and easy-to-maintain home."
+      },
+      {
+        "title": "6 Marla House for Rent in Palam Vihar Extension",
+        "description": "6 Marla houses offer a comfortable balance between space and affordability, ideal for nuclear families."
+      },
+      {
+        "title": "8 Marla House for Rent in Palam Vihar Extension",
+        "description": "An 8 Marla rental house provides spacious rooms, better ventilation, and functional layouts for long-term living."
+      },
+      {
+        "title": "10 Marla House for Rent in Palam Vihar Extension",
+        "description": "10 Marla houses are preferred by tenants who want larger living areas, parking space, and enhanced privacy."
+      },
+      {
+        "title": "12 Marla House for Rent in Palam Vihar Extension",
+        "description": "12 Marla houses fall into the premium category, offering open spaces, modern construction, and lifestyle comfort."
+      },
+      {
+        "title": "14 Marla House for Rent in Palam Vihar Extension",
+        "description": "A 14 Marla house for rent is ideal for large families or tenants seeking maximum space and a peaceful environment."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Palam Vihar Extension Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in Palam Vihar Extension Gurugram often explore nearby localities to compare rental options and connectivity advantages.",
+      "This section highlights surrounding residential areas to help users choose the most suitable rental location."
+    ],
+    "locations": [
+      { "title": "House for Rent in Palam Vihar Extension Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Palam Vihar Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent near Dwarka Expressway", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 23 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 22 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Bijwasan", "path": "/", "icon": "Building" },
+      { "title": "House for Rent near NH-48", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent near IGI Airport", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Palam Vihar Extension Rentals",
+    "description": [
+      "Finding a genuine house for rent in Palam Vihar Extension Gurugram requires verified listings, transparent pricing, and reliable local market expertise. Deal Acres is built on trust and clarity.",
+      "With strong knowledge of Gurugram’s rental market, Deal Acres has become a preferred choice for tenants seeking independent houses."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "All properties are verified for ownership, availability, and authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear rental details help tenants make confident decisions."
+      },
+      {
+        "title": "Local Area Expertise",
+        "description": "Deep understanding of Palam Vihar Extension ensures accurate guidance."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "User-friendly tools make finding the right house quick and simple."
+      },
+      {
+        "title": "Tenant-Centric Approach",
+        "description": "Recommendations are tailored to tenant budget and lifestyle needs."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Assistance with rental agreements and paperwork."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from property search to final move-in."
+      },
+      {
+        "title": "Trusted by Renters",
+        "description": "Deal Acres is known for reliability, transparency, and satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Palam Vihar Extension",
+    "description": "Common tenant questions related to house for rent in Palam Vihar Extension Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Palam Vihar Extension a good area to rent a house?",
+        "answer": "Yes, it is a peaceful and well-connected locality suitable for families and professionals."
+      },
+      {
+        "question": "What types of houses are available for rent in Palam Vihar Extension?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Palam Vihar Extension suitable for family living?",
+        "answer": "Yes, the area has schools, hospitals, parks, and daily markets nearby."
+      },
+      {
+        "question": "Are furnished houses available in Palam Vihar Extension?",
+        "answer": "Furnished and semi-furnished options are available depending on the property."
+      },
+      {
+        "question": "What is the average rent in Palam Vihar Extension Gurugram?",
+        "answer": "Rent depends on plot size and property condition, but the area offers good value for money."
+      },
+      {
+        "question": "How is connectivity from Palam Vihar Extension?",
+        "answer": "The locality is well-connected via Dwarka Expressway, NH-48, and major city roads."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses here?",
+        "answer": "Some landlords allow bachelors, while others prefer families."
+      },
+      {
+        "question": "Is Palam Vihar Extension safe for tenants?",
+        "answer": "Yes, it is a well-developed and secure residential area."
+      },
+      {
+        "question": "Why choose Deal Acres for renting a house?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, and expert support."
+      },
+      {
+        "question": "How can I contact rental experts for this area?",
+        "answer": "You can fill out the contact form to connect with experienced rental consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Palam Vihar Extension",
+    "description": [
+      "Finding the right house for rent in Palam Vihar Extension Gurugram becomes easy with professional assistance.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that matches your budget, space requirements, and lifestyle."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

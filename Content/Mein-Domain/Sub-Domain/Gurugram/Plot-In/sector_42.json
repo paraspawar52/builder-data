@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Premium Residential and Investment Plots in Prime Sector 42 Gurugram",
+    "description": [
+      "Sector 42 Gurugram is one of the most prestigious and centrally located residential sectors in the city, known for its elite surroundings and excellent connectivity. Buyers searching for a plot in Sector 42 Gurugram prefer this area due to its immediate access to Golf Course Road, Rapid Metro, Cyber City, and key business districts. The sector is surrounded by luxury residential projects, green parks, top schools, multi-specialty hospitals, and high-end shopping destinations, making it ideal for premium living.",
+      "Plots in Sector 42 are limited and highly valued because of the sector’s prime location and mature infrastructure. Whether you plan to build a luxury independent villa or invest in land with assured long-term appreciation, this sector offers unmatched value. Choosing a plot in Sector 42 Gurugram means investing in exclusivity, superior lifestyle, and long-term real estate security in one of Gurugram’s most sought-after neighborhoods."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 42",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Options by Size in Sector 42 Gurugram",
+    "description": [
+      "Selecting the right plot size in Sector 42 Gurugram is essential for luxury construction, lifestyle comfort, and long-term investment planning.",
+      "Sector 42 offers premium plot sizes that cater to buyers seeking high-end independent homes in a prime central location."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 42 Gurugram",
+        "description": "A 4 Marla plot in Sector 42 Gurugram is suitable for buyers looking for compact luxury living in a highly prestigious area. These plots are ideal for efficiently designed modern homes in a prime neighborhood."
+      },
+      {
+        "title": "6 Marla Plot in Sector 42 Gurugram",
+        "description": "6 Marla plots offer a balanced combination of premium location and usable space. Buyers can plan comfortable independent homes with parking and privacy in a well-established sector."
+      },
+      {
+        "title": "8 Marla Plot in Sector 42 Gurugram",
+        "description": "An 8 Marla plot allows greater flexibility for spacious home designs. These plots are preferred by families planning elegant residences with larger rooms and open areas."
+      },
+      {
+        "title": "10 Marla Plot in Sector 42 Gurugram",
+        "description": "10 Marla plots fall into the premium category and are ideal for luxury independent houses. These plots offer excellent resale value due to limited availability."
+      },
+      {
+        "title": "12 Marla Plot in Sector 42 Gurugram",
+        "description": "A 12 Marla plot provides ample space for high-end villas with landscaped surroundings, making it suitable for joint families and premium buyers."
+      },
+      {
+        "title": "14 Marla Plot in Sector 42 Gurugram",
+        "description": "14 Marla plots represent elite investment opportunities in Sector 42 Gurugram, attracting buyers focused on exclusivity, space, and long-term appreciation."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Plot Options Near Sector 42 Gurugram",
+    "description": [
+      "Buyers interested in a plot in Sector 42 Gurugram often explore nearby premium sectors to compare availability, pricing, and lifestyle advantages.",
+      "This section highlights surrounding locations to help users make informed property decisions."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 42 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 43 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 27 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in DLF Phase 1 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Golf Course Road", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Rapid Metro", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Cyber City Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Central Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 42 Gurugram",
+    "description": [
+      "Buying a plot in Sector 42 Gurugram requires verified listings, complete legal clarity, and strong local market expertise.",
+      "Deal Acres has earned buyer trust by consistently delivering transparency, reliability, and professional guidance."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are thoroughly verified for ownership, approvals, and legal authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden charges ensures complete buyer confidence."
+      },
+      {
+        "title": "Strong Local Expertise",
+        "description": "In-depth understanding of Sector 42 Gurugram helps buyers make informed decisions."
+      },
+      {
+        "title": "Access to Premium Plots",
+        "description": "Exclusive access to limited and high-value plots in prime locations."
+      },
+      {
+        "title": "Legal and Registry Support",
+        "description": "Complete assistance with documentation, registry, and compliance."
+      },
+      {
+        "title": "Personalized Property Matching",
+        "description": "Plot recommendations based on buyer lifestyle needs and investment goals."
+      },
+      {
+        "title": "End-to-End Buying Assistance",
+        "description": "Support from property search to final possession."
+      },
+      {
+        "title": "Trusted by Premium Buyers",
+        "description": "Deal Acres is known for trust, professionalism, and long-term customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 42 Gurugram",
+    "description": "Common buyer queries related to plot purchase in Sector 42 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 42 Gurugram a good location to buy a plot?",
+        "answer": "Yes, Sector 42 is one of Gurugram’s most premium and centrally located areas with excellent connectivity and high appreciation potential."
+      },
+      {
+        "question": "What plot sizes are available in Sector 42 Gurugram?",
+        "answer": "Plots from 4 Marla to 14 Marla are available, though supply is limited due to high demand."
+      },
+      {
+        "question": "Is Sector 42 suitable for luxury home construction?",
+        "answer": "Yes, Sector 42 is ideal for luxury independent villas and premium residential construction."
+      },
+      {
+        "question": "Is buying a plot in Sector 42 a good investment?",
+        "answer": "Due to limited availability and prime location, Sector 42 offers excellent long-term investment returns."
+      },
+      {
+        "question": "Are plots in Sector 42 legally approved?",
+        "answer": "Most plots have clear titles, but verification is essential. Deal Acres assists with legal checks."
+      },
+      {
+        "question": "How is connectivity from Sector 42 Gurugram?",
+        "answer": "Sector 42 offers excellent connectivity via Golf Course Road, Rapid Metro, and NH-48."
+      },
+      {
+        "question": "Can construction start immediately after purchase?",
+        "answer": "Construction depends on local approvals and building norms. Expert guidance is provided."
+      },
+      {
+        "question": "What amenities are available near Sector 42?",
+        "answer": "Top schools, hospitals, malls, parks, and business hubs are located nearby."
+      },
+      {
+        "question": "Why should I choose Deal Acres for buying plots?",
+        "answer": "Deal Acres provides verified listings, transparent processes, and complete buyer support."
+      },
+      {
+        "question": "How can I contact plot buying experts?",
+        "answer": "You can fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Buying Plots in Sector 42 Gurugram",
+    "description": [
+      "Finding the right plot in Sector 42 Gurugram becomes effortless with expert support.",
+      "Share your details to connect with trusted property professionals who will help you find verified plots matching your lifestyle and investment goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Well Connected Independent Houses for Rent in Sector 19 Gurugram",
+    "description": [
+      "Sector 19 Gurugram is a well-established residential locality known for its central positioning, smooth connectivity, and peaceful living environment. Tenants searching for a house for rent in Sector 19 Gurugram prefer this area due to its proximity to major roads, commercial hubs, and daily convenience markets. The sector enjoys easy access to NH-48, MG Road, Udyog Vihar, and nearby employment zones, making it a practical choice for working professionals and families alike.",
+      "Independent houses in Sector 19 offer spacious layouts, privacy, and a comfortable neighborhood atmosphere. The area is surrounded by schools, hospitals, parks, and local shopping areas, ensuring all essential services are available within short distances. Choosing a house for rent in Sector 19 Gurugram means enjoying a balanced lifestyle with strong infrastructure, reliable connectivity, and a well-settled residential community."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sector 19 Gurugram",
+    "description": [
+      "Selecting the right plot size is an important step when looking for a house for rent in Sector 19 Gurugram, as it directly affects comfort, privacy, and monthly rental budget.",
+      "Sector 19 offers independent houses on rent in multiple plot sizes, catering to small families, joint families, and tenants seeking premium living."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 19 Gurugram",
+        "description": "A 4 Marla house for rent in Sector 19 Gurugram is suitable for couples or small families looking for an affordable, easy-to-maintain home in a central location."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 19 Gurugram",
+        "description": "6 Marla houses offer a good balance of space and affordability, making them ideal for nuclear families seeking comfortable living."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 19 Gurugram",
+        "description": "An 8 Marla rental house provides spacious rooms, proper ventilation, and functional layouts for long-term family living."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 19 Gurugram",
+        "description": "10 Marla houses are preferred by tenants who need larger living areas, parking space, and enhanced privacy."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 19 Gurugram",
+        "description": "12 Marla rental houses fall into the premium category, offering open spaces, modern construction, and a comfortable lifestyle."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 19 Gurugram",
+        "description": "A 14 Marla house for rent is ideal for large families or corporate tenants looking for spacious and peaceful residential options."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 19 Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in Sector 19 Gurugram often explore nearby localities to compare rental values, connectivity, and lifestyle advantages.",
+      "This section highlights nearby residential areas to help users find the most suitable rental home."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 19 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 18 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 17 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Udyog Vihar", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near MG Road", "path": "/", "icon": "Home" },
+      { "title": "House for Rent near NH-48", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 14 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent near Cyber City", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sector 19 Rental Houses",
+    "description": [
+      "Finding a genuine house for rent in Sector 19 Gurugram requires verified listings, transparent pricing, and dependable local expertise. Deal Acres focuses on building tenant trust.",
+      "With a tenant-first approach and deep understanding of Gurugram’s rental market, Deal Acres has become a preferred choice for renting independent houses."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "All properties are verified for ownership, authenticity, and availability to ensure safe renting."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear information on rent, security deposit, and terms helps tenants make confident decisions."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong knowledge of Sector 19 and nearby areas ensures accurate rental guidance."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "User-friendly platform and smart filters make property discovery quick and simple."
+      },
+      {
+        "title": "Tenant-Focused Suggestions",
+        "description": "Properties are recommended based on tenant budget, family size, and preferences."
+      },
+      {
+        "title": "Documentation Assistance",
+        "description": "Support with rental agreements and paperwork ensures a smooth process."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Complete assistance from property shortlisting to final move-in."
+      },
+      {
+        "title": "Trusted by Renters",
+        "description": "Deal Acres is known for transparency, reliability, and high customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 19 Gurugram",
+    "description": "Common tenant questions related to house for rent in Sector 19 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 19 Gurugram a good area to rent a house?",
+        "answer": "Yes, Sector 19 is a centrally located and well-developed residential area with strong connectivity and daily conveniences nearby."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 19?",
+        "answer": "Independent houses from 4 Marla to 14 Marla are commonly available for rent."
+      },
+      {
+        "question": "Is Sector 19 suitable for family living?",
+        "answer": "Yes, the area is family-friendly with schools, hospitals, parks, and markets nearby."
+      },
+      {
+        "question": "Are furnished houses available in Sector 19?",
+        "answer": "Furnished and semi-furnished houses are available depending on landlord preferences."
+      },
+      {
+        "question": "What is the average rent in Sector 19 Gurugram?",
+        "answer": "Rental values depend on plot size, condition, and exact location, offering mid-range to premium options."
+      },
+      {
+        "question": "How is connectivity from Sector 19?",
+        "answer": "Sector 19 is well-connected to NH-48, MG Road, Cyber City, and Udyog Vihar."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sector 19?",
+        "answer": "Some landlords allow bachelors, while others prefer families. It varies by property."
+      },
+      {
+        "question": "Is Sector 19 safe for tenants?",
+        "answer": "Yes, it is a secure and well-established residential locality."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent details, and expert local assistance."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 19?",
+        "answer": "You can fill out the contact form to connect with experienced rental property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sector 19 Gurugram",
+    "description": [
+      "Finding the right house for rent in Sector 19 Gurugram becomes simple with professional support.",
+      "Share your details to connect with trusted rental experts who will help you find a home that matches your budget, needs, and lifestyle."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

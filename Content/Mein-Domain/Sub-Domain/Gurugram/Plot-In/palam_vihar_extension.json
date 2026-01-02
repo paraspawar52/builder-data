@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Residential and Investment Plots in Palam Vihar Extension Gurugram",
+    "description": [
+      "Palam Vihar Extension Gurugram is a rapidly developing residential locality known for its planned infrastructure and excellent connectivity to Dwarka Expressway, NH-48, and major parts of Gurugram and Delhi. Buyers searching for a plot in Palam Vihar Extension Gurugram prefer this location due to its peaceful surroundings, wide roads, and proximity to established areas like Palam Vihar, Sector 23, and Udyog Vihar. The area offers a balanced lifestyle with access to schools, hospitals, markets, and daily conveniences.",
+      "Plots in Palam Vihar Extension are ideal for buyers planning independent homes as well as investors looking for long-term appreciation. With increasing residential development and improving infrastructure, this locality is witnessing steady growth in demand. Choosing a plot in Palam Vihar Extension Gurugram ensures affordability compared to central sectors, future value appreciation, and a comfortable living environment for families."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Palam Vihar Extension",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154207-7d8d3f97d2c1?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1597047084897-51e81819a499?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Size Options Available in Palam Vihar Extension Gurugram",
+    "description": [
+      "Choosing the right plot size in Palam Vihar Extension Gurugram is important for home planning, construction flexibility, and budget management.",
+      "The area offers multiple plot sizes suitable for independent houses, builder floors, and long-term real estate investment."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Palam Vihar Extension Gurugram",
+        "description": "A 4 Marla plot in Palam Vihar Extension Gurugram is suitable for compact independent homes. These plots are ideal for buyers seeking affordability while staying connected to prime city areas."
+      },
+      {
+        "title": "6 Marla Plot in Palam Vihar Extension Gurugram",
+        "description": "6 Marla plots provide a comfortable balance between space and cost. Buyers can design functional homes with parking and good ventilation."
+      },
+      {
+        "title": "8 Marla Plot in Palam Vihar Extension Gurugram",
+        "description": "An 8 Marla plot allows more flexibility for spacious home layouts. These plots are preferred by families planning larger living spaces."
+      },
+      {
+        "title": "10 Marla Plot in Palam Vihar Extension Gurugram",
+        "description": "10 Marla plots fall in the premium category and are ideal for independent houses with enhanced privacy and modern designs."
+      },
+      {
+        "title": "12 Marla Plot in Palam Vihar Extension Gurugram",
+        "description": "A 12 Marla plot offers ample space for luxury homes with landscaped areas, making it suitable for premium buyers."
+      },
+      {
+        "title": "14 Marla Plot in Palam Vihar Extension Gurugram",
+        "description": "14 Marla plots represent excellent long-term investment opportunities due to limited availability and rising demand in the area."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Nearby Plot Locations Around Palam Vihar Extension",
+    "description": [
+      "Buyers interested in a plot in Palam Vihar Extension Gurugram often explore nearby localities for better comparison of prices and availability.",
+      "These surrounding areas offer similar residential advantages and connectivity."
+    ],
+    "locations": [
+      { "title": "Plot in Palam Vihar Extension Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Palam Vihar Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 23 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 21 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Dwarka Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Udyog Vihar", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in New Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Palam Vihar Extension",
+    "description": [
+      "Buying a plot in Palam Vihar Extension Gurugram requires verified listings, legal clarity, and local market knowledge.",
+      "Deal Acres is trusted by buyers for transparent processes and professional support."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are verified for ownership, approvals, and legal authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing structure with no hidden costs for buyers."
+      },
+      {
+        "title": "Local Market Knowledge",
+        "description": "Strong understanding of Palam Vihar Extension property trends."
+      },
+      {
+        "title": "Wide Plot Options",
+        "description": "Access to multiple plot sizes and locations within the area."
+      },
+      {
+        "title": "Legal and Registry Support",
+        "description": "Assistance with documentation, registry, and compliance."
+      },
+      {
+        "title": "Personalized Property Matching",
+        "description": "Plot suggestions based on buyer needs and budget."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from property search to final possession."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Deal Acres is known for reliability and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Palam Vihar Extension",
+    "description": "Answers to common buyer questions related to plot purchase in Palam Vihar Extension Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Palam Vihar Extension a good location to buy a plot?",
+        "answer": "Yes, Palam Vihar Extension offers good connectivity, planned development, and affordable pricing compared to central Gurugram."
+      },
+      {
+        "question": "What plot sizes are available in Palam Vihar Extension Gurugram?",
+        "answer": "Plots ranging from 4 Marla to 14 Marla are commonly available, subject to availability."
+      },
+      {
+        "question": "Is Palam Vihar Extension suitable for residential construction?",
+        "answer": "Yes, the area is ideal for independent houses and builder floor construction."
+      },
+      {
+        "question": "Is buying a plot here a good investment?",
+        "answer": "With improving infrastructure and rising demand, the area offers good long-term appreciation."
+      },
+      {
+        "question": "Are plots legally approved?",
+        "answer": "Most plots have clear titles, but legal verification is recommended before purchase."
+      },
+      {
+        "question": "How is connectivity from Palam Vihar Extension?",
+        "answer": "The area is well connected to Dwarka Expressway, NH-48, and major city roads."
+      },
+      {
+        "question": "Can construction start immediately after buying a plot?",
+        "answer": "Construction depends on local authority approvals and applicable building norms."
+      },
+      {
+        "question": "What amenities are available nearby?",
+        "answer": "Schools, hospitals, markets, and daily utilities are easily accessible."
+      },
+      {
+        "question": "Why choose Deal Acres for buying plots?",
+        "answer": "Deal Acres provides verified listings, transparent deals, and complete buyer support."
+      },
+      {
+        "question": "How can I contact a plot expert?",
+        "answer": "You can fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Buying Plots in Palam Vihar Extension",
+    "description": [
+      "Finding the right plot in Palam Vihar Extension Gurugram becomes easier with expert guidance.",
+      "Share your details to connect with trusted property professionals who will help you find verified plots that match your residential or investment goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

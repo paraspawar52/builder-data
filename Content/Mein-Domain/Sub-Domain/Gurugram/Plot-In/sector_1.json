@@ -1,0 +1,176 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Residential and Investment Plots in Well Connected Sector 1 Gurugram",
+    "description": [
+      "Sector 1 Gurugram is a well-established residential locality that attracts buyers looking for peaceful surroundings with convenient city connectivity. People searching for a plot in Sector 1 Gurugram prefer this area due to its planned layout, calm residential environment, and easy access to key parts of Gurugram and Delhi. The sector is surrounded by local markets, schools, parks, healthcare facilities, and daily convenience stores, making it suitable for end-use residential construction.",
+      "Plots in Sector 1 Gurugram offer an excellent opportunity for buyers planning to build independent houses or make a secure land investment. With stable infrastructure, road connectivity, and steady demand, the locality provides balanced growth and long-term value. Choosing a plot in Sector 1 Gurugram means investing in a practical location that supports comfortable living, future appreciation, and a well-connected lifestyle."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 1",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154207-3d1c0f63a69e?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1592595896616-c37162298647?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Options by Size in Sector 1 Gurugram",
+    "description": [
+      "Selecting the right plot size in Sector 1 Gurugram helps buyers plan efficient home designs and manage long-term investment goals.",
+      "Sector 1 offers multiple plot size options suitable for residential construction and value-driven investments."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 1 Gurugram",
+        "description": "A 4 Marla plot in Sector 1 Gurugram is ideal for compact homes, making it suitable for small families and budget-focused buyers."
+      },
+      {
+        "title": "6 Marla Plot in Sector 1 Gurugram",
+        "description": "6 Marla plots provide balanced space for comfortable independent houses with parking and functional layouts."
+      },
+      {
+        "title": "8 Marla Plot in Sector 1 Gurugram",
+        "description": "An 8 Marla plot allows more flexibility for spacious homes, making it popular among growing families."
+      },
+      {
+        "title": "10 Marla Plot in Sector 1 Gurugram",
+        "description": "10 Marla plots are preferred by buyers planning larger homes with open spaces and long-term resale value."
+      },
+      {
+        "title": "12 Marla Plot in Sector 1 Gurugram",
+        "description": "A 12 Marla plot offers ample space for premium residential construction with enhanced privacy."
+      },
+      {
+        "title": "14 Marla Plot in Sector 1 Gurugram",
+        "description": "14 Marla plots represent strong investment options for buyers seeking larger land parcels and future appreciation."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Plot Options Near Sector 1 Gurugram",
+    "description": [
+      "Buyers interested in a plot in Sector 1 Gurugram often explore nearby sectors to compare pricing, availability, and lifestyle benefits.",
+      "This section highlights surrounding locations to support informed property decisions."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 1 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 3 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 7 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 10 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Old Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near NH-48", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Delhi Border", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Central Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 1 Gurugram",
+    "description": [
+      "Buying a plot in Sector 1 Gurugram requires verified listings, transparent pricing, and reliable local guidance.",
+      "Deal Acres is trusted by buyers for delivering clarity, professionalism, and complete property assistance."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are verified for ownership, documentation, and legal authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear and upfront pricing without hidden charges."
+      },
+      {
+        "title": "Local Market Knowledge",
+        "description": "Strong understanding of Sector 1 Gurugram property trends."
+      },
+      {
+        "title": "Wide Plot Options",
+        "description": "Access to multiple plot sizes based on budget and needs."
+      },
+      {
+        "title": "Legal & Registry Support",
+        "description": "Complete assistance with registry and paperwork."
+      },
+      {
+        "title": "Personalized Guidance",
+        "description": "Recommendations aligned with buyer goals and preferences."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from site visits to final possession."
+      },
+      {
+        "title": "Trusted Customer Experience",
+        "description": "Deal Acres is known for reliability and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 1 Gurugram",
+    "description": "Common buyer queries related to plot purchase in Sector 1 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 1 Gurugram a good location to buy a plot?",
+        "answer": "Yes, Sector 1 offers a peaceful residential environment with good connectivity, making it suitable for both living and investment."
+      },
+      {
+        "question": "What plot sizes are available in Sector 1 Gurugram?",
+        "answer": "Plots generally range from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Is Sector 1 suitable for independent house construction?",
+        "answer": "Yes, the area is well suited for building independent residential houses."
+      },
+      {
+        "question": "Is buying a plot in Sector 1 a good investment?",
+        "answer": "Sector 1 offers stable appreciation due to steady demand and planned development."
+      },
+      {
+        "question": "Are plots in Sector 1 legally approved?",
+        "answer": "Most plots have clear titles, but legal verification is always recommended."
+      },
+      {
+        "question": "How is connectivity from Sector 1 Gurugram?",
+        "answer": "Sector 1 has good road connectivity to Old Gurugram, NH-48, and nearby sectors."
+      },
+      {
+        "question": "Can construction start immediately after purchase?",
+        "answer": "Construction depends on local authority approvals and building norms."
+      },
+      {
+        "question": "What amenities are available near Sector 1?",
+        "answer": "Schools, markets, parks, healthcare facilities, and daily conveniences are nearby."
+      },
+      {
+        "question": "Why choose Deal Acres for buying plots?",
+        "answer": "Deal Acres provides verified listings, transparent processes, and complete buyer support."
+      },
+      {
+        "question": "How can I contact property experts?",
+        "answer": "You can fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Buying Plots in Sector 1 Gurugram",
+    "description": [
+      "Finding the right plot in Sector 1 Gurugram becomes simple with professional guidance.",
+      "Share your details to connect with trusted experts who will help you find verified plots matching your budget and requirements."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}
+    

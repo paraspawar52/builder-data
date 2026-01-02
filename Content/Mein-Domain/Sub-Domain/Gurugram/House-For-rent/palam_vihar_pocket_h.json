@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Comfortable Independent Houses for Rent in Palam Vihar Pocket H",
+    "description": [
+      "Palam Vihar Pocket H Gurugram is a well-planned residential pocket known for its peaceful surroundings, organized layout, and excellent livability. Tenants searching for a house for rent in Palam Vihar Pocket H Gurugram often choose this area for its close proximity to Palam Vihar, Dwarka Expressway, NH-48, and key business hubs of Gurugram. The locality offers smooth road connectivity, nearby schools, healthcare centers, daily markets, and public transport options, making it suitable for families and working professionals alike.",
+      "Independent houses in Palam Vihar Pocket H provide spacious rooms, privacy, and a calm neighborhood environment. The area is ideal for tenants looking for long-term rental homes with stable surroundings and easy access to city conveniences. Choosing a house for rent in Palam Vihar Pocket H Gurugram ensures a balanced lifestyle with comfort, connectivity, and affordability."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Palam Vihar Pocket H",
+    "description": [
+      "Choosing the right plot size is an important factor when looking for a house for rent in Palam Vihar Pocket H Gurugram, as it directly affects living space, comfort, and rental budget.",
+      "Palam Vihar Pocket H offers independent houses in multiple plot sizes, suitable for small families, growing households, and tenants seeking spacious living."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Palam Vihar Pocket H",
+        "description": "A 4 Marla house for rent in Palam Vihar Pocket H Gurugram is ideal for couples or small families looking for an affordable and low-maintenance rental home."
+      },
+      {
+        "title": "6 Marla House for Rent in Palam Vihar Pocket H",
+        "description": "6 Marla houses provide a good balance between space and budget, making them suitable for nuclear families."
+      },
+      {
+        "title": "8 Marla House for Rent in Palam Vihar Pocket H",
+        "description": "An 8 Marla rental house offers spacious rooms, better ventilation, and functional layouts for comfortable family living."
+      },
+      {
+        "title": "10 Marla House for Rent in Palam Vihar Pocket H",
+        "description": "10 Marla houses are preferred by tenants who want larger living areas, parking space, and enhanced privacy."
+      },
+      {
+        "title": "12 Marla House for Rent in Palam Vihar Pocket H",
+        "description": "12 Marla houses fall into the premium segment, offering open spaces, modern construction, and lifestyle comfort."
+      },
+      {
+        "title": "14 Marla House for Rent in Palam Vihar Pocket H",
+        "description": "A 14 Marla house for rent is suitable for large families or tenants seeking maximum space in a peaceful locality."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Palam Vihar Pocket H Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in Palam Vihar Pocket H Gurugram often explore nearby localities to compare rental prices, connectivity, and residential advantages.",
+      "This section highlights surrounding areas to help users find the most suitable rental option."
+    ],
+    "locations": [
+      { "title": "House for Rent in Palam Vihar Pocket H Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Palam Vihar Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent near Dwarka Expressway", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 23 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 22 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Bijwasan", "path": "/", "icon": "Building" },
+      { "title": "House for Rent near NH-48", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent near IGI Airport", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Palam Vihar Pocket H Rentals",
+    "description": [
+      "Finding a reliable house for rent in Palam Vihar Pocket H Gurugram requires verified listings, transparent pricing, and strong local market knowledge. Deal Acres focuses on trust and clarity.",
+      "With deep insight into Gurugram’s rental market, Deal Acres has become a preferred platform for tenants looking for independent houses."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "All rental properties are verified for ownership, availability, and authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear rent details and deposit information help tenants plan confidently."
+      },
+      {
+        "title": "Local Area Expertise",
+        "description": "In-depth knowledge of Palam Vihar Pocket H ensures accurate rental guidance."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "Simple navigation and filters make house hunting quick and stress-free."
+      },
+      {
+        "title": "Tenant-Focused Suggestions",
+        "description": "Property recommendations are based on tenant budget and family needs."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Assistance with rental agreements and required paperwork."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from initial search to final move-in."
+      },
+      {
+        "title": "Trusted by Renters",
+        "description": "Deal Acres is known for transparency, reliability, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Palam Vihar Pocket H",
+    "description": "Common tenant questions related to house for rent in Palam Vihar Pocket H Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Palam Vihar Pocket H a good area to rent a house?",
+        "answer": "Yes, it is a peaceful and well-planned residential pocket with good connectivity and daily amenities."
+      },
+      {
+        "question": "What types of houses are available for rent in Palam Vihar Pocket H?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Palam Vihar Pocket H suitable for families?",
+        "answer": "Yes, the locality is family-friendly with nearby schools, parks, and healthcare facilities."
+      },
+      {
+        "question": "Are furnished houses available in Palam Vihar Pocket H?",
+        "answer": "Furnished and semi-furnished houses are available depending on the owner."
+      },
+      {
+        "question": "What is the average rent in Palam Vihar Pocket H Gurugram?",
+        "answer": "Rental values depend on plot size, property condition, and furnishing level."
+      },
+      {
+        "question": "How is connectivity from Palam Vihar Pocket H?",
+        "answer": "The area is well-connected via Dwarka Expressway, NH-48, and internal sector roads."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses here?",
+        "answer": "Some landlords allow bachelors, while others prefer family tenants."
+      },
+      {
+        "question": "Is Palam Vihar Pocket H safe for tenants?",
+        "answer": "Yes, it is a secure and well-established residential area."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent details, and expert rental support."
+      },
+      {
+        "question": "How can I contact rental experts for this area?",
+        "answer": "You can fill out the contact form to connect with experienced rental consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Palam Vihar Pocket H",
+    "description": [
+      "Finding the right house for rent in Palam Vihar Pocket H Gurugram becomes easy with professional guidance.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that matches your budget, space needs, and lifestyle."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

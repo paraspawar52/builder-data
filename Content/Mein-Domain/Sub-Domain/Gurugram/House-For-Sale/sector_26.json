@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforsale.com",
+
+  "hero": {
+    "title": "Prime Independent Houses for Sale in Sector 26 Gurugram",
+    "description": [
+      "Sector 26 Gurugram is a premium and centrally located residential area known for its excellent connectivity and upscale lifestyle. Situated close to MG Road and Golf Course Road, this sector is highly preferred by buyers searching for a house for sale in Sector 26 Gurugram. The locality offers seamless access to Cyber City, Udyog Vihar, and major commercial hubs, making daily commuting smooth for professionals. Reputed schools, hospitals, shopping malls, restaurants, and metro stations are all located nearby, adding to the everyday convenience of residents.",
+      "Independent houses in Sector 26 Gurugram are valued for their spacious layouts, privacy, and strong construction quality. Being an established locality, the area offers stable property values, high rental demand, and long-term appreciation. Whether you are looking for a comfortable family home or a high-value real estate investment, choosing a house for sale in Sector 26 Gurugram ensures a premium address, excellent infrastructure, and a refined urban living experience."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Sale",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Sale Options by Plot Size in Sector 26 Gurugram",
+    "description": [
+      "Choosing the right plot size is an important step when planning to buy a house for sale in Sector 26 Gurugram, as it directly impacts lifestyle comfort and long-term usability.",
+      "Sector 26 offers a variety of independent house sizes to suit different budgets and family requirements."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Sector 26 Gurugram",
+        "description": "A 4 Marla house for sale in Sector 26 Gurugram is ideal for buyers seeking compact independent homes in a prime location. These houses are suitable for small families and professionals who value connectivity and convenience."
+      },
+      {
+        "title": "6 Marla House for Sale in Sector 26 Gurugram",
+        "description": "A 6 Marla house for sale in Sector 26 Gurugram offers a balanced combination of space and affordability. These homes usually feature efficient layouts, parking space, and comfortable living areas."
+      },
+      {
+        "title": "8 Marla House for Sale in Sector 26 Gurugram",
+        "description": "An 8 Marla house for sale in Sector 26 Gurugram provides spacious interiors, better ventilation, and flexible design options, making it ideal for growing families."
+      },
+      {
+        "title": "10 Marla House for Sale in Sector 26 Gurugram",
+        "description": "A 10 Marla house for sale in Sector 26 Gurugram falls under the premium category, offering enhanced privacy, larger built-up areas, and a superior independent living experience."
+      },
+      {
+        "title": "12 Marla House for Sale in Sector 26 Gurugram",
+        "description": "A 12 Marla house for sale in Sector 26 Gurugram offers luxury living with open spaces, quality construction, and ample parking facilities."
+      },
+      {
+        "title": "14 Marla House for Sale in Sector 26 Gurugram",
+        "description": "A 14 Marla house for sale in Sector 26 Gurugram represents elite residential living with expansive layouts and excellent long-term appreciation potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Sale In and Around Sector 26 Gurugram",
+    "description": [
+      "Buyers interested in a house for sale in Sector 26 Gurugram often explore nearby localities to compare pricing, lifestyle benefits, and connectivity.",
+      "This section highlights surrounding residential areas to help users make informed property decisions."
+    ],
+    "locations": [
+      { "title": "House for Sale in Sector 26 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 25 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale in DLF Phase 2 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in DLF Phase 1 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale near MG Road Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Sale near Golf Course Road", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Udyog Vihar Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale near Cyber City", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Sector 26 Houses",
+    "description": [
+      "Buying a house for sale in Sector 26 Gurugram requires verified listings, transparent pricing, and dependable local guidance. Deal Acres focuses on delivering trust and clarity at every step.",
+      "With a buyer-first approach and strong local expertise, Deal Acres has become a reliable platform for property buyers in Gurugram."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All listings are verified to ensure authenticity and ownership clarity."
+      },
+      {
+        "title": "Transparent Pricing Insights",
+        "description": "Clear pricing information based on current market conditions."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth knowledge of Sector 26 and surrounding premium areas."
+      },
+      {
+        "title": "User-Friendly Platform",
+        "description": "Easy and intuitive property search experience."
+      },
+      {
+        "title": "Buyer-Centric Recommendations",
+        "description": "Listings aligned with buyer needs, budgets, and preferences."
+      },
+      {
+        "title": "Documentation Guidance",
+        "description": "Basic assistance with legal and documentation processes."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Support available throughout the complete buying journey."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Strong reputation built on transparency and service quality."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About House for Sale in Sector 26 Gurugram",
+    "description": "Detailed answers to common buyer queries.",
+    "faqs": [
+      {
+        "question": "Is Sector 26 Gurugram a good area to buy a house?",
+        "answer": "Yes, Sector 26 is a premium and well-established locality with excellent connectivity and lifestyle amenities."
+      },
+      {
+        "question": "What plot sizes are available in Sector 26 Gurugram?",
+        "answer": "Independent houses are typically available from 4 Marla to 14 Marla."
+      },
+      {
+        "question": "Is Sector 26 suitable for family living?",
+        "answer": "Yes, the area offers a safe, peaceful environment with schools, hospitals, and parks nearby."
+      },
+      {
+        "question": "Are ready-to-move houses available in Sector 26?",
+        "answer": "Yes, buyers can find ready-to-move and resale houses in this locality."
+      },
+      {
+        "question": "Is Sector 26 good for rental income?",
+        "answer": "Yes, its proximity to Cyber City and MG Road ensures strong rental demand."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 26?",
+        "answer": "Most houses are eligible for home loans, subject to bank policies and documentation."
+      },
+      {
+        "question": "How is connectivity from Sector 26 Gurugram?",
+        "answer": "Sector 26 is well-connected via MG Road, Golf Course Road, and metro stations."
+      },
+      {
+        "question": "Is Sector 26 good for long-term investment?",
+        "answer": "Yes, being a prime location, it offers stable appreciation and high resale value."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and expert local guidance."
+      },
+      {
+        "question": "How can I contact property experts for Sector 26?",
+        "answer": "You can fill out the contact form on this page to connect with experienced consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Sale in Sector 26 Gurugram",
+    "description": [
+      "Buying a house for sale in Sector 26 Gurugram is a major financial decision, and expert assistance can simplify the process.",
+      "Share your details to connect with trusted property professionals who will help you find the right home based on your budget, preferences, and long-term goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

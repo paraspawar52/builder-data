@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Residential and Investment Plots in Palam Vihar Pocket H Gurugram",
+    "description": [
+      "Palam Vihar Pocket H Gurugram is a well-planned and established residential pocket known for its peaceful surroundings, wide internal roads, and excellent connectivity to Dwarka Expressway, NH-48, and major parts of Gurugram and Delhi. Buyers searching for a plot in Palam Vihar Pocket H Gurugram prefer this locality due to its proximity to Palam Vihar, Sector 23, Udyog Vihar, and IGI Airport. The area offers a comfortable lifestyle with easy access to schools, hospitals, shopping complexes, and daily convenience stores.",
+      "Plots in Palam Vihar Pocket H are suitable for buyers planning independent houses as well as investors looking for stable long-term appreciation. With consistent residential demand, organized development, and limited plot availability, this pocket holds strong value in Gurugram’s real estate market. Choosing a plot in Palam Vihar Pocket H Gurugram ensures a balance of location advantage, future appreciation, and quality living for families."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Palam Vihar Pocket H",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154207-7d8d3f97d2c1?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1597047084897-51e81819a499?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Size Options Available in Palam Vihar Pocket H Gurugram",
+    "description": [
+      "Choosing the right plot size in Palam Vihar Pocket H Gurugram plays an important role in home planning, construction flexibility, and long-term value.",
+      "The locality offers multiple plot size options suitable for independent homes, builder floors, and real estate investment purposes."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Palam Vihar Pocket H Gurugram",
+        "description": "A 4 Marla plot in Palam Vihar Pocket H Gurugram is ideal for compact independent homes. These plots are suitable for budget-conscious buyers who want a premium location with good connectivity."
+      },
+      {
+        "title": "6 Marla Plot in Palam Vihar Pocket H Gurugram",
+        "description": "6 Marla plots offer a practical balance between space and affordability. Buyers can plan functional homes with proper ventilation and parking facilities."
+      },
+      {
+        "title": "8 Marla Plot in Palam Vihar Pocket H Gurugram",
+        "description": "An 8 Marla plot allows better design flexibility and spacious layouts. These plots are preferred by families planning comfortable and modern homes."
+      },
+      {
+        "title": "10 Marla Plot in Palam Vihar Pocket H Gurugram",
+        "description": "10 Marla plots fall under the premium residential segment and are suitable for larger independent houses with enhanced privacy and modern architecture."
+      },
+      {
+        "title": "12 Marla Plot in Palam Vihar Pocket H Gurugram",
+        "description": "A 12 Marla plot provides ample space for luxury residences with landscaped areas, making it ideal for buyers seeking premium living."
+      },
+      {
+        "title": "14 Marla Plot in Palam Vihar Pocket H Gurugram",
+        "description": "14 Marla plots offer excellent long-term investment potential due to limited availability and strong demand in Palam Vihar Pocket H."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Nearby Plot Locations Around Palam Vihar Pocket H",
+    "description": [
+      "Buyers interested in a plot in Palam Vihar Pocket H Gurugram often explore nearby localities to compare pricing, plot sizes, and availability.",
+      "These surrounding areas offer similar residential benefits, infrastructure, and connectivity advantages."
+    ],
+    "locations": [
+      { "title": "Plot in Palam Vihar Pocket H Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Palam Vihar Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 23 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 21 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Dwarka Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Udyog Vihar", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in New Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Palam Vihar Pocket H",
+    "description": [
+      "Buying a plot in Palam Vihar Pocket H Gurugram requires verified listings, legal clarity, and strong local market understanding.",
+      "Deal Acres is trusted by buyers for transparent transactions and professional property support."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are verified for ownership details, approvals, and legal authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear and honest pricing with no hidden charges for buyers."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth knowledge of Palam Vihar Pocket H property trends and values."
+      },
+      {
+        "title": "Multiple Plot Options",
+        "description": "Access to a wide range of plot sizes based on buyer requirements."
+      },
+      {
+        "title": "Legal and Registry Assistance",
+        "description": "Support with documentation, registry process, and compliance checks."
+      },
+      {
+        "title": "Personalized Property Matching",
+        "description": "Customized plot recommendations based on budget and goals."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Complete assistance from plot search to final possession."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Deal Acres is known for reliability, transparency, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Palam Vihar Pocket H",
+    "description": "Answers to common buyer questions related to plot purchase in Palam Vihar Pocket H Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Palam Vihar Pocket H a good location to buy a plot?",
+        "answer": "Yes, Palam Vihar Pocket H offers excellent connectivity, planned infrastructure, and a peaceful residential environment."
+      },
+      {
+        "question": "What plot sizes are available in Palam Vihar Pocket H Gurugram?",
+        "answer": "Plots ranging from 4 Marla to 14 Marla are commonly available, subject to market availability."
+      },
+      {
+        "question": "Is Palam Vihar Pocket H suitable for residential construction?",
+        "answer": "Yes, the area is ideal for independent houses and builder floor construction."
+      },
+      {
+        "question": "Is buying a plot here a good investment?",
+        "answer": "Due to limited supply and steady residential demand, the area offers strong long-term appreciation."
+      },
+      {
+        "question": "Are plots legally approved?",
+        "answer": "Most plots have clear titles, but proper legal verification is recommended before purchase."
+      },
+      {
+        "question": "How is connectivity from Palam Vihar Pocket H?",
+        "answer": "The locality is well connected to Dwarka Expressway, NH-48, and major city roads."
+      },
+      {
+        "question": "Can construction start immediately after buying a plot?",
+        "answer": "Construction depends on local authority approvals and applicable building regulations."
+      },
+      {
+        "question": "What amenities are available nearby?",
+        "answer": "Schools, hospitals, shopping areas, and daily essentials are easily accessible."
+      },
+      {
+        "question": "Why choose Deal Acres for buying plots?",
+        "answer": "Deal Acres offers verified listings, transparent deals, and complete buyer support."
+      },
+      {
+        "question": "How can I contact a plot expert?",
+        "answer": "You can fill out the enquiry form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Buying Plots in Palam Vihar Pocket H",
+    "description": [
+      "Finding the right plot in Palam Vihar Pocket H Gurugram becomes easier with professional guidance.",
+      "Share your details to connect with trusted property experts who will help you find verified plots aligned with your residential or investment needs."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

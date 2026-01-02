@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Residential and Investment Plots in Prime Sector 50 Gurugram",
+    "description": [
+      "Sector 50 Gurugram is one of the most established and premium residential localities in the heart of the city. Buyers searching for a plot in Sector 50 Gurugram are drawn to its central location, mature infrastructure, and excellent connectivity to Golf Course Extension Road, Sohna Road, HUDA City Centre, and NH-48. The sector is surrounded by reputed schools, multi-specialty hospitals, shopping malls, parks, and daily convenience markets, making it a preferred choice for families and professionals.",
+      "Plots in Sector 50 offer a rare opportunity to own land in a fully developed neighborhood where demand consistently remains high. Whether you plan to build a luxury independent home or secure land as a long-term investment, this area ensures strong resale value and stable appreciation. Choosing a plot in Sector 50 Gurugram means investing in comfort, connectivity, and long-term real estate security."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 50",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Options by Size in Sector 50 Gurugram",
+    "description": [
+      "Selecting the right plot size in Sector 50 Gurugram is crucial for construction planning, lifestyle comfort, and long-term investment value.",
+      "Sector 50 offers a limited yet premium range of plot sizes suited for luxury homes and high-value residential development."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 50 Gurugram",
+        "description": "A 4 Marla plot in Sector 50 Gurugram is suitable for buyers looking for a compact yet premium residential option. These plots are ideal for modern, efficiently designed homes in a highly sought-after central location."
+      },
+      {
+        "title": "6 Marla Plot in Sector 50 Gurugram",
+        "description": "6 Marla plots offer a balanced combination of space and premium location advantage. Buyers can plan comfortable family homes with proper ventilation, parking, and privacy in an established neighborhood."
+      },
+      {
+        "title": "8 Marla Plot in Sector 50 Gurugram",
+        "description": "An 8 Marla plot allows greater design flexibility and spacious construction. These plots are preferred by families planning elegant homes with larger rooms and modern layouts."
+      },
+      {
+        "title": "10 Marla Plot in Sector 50 Gurugram",
+        "description": "10 Marla plots fall under the premium residential category and are ideal for buyers seeking spacious independent houses with excellent resale and rental potential."
+      },
+      {
+        "title": "12 Marla Plot in Sector 50 Gurugram",
+        "description": "A 12 Marla plot offers ample space for luxury residences and landscaped surroundings. These plots are suitable for joint families or buyers seeking high-end living."
+      },
+      {
+        "title": "14 Marla Plot in Sector 50 Gurugram",
+        "description": "14 Marla plots represent elite investment opportunities in Sector 50 Gurugram. These plots attract buyers focused on exclusivity, spacious living, and long-term capital appreciation."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Plot Options Near Sector 50 Gurugram",
+    "description": [
+      "Buyers searching for a plot in Sector 50 Gurugram often explore nearby prime sectors to compare availability, pricing, and lifestyle benefits.",
+      "This section highlights surrounding residential locations to help users make informed property decisions."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 50 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 49 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 51 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 47 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Golf Course Extension Road", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Sohna Road", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near HUDA City Centre", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Central Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 50 Gurugram",
+    "description": [
+      "Buying a plot in Sector 50 Gurugram requires verified listings, legal clarity, and deep local market understanding.",
+      "Deal Acres has earned strong buyer trust by consistently delivering transparency, reliability, and expert support."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are thoroughly verified for ownership, approvals, and legal authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden charges ensures complete buyer confidence."
+      },
+      {
+        "title": "Strong Local Expertise",
+        "description": "In-depth knowledge of Sector 50 Gurugram helps buyers make informed decisions."
+      },
+      {
+        "title": "Premium Plot Availability",
+        "description": "Access to limited and high-value plot options in central Gurugram."
+      },
+      {
+        "title": "Legal and Registry Support",
+        "description": "Complete assistance with documentation, registry, and compliance."
+      },
+      {
+        "title": "Personalized Property Matching",
+        "description": "Plots suggested based on buyer needs, budget, and long-term goals."
+      },
+      {
+        "title": "End-to-End Buying Assistance",
+        "description": "Support from property search to final possession."
+      },
+      {
+        "title": "Trusted by Property Buyers",
+        "description": "Deal Acres is known for trust, transparency, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 50 Gurugram",
+    "description": "Common buyer queries related to plot purchase in Sector 50 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 50 Gurugram a good location to buy a plot?",
+        "answer": "Yes, Sector 50 is a prime and fully developed locality offering excellent connectivity, amenities, and strong appreciation potential."
+      },
+      {
+        "question": "What plot sizes are available in Sector 50 Gurugram?",
+        "answer": "Plots ranging from 4 Marla to 14 Marla are available, though inventory is limited due to high demand."
+      },
+      {
+        "question": "Is Sector 50 suitable for luxury home construction?",
+        "answer": "Yes, the sector is ideal for luxury independent homes with premium surroundings."
+      },
+      {
+        "question": "Is buying a plot in Sector 50 a good investment?",
+        "answer": "Due to limited supply and central location, Sector 50 offers excellent long-term investment returns."
+      },
+      {
+        "question": "Are plots in Sector 50 legally approved?",
+        "answer": "Most plots have clear titles, but verification is essential. Deal Acres assists with legal checks."
+      },
+      {
+        "question": "How is connectivity from Sector 50 Gurugram?",
+        "answer": "Sector 50 has excellent connectivity to Golf Course Extension Road, Sohna Road, NH-48, and Metro."
+      },
+      {
+        "question": "Can I start construction immediately after purchase?",
+        "answer": "Construction depends on local approvals and building norms. Expert guidance is provided."
+      },
+      {
+        "question": "What amenities are available near Sector 50?",
+        "answer": "Top schools, hospitals, malls, parks, and daily convenience facilities are nearby."
+      },
+      {
+        "question": "Why should I choose Deal Acres for buying plots?",
+        "answer": "Deal Acres offers verified listings, transparent dealings, and complete buyer support."
+      },
+      {
+        "question": "How can I contact experts for plot buying?",
+        "answer": "You can fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Buying Plots in Sector 50 Gurugram",
+    "description": [
+      "Finding the right plot in Sector 50 Gurugram becomes effortless with expert assistance.",
+      "Share your details to connect with trusted property professionals who will help you find verified plots that match your lifestyle and investment goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

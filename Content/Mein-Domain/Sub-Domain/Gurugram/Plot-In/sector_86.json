@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Residential and Investment Plots in Rapidly Developing Sector 86 Gurugram",
+    "description": [
+      "Sector 86 Gurugram is an emerging residential and investment hotspot located in the New Gurugram growth corridor. Buyers looking for a plot in Sector 86 Gurugram are drawn by its planned infrastructure, wide roads, and proximity to Dwarka Expressway, NH-48, and major commercial zones. The sector is surrounded by reputed residential projects, schools, hospitals, shopping complexes, and daily convenience stores, making it suitable for both end-users and investors.",
+      "Plots in Sector 86 offer excellent flexibility to build independent homes or secure land for future appreciation. With continuous development, improving civic amenities, and increasing demand, this locality promises strong long-term returns. Choosing a plot in Sector 86 Gurugram means investing in a future-ready location with growing livability, modern planning, and strong connectivity across Gurugram."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 86",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Plot Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Options by Size in Sector 86 Gurugram",
+    "description": [
+      "Choosing the right plot size in Sector 86 Gurugram plays a crucial role in construction planning, lifestyle comfort, and investment value.",
+      "Sector 86 offers multiple plot configurations suitable for compact homes, luxury residences, and future-focused investments."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 86 Gurugram",
+        "description": "A 4 Marla plot in Sector 86 Gurugram is an excellent option for budget-conscious buyers and first-time investors. These plots are ideal for compact independent homes with smart layouts and are well-suited for buyers looking to enter a developing area with strong future appreciation potential."
+      },
+      {
+        "title": "6 Marla Plot in Sector 86 Gurugram",
+        "description": "6 Marla plots provide a comfortable balance between affordability and space. Buyers can plan modern homes with adequate ventilation, parking, and open areas, making this size popular among small families seeking long-term residential stability."
+      },
+      {
+        "title": "8 Marla Plot in Sector 86 Gurugram",
+        "description": "An 8 Marla plot in Sector 86 allows greater design flexibility and spacious construction. These plots are preferred by families planning well-structured homes with larger rooms and improved privacy in a planned neighborhood."
+      },
+      {
+        "title": "10 Marla Plot in Sector 86 Gurugram",
+        "description": "10 Marla plots fall into the premium residential category and are suitable for buyers looking to build spacious independent houses. These plots support luxury features and offer better resale and rental prospects."
+      },
+      {
+        "title": "12 Marla Plot in Sector 86 Gurugram",
+        "description": "A 12 Marla plot offers ample space for elegant homes and landscaped areas. These plots are ideal for joint families or buyers seeking a high-comfort lifestyle with long-term investment security."
+      },
+      {
+        "title": "14 Marla Plot in Sector 86 Gurugram",
+        "description": "14 Marla plots represent premium investment opportunities in Sector 86 Gurugram. Perfect for luxury residences, these plots attract buyers focused on exclusivity, spacious living, and strong capital appreciation."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Plot Options Near Sector 86 Gurugram",
+    "description": [
+      "Buyers interested in a plot in Sector 86 Gurugram often explore nearby sectors to compare pricing, development pace, and connectivity.",
+      "This section highlights surrounding localities to help users make informed and confident plot-buying decisions."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 86 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 85 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 84 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 83 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Dwarka Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in New Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near IMT Manesar", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 86 Gurugram",
+    "description": [
+      "Purchasing a plot in Sector 86 Gurugram requires verified listings, legal clarity, and market expertise to ensure a safe investment.",
+      "Deal Acres has become a trusted platform by offering transparency, genuine properties, and customer-focused services."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are thoroughly verified for ownership, approvals, and documentation to ensure buyer safety."
+      },
+      {
+        "title": "Transparent Pricing Structure",
+        "description": "Clear pricing with no hidden costs helps buyers plan their investment with confidence."
+      },
+      {
+        "title": "Strong Local Market Knowledge",
+        "description": "Expert understanding of Sector 86 Gurugram ensures accurate guidance and fair property valuation."
+      },
+      {
+        "title": "Wide Range of Plot Options",
+        "description": "Multiple plot sizes and budget-friendly options are available to suit diverse buyer needs."
+      },
+      {
+        "title": "Legal and Registry Support",
+        "description": "Complete assistance with legal checks, registry, and paperwork ensures a smooth buying process."
+      },
+      {
+        "title": "Personalized Property Matching",
+        "description": "Plots are recommended based on buyer goals, whether residential construction or investment."
+      },
+      {
+        "title": "End-to-End Buying Assistance",
+        "description": "Support from property discovery to final possession makes the journey stress-free."
+      },
+      {
+        "title": "Trusted by Thousands of Buyers",
+        "description": "Deal Acres is known for reliability, transparency, and long-term customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 86 Gurugram",
+    "description": "Common buyer queries related to plot purchase in Sector 86 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 86 Gurugram a good area to buy a plot?",
+        "answer": "Yes, Sector 86 is a fast-developing area in New Gurugram with strong infrastructure growth, making it ideal for both residential use and long-term investment."
+      },
+      {
+        "question": "What plot sizes are available in Sector 86 Gurugram?",
+        "answer": "Plots from 4 Marla to 14 Marla are commonly available, suitable for different budgets and construction requirements."
+      },
+      {
+        "question": "Is Sector 86 suitable for residential construction?",
+        "answer": "Yes, the area is planned for residential development and supports independent house construction with proper approvals."
+      },
+      {
+        "question": "Is buying a plot in Sector 86 good for investment?",
+        "answer": "Due to proximity to Dwarka Expressway and New Gurugram growth, Sector 86 offers strong appreciation potential."
+      },
+      {
+        "question": "Are plots in Sector 86 legally approved?",
+        "answer": "Most plots have clear titles and approvals, but verification is essential. Deal Acres assists with legal checks."
+      },
+      {
+        "question": "How is connectivity from Sector 86 Gurugram?",
+        "answer": "Sector 86 enjoys excellent connectivity to NH-48, Dwarka Expressway, and major city routes."
+      },
+      {
+        "question": "Can construction be started immediately after purchase?",
+        "answer": "Construction depends on plot approval and local regulations. Our experts guide buyers through the process."
+      },
+      {
+        "question": "What amenities are available near Sector 86?",
+        "answer": "Schools, hospitals, shopping malls, and daily-need facilities are located nearby."
+      },
+      {
+        "question": "Why choose Deal Acres for buying plots?",
+        "answer": "Deal Acres offers verified listings, transparent processes, and complete buyer support."
+      },
+      {
+        "question": "How can I get expert help for buying a plot?",
+        "answer": "You can fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Buying Plots in Sector 86 Gurugram",
+    "description": [
+      "Finding the right plot in Sector 86 Gurugram becomes easier with professional assistance.",
+      "Share your details to connect with trusted property experts who will help you find verified plots matching your budget and investment goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

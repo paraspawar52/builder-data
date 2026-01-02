@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Modern Independent Houses for Rent in Sector 78 Gurugram",
+    "description": [
+      "Sector 78 Gurugram is a fast-developing residential locality known for planned infrastructure, open surroundings, and smooth connectivity to major city routes. Tenants searching for a house for rent in Sector 78 Gurugram are attracted to the area because of its proximity to NH-48, Southern Peripheral Road (SPR), and easy access to Sohna Road and Manesar. The sector is surrounded by modern residential projects, daily convenience stores, schools, healthcare facilities, and green spaces, making it suitable for peaceful urban living.",
+      "Independent houses in Sector 78 offer comfortable layouts, better privacy, and a calm neighborhood environment compared to crowded city areas. The locality is ideal for families, working professionals, and tenants looking for a balanced lifestyle away from congestion while still being well-connected. Choosing a house for rent in Sector 78 Gurugram means enjoying planned development, improving social infrastructure, and long-term residential comfort."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sector 78 Gurugram",
+    "description": [
+      "Choosing the right plot size is an important factor when looking for a house for rent in Sector 78 Gurugram, as it impacts living space, privacy, and rental budget.",
+      "Sector 78 offers independent houses in multiple plot sizes, suitable for small families, growing households, and tenants seeking modern residential options."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 78 Gurugram",
+        "description": "A 4 Marla house for rent in Sector 78 Gurugram is ideal for couples or small families looking for a compact, affordable, and low-maintenance home."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 78 Gurugram",
+        "description": "6 Marla houses provide a practical balance of space and cost, making them suitable for nuclear families seeking comfort."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 78 Gurugram",
+        "description": "An 8 Marla rental house offers spacious rooms, good ventilation, and functional layouts for long-term living."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 78 Gurugram",
+        "description": "10 Marla houses are preferred by tenants who want larger living areas, parking space, and enhanced privacy."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 78 Gurugram",
+        "description": "12 Marla rental houses fall under the premium segment, offering open spaces, modern construction, and upgraded comfort."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 78 Gurugram",
+        "description": "A 14 Marla house for rent is suitable for large families or tenants seeking spacious and peaceful residential living."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 78 Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in Sector 78 Gurugram often explore nearby localities to compare rental options, connectivity, and lifestyle benefits.",
+      "This section highlights surrounding residential areas to help users make informed rental decisions."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 78 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 77 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 79 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 80 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near NH-48", "path": "/", "icon": "Home" },
+      { "title": "House for Rent near SPR Road", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Manesar", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent near Sohna Road", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sector 78 Rental Houses",
+    "description": [
+      "Finding a genuine house for rent in Sector 78 Gurugram requires verified listings, transparent pricing, and reliable local expertise. Deal Acres focuses on trust and accuracy.",
+      "With a tenant-centric approach and strong understanding of Gurugram’s rental market, Deal Acres has become a preferred choice for renting independent houses."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "All rental properties are verified for ownership, authenticity, and availability."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear information about rent, deposits, and terms helps tenants decide confidently."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth knowledge of Sector 78 and nearby areas ensures accurate guidance."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "User-friendly tools and filters make property discovery quick and simple."
+      },
+      {
+        "title": "Tenant-Centric Recommendations",
+        "description": "Properties are suggested based on tenant budget, family size, and preferences."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Assistance with rental agreements and paperwork ensures a smooth process."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from property shortlisting to final move-in."
+      },
+      {
+        "title": "Trusted by Renters",
+        "description": "Deal Acres is known for reliability, transparency, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 78 Gurugram",
+    "description": "Common tenant questions related to house for rent in Sector 78 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 78 Gurugram a good area to rent a house?",
+        "answer": "Yes, Sector 78 is a planned and developing residential area with good connectivity and peaceful surroundings."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 78?",
+        "answer": "Independent houses from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Sector 78 suitable for family living?",
+        "answer": "Yes, the area is family-friendly with schools, healthcare facilities, and open spaces nearby."
+      },
+      {
+        "question": "Are furnished houses available in Sector 78?",
+        "answer": "Furnished and semi-furnished houses are available depending on owner preferences."
+      },
+      {
+        "question": "What is the average rent in Sector 78 Gurugram?",
+        "answer": "Rental values depend on plot size, condition, and location, offering mid-range to premium options."
+      },
+      {
+        "question": "How is connectivity from Sector 78?",
+        "answer": "Sector 78 is well-connected via NH-48, SPR Road, and nearby major city routes."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sector 78?",
+        "answer": "Some landlords allow bachelors, while others prefer families."
+      },
+      {
+        "question": "Is Sector 78 safe for tenants?",
+        "answer": "Yes, it is considered a safe and well-planned residential locality."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres provides verified listings, transparent information, and local rental expertise."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 78?",
+        "answer": "You can fill out the contact form to connect with experienced rental consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sector 78 Gurugram",
+    "description": [
+      "Finding the right house for rent in Sector 78 Gurugram becomes simple with expert assistance.",
+      "Share your details to connect with trusted property professionals who will help you find a rental home matching your needs and budget."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "domain": "Houseforsale.com",
+
+  "hero": {
+    "title": "Independent Houses for Sale in Well Connected Sector 77 Gurugram",
+    "description": [
+      "Sector 77 Gurugram is a rapidly developing residential area in New Gurugram, known for its planned infrastructure and smooth connectivity. Buyers looking for a House for sale in Sector 77 Gurugram are attracted to this location due to its proximity to NH-48, Southern Peripheral Road (SPR), and Dwarka Expressway. The sector is surrounded by reputed schools, hospitals, shopping complexes, supermarkets, and daily convenience stores, making it a practical choice for families seeking comfortable urban living.",
+      "Independent houses in Sector 77 are developed in an organized residential layout with wide internal roads, green surroundings, and improving civic amenities. The locality offers a peaceful lifestyle while remaining well-connected to major employment hubs and commercial zones. Investing in a house for sale in Sector 77 Gurugram means choosing a location with growing demand, good lifestyle quality, and strong long-term appreciation potential."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Sale",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Sale Options by Plot Size in Sector 77 Gurugram",
+    "description": [
+      "Choosing the right plot size is an important step when planning to buy a house for sale in Sector 77 Gurugram. The sector offers independent houses in multiple marla sizes, allowing buyers to select a home that matches their budget, family size, and lifestyle needs.",
+      "From compact houses suitable for efficient living to spacious homes designed for premium comfort, Sector 77 provides well-planned residential options with proper road connectivity, water supply, electricity, and steadily improving social infrastructure."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Sector 77 Gurugram",
+        "description": "A 4 Marla house for sale in Sector 77 Gurugram is ideal for small families and first-time homebuyers. These houses are budget-friendly, easy to maintain, and offer good rental potential due to rising residential demand."
+      },
+      {
+        "title": "6 Marla House for Sale in Sector 77 Gurugram",
+        "description": "6 Marla houses offer a balanced mix of space and affordability. These homes provide comfortable layouts, good ventilation, and parking facilities, making them suitable for long-term family living."
+      },
+      {
+        "title": "8 Marla House for Sale in Sector 77 Gurugram",
+        "description": "An 8 Marla house offers extra living space and flexibility in design. These houses are preferred by growing families looking for modern interiors and better lifestyle comfort."
+      },
+      {
+        "title": "10 Marla House for Sale in Sector 77 Gurugram",
+        "description": "A 10 Marla house for sale in Sector 77 Gurugram is considered a premium residential option. These houses feature spacious interiors, enhanced privacy, and strong resale value."
+      },
+      {
+        "title": "12 Marla House for Sale in Sector 77 Gurugram",
+        "description": "12 Marla houses are suitable for buyers who prioritize spacious living and architectural freedom. These homes support luxury living and long-term investment goals."
+      },
+      {
+        "title": "14 Marla House for Sale in Sector 77 Gurugram",
+        "description": "A 14 Marla house represents the most premium housing segment in Sector 77. Limited availability and increasing demand make these houses ideal for luxury living and future appreciation."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Sale in and Around Sector 77 Gurugram",
+    "description": [
+      "While searching for a house for sale in Sector 77 Gurugram, buyers often explore nearby sectors to compare pricing, infrastructure development, and connectivity advantages. New Gurugram offers several residential locations with strong growth potential.",
+      "This section helps users easily explore nearby areas and identify suitable housing options that align with their residential and investment goals."
+    ],
+    "locations": [
+      { "title": "House for Sale in Sector 77 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 76 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale in Sector 78 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Sector 79 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale in Sector 75 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Sale near NH-48", "path": "/", "icon": "Building" },
+      { "title": "House for Sale near SPR Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale in New Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Sector 77 Houses",
+    "description": [
+      "Buying a house for sale in Sector 77 Gurugram requires accurate information and verified listings. Deal Acres focuses on transparency, reliability, and buyer satisfaction to help users make confident property decisions.",
+      "With strong local market expertise and a customer-first approach, Deal Acres has become a trusted platform for families and investors searching for houses in Gurugram."
+    ],
+    "points": [
+      { "title": "Verified Property Listings", "description": "All house listings are verified to ensure authenticity and accuracy." },
+      { "title": "Transparent Pricing", "description": "Prices reflect actual market value with no hidden charges." },
+      { "title": "Local Market Expertise", "description": "In-depth knowledge of Sector 77 and nearby localities." },
+      { "title": "User-Friendly Platform", "description": "Easy navigation for a smooth and stress-free property search." },
+      { "title": "Buyer-Centric Services", "description": "Property solutions designed around genuine buyer needs." },
+      { "title": "Legal Guidance Support", "description": "Basic assistance with documentation and approvals." },
+      { "title": "End-to-End Assistance", "description": "Support from property discovery to final purchase." },
+      { "title": "Trusted by Homebuyers", "description": "Strong trust built through consistent service quality." }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses in Sector 77 Gurugram",
+    "description": "Common questions related to house for sale in Sector 77 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 77 Gurugram a good location to buy a house?",
+        "answer": "Yes, Sector 77 is a developing residential area with good connectivity, planned infrastructure, and strong long-term growth potential."
+      },
+      {
+        "question": "What house sizes are available in Sector 77?",
+        "answer": "Independent houses from 4 Marla to 14 Marla are available to suit different budgets and family requirements."
+      },
+      {
+        "question": "Is Sector 77 suitable for family living?",
+        "answer": "Yes, the sector offers a peaceful residential environment with access to schools, hospitals, parks, and daily convenience facilities."
+      },
+      {
+        "question": "Are ready-to-move houses available in Sector 77?",
+        "answer": "Yes, both ready-to-move and newly constructed houses are available in this sector."
+      },
+      {
+        "question": "Is buying a house in Sector 77 a good investment?",
+        "answer": "Due to its location near NH-48 and SPR, Sector 77 offers good future appreciation potential."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 77?",
+        "answer": "Most houses are eligible for home loans, subject to bank approval and clear documentation."
+      },
+      {
+        "question": "How is connectivity from Sector 77 Gurugram?",
+        "answer": "Sector 77 is well-connected to NH-48, SPR, and major areas of Gurugram."
+      },
+      {
+        "question": "Is Sector 77 good for rental income?",
+        "answer": "Yes, increasing residential demand makes Sector 77 suitable for stable rental returns."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, and expert local guidance."
+      },
+      {
+        "question": "How can I contact property experts?",
+        "answer": "You can fill out the contact form to connect with experienced property advisors."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Sale in Sector 77 Gurugram",
+    "description": [
+      "Buying a house for sale in Sector 77 Gurugram is a major financial decision, and expert guidance can make the entire process smooth and stress-free.",
+      "Share your details to connect with trusted property experts who will help you find the right house based on your budget, preferences, and long-term goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "domain": "Affordablehouseforsalecom",
+
+  "hero": {
+    "title": "Affordable and Well-Planned Houses for Sale in Sector 86 Gurugram",
+    "description": [
+      "Sector 86 Gurugram is one of the fastest-growing residential locations in New Gurugram, known for its planned infrastructure, wide roads, and excellent connectivity. Buyers searching for an affordable house for sale in Sector 86 Gurugram prefer this area due to its proximity to NH-48, Dwarka Expressway, IMT Manesar, and major employment hubs. The sector is surrounded by reputed residential projects, schools, hospitals, daily markets, and green spaces, making it suitable for families and working professionals looking for budget-friendly housing.",
+      "Affordable houses for sale in Sector 86 Gurugram offer a balanced combination of comfort, location advantage, and long-term value. With continuous development, improved road networks, and increasing residential demand, this area promises steady appreciation. Buying a house in Sector 86 allows homeowners to enjoy modern living at a reasonable price while securing a property in a location that supports future growth and lifestyle convenience."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Options by Plot Size in Sector 86 Gurugram",
+    "description": [
+      "Choosing the right house size in Sector 86 Gurugram depends on budget, family needs, and long-term planning.",
+      "The area offers multiple affordable house options built on different plot sizes to suit varied residential requirements."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House for Sale in Sector 86 Gurugram",
+        "description": "A 4 Marla affordable house in Sector 86 Gurugram is ideal for small families and first-time buyers. These homes provide essential living space with modern layouts at budget-friendly prices."
+      },
+      {
+        "title": "6 Marla Affordable House for Sale in Sector 86 Gurugram",
+        "description": "6 Marla houses offer a practical balance between space and affordability. They are suitable for growing families looking for comfortable living in a developing locality."
+      },
+      {
+        "title": "8 Marla Affordable House for Sale in Sector 86 Gurugram",
+        "description": "An 8 Marla affordable house provides better room sizes, parking space, and flexibility in design, making it a preferred choice for mid-sized families."
+      },
+      {
+        "title": "10 Marla Affordable House for Sale in Sector 86 Gurugram",
+        "description": "10 Marla houses are premium yet affordable options that allow spacious interiors and better lifestyle comfort while remaining cost-effective compared to central Gurugram."
+      },
+      {
+        "title": "12 Marla Affordable House for Sale in Sector 86 Gurugram",
+        "description": "A 12 Marla affordable house is suitable for buyers seeking larger living areas, open spaces, and long-term residential stability in New Gurugram."
+      },
+      {
+        "title": "14 Marla Affordable House for Sale in Sector 86 Gurugram",
+        "description": "14 Marla houses are ideal for buyers looking for expansive homes with strong appreciation potential in a rapidly developing residential corridor."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses Near Sector 86 Gurugram",
+    "description": [
+      "Buyers interested in affordable houses in Sector 86 Gurugram often explore nearby sectors to compare pricing, connectivity, and amenities.",
+      "This section highlights surrounding residential locations that complement Sector 86’s growth and affordability."
+    ],
+    "locations": [
+      { "title": "Affordable House for Sale in Sector 86 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 85 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 84 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 83 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Dwarka Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House in New Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Budget Homes in Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Affordable Houses in Sector 86",
+    "description": [
+      "Buying an affordable house for sale in Sector 86 Gurugram requires verified listings, transparent pricing, and expert local guidance.",
+      "Deal Acres has earned buyer trust by consistently delivering genuine properties and reliable end-to-end support."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All affordable houses are verified for ownership, approvals, and documentation."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing structure with no hidden costs or misleading commitments."
+      },
+      {
+        "title": "Strong Local Expertise",
+        "description": "In-depth understanding of Sector 86 pricing trends and future development plans."
+      },
+      {
+        "title": "Wide Inventory Options",
+        "description": "Multiple affordable house options across different plot sizes."
+      },
+      {
+        "title": "Legal and Registry Assistance",
+        "description": "Complete support with legal checks, registry, and compliance."
+      },
+      {
+        "title": "Personalized Property Guidance",
+        "description": "Recommendations based on buyer budget, family needs, and investment goals."
+      },
+      {
+        "title": "End-to-End Buying Support",
+        "description": "Assistance from property shortlisting to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for ethical practices, transparency, and long-term customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Sector 86 Gurugram",
+    "description": "Detailed answers to common buyer questions to help make informed property decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 86 Gurugram a good location to buy an affordable house?",
+        "answer": "Yes, Sector 86 is a rapidly developing area with good connectivity, modern infrastructure, and affordable housing options."
+      },
+      {
+        "question": "What sizes of affordable houses are available in Sector 86 Gurugram?",
+        "answer": "Affordable houses range from 4 Marla to 14 Marla, catering to different budgets and family sizes."
+      },
+      {
+        "question": "Is Sector 86 suitable for family living?",
+        "answer": "Yes, the sector offers schools, hospitals, parks, markets, and a peaceful residential environment."
+      },
+      {
+        "question": "Are affordable houses in Sector 86 legally approved?",
+        "answer": "Most properties are approved, and Deal Acres assists with legal verification and due diligence."
+      },
+      {
+        "question": "How is connectivity from Sector 86 Gurugram?",
+        "answer": "Sector 86 is well connected via NH-48, Dwarka Expressway, and major city roads."
+      },
+      {
+        "question": "Is buying an affordable house in Sector 86 a good investment?",
+        "answer": "Yes, with continuous development and demand, the area offers strong long-term appreciation."
+      },
+      {
+        "question": "Can I get a home loan for affordable houses in Sector 86?",
+        "answer": "Yes, leading banks and NBFCs offer home loans subject to eligibility."
+      },
+      {
+        "question": "What amenities are available near Sector 86?",
+        "answer": "Schools, hospitals, shopping centers, parks, and public transport are easily accessible."
+      },
+      {
+        "question": "Why choose Deal Acres for buying affordable houses?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, legal support, and complete assistance."
+      },
+      {
+        "question": "How can I contact property experts for Sector 86 Gurugram?",
+        "answer": "Simply fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for Buying Affordable Houses in Sector 86 Gurugram",
+    "description": [
+      "Finding the right affordable house for sale in Sector 86 Gurugram becomes easier with professional guidance.",
+      "Share your details to connect with trusted real estate experts who will help you explore verified properties matching your budget and lifestyle."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforsale.com",
+
+  "hero": {
+    "title": "Affordable Independent Houses for Sale in New Palam Vihar Gurugram",
+    "description": [
+      "New Palam Vihar Gurugram is a fast-growing residential locality that has emerged as a preferred choice for families and professionals seeking affordable yet well-connected housing options. Buyers looking for a house for sale in New Palam Vihar Gurugram are attracted by its proximity to Dwarka Expressway, NH-48, and Palam Vihar, which ensures smooth connectivity to IGI Airport, Delhi, Cyber City, and Udyog Vihar. The area is steadily developing with improved road infrastructure, nearby schools, hospitals, daily convenience markets, and public transport facilities, making it suitable for comfortable everyday living.",
+      "Independent houses in New Palam Vihar Gurugram offer a balanced lifestyle with spacious layouts, privacy, and a peaceful residential environment. Compared to many central sectors of Gurugram, this locality provides better affordability while still offering strong future growth potential. Whether you are a first-time homebuyer or an investor, choosing a house for sale in New Palam Vihar Gurugram ensures good rental demand, steady appreciation, and a practical living option in one of Gurugram’s emerging residential zones."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Sale",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Sale Options by Plot Size in New Palam Vihar",
+    "description": [
+      "Selecting the right plot size is an important step when planning to buy a house for sale in New Palam Vihar Gurugram, as it impacts space, comfort, and budget.",
+      "New Palam Vihar offers a variety of independent house sizes suitable for different family needs and long-term plans."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in New Palam Vihar Gurugram",
+        "description": "A 4 Marla house for sale in New Palam Vihar Gurugram is ideal for buyers seeking a compact and budget-friendly independent home. These houses are suitable for small families or first-time buyers who want good connectivity at an affordable price. Easy maintenance and consistent rental demand make 4 Marla houses a practical option."
+      },
+      {
+        "title": "6 Marla House for Sale in New Palam Vihar Gurugram",
+        "description": "A 6 Marla house for sale in New Palam Vihar Gurugram offers a comfortable balance between space and affordability. These homes typically include better room sizes, parking facilities, and ventilation. They are well-suited for nuclear families planning long-term residence in a growing locality."
+      },
+      {
+        "title": "8 Marla House for Sale in New Palam Vihar Gurugram",
+        "description": "An 8 Marla house for sale in New Palam Vihar Gurugram is preferred by families looking for more spacious interiors and flexible layouts. These houses often feature larger bedrooms, balconies, and separate living areas, making them ideal for comfortable family living."
+      },
+      {
+        "title": "10 Marla House for Sale in New Palam Vihar Gurugram",
+        "description": "A 10 Marla house for sale in New Palam Vihar Gurugram falls into the premium segment within the locality, offering enhanced privacy and larger layouts. These homes are suitable for joint families or buyers who prefer open spaces and long-term comfort."
+      },
+      {
+        "title": "12 Marla House for Sale in New Palam Vihar Gurugram",
+        "description": "A 12 Marla house for sale in New Palam Vihar Gurugram provides luxury-level space with premium fittings and better construction quality. These houses often include terraces and servant rooms, appealing to buyers who value exclusivity and spacious living."
+      },
+      {
+        "title": "14 Marla House for Sale in New Palam Vihar Gurugram",
+        "description": "A 14 Marla house for sale in New Palam Vihar Gurugram represents high-end independent living within a developing residential zone. These homes are rare and offer strong long-term appreciation due to increasing demand and infrastructure growth."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Sale In and Around New Palam Vihar Gurugram",
+    "description": [
+      "Buyers searching for a house for sale in New Palam Vihar Gurugram often explore nearby localities to compare pricing, connectivity, and future growth potential.",
+      "This section highlights surrounding residential areas to help users make informed decisions."
+    ],
+    "locations": [
+      { "title": "House for Sale in New Palam Vihar Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Palam Vihar Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale in Palam Vihar Extension Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Sector 23 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale near Dwarka Expressway", "path": "/", "icon": "Home" },
+      { "title": "House for Sale near IGI Airport", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Sector 21 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale in Udyog Vihar Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Deal Acres Is Trusted for Houses in New Palam Vihar",
+    "description": [
+      "Buying a house for sale in New Palam Vihar Gurugram requires verified listings, transparent pricing, and reliable guidance. Deal Acres focuses on building trust and clarity for every buyer.",
+      "With a buyer-first approach, Deal Acres has become a preferred platform for property buyers across Gurugram."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All properties are verified for ownership and authenticity to ensure buyer safety."
+      },
+      {
+        "title": "Transparent Pricing Insights",
+        "description": "Deal Acres provides clear and realistic pricing based on current market trends."
+      },
+      {
+        "title": "Local Area Expertise",
+        "description": "Strong understanding of New Palam Vihar helps buyers make confident choices."
+      },
+      {
+        "title": "User-Friendly Platform",
+        "description": "An easy-to-use interface allows smooth property search and comparison."
+      },
+      {
+        "title": "Buyer-Centric Recommendations",
+        "description": "Listings are curated according to buyer budget, needs, and future goals."
+      },
+      {
+        "title": "Documentation Guidance",
+        "description": "Basic assistance is provided for legal and documentation checks."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Support is available throughout the property buying journey."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "A strong reputation built on transparency and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About House for Sale in New Palam Vihar",
+    "description": "Detailed answers to common buyer queries for better clarity and confidence.",
+    "faqs": [
+      {
+        "question": "Is New Palam Vihar a good area to buy a house?",
+        "answer": "Yes, New Palam Vihar is a developing residential area with good connectivity and strong future growth potential."
+      },
+      {
+        "question": "What plot sizes are available in New Palam Vihar?",
+        "answer": "Independent houses are available from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Is New Palam Vihar suitable for family living?",
+        "answer": "Yes, the area offers a peaceful environment with nearby schools, hospitals, parks, and markets."
+      },
+      {
+        "question": "Are ready-to-move houses available here?",
+        "answer": "Yes, buyers can find ready-to-move and resale houses in New Palam Vihar."
+      },
+      {
+        "question": "Is New Palam Vihar good for rental income?",
+        "answer": "Yes, proximity to offices, airport, and major roads ensures steady rental demand."
+      },
+      {
+        "question": "Can I get a home loan for houses here?",
+        "answer": "Most houses are eligible for home loans, subject to bank approval and documentation."
+      },
+      {
+        "question": "How is connectivity from New Palam Vihar Gurugram?",
+        "answer": "The area is well-connected to Dwarka Expressway, NH-48, and IGI Airport."
+      },
+      {
+        "question": "Is New Palam Vihar good for long-term investment?",
+        "answer": "Yes, ongoing infrastructure development supports long-term appreciation."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and expert local guidance."
+      },
+      {
+        "question": "How can I contact property experts?",
+        "answer": "You can fill out the contact form on this page to connect with experienced consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Assistance for House for Sale in New Palam Vihar",
+    "description": [
+      "Buying a house for sale in New Palam Vihar Gurugram is an important decision, and expert guidance can make the process smooth and stress-free.",
+      "Share your details to connect with trusted property professionals who will help you find the right home based on your budget, preferences, and long-term plans."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

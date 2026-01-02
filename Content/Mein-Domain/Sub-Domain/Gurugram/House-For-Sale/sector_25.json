@@ -1,0 +1,151 @@
+{
+  "domain": "Houseforsale.com",
+
+  "hero": {
+    "title": "Premium Independent Houses for Sale in Sector 25 Gurugram",
+    "description": [
+      "Sector 25 Gurugram is one of the most sought-after residential locations due to its prime positioning near MG Road, DLF Cyber City, and major commercial hubs. Buyers looking for a house for sale in Sector 25 Gurugram prefer this area for its excellent connectivity, established infrastructure, and upscale neighborhood environment. The sector offers smooth access to metro stations, shopping malls, offices, and daily convenience facilities, making it ideal for professionals and families alike.",
+      "Independent houses in Sector 25 provide spacious living, privacy, and long-term value that apartment living often lacks. The locality is well-developed with reputed schools, hospitals, green parks, and lifestyle amenities nearby. Investing in a house for sale in Sector 25 Gurugram is a strong decision for buyers seeking premium living, high rental demand, and stable property appreciation in a central Gurugram location."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Sale",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Sale Options by Plot Size in Sector 25 Gurugram",
+    "description": [
+      "Selecting the right plot size is an important step when planning to buy a house for sale in Sector 25 Gurugram, as it affects comfort, layout, and budget.",
+      "Sector 25 offers multiple independent house configurations, suitable for compact living as well as luxury residential requirements."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Sector 25 Gurugram",
+        "description": "A 4 Marla house for sale in Sector 25 Gurugram is ideal for buyers seeking a compact independent home in a prime central location with good rental potential."
+      },
+      {
+        "title": "6 Marla House for Sale in Sector 25 Gurugram",
+        "description": "6 Marla houses offer a balanced mix of affordability and space, suitable for small families and working professionals."
+      },
+      {
+        "title": "8 Marla House for Sale in Sector 25 Gurugram",
+        "description": "An 8 Marla house provides spacious interiors, better ventilation, and flexibility in interior planning for long-term comfort."
+      },
+      {
+        "title": "10 Marla House for Sale in Sector 25 Gurugram",
+        "description": "10 Marla houses are preferred by buyers looking for premium living, privacy, and higher resale value."
+      },
+      {
+        "title": "12 Marla House for Sale in Sector 25 Gurugram",
+        "description": "12 Marla houses fall under the luxury segment, offering modern architecture, open spaces, and exclusivity."
+      },
+      {
+        "title": "14 Marla House for Sale in Sector 25 Gurugram",
+        "description": "A 14 Marla house represents high-end living with expansive layouts, premium construction quality, and strong long-term appreciation."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Sale Near Sector 25 Gurugram",
+    "description": [
+      "Buyers searching for a house for sale in Sector 25 Gurugram often explore nearby prime sectors to compare lifestyle, pricing, and connectivity advantages.",
+      "This section helps users easily navigate and discover nearby residential locations."
+    ],
+    "locations": [
+      { "title": "House for Sale in Sector 25 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in DLF Phase 2", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale in DLF Phase 3", "path": "/", "icon": "Building" },
+      { "title": "House for Sale near MG Road", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale in Sector 24 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 26 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale near Cyber City", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale in Udyog Vihar", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Sector 25 Houses",
+    "description": [
+      "Buying a house for sale in Sector 25 Gurugram requires verified listings, clear pricing, and dependable local support. Deal Acres ensures buyers receive accurate and transparent property information.",
+      "With a strong focus on customer trust and market expertise, Deal Acres has become a preferred platform for independent house buyers in Gurugram."
+    ],
+    "points": [
+      { "title": "Verified Property Listings", "description": "Each house listing is checked for ownership and authenticity." },
+      { "title": "Transparent Pricing Insights", "description": "Pricing is based on real-time market data and trends." },
+      { "title": "Local Area Expertise", "description": "Deep understanding of Sector 25 and nearby prime locations." },
+      { "title": "User-Friendly Platform", "description": "Simple and intuitive interface for easy property search." },
+      { "title": "Buyer-Focused Recommendations", "description": "Suggestions aligned with buyer budget and requirements." },
+      { "title": "Documentation Assistance", "description": "Basic guidance for legal and ownership documentation." },
+      { "title": "End-to-End Support", "description": "Assistance from property search to final deal closure." },
+      { "title": "Trusted by Homebuyers", "description": "Strong reputation built on transparency and service quality." }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses in Sector 25 Gurugram",
+    "description": "Common buyer queries related to house for sale in Sector 25 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 25 Gurugram a good location to buy a house?",
+        "answer": "Yes, Sector 25 is a premium central location with excellent connectivity, amenities, and strong investment value."
+      },
+      {
+        "question": "What plot sizes are available in Sector 25?",
+        "answer": "Independent houses are generally available from 4 Marla to 14 Marla."
+      },
+      {
+        "question": "Is Sector 25 suitable for family living?",
+        "answer": "Yes, the area offers a secure environment with schools, hospitals, and parks nearby."
+      },
+      {
+        "question": "Are ready-to-move houses available in Sector 25?",
+        "answer": "Yes, buyers can find both ready-to-move and renovated independent houses."
+      },
+      {
+        "question": "Is Sector 25 good for rental income?",
+        "answer": "Yes, due to proximity to Cyber City and MG Road, rental demand is consistently high."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 25?",
+        "answer": "Most houses are eligible for home loans, subject to bank approval."
+      },
+      {
+        "question": "How is connectivity from Sector 25 Gurugram?",
+        "answer": "Sector 25 is well-connected via MG Road, metro stations, and major arterial roads."
+      },
+      {
+        "question": "Is Sector 25 good for long-term investment?",
+        "answer": "Yes, limited supply and central location support steady appreciation."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, and local market expertise."
+      },
+      {
+        "question": "How can I contact property experts for Sector 25?",
+        "answer": "You can fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Sale in Sector 25 Gurugram",
+    "description": [
+      "Buying a house for sale in Sector 25 Gurugram is a significant investment, and expert assistance can make the process smooth and secure.",
+      "Share your details to connect with trusted property experts who will help you find the right home based on your budget, preferences, and long-term goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

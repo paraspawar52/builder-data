@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Residential and Investment Plots in Rapidly Growing Sector 78 Gurugram",
+    "description": [
+      "Sector 78 Gurugram is an emerging residential destination that has gained strong attention from buyers and investors due to its modern infrastructure and strategic location. People searching for a plot in Sector 78 Gurugram are drawn to the area because of its proximity to NH-48, Southern Peripheral Road (SPR), and upcoming commercial developments. The sector is surrounded by new-age residential projects, wide roads, green zones, and essential lifestyle amenities, making it ideal for future-ready living.",
+      "Plots in Sector 78 Gurugram offer excellent potential for both residential construction and long-term investment. As the area continues to develop with improved connectivity, social infrastructure, and commercial activity, land value is expected to rise steadily. Choosing a plot in Sector 78 Gurugram allows buyers to secure property in a planned sector that promises growth, convenience, and sustainable appreciation."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 78",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1605276373954-0c4a0dac5b12?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Options by Size in Sector 78 Gurugram",
+    "description": [
+      "Selecting the right plot size in Sector 78 Gurugram is important for efficient home planning and long-term investment returns.",
+      "Sector 78 offers multiple plot size options to suit different budgets, construction plans, and future goals."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 78 Gurugram",
+        "description": "A 4 Marla plot in Sector 78 Gurugram is ideal for compact homes and first-time buyers seeking affordability in a developing sector."
+      },
+      {
+        "title": "6 Marla Plot in Sector 78 Gurugram",
+        "description": "6 Marla plots provide balanced space for comfortable residential construction with modern layouts and parking."
+      },
+      {
+        "title": "8 Marla Plot in Sector 78 Gurugram",
+        "description": "An 8 Marla plot allows flexibility for spacious house designs, making it suitable for growing families."
+      },
+      {
+        "title": "10 Marla Plot in Sector 78 Gurugram",
+        "description": "10 Marla plots are preferred by buyers looking for larger homes with better resale and rental value."
+      },
+      {
+        "title": "12 Marla Plot in Sector 78 Gurugram",
+        "description": "A 12 Marla plot offers ample land for premium independent houses with open spaces."
+      },
+      {
+        "title": "14 Marla Plot in Sector 78 Gurugram",
+        "description": "14 Marla plots are suitable for buyers focused on long-term investment and high appreciation potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Plot Options Near Sector 78 Gurugram",
+    "description": [
+      "Buyers interested in a plot in Sector 78 Gurugram often compare nearby sectors to evaluate pricing and connectivity benefits.",
+      "This section highlights surrounding locations to help users make informed property decisions."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 78 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 77 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 79 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 80 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near NH-48", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near SPR Road", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Manesar", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in New Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 78 Gurugram",
+    "description": [
+      "Buying a plot in Sector 78 Gurugram requires verified listings, transparent pricing, and expert local guidance.",
+      "Deal Acres has built trust by delivering reliable services and customer-focused solutions."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are checked for ownership authenticity and legal approvals."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear and honest pricing with no hidden costs."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth understanding of Sector 78 Gurugram and nearby developments."
+      },
+      {
+        "title": "Wide Plot Options",
+        "description": "Multiple plot sizes available to match different buyer needs."
+      },
+      {
+        "title": "Legal & Registry Support",
+        "description": "Complete assistance with documentation and registry processes."
+      },
+      {
+        "title": "Personalized Property Matching",
+        "description": "Customized plot recommendations based on budget and purpose."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from property search to final possession."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Deal Acres is known for professionalism and long-term customer trust."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 78 Gurugram",
+    "description": "Common queries related to buying plots in Sector 78 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 78 Gurugram a good location to buy a plot?",
+        "answer": "Yes, Sector 78 is a rapidly developing area with strong future growth potential and improving infrastructure."
+      },
+      {
+        "question": "What plot sizes are available in Sector 78 Gurugram?",
+        "answer": "Plots generally range from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Is Sector 78 suitable for residential construction?",
+        "answer": "Yes, the sector is suitable for independent house construction and planned residential living."
+      },
+      {
+        "question": "Is buying a plot in Sector 78 a good investment?",
+        "answer": "Due to ongoing development and connectivity improvements, Sector 78 offers good long-term investment prospects."
+      },
+      {
+        "question": "Are plots in Sector 78 legally approved?",
+        "answer": "Most plots are approved, but legal verification is essential before purchase."
+      },
+      {
+        "question": "How is connectivity from Sector 78 Gurugram?",
+        "answer": "Sector 78 is well connected to NH-48, SPR Road, and nearby sectors."
+      },
+      {
+        "question": "Can construction start immediately after purchase?",
+        "answer": "Construction depends on local authority approvals and applicable building norms."
+      },
+      {
+        "question": "What amenities are available near Sector 78?",
+        "answer": "Schools, hospitals, shopping centers, and daily convenience stores are located nearby."
+      },
+      {
+        "question": "Why choose Deal Acres for buying plots?",
+        "answer": "Deal Acres provides verified listings, transparent processes, and expert guidance."
+      },
+      {
+        "question": "How can I contact property experts?",
+        "answer": "You can fill out the contact form to connect with experienced plot consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Buying Plots in Sector 78 Gurugram",
+    "description": [
+      "Finding the right plot in Sector 78 Gurugram becomes simple with professional assistance.",
+      "Share your details to connect with trusted experts who will help you find verified plots aligned with your budget and goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

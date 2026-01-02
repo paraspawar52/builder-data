@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Modern And Well Connected Houses for Rent in Sector 84 Gurugram",
+    "description": [
+      "Sector 84 Gurugram is a rapidly developing residential area known for its planned infrastructure, peaceful surroundings, and excellent connectivity. Tenants searching for a house for rent in Sector 84 Gurugram are drawn to this locality because it offers a modern lifestyle while staying close to major routes like Dwarka Expressway, NH-48, and Pataudi Road. The sector is part of New Gurugram, making it a preferred choice for professionals working in corporate hubs and industrial zones nearby.",
+      "Independent houses in Sector 84 provide spacious layouts, good ventilation, and a comfortable living experience. The area is surrounded by reputed schools, healthcare centers, shopping complexes, and daily convenience stores, ensuring all essential needs are easily accessible. Choosing a house for rent in Sector 84 Gurugram is ideal for families and individuals looking for long-term rental stability, safety, and a balanced urban lifestyle."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964205360-0f2b9a1b4c63?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661901989603-0c5c6c9e0e8a?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sector 84",
+    "description": [
+      "Selecting the right plot size is an important step when choosing a house for rent in Sector 84 Gurugram, as it directly impacts comfort, privacy, and rental budget.",
+      "Sector 84 offers independent houses in multiple Marla sizes, making it suitable for small families, growing households, and tenants looking for premium living."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 84 Gurugram",
+        "description": "A 4 Marla house for rent in Sector 84 Gurugram is ideal for couples and small families seeking an affordable, low-maintenance home in a well-connected location."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 84 Gurugram",
+        "description": "6 Marla houses provide a balanced mix of space and affordability, making them a popular choice for nuclear families and working professionals."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 84 Gurugram",
+        "description": "An 8 Marla house for rent offers spacious rooms, better ventilation, and comfortable living for medium-sized families."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 84 Gurugram",
+        "description": "10 Marla houses are suitable for tenants who prefer larger living areas, dedicated parking, and enhanced privacy."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 84 Gurugram",
+        "description": "12 Marla houses fall under the premium rental segment, offering open layouts, modern design, and a refined lifestyle."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 84 Gurugram",
+        "description": "A 14 Marla house for rent in Sector 84 Gurugram is ideal for large or joint families looking for luxury, space, and exclusivity."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 84 Gurugram",
+    "description": [
+      "Tenants looking for a house for rent in Sector 84 Gurugram often explore nearby sectors to compare rental prices, connectivity, and lifestyle options.",
+      "This section highlights surrounding residential areas to help users find the most suitable rental home around Sector 84."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 84 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 83 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 85 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent near Dwarka Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 82 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 86 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent near NH-48 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in New Gurugram Area", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sector 84 Rental Homes",
+    "description": [
+      "Finding a reliable house for rent in Sector 84 Gurugram requires verified listings, transparent pricing, and local market expertise. Deal Acres is built on trust, accuracy, and a customer-first approach.",
+      "With deep knowledge of the Gurugram rental market and a focus on tenant satisfaction, Deal Acres has become a preferred platform for renting independent houses in Sector 84."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All rental houses are verified to ensure authenticity and genuine ownership details."
+      },
+      {
+        "title": "Transparent Rental Pricing",
+        "description": "Clear information on rent, security deposit, and terms without hidden charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 84 and surrounding residential areas."
+      },
+      {
+        "title": "Easy Property Search Experience",
+        "description": "User-friendly filters and smooth navigation for faster house discovery."
+      },
+      {
+        "title": "Tenant-Centric Recommendations",
+        "description": "Property suggestions aligned with tenant budget, family size, and preferences."
+      },
+      {
+        "title": "Complete Documentation Support",
+        "description": "Assistance with rental agreements and related paperwork."
+      },
+      {
+        "title": "End-to-End Rental Assistance",
+        "description": "Support from initial inquiry to final possession of the rental house."
+      },
+      {
+        "title": "Trusted by Thousands of Renters",
+        "description": "Deal Acres is known for reliability, transparency, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 84",
+    "description": "Common tenant questions related to house for rent in Sector 84 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 84 Gurugram a good area to rent a house?",
+        "answer": "Yes, Sector 84 is a well-planned and developing area with excellent connectivity and modern infrastructure, making it ideal for renting."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 84?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are commonly available for rent in Sector 84."
+      },
+      {
+        "question": "Is Sector 84 suitable for family living?",
+        "answer": "Yes, the area has schools, hospitals, parks, and daily convenience stores nearby, making it family-friendly."
+      },
+      {
+        "question": "Are furnished houses available in Sector 84?",
+        "answer": "Yes, furnished, semi-furnished, and unfurnished houses are available depending on the property."
+      },
+      {
+        "question": "What is the average rent in Sector 84 Gurugram?",
+        "answer": "Rental prices vary based on plot size, amenities, and exact location within the sector."
+      },
+      {
+        "question": "How is connectivity from Sector 84?",
+        "answer": "Sector 84 has excellent connectivity via Dwarka Expressway, NH-48, and major city roads."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sector 84?",
+        "answer": "Some landlords allow bachelors, while others prefer families, depending on property rules."
+      },
+      {
+        "question": "Is Sector 84 safe for tenants?",
+        "answer": "Yes, Sector 84 is a secure and well-populated residential area with planned infrastructure."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent details, and expert rental guidance."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 84?",
+        "answer": "You can fill out the contact form to connect with experienced rental consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sector 84 Gurugram",
+    "description": [
+      "Finding the right house for rent in Sector 84 Gurugram becomes simple with professional guidance and verified listings.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that matches your budget, space requirements, and lifestyle preferences."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

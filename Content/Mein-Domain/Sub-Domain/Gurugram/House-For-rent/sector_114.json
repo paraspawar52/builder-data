@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Well Planned Independent Houses for Rent in Sector 114 Gurugram",
+    "description": [
+      "Sector 114 Gurugram is a rapidly emerging residential locality located near the Dwarka Expressway, offering excellent connectivity to Delhi, IGI Airport, and key areas of Gurugram. People looking for a house for rent in Sector 114 Gurugram are attracted by its strategic location, planned infrastructure, and peaceful surroundings. The sector is witnessing steady development with upcoming schools, healthcare facilities, shopping centers, and daily convenience stores, making it a suitable choice for families and working professionals.",
+      "Independent houses in Sector 114 provide spacious living, better privacy, and a calm neighborhood environment compared to high-density apartment societies. The locality is ideal for tenants seeking long-term rental options with easy access to both Gurugram and Delhi. Choosing a house for rent in Sector 114 Gurugram means enjoying modern connectivity, comfortable living spaces, and strong future growth potential."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sector 114 Gurugram",
+    "description": [
+      "Selecting the right plot size is an important factor when searching for a house for rent in Sector 114 Gurugram, as it directly impacts comfort, space, and monthly rent.",
+      "Sector 114 offers a variety of independent houses on rent, suitable for small families, large households, and tenants looking for spacious living."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 114 Gurugram",
+        "description": "A 4 Marla house for rent in Sector 114 Gurugram is ideal for couples or small families seeking an affordable and low-maintenance rental home."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 114 Gurugram",
+        "description": "6 Marla houses provide a good balance of space and affordability, making them suitable for families looking for comfortable living."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 114 Gurugram",
+        "description": "An 8 Marla rental house offers spacious interiors, proper ventilation, and a practical layout for long-term family living."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 114 Gurugram",
+        "description": "10 Marla houses are preferred by tenants who want larger living areas, parking space, and better privacy."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 114 Gurugram",
+        "description": "12 Marla rental houses fall into the premium segment, offering open areas, modern construction, and enhanced comfort."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 114 Gurugram",
+        "description": "A 14 Marla house for rent is suitable for large families or corporate tenants seeking luxury, space, and a peaceful residential environment."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 114 Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in Sector 114 Gurugram often explore nearby sectors to compare rental prices, connectivity, and lifestyle benefits.",
+      "This section helps users discover surrounding residential areas and make informed rental decisions."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 114 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 113 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 115 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 110 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near Dwarka Expressway", "path": "/", "icon": "Home" },
+      { "title": "House for Rent near Dwarka Sector 21", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Palam Vihar", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent near IGI Airport", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sector 114 Rental Houses",
+    "description": [
+      "Finding a genuine house for rent in Sector 114 Gurugram requires verified listings, transparent pricing, and reliable local market knowledge. Deal Acres is built on trust.",
+      "With a tenant-first approach and strong presence in Gurugram’s rental market, Deal Acres has become a preferred platform for renting independent houses."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "All properties are verified for ownership, authenticity, and current availability to ensure tenant safety."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear information about rent, security deposits, and rental terms helps tenants make confident decisions."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong knowledge of Sector 114 and nearby areas ensures accurate rental guidance."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "User-friendly tools make finding the right house for rent quick and convenient."
+      },
+      {
+        "title": "Tenant-Centric Recommendations",
+        "description": "Property suggestions are tailored to tenant budget, family size, and lifestyle needs."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Assistance with rental agreements and paperwork ensures a smooth and secure process."
+      },
+      {
+        "title": "End-to-End Rental Assistance",
+        "description": "Support from property search to final move-in ensures a hassle-free rental experience."
+      },
+      {
+        "title": "Trusted by Renters",
+        "description": "Deal Acres is trusted for transparency, reliability, and high customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 114 Gurugram",
+    "description": "Common tenant questions related to house for rent in Sector 114 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 114 Gurugram a good area to rent a house?",
+        "answer": "Yes, Sector 114 is a developing locality with good connectivity to Delhi and Gurugram, making it suitable for long-term rental living."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 114?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are available for different family sizes and budgets."
+      },
+      {
+        "question": "Is Sector 114 suitable for family living?",
+        "answer": "Yes, the area offers a peaceful environment with access to schools, healthcare facilities, and daily essentials nearby."
+      },
+      {
+        "question": "Are furnished houses available for rent in Sector 114?",
+        "answer": "Furnished and semi-furnished houses are available depending on the property and landlord preferences."
+      },
+      {
+        "question": "What is the average rent in Sector 114 Gurugram?",
+        "answer": "Rental values depend on plot size, furnishings, and location, but Sector 114 offers relatively affordable rental options."
+      },
+      {
+        "question": "How is connectivity from Sector 114?",
+        "answer": "Sector 114 enjoys good connectivity via Dwarka Expressway with easy access to Delhi, IGI Airport, and central Gurugram."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sector 114?",
+        "answer": "Some landlords allow bachelors, while others prefer families. This depends on individual owner policies."
+      },
+      {
+        "question": "Is Sector 114 safe for tenants?",
+        "answer": "Yes, the locality is considered safe with developing infrastructure and active residential communities."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent rental details, and expert local assistance."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 114?",
+        "answer": "You can fill out the contact form to connect with experienced rental property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sector 114 Gurugram",
+    "description": [
+      "Finding the right house for rent in Sector 114 Gurugram becomes easy and stress-free with expert guidance.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that matches your budget, preferences, and lifestyle needs."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Luxury Residential and Investment Plots in Prime DLF Phase 5 Gurugram",
+    "description": [
+      "DLF Phase 5 Gurugram is one of the most premium and elite residential localities in the city, located along the prestigious Golf Course Road. Buyers searching for a plot in DLF Phase 5 Gurugram choose this area for its unmatched lifestyle, top-class infrastructure, and excellent connectivity to Cyber City, Rapid Metro, NH-48, and major business hubs. The locality is surrounded by luxury apartments, independent villas, high-end retail outlets, international schools, and world-class hospitals.",
+      "Plots in DLF Phase 5 are extremely limited and highly valuable due to the area’s exclusivity and strong demand among premium buyers. Whether you plan to construct a luxury independent villa or invest in land with assured appreciation, this location offers long-term security and prestige. Choosing a plot in DLF Phase 5 Gurugram means investing in superior living standards, prime connectivity, and one of the most sought-after addresses in Gurugram."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in DLF Phase 5",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Options by Size in DLF Phase 5 Gurugram",
+    "description": [
+      "Choosing the right plot size in DLF Phase 5 Gurugram is crucial for luxury home planning and long-term investment growth.",
+      "DLF Phase 5 offers premium plot sizes designed for high-end residential construction and elite lifestyles."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in DLF Phase 5 Gurugram",
+        "description": "A 4 Marla plot in DLF Phase 5 Gurugram is suitable for compact luxury homes in a highly prestigious neighborhood with excellent resale value."
+      },
+      {
+        "title": "6 Marla Plot in DLF Phase 5 Gurugram",
+        "description": "6 Marla plots provide a balanced option for comfortable independent homes with parking and efficient layouts."
+      },
+      {
+        "title": "8 Marla Plot in DLF Phase 5 Gurugram",
+        "description": "An 8 Marla plot allows greater design flexibility, making it ideal for spacious family residences with modern architecture."
+      },
+      {
+        "title": "10 Marla Plot in DLF Phase 5 Gurugram",
+        "description": "10 Marla plots fall into the premium segment and are highly preferred for luxury villas in Golf Course Road vicinity."
+      },
+      {
+        "title": "12 Marla Plot in DLF Phase 5 Gurugram",
+        "description": "A 12 Marla plot offers ample space for high-end villas with landscaped areas and private living environments."
+      },
+      {
+        "title": "14 Marla Plot in DLF Phase 5 Gurugram",
+        "description": "14 Marla plots represent elite investment opportunities, attracting buyers seeking exclusivity, space, and long-term appreciation."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Plot Options Near DLF Phase 5 Gurugram",
+    "description": [
+      "Buyers interested in a plot in DLF Phase 5 Gurugram often explore nearby premium locations along Golf Course Road.",
+      "This section highlights surrounding areas to help users compare lifestyle benefits and investment potential."
+    ],
+    "locations": [
+      { "title": "Plot in DLF Phase 5 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in DLF Phase 1 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in DLF Phase 4 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 42 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Golf Course Road", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Rapid Metro", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Cyber City Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Central Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in DLF Phase 5 Gurugram",
+    "description": [
+      "Buying a plot in DLF Phase 5 Gurugram requires expert guidance, verified listings, and complete transparency.",
+      "Deal Acres is trusted by premium buyers for its professionalism, market expertise, and end-to-end support."
+    ],
+    "points": [
+      {
+        "title": "Verified Premium Listings",
+        "description": "All plots are verified for ownership, approvals, and legal authenticity."
+      },
+      {
+        "title": "Transparent Pricing Policy",
+        "description": "No hidden costs, ensuring complete peace of mind for buyers."
+      },
+      {
+        "title": "Strong Local Expertise",
+        "description": "In-depth understanding of DLF Phase 5 micro-market trends."
+      },
+      {
+        "title": "Access to Exclusive Plots",
+        "description": "Availability of limited and high-value plots in prime locations."
+      },
+      {
+        "title": "Legal & Registry Assistance",
+        "description": "Complete support for documentation, registry, and compliance."
+      },
+      {
+        "title": "Personalized Buying Support",
+        "description": "Property recommendations aligned with lifestyle and investment goals."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from initial inquiry to final possession."
+      },
+      {
+        "title": "Trusted by Elite Buyers",
+        "description": "Deal Acres is known for trust, reliability, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in DLF Phase 5 Gurugram",
+    "description": "Common buyer queries related to plot purchase in DLF Phase 5 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is DLF Phase 5 Gurugram a good location to buy a plot?",
+        "answer": "Yes, DLF Phase 5 is one of the most premium and sought-after residential locations in Gurugram with excellent appreciation potential."
+      },
+      {
+        "question": "What plot sizes are available in DLF Phase 5 Gurugram?",
+        "answer": "Plot sizes generally range from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Is DLF Phase 5 suitable for luxury home construction?",
+        "answer": "Absolutely. The area is ideal for luxury independent villas and premium residences."
+      },
+      {
+        "question": "Is buying a plot in DLF Phase 5 a good investment?",
+        "answer": "Due to limited supply, prime location, and strong demand, DLF Phase 5 offers excellent long-term returns."
+      },
+      {
+        "question": "Are plots in DLF Phase 5 legally approved?",
+        "answer": "Most plots have clear titles, but legal verification is essential before purchase."
+      },
+      {
+        "question": "How is connectivity from DLF Phase 5 Gurugram?",
+        "answer": "The area offers excellent connectivity via Golf Course Road, Rapid Metro, and NH-48."
+      },
+      {
+        "question": "Can construction start immediately after purchase?",
+        "answer": "Construction depends on local building norms and required approvals."
+      },
+      {
+        "question": "What amenities are available near DLF Phase 5?",
+        "answer": "Luxury malls, schools, hospitals, parks, and business hubs are located nearby."
+      },
+      {
+        "question": "Why should I choose Deal Acres for buying plots?",
+        "answer": "Deal Acres offers verified listings, transparent processes, and complete buyer assistance."
+      },
+      {
+        "question": "How can I contact plot buying experts?",
+        "answer": "You can fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Buying Plots in DLF Phase 5 Gurugram",
+    "description": [
+      "Finding the right plot in DLF Phase 5 Gurugram becomes effortless with expert support.",
+      "Share your details to connect with trusted professionals who will help you secure verified plots matching your lifestyle and investment goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

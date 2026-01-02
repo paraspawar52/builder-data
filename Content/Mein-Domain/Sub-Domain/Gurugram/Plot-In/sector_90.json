@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Modern Residential and Investment Plots in Sector 90 Gurugram",
+    "description": [
+      "Sector 90 Gurugram is a fast-emerging residential destination in New Gurugram, known for its planned infrastructure, wide internal roads, and well-organized surroundings. Buyers searching for a Plot in Sector 90 Gurugram are attracted by its strategic location near Dwarka Expressway, NH-48, and key commercial and employment hubs. The sector is surrounded by newly developed residential projects, upcoming commercial spaces, schools, hospitals, and green zones, making it suitable for comfortable and future-ready living.",
+      "Plots in Sector 90 Gurugram offer an excellent opportunity for both homebuyers and long-term investors. With continuous development, improving connectivity, and increasing residential demand, the area shows strong appreciation potential. Choosing a plot in Sector 90 Gurugram provides flexibility to build as per personal requirements while securing an asset in one of Gurugram’s rapidly developing growth corridors."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 90",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Size Options Available in Sector 90 Gurugram",
+    "description": [
+      "Choosing the right plot size in Sector 90 Gurugram is an important decision that affects construction planning, lifestyle comfort, and future resale value.",
+      "Sector 90 offers a variety of plot sizes suitable for compact homes, family residences, and premium villa developments."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 90 Gurugram",
+        "description": "A 4 Marla plot in Sector 90 Gurugram is ideal for buyers looking for an affordable entry into a developing residential location. These plots are suitable for compact homes and attract steady demand from small families and tenants. With ongoing development around the sector, 4 Marla plots offer practical living along with gradual appreciation."
+      },
+      {
+        "title": "6 Marla Plot in Sector 90 Gurugram",
+        "description": "6 Marla plots in Sector 90 Gurugram offer a balanced mix of affordability and usable space. They are suitable for comfortable independent homes with proper ventilation and parking. Due to consistent end-user demand, this plot size remains a popular and reliable choice."
+      },
+      {
+        "title": "8 Marla Plot in Sector 90 Gurugram",
+        "description": "An 8 Marla plot in Sector 90 Gurugram provides greater flexibility in home design and layout. Buyers planning duplex homes or independent floors often prefer this size. With improving connectivity and infrastructure, 8 Marla plots hold strong resale and appreciation potential."
+      },
+      {
+        "title": "10 Marla Plot in Sector 90 Gurugram",
+        "description": "10 Marla plots are considered premium options in Sector 90 Gurugram. These plots allow the construction of spacious homes with modern layouts and landscaped areas. Investors favor this size due to higher demand and long-term capital growth prospects."
+      },
+      {
+        "title": "12 Marla Plot in Sector 90 Gurugram",
+        "description": "A 12 Marla plot in Sector 90 Gurugram is ideal for buyers seeking spacious living and luxury construction options. Limited availability of such plots makes them valuable assets with strong future appreciation."
+      },
+      {
+        "title": "14 Marla Plot in Sector 90 Gurugram",
+        "description": "14 Marla plots in Sector 90 Gurugram cater to buyers looking for expansive land parcels and exclusive residential development. Suitable for luxury villas, these plots offer excellent long-term growth potential in New Gurugram."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Plot Options Near Sector 90 Gurugram",
+    "description": [
+      "Buyers interested in a Plot in Sector 90 Gurugram often explore nearby sectors to compare pricing, connectivity, and development progress.",
+      "This section highlights surrounding locations that enhance Sector 90’s residential appeal and investment potential."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 90 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 89 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 91 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 88 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Dwarka Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in New Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Plots in Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 90 Gurugram",
+    "description": [
+      "Buying a Plot in Sector 90 Gurugram requires verified listings, transparent transactions, and reliable local expertise.",
+      "Deal Acres has earned strong customer trust by delivering ethical practices, accurate information, and end-to-end property solutions."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots listed on Deal Acres are thoroughly verified for ownership, approvals, and legal documentation."
+      },
+      {
+        "title": "Transparent Pricing Structure",
+        "description": "Clear and honest pricing with no hidden charges helps buyers plan confidently."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth knowledge of Sector 90 Gurugram price trends, infrastructure updates, and future growth."
+      },
+      {
+        "title": "Wide Range of Plot Options",
+        "description": "Access to multiple plot sizes and configurations to match diverse budgets and needs."
+      },
+      {
+        "title": "Legal and Registry Support",
+        "description": "Complete assistance with legal verification, registry procedures, and compliance."
+      },
+      {
+        "title": "Personalized Property Guidance",
+        "description": "Tailored recommendations based on buyer preferences, lifestyle, and investment goals."
+      },
+      {
+        "title": "End-to-End Buying Assistance",
+        "description": "Support from property shortlisting to final possession for a smooth experience."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for customer satisfaction, ethical dealings, and long-term trust."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 90 Gurugram",
+    "description": "Detailed answers to common buyer queries to help make informed property decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 90 Gurugram a good location to buy a plot?",
+        "answer": "Yes, Sector 90 Gurugram is a rapidly developing residential area with strong connectivity and high appreciation potential, making it suitable for both living and investment."
+      },
+      {
+        "question": "What plot sizes are available in Sector 90 Gurugram?",
+        "answer": "Plots in Sector 90 Gurugram are available in sizes ranging from 4 Marla to 14 Marla, catering to different budgets and construction needs."
+      },
+      {
+        "question": "Is Sector 90 suitable for residential construction?",
+        "answer": "Yes, Sector 90 is suitable for residential construction due to its planned layout, wide roads, and nearby amenities."
+      },
+      {
+        "question": "Is buying a plot in Sector 90 a good investment?",
+        "answer": "With ongoing development and increasing demand, plots in Sector 90 Gurugram offer strong long-term appreciation and investment security."
+      },
+      {
+        "question": "Are plots in Sector 90 legally approved?",
+        "answer": "Most plots are legally approved, but buyers should always verify documents. Deal Acres provides legal due diligence support."
+      },
+      {
+        "question": "How is connectivity from Sector 90 Gurugram?",
+        "answer": "Sector 90 enjoys good connectivity via Dwarka Expressway and NH-48, ensuring easy access to Gurugram and Delhi."
+      },
+      {
+        "question": "Can construction start immediately after purchase?",
+        "answer": "Construction depends on local building norms and approvals. Expert consultation is recommended before starting construction."
+      },
+      {
+        "question": "What amenities are available near Sector 90?",
+        "answer": "The area offers access to schools, hospitals, shopping centers, parks, and daily convenience facilities."
+      },
+      {
+        "question": "Why should I choose Deal Acres for buying plots?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, legal support, and complete buyer assistance."
+      },
+      {
+        "question": "How can I contact property experts for Sector 90 plots?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Buying Plots in Sector 90 Gurugram",
+    "description": [
+      "Finding the right Plot in Sector 90 Gurugram becomes easy with professional guidance and verified property listings.",
+      "Share your details to connect with trusted real estate experts who will help you explore genuine plot options, compare prices, and make a confident decision aligned with your budget and long-term goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

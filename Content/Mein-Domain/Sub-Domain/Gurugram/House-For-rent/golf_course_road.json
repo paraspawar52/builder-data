@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Premium Independent Houses for Rent on Golf Course Road Gurugram",
+    "description": [
+      "Golf Course Road Gurugram is one of the most premium and well-established residential corridors in the city, known for its luxury living, excellent connectivity, and elite social infrastructure. Tenants searching for a house for rent in Golf Course Road Gurugram prefer this location due to its proximity to top corporate offices, rapid metro stations, premium malls, and renowned educational institutions. The area connects seamlessly to MG Road, DLF Cyber City, and Golf Course Extension Road, making daily commuting smooth and time-efficient.",
+      "Independent houses on Golf Course Road offer spacious layouts, privacy, and a high standard of living that is difficult to find in crowded apartment complexes. The locality is surrounded by fine dining restaurants, hospitals, green parks, and premium retail spaces, creating a balanced lifestyle for families and professionals. Choosing a house for rent in Golf Course Road Gurugram means enjoying comfort, prestige, and long-term residential value in one of Gurugram’s most sought-after addresses."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size on Golf Course Road",
+    "description": [
+      "Selecting the right plot size plays a crucial role when choosing a house for rent in Golf Course Road Gurugram, as it determines comfort, privacy, and rental budget.",
+      "Golf Course Road offers independent houses in various plot sizes, suitable for small families as well as tenants seeking premium spacious living."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent on Golf Course Road Gurugram",
+        "description": "A 4 Marla house for rent on Golf Course Road Gurugram is suitable for couples or small families looking for an affordable entry into a premium locality with excellent connectivity."
+      },
+      {
+        "title": "6 Marla House for Rent on Golf Course Road Gurugram",
+        "description": "6 Marla houses offer a balanced combination of space and rent, making them ideal for families seeking comfortable living in a prime area."
+      },
+      {
+        "title": "8 Marla House for Rent on Golf Course Road Gurugram",
+        "description": "An 8 Marla rental house provides larger rooms, better ventilation, and enhanced privacy, suitable for long-term residential needs."
+      },
+      {
+        "title": "10 Marla House for Rent on Golf Course Road Gurugram",
+        "description": "10 Marla houses are preferred by tenants who want spacious interiors, parking facilities, and a premium neighborhood experience."
+      },
+      {
+        "title": "12 Marla House for Rent on Golf Course Road Gurugram",
+        "description": "12 Marla houses fall under the premium rental category, offering open spaces, strong construction quality, and luxurious living standards."
+      },
+      {
+        "title": "14 Marla House for Rent on Golf Course Road Gurugram",
+        "description": "A 14 Marla house for rent is ideal for large families or corporate tenants looking for maximum space, comfort, and exclusivity."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Golf Course Road Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in Golf Course Road Gurugram often explore nearby localities to compare rental options and lifestyle advantages.",
+      "This section highlights surrounding residential areas to help users find the most suitable rental home."
+    ],
+    "locations": [
+      { "title": "House for Rent on Golf Course Road Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in DLF Phase 1 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in DLF Phase 2 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 43 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near Rapid Metro", "path": "/", "icon": "Home" },
+      { "title": "House for Rent near MG Road Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sushant Lok", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent near Golf Course Extension Road", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Golf Course Road Rentals",
+    "description": [
+      "Finding a genuine house for rent in Golf Course Road Gurugram requires accurate listings, transparent pricing, and deep local expertise. Deal Acres focuses on delivering trust-driven rental solutions.",
+      "With a strong presence in Gurugram’s premium rental market, Deal Acres has become a reliable choice for tenants seeking independent houses."
+    ],
+    "points": [
+      {
+        "title": "Verified Premium Listings",
+        "description": "All rental houses are verified for authenticity, ownership, and availability."
+      },
+      {
+        "title": "Transparent Rental Details",
+        "description": "Clear information on rent, deposits, and terms helps tenants avoid hidden surprises."
+      },
+      {
+        "title": "Expert Local Knowledge",
+        "description": "In-depth understanding of Golf Course Road ensures accurate property guidance."
+      },
+      {
+        "title": "Easy Property Discovery",
+        "description": "Smart search tools help tenants quickly find suitable rental houses."
+      },
+      {
+        "title": "Tenant-Focused Suggestions",
+        "description": "Recommendations are tailored based on budget, family size, and lifestyle preferences."
+      },
+      {
+        "title": "Rental Documentation Support",
+        "description": "Assistance with agreements and paperwork ensures a smooth rental process."
+      },
+      {
+        "title": "Complete Rental Assistance",
+        "description": "Support from property shortlisting to final possession."
+      },
+      {
+        "title": "Trusted by Premium Renters",
+        "description": "Deal Acres is known for reliability, professionalism, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent on Golf Course Road",
+    "description": "Common tenant questions related to house for rent in Golf Course Road Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Golf Course Road a good location to rent a house?",
+        "answer": "Yes, it is one of the most premium locations in Gurugram with excellent connectivity and lifestyle amenities."
+      },
+      {
+        "question": "What types of houses are available for rent on Golf Course Road?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Golf Course Road suitable for family living?",
+        "answer": "Yes, the area offers schools, hospitals, parks, and a safe residential environment."
+      },
+      {
+        "question": "Are furnished houses available on Golf Course Road?",
+        "answer": "Furnished and semi-furnished houses are available depending on landlord preferences."
+      },
+      {
+        "question": "What is the average rent on Golf Course Road Gurugram?",
+        "answer": "Rental values vary by plot size and property condition, but they fall in the premium segment."
+      },
+      {
+        "question": "How is public transport connectivity?",
+        "answer": "The area is well-connected via Rapid Metro, MG Road, and major city roads."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses here?",
+        "answer": "Some landlords allow bachelors, while others prefer families."
+      },
+      {
+        "question": "Is Golf Course Road safe for tenants?",
+        "answer": "Yes, it is a well-secured area with gated properties and active security presence."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres provides verified listings, transparency, and expert rental assistance."
+      },
+      {
+        "question": "How can I contact property experts for this area?",
+        "answer": "You can fill out the contact form to connect with experienced rental consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent on Golf Course Road Gurugram",
+    "description": [
+      "Finding the right house for rent on Golf Course Road Gurugram becomes simple with professional guidance.",
+      "Share your details to connect with trusted rental experts who will help you find a home that matches your lifestyle, budget, and space requirements."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "domain": "Houseforsale.com",
+
+  "hero": {
+    "title": "Premium Independent Houses for Sale in Sector 65 Gurugram",
+    "description": [
+      "Sector 65 Gurugram is a modern and well-planned residential locality located near Golf Course Extension Road, making it a preferred choice for urban homebuyers. Buyers searching for a House for sale in Sector 65 Gurugram are drawn to its excellent connectivity, upscale surroundings, and proximity to corporate hubs, premium schools, hospitals, and shopping destinations. The sector offers a blend of luxury living and everyday convenience, supported by wide roads, green spaces, and organized infrastructure.",
+      "Independent houses in Sector 65 provide spacious layouts, privacy, and long-term comfort, which are highly valued by families and professionals. The area enjoys strong rental demand and consistent property appreciation due to its strategic location and premium development. Investing in a house for sale in Sector 65 Gurugram is a smart decision for buyers seeking a high-quality lifestyle and reliable long-term returns."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Sale",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Sale Options by Plot Size in Sector 65 Gurugram",
+    "description": [
+      "Selecting the right plot size is an important part of buying a house for sale in Sector 65 Gurugram, as it directly impacts comfort, budget, and future needs.",
+      "Sector 65 offers a wide range of independent house options, from compact homes to large luxury residences, catering to different lifestyle preferences."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Sector 65 Gurugram",
+        "description": "A 4 Marla house for sale in Sector 65 Gurugram is suitable for buyers looking for a compact, low-maintenance home in a premium locality with good rental potential."
+      },
+      {
+        "title": "6 Marla House for Sale in Sector 65 Gurugram",
+        "description": "6 Marla houses offer a balanced combination of space and affordability, ideal for small families seeking comfortable living."
+      },
+      {
+        "title": "8 Marla House for Sale in Sector 65 Gurugram",
+        "description": "An 8 Marla house provides spacious interiors, better ventilation, and flexibility in layout for long-term family living."
+      },
+      {
+        "title": "10 Marla House for Sale in Sector 65 Gurugram",
+        "description": "10 Marla houses are preferred by buyers looking for premium living with larger rooms, privacy, and strong resale value."
+      },
+      {
+        "title": "12 Marla House for Sale in Sector 65 Gurugram",
+        "description": "12 Marla houses fall under the luxury segment, offering generous open spaces, modern architecture, and exclusivity."
+      },
+      {
+        "title": "14 Marla House for Sale in Sector 65 Gurugram",
+        "description": "A 14 Marla house represents high-end living with expansive layouts, premium construction quality, and excellent long-term appreciation."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Sale Near Sector 65 Gurugram",
+    "description": [
+      "Buyers interested in a house for sale in Sector 65 Gurugram often explore nearby sectors to compare pricing, connectivity, and lifestyle advantages.",
+      "This section helps users discover surrounding residential locations and make informed property decisions."
+    ],
+    "locations": [
+      { "title": "House for Sale in Sector 65 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 66 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale in Sector 67 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Sector 63 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale near Golf Course Extension Road", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 62 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Sector 64 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale in Badshahpur Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Sector 65 Houses",
+    "description": [
+      "Buying a house for sale in Sector 65 Gurugram requires accurate information, verified listings, and local market knowledge. Deal Acres ensures transparency and trust at every step.",
+      "With a customer-first approach and strong expertise in Gurugram’s real estate market, Deal Acres is a preferred choice for serious homebuyers."
+    ],
+    "points": [
+      { "title": "Verified House Listings", "description": "Every property is verified to ensure authenticity and ownership clarity." },
+      { "title": "Transparent Pricing", "description": "Prices are aligned with current market trends and locality insights." },
+      { "title": "Local Market Expertise", "description": "In-depth understanding of Sector 65 and nearby areas." },
+      { "title": "Easy Property Search", "description": "User-friendly platform for smooth and quick navigation." },
+      { "title": "Buyer-Centric Guidance", "description": "Property suggestions based on buyer needs and budget." },
+      { "title": "Documentation Support", "description": "Basic assistance with legal and ownership documentation." },
+      { "title": "End-to-End Assistance", "description": "Support from property shortlisting to final purchase." },
+      { "title": "Trusted by Buyers", "description": "Strong reputation built on transparency and service quality." }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses in Sector 65 Gurugram",
+    "description": "Common buyer questions related to house for sale in Sector 65 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 65 Gurugram a good area to buy a house?",
+        "answer": "Yes, Sector 65 is a premium locality with excellent connectivity, amenities, and long-term growth potential."
+      },
+      {
+        "question": "What plot sizes are available in Sector 65?",
+        "answer": "Independent houses are commonly available from 4 Marla to 14 Marla plot sizes."
+      },
+      {
+        "question": "Is Sector 65 suitable for family living?",
+        "answer": "Yes, the area offers a safe, well-developed environment with reputed schools and hospitals nearby."
+      },
+      {
+        "question": "Are ready-to-move houses available in Sector 65?",
+        "answer": "Yes, buyers can find ready-to-move as well as newly built houses in this sector."
+      },
+      {
+        "question": "Is Sector 65 good for long-term investment?",
+        "answer": "Yes, its location near Golf Course Extension Road ensures steady appreciation."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 65?",
+        "answer": "Most properties are eligible for home loans, subject to bank approval."
+      },
+      {
+        "question": "How is connectivity from Sector 65 Gurugram?",
+        "answer": "Sector 65 is well-connected via Golf Course Extension Road and major city routes."
+      },
+      {
+        "question": "Is rental demand strong in Sector 65?",
+        "answer": "Yes, rental demand is high due to nearby offices, schools, and premium developments."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, and expert local guidance."
+      },
+      {
+        "question": "How can I contact property experts for Sector 65?",
+        "answer": "You can fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Sale in Sector 65 Gurugram",
+    "description": [
+      "Buying a house for sale in Sector 65 Gurugram is a significant investment, and expert guidance can make the journey smooth and stress-free.",
+      "Share your details to connect with trusted property experts who will help you find the right home based on your budget, preferences, and long-term goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

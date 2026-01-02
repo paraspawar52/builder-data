@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Future Ready Residential and Investment Plots in Sector 108",
+    "description": [
+      "Sector 108 Gurugram is a fast-developing residential locality strategically located near the Dwarka Expressway, making it a preferred choice for modern homebuyers and long-term investors. People searching for a plot in Sector 108 Gurugram are drawn to its planned road network, smooth connectivity to Delhi, IGI Airport, and NH-48, along with a calm residential environment. The sector is surrounded by upcoming infrastructure, schools, healthcare facilities, and daily convenience zones, ensuring comfortable living.",
+      "Plots in Sector 108 Gurugram offer excellent potential for appreciation due to continuous development around the Dwarka Expressway corridor. The area is ideal for buyers who want to build independent homes in a well-planned sector or invest in land with strong future value. Choosing a plot here means securing property in a location that combines connectivity, growth prospects, and long-term residential stability."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 108",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Plot Guidance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Residential Plot Size Options Available in Sector 108 Gurugram",
+    "description": [
+      "Choosing the right plot size in Sector 108 Gurugram helps in planning construction, lifestyle comfort, and future resale value.",
+      "The sector offers a variety of plot sizes suitable for different budgets and housing requirements."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 108 Gurugram",
+        "description": "A 4 Marla plot in Sector 108 Gurugram is ideal for buyers seeking an affordable entry into a rapidly developing location."
+      },
+      {
+        "title": "6 Marla Plot in Sector 108 Gurugram",
+        "description": "6 Marla plots offer a practical balance between budget and living space, suitable for small families."
+      },
+      {
+        "title": "8 Marla Plot in Sector 108 Gurugram",
+        "description": "An 8 Marla plot provides better layout flexibility with space for parking, ventilation, and modern designs."
+      },
+      {
+        "title": "10 Marla Plot in Sector 108 Gurugram",
+        "description": "10 Marla plots are preferred by buyers planning spacious independent homes with long-term value."
+      },
+      {
+        "title": "12 Marla Plot in Sector 108 Gurugram",
+        "description": "A 12 Marla plot is suitable for larger families and multi-floor residential construction."
+      },
+      {
+        "title": "14 Marla Plot in Sector 108 Gurugram",
+        "description": "14 Marla plots are premium and limited, offering excellent scope for luxury homes and investment growth."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Nearby Locations Offering Plots Around Sector 108",
+    "description": [
+      "Buyers interested in a plot in Sector 108 Gurugram often explore nearby sectors along the Dwarka Expressway for comparison.",
+      "This section highlights surrounding locations to help users make informed property decisions."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 108 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 109 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 107 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 106 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Dwarka Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Palam Vihar Extension", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Delhi-Gurugram Border", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 102 Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 108",
+    "description": [
+      "Buying a plot in Sector 108 Gurugram requires verified listings, transparent pricing, and expert guidance.",
+      "Deal Acres is trusted by buyers for its customer-first approach and reliable property solutions."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are verified for ownership, legal clarity, and authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear and honest pricing with no hidden charges."
+      },
+      {
+        "title": "Dwarka Expressway Expertise",
+        "description": "Strong understanding of property trends in the Dwarka Expressway region."
+      },
+      {
+        "title": "Wide Range of Plot Options",
+        "description": "Multiple plot sizes available to suit different buyer needs."
+      },
+      {
+        "title": "Legal Documentation Support",
+        "description": "Complete assistance with registry, approvals, and paperwork."
+      },
+      {
+        "title": "Personalized Buyer Guidance",
+        "description": "Tailored recommendations based on budget and future plans."
+      },
+      {
+        "title": "End-to-End Buying Assistance",
+        "description": "Support from plot search to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for transparency, reliability, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 108 Gurugram",
+    "description": "Detailed answers to common buyer questions related to plots in Sector 108 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 108 Gurugram a good location to buy a plot?",
+        "answer": "Yes, Sector 108 is a developing area near Dwarka Expressway with strong future growth potential."
+      },
+      {
+        "question": "What plot sizes are available in Sector 108?",
+        "answer": "Plots are generally available from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Is Sector 108 suitable for independent house construction?",
+        "answer": "Yes, the sector is well planned and suitable for residential construction."
+      },
+      {
+        "question": "Is buying a plot in Sector 108 a good investment?",
+        "answer": "Due to infrastructure development and connectivity, the sector offers good long-term appreciation."
+      },
+      {
+        "question": "Are plots in Sector 108 legally approved?",
+        "answer": "Most plots have clear titles, but verification is recommended. Deal Acres provides full due diligence support."
+      },
+      {
+        "question": "How is connectivity from Sector 108 Gurugram?",
+        "answer": "Sector 108 has excellent connectivity to Delhi, NH-48, and IGI Airport via Dwarka Expressway."
+      },
+      {
+        "question": "Can construction start immediately after buying a plot?",
+        "answer": "Construction depends on approvals and local bylaws. Expert assistance is provided."
+      },
+      {
+        "question": "What amenities are available near Sector 108?",
+        "answer": "Schools, hospitals, markets, and daily convenience facilities are developing rapidly nearby."
+      },
+      {
+        "question": "Why should I choose Deal Acres to buy a plot?",
+        "answer": "Deal Acres offers verified listings, transparent deals, and complete buyer support."
+      },
+      {
+        "question": "How can I contact plot experts for Sector 108?",
+        "answer": "You can fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Assistance for Buying Plots in Sector 108 Gurugram",
+    "description": [
+      "Finding the right plot in Sector 108 Gurugram becomes easy with professional guidance.",
+      "Share your details to connect with trusted property experts who will help you find verified plots matching your budget and future goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

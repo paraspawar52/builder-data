@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Affordable Residential and Investment Plots in Manesar Gurugram",
+    "description": [
+      "Manesar Gurugram is a fast-developing residential and industrial hub that has emerged as a strong choice for buyers looking for affordable yet future-ready real estate options. Buyers searching for a plot in Manesar Gurugram are attracted by its strategic location along NH-48, excellent road connectivity, and proximity to IMT Manesar, major industrial zones, and upcoming infrastructure projects. The area offers a balanced environment with wide roads, planned sectors, green surroundings, and growing social infrastructure.",
+      "Plots in Manesar provide excellent opportunities for both residential construction and long-term investment. With continuous development, improving civic amenities, and increasing demand from working professionals and investors, Manesar is witnessing steady price appreciation. Choosing a plot in Manesar Gurugram allows buyers to secure land at competitive prices today while benefiting from strong growth potential and planned urban expansion in the coming years."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Manesar",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1505842465776-3d90f616310d?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Options by Size in Manesar Gurugram",
+    "description": [
+      "Selecting the right plot size in Manesar Gurugram is important for construction planning, budget control, and long-term returns.",
+      "Manesar offers a wide range of plot sizes suitable for affordable homes, spacious villas, and smart investment purposes."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Manesar Gurugram",
+        "description": "A 4 Marla plot in Manesar Gurugram is ideal for buyers seeking budget-friendly residential options with good connectivity and future growth prospects."
+      },
+      {
+        "title": "6 Marla Plot in Manesar Gurugram",
+        "description": "6 Marla plots provide a practical balance between affordability and usable space, suitable for comfortable independent homes."
+      },
+      {
+        "title": "8 Marla Plot in Manesar Gurugram",
+        "description": "An 8 Marla plot offers flexibility for well-designed homes with open spaces, making it popular among growing families."
+      },
+      {
+        "title": "10 Marla Plot in Manesar Gurugram",
+        "description": "10 Marla plots are preferred by buyers planning spacious residences or long-term investments in a developing location."
+      },
+      {
+        "title": "12 Marla Plot in Manesar Gurugram",
+        "description": "A 12 Marla plot provides ample space for premium residential construction with future resale advantages."
+      },
+      {
+        "title": "14 Marla Plot in Manesar Gurugram",
+        "description": "14 Marla plots in Manesar are suitable for buyers looking for larger land parcels with strong appreciation potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Plot Options Near Manesar Gurugram",
+    "description": [
+      "Buyers interested in a plot in Manesar Gurugram often explore nearby developing areas to compare pricing and future potential.",
+      "This section highlights surrounding locations that offer similar investment and residential opportunities."
+    ],
+    "locations": [
+      { "title": "Plot in Manesar Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in IMT Manesar", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 1 Manesar", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near NH-48 Manesar", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near KMP Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Pachgaon", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Bilaspur Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in New Gurugram Region", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Manesar Gurugram",
+    "description": [
+      "Buying a plot in Manesar Gurugram requires verified listings, local market understanding, and legal clarity.",
+      "Deal Acres has built strong trust among buyers by offering transparency, reliability, and expert guidance."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are checked for ownership, approvals, and legal documentation."
+      },
+      {
+        "title": "Affordable & Transparent Pricing",
+        "description": "Clear pricing with no hidden costs ensures buyer confidence."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth knowledge of Manesar development trends and growth corridors."
+      },
+      {
+        "title": "Wide Inventory Options",
+        "description": "Access to residential and investment plots across Manesar."
+      },
+      {
+        "title": "Legal & Registry Support",
+        "description": "Complete assistance with paperwork, registry, and compliance."
+      },
+      {
+        "title": "Personalized Property Matching",
+        "description": "Plot recommendations aligned with budget and future goals."
+      },
+      {
+        "title": "End-to-End Buying Support",
+        "description": "Guidance from property selection to final possession."
+      },
+      {
+        "title": "Trusted by Investors",
+        "description": "Deal Acres is known for ethical practices and long-term customer trust."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Manesar Gurugram",
+    "description": "Common buyer questions related to plot purchase in Manesar Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Manesar Gurugram a good location to buy a plot?",
+        "answer": "Yes, Manesar is a fast-growing area with strong industrial presence, improving infrastructure, and long-term appreciation potential."
+      },
+      {
+        "question": "What plot sizes are available in Manesar Gurugram?",
+        "answer": "Plots generally range from 4 Marla to 14 Marla, catering to different budgets and requirements."
+      },
+      {
+        "question": "Is Manesar suitable for residential construction?",
+        "answer": "Yes, Manesar is suitable for residential homes, especially for buyers seeking affordability and future growth."
+      },
+      {
+        "question": "Is buying a plot in Manesar a good investment?",
+        "answer": "Due to continuous development and industrial growth, Manesar offers strong long-term investment opportunities."
+      },
+      {
+        "question": "Are plots in Manesar legally approved?",
+        "answer": "Many plots are approved, but legal verification is essential before purchase."
+      },
+      {
+        "question": "How is connectivity from Manesar?",
+        "answer": "Manesar is well-connected via NH-48, KMP Expressway, and major internal roads."
+      },
+      {
+        "question": "Can construction start immediately after buying a plot?",
+        "answer": "Construction depends on approvals and local norms, which experts can guide you through."
+      },
+      {
+        "question": "What amenities are available near Manesar?",
+        "answer": "Schools, hospitals, industrial hubs, and daily-use facilities are easily accessible."
+      },
+      {
+        "question": "Why choose Deal Acres for buying plots in Manesar?",
+        "answer": "Deal Acres offers verified plots, transparent deals, and complete buyer support."
+      },
+      {
+        "question": "How can I contact property experts for Manesar plots?",
+        "answer": "You can fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Buying Plots in Manesar Gurugram",
+    "description": [
+      "Finding the right plot in Manesar Gurugram becomes easier with professional guidance.",
+      "Share your details to connect with trusted property experts who will help you find verified plots matching your budget and investment goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

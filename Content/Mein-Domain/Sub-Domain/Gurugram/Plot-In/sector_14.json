@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Prime Residential and Investment Plots in Central Sector 14 Gurugram",
+    "description": [
+      "Sector 14 Gurugram is one of the oldest and most established residential sectors in the city, known for its central location, excellent infrastructure, and strong connectivity. Buyers looking for a plot in Sector 14 Gurugram are attracted by its proximity to NH-48, MG Road, Hero Honda Chowk, and major commercial hubs. The area is surrounded by reputed schools, hospitals, shopping complexes, banks, and public transport facilities, making daily life extremely convenient.",
+      "Plots in Sector 14 Gurugram are limited in supply, which makes them highly valuable for both end users and investors. The sector is ideal for constructing independent houses, builder floors, or making long-term land investments with assured appreciation. Choosing a plot in Sector 14 Gurugram means investing in a mature locality that offers stability, high demand, and long-term real estate security in the heart of Gurugram."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 14",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Options by Size in Sector 14 Gurugram",
+    "description": [
+      "Choosing the right plot size in Sector 14 Gurugram is important for construction planning, budget management, and long-term value.",
+      "Sector 14 offers multiple plot size options suitable for residential homes and builder floor developments."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 14 Gurugram",
+        "description": "A 4 Marla plot in Sector 14 Gurugram is suitable for compact residential construction. These plots are ideal for buyers seeking affordable entry into a prime central location."
+      },
+      {
+        "title": "6 Marla Plot in Sector 14 Gurugram",
+        "description": "6 Marla plots offer a balance of space and price, making them ideal for comfortable family homes with efficient layouts and parking."
+      },
+      {
+        "title": "8 Marla Plot in Sector 14 Gurugram",
+        "description": "An 8 Marla plot provides flexibility for spacious home designs and is preferred by families planning modern independent residences."
+      },
+      {
+        "title": "10 Marla Plot in Sector 14 Gurugram",
+        "description": "10 Marla plots fall into the premium category and are ideal for luxury homes or builder floor projects with strong resale potential."
+      },
+      {
+        "title": "12 Marla Plot in Sector 14 Gurugram",
+        "description": "A 12 Marla plot allows construction of larger independent houses with open spaces, suitable for joint families."
+      },
+      {
+        "title": "14 Marla Plot in Sector 14 Gurugram",
+        "description": "14 Marla plots represent premium land options in Sector 14 Gurugram, attracting buyers focused on space, privacy, and long-term appreciation."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Nearby Plot Locations Around Sector 14 Gurugram",
+    "description": [
+      "Buyers searching for a plot in Sector 14 Gurugram often explore nearby sectors to compare availability and pricing.",
+      "These nearby locations help users evaluate multiple property options before finalizing a purchase."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 14 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 15 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 10A Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 12 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near NH-48", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Hero Honda Chowk", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Old Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Central Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 14 Gurugram",
+    "description": [
+      "Buying a plot in Sector 14 Gurugram requires verified listings, transparent processes, and local expertise.",
+      "Deal Acres is trusted by buyers for delivering reliable property solutions with complete clarity."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are verified for ownership, approvals, and legal documentation."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "No hidden charges, ensuring complete buyer confidence."
+      },
+      {
+        "title": "Local Market Knowledge",
+        "description": "Strong understanding of Sector 14 Gurugram property trends."
+      },
+      {
+        "title": "Premium Plot Access",
+        "description": "Access to genuine and limited-availability plots."
+      },
+      {
+        "title": "Legal and Registry Support",
+        "description": "Assistance with paperwork, registry, and compliance."
+      },
+      {
+        "title": "Personalized Recommendations",
+        "description": "Plot suggestions based on buyer needs and budget."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from property search to final possession."
+      },
+      {
+        "title": "Trusted Property Platform",
+        "description": "Known for professionalism, trust, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 14 Gurugram",
+    "description": "Common buyer questions related to plot purchases in Sector 14 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 14 Gurugram a good area to buy a plot?",
+        "answer": "Yes, Sector 14 is a prime central locality with strong demand and excellent connectivity."
+      },
+      {
+        "question": "What plot sizes are available in Sector 14 Gurugram?",
+        "answer": "Plot sizes typically range from 4 Marla to 14 Marla, subject to availability."
+      },
+      {
+        "question": "Is Sector 14 suitable for residential construction?",
+        "answer": "Yes, the sector is ideal for independent homes and builder floor projects."
+      },
+      {
+        "question": "Is buying a plot in Sector 14 a good investment?",
+        "answer": "Due to limited supply and central location, Sector 14 offers stable appreciation."
+      },
+      {
+        "question": "Are plots in Sector 14 legally approved?",
+        "answer": "Most plots have clear titles, but verification is recommended before purchase."
+      },
+      {
+        "question": "How is connectivity from Sector 14 Gurugram?",
+        "answer": "Sector 14 is well connected to NH-48, MG Road, and major city routes."
+      },
+      {
+        "question": "Can construction start immediately after buying a plot?",
+        "answer": "Construction depends on local building bylaws and approvals."
+      },
+      {
+        "question": "What amenities are available near Sector 14?",
+        "answer": "Schools, hospitals, markets, banks, and public transport are nearby."
+      },
+      {
+        "question": "Why choose Deal Acres for plot purchase?",
+        "answer": "Deal Acres offers verified listings, transparency, and complete buyer support."
+      },
+      {
+        "question": "How can I contact property experts?",
+        "answer": "Fill out the contact form to connect with experienced plot consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Buying Plots in Sector 14 Gurugram",
+    "description": [
+      "Finding the right plot in Sector 14 Gurugram becomes simple with expert guidance and verified listings.",
+      "Share your details to connect with trusted property professionals who will help you secure the best plot based on your needs and investment goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

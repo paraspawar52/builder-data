@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Centrally Located And Comfortable Houses for Rent in Sector 38 Gurugram",
+    "description": [
+      "Sector 38 Gurugram is a well-developed and centrally positioned residential locality known for its excellent connectivity and balanced lifestyle. Tenants searching for a house for rent in Sector 38 Gurugram prefer this area because it is close to major roads like NH-48, Medanta Hospital, and HUDA City Centre. The sector offers quick access to business hubs, commercial zones, and public transport, making daily commuting convenient for working professionals.",
+      "Independent houses in Sector 38 are valued for their practical layouts, decent plot sizes, and peaceful surroundings. The locality is surrounded by reputed schools, hospitals, shopping complexes, local markets, and green parks, ensuring everyday comfort for families. Choosing a house for rent in Sector 38 Gurugram is ideal for tenants who want a central location, strong infrastructure, and a family-friendly environment with long-term residential stability."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964205360-0f2b9a1b4c63?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661901989603-0c5c6c9e0e8a?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sector 38",
+    "description": [
+      "Selecting the right plot size is an important decision when choosing a house for rent in Sector 38 Gurugram, as it directly affects comfort, space, and rental budget.",
+      "Sector 38 offers independent houses in multiple Marla sizes, suitable for small families, growing households, and tenants looking for spacious living in a central locality."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 38 Gurugram",
+        "description": "A 4 Marla house for rent in Sector 38 Gurugram is ideal for couples or small families seeking an affordable home in a central location. These houses offer functional layouts, easy maintenance, and proximity to markets and transport facilities."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 38 Gurugram",
+        "description": "6 Marla houses provide a balanced mix of space and affordability. They are suitable for nuclear families looking for comfortable room sizes and a calm residential environment."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 38 Gurugram",
+        "description": "An 8 Marla house for rent in Sector 38 Gurugram offers spacious interiors, better ventilation, and enhanced privacy, making it a preferred option for families."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 38 Gurugram",
+        "description": "10 Marla houses are ideal for tenants who need larger living areas, multiple bedrooms, and flexible layouts in a well-connected sector."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 38 Gurugram",
+        "description": "A 12 Marla house for rent in Sector 38 Gurugram falls under the premium rental category, offering expansive layouts and long-term comfort for large families."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 38 Gurugram",
+        "description": "A 14 Marla house for rent in Sector 38 Gurugram is suitable for joint or large families seeking maximum space, privacy, and a central residential address."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 38 Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in Sector 38 Gurugram often explore nearby sectors to compare rental values and connectivity advantages.",
+      "This section highlights surrounding residential areas to help users find the most suitable rental homes near Sector 38."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 38 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 39 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 40 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent near Medanta Hospital", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 37 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent near NH-48", "path": "/", "icon": "Building" },
+      { "title": "House for Rent near HUDA City Centre", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 45 Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sector 38 Rental Homes",
+    "description": [
+      "Finding a genuine house for rent in Sector 38 Gurugram requires verified listings, transparent pricing, and reliable local guidance. Deal Acres is built on trust and tenant satisfaction.",
+      "With strong understanding of Gurugram’s central residential markets, Deal Acres has become a preferred platform for renting independent houses in Sector 38."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All houses are verified for ownership and authenticity to ensure safe and genuine rentals."
+      },
+      {
+        "title": "Transparent Rental Details",
+        "description": "Clear information on rent, deposit, and terms helps tenants make informed decisions."
+      },
+      {
+        "title": "Local Area Expertise",
+        "description": "In-depth knowledge of Sector 38 and nearby residential localities."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "User-friendly filters and smooth navigation make house hunting simple."
+      },
+      {
+        "title": "Tenant-Focused Recommendations",
+        "description": "Property suggestions based on tenant budget, family size, and preferences."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Assistance with rental agreements and paperwork ensures hassle-free transactions."
+      },
+      {
+        "title": "End-To-End Rental Assistance",
+        "description": "Support from property selection to final possession of the rental home."
+      },
+      {
+        "title": "Trusted By Local Renters",
+        "description": "Deal Acres is known for transparency, reliability, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 38",
+    "description": "Common tenant questions related to house for rent in Sector 38 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 38 Gurugram a good area to rent a house?",
+        "answer": "Yes, Sector 38 is a centrally located and well-developed area with excellent connectivity and amenities."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 38?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are commonly available in Sector 38 Gurugram."
+      },
+      {
+        "question": "Is Sector 38 suitable for family living?",
+        "answer": "Yes, the sector is family-friendly with schools, hospitals, parks, and markets nearby."
+      },
+      {
+        "question": "Are furnished houses available in Sector 38?",
+        "answer": "Yes, furnished, semi-furnished, and unfurnished houses are available depending on the property."
+      },
+      {
+        "question": "What is the average rent in Sector 38 Gurugram?",
+        "answer": "Rental prices vary based on plot size, house condition, and exact location."
+      },
+      {
+        "question": "How is connectivity from Sector 38?",
+        "answer": "Sector 38 has excellent connectivity via NH-48, HUDA City Centre, and major city roads."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sector 38?",
+        "answer": "Some landlords allow bachelors, while others prefer families."
+      },
+      {
+        "question": "Is Sector 38 safe for tenants?",
+        "answer": "Yes, Sector 38 is considered safe with a stable and well-populated residential community."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent details, and expert rental assistance."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 38?",
+        "answer": "You can fill out the contact form to connect with experienced rental consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sector 38 Gurugram",
+    "description": [
+      "Finding the right house for rent in Sector 38 Gurugram becomes easy with professional guidance and verified listings.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that matches your budget, space needs, and lifestyle preferences."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Well Planned Independent Houses for Rent in Sector 37D Gurugram",
+    "description": [
+      "Sector 37D Gurugram is a rapidly developing residential area that has gained strong attention from tenants looking for modern and well-connected living. People searching for a house for rent in Sector 37D Gurugram prefer this location because of its proximity to Dwarka Expressway, NH-48, and key employment hubs of Gurugram and Delhi. The sector is thoughtfully planned with wide roads, green belts, and nearby social infrastructure such as schools, hospitals, shopping centers, and daily utility stores, making everyday life smooth and comfortable.",
+      "Independent houses in Sector 37D offer more privacy, better space utilization, and a peaceful environment compared to crowded apartment complexes. The area suits families, working professionals, and tenants who want a balance between affordability and quality living. Choosing a house for rent in Sector 37D Gurugram means enjoying a calm residential lifestyle along with excellent connectivity and future growth potential."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sector 37D Gurugram",
+    "description": [
+      "While searching for a house for rent in Sector 37D Gurugram, understanding plot size options helps tenants choose a home that matches their space needs and budget.",
+      "Sector 37D offers a wide variety of independent houses on rent, catering to small families, growing households, and tenants looking for premium living."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 37D Gurugram",
+        "description": "A 4 Marla house for rent in Sector 37D Gurugram is ideal for couples or small families looking for an affordable, easy-to-maintain rental home in a planned locality."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 37D Gurugram",
+        "description": "6 Marla houses provide a balanced mix of space and affordability, suitable for families seeking comfortable living without high rental pressure."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 37D Gurugram",
+        "description": "An 8 Marla rental house offers spacious interiors, better ventilation, and flexibility in layout, making it suitable for long-term family stays."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 37D Gurugram",
+        "description": "10 Marla houses are preferred by tenants who want larger living areas, parking space, and enhanced privacy in a premium residential setup."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 37D Gurugram",
+        "description": "12 Marla rental houses fall in the premium category, offering open spaces, modern construction, and a higher standard of living."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 37D Gurugram",
+        "description": "A 14 Marla house for rent is suitable for large families or corporate tenants seeking luxury, spaciousness, and a peaceful environment."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 37D Gurugram",
+    "description": [
+      "Tenants looking for a house for rent in Sector 37D Gurugram often explore nearby sectors to compare rental options, connectivity, and lifestyle benefits.",
+      "This section highlights nearby residential localities to help users make well-informed rental decisions."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 37D Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 36 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 37C Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 34 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near Dwarka Expressway", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in New Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 38 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent near NH-48", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sector 37D Rental Houses",
+    "description": [
+      "Finding a genuine house for rent in Sector 37D Gurugram requires verified listings, transparent communication, and strong local knowledge. Deal Acres delivers reliability and trust.",
+      "With a tenant-focused approach and deep understanding of Gurugram’s rental market, Deal Acres has become a preferred platform for renting independent houses."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All rental listings are carefully verified for ownership, authenticity, and current availability."
+      },
+      {
+        "title": "Transparent Rental Pricing",
+        "description": "Clear details about rent, security deposit, and terms help tenants avoid hidden surprises."
+      },
+      {
+        "title": "Strong Local Expertise",
+        "description": "In-depth knowledge of Sector 37D and nearby localities ensures accurate rental guidance."
+      },
+      {
+        "title": "Easy Search Experience",
+        "description": "User-friendly filters make finding the right house for rent quick and simple."
+      },
+      {
+        "title": "Tenant-First Recommendations",
+        "description": "Properties are suggested based on tenant needs, lifestyle, and budget."
+      },
+      {
+        "title": "Rental Documentation Support",
+        "description": "Guidance with rental agreements and documentation ensures a smooth process."
+      },
+      {
+        "title": "End-to-End Rental Assistance",
+        "description": "Support from initial search to final move-in for a hassle-free experience."
+      },
+      {
+        "title": "Trusted by Thousands of Renters",
+        "description": "Deal Acres is known for transparency, reliability, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 37D Gurugram",
+    "description": "Common tenant questions related to house for rent in Sector 37D Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 37D Gurugram a good area to rent a house?",
+        "answer": "Yes, Sector 37D is a well-planned and developing area with excellent connectivity, modern infrastructure, and daily conveniences nearby."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 37D?",
+        "answer": "Independent houses from 4 Marla to 14 Marla are available, catering to different family sizes and budgets."
+      },
+      {
+        "question": "Is Sector 37D suitable for family living?",
+        "answer": "Yes, the area offers schools, hospitals, parks, and markets nearby, making it suitable for families."
+      },
+      {
+        "question": "Are furnished houses available for rent in Sector 37D?",
+        "answer": "Furnished and semi-furnished options are available depending on the property and landlord preferences."
+      },
+      {
+        "question": "What is the average rent in Sector 37D Gurugram?",
+        "answer": "Rental values depend on plot size, location, and furnishings, but Sector 37D offers competitive rental options."
+      },
+      {
+        "question": "How is connectivity from Sector 37D?",
+        "answer": "Sector 37D is well-connected via Dwarka Expressway, NH-48, and major internal roads."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sector 37D?",
+        "answer": "Some landlords allow bachelors, while others prefer families. This varies by property owner."
+      },
+      {
+        "question": "Is Sector 37D safe for tenants?",
+        "answer": "Yes, the area is considered safe with gated communities, security services, and active residential neighborhoods."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres provides verified listings, transparent information, and expert local assistance."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 37D?",
+        "answer": "You can fill out the contact form to connect with experienced rental property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sector 37D Gurugram",
+    "description": [
+      "Finding the right house for rent in Sector 37D Gurugram becomes simple and stress-free with expert guidance.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that fits your budget, preferences, and lifestyle."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

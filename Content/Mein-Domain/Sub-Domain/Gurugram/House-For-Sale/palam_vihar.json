@@ -1,0 +1,151 @@
+{
+  "domain": "Houseforsale.com",
+
+  "hero": {
+    "title": "Premium Independent Houses for Sale in Palam Vihar Gurugram",
+    "description": [
+      "Palam Vihar Gurugram is one of the most well-planned and highly preferred residential localities, known for its peaceful environment, wide roads, and excellent civic infrastructure. Buyers searching for a House for sale in Palam Vihar Gurugram are drawn to its strategic location near Dwarka Expressway, Delhi-Gurugram border, and major business hubs. The area offers a perfect balance between urban convenience and a calm residential lifestyle, making it suitable for families, professionals, and investors alike.",
+      "Independent houses in Palam Vihar provide spacious living, privacy, and flexibility in design that apartment living often lacks. The locality is surrounded by reputed schools, hospitals, shopping complexes, parks, and daily-need markets, ensuring a comfortable and self-sufficient lifestyle. Investing in a house for sale in Palam Vihar Gurugram offers strong rental demand, steady price appreciation, and long-term security in one of Gurugram’s most trusted residential neighborhoods."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Sale",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Sale Options by Plot Size in Palam Vihar Gurugram",
+    "description": [
+      "Selecting the right plot size is an important step when planning to buy a house for sale in Palam Vihar Gurugram. Different plot sizes cater to different family sizes, budgets, and lifestyle expectations.",
+      "Palam Vihar offers a wide variety of independent houses, ranging from compact homes to spacious luxury residences, all within a secure and well-developed residential environment."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Palam Vihar Gurugram",
+        "description": "A 4 Marla house for sale in Palam Vihar Gurugram is ideal for buyers looking for a compact yet comfortable home in a prime location. These houses are easy to maintain, budget-friendly, and suitable for small families or rental investment."
+      },
+      {
+        "title": "6 Marla House for Sale in Palam Vihar Gurugram",
+        "description": "6 Marla houses offer a balanced combination of space and affordability. They are well-suited for growing families who want a comfortable layout while staying within a reasonable budget."
+      },
+      {
+        "title": "8 Marla House for Sale in Palam Vihar Gurugram",
+        "description": "An 8 Marla house provides larger rooms, better ventilation, and flexible floor planning. These houses are ideal for families planning long-term living with enhanced comfort."
+      },
+      {
+        "title": "10 Marla House for Sale in Palam Vihar Gurugram",
+        "description": "10 Marla houses are preferred by buyers seeking premium living, offering spacious interiors, private parking, and better resale value in Palam Vihar."
+      },
+      {
+        "title": "12 Marla House for Sale in Palam Vihar Gurugram",
+        "description": "A 12 Marla house represents luxury living with ample open space, modern architecture, and exclusivity, making it ideal for high-end residential needs."
+      },
+      {
+        "title": "14 Marla House for Sale in Palam Vihar Gurugram",
+        "description": "14 Marla houses fall into the ultra-premium segment, offering expansive layouts, superior construction quality, and excellent long-term appreciation potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Sale Near Palam Vihar Gurugram",
+    "description": [
+      "Buyers interested in a house for sale in Palam Vihar Gurugram often explore nearby residential areas to compare prices, connectivity, and lifestyle options.",
+      "This section helps users discover nearby localities and make informed decisions while searching for the right property."
+    ],
+    "locations": [
+      { "title": "House for Sale in Palam Vihar Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Sale near Dwarka Expressway", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale in Sector 23 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Sector 22 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale in Bijwasan Delhi", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 21 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Udyog Vihar", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale near Airport Road", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Palam Vihar Houses",
+    "description": [
+      "Buying a house for sale in Palam Vihar Gurugram requires accurate property information, verified listings, and transparent processes. Deal Acres focuses on building buyer trust through authenticity and clarity.",
+      "With deep local market knowledge and a customer-focused approach, Deal Acres has become a reliable choice for buyers looking for independent houses in Palam Vihar."
+    ],
+    "points": [
+      { "title": "Verified Property Listings", "description": "Each house listing is checked for ownership authenticity and legal clarity." },
+      { "title": "Transparent Market Pricing", "description": "Pricing insights reflect current market trends without hidden charges." },
+      { "title": "Strong Local Expertise", "description": "In-depth understanding of Palam Vihar and nearby localities." },
+      { "title": "Easy Property Discovery", "description": "User-friendly platform for smooth and quick property search." },
+      { "title": "Buyer-Focused Recommendations", "description": "Listings aligned with buyer budget, preferences, and goals." },
+      { "title": "Documentation Guidance", "description": "Support for understanding basic legal and ownership paperwork." },
+      { "title": "Complete Buying Assistance", "description": "Guidance available from property search to final deal closure." },
+      { "title": "Trusted by Thousands", "description": "Strong reputation built on transparency, service quality, and results." }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses in Palam Vihar Gurugram",
+    "description": "Common buyer queries related to house for sale in Palam Vihar Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Palam Vihar a good location to buy a house?",
+        "answer": "Yes, Palam Vihar is a well-established and secure residential area with excellent connectivity, making it ideal for end-users and investors."
+      },
+      {
+        "question": "What plot sizes are available in Palam Vihar?",
+        "answer": "Independent houses are available in multiple plot sizes ranging from 4 Marla to 14 Marla."
+      },
+      {
+        "question": "Is Palam Vihar suitable for family living?",
+        "answer": "Yes, the area offers parks, schools, hospitals, and a peaceful environment suitable for families."
+      },
+      {
+        "question": "Are ready-to-move houses available in Palam Vihar?",
+        "answer": "Yes, buyers can find both ready-to-move and renovated independent houses in Palam Vihar."
+      },
+      {
+        "question": "Is Palam Vihar good for rental income?",
+        "answer": "Yes, due to proximity to Delhi and business hubs, rental demand remains strong."
+      },
+      {
+        "question": "How is connectivity from Palam Vihar?",
+        "answer": "Palam Vihar offers excellent connectivity via Dwarka Expressway, NH-48, and Airport Road."
+      },
+      {
+        "question": "Can I get a home loan for houses in Palam Vihar?",
+        "answer": "Most properties are eligible for home loans, subject to bank verification and approval."
+      },
+      {
+        "question": "Is Palam Vihar safe for residential living?",
+        "answer": "Yes, the locality is known for good security, gated blocks, and active community living."
+      },
+      {
+        "question": "Why should I choose Deal Acres for property search?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, and expert local support."
+      },
+      {
+        "question": "How can I contact property experts for Palam Vihar?",
+        "answer": "You can submit your details through the contact form to connect with experienced consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Sale in Palam Vihar Gurugram",
+    "description": [
+      "Buying a house for sale in Palam Vihar Gurugram is a significant decision, and expert guidance can help you avoid mistakes and save time.",
+      "Share your details to connect with trusted property professionals who will assist you in finding the right home based on your budget, preferences, and long-term plans."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

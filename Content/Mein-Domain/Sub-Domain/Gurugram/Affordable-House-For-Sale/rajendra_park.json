@@ -1,0 +1,175 @@
+{
+  "domain": "Affordablehouseforsalecom",
+
+  "hero": {
+    "title": "Affordable Independent Houses for Sale in Rajendra Park Gurugram",
+    "description": [
+      "Rajendra Park Gurugram is a well-established and budget-friendly residential locality known for its calm environment and practical urban living. Located close to Hero Honda Chowk, NH-48, and major internal city roads, the area offers smooth connectivity to IMT Manesar, Udyog Vihar, and central Gurugram. Buyers searching for an affordable house for sale in Rajendra Park Gurugram prefer this location due to its developed neighborhood, availability of daily-need markets, schools, hospitals, and reliable public transport options.",
+      "Affordable houses for sale in Rajendra Park Gurugram are ideal for families and working professionals looking for independent living at reasonable prices. The locality has witnessed steady residential demand because of its affordability, rental potential, and improving civic facilities. Investing in Rajendra Park means choosing a practical lifestyle, strong community living, and long-term value in one of Gurugram’s most trusted residential areas."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1599423300746-b62533397364?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Size Options Available in Rajendra Park Gurugram",
+    "description": [
+      "Choosing the right house size in Rajendra Park Gurugram helps buyers manage budget, comfort, and future family needs.",
+      "The locality offers multiple affordable independent house configurations for different requirements."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House for Sale in Rajendra Park Gurugram",
+        "description": "A 4 Marla affordable house for sale in Rajendra Park Gurugram is suitable for small families and first-time buyers looking for low-maintenance independent homes."
+      },
+      {
+        "title": "6 Marla Affordable House for Sale in Rajendra Park Gurugram",
+        "description": "6 Marla affordable houses offer a balanced layout with comfortable living space and practical design for nuclear families."
+      },
+      {
+        "title": "8 Marla Affordable House for Sale in Rajendra Park Gurugram",
+        "description": "An 8 Marla affordable house provides better room sizes, privacy, and improved resale demand in this locality."
+      },
+      {
+        "title": "10 Marla Affordable House for Sale in Rajendra Park Gurugram",
+        "description": "10 Marla houses are ideal for families seeking spacious interiors and long-term residential stability."
+      },
+      {
+        "title": "12 Marla Affordable House for Sale in Rajendra Park Gurugram",
+        "description": "A 12 Marla affordable house delivers extra comfort, larger living areas, and suitability for joint families."
+      },
+      {
+        "title": "14 Marla Affordable House for Sale in Rajendra Park Gurugram",
+        "description": "14 Marla houses are preferred by buyers looking for larger independent homes with future appreciation potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses Near Rajendra Park Gurugram",
+    "description": [
+      "Buyers exploring affordable houses for sale in Rajendra Park Gurugram also consider nearby residential areas.",
+      "These locations enhance the overall residential and investment appeal of Rajendra Park."
+    ],
+    "locations": [
+      { "title": "Affordable House for Sale in Rajendra Park Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 37 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Basai Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Hero Honda Chowk", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House in New Colony Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses in West Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Budget Homes in Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Affordable Houses in Rajendra Park",
+    "description": [
+      "Buying an affordable house for sale in Rajendra Park Gurugram requires verified listings and genuine local guidance.",
+      "Deal Acres is trusted by buyers for transparency, reliability, and customer-centric property solutions."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "Each listing is checked for ownership details, approvals, and legal authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear and honest pricing helps buyers avoid hidden charges and confusion."
+      },
+      {
+        "title": "Local Market Knowledge",
+        "description": "Deep understanding of Rajendra Park real estate trends ensures informed decisions."
+      },
+      {
+        "title": "Wide Property Choices",
+        "description": "Multiple house sizes and affordable options are available on one platform."
+      },
+      {
+        "title": "Complete Legal Support",
+        "description": "Assistance with documentation, registry, and legal procedures ensures peace of mind."
+      },
+      {
+        "title": "Personalized Property Advice",
+        "description": "Recommendations based on buyer budget, location preference, and future plans."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from property search to final possession for a smooth buying experience."
+      },
+      {
+        "title": "Trusted Real Estate Brand",
+        "description": "Deal Acres is known for ethical practices and high customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Rajendra Park Gurugram",
+    "description": "Clear and detailed answers to common buyer concerns.",
+    "faqs": [
+      {
+        "question": "Is Rajendra Park Gurugram a good location to buy an affordable house?",
+        "answer": "Yes, Rajendra Park offers budget-friendly housing, good connectivity, and a well-settled residential environment."
+      },
+      {
+        "question": "What house sizes are available in Rajendra Park?",
+        "answer": "Affordable independent houses are typically available from 4 Marla to 14 Marla."
+      },
+      {
+        "question": "Is Rajendra Park suitable for family living?",
+        "answer": "Yes, the area has schools, hospitals, markets, parks, and a peaceful neighborhood."
+      },
+      {
+        "question": "How is connectivity from Rajendra Park Gurugram?",
+        "answer": "Rajendra Park is well connected to NH-48, Hero Honda Chowk, and major city roads."
+      },
+      {
+        "question": "Are houses in Rajendra Park legally approved?",
+        "answer": "Most properties are approved, and Deal Acres assists with complete legal verification."
+      },
+      {
+        "question": "Is buying a house in Rajendra Park a good investment?",
+        "answer": "Yes, consistent demand and affordability support stable appreciation and rental income."
+      },
+      {
+        "question": "Can I get a home loan for houses in Rajendra Park?",
+        "answer": "Yes, major banks and housing finance companies offer home loans for eligible properties."
+      },
+      {
+        "question": "What amenities are available nearby?",
+        "answer": "Nearby amenities include schools, hospitals, local markets, parks, and transport facilities."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, and complete buyer support."
+      },
+      {
+        "question": "How can I contact a property expert?",
+        "answer": "You can fill out the contact form on this page to connect with experienced Deal Acres advisors."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for Affordable Houses in Rajendra Park Gurugram",
+    "description": [
+      "Finding the right affordable house for sale in Rajendra Park Gurugram becomes simple with expert assistance.",
+      "Share your details to connect with trusted real estate professionals and explore verified property options that match your needs."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Premium Residential and Investment Plots in Sector 61 Gurugram",
+    "description": [
+      "Sector 61 Gurugram is a well-developed and highly preferred residential locality located near Golf Course Extension Road. The area is known for its premium surroundings, excellent road connectivity, and proximity to major sectors like Sector 62, Sector 65, Sector 50, and Sohna Road. Buyers searching for a plot in Sector 61 Gurugram are attracted by its planned infrastructure, green environment, and easy access to top schools, hospitals, shopping malls, and corporate hubs. The sector offers a peaceful yet well-connected lifestyle, making it ideal for end users and investors alike.",
+      "Plots in Sector 61 Gurugram are suitable for building independent homes as well as for long-term real estate investment. With limited plot availability, strong residential demand, and consistent price appreciation, this location holds strong value in Gurugram’s property market. Choosing a plot in Sector 61 Gurugram ensures premium location benefits, future growth potential, and a comfortable living experience for families."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 61",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1605146769289-440113cc3d00?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Size Options Available in Sector 61 Gurugram",
+    "description": [
+      "Selecting the right plot size in Sector 61 Gurugram is essential for planning construction, managing budget, and ensuring long-term value.",
+      "The locality offers multiple plot size options suitable for independent houses, builder floors, and premium real estate investments."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 61 Gurugram",
+        "description": "A 4 Marla plot in Sector 61 Gurugram is suitable for compact independent homes. These plots are ideal for buyers looking to enter a premium location at a relatively manageable budget while enjoying excellent connectivity."
+      },
+      {
+        "title": "6 Marla Plot in Sector 61 Gurugram",
+        "description": "6 Marla plots offer a balanced combination of space and affordability. Buyers can design comfortable homes with proper parking, ventilation, and modern layouts."
+      },
+      {
+        "title": "8 Marla Plot in Sector 61 Gurugram",
+        "description": "An 8 Marla plot provides better flexibility for spacious home designs. These plots are preferred by families planning larger living areas with modern amenities."
+      },
+      {
+        "title": "10 Marla Plot in Sector 61 Gurugram",
+        "description": "10 Marla plots fall under the premium residential segment and are suitable for independent houses with enhanced privacy, open spaces, and elegant architecture."
+      },
+      {
+        "title": "12 Marla Plot in Sector 61 Gurugram",
+        "description": "A 12 Marla plot offers ample space for luxury homes with landscaped gardens and premium construction, making it ideal for high-end buyers."
+      },
+      {
+        "title": "14 Marla Plot in Sector 61 Gurugram",
+        "description": "14 Marla plots are excellent for long-term investment due to limited supply, premium location advantages, and strong appreciation potential in Sector 61."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Nearby Plot Locations Around Sector 61 Gurugram",
+    "description": [
+      "Buyers interested in a plot in Sector 61 Gurugram often explore nearby localities to compare pricing, plot sizes, and availability.",
+      "These surrounding areas offer similar residential advantages, infrastructure quality, and connectivity."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 61 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 62 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 65 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 50 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Golf Course Extension Road", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Sohna Road", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 57 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in New Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 61 Gurugram",
+    "description": [
+      "Buying a plot in Sector 61 Gurugram requires verified listings, legal clarity, and strong knowledge of the local real estate market.",
+      "Deal Acres is trusted by buyers for transparent transactions, reliable listings, and end-to-end professional support."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are thoroughly verified for ownership, approvals, and legal documentation."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden charges, ensuring buyer confidence and trust."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Deep understanding of Sector 61 property trends, pricing, and demand."
+      },
+      {
+        "title": "Wide Range of Plot Options",
+        "description": "Multiple plot sizes and choices to match different budgets and requirements."
+      },
+      {
+        "title": "Legal and Registry Assistance",
+        "description": "Complete support with paperwork, registry process, and compliance checks."
+      },
+      {
+        "title": "Personalized Property Matching",
+        "description": "Tailored plot recommendations based on buyer preferences and goals."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Assistance from initial search to final possession of the plot."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Deal Acres is known for customer satisfaction, reliability, and professionalism."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 61 Gurugram",
+    "description": "Common questions answered to help buyers make informed decisions when purchasing plots in Sector 61 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 61 Gurugram a good location to buy a plot?",
+        "answer": "Yes, Sector 61 is a premium locality with excellent connectivity, modern infrastructure, and strong residential demand."
+      },
+      {
+        "question": "What plot sizes are available in Sector 61 Gurugram?",
+        "answer": "Plots ranging from 4 Marla to 14 Marla are available, depending on current listings and availability."
+      },
+      {
+        "question": "Is Sector 61 suitable for residential construction?",
+        "answer": "Yes, the sector is ideal for independent houses and builder floor developments."
+      },
+      {
+        "question": "Is buying a plot in Sector 61 a good investment?",
+        "answer": "Due to limited supply and premium location advantages, Sector 61 offers strong long-term appreciation potential."
+      },
+      {
+        "question": "Are plots in Sector 61 legally approved?",
+        "answer": "Most plots have clear titles, but buyers should always conduct legal verification before purchase."
+      },
+      {
+        "question": "How is connectivity from Sector 61 Gurugram?",
+        "answer": "Sector 61 is well connected via Golf Course Extension Road, Sohna Road, and major city routes."
+      },
+      {
+        "question": "Can construction start immediately after buying a plot?",
+        "answer": "Construction depends on obtaining required approvals and following local building regulations."
+      },
+      {
+        "question": "What amenities are available near Sector 61?",
+        "answer": "The area has access to schools, hospitals, malls, offices, and daily convenience facilities."
+      },
+      {
+        "question": "Why should I choose Deal Acres for buying a plot?",
+        "answer": "Deal Acres offers verified listings, transparent deals, and complete buyer assistance."
+      },
+      {
+        "question": "How can I connect with a plot expert?",
+        "answer": "You can fill out the enquiry form to get in touch with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Buying Plots in Sector 61 Gurugram",
+    "description": [
+      "Finding the right plot in Sector 61 Gurugram becomes easier with professional guidance and verified options.",
+      "Share your details to connect with trusted property experts who will help you find the best plots based on your residential or investment goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

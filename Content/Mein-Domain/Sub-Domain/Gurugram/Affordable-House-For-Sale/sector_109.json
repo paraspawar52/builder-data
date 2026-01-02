@@ -1,0 +1,175 @@
+{
+  "domain": "Affordablehouseforsalecom",
+
+  "hero": {
+    "title": "Affordable and Well Connected Houses for Sale in Sector 109 Gurugram",
+    "description": [
+      "Sector 109 Gurugram is a rapidly developing residential locality near Dwarka Expressway, known for its strategic location, improving infrastructure, and availability of budget-friendly housing options. Buyers searching for an affordable house for sale in Sector 109 Gurugram prefer this area due to its smooth connectivity to Delhi, IGI Airport, NH-48, and major commercial hubs of Gurugram. The sector is surrounded by wide roads, upcoming social infrastructure, schools, healthcare centers, and daily convenience stores, making it suitable for modern family living.",
+      "Affordable houses for sale in Sector 109 Gurugram offer an excellent opportunity for first-time homebuyers and long-term investors. With continuous development around Dwarka Expressway and increasing residential demand, the area promises steady appreciation and improved lifestyle facilities. Choosing a home in Sector 109 means investing in a well-planned location that balances affordability, connectivity, and future growth potential."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Size Options Available in Sector 109 Gurugram",
+    "description": [
+      "Selecting the right house size in Sector 109 Gurugram depends on family needs, budget, and long-term lifestyle planning.",
+      "The locality offers multiple affordable house configurations suitable for small families, growing households, and value-focused buyers."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House for Sale in Sector 109 Gurugram",
+        "description": "A 4 Marla affordable house in Sector 109 Gurugram is ideal for nuclear families and first-time buyers seeking economical ownership with basic modern amenities."
+      },
+      {
+        "title": "6 Marla Affordable House for Sale in Sector 109 Gurugram",
+        "description": "6 Marla houses provide a practical balance between affordability and usable living space, suitable for working professionals."
+      },
+      {
+        "title": "8 Marla Affordable House for Sale in Sector 109 Gurugram",
+        "description": "An 8 Marla affordable house offers better room layouts, parking convenience, and flexibility for future expansion."
+      },
+      {
+        "title": "10 Marla Affordable House for Sale in Sector 109 Gurugram",
+        "description": "10 Marla houses are preferred by families looking for spacious interiors while staying within a reasonable budget."
+      },
+      {
+        "title": "12 Marla Affordable House for Sale in Sector 109 Gurugram",
+        "description": "A 12 Marla affordable house suits buyers seeking larger living areas, privacy, and long-term residential comfort."
+      },
+      {
+        "title": "14 Marla Affordable House for Sale in Sector 109 Gurugram",
+        "description": "14 Marla houses cater to buyers wanting expansive homes with strong resale value and future appreciation."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses Near Sector 109 Gurugram",
+    "description": [
+      "Buyers exploring affordable houses for sale in Sector 109 Gurugram often compare nearby locations for pricing and connectivity advantages.",
+      "These surrounding sectors enhance the overall residential and investment appeal of Sector 109."
+    ],
+    "locations": [
+      { "title": "Affordable House for Sale in Sector 109 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 108 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 110 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 112 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Dwarka Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Delhi Border", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House in New Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Budget Homes in Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Affordable Houses in Sector 109",
+    "description": [
+      "Buying an affordable house for sale in Sector 109 Gurugram requires verified listings, transparent pricing, and expert guidance.",
+      "Deal Acres has earned strong buyer trust through ethical practices and customer-centric real estate solutions."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All affordable houses are verified for legal approvals, ownership clarity, and documentation accuracy."
+      },
+      {
+        "title": "Transparent Pricing Structure",
+        "description": "Clear pricing with no hidden charges ensures complete peace of mind."
+      },
+      {
+        "title": "Strong Local Market Knowledge",
+        "description": "Deep understanding of Sector 109 pricing trends and future development prospects."
+      },
+      {
+        "title": "Wide Property Selection",
+        "description": "Multiple affordable house options across different sizes and budgets."
+      },
+      {
+        "title": "Legal and Registry Assistance",
+        "description": "End-to-end support with paperwork, registry, and compliance."
+      },
+      {
+        "title": "Personalized Buying Guidance",
+        "description": "Property recommendations aligned with buyer needs, budget, and goals."
+      },
+      {
+        "title": "End-to-End Customer Support",
+        "description": "Assistance from property shortlisting to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for reliability, transparency, and long-term customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Sector 109 Gurugram",
+    "description": "Detailed answers to common buyer queries for confident decision-making.",
+    "faqs": [
+      {
+        "question": "Is Sector 109 Gurugram a good location for buying an affordable house?",
+        "answer": "Yes, Sector 109 offers excellent connectivity, planned development, and affordable housing options near Dwarka Expressway."
+      },
+      {
+        "question": "What house sizes are available in Sector 109 Gurugram?",
+        "answer": "Affordable houses are generally available from 4 Marla to 14 Marla, subject to availability."
+      },
+      {
+        "question": "Is Sector 109 suitable for family living?",
+        "answer": "Yes, the sector offers access to schools, hospitals, parks, and daily convenience facilities."
+      },
+      {
+        "question": "Are affordable houses in Sector 109 legally approved?",
+        "answer": "Most properties are approved, and Deal Acres assists buyers with proper legal verification."
+      },
+      {
+        "question": "How is connectivity from Sector 109 Gurugram?",
+        "answer": "Sector 109 enjoys smooth connectivity via Dwarka Expressway, NH-48, and Delhi road networks."
+      },
+      {
+        "question": "Is buying an affordable house in Sector 109 a good investment?",
+        "answer": "With ongoing infrastructure growth, Sector 109 offers good long-term appreciation potential."
+      },
+      {
+        "question": "Are home loans available for houses in Sector 109?",
+        "answer": "Yes, major banks and financial institutions provide home loan options for eligible properties."
+      },
+      {
+        "question": "What amenities are available near Sector 109?",
+        "answer": "The area offers schools, healthcare centers, shopping complexes, parks, and public transport."
+      },
+      {
+        "question": "Why should I choose Deal Acres for buying affordable houses?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, legal assistance, and end-to-end support."
+      },
+      {
+        "question": "How can I contact experts for affordable houses in Sector 109 Gurugram?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Assistance for Affordable Houses in Sector 109 Gurugram",
+    "description": [
+      "Finding the right affordable house for sale in Sector 109 Gurugram becomes simple with expert guidance.",
+      "Share your details to connect with trusted property professionals who will help you explore verified homes matching your budget and lifestyle."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

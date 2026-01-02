@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Centrally Located Independent Houses for Rent in Sadar Bazar Gurugram",
+    "description": [
+      "Sadar Bazar Gurugram is one of the oldest and most centrally located residential-cum-commercial areas of the city. Tenants searching for a house for rent in Sadar Bazar Gurugram prefer this location because of its unmatched convenience, established infrastructure, and excellent connectivity to key parts of Gurugram. The area is close to MG Road, NH-48, Rajiv Chowk, and major commercial zones, making daily commuting easy for working professionals and business owners.",
+      "Independent houses in Sadar Bazar offer practical layouts, easy access to markets, and a vibrant neighborhood atmosphere. The locality is surrounded by schools, hospitals, banks, local markets, and public transport options, ensuring everyday needs are met without long travel. Choosing a house for rent in Sadar Bazar Gurugram is ideal for tenants who value central location, affordability, and a well-settled residential environment."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sadar Bazar Gurugram",
+    "description": [
+      "Selecting the right plot size is an important factor when searching for a house for rent in Sadar Bazar Gurugram, as it affects comfort, space utilization, and monthly rental budget.",
+      "Sadar Bazar offers independent houses in multiple plot sizes, suitable for small families, joint families, and tenants looking for central-city living."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sadar Bazar Gurugram",
+        "description": "A 4 Marla house for rent in Sadar Bazar Gurugram is ideal for couples or small families looking for an affordable and low-maintenance home near daily markets and public transport."
+      },
+      {
+        "title": "6 Marla House for Rent in Sadar Bazar Gurugram",
+        "description": "6 Marla houses provide a comfortable balance between space and budget, making them suitable for families who want practical living in a central location."
+      },
+      {
+        "title": "8 Marla House for Rent in Sadar Bazar Gurugram",
+        "description": "An 8 Marla rental house offers spacious rooms, better ventilation, and functional layouts for long-term family stays."
+      },
+      {
+        "title": "10 Marla House for Rent in Sadar Bazar Gurugram",
+        "description": "10 Marla houses are preferred by tenants seeking larger living areas, private parking, and improved privacy within city limits."
+      },
+      {
+        "title": "12 Marla House for Rent in Sadar Bazar Gurugram",
+        "description": "12 Marla rental houses fall into the premium segment, offering open spaces, strong construction, and enhanced comfort."
+      },
+      {
+        "title": "14 Marla House for Rent in Sadar Bazar Gurugram",
+        "description": "A 14 Marla house for rent is ideal for large families or tenants looking for maximum space and a well-established neighborhood."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sadar Bazar Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in Sadar Bazar Gurugram often explore nearby localities to compare rental prices, connectivity, and residential benefits.",
+      "This section highlights surrounding areas to help users find the most suitable rental option."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sadar Bazar Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 14 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 17 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 12 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near MG Road", "path": "/", "icon": "Home" },
+      { "title": "House for Rent near Rajiv Chowk", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Civil Lines Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent near NH-48", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sadar Bazar Rental Houses",
+    "description": [
+      "Finding a genuine house for rent in Sadar Bazar Gurugram requires verified listings, transparent pricing, and reliable local market understanding. Deal Acres focuses on trust and accuracy.",
+      "With a tenant-first approach and deep knowledge of Gurugram’s rental market, Deal Acres has become a preferred choice for renting independent houses."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "All properties are verified for ownership, authenticity, and availability to ensure tenant safety."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear rent details, deposits, and terms help tenants make confident rental decisions."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sadar Bazar and nearby areas ensures accurate rental guidance."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "User-friendly platform and filters make finding the right house simple and fast."
+      },
+      {
+        "title": "Tenant-Centric Recommendations",
+        "description": "Properties are suggested based on tenant budget, family size, and lifestyle needs."
+      },
+      {
+        "title": "Documentation Assistance",
+        "description": "Support with rental agreements and paperwork ensures a smooth process."
+      },
+      {
+        "title": "End-to-End Rental Support",
+        "description": "Complete assistance from property shortlisting to final move-in."
+      },
+      {
+        "title": "Trusted by Renters",
+        "description": "Deal Acres is known for transparency, reliability, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sadar Bazar Gurugram",
+    "description": "Common tenant questions related to house for rent in Sadar Bazar Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sadar Bazar Gurugram a good area to rent a house?",
+        "answer": "Yes, Sadar Bazar is centrally located with excellent connectivity, daily markets, and established infrastructure."
+      },
+      {
+        "question": "What types of houses are available for rent in Sadar Bazar?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Sadar Bazar suitable for family living?",
+        "answer": "Yes, the area has schools, hospitals, markets, and parks nearby, making it family-friendly."
+      },
+      {
+        "question": "Are furnished houses available for rent in Sadar Bazar?",
+        "answer": "Furnished and semi-furnished houses are available depending on property owner preferences."
+      },
+      {
+        "question": "What is the average rent in Sadar Bazar Gurugram?",
+        "answer": "Rental values depend on plot size and condition, but Sadar Bazar offers competitive central-city rents."
+      },
+      {
+        "question": "How is connectivity from Sadar Bazar?",
+        "answer": "The area is well-connected via MG Road, NH-48, Rajiv Chowk, and public transport."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sadar Bazar?",
+        "answer": "Some landlords allow bachelors, while others prefer families. This varies by owner."
+      },
+      {
+        "question": "Is Sadar Bazar safe for tenants?",
+        "answer": "Yes, it is a well-established locality with an active residential and commercial presence."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent information, and expert rental guidance."
+      },
+      {
+        "question": "How can I contact rental experts for Sadar Bazar?",
+        "answer": "You can fill out the contact form to connect with experienced rental property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sadar Bazar Gurugram",
+    "description": [
+      "Finding the right house for rent in Sadar Bazar Gurugram becomes easy and stress-free with professional assistance.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that matches your budget, preferences, and lifestyle needs."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

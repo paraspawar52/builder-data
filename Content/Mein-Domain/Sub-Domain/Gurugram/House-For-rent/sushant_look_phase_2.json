@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Premium Independent Houses for Rent in Sushant Lok Phase 2",
+    "description": [
+      "Sushant Lok Phase 2 Gurugram is a well-planned and highly preferred residential locality located near Golf Course Extension Road. Tenants searching for a house for rent in Sushant Lok Phase 2 Gurugram choose this area for its peaceful surroundings, premium residential feel, and excellent connectivity to Golf Course Road, Sohna Road, and major corporate hubs. The locality is surrounded by reputed schools, hospitals, shopping complexes, cafes, and daily convenience stores, ensuring a comfortable lifestyle for families and working professionals.",
+      "Independent houses in Sushant Lok Phase 2 are known for their spacious layouts, privacy, and calm living environment compared to high-density apartment complexes. The area has a mature residential community, wide internal roads, and well-maintained infrastructure. Choosing a house for rent in Sushant Lok Phase 2 Gurugram offers a balanced lifestyle with premium living, strong connectivity, and long-term rental comfort in one of Gurugram’s established neighborhoods."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Sushant Lok Phase 2",
+    "description": [
+      "Choosing the right plot size is an important decision when selecting a house for rent in Sushant Lok Phase 2 Gurugram, as it directly impacts comfort, privacy, and rental budget.",
+      "Sushant Lok Phase 2 offers independent houses in multiple plot sizes, suitable for small families as well as large households seeking premium living."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sushant Lok Phase 2 Gurugram",
+        "description": "A 4 Marla house for rent in Sushant Lok Phase 2 Gurugram is ideal for couples or small families looking for an affordable entry into a premium locality."
+      },
+      {
+        "title": "6 Marla House for Rent in Sushant Lok Phase 2 Gurugram",
+        "description": "6 Marla houses offer a practical balance between space and budget, making them suitable for comfortable family living."
+      },
+      {
+        "title": "8 Marla House for Rent in Sushant Lok Phase 2 Gurugram",
+        "description": "An 8 Marla rental house provides spacious interiors, good ventilation, and functional layouts for long-term residence."
+      },
+      {
+        "title": "10 Marla House for Rent in Sushant Lok Phase 2 Gurugram",
+        "description": "10 Marla houses are preferred by tenants seeking larger living areas, parking space, and enhanced privacy."
+      },
+      {
+        "title": "12 Marla House for Rent in Sushant Lok Phase 2 Gurugram",
+        "description": "12 Marla rental houses fall into the premium category, offering open spaces, modern construction, and better lifestyle comfort."
+      },
+      {
+        "title": "14 Marla House for Rent in Sushant Lok Phase 2 Gurugram",
+        "description": "A 14 Marla house for rent is ideal for large families or corporate tenants seeking luxury, space, and a peaceful environment."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sushant Lok Phase 2 Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in Sushant Lok Phase 2 Gurugram often explore nearby premium localities to compare rental values and lifestyle benefits.",
+      "This section helps users discover surrounding residential areas and make informed rental decisions."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sushant Lok Phase 2 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sushant Lok Phase 1", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 57 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 56 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near Golf Course Extension Road", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 54 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 55 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent near Rapid Metro", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Sushant Lok Phase 2 Rentals",
+    "description": [
+      "Finding a genuine house for rent in Sushant Lok Phase 2 Gurugram requires verified listings, transparent rental details, and strong local market understanding. Deal Acres is built on trust.",
+      "With a tenant-first approach and deep expertise in Gurugram’s rental market, Deal Acres has become a preferred choice for renting independent houses."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "All properties are verified for ownership, authenticity, and availability to ensure tenant confidence."
+      },
+      {
+        "title": "Transparent Rental Information",
+        "description": "Clear rent, deposit, and agreement terms help tenants make informed decisions."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sushant Lok Phase 2 and nearby areas ensures accurate guidance."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "User-friendly tools make finding the right rental house quick and simple."
+      },
+      {
+        "title": "Tenant-Centric Recommendations",
+        "description": "Property suggestions are tailored to tenant budget, family size, and lifestyle needs."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Assistance with rental agreements and paperwork ensures a smooth process."
+      },
+      {
+        "title": "End-to-End Rental Assistance",
+        "description": "Support from property search to move-in for hassle-free renting."
+      },
+      {
+        "title": "Trusted by Renters",
+        "description": "Deal Acres is known for transparency, reliability, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sushant Lok Phase 2",
+    "description": "Common tenant questions related to house for rent in Sushant Lok Phase 2 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sushant Lok Phase 2 a good area to rent a house?",
+        "answer": "Yes, it is a premium residential locality with excellent connectivity, safety, and lifestyle amenities."
+      },
+      {
+        "question": "What types of houses are available for rent in Sushant Lok Phase 2?",
+        "answer": "Independent houses from 4 Marla to 14 Marla are available for different family sizes and budgets."
+      },
+      {
+        "question": "Is Sushant Lok Phase 2 suitable for family living?",
+        "answer": "Yes, the area has schools, hospitals, parks, and markets nearby, making it ideal for families."
+      },
+      {
+        "question": "Are furnished houses available for rent in Sushant Lok Phase 2?",
+        "answer": "Yes, furnished and semi-furnished houses are available depending on the property."
+      },
+      {
+        "question": "What is the rental range in Sushant Lok Phase 2 Gurugram?",
+        "answer": "Rental values depend on plot size, furnishings, and location, generally falling in the premium segment."
+      },
+      {
+        "question": "How is connectivity from Sushant Lok Phase 2?",
+        "answer": "The area is well-connected via Golf Course Extension Road and Rapid Metro."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Sushant Lok Phase 2?",
+        "answer": "Some landlords allow bachelors, while others prefer families or corporate tenants."
+      },
+      {
+        "question": "Is Sushant Lok Phase 2 safe for tenants?",
+        "answer": "Yes, it is considered one of the safer and well-maintained residential areas in Gurugram."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting here?",
+        "answer": "Deal Acres provides verified listings, transparent details, and expert local rental support."
+      },
+      {
+        "question": "How can I contact rental experts for Sushant Lok Phase 2?",
+        "answer": "You can fill out the contact form to connect with experienced rental property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Sushant Lok Phase 2",
+    "description": [
+      "Finding the right house for rent in Sushant Lok Phase 2 Gurugram becomes easy with professional assistance.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that matches your budget, preferences, and lifestyle needs."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

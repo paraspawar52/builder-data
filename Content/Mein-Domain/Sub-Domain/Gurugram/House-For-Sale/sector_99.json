@@ -1,0 +1,151 @@
+{
+  "domain": "Houseforsale.com",
+
+  "hero": {
+    "title": "Independent Houses for Sale in Sector 99 Gurugram",
+    "description": [
+      "Sector 99 Gurugram is an emerging and well-planned residential locality that is gaining strong attention from homebuyers seeking modern living with good connectivity. Buyers searching for a House for sale in Sector 99 Gurugram are drawn to its proximity to Dwarka Expressway, smooth road connectivity, and developing social infrastructure. The sector offers a balanced environment with planned roads, upcoming commercial hubs, and access to schools, hospitals, and daily convenience stores, making it suitable for long-term residential living.",
+      "Independent houses in Sector 99 provide privacy, spacious layouts, and the flexibility to design a home as per personal preferences. The locality is ideal for families, professionals, and investors looking for future growth potential. Investing in a house for sale in Sector 99 Gurugram offers advantages such as improving infrastructure, rising demand, and steady property appreciation in one of Gurugram’s fast-developing sectors."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Sale",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Property Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Sale Options by Plot Size in Sector 99 Gurugram",
+    "description": [
+      "Choosing the right plot size is a key factor when planning to buy a house for sale in Sector 99 Gurugram, as it directly impacts comfort, space, and future value.",
+      "Sector 99 offers independent houses across multiple plot sizes, catering to different family needs, lifestyle preferences, and investment budgets."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Sector 99 Gurugram",
+        "description": "A 4 Marla house for sale in Sector 99 Gurugram is suitable for buyers seeking an affordable independent home with modern surroundings. These homes are easy to maintain and ideal for small families or rental purposes."
+      },
+      {
+        "title": "6 Marla House for Sale in Sector 99 Gurugram",
+        "description": "6 Marla houses offer a practical balance of space and cost, making them a popular choice for growing families looking for comfortable living."
+      },
+      {
+        "title": "8 Marla House for Sale in Sector 99 Gurugram",
+        "description": "An 8 Marla house provides more spacious interiors, better ventilation, and flexibility for future customization or expansion."
+      },
+      {
+        "title": "10 Marla House for Sale in Sector 99 Gurugram",
+        "description": "10 Marla houses are ideal for buyers looking for premium independent living with larger rooms, privacy, and strong resale value."
+      },
+      {
+        "title": "12 Marla House for Sale in Sector 99 Gurugram",
+        "description": "12 Marla houses fall into the luxury category, offering open layouts, modern architecture, and enhanced lifestyle comfort."
+      },
+      {
+        "title": "14 Marla House for Sale in Sector 99 Gurugram",
+        "description": "A 14 Marla house represents spacious luxury living with excellent long-term appreciation and exclusivity."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Sale Near Sector 99 Gurugram",
+    "description": [
+      "Buyers interested in a house for sale in Sector 99 Gurugram often explore nearby sectors to compare pricing, development potential, and connectivity.",
+      "This section helps users discover surrounding residential areas and make well-informed property decisions."
+    ],
+    "locations": [
+      { "title": "House for Sale in Sector 99 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 102 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale in Sector 103 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale in Sector 104 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale in Sector 95 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 106 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Sale near Dwarka Expressway", "path": "/", "icon": "Building2" },
+      { "title": "House for Sale in New Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Homebuyers Trust Deal Acres for Sector 99 Houses",
+    "description": [
+      "Buying a house for sale in Sector 99 Gurugram requires verified listings, accurate pricing, and clear local insights. Deal Acres focuses on delivering reliable and transparent property information.",
+      "With strong market knowledge and a customer-first approach, Deal Acres has become a trusted choice for buyers looking for independent houses in developing areas of Gurugram."
+    ],
+    "points": [
+      { "title": "Verified House Listings", "description": "Every listing is checked for authenticity and ownership clarity." },
+      { "title": "Transparent Pricing", "description": "Prices reflect real-time market trends and locality insights." },
+      { "title": "Local Market Expertise", "description": "Detailed understanding of Sector 99 and surrounding sectors." },
+      { "title": "User-Friendly Platform", "description": "Easy-to-use interface for a smooth property search experience." },
+      { "title": "Buyer-Centric Approach", "description": "Recommendations based on buyer needs and preferences." },
+      { "title": "Documentation Support", "description": "Basic guidance for legal and ownership documentation." },
+      { "title": "End-to-End Assistance", "description": "Support from initial search to final deal closure." },
+      { "title": "Trusted by Buyers", "description": "Strong reputation built on transparency and service quality." }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses in Sector 99 Gurugram",
+    "description": "Common questions buyers ask when searching for a house for sale in Sector 99 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 99 Gurugram a good area to buy a house?",
+        "answer": "Yes, Sector 99 is a fast-developing locality with strong connectivity and future growth potential."
+      },
+      {
+        "question": "What plot sizes are available in Sector 99?",
+        "answer": "Independent houses are generally available from 4 Marla to 14 Marla."
+      },
+      {
+        "question": "Is Sector 99 suitable for family living?",
+        "answer": "Yes, the area offers a peaceful environment with improving infrastructure and amenities."
+      },
+      {
+        "question": "Are ready-to-move houses available in Sector 99?",
+        "answer": "Yes, buyers can find ready-to-move as well as newly constructed houses."
+      },
+      {
+        "question": "Is Sector 99 good for long-term investment?",
+        "answer": "Yes, proximity to Dwarka Expressway supports long-term appreciation."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 99?",
+        "answer": "Most houses are eligible for home loans, subject to bank approval."
+      },
+      {
+        "question": "How is connectivity from Sector 99 Gurugram?",
+        "answer": "Sector 99 is well-connected to Dwarka Expressway and major city routes."
+      },
+      {
+        "question": "Is rental demand good in Sector 99?",
+        "answer": "Rental demand is steadily increasing due to infrastructure growth."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, and expert guidance."
+      },
+      {
+        "question": "How can I contact property experts for Sector 99?",
+        "answer": "You can fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Sale in Sector 99 Gurugram",
+    "description": [
+      "Buying a house for sale in Sector 99 Gurugram is an important investment, and expert guidance can help you make the right decision.",
+      "Share your details to connect with trusted property experts who will assist you based on your budget, preferences, and long-term goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

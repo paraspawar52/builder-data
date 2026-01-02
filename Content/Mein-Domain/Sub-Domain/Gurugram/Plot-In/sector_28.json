@@ -1,0 +1,175 @@
+{
+  "domain": "plot.com",
+
+  "hero": {
+    "title": "Premium Residential and Investment Plots in Sector 28 Gurugram",
+    "description": [
+      "Sector 28 Gurugram is a well-established and premium residential locality known for its central location and excellent connectivity. Buyers searching for a plot in Sector 28 Gurugram prefer this area due to its close proximity to MG Road, Golf Course Road, Rapid Metro stations, and major commercial hubs. The sector is surrounded by upscale residential developments, green parks, reputed schools, hospitals, and shopping destinations, making it ideal for comfortable urban living.",
+      "Plots in Sector 28 are limited and highly sought after due to the mature infrastructure and prime location. Whether you are planning to build an independent luxury home or invest in land with stable appreciation, this sector offers strong long-term value. Choosing a plot in Sector 28 Gurugram ensures convenience, lifestyle comfort, and secure real estate growth in one of Gurugram’s most desirable neighborhoods."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 28",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1605146769289-440113cc3d00?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Plot Size Options Available in Sector 28 Gurugram",
+    "description": [
+      "Selecting the right plot size in Sector 28 Gurugram plays a crucial role in planning your home design and investment strategy.",
+      "The sector offers a range of plot sizes suitable for independent houses, luxury villas, and long-term land investment."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot in Sector 28 Gurugram",
+        "description": "A 4 Marla plot in Sector 28 Gurugram is suitable for buyers looking for compact independent homes in a premium location. These plots are ideal for efficient modern construction with good resale demand."
+      },
+      {
+        "title": "6 Marla Plot in Sector 28 Gurugram",
+        "description": "6 Marla plots offer a balanced option for families seeking comfort and privacy. These plots allow well-planned homes with parking and open spaces."
+      },
+      {
+        "title": "8 Marla Plot in Sector 28 Gurugram",
+        "description": "An 8 Marla plot provides greater flexibility for spacious layouts. Buyers prefer these plots for larger rooms, balconies, and premium home designs."
+      },
+      {
+        "title": "10 Marla Plot in Sector 28 Gurugram",
+        "description": "10 Marla plots fall into the premium segment and are ideal for luxury independent houses. Limited availability increases their investment value."
+      },
+      {
+        "title": "12 Marla Plot in Sector 28 Gurugram",
+        "description": "A 12 Marla plot offers ample space for high-end villas with landscaped areas, making it suitable for joint families and luxury buyers."
+      },
+      {
+        "title": "14 Marla Plot in Sector 28 Gurugram",
+        "description": "14 Marla plots represent exclusive opportunities in Sector 28, attracting buyers focused on luxury living and long-term appreciation."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Nearby Plot Locations Around Sector 28 Gurugram",
+    "description": [
+      "Buyers considering a plot in Sector 28 Gurugram often explore nearby sectors to compare prices, availability, and connectivity.",
+      "These surrounding locations offer similar lifestyle advantages and strong real estate demand."
+    ],
+    "locations": [
+      { "title": "Plot in Sector 28 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 27 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Sector 26 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in DLF Phase 1 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near MG Road Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Golf Course Road", "path": "/", "icon": "Landmark" },
+      { "title": "Plot near Rapid Metro", "path": "/", "icon": "Landmark" },
+      { "title": "Plot in Central Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Plots in Sector 28 Gurugram",
+    "description": [
+      "Buying a plot in Sector 28 Gurugram requires verified properties, legal clarity, and reliable market guidance.",
+      "Deal Acres has earned buyer trust by delivering transparency, expertise, and end-to-end support."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are checked for ownership authenticity and legal approvals."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden charges ensures buyer confidence."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Deep understanding of Sector 28 Gurugram real estate trends."
+      },
+      {
+        "title": "Access to Prime Plots",
+        "description": "Exclusive listings in premium and limited-availability areas."
+      },
+      {
+        "title": "Legal and Registry Assistance",
+        "description": "Complete support for documentation, registry, and compliance."
+      },
+      {
+        "title": "Personalized Property Matching",
+        "description": "Plot options tailored to buyer budgets and goals."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Assistance from property search to final possession."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Deal Acres is known for reliability and long-term customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 28 Gurugram",
+    "description": "Common questions buyers ask before purchasing plots in Sector 28 Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Sector 28 Gurugram a good location to buy a plot?",
+        "answer": "Yes, Sector 28 is a prime central location with excellent connectivity and strong demand, making it ideal for residential and investment purposes."
+      },
+      {
+        "question": "What plot sizes are available in Sector 28 Gurugram?",
+        "answer": "Plot sizes typically range from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Is Sector 28 suitable for luxury home construction?",
+        "answer": "Yes, the sector is ideal for building luxury independent houses and premium villas."
+      },
+      {
+        "question": "Is buying a plot in Sector 28 a good investment?",
+        "answer": "Due to limited land availability and central location, Sector 28 offers stable long-term appreciation."
+      },
+      {
+        "question": "Are plots in Sector 28 legally approved?",
+        "answer": "Most plots have clear titles, but legal verification is always recommended before purchase."
+      },
+      {
+        "question": "How is connectivity from Sector 28 Gurugram?",
+        "answer": "Sector 28 offers excellent connectivity via MG Road, Golf Course Road, and Rapid Metro."
+      },
+      {
+        "question": "Can construction start immediately after purchase?",
+        "answer": "Construction depends on local authority approvals and applicable building norms."
+      },
+      {
+        "question": "What amenities are available near Sector 28?",
+        "answer": "Schools, hospitals, malls, offices, and parks are located close to the sector."
+      },
+      {
+        "question": "Why choose Deal Acres for plot buying?",
+        "answer": "Deal Acres provides verified listings, transparent processes, and expert guidance."
+      },
+      {
+        "question": "How can I contact a plot expert?",
+        "answer": "Fill out the contact form to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Buying Plots in Sector 28 Gurugram",
+    "description": [
+      "Finding the right plot in Sector 28 Gurugram becomes easy with professional assistance.",
+      "Share your details to connect with trusted property experts who will help you find verified plots matching your lifestyle and investment goals."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Peaceful Independent Houses for Rent in Ashok Vihar Gurugram",
+    "description": [
+      "Ashok Vihar Gurugram is a well-established residential locality known for its calm surroundings, central connectivity, and everyday convenience. Tenants searching for a house for rent in Ashok Vihar Gurugram often prefer this area due to its proximity to Old Gurugram, NH-48, Palam Vihar, and major commercial zones. The locality offers easy access to schools, hospitals, local markets, and public transport, making daily life smooth for families and working professionals.",
+      "Independent houses in Ashok Vihar provide spacious layouts, privacy, and a settled neighborhood feel that apartment living often lacks. The area is ideal for tenants who value peaceful living without moving far from the city’s essential hubs. Choosing a house for rent in Ashok Vihar Gurugram ensures comfortable living, reliable connectivity, and a balanced lifestyle in one of Gurugram’s trusted residential pockets."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=500&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Ashok Vihar Gurugram",
+    "description": [
+      "Selecting the right plot size is an important step when choosing a house for rent in Ashok Vihar Gurugram, as it directly affects space, privacy, and rental budget.",
+      "Ashok Vihar offers independent houses on rent in multiple plot sizes, suitable for small families as well as large households."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Ashok Vihar Gurugram",
+        "description": "A 4 Marla house for rent in Ashok Vihar Gurugram is ideal for couples or small families seeking an affordable and low-maintenance rental option."
+      },
+      {
+        "title": "6 Marla House for Rent in Ashok Vihar Gurugram",
+        "description": "6 Marla houses offer a balanced mix of space and affordability, making them suitable for comfortable family living."
+      },
+      {
+        "title": "8 Marla House for Rent in Ashok Vihar Gurugram",
+        "description": "An 8 Marla rental house provides spacious interiors, good ventilation, and functional layouts for long-term residence."
+      },
+      {
+        "title": "10 Marla House for Rent in Ashok Vihar Gurugram",
+        "description": "10 Marla houses are preferred by tenants who want larger living areas, parking space, and enhanced privacy."
+      },
+      {
+        "title": "12 Marla House for Rent in Ashok Vihar Gurugram",
+        "description": "12 Marla houses fall under the premium segment, offering open spaces and a more comfortable lifestyle."
+      },
+      {
+        "title": "14 Marla House for Rent in Ashok Vihar Gurugram",
+        "description": "A 14 Marla house for rent is ideal for large families seeking maximum space and a peaceful residential environment."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Ashok Vihar Gurugram",
+    "description": [
+      "Tenants looking for a house for rent in Ashok Vihar Gurugram often explore nearby areas to compare rental prices, connectivity, and neighborhood quality.",
+      "This section helps users discover surrounding localities and choose the best rental option."
+    ],
+    "locations": [
+      { "title": "House for Rent in Ashok Vihar Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 23 Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Palam Vihar", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 22 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near Old Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 14 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent near NH-48", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 17 Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Ashok Vihar Rental Houses",
+    "description": [
+      "Finding a genuine house for rent in Ashok Vihar Gurugram requires verified listings, transparent rental details, and dependable support. Deal Acres focuses on trust and clarity.",
+      "With a tenant-first approach and strong local market understanding, Deal Acres has become a preferred platform for renting independent houses."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "All houses are verified for ownership and authenticity to ensure tenant safety."
+      },
+      {
+        "title": "Transparent Rental Details",
+        "description": "Clear information on rent, deposit, and terms helps tenants plan confidently."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Deep understanding of Ashok Vihar and nearby areas ensures accurate guidance."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "Simple filters and tools help tenants find suitable rental houses quickly."
+      },
+      {
+        "title": "Tenant-Centric Approach",
+        "description": "Recommendations are tailored to tenant budget, family size, and preferences."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Assistance with rental agreements and paperwork ensures a smooth process."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from property search to move-in for hassle-free renting."
+      },
+      {
+        "title": "Trusted by Renters",
+        "description": "Deal Acres is known for transparency, reliability, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Ashok Vihar",
+    "description": "Common tenant questions related to house for rent in Ashok Vihar Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Ashok Vihar a good area to rent a house?",
+        "answer": "Yes, Ashok Vihar is a well-settled and centrally located area with good connectivity and essential amenities."
+      },
+      {
+        "question": "What types of houses are available for rent in Ashok Vihar?",
+        "answer": "Independent houses from 4 Marla to 14 Marla are available for different family sizes."
+      },
+      {
+        "question": "Is Ashok Vihar suitable for family living?",
+        "answer": "Yes, the locality offers a safe and peaceful environment with schools and hospitals nearby."
+      },
+      {
+        "question": "Are furnished houses available for rent in Ashok Vihar?",
+        "answer": "Furnished and semi-furnished houses are available depending on the property."
+      },
+      {
+        "question": "What is the average rent in Ashok Vihar Gurugram?",
+        "answer": "Rent depends on plot size, condition, and furnishings, offering affordable to mid-range options."
+      },
+      {
+        "question": "How is connectivity from Ashok Vihar?",
+        "answer": "Ashok Vihar has good road connectivity to Old Gurugram, NH-48, and nearby sectors."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Ashok Vihar?",
+        "answer": "Some landlords allow bachelors, while others prefer families based on owner policies."
+      },
+      {
+        "question": "Is Ashok Vihar safe for tenants?",
+        "answer": "Yes, it is considered a safe and established residential locality."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent details, and expert local support."
+      },
+      {
+        "question": "How can I contact rental experts for Ashok Vihar?",
+        "answer": "You can fill out the contact form to connect with experienced rental property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Ashok Vihar Gurugram",
+    "description": [
+      "Finding the right house for rent in Ashok Vihar Gurugram becomes easy with expert guidance.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that fits your budget, preferences, and lifestyle."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "domain": "Affordablehouseforsalecom",
+
+  "hero": {
+    "title": "Affordable Independent Houses for Sale in Sector 48 Gurugram",
+    "description": [
+      "Sector 48 Gurugram is a well-developed residential locality located close to Sohna Road and Golf Course Extension Road, making it one of the most preferred areas for comfortable urban living. The sector enjoys excellent connectivity to NH-48, Cyber City, and major commercial hubs, which makes daily commuting smooth for professionals. Buyers searching for an affordable house for sale in Sector 48 Gurugram are drawn to its organized infrastructure, wide internal roads, green parks, and proximity to reputed schools, hospitals, malls, and daily convenience markets.",
+      "Affordable houses for sale in Sector 48 Gurugram offer an ideal mix of independent living, prime location advantage, and long-term value. The sector has a strong residential demand, ensuring good rental returns and stable price appreciation. Whether you are a family looking for a peaceful home or an investor seeking a reliable property, Sector 48 stands out as a balanced and future-secure residential destination in Gurugram."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Affordable Houses",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1599423300746-b62533397364?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Affordable House Size Options Available in Sector 48 Gurugram",
+    "description": [
+      "Choosing the right house size in Sector 48 Gurugram helps buyers balance budget, comfort, and long-term needs.",
+      "The locality offers a wide range of affordable independent house configurations for different family sizes."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Affordable House for Sale in Sector 48 Gurugram",
+        "description": "A 4 Marla affordable house for sale in Sector 48 Gurugram is ideal for small families and first-time buyers. These homes offer independent living with compact layouts, easy maintenance, and access to nearby schools, markets, and transport facilities."
+      },
+      {
+        "title": "6 Marla Affordable House for Sale in Sector 48 Gurugram",
+        "description": "6 Marla affordable houses in Sector 48 Gurugram provide a practical balance of space and affordability. They are suitable for nuclear families looking for better room sizes, ventilation, and parking in a prime location."
+      },
+      {
+        "title": "8 Marla Affordable House for Sale in Sector 48 Gurugram",
+        "description": "An 8 Marla affordable house in Sector 48 Gurugram is a good option for growing families that need additional space and privacy. These houses also offer strong resale demand due to the sector’s popularity."
+      },
+      {
+        "title": "10 Marla Affordable House for Sale in Sector 48 Gurugram",
+        "description": "10 Marla houses offer spacious interiors, multiple floors, and long-term comfort. Buyers seeking independent homes with stable appreciation often prefer this configuration."
+      },
+      {
+        "title": "12 Marla Affordable House for Sale in Sector 48 Gurugram",
+        "description": "A 12 Marla affordable house in Sector 48 Gurugram delivers enhanced space, privacy, and suitability for joint families, making it a strong lifestyle and investment choice."
+      },
+      {
+        "title": "14 Marla Affordable House for Sale in Sector 48 Gurugram",
+        "description": "14 Marla houses are ideal for buyers looking for large independent homes in a premium yet affordable locality. Their size and location support long-term value growth."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Affordable Houses Near Sector 48 Gurugram",
+    "description": [
+      "Buyers searching for affordable houses for sale in Sector 48 Gurugram often explore nearby sectors for comparison.",
+      "These surrounding locations further enhance the residential and investment appeal of Sector 48."
+    ],
+    "locations": [
+      { "title": "Affordable House for Sale in Sector 48 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 49 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House for Sale in Sector 47 Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Sohna Road Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House near Golf Course Extension Road", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable House in South Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses in Central Gurugram", "path": "/", "icon": "Landmark" },
+      { "title": "Budget Homes in Gurugram", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Affordable Houses in Sector 48",
+    "description": [
+      "Buying an affordable house for sale in Sector 48 Gurugram requires verified listings and expert guidance.",
+      "Deal Acres has earned buyer trust through transparency, market expertise, and customer-focused services."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "Every property listed on Deal Acres is verified for ownership, approvals, and legal clarity to ensure safe transactions."
+      },
+      {
+        "title": "Transparent Pricing Policy",
+        "description": "Clear pricing with no hidden charges helps buyers plan finances with confidence."
+      },
+      {
+        "title": "Strong Local Market Knowledge",
+        "description": "Deep understanding of Sector 48 Gurugram real estate trends helps buyers make informed decisions."
+      },
+      {
+        "title": "Wide Range of Affordable Options",
+        "description": "Multiple house sizes and budget options give buyers flexibility and choice."
+      },
+      {
+        "title": "Complete Legal Assistance",
+        "description": "Support with documentation, agreements, and registry ensures a smooth buying experience."
+      },
+      {
+        "title": "Personalized Property Guidance",
+        "description": "Property suggestions are tailored based on buyer needs, budget, and future plans."
+      },
+      {
+        "title": "End-to-End Buying Support",
+        "description": "Deal Acres assists buyers from property search to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Known for ethics, transparency, and customer satisfaction, Deal Acres remains a preferred choice."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Affordable Houses in Sector 48 Gurugram",
+    "description": "Clear and detailed answers to common buyer questions.",
+    "faqs": [
+      {
+        "question": "Is Sector 48 Gurugram a good location to buy an affordable house?",
+        "answer": "Yes, Sector 48 is a well-developed residential area with excellent connectivity, strong social infrastructure, and consistent housing demand."
+      },
+      {
+        "question": "What house sizes are available in Sector 48 Gurugram?",
+        "answer": "Affordable independent houses in Sector 48 are available from 4 Marla to 14 Marla, catering to different family sizes and budgets."
+      },
+      {
+        "question": "Is Sector 48 suitable for family living?",
+        "answer": "Yes, the sector offers schools, hospitals, parks, markets, and a safe residential environment."
+      },
+      {
+        "question": "How is connectivity from Sector 48 Gurugram?",
+        "answer": "Sector 48 enjoys excellent connectivity via Sohna Road, Golf Course Extension Road, and NH-48."
+      },
+      {
+        "question": "Are houses in Sector 48 legally approved?",
+        "answer": "Most properties are approved, and Deal Acres assists buyers with complete legal verification."
+      },
+      {
+        "question": "Is buying a house in Sector 48 a good investment?",
+        "answer": "Yes, strong demand and a prime location support stable appreciation and rental income."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 48?",
+        "answer": "Yes, leading banks and financial institutions provide home loans for eligible properties."
+      },
+      {
+        "question": "What amenities are available near Sector 48?",
+        "answer": "Nearby amenities include schools, hospitals, malls, parks, and public transport facilities."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and complete end-to-end buyer support."
+      },
+      {
+        "question": "How can I contact a property expert for Sector 48?",
+        "answer": "You can fill out the contact form on this page to connect with experienced Deal Acres consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for Affordable Houses in Sector 48 Gurugram",
+    "description": [
+      "Finding the right affordable house for sale in Sector 48 Gurugram becomes easy with expert guidance.",
+      "Share your details to connect with trusted real estate professionals and explore verified property options that match your requirements."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

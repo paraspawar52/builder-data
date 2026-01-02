@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforrent.com",
+
+  "hero": {
+    "title": "Peaceful And Well Established Houses for Rent in Civil Lines Gurugram",
+    "description": [
+      "Civil Lines Gurugram is one of the oldest and most respected residential localities, known for its calm surroundings, wide roads, and premium independent housing options. Tenants looking for a house for rent in Civil Lines Gurugram often choose this area because it offers a balanced lifestyle away from heavy commercial congestion while still being close to the city’s key locations. The locality enjoys smooth connectivity to Old Gurugram, NH-48, MG Road, and major administrative zones, making daily commuting convenient.",
+      "Independent houses in Civil Lines are spacious, well-ventilated, and built on generous plot sizes, making them ideal for families and long-term tenants. The area is surrounded by reputed schools, hospitals, courts, government offices, and local markets, ensuring that daily essentials are always within reach. Choosing a house for rent in Civil Lines Gurugram is perfect for those who value privacy, greenery, and a stable residential environment with strong social infrastructure."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://plus.unsplash.com/premium_photo-1661964205360-0f2b9a1b4c63?w=800&auto=format&fit=crop&q=60",
+      "https://plus.unsplash.com/premium_photo-1661901989603-0c5c6c9e0e8a?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "House for Rent Options by Plot Size in Civil Lines",
+    "description": [
+      "Plot size is a major deciding factor when choosing a house for rent in Civil Lines Gurugram, as it directly impacts space, privacy, and overall living comfort.",
+      "Civil Lines offers independent houses in multiple Marla sizes, suitable for small families, large households, and tenants seeking premium residential living."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Civil Lines Gurugram",
+        "description": "A 4 Marla house for rent in Civil Lines Gurugram is ideal for couples or small families looking for a compact yet well-located home in a peaceful neighborhood."
+      },
+      {
+        "title": "6 Marla House for Rent in Civil Lines Gurugram",
+        "description": "6 Marla houses provide a comfortable balance of space and affordability, making them suitable for nuclear families seeking a calm residential setup."
+      },
+      {
+        "title": "8 Marla House for Rent in Civil Lines Gurugram",
+        "description": "An 8 Marla house for rent in Civil Lines Gurugram offers spacious rooms, good ventilation, and enhanced privacy, perfect for growing families."
+      },
+      {
+        "title": "10 Marla House for Rent in Civil Lines Gurugram",
+        "description": "10 Marla houses are preferred by tenants who need larger living areas and a premium residential environment close to Old Gurugram."
+      },
+      {
+        "title": "12 Marla House for Rent in Civil Lines Gurugram",
+        "description": "A 12 Marla house for rent in Civil Lines Gurugram falls under the premium rental category, offering expansive layouts and long-term comfort."
+      },
+      {
+        "title": "14 Marla House for Rent in Civil Lines Gurugram",
+        "description": "A 14 Marla house for rent in Civil Lines Gurugram is suitable for large or joint families seeking maximum space, greenery, and privacy."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Civil Lines Gurugram",
+    "description": [
+      "Tenants searching for a house for rent in Civil Lines Gurugram often explore nearby established localities to compare rental values and accessibility.",
+      "This section highlights surrounding areas to help users find suitable rental homes near Civil Lines."
+    ],
+    "locations": [
+      { "title": "House for Rent in Civil Lines Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Old Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent in Sector 14 Gurugram", "path": "/", "icon": "Building" },
+      { "title": "House for Rent near MG Road", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 17 Gurugram", "path": "/", "icon": "Home" },
+      { "title": "House for Rent near NH-48", "path": "/", "icon": "Building" },
+      { "title": "House for Rent in Sector 10A Gurugram", "path": "/", "icon": "Building2" },
+      { "title": "House for Rent near Bus Stand Area", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Civil Lines Rental Homes",
+    "description": [
+      "Finding a genuine house for rent in Civil Lines Gurugram requires verified listings, accurate information, and local expertise. Deal Acres focuses on transparency and trust.",
+      "With deep understanding of Old Gurugram and premium residential zones, Deal Acres is a reliable platform for renting independent houses in Civil Lines."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All houses are verified for ownership and authenticity to ensure safe rentals."
+      },
+      {
+        "title": "Transparent Rental Details",
+        "description": "Clear information on rent, deposit, and terms with no hidden surprises."
+      },
+      {
+        "title": "Strong Local Knowledge",
+        "description": "Expert understanding of Civil Lines and surrounding established areas."
+      },
+      {
+        "title": "Easy Property Discovery",
+        "description": "Simple search tools and filters help tenants find homes faster."
+      },
+      {
+        "title": "Tenant-Focused Approach",
+        "description": "Recommendations tailored to family size, lifestyle, and budget needs."
+      },
+      {
+        "title": "Documentation Assistance",
+        "description": "Support with rental agreements and paperwork for smooth transactions."
+      },
+      {
+        "title": "End-To-End Rental Support",
+        "description": "Complete assistance from shortlisting to final possession."
+      },
+      {
+        "title": "Trusted By Families And Professionals",
+        "description": "Deal Acres is known for reliability, transparency, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Civil Lines",
+    "description": "Common tenant questions related to house for rent in Civil Lines Gurugram.",
+    "faqs": [
+      {
+        "question": "Is Civil Lines Gurugram a good area to rent a house?",
+        "answer": "Yes, Civil Lines is a peaceful and well-established locality with excellent social infrastructure."
+      },
+      {
+        "question": "What types of houses are available for rent in Civil Lines?",
+        "answer": "Independent houses from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Civil Lines suitable for family living?",
+        "answer": "Yes, it is ideal for families due to schools, hospitals, and calm surroundings."
+      },
+      {
+        "question": "Are furnished houses available in Civil Lines?",
+        "answer": "Yes, furnished, semi-furnished, and unfurnished houses are available."
+      },
+      {
+        "question": "What is the average rent in Civil Lines Gurugram?",
+        "answer": "Rental values depend on plot size, property condition, and exact location."
+      },
+      {
+        "question": "How is connectivity from Civil Lines?",
+        "answer": "Civil Lines is well connected to NH-48, MG Road, and Old Gurugram."
+      },
+      {
+        "question": "Are bachelors allowed to rent houses in Civil Lines?",
+        "answer": "Some landlords allow bachelors, while others prefer families."
+      },
+      {
+        "question": "Is Civil Lines a safe area for tenants?",
+        "answer": "Yes, it is a secure residential area with a stable community."
+      },
+      {
+        "question": "Why choose Deal Acres for renting a house in Civil Lines?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, and expert guidance."
+      },
+      {
+        "question": "How can I contact rental experts for Civil Lines?",
+        "answer": "You can fill out the contact form to connect with experienced rental consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Help for House for Rent in Civil Lines Gurugram",
+    "description": [
+      "Finding the right house for rent in Civil Lines Gurugram becomes easy with professional support and verified property listings.",
+      "Share your details to connect with trusted property experts who will help you find a rental home that matches your budget, space needs, and lifestyle preferences."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}
