@@ -1,0 +1,169 @@
+{
+  "domain": "officespaceforrentcom",
+  "hero": {
+    "title": "Strategically Located Office Spaces for Rent in Sector 144 Noida",
+    "description": [
+      "Sector 144 Noida is a rapidly developing commercial destination, well-known for its strategic location along the Noida–Greater Noida Expressway. Businesses searching for office space for rent in Sector 144 Noida prefer this area due to its excellent road connectivity, proximity to major IT hubs, and easy access to central Noida and Greater Noida. The presence of modern commercial buildings, planned infrastructure, and nearby residential sectors creates a balanced work environment for employees and organizations.",
+      "Office spaces for rent in Sector 144 Noida are ideal for IT companies, startups, corporate offices, and service-based firms looking for long-term growth opportunities. The sector offers a professional ecosystem with smooth connectivity, future-ready infrastructure, and competitive rental pricing. With increasing demand from corporate tenants and continuous development, Sector 144 is emerging as a strong commercial choice for businesses aiming to establish a credible and accessible office address in Noida."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces in Sector 144",
+        "path": "/"
+      },
+      {
+        "label": "Get Office Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Office Space Size Options Available in Sector 144 Noida",
+    "description": [
+      "Choosing the right office space for rent in Sector 144 Noida depends on your team size, operational needs, and business expansion plans.",
+      "Sector 144 offers flexible office space sizes suitable for startups, SMEs, and large enterprises."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space for Rent in Sector 144 Noida",
+        "description": "A 4 Marla office space for rent in Sector 144 Noida is ideal for startups, freelancers, and small teams. These compact offices are budget-friendly, functional, and suitable for businesses beginning their commercial journey."
+      },
+      {
+        "title": "6 Marla Office Space for Rent in Sector 144 Noida",
+        "description": "6 Marla office spaces for rent in Sector 144 Noida provide a practical setup for small companies. They offer sufficient room for workstations, cabins, and basic meeting areas."
+      },
+      {
+        "title": "8 Marla Office Space for Rent in Sector 144 Noida",
+        "description": "An 8 Marla office space for rent in Sector 144 Noida is preferred by growing businesses that require extra operational space and a professional working environment."
+      },
+      {
+        "title": "10 Marla Office Space for Rent in Sector 144 Noida",
+        "description": "10 Marla office spaces in Sector 144 Noida suit mid-sized organizations looking for structured layouts, conference rooms, and better team coordination."
+      },
+      {
+        "title": "12 Marla Office Space for Rent in Sector 144 Noida",
+        "description": "A 12 Marla office space for rent in Sector 144 Noida offers spacious interiors and scalability, making it ideal for expanding businesses and corporate offices."
+      },
+      {
+        "title": "14 Marla Office Space for Rent in Sector 144 Noida",
+        "description": "14 Marla office spaces represent premium commercial options in Sector 144 Noida, suitable for large enterprises seeking visibility, comfort, and long-term stability."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Office Space Rental Locations Around Sector 144 Noida",
+    "description": [
+      "Businesses looking for office space for rent in Sector 144 Noida often consider nearby sectors for comparison and better availability.",
+      "These surrounding locations strengthen Sector 144’s position as a major commercial hub."
+    ],
+    "locations": [
+      { "title": "Office Space for Rent in Sector 144 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space for Rent in Sector 142 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space for Rent in Sector 135 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space near Noida-Greater Noida Expressway", "path": "/", "icon": "Building2" },
+      { "title": "IT Office Space in Noida Expressway", "path": "/", "icon": "Building2" },
+      { "title": "Corporate Offices in South Noida", "path": "/", "icon": "Building2" },
+      { "title": "Commercial Office Space near Metro Corridor", "path": "/", "icon": "Building2" },
+      { "title": "Business Offices in Developing Noida Sectors", "path": "/", "icon": "Building2" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Businesses Prefer Deal Acres for Office Space in Sector 144",
+    "description": [
+      "Finding the right office space for rent in Sector 144 Noida requires accurate listings, transparent pricing, and local market knowledge.",
+      "Deal Acres is trusted by businesses for its reliability, verified data, and customer-centric commercial property services."
+    ],
+    "points": [
+      {
+        "title": "Verified Commercial Listings",
+        "description": "All office spaces are verified to ensure genuine availability and clear ownership."
+      },
+      {
+        "title": "Transparent Rental Pricing",
+        "description": "Clear information on rent, deposits, maintenance, and lease terms."
+      },
+      {
+        "title": "Local Commercial Expertise",
+        "description": "Strong understanding of Sector 144 Noida’s commercial rental trends."
+      },
+      {
+        "title": "Wide Range of Office Options",
+        "description": "Multiple office sizes and configurations for different business needs."
+      },
+      {
+        "title": "Lease and Documentation Support",
+        "description": "Assistance with agreements, compliance, and legal formalities."
+      },
+      {
+        "title": "Personalized Office Recommendations",
+        "description": "Office options matched to your business goals and budget."
+      },
+      {
+        "title": "End-to-End Leasing Assistance",
+        "description": "Support from initial inquiry to final office possession."
+      },
+      {
+        "title": "Trusted Commercial Property Platform",
+        "description": "Deal Acres is known for professionalism, transparency, and long-term client trust."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Office Space for Rent in Sector 144 Noida",
+    "description": "Clear and detailed answers to common questions to help businesses take confident rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 144 Noida good for office space?",
+        "answer": "Yes, Sector 144 Noida is a prime commercial location near the expressway with modern infrastructure and strong connectivity."
+      },
+      {
+        "question": "What office space sizes are available in Sector 144 Noida?",
+        "answer": "Office spaces usually range from 4 Marla to 14 Marla, depending on building type and availability."
+      },
+      {
+        "question": "Is Sector 144 suitable for IT and corporate offices?",
+        "answer": "Yes, the sector is highly preferred by IT companies, startups, and corporate firms."
+      },
+      {
+        "question": "How is connectivity from Sector 144 Noida?",
+        "answer": "Sector 144 offers excellent connectivity via Noida-Greater Noida Expressway and nearby metro routes."
+      },
+      {
+        "question": "Are furnished office spaces available in Sector 144?",
+        "answer": "Yes, furnished and semi-furnished office spaces are available based on listings."
+      },
+      {
+        "question": "What amenities can businesses expect?",
+        "answer": "Common amenities include parking, power backup, lifts, security, and maintenance services."
+      },
+      {
+        "question": "What factors affect office rent in Sector 144 Noida?",
+        "answer": "Rent depends on office size, building grade, location, and furnishing level."
+      },
+      {
+        "question": "Is Sector 144 suitable for long-term office leasing?",
+        "answer": "Yes, planned development and increasing commercial demand make it suitable for long-term leasing."
+      },
+      {
+        "question": "Why choose Deal Acres for office rentals?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and expert commercial guidance."
+      },
+      {
+        "question": "How can I get in touch with office rental experts?",
+        "answer": "Fill out the contact form on this page to connect with experienced commercial property consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Office Space for Rent in Sector 144 Noida",
+    "description": [
+      "Finding the right office space for rent in Sector 144 Noida becomes easier with expert guidance.",
+      "Share your business requirements and contact details to explore verified office spaces with confidence."
+    ],
+    "formFields": ["name", "phone", "email", "company", "message"]
+  }
+}

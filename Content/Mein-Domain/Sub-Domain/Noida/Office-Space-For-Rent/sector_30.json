@@ -1,0 +1,169 @@
+{
+  "domain": "officespaceforrentcom",
+  "hero": {
+    "title": "Prime and Well-Connected Office Spaces for Rent in Sector 30 Noida",
+    "description": [
+      "Sector 30 Noida is a centrally located commercial area known for its proximity to Noida City Centre, Sector 18, and key administrative zones. With excellent road connectivity and nearby metro access, the sector offers seamless movement across Noida and Delhi. Businesses searching for office space for rent in Sector 30 Noida prefer this location due to its professional environment, strong civic infrastructure, and easy accessibility for employees and clients.",
+      "Office spaces for rent in Sector 30 Noida are suitable for startups, consultants, IT service providers, and established enterprises looking for a credible business address. The sector features low-rise commercial buildings, independent office floors, and flexible layouts with essential amenities such as parking, power backup, and security. Unlike high-density IT hubs, Sector 30 provides a calm yet business-focused atmosphere, making it ideal for long-term operational stability."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces in Sector 30",
+        "path": "/"
+      },
+      {
+        "label": "Get Office Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1604328698692-f76ea9498e76?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Office Space Size Options Available in Sector 30 Noida",
+    "description": [
+      "Choosing the right office space for rent in Sector 30 Noida depends on team size, operational structure, and future expansion plans.",
+      "The sector offers multiple office size options suitable for small teams as well as growing businesses."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space for Rent in Sector 30 Noida",
+        "description": "A 4 Marla office space for rent in Sector 30 Noida is ideal for startups, freelancers, and consulting firms. These compact offices are cost-efficient, easy to manage, and provide a professional business address in a central location."
+      },
+      {
+        "title": "6 Marla Office Space for Rent in Sector 30 Noida",
+        "description": "6 Marla office spaces for rent in Sector 30 Noida are suitable for growing businesses that require separate cabins, meeting rooms, and organized workstations without high rental pressure."
+      },
+      {
+        "title": "8 Marla Office Space for Rent in Sector 30 Noida",
+        "description": "An 8 Marla office space for rent in Sector 30 Noida offers better flexibility for mid-sized teams, allowing efficient layout planning and improved employee comfort."
+      },
+      {
+        "title": "10 Marla Office Space for Rent in Sector 30 Noida",
+        "description": "10 Marla office spaces for rent in Sector 30 Noida are preferred by established firms that need structured departments, conference rooms, and client interaction areas."
+      },
+      {
+        "title": "12 Marla Office Space for Rent in Sector 30 Noida",
+        "description": "A 12 Marla office space for rent in Sector 30 Noida supports larger operations with spacious interiors, parking facilities, and scope for long-term expansion."
+      },
+      {
+        "title": "14 Marla Office Space for Rent in Sector 30 Noida",
+        "description": "14 Marla office spaces represent premium commercial options in Sector 30 Noida, offering expansive layouts, strong visibility, and a commanding corporate presence."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Office Spaces for Rent Near Sector 30 Noida",
+    "description": [
+      "Businesses looking for office space for rent in Sector 30 Noida often compare nearby commercial sectors before finalizing a location.",
+      "These surrounding areas enhance Sector 30’s appeal as a central business destination."
+    ],
+    "locations": [
+      { "title": "Office Space for Rent in Sector 30 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space for Rent in Sector 18 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space for Rent in Sector 62 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space near Noida City Centre", "path": "/", "icon": "Building2" },
+      { "title": "Commercial Offices near Metro Stations Noida", "path": "/", "icon": "Building2" },
+      { "title": "Corporate Offices in Central Noida", "path": "/", "icon": "Building2" },
+      { "title": "Fully Furnished Offices in Noida", "path": "/", "icon": "Building2" },
+      { "title": "Business Offices near Government Offices", "path": "/", "icon": "Building2" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Businesses Trust Deal Acres for Office Space in Sector 30 Noida",
+    "description": [
+      "Finding the right office space for rent in Sector 30 Noida requires verified listings, transparent pricing, and expert guidance.",
+      "Deal Acres delivers a reliable and business-focused commercial leasing experience."
+    ],
+    "points": [
+      {
+        "title": "Verified Office Listings",
+        "description": "Every office space is verified for ownership, condition, and availability."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear details on rent, deposits, and lease terms with no hidden costs."
+      },
+      {
+        "title": "Local Commercial Expertise",
+        "description": "Deep understanding of Sector 30 Noida’s office rental market."
+      },
+      {
+        "title": "Wide Office Options",
+        "description": "Multiple office sizes available for startups, SMEs, and enterprises."
+      },
+      {
+        "title": "Lease & Documentation Support",
+        "description": "Complete assistance with agreements, compliance, and paperwork."
+      },
+      {
+        "title": "Customized Office Shortlisting",
+        "description": "Office options matched to business size, budget, and growth plans."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Support from initial search to final office handover."
+      },
+      {
+        "title": "Trusted Commercial Platform",
+        "description": "Deal Acres is known for reliability, transparency, and customer trust."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Office Space for Rent in Sector 30 Noida",
+    "description": "Answers to common queries to help businesses make confident rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 30 Noida a good location for offices?",
+        "answer": "Yes, Sector 30 Noida is centrally located with excellent connectivity and a professional environment."
+      },
+      {
+        "question": "What office sizes are available in Sector 30 Noida?",
+        "answer": "Office spaces typically range from 4 Marla to 14 Marla depending on availability."
+      },
+      {
+        "question": "Is Sector 30 suitable for startups?",
+        "answer": "Yes, affordable office sizes and calm surroundings make it suitable for startups and small teams."
+      },
+      {
+        "question": "How is metro connectivity in Sector 30 Noida?",
+        "answer": "Sector 30 is well-connected to nearby metro stations including Noida City Centre."
+      },
+      {
+        "question": "Are furnished office spaces available?",
+        "answer": "Yes, furnished and semi-furnished office spaces are available in Sector 30 Noida."
+      },
+      {
+        "question": "What amenities are commonly provided?",
+        "answer": "Most offices offer parking, power backup, security, and maintenance services."
+      },
+      {
+        "question": "What factors affect office rent in Sector 30?",
+        "answer": "Rent depends on office size, furnishing level, building condition, and location."
+      },
+      {
+        "question": "Is Sector 30 suitable for client-facing businesses?",
+        "answer": "Yes, its central location and accessibility make it ideal for client meetings."
+      },
+      {
+        "question": "Why choose Deal Acres for office rentals?",
+        "answer": "Deal Acres provides verified listings, transparent deals, and expert guidance."
+      },
+      {
+        "question": "How can I contact office space experts?",
+        "answer": "You can fill out the contact form on this page to connect with commercial property experts."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Office Space for Rent in Sector 30 Noida",
+    "description": [
+      "Finding the right office space for rent in Sector 30 Noida is easier with professional guidance.",
+      "Share your business requirements and contact details to connect with trusted commercial real estate experts."
+    ],
+    "formFields": ["name", "phone", "email", "company", "message"]
+  }
+}

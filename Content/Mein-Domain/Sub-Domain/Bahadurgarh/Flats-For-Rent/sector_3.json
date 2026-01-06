@@ -1,0 +1,169 @@
+{
+  "domain": "Flatsforrent.com",
+  "hero": {
+    "title": "Comfortable and Well Connected Flats for Rent in Sector 3 Bahadurgarh",
+    "description": [
+      "Sector 3 Bahadurgarh is a well-established residential locality known for its planned layout, easy connectivity, and everyday convenience. The area is close to main roads, local markets, schools, hospitals, and public transport, making daily life smooth for residents. People searching for flats for rent in Sector 3 Bahadurgarh usually look for a location that balances comfort, accessibility, and affordability, and Sector 3 fits these expectations naturally.",
+      "Choosing flats for rent in Sector 3 Bahadurgarh is a smart option for families, working professionals, and students. The locality offers a peaceful living environment along with quick access to commercial areas and nearby sectors. With a variety of residential options available in different Marla sizes, Sector 3 provides flexibility for tenants with different space needs and budgets, making it one of the preferred rental locations in Bahadurgarh."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Flats in Sector 3",
+        "path": "/"
+      },
+      {
+        "label": "Talk to Rental Expert",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1502673530728-f79b4cab31b1?w=900&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=900&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Marla Wise Flats for Rent Options in Sector 3 Bahadurgarh",
+    "description": [
+      "Flats for rent in Sector 3 Bahadurgarh are available in multiple Marla sizes to meet diverse living requirements.",
+      "These options help tenants choose flats based on family size, budget, and comfort preferences."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Flats for Rent in Sector 3 Bahadurgarh",
+        "description": "4 Marla flats for rent in Sector 3 Bahadurgarh are ideal for bachelors, couples, and small families looking for affordable and easy-to-maintain homes."
+      },
+      {
+        "title": "6 Marla Flats for Rent in Sector 3 Bahadurgarh",
+        "description": "6 Marla flats for rent in Sector 3 Bahadurgarh offer balanced living space with better room sizes and ventilation, suitable for nuclear families."
+      },
+      {
+        "title": "8 Marla Flats for Rent in Sector 3 Bahadurgarh",
+        "description": "8 Marla flats for rent in Sector 3 Bahadurgarh are perfect for medium-sized families who need extra space for comfortable living."
+      },
+      {
+        "title": "10 Marla Flats for Rent in Sector 3 Bahadurgarh",
+        "description": "10 Marla flats for rent in Sector 3 Bahadurgarh provide spacious interiors, making them suitable for families seeking more comfort and privacy."
+      },
+      {
+        "title": "12 Marla Flats for Rent in Sector 3 Bahadurgarh",
+        "description": "12 Marla flats for rent in Sector 3 Bahadurgarh are ideal for joint families or tenants looking for premium residential space."
+      },
+      {
+        "title": "14 Marla Flats for Rent in Sector 3 Bahadurgarh",
+        "description": "14 Marla flats for rent in Sector 3 Bahadurgarh offer luxury-level space, ample rooms, and a superior living experience."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Flats for Rent Locations in Bahadurgarh",
+    "description": [
+      "Tenants looking for flats for rent in Sector 3 Bahadurgarh often explore nearby areas for more options.",
+      "These surrounding locations also provide good residential facilities and connectivity."
+    ],
+    "locations": [
+      { "title": "Flats for Rent in Sector 3 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Sector 2 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Sector 6 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Sector 9 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent on Delhi Rohtak Highway", "path": "/", "icon": "Map" },
+      { "title": "Residential Flats in Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Affordable Flats for Rent in Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Family Flats for Rent in Bahadurgarh", "path": "/", "icon": "Map" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Preferred Choice for Rental Flats",
+    "description": [
+      "Searching for flats for rent in Sector 3 Bahadurgarh requires accurate information and trusted support.",
+      "Deal Acres focuses on transparency, verified listings, and tenant satisfaction."
+    ],
+    "points": [
+      {
+        "title": "Verified Flat Listings",
+        "description": "All flats are checked for authenticity and genuine ownership."
+      },
+      {
+        "title": "Clear Rent Details",
+        "description": "Complete clarity on rent, security deposit, and rental terms."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth understanding of Sector 3 Bahadurgarh rental trends."
+      },
+      {
+        "title": "Tenant-Centric Suggestions",
+        "description": "Recommendations based on budget, family size, and preferences."
+      },
+      {
+        "title": "Direct Owner Connect",
+        "description": "Easy communication with property owners without complications."
+      },
+      {
+        "title": "End-to-End Renting Support",
+        "description": "Assistance from first enquiry to final agreement."
+      },
+      {
+        "title": "Wide Rental Choices",
+        "description": "Multiple flat options across various Marla sizes."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for reliability, trust, and user satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Flats for Rent in Sector 3",
+    "description": "Answers to common rental queries to help tenants make informed decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 3 Bahadurgarh a good area for renting flats?",
+        "answer": "Yes, Sector 3 is a well-developed and convenient residential area with good connectivity and amenities."
+      },
+      {
+        "question": "What types of flats are available for rent in Sector 3?",
+        "answer": "Independent floors and residential flats in multiple Marla sizes are available."
+      },
+      {
+        "question": "Are flats in Sector 3 suitable for families?",
+        "answer": "Yes, the area is family-friendly with schools, markets, and healthcare facilities nearby."
+      },
+      {
+        "question": "Is Sector 3 suitable for working professionals?",
+        "answer": "Yes, its connectivity and peaceful environment make it suitable for professionals."
+      },
+      {
+        "question": "Are affordable rental flats available in Sector 3?",
+        "answer": "Yes, Sector 3 offers a range of affordable to mid-budget rental options."
+      },
+      {
+        "question": "Does Deal Acres verify rental listings?",
+        "answer": "Yes, all rental properties are verified before listing."
+      },
+      {
+        "question": "Is assistance provided during the rental process?",
+        "answer": "Yes, complete support is provided from enquiry to agreement."
+      },
+      {
+        "question": "Are furnished flats available in Sector 3?",
+        "answer": "Availability depends on current listings, including furnished and unfurnished flats."
+      },
+      {
+        "question": "Can I find spacious flats for rent in Sector 3?",
+        "answer": "Yes, larger Marla flats are available for tenants needing more space."
+      },
+      {
+        "question": "How can I enquire about flats for rent?",
+        "answer": "You can submit your details through the enquiry form to connect with a rental expert."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Flats for Rent in Sector 3 Bahadurgarh",
+    "description": [
+      "Finding the right flat in Sector 3 Bahadurgarh becomes simple with expert assistance.",
+      "Share your rental needs to receive verified listings and personalized support."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "flatSize", "message"]
+  }
+}

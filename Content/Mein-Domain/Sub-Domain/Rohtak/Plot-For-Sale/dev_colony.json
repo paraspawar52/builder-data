@@ -1,0 +1,169 @@
+{
+  "domain": "Plotforsalecom",
+  "hero": {
+    "title": "Residential and Investment Plots for Sale in Dev Colony Rohtak",
+    "description": [
+      "Dev Colony Rohtak is a well-established residential locality known for its central location, peaceful environment, and strong neighborhood infrastructure. The area enjoys smooth connectivity to major city roads, educational institutions, hospitals, local markets, and public transport, making it a practical choice for daily living. Buyers searching for a plot for sale in Dev Colony Rohtak often choose this area due to its reliability, well-settled surroundings, and ease of access to essential facilities.",
+      "Plots for sale in Dev Colony Rohtak are suitable for building independent homes as well as for long-term land investment. Due to limited availability of vacant plots and consistent residential demand, property values in this locality have shown stable appreciation over time. Whether you plan to construct your own home or invest for future returns, Dev Colony offers a secure residential atmosphere, strong resale value, and the advantage of owning land in one of Rohtak’s trusted neighborhoods."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Dev Colony",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1597047084897-51e81819a499?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Plot Size Options Available for Sale in Dev Colony Rohtak",
+    "description": [
+      "Choosing the right plot for sale in Dev Colony Rohtak depends on your construction needs, family size, and budget.",
+      "Dev Colony offers multiple plot sizes suitable for residential construction and secure investment."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot for Sale in Dev Colony Rohtak",
+        "description": "A 4 Marla plot is ideal for buyers looking for an affordable residential plot with efficient space utilization."
+      },
+      {
+        "title": "6 Marla Plot for Sale in Dev Colony Rohtak",
+        "description": "6 Marla plots offer balanced space for comfortable independent homes with practical layouts."
+      },
+      {
+        "title": "8 Marla Plot for Sale in Dev Colony Rohtak",
+        "description": "An 8 Marla plot provides better frontage and flexibility for modern home construction."
+      },
+      {
+        "title": "10 Marla Plot for Sale in Dev Colony Rohtak",
+        "description": "10 Marla plots are suitable for spacious homes with parking, ventilation, and open areas."
+      },
+      {
+        "title": "12 Marla Plot for Sale in Dev Colony Rohtak",
+        "description": "A 12 Marla plot supports premium residential construction with strong long-term value."
+      },
+      {
+        "title": "14 Marla Plot for Sale in Dev Colony Rohtak",
+        "description": "14 Marla plots are premium options ideal for luxury homes and long-term land investment."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Areas Offering Plots Around Dev Colony",
+    "description": [
+      "Buyers searching for a plot for sale in Dev Colony Rohtak often explore nearby localities for comparison.",
+      "These surrounding areas further enhance the residential appeal of Dev Colony."
+    ],
+    "locations": [
+      { "title": "Plot for Sale in Dev Colony Rohtak", "path": "/", "icon": "Map" },
+      { "title": "Plot for Sale in Sector 14 Rohtak", "path": "/", "icon": "Map" },
+      { "title": "Plot for Sale in Sector 15 Rohtak", "path": "/", "icon": "Map" },
+      { "title": "Residential Plots in Central Rohtak", "path": "/", "icon": "Map" },
+      { "title": "Approved Plots in Rohtak", "path": "/", "icon": "Map" },
+      { "title": "Independent House Plots in Rohtak", "path": "/", "icon": "Map" },
+      { "title": "Investment Land in Rohtak", "path": "/", "icon": "Map" },
+      { "title": "Residential Land for Sale in Rohtak", "path": "/", "icon": "Map" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Preferred Choice for Plot Buyers",
+    "description": [
+      "Buying a plot for sale in Dev Colony Rohtak requires trust, legal clarity, and local expertise.",
+      "Deal Acres provides a transparent, secure, and customer-focused plot buying experience."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are checked for ownership authenticity and legal approvals."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing details with no hidden costs."
+      },
+      {
+        "title": "Strong Local Market Knowledge",
+        "description": "Accurate insights into Dev Colony Rohtak plot prices and trends."
+      },
+      {
+        "title": "Wide Range of Plot Sizes",
+        "description": "Multiple plot options available to match different needs and budgets."
+      },
+      {
+        "title": "Legal and Documentation Support",
+        "description": "Complete assistance with registry, approvals, and paperwork."
+      },
+      {
+        "title": "Investment-Focused Guidance",
+        "description": "Expert advice aimed at long-term appreciation and secure returns."
+      },
+      {
+        "title": "Smooth Buying Experience",
+        "description": "Hassle-free process from site visit to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for reliability, transparency, and customer trust."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Dev Colony Rohtak",
+    "description": "Clear and detailed answers to help buyers make informed plot purchase decisions.",
+    "faqs": [
+      {
+        "question": "Is Dev Colony Rohtak a good area to buy a plot?",
+        "answer": "Yes, Dev Colony is a centrally located and well-developed residential area with strong demand."
+      },
+      {
+        "question": "What plot sizes are available in Dev Colony?",
+        "answer": "Plot sizes usually range from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Are plots in Dev Colony approved for construction?",
+        "answer": "Most plots are approved, but legal verification is always recommended before purchase."
+      },
+      {
+        "question": "Is Dev Colony suitable for family living?",
+        "answer": "Yes, the locality is peaceful, safe, and close to schools, hospitals, and markets."
+      },
+      {
+        "question": "Does Dev Colony offer good appreciation potential?",
+        "answer": "Yes, limited land supply and steady demand support consistent price growth."
+      },
+      {
+        "question": "Can I get a loan for buying a plot?",
+        "answer": "Loan eligibility depends on plot approvals and bank policies."
+      },
+      {
+        "question": "Are basic amenities easily accessible?",
+        "answer": "Yes, all essential amenities are available within a short distance."
+      },
+      {
+        "question": "How is connectivity from Dev Colony?",
+        "answer": "Dev Colony is well-connected to major roads and important city areas."
+      },
+      {
+        "question": "Why should I choose Deal Acres for plot purchase?",
+        "answer": "Deal Acres offers verified listings, expert guidance, and transparent transactions."
+      },
+      {
+        "question": "How can I contact a plot consultant?",
+        "answer": "You can fill out the contact form on this page to connect with experienced plot experts."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get in Touch for Plots for Sale in Dev Colony Rohtak",
+    "description": [
+      "Finding the right plot for sale in Dev Colony Rohtak is easier with professional support.",
+      "Share your requirements through the form and connect with trusted plot consultants today."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "message"]
+  }
+}

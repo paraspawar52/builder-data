@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforrent.com",
+  "hero": {
+    "title": "Comfortable and Well Located Houses for Rent in Murthal Sonipat",
+    "description": [
+      "Murthal Sonipat is a well-known and rapidly growing residential location, famous for its strategic location on NH-44, peaceful living environment, and excellent connectivity to Delhi, Sonipat city, and nearby industrial areas. The area is well-developed with wide roads, local markets, schools, colleges, hospitals, and daily convenience stores nearby. Tenants looking for a house for rent in Murthal Sonipat often prefer this location due to its calm surroundings combined with easy access to highways and employment hubs.",
+      "Choosing a house for rent in Murthal Sonipat is ideal for families, working professionals, and students who want affordable yet comfortable living. Murthal offers independent houses in different Marla sizes, suitable for various budgets and space requirements. With increasing residential demand and continuous infrastructure development, Murthal has become a preferred rental destination. Deal Acres helps tenants find verified houses for rent in Murthal Sonipat with transparent listings, trusted owners, and expert support for a smooth rental experience."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent in Murthal",
+        "path": "/"
+      },
+      {
+        "label": "Connect With Rental Expert",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=900&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600585154084-4e5fe7c39198?w=900&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Marla Wise House for Rent Options Available in Murthal Sonipat",
+    "description": [
+      "Houses for rent in Murthal Sonipat are available in various Marla sizes to meet different family needs and rental budgets.",
+      "These Marla-wise options help tenants select homes based on space, comfort, and long-term living preferences."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Murthal Sonipat",
+        "description": "4 Marla houses are suitable for small families, couples, and students. These homes are affordable, easy to maintain, and located close to markets and transport facilities, making them a popular rental option in Murthal Sonipat."
+      },
+      {
+        "title": "6 Marla House for Rent in Murthal Sonipat",
+        "description": "6 Marla houses offer a good balance of space and affordability. They are ideal for nuclear families seeking comfortable living with proper ventilation and easy access to daily essentials."
+      },
+      {
+        "title": "8 Marla House for Rent in Murthal Sonipat",
+        "description": "8 Marla houses provide spacious layouts, better privacy, and additional living areas. These homes are preferred by families planning medium to long-term rental stays in Murthal."
+      },
+      {
+        "title": "10 Marla House for Rent in Murthal Sonipat",
+        "description": "10 Marla houses fall under the premium rental category, offering larger rooms, parking facilities, and enhanced comfort for growing families."
+      },
+      {
+        "title": "12 Marla House for Rent in Murthal Sonipat",
+        "description": "12 Marla houses are ideal for tenants who prefer expansive homes, suitable for joint families or those seeking independent living with more space."
+      },
+      {
+        "title": "14 Marla House for Rent in Murthal Sonipat",
+        "description": "14 Marla houses represent high-end rental options with superior space, independent floors, and a premium lifestyle in a developing residential area."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Areas Offering Houses for Rent Around Murthal",
+    "description": [
+      "Tenants searching for a house for rent in Murthal Sonipat often explore nearby localities for more options.",
+      "These surrounding areas offer similar connectivity, residential infrastructure, and rental advantages."
+    ],
+    "locations": [
+      { "title": "House for Rent in Murthal Sonipat", "path": "/", "icon": "Map" },
+      { "title": "House for Rent in Kundli Sonipat", "path": "/", "icon": "Map" },
+      { "title": "House for Rent in Sector 33 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "House for Rent in Sector 15 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Independent Houses for Rent in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Affordable Houses for Rent in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Best Residential Areas in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Premium Rental Homes in Sonipat", "path": "/", "icon": "Map" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Most Trusted Platform for Renting Houses",
+    "description": [
+      "Finding a house for rent in Murthal Sonipat becomes easy, reliable, and transparent with Deal Acres.",
+      "Deal Acres has earned strong trust from tenants by offering verified listings, honest guidance, and a customer-first approach."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "All houses are verified for ownership, legal clarity, and property condition before listing."
+      },
+      {
+        "title": "Transparent Rental Process",
+        "description": "Clear rental terms and pricing ensure tenants face no hidden charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Murthal Sonipat helps provide accurate rental guidance."
+      },
+      {
+        "title": "Tenant-Focused Recommendations",
+        "description": "Property suggestions are based on tenant budget, family size, and lifestyle needs."
+      },
+      {
+        "title": "Direct Owner Communication",
+        "description": "Tenants can directly connect with property owners for better transparency and faster decisions."
+      },
+      {
+        "title": "Complete Rental Assistance",
+        "description": "Support with site visits, negotiation, and rental documentation ensures a smooth experience."
+      },
+      {
+        "title": "Wide Range of Options",
+        "description": "Multiple Marla-size houses available on one trusted rental platform."
+      },
+      {
+        "title": "High Customer Trust",
+        "description": "Deal Acres is known for ethical practices, reliability, and long-term tenant satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Murthal Sonipat",
+    "description": "These FAQs help tenants resolve common queries and make informed rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Murthal Sonipat a good area to rent a house?",
+        "answer": "Yes, Murthal is a growing residential area with excellent highway connectivity, peaceful surroundings, and access to daily amenities."
+      },
+      {
+        "question": "What Marla sizes are available for houses on rent in Murthal Sonipat?",
+        "answer": "Houses are generally available from 4 Marla to 14 Marla, depending on budget and space needs."
+      },
+      {
+        "question": "Are houses in Murthal suitable for families?",
+        "answer": "Yes, Murthal is family-friendly with schools, hospitals, parks, and markets nearby."
+      },
+      {
+        "question": "Are affordable rental houses available in Murthal?",
+        "answer": "Yes, 4 Marla and 6 Marla houses offer budget-friendly rental options."
+      },
+      {
+        "question": "Is parking available with rental houses?",
+        "answer": "Most independent houses provide dedicated or nearby parking facilities."
+      },
+      {
+        "question": "Can students and professionals rent houses in Murthal Sonipat?",
+        "answer": "Yes, Murthal is popular among students and professionals due to colleges, industries, and highway access."
+      },
+      {
+        "question": "Does Deal Acres verify rental listings?",
+        "answer": "Yes, every rental listing on Deal Acres is verified for ownership and legal clarity."
+      },
+      {
+        "question": "Are long-term rental options available?",
+        "answer": "Yes, many owners prefer long-term tenants for stability."
+      },
+      {
+        "question": "Is Murthal Sonipat safe for tenants?",
+        "answer": "Yes, Murthal is considered safe with a growing residential community and regular civic development."
+      },
+      {
+        "question": "How can I enquire about a house for rent in Murthal Sonipat?",
+        "answer": "You can fill out the enquiry form on Deal Acres to connect with a verified rental expert and receive personalized assistance."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get in Touch to Find the Right House for Rent",
+    "description": [
+      "Finding the perfect house for rent in Murthal Sonipat becomes simple with expert guidance.",
+      "Share your rental requirements to receive verified listings and personalized assistance from trusted professionals."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "houseSize", "message"]
+  }
+}

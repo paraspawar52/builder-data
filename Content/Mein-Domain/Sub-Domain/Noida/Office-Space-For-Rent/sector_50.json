@@ -1,0 +1,169 @@
+{
+  "domain": "officespaceforrentcom",
+  "hero": {
+    "title": "Well-Connected Commercial Office Spaces for Rent in Sector 50 Noida",
+    "description": [
+      "Sector 50 Noida is a prime and well-established commercial–residential locality, known for its central positioning and excellent connectivity across Noida and Delhi. Located close to major roads, metro stations, and surrounding business sectors, the area offers seamless access to Sector 18, City Centre, and other commercial hubs. Businesses searching for office space for rent in Sector 50 Noida prefer this location due to its balanced work environment, availability of daily amenities, and strong corporate ecosystem.",
+      "Office spaces for rent in Sector 50 Noida cater to startups, service-based companies, and established firms looking for a professional address in a mature locality. The sector features low-rise commercial buildings, mixed-use developments, and flexible office layouts with parking, power backup, and security. Unlike crowded IT zones, Sector 50 provides a calm yet business-friendly atmosphere. With consistent demand and stable infrastructure, Sector 50 continues to be a reliable choice for businesses aiming for long-term operational stability in Noida."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces in Sector 50",
+        "path": "/"
+      },
+      {
+        "label": "Get Office Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1604328698692-f76ea9498e76?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Office Space Size Options Available in Sector 50 Noida",
+    "description": [
+      "Selecting the right office space for rent in Sector 50 Noida depends on team size, operational needs, and business growth plans.",
+      "The sector offers a wide range of office configurations suitable for small teams as well as expanding companies."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space for Rent in Sector 50 Noida",
+        "description": "A 4 Marla office space for rent in Sector 50 Noida is ideal for startups, consultants, and small professional teams. These compact offices offer cost efficiency, easy maintenance, and a central business address."
+      },
+      {
+        "title": "6 Marla Office Space for Rent in Sector 50 Noida",
+        "description": "6 Marla office spaces for rent in Sector 50 Noida suit growing businesses that need separate workstations, meeting rooms, and a professional setup without high overheads."
+      },
+      {
+        "title": "8 Marla Office Space for Rent in Sector 50 Noida",
+        "description": "An 8 Marla office space for rent in Sector 50 Noida provides additional flexibility for mid-sized teams, offering better layout planning and improved employee comfort."
+      },
+      {
+        "title": "10 Marla Office Space for Rent in Sector 50 Noida",
+        "description": "10 Marla office spaces for rent in Sector 50 Noida are suitable for established firms requiring spacious interiors, department segregation, and client-facing areas."
+      },
+      {
+        "title": "12 Marla Office Space for Rent in Sector 50 Noida",
+        "description": "A 12 Marla office space for rent in Sector 50 Noida supports larger operations with ample workspace, parking facilities, and a strong corporate presence."
+      },
+      {
+        "title": "14 Marla Office Space for Rent in Sector 50 Noida",
+        "description": "14 Marla office spaces represent premium commercial options in Sector 50 Noida, offering expansive layouts, enhanced visibility, and long-term scalability."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Office Spaces for Rent Near Sector 50 Noida",
+    "description": [
+      "Businesses looking for office space for rent in Sector 50 Noida often explore nearby sectors for comparative options.",
+      "These surrounding locations strengthen Sector 50’s position as a centrally located commercial zone."
+    ],
+    "locations": [
+      { "title": "Office Space for Rent in Sector 50 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space for Rent in Sector 51 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space for Rent in Sector 52 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space near City Centre Noida", "path": "/", "icon": "Building2" },
+      { "title": "Commercial Offices near Metro Stations Noida", "path": "/", "icon": "Building2" },
+      { "title": "Corporate Offices in Central Noida", "path": "/", "icon": "Building2" },
+      { "title": "Fully Furnished Offices in Noida", "path": "/", "icon": "Building2" },
+      { "title": "Business Offices near Markets and Malls", "path": "/", "icon": "Building2" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Businesses Trust Deal Acres for Office Space in Sector 50 Noida",
+    "description": [
+      "Finding the right office space for rent in Sector 50 Noida requires verified listings, fair pricing, and local expertise.",
+      "Deal Acres delivers a transparent and business-focused commercial leasing experience."
+    ],
+    "points": [
+      {
+        "title": "Verified Commercial Listings",
+        "description": "Each office space is verified for ownership, condition, and availability."
+      },
+      {
+        "title": "Transparent Lease Terms",
+        "description": "Clear information on rent, deposit, and lease duration with no hidden charges."
+      },
+      {
+        "title": "Strong Local Market Knowledge",
+        "description": "Expert understanding of Sector 50 Noida commercial rental trends."
+      },
+      {
+        "title": "Wide Office Space Selection",
+        "description": "Options available for startups, SMEs, and corporate offices."
+      },
+      {
+        "title": "Lease & Documentation Support",
+        "description": "Assistance with agreements, compliance, and paperwork."
+      },
+      {
+        "title": "Customized Office Recommendations",
+        "description": "Office options matched to your business size and growth goals."
+      },
+      {
+        "title": "End-to-End Commercial Support",
+        "description": "Support from initial search to final office possession."
+      },
+      {
+        "title": "Trusted Commercial Real Estate Platform",
+        "description": "Deal Acres is known for reliability, transparency, and long-term partnerships."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Office Space for Rent in Sector 50 Noida",
+    "description": "Common questions answered to help businesses make confident rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 50 Noida good for office space?",
+        "answer": "Yes, Sector 50 is centrally located, well-connected, and suitable for professional offices and service-based businesses."
+      },
+      {
+        "question": "What office sizes are available in Sector 50 Noida?",
+        "answer": "Office spaces ranging from 4 Marla to 14 Marla are available depending on availability."
+      },
+      {
+        "question": "Is Sector 50 suitable for startups?",
+        "answer": "Yes, the area offers affordable and flexible office options for startups and small teams."
+      },
+      {
+        "question": "How is connectivity from Sector 50 Noida?",
+        "answer": "Sector 50 has excellent road and metro connectivity to central Noida and Delhi."
+      },
+      {
+        "question": "Are furnished office spaces available?",
+        "answer": "Yes, both furnished and semi-furnished office spaces are available."
+      },
+      {
+        "question": "What amenities do office buildings offer?",
+        "answer": "Most offices provide parking, power backup, security, and maintenance services."
+      },
+      {
+        "question": "What is the average rent for office space in Sector 50?",
+        "answer": "Rent varies based on office size, furnishing, and building type."
+      },
+      {
+        "question": "Is Sector 50 suitable for client-facing businesses?",
+        "answer": "Yes, its central location and nearby amenities make it ideal for client interactions."
+      },
+      {
+        "question": "Why choose Deal Acres for office rentals?",
+        "answer": "Deal Acres offers verified listings, transparent deals, and expert guidance."
+      },
+      {
+        "question": "How can I contact office space experts?",
+        "answer": "Fill out the contact form on this page to connect with commercial property experts."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Office Space for Rent in Sector 50 Noida",
+    "description": [
+      "Finding the right office space for rent in Sector 50 Noida is easier with expert assistance.",
+      "Share your business requirements and contact details to connect with trusted commercial real estate consultants."
+    ],
+    "formFields": ["name", "phone", "email", "company", "message"]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforsale.com",
+  "hero": {
+    "title": "Well Planned Residential Houses for Sale in Sector 14 Sonipat",
+    "description": [
+      "Sector 14 Sonipat is one of the most established and sought-after residential locations in the city, known for its planned layout, wide internal roads, and peaceful surroundings. The sector offers excellent connectivity to major roads, schools, hospitals, shopping areas, and daily convenience markets, making it ideal for families and working professionals. Buyers searching for a house for sale in Sector 14 Sonipat usually prefer this area for its safety, mature neighborhood, and availability of well-constructed independent houses and builder floors across different budgets.",
+      "Investing in a house for sale in Sector 14 Sonipat ensures long-term living comfort and stable property value. The area has consistent demand due to its central location and developed infrastructure. With verified listings and expert support from Deal Acres, buyers can explore genuine house options, understand real market prices, and complete transactions with full transparency. Sector 14 continues to remain a strong choice for both end-users and long-term investors."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses in Sector 14",
+        "path": "/"
+      },
+      {
+        "label": "Connect With Property Expert",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=900&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=900&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Marla Wise Houses for Sale Options in Sector 14 Sonipat",
+    "description": [
+      "Houses for sale in Sector 14 Sonipat are available in multiple Marla configurations to suit different family sizes and budgets.",
+      "These Marla-wise options help buyers select homes based on space needs, comfort, and long-term plans."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Sector 14 Sonipat",
+        "description": "4 Marla houses for sale in Sector 14 Sonipat are ideal for small families and first-time buyers looking for affordable yet well-located homes. These houses offer practical layouts, easy maintenance, and good connectivity. Due to the sector’s popularity, they also enjoy steady rental and resale demand."
+      },
+      {
+        "title": "6 Marla House for Sale in Sector 14 Sonipat",
+        "description": "6 Marla houses provide a balanced combination of space and value, making them suitable for nuclear families. Located near schools, parks, and markets, these homes offer comfortable living and stable appreciation. They are a popular choice among mid-budget buyers."
+      },
+      {
+        "title": "8 Marla House for Sale in Sector 14 Sonipat",
+        "description": "8 Marla houses in Sector 14 Sonipat are preferred by families seeking spacious interiors and better privacy. These homes usually feature improved ventilation, parking space, and family-friendly layouts. They are ideal for long-term residence."
+      },
+      {
+        "title": "10 Marla House for Sale in Sector 14 Sonipat",
+        "description": "10 Marla houses are premium residential options in Sector 14 Sonipat, offering larger room sizes and better construction quality. These homes are suitable for families planning long-term settlement and a higher standard of living."
+      },
+      {
+        "title": "12 Marla House for Sale in Sector 14 Sonipat",
+        "description": "12 Marla houses cater to buyers looking for luxury living and extra space. These properties are ideal for joint families or buyers who value privacy, comfort, and long-term asset security."
+      },
+      {
+        "title": "14 Marla House for Sale in Sector 14 Sonipat",
+        "description": "14 Marla houses represent the high-end residential segment in Sector 14 Sonipat. These spacious homes are preferred by buyers seeking premium construction, customization options, and strong long-term investment potential."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Houses for Sale in Sector 14 Sonipat Nearby Areas",
+    "description": [
+      "Buyers searching for a house for sale in Sector 14 Sonipat often explore nearby sectors for comparison.",
+      "These surrounding areas also offer good residential infrastructure and connectivity."
+    ],
+    "locations": [
+      { "title": "House for Sale in Sector 14 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "House for Sale in Sector 15 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "House for Sale in Sector 18 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "House for Sale in Sector 19 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Independent Houses in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Residential Houses in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Premium Houses in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Affordable Houses in Sonipat", "path": "/", "icon": "Map" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Most Trusted Platform to Buy Houses",
+    "description": [
+      "Finding a house for sale in Sector 14 Sonipat becomes simple and reliable with Deal Acres’ verified listings.",
+      "Deal Acres is trusted for transparency, accuracy, and customer-focused real estate support."
+    ],
+    "points": [
+      {
+        "title": "Verified House Listings",
+        "description": "All house listings are verified for ownership, approvals, and authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Buyers receive clear pricing insights without hidden costs."
+      },
+      {
+        "title": "Local Market Knowledge",
+        "description": "Strong understanding of Sector 14 Sonipat helps buyers make informed decisions."
+      },
+      {
+        "title": "Personalized Property Guidance",
+        "description": "Recommendations based on budget, family needs, and lifestyle preferences."
+      },
+      {
+        "title": "Direct Owner Interaction",
+        "description": "Direct communication with owners improves trust and negotiation."
+      },
+      {
+        "title": "Complete Legal Support",
+        "description": "Assistance with agreements, verification, and registration ensures smooth deals."
+      },
+      {
+        "title": "Wide Range of House Options",
+        "description": "Multiple Marla sizes and house types available on one platform."
+      },
+      {
+        "title": "Trusted Real Estate Brand",
+        "description": "Deal Acres is known for reliability, ethics, and customer satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Sale in Sector 14 Sonipat",
+    "description": "These FAQs help buyers understand the process of purchasing a house in Sector 14 Sonipat.",
+    "faqs": [
+      {
+        "question": "Is Sector 14 Sonipat a good area to buy a house?",
+        "answer": "Yes, Sector 14 is a well-developed and family-friendly locality with strong property demand."
+      },
+      {
+        "question": "What types of houses are available in Sector 14?",
+        "answer": "Independent houses and builder floors in various Marla sizes are available."
+      },
+      {
+        "question": "Are houses in Sector 14 suitable for families?",
+        "answer": "Yes, the area offers a safe environment with schools, parks, and hospitals nearby."
+      },
+      {
+        "question": "Does Deal Acres verify house listings?",
+        "answer": "Yes, all listings are verified for ownership and legal compliance."
+      },
+      {
+        "question": "Are Marla-wise options available in Sector 14?",
+        "answer": "Yes, houses from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Can I get help with legal documentation?",
+        "answer": "Deal Acres provides complete assistance with paperwork and registration."
+      },
+      {
+        "question": "Is Sector 14 Sonipat good for investment?",
+        "answer": "Yes, the sector offers stable appreciation and strong resale value."
+      },
+      {
+        "question": "Is rental demand good in Sector 14?",
+        "answer": "Yes, rental demand remains steady due to the central location."
+      },
+      {
+        "question": "Do houses here have good resale value?",
+        "answer": "Yes, properties in Sector 14 generally maintain strong resale value."
+      },
+      {
+        "question": "How can I enquire about houses for sale in Sector 14 Sonipat?",
+        "answer": "You can fill out the enquiry form to connect with a verified property expert."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Buying a House in Sector 14 Sonipat",
+    "description": [
+      "Finding the right house in Sector 14 Sonipat becomes easy with expert guidance and verified listings.",
+      "Share your requirements to receive personalized house options and professional support."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "houseSize", "message"]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "domain": "officespaceforrentcom",
+  "hero": {
+    "title": "Modern and Well-Planned Office Spaces for Rent in Sector 117 Noida",
+    "description": [
+      "Sector 117 Noida is a fast-developing commercial–residential locality known for its planned infrastructure and smooth connectivity to central Noida. The sector is strategically located near Sector 62, Sector 120, and major arterial roads, making daily commuting convenient for employees and clients. Businesses looking for office space for rent in Sector 117 Noida are attracted by its organized surroundings, low congestion, and access to essential amenities such as markets, banks, and public transport.",
+      "Office spaces for rent in Sector 117 Noida cater to startups, IT service providers, consultants, and growing enterprises seeking a professional yet peaceful work environment. The area offers low-rise commercial buildings, flexible office layouts, and modern facilities including parking, power backup, and security. Unlike overcrowded commercial hubs, Sector 117 provides a balanced workspace that supports productivity and long-term business stability. With steady demand and continuous development, Sector 117 is emerging as a reliable office destination in Noida."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces in Sector 117",
+        "path": "/"
+      },
+      {
+        "label": "Get Office Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1604328698692-f76ea9498e76?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Office Space Size Options Available in Sector 117 Noida",
+    "description": [
+      "Choosing the right office space for rent in Sector 117 Noida depends on team size, operational requirements, and future expansion plans.",
+      "The sector offers multiple office size configurations suitable for small teams as well as growing organizations."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space for Rent in Sector 117 Noida",
+        "description": "A 4 Marla office space for rent in Sector 117 Noida is ideal for startups, freelancers, and small professional teams. These compact offices provide affordability, easy maintenance, and a professional business address."
+      },
+      {
+        "title": "6 Marla Office Space for Rent in Sector 117 Noida",
+        "description": "6 Marla office spaces for rent in Sector 117 Noida are suitable for growing businesses that need cabins, meeting rooms, and organized work areas without high rental overheads."
+      },
+      {
+        "title": "8 Marla Office Space for Rent in Sector 117 Noida",
+        "description": "An 8 Marla office space for rent in Sector 117 Noida supports mid-sized teams by offering better layout flexibility, collaborative spaces, and improved employee comfort."
+      },
+      {
+        "title": "10 Marla Office Space for Rent in Sector 117 Noida",
+        "description": "10 Marla office spaces for rent in Sector 117 Noida are preferred by established firms requiring spacious interiors, client-facing zones, and departmental separation."
+      },
+      {
+        "title": "12 Marla Office Space for Rent in Sector 117 Noida",
+        "description": "A 12 Marla office space for rent in Sector 117 Noida is suitable for larger teams that require ample workspace, parking facilities, and smooth daily operations."
+      },
+      {
+        "title": "14 Marla Office Space for Rent in Sector 117 Noida",
+        "description": "14 Marla office spaces represent premium commercial options in Sector 117 Noida, offering expansive layouts, modern infrastructure, and long-term scalability for businesses."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Office Spaces for Rent Near Sector 117 Noida",
+    "description": [
+      "Businesses searching for office space for rent in Sector 117 Noida often explore nearby sectors to compare connectivity, pricing, and availability.",
+      "These surrounding locations further strengthen Sector 117’s position as a growing commercial hub."
+    ],
+    "locations": [
+      { "title": "Office Space for Rent in Sector 117 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space for Rent in Sector 120 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space for Rent in Sector 62 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space near Noida Expressway", "path": "/", "icon": "Building2" },
+      { "title": "Commercial Offices near Metro Stations Noida", "path": "/", "icon": "Building2" },
+      { "title": "Corporate Offices in Central Noida", "path": "/", "icon": "Building2" },
+      { "title": "Fully Furnished Offices in Noida", "path": "/", "icon": "Building2" },
+      { "title": "Business Offices near Residential Sectors", "path": "/", "icon": "Building2" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Businesses Trust Deal Acres for Office Space in Sector 117 Noida",
+    "description": [
+      "Finding the right office space for rent in Sector 117 Noida requires verified listings, transparent pricing, and reliable local expertise.",
+      "Deal Acres offers a professional and trustworthy commercial leasing experience."
+    ],
+    "points": [
+      {
+        "title": "Verified Office Listings",
+        "description": "Each office space is thoroughly verified for ownership, condition, and availability."
+      },
+      {
+        "title": "Transparent Rental Process",
+        "description": "Clear details on rent, deposits, and lease terms with no hidden charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 117 Noida commercial rental trends and demand."
+      },
+      {
+        "title": "Wide Range of Office Options",
+        "description": "Office spaces available for startups, SMEs, and corporate teams."
+      },
+      {
+        "title": "Complete Documentation Support",
+        "description": "Assistance with lease agreements, compliance, and paperwork."
+      },
+      {
+        "title": "Customized Property Suggestions",
+        "description": "Office recommendations aligned with business size, budget, and goals."
+      },
+      {
+        "title": "End-to-End Leasing Assistance",
+        "description": "Support from initial search to final office handover."
+      },
+      {
+        "title": "Trusted Commercial Real Estate Platform",
+        "description": "Deal Acres is known for transparency, reliability, and long-term client relationships."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Office Space for Rent in Sector 117 Noida",
+    "description": "Key questions answered to help businesses make informed office rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 117 Noida good for office space?",
+        "answer": "Yes, Sector 117 Noida is a planned and developing area with good connectivity and a professional environment suitable for offices."
+      },
+      {
+        "question": "What office sizes are available in Sector 117 Noida?",
+        "answer": "Office spaces from 4 Marla to 14 Marla are available, depending on current listings and building types."
+      },
+      {
+        "question": "Is Sector 117 suitable for startups?",
+        "answer": "Yes, the sector offers affordable and flexible office options that are ideal for startups and small businesses."
+      },
+      {
+        "question": "How is connectivity from Sector 117 Noida?",
+        "answer": "Sector 117 has good road connectivity to central Noida, nearby sectors, and major expressways."
+      },
+      {
+        "question": "Are furnished office spaces available in Sector 117?",
+        "answer": "Yes, furnished and semi-furnished office spaces are available based on property availability."
+      },
+      {
+        "question": "What amenities are provided in office buildings?",
+        "answer": "Most office buildings offer parking, power backup, security, and maintenance services."
+      },
+      {
+        "question": "What factors influence office rent in Sector 117?",
+        "answer": "Rent depends on office size, furnishing, building quality, and exact location within the sector."
+      },
+      {
+        "question": "Is Sector 117 suitable for client meetings?",
+        "answer": "Yes, its organized layout and easy accessibility make it suitable for client-facing businesses."
+      },
+      {
+        "question": "Why choose Deal Acres for office rentals?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, and expert commercial guidance."
+      },
+      {
+        "question": "How can I contact office space experts?",
+        "answer": "You can fill out the contact form on this page to connect with experienced commercial property consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Office Space for Rent in Sector 117 Noida",
+    "description": [
+      "Finding the right office space for rent in Sector 117 Noida becomes simple with expert support.",
+      "Share your business requirements and contact details to connect with trusted commercial real estate professionals."
+    ],
+    "formFields": ["name", "phone", "email", "company", "message"]
+  }
+}

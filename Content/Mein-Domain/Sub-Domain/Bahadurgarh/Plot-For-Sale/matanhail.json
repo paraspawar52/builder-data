@@ -1,0 +1,169 @@
+{
+  "domain": "Plotforsale.com",
+  "hero": {
+    "title": "Residential and Investment Plots for Sale in Matanhail Bahadurgarh",
+    "description": [
+      "Matanhail Bahadurgarh is an emerging residential and investment-friendly location known for its peaceful surroundings, open spaces, and steadily improving infrastructure. The area attracts buyers who prefer calm living away from crowded city centers while still staying connected to Bahadurgarh and nearby regions. People searching for a plot for sale in Matanhail Bahadurgarh often look for affordability, long-term growth potential, and a clean environment, which makes this location a practical choice.",
+      "Plot for sale in Matanhail Bahadurgarh is suitable for both residential construction and land investment. With increasing development activities and future infrastructure plans, property values in Matanhail show promising appreciation. Whether you plan to build a home or invest in land for future returns, Matanhail offers space, value, and long-term stability within the Bahadurgarh region."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Available Plots",
+        "path": "/"
+      },
+      {
+        "label": "Talk to Property Expert",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=900&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1592595896616-c37162298647?w=900&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Marla Wise Plot for Sale Options in Matanhail Bahadurgarh",
+    "description": [
+      "Plot for sale in Matanhail Bahadurgarh is available in multiple Marla sizes to suit different buyer needs.",
+      "These options help buyers select plots based on budget, construction plans, and investment goals."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot for Sale in Matanhail Bahadurgarh",
+        "description": "4 Marla plot for sale in Matanhail Bahadurgarh is ideal for budget-conscious buyers planning compact residential construction."
+      },
+      {
+        "title": "6 Marla Plot for Sale in Matanhail Bahadurgarh",
+        "description": "6 Marla plot for sale in Matanhail Bahadurgarh offers balanced space for comfortable home layouts and small families."
+      },
+      {
+        "title": "8 Marla Plot for Sale in Matanhail Bahadurgarh",
+        "description": "8 Marla plot for sale in Matanhail Bahadurgarh provides additional space for parking, ventilation, and open areas."
+      },
+      {
+        "title": "10 Marla Plot for Sale in Matanhail Bahadurgarh",
+        "description": "10 Marla plot for sale in Matanhail Bahadurgarh is suitable for spacious independent houses and long-term living."
+      },
+      {
+        "title": "12 Marla Plot for Sale in Matanhail Bahadurgarh",
+        "description": "12 Marla plot for sale in Matanhail Bahadurgarh is preferred by buyers planning premium residential construction."
+      },
+      {
+        "title": "14 Marla Plot for Sale in Matanhail Bahadurgarh",
+        "description": "14 Marla plot for sale in Matanhail Bahadurgarh is ideal for luxury homes and high-value land investment."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Plot for Sale Locations Around Matanhail",
+    "description": [
+      "Buyers looking for plots in Matanhail Bahadurgarh often explore nearby areas for comparison.",
+      "These surrounding locations also offer good residential and investment opportunities."
+    ],
+    "locations": [
+      { "title": "Plot for Sale in Matanhail Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Plot for Sale in Sector 15 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Plot for Sale in Sector 9 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Plot for Sale in Sector 6 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Plot for Sale on Delhi Rohtak Highway", "path": "/", "icon": "Map" },
+      { "title": "Residential Plots in Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Approved Plots in Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Investment Plots in Bahadurgarh", "path": "/", "icon": "Map" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is Trusted for Plot Purchases",
+    "description": [
+      "Buying a plot for sale in Matanhail Bahadurgarh requires reliable listings and transparent guidance.",
+      "Deal Acres focuses on trust, verification, and customer-first property solutions."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "Each plot is checked for ownership authenticity and basic documentation."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear information on plot prices with no hidden charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Matanhail and Bahadurgarh property trends."
+      },
+      {
+        "title": "Buyer-Focused Recommendations",
+        "description": "Plots suggested based on budget, purpose, and future value."
+      },
+      {
+        "title": "Direct Owner Connect",
+        "description": "Helps buyers connect directly with genuine property owners."
+      },
+      {
+        "title": "Documentation Assistance",
+        "description": "Support provided for registry and legal paperwork."
+      },
+      {
+        "title": "Long-Term Value Approach",
+        "description": "Focus on plots with good appreciation potential."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for reliability and customer satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plot for Sale in Matanhail",
+    "description": "Common buyer questions answered to help make confident property decisions.",
+    "faqs": [
+      {
+        "question": "Is Matanhail Bahadurgarh good for buying plots?",
+        "answer": "Yes, Matanhail offers affordable pricing, open surroundings, and good future growth potential."
+      },
+      {
+        "question": "Are plots suitable for residential construction?",
+        "answer": "Yes, most plots are suitable for residential use, subject to local regulations."
+      },
+      {
+        "question": "Is Matanhail a good location for investment?",
+        "answer": "Yes, due to developing infrastructure and increasing demand, it is suitable for long-term investment."
+      },
+      {
+        "question": "Which Marla size is ideal for families?",
+        "answer": "6 to 10 Marla plots are commonly preferred for family homes."
+      },
+      {
+        "question": "Are basic amenities available nearby?",
+        "answer": "Yes, essential facilities are accessible within nearby Bahadurgarh areas."
+      },
+      {
+        "question": "Does Deal Acres verify plot listings?",
+        "answer": "Yes, all listings are verified for authenticity."
+      },
+      {
+        "question": "Is registry support provided?",
+        "answer": "Yes, Deal Acres assists with registry and documentation."
+      },
+      {
+        "question": "Can plots be used for future resale?",
+        "answer": "Yes, plots in Matanhail have good resale and appreciation potential."
+      },
+      {
+        "question": "Are corner plots available?",
+        "answer": "Availability depends on current listings and market supply."
+      },
+      {
+        "question": "How can I enquire about plots in Matanhail?",
+        "answer": "You can submit your details through the enquiry form to connect with a property expert."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Plot for Sale in Matanhail Bahadurgarh",
+    "description": [
+      "Finding the right plot in Matanhail Bahadurgarh becomes easier with expert guidance.",
+      "Share your requirements to receive verified listings and personalized support."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "plotSize", "message"]
+  }
+}

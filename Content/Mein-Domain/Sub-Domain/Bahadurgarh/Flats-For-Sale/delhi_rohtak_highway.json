@@ -1,0 +1,169 @@
+{
+  "domain": "Flatsforsalecom",
+  "hero": {
+    "title": "Prime Location Residential Flats for Sale on Delhi Rohtak Highway Bahadurgarh",
+    "description": [
+      "Delhi Rohtak Highway Bahadurgarh is one of the most strategically located residential corridors, offering excellent connectivity between Delhi NCR and Rohtak. The area is well-known for its smooth road access, proximity to industrial hubs, metro connectivity, and growing residential developments. Buyers searching for flats for sale in Delhi Rohtak Highway Bahadurgarh are drawn to its convenience, fast commute options, and rapidly improving infrastructure that supports modern urban living.",
+      "Flats for sale in Delhi Rohtak Highway Bahadurgarh come in various configurations suitable for families, professionals, and investors. The locality is witnessing continuous development with new residential projects, commercial growth, and better civic amenities, resulting in strong demand and appreciation potential. Whether you are planning to buy a home close to Delhi or looking for a promising real estate investment, Delhi Rohtak Highway offers accessibility, comfort, and long-term growth prospects in Bahadurgarh."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Flats on Delhi Rohtak Highway",
+        "path": "/"
+      },
+      {
+        "label": "Speak to Property Experts",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Multiple Flat Size Options Available on Delhi Rohtak Highway Bahadurgarh",
+    "description": [
+      "Choosing the right flat for sale on Delhi Rohtak Highway Bahadurgarh depends on your family size, lifestyle needs, and investment goals.",
+      "The area offers a wide range of flat configurations designed for comfort, convenience, and modern living."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Flats for Sale on Delhi Rohtak Highway Bahadurgarh",
+        "description": "4 Marla flats for sale on Delhi Rohtak Highway Bahadurgarh are ideal for individuals and small families seeking affordable housing near major connectivity routes. These flats offer functional layouts, easy maintenance, and quick access to daily essentials and transport facilities."
+      },
+      {
+        "title": "6 Marla Flats for Sale on Delhi Rohtak Highway Bahadurgarh",
+        "description": "6 Marla flats provide a balanced mix of space and budget. These flats usually include comfortable bedrooms, proper ventilation, and practical layouts, making them suitable for small families planning long-term residence."
+      },
+      {
+        "title": "8 Marla Flats for Sale on Delhi Rohtak Highway Bahadurgarh",
+        "description": "8 Marla flats for sale offer better space utilization and improved interior planning. These homes are suitable for families looking for additional comfort while staying close to major road connectivity."
+      },
+      {
+        "title": "10 Marla Flats for Sale on Delhi Rohtak Highway Bahadurgarh",
+        "description": "10 Marla flats are ideal for families who require spacious interiors and better privacy. These flats often feature larger rooms and well-designed living areas, supporting comfortable family living."
+      },
+      {
+        "title": "12 Marla Flats for Sale on Delhi Rohtak Highway Bahadurgarh",
+        "description": "12 Marla flats offer premium space with thoughtfully designed layouts. These properties are suitable for joint families or buyers who need extra rooms for guests, work-from-home setups, or future flexibility."
+      },
+      {
+        "title": "14 Marla Flats for Sale on Delhi Rohtak Highway Bahadurgarh",
+        "description": "14 Marla flats represent spacious and premium residential living. These flats provide large living areas, modern designs, and strong long-term investment potential due to the prime highway location."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Locations Offering Flats for Sale Around Delhi Rohtak Highway",
+    "description": [
+      "Buyers interested in flats for sale on Delhi Rohtak Highway Bahadurgarh often explore nearby sectors for comparison and wider choices.",
+      "These surrounding areas further enhance residential and investment opportunities."
+    ],
+    "locations": [
+      { "title": "Flats for Sale on Delhi Rohtak Highway Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Flats for Sale in Sector 36 Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Flats for Sale in Sector 37 Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Flats for Sale in Sector 15 Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Residential Flats in Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Ready to Move Flats in Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Affordable Flats Near Delhi NCR", "path": "/", "icon": "Home" },
+      { "title": "Upcoming Residential Projects Near Highway", "path": "/", "icon": "Home" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Trusted Choice for Buying Flats",
+    "description": [
+      "Buying flats for sale on Delhi Rohtak Highway Bahadurgarh requires verified listings, transparent pricing, and expert market guidance.",
+      "Deal Acres is trusted by buyers for offering reliable property information and a smooth, customer-focused buying experience."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All flats are verified for ownership, approvals, and legal authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing details with no hidden charges or misleading information."
+      },
+      {
+        "title": "Highway Location Expertise",
+        "description": "Strong understanding of Delhi Rohtak Highway property trends and demand."
+      },
+      {
+        "title": "Wide Range of Flat Options",
+        "description": "Multiple flat sizes and layouts to match different buyer requirements."
+      },
+      {
+        "title": "Legal and Documentation Support",
+        "description": "Complete assistance with agreements, registry, and paperwork."
+      },
+      {
+        "title": "Personalized Buyer Assistance",
+        "description": "Property recommendations based on budget, location, and lifestyle needs."
+      },
+      {
+        "title": "Smooth Buying Experience",
+        "description": "End-to-end support from property search to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Brand",
+        "description": "Deal Acres is known for transparency, reliability, and customer trust."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Flats for Sale on Delhi Rohtak Highway",
+    "description": "Detailed answers to common buyer queries for informed decision-making.",
+    "faqs": [
+      {
+        "question": "Is Delhi Rohtak Highway a good location to buy a flat?",
+        "answer": "Yes, it offers excellent connectivity, growing infrastructure, and strong future appreciation potential."
+      },
+      {
+        "question": "What flat sizes are available on Delhi Rohtak Highway Bahadurgarh?",
+        "answer": "Flats from 4 Marla to 14 Marla are available to suit different budgets and family sizes."
+      },
+      {
+        "question": "Is this area suitable for family living?",
+        "answer": "Yes, the area provides good connectivity, essential amenities, and developing residential projects."
+      },
+      {
+        "question": "Does Delhi Rohtak Highway offer good investment potential?",
+        "answer": "Yes, due to its prime location and continuous development, the area offers strong long-term value."
+      },
+      {
+        "question": "Are Deal Acres listings verified?",
+        "answer": "Yes, all listings on Deal Acres are thoroughly verified."
+      },
+      {
+        "question": "Can I get home loan assistance for buying a flat?",
+        "answer": "Home loan options depend on project approvals and bank eligibility criteria."
+      },
+      {
+        "question": "How is connectivity to Delhi from this location?",
+        "answer": "Connectivity is excellent with direct highway access and metro connectivity nearby."
+      },
+      {
+        "question": "Are daily amenities available nearby?",
+        "answer": "Yes, schools, markets, hospitals, and transport facilities are easily accessible."
+      },
+      {
+        "question": "Why should I choose Deal Acres for buying flats?",
+        "answer": "Deal Acres offers verified listings, expert guidance, and transparent transactions."
+      },
+      {
+        "question": "How can I contact a property expert for this area?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Guidance for Buying Flats on Delhi Rohtak Highway",
+    "description": [
+      "Finding the right flats for sale on Delhi Rohtak Highway Bahadurgarh becomes easier with professional assistance.",
+      "Share your requirements through the form and connect with trusted real estate experts today."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "message"]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforrentcom",
+  "hero": {
+    "title": "Premium Independent Houses for Rent in Sector 128 Noida",
+    "description": [
+      "Sector 128 Noida is a premium residential and institutional zone located along the Noida–Greater Noida Expressway, known for its modern infrastructure and excellent connectivity. Home to reputed institutions, corporate campuses, and green surroundings, the sector attracts professionals, families, and senior executives looking for a peaceful yet well-connected place to live. People searching for a house for rent in Sector 128 Noida are drawn by its proximity to IT hubs, educational institutions, healthcare facilities, and smooth access to central Noida and Greater Noida.",
+      "Houses for rent in Sector 128 Noida offer the advantage of independent living in a low-density and well-planned environment. The sector features wide roads, landscaped green areas, and an organized layout that supports a calm and comfortable lifestyle. Compared to congested city sectors, Sector 128 provides better air quality, privacy, and long-term rental value. For tenants seeking premium surroundings, expressway connectivity, and a balanced work-life environment, Sector 128 Noida stands out as a reliable and desirable rental destination."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent in Sector 128",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Independent House Rental Size Options in Sector 128 Noida",
+    "description": [
+      "Choosing the right house for rent in Sector 128 Noida depends on your family size, lifestyle expectations, and proximity to work or institutions.",
+      "The sector offers a variety of independent house sizes suitable for professionals, families, and premium tenants."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 128 Noida",
+        "description": "A 4 Marla house for rent in Sector 128 Noida is ideal for working professionals, couples, or small families. These homes are easy to maintain and provide functional layouts with essential amenities. Their expressway connectivity and peaceful surroundings make them a practical rental option."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 128 Noida",
+        "description": "6 Marla houses for rent in Sector 128 Noida offer a balanced mix of space and affordability. Suitable for nuclear families, these houses feature well-ventilated rooms, parking facilities, and a calm residential environment close to offices and institutions."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 128 Noida",
+        "description": "An 8 Marla house for rent in Sector 128 Noida is preferred by families looking for more living space and privacy. These homes typically include larger rooms, balconies, and flexible layouts suitable for long-term residential living."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 128 Noida",
+        "description": "10 Marla independent houses for rent in Sector 128 Noida cater to large families and senior professionals. These homes offer spacious interiors, multiple floors, and enhanced comfort, making them premium rental choices."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 128 Noida",
+        "description": "A 12 Marla house for rent in Sector 128 Noida is suitable for joint families or executives seeking expansive living spaces. These houses often include servant areas, ample parking, and a serene residential setting."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 128 Noida",
+        "description": "14 Marla houses represent luxury independent living in Sector 128 Noida. With expansive layouts, premium construction, and superior privacy, these homes are ideal for tenants seeking upscale rental living."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 128 Noida",
+    "description": [
+      "Tenants searching for a house for rent in Sector 128 Noida often explore nearby sectors along the Noida–Greater Noida Expressway.",
+      "These surrounding areas further strengthen Sector 128’s position as a premium and well-connected rental hub in Noida."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 128 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 137 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 135 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near Noida–Greater Noida Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses near IT Parks Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Rental Houses near Corporate Campuses Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Family Houses in Expressway Area Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Houses near Educational Institutions Noida", "path": "/", "icon": "Landmark" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Houses in Sector 128 Noida",
+    "description": [
+      "Finding a house for rent in Sector 128 Noida requires verified listings, transparent rental terms, and strong local expertise.",
+      "Deal Acres has earned tenant trust by offering accuracy, professionalism, and a customer-focused rental experience."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "All properties are verified for ownership authenticity and genuine availability."
+      },
+      {
+        "title": "Transparent Rental Pricing",
+        "description": "Clear rent and deposit details help tenants plan their budget confidently."
+      },
+      {
+        "title": "Local Rental Market Expertise",
+        "description": "Deep understanding of Sector 128 Noida rental trends and pricing."
+      },
+      {
+        "title": "Wide Range of House Options",
+        "description": "Multiple house sizes available to match different tenant requirements."
+      },
+      {
+        "title": "Rental Agreement Assistance",
+        "description": "Support with documentation and agreement formalities for smooth renting."
+      },
+      {
+        "title": "Personalized Property Recommendations",
+        "description": "Tailored suggestions based on lifestyle, budget, and work location."
+      },
+      {
+        "title": "End-to-End Tenant Support",
+        "description": "Complete assistance from property search to final move-in."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for transparency, reliability, and tenant satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 128 Noida",
+    "description": "Detailed answers to common tenant queries to help you make informed rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 128 Noida a good area to rent a house?",
+        "answer": "Yes, Sector 128 Noida is a premium location offering expressway connectivity, peaceful surroundings, and proximity to IT and educational hubs."
+      },
+      {
+        "question": "What house sizes are available for rent in Sector 128 Noida?",
+        "answer": "Independent houses from 4 Marla to 14 Marla are available, depending on location and availability."
+      },
+      {
+        "question": "Is Sector 128 suitable for family living?",
+        "answer": "Yes, the sector offers a calm environment, green surroundings, and access to schools and healthcare facilities."
+      },
+      {
+        "question": "How is connectivity from Sector 128 Noida?",
+        "answer": "Sector 128 enjoys excellent connectivity via the Noida–Greater Noida Expressway."
+      },
+      {
+        "question": "Are rental houses in Sector 128 safe?",
+        "answer": "Yes, the sector is well-planned and considered safe for families and professionals."
+      },
+      {
+        "question": "What is the average rent in Sector 128 Noida?",
+        "answer": "Rental values vary based on house size, amenities, and location, with premium houses commanding higher rents."
+      },
+      {
+        "question": "Do landlords provide proper rental agreements?",
+        "answer": "Yes, proper rental agreements are standard, and Deal Acres assists tenants with documentation."
+      },
+      {
+        "question": "Is Sector 128 suitable for working professionals?",
+        "answer": "Absolutely. Its proximity to IT parks, universities, and expressway connectivity makes it ideal for professionals."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, expert guidance, and complete rental support."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 128 Noida?",
+        "answer": "You can fill out the contact form on this page to connect with experienced rental consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Houses for Rent in Sector 128 Noida",
+    "description": [
+      "Finding the right house for rent in Sector 128 Noida becomes easy with expert guidance.",
+      "Share your contact details and rental requirements to connect with trusted professionals and explore verified rental listings with complete confidence."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

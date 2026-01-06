@@ -1,0 +1,169 @@
+{
+  "domain": "Flatsforrent.com",
+  "hero": {
+    "title": "Peaceful and Modern Flats for Rent in Sector 37 Bahadurgarh",
+    "description": [
+      "Sector 37 Bahadurgarh is a rapidly developing residential area that is gaining popularity among tenants looking for a calm, planned, and comfortable living environment. The sector is known for its wide internal roads, organized residential blocks, and low congestion, making it suitable for peaceful day-to-day living. People searching for flats for rent in Sector 37 Bahadurgarh generally prefer locations that offer a balance between modern infrastructure and a relaxed lifestyle, which this sector provides naturally.",
+      "Choosing flats for rent in Sector 37 Bahadurgarh is an excellent option for families and working professionals who want quality living at reasonable rental values. The area has convenient access to nearby sectors, local markets, schools, healthcare facilities, and major roads. With multiple residential options available in different Marla sizes, tenants can easily find flats that match their space needs and budget, making Sector 37 a promising rental destination in Bahadurgarh."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Flats in Sector 37",
+        "path": "/"
+      },
+      {
+        "label": "Talk to Rental Expert",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1502673530728-f79b4cab31b1?w=900&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=900&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Marla Wise Flats for Rent Options in Sector 37 Bahadurgarh",
+    "description": [
+      "Flats for rent in Sector 37 Bahadurgarh are available in multiple Marla sizes to suit different family sizes and living preferences.",
+      "These Marla-wise options help tenants choose flats based on comfort, space, and budget."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Flats for Rent in Sector 37 Bahadurgarh",
+        "description": "4 Marla flats for rent in Sector 37 Bahadurgarh are ideal for bachelors, couples, and small families looking for affordable and easy-to-maintain homes."
+      },
+      {
+        "title": "6 Marla Flats for Rent in Sector 37 Bahadurgarh",
+        "description": "6 Marla flats for rent in Sector 37 Bahadurgarh offer balanced layouts with comfortable room sizes, making them suitable for nuclear families."
+      },
+      {
+        "title": "8 Marla Flats for Rent in Sector 37 Bahadurgarh",
+        "description": "8 Marla flats for rent in Sector 37 Bahadurgarh provide additional living space, better ventilation, and enhanced comfort for medium-sized families."
+      },
+      {
+        "title": "10 Marla Flats for Rent in Sector 37 Bahadurgarh",
+        "description": "10 Marla flats for rent in Sector 37 Bahadurgarh are preferred by families seeking spacious interiors, privacy, and parking convenience."
+      },
+      {
+        "title": "12 Marla Flats for Rent in Sector 37 Bahadurgarh",
+        "description": "12 Marla flats for rent in Sector 37 Bahadurgarh are ideal for joint families or tenants who want premium residential living."
+      },
+      {
+        "title": "14 Marla Flats for Rent in Sector 37 Bahadurgarh",
+        "description": "14 Marla flats for rent in Sector 37 Bahadurgarh offer luxury-level space, large rooms, and a high-comfort lifestyle."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Flats for Rent Locations Around Sector 37",
+    "description": [
+      "Tenants searching for flats for rent in Sector 37 Bahadurgarh often explore nearby sectors for better comparison and availability.",
+      "These surrounding areas also offer good residential infrastructure and connectivity."
+    ],
+    "locations": [
+      { "title": "Flats for Rent in Sector 37 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Sector 36 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Sector 35 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Sector 9 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent on Delhi Rohtak Highway", "path": "/", "icon": "Map" },
+      { "title": "Residential Flats in Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Affordable Flats for Rent in Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Family Flats for Rent in Bahadurgarh", "path": "/", "icon": "Map" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Trusted Platform for Rental Flats",
+    "description": [
+      "Finding flats for rent in Sector 37 Bahadurgarh requires reliable listings and transparent rental details.",
+      "Deal Acres ensures trust, verified properties, and a smooth renting experience for tenants."
+    ],
+    "points": [
+      {
+        "title": "Verified Flat Listings",
+        "description": "All rental flats are verified for genuine ownership and accurate information."
+      },
+      {
+        "title": "Transparent Rent Structure",
+        "description": "Clear details about rent, security deposit, and rental terms."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 37 Bahadurgarh rental trends and pricing."
+      },
+      {
+        "title": "Tenant-Centric Guidance",
+        "description": "Flats suggested based on budget, family size, and lifestyle needs."
+      },
+      {
+        "title": "Direct Owner Communication",
+        "description": "Easy and quick interaction with property owners."
+      },
+      {
+        "title": "Complete Rental Assistance",
+        "description": "Support provided from enquiry to final agreement."
+      },
+      {
+        "title": "Wide Range of Options",
+        "description": "Multiple flats available across different Marla sizes."
+      },
+      {
+        "title": "Trusted Real Estate Brand",
+        "description": "Deal Acres is known for transparency, reliability, and customer trust."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Flats for Rent in Sector 37",
+    "description": "User-friendly answers to common rental queries for better clarity.",
+    "faqs": [
+      {
+        "question": "Is Sector 37 Bahadurgarh good for renting flats?",
+        "answer": "Yes, Sector 37 is a well-planned and peaceful area with modern residential development."
+      },
+      {
+        "question": "What types of flats are available in Sector 37?",
+        "answer": "Independent floors and residential flats in multiple Marla sizes are available."
+      },
+      {
+        "question": "Are flats in Sector 37 suitable for families?",
+        "answer": "Yes, the sector offers a calm and family-friendly living environment."
+      },
+      {
+        "question": "Is Sector 37 suitable for working professionals?",
+        "answer": "Yes, its connectivity and peaceful surroundings make it suitable for professionals."
+      },
+      {
+        "question": "Are affordable flats available in Sector 37 Bahadurgarh?",
+        "answer": "Yes, Sector 37 offers both affordable and premium rental options."
+      },
+      {
+        "question": "Does Deal Acres verify rental listings?",
+        "answer": "Yes, all listings are verified before being shared with tenants."
+      },
+      {
+        "question": "Is rental support provided?",
+        "answer": "Yes, Deal Acres provides complete assistance throughout the rental process."
+      },
+      {
+        "question": "Are furnished flats available in Sector 37?",
+        "answer": "Availability depends on current listings, including furnished and semi-furnished options."
+      },
+      {
+        "question": "Can I find spacious flats for rent in Sector 37?",
+        "answer": "Yes, 10 to 14 Marla flats are available for tenants needing more space."
+      },
+      {
+        "question": "How can I enquire about flats for rent in Sector 37?",
+        "answer": "You can submit your details through the enquiry form to connect with a rental expert."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Flats for Rent in Sector 37 Bahadurgarh",
+    "description": [
+      "Finding the right flat in Sector 37 Bahadurgarh becomes easy with expert guidance.",
+      "Share your rental requirements to receive verified listings and personalized assistance."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "flatSize", "message"]
+  }
+}

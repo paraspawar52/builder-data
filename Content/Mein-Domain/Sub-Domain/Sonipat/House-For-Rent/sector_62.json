@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforrent.com",
+  "hero": {
+    "title": "Modern and Peaceful Houses for Rent in Sector 62 Sonipat",
+    "description": [
+      "Sector 62 Sonipat is a rapidly developing residential locality known for its planned layout, open surroundings, and improving civic infrastructure. The sector offers a calm living environment away from city congestion while still maintaining smooth connectivity to major roads and nearby sectors. Tenants searching for a house for rent in Sector 62 Sonipat appreciate the availability of basic amenities such as local markets, schools, healthcare facilities, and public transport, which make everyday life comfortable and hassle-free.",
+      "Opting for a house for rent in Sector 62 Sonipat is an excellent choice for families, professionals, and long-term tenants looking for peaceful yet well-connected living. The area offers independent houses in different Marla sizes, catering to varied budgets and space requirements. With continuous development and rising residential demand, Sector 62 is emerging as a promising rental destination. Deal Acres helps tenants find verified houses for rent in Sector 62 Sonipat through transparent listings, trusted owners, and expert rental assistance."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent in Sector 62",
+        "path": "/"
+      },
+      {
+        "label": "Connect With Rental Expert",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=900&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600585154084-4e5fe7c39198?w=900&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Marla Wise House for Rent Options in Sector 62 Sonipat",
+    "description": [
+      "Houses for rent in Sector 62 Sonipat are available in multiple Marla sizes to match different family needs and rental budgets.",
+      "These Marla-wise options help tenants choose homes based on space, comfort, and long-term living preferences."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 62 Sonipat",
+        "description": "4 Marla houses are ideal for small families, couples, and working professionals. These homes are affordable, easy to maintain, and suitable for tenants seeking budget-friendly rental options in Sector 62 Sonipat."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 62 Sonipat",
+        "description": "6 Marla houses offer a balanced mix of space and affordability. They are suitable for nuclear families looking for comfortable living in a peaceful residential environment."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 62 Sonipat",
+        "description": "8 Marla houses provide spacious layouts, better privacy, and additional living areas. These homes are preferred by families planning medium to long-term rental stays."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 62 Sonipat",
+        "description": "10 Marla houses fall under the premium rental segment, offering larger rooms, parking facilities, and enhanced living comfort."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 62 Sonipat",
+        "description": "12 Marla houses are ideal for tenants who prefer expansive living spaces, suitable for joint families or independent living."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 62 Sonipat",
+        "description": "14 Marla houses represent high-end rental options with superior space, independent floors, and a premium lifestyle in a developing sector."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Areas Offering Houses for Rent Around Sector 62",
+    "description": [
+      "Tenants searching for a house for rent in Sector 62 Sonipat often explore nearby sectors for additional rental options.",
+      "These surrounding areas offer similar connectivity, residential infrastructure, and living convenience."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 62 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "House for Rent in Sector 63 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "House for Rent in Sector 64 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "House for Rent in Sector 35 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Independent Houses for Rent in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Affordable Houses for Rent in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Best Residential Areas in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Premium Rental Homes in Sonipat", "path": "/", "icon": "Map" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Most Trusted Platform for Renting Houses",
+    "description": [
+      "Finding a house for rent in Sector 62 Sonipat becomes easy, transparent, and reliable with Deal Acres.",
+      "Deal Acres has built strong trust among tenants by offering verified listings, honest guidance, and a customer-first rental experience."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "Every house is verified for ownership, legal clarity, and property condition before listing."
+      },
+      {
+        "title": "Transparent Rental Process",
+        "description": "Clear rental terms and pricing ensure tenants face no hidden charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 62 Sonipat helps provide accurate rental guidance."
+      },
+      {
+        "title": "Tenant-Focused Recommendations",
+        "description": "Property suggestions are tailored according to tenant budget, family size, and lifestyle needs."
+      },
+      {
+        "title": "Direct Owner Communication",
+        "description": "Tenants can connect directly with property owners for better transparency and faster decisions."
+      },
+      {
+        "title": "Complete Rental Assistance",
+        "description": "Support with site visits, negotiation, and rental documentation ensures a smooth experience."
+      },
+      {
+        "title": "Wide Range of Rental Options",
+        "description": "Multiple Marla-size houses available on one trusted rental platform."
+      },
+      {
+        "title": "High Customer Trust",
+        "description": "Deal Acres is known for ethical practices, reliability, and long-term tenant satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 62 Sonipat",
+    "description": "These FAQs help tenants resolve common doubts and make confident rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 62 Sonipat a good area to rent a house?",
+        "answer": "Yes, Sector 62 is a developing and peaceful residential area with improving infrastructure and good connectivity, making it suitable for families and professionals."
+      },
+      {
+        "question": "What Marla sizes are available for houses on rent in Sector 62 Sonipat?",
+        "answer": "Houses are generally available from 4 Marla to 14 Marla, depending on budget and space requirements."
+      },
+      {
+        "question": "Are houses in Sector 62 suitable for families?",
+        "answer": "Yes, the sector offers a calm and family-friendly environment with essential amenities developing nearby."
+      },
+      {
+        "question": "Are affordable rental houses available in Sector 62?",
+        "answer": "Yes, 4 Marla and 6 Marla houses are budget-friendly rental options."
+      },
+      {
+        "question": "Is parking available with rental houses?",
+        "answer": "Most independent houses provide dedicated or nearby parking facilities."
+      },
+      {
+        "question": "Can working professionals rent houses in Sector 62 Sonipat?",
+        "answer": "Yes, the sector is well-connected to major roads, making daily commuting convenient."
+      },
+      {
+        "question": "Does Deal Acres verify rental listings?",
+        "answer": "Yes, all rental listings on Deal Acres are verified for ownership and legal clarity."
+      },
+      {
+        "question": "Are long-term rental options available?",
+        "answer": "Yes, many property owners prefer long-term tenants for stability."
+      },
+      {
+        "question": "Is Sector 62 Sonipat safe for tenants?",
+        "answer": "Yes, Sector 62 is considered safe with a growing residential community and planned development."
+      },
+      {
+        "question": "How can I enquire about a house for rent in Sector 62 Sonipat?",
+        "answer": "You can fill out the enquiry form on Deal Acres to connect with a verified rental expert and receive personalized assistance."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get in Touch to Find the Perfect Rental House",
+    "description": [
+      "Finding the right house for rent in Sector 62 Sonipat becomes easier with expert guidance.",
+      "Share your rental requirements to receive verified listings and personalized support from trusted professionals."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "houseSize", "message"]
+  }
+}

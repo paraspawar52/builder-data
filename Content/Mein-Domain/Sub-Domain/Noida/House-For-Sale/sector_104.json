@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforsalecom",
+
+  "hero": {
+    "title": "Well Planned Independent Houses for Sale in Sector 104 Noida",
+    "description": [
+      "Sector 104 Noida is a rapidly developing residential locality known for its strategic location, modern infrastructure, and smooth connectivity to major parts of Noida and Delhi. Buyers searching for a house for sale in Sector 104 Noida are attracted by its close proximity to Noida Expressway, Sector 100, Sector 105, and key commercial hubs. The area offers a peaceful residential environment while ensuring easy access to schools, hospitals, shopping complexes, and daily convenience facilities, making it suitable for families and professionals alike.",
+      "Houses for sale in Sector 104 Noida provide the advantage of independent living in a well-organized and low-density neighborhood. With growing residential demand, improving civic amenities, and strong road connectivity, Sector 104 is emerging as a preferred location for both end-users and investors. Whether you are planning to buy a family home or looking for long-term property appreciation, Sector 104 offers a balanced mix of comfort, convenience, and future growth potential."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses in Sector 104",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Independent House Size Options Available in Sector 104 Noida",
+    "description": [
+      "Choosing the right house size in Sector 104 Noida depends on family needs, budget considerations, and future lifestyle planning.",
+      "The sector offers a wide range of independent house configurations suitable for comfortable living and investment."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Sector 104 Noida",
+        "description": "A 4 Marla house for sale in Sector 104 Noida is ideal for small families or first-time homebuyers looking for affordable independent living. These houses are easy to maintain and located close to major roads, markets, and essential services. Due to increasing demand, 4 Marla houses also offer good rental returns and resale value."
+      },
+      {
+        "title": "6 Marla House for Sale in Sector 104 Noida",
+        "description": "6 Marla houses in Sector 104 Noida provide a balanced blend of space and affordability. These homes typically offer practical layouts, parking space, and good ventilation. Suitable for nuclear families, this option ensures daily comfort and steady long-term appreciation."
+      },
+      {
+        "title": "8 Marla House for Sale in Sector 104 Noida",
+        "description": "An 8 Marla house for sale in Sector 104 Noida is preferred by families seeking larger living areas and enhanced privacy. These houses support flexible interior planning and modern amenities, making them a reliable option for long-term residential use."
+      },
+      {
+        "title": "10 Marla House for Sale in Sector 104 Noida",
+        "description": "10 Marla independent houses in Sector 104 Noida are suitable for buyers looking for spacious layouts and premium comfort. These properties allow customization, additional floors, and modern features, ideal for long-term family living."
+      },
+      {
+        "title": "12 Marla House for Sale in Sector 104 Noida",
+        "description": "A 12 Marla house in Sector 104 Noida caters to buyers who value space, privacy, and residential stability. These homes often include large balconies, servant areas, and ample parking, offering both lifestyle comfort and appreciation potential."
+      },
+      {
+        "title": "14 Marla House for Sale in Sector 104 Noida",
+        "description": "14 Marla houses represent premium independent living in Sector 104 Noida. Designed for large families and luxury buyers, these homes offer generous space, exclusivity, and strong long-term value due to limited availability."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Sale Near Sector 104 Noida",
+    "description": [
+      "Buyers interested in a house for sale in Sector 104 Noida often explore nearby sectors to compare prices, connectivity, and amenities.",
+      "These surrounding locations further enhance Sector 104’s appeal as a desirable residential destination."
+    ],
+    "locations": [
+      { "title": "House for Sale in Sector 104 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale in Sector 100 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale in Sector 105 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale in Sector 102 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses near Noida Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Houses in Central Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Family Homes near Schools and Hospitals", "path": "/", "icon": "Landmark" },
+      { "title": "Premium Houses in Developed Noida Sectors", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Houses in Sector 104 Noida",
+    "description": [
+      "Buying a house for sale in Sector 104 Noida requires verified listings, transparent pricing, and expert market guidance.",
+      "Deal Acres has earned buyer trust by consistently delivering reliable, ethical, and customer-focused real estate services."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All properties are verified for ownership clarity, approvals, and legal authenticity."
+      },
+      {
+        "title": "Transparent Pricing Structure",
+        "description": "Clear pricing with no hidden charges ensures complete buyer confidence."
+      },
+      {
+        "title": "Strong Local Market Expertise",
+        "description": "In-depth knowledge of Sector 104 Noida property trends and buyer demand."
+      },
+      {
+        "title": "Wide Range of Property Options",
+        "description": "Multiple house sizes available to suit different budgets and family requirements."
+      },
+      {
+        "title": "Complete Legal Assistance",
+        "description": "Support with documentation, agreements, and registry for smooth transactions."
+      },
+      {
+        "title": "Personalized Buying Guidance",
+        "description": "Advice tailored to lifestyle needs and long-term investment goals."
+      },
+      {
+        "title": "End-to-End Buying Support",
+        "description": "Assistance from property search to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for transparency, reliability, and high customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Sale in Sector 104 Noida",
+    "description": "Clear and detailed answers to help buyers make informed property decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 104 Noida a good area to buy a house?",
+        "answer": "Yes, Sector 104 Noida is a developing residential area with good connectivity, improving infrastructure, and strong future growth potential."
+      },
+      {
+        "question": "What house sizes are available in Sector 104 Noida?",
+        "answer": "Independent houses are generally available from 4 Marla to 14 Marla, depending on current listings."
+      },
+      {
+        "question": "Is Sector 104 suitable for family living?",
+        "answer": "Yes, the sector offers a peaceful environment with access to schools, hospitals, parks, and daily convenience facilities."
+      },
+      {
+        "question": "How is connectivity from Sector 104 Noida?",
+        "answer": "Sector 104 enjoys excellent connectivity via the Noida Expressway and major city roads."
+      },
+      {
+        "question": "Are houses in Sector 104 legally approved?",
+        "answer": "Most properties are approved, and Deal Acres assists buyers with complete legal verification."
+      },
+      {
+        "question": "Is buying a house in Sector 104 a good investment?",
+        "answer": "Yes, rising demand and infrastructure development support long-term appreciation."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 104 Noida?",
+        "answer": "Yes, leading banks and financial institutions offer home loans for eligible properties."
+      },
+      {
+        "question": "What amenities are available near Sector 104 Noida?",
+        "answer": "The area offers schools, hospitals, shopping areas, parks, offices, and daily convenience markets."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, expert guidance, and complete buying support."
+      },
+      {
+        "question": "How can I contact property experts for Sector 104?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Houses for Sale in Sector 104 Noida",
+    "description": [
+      "Finding the right house for sale in Sector 104 Noida becomes simple with professional assistance.",
+      "Share your details to connect with trusted property experts and explore verified housing options confidently."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

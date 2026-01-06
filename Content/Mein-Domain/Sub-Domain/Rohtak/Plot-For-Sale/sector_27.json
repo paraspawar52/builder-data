@@ -1,0 +1,169 @@
+{
+  "domain": "Plotforsalecom",
+  "hero": {
+    "title": "Residential and Investment Plots for Sale in Sector 27 Rohtak",
+    "description": [
+      "Sector 27 Rohtak is a well-planned and steadily developing locality that has emerged as a preferred choice for residential buyers and land investors. The sector enjoys smooth road connectivity, organized internal streets, and close access to major city routes, educational institutions, healthcare facilities, and daily-use markets. Buyers searching for a plot for sale in Sector 27 Rohtak are attracted by its balanced environment that combines peaceful living with strong future growth prospects.",
+      "Plots for sale in Sector 27 Rohtak are ideal for building independent homes, duplex houses, or for long-term land investment. The presence of nearby residential sectors ensures a safe neighborhood, while ongoing infrastructure development supports appreciation over time. Whether you are planning to construct your dream home or invest in land with promising returns, Sector 27 offers flexibility, reliability, and excellent livability in one of Rohtak’s growing residential zones."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Sector 27",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1501183638710-841dd1904471?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Plot Size Options Available in Sector 27 Rohtak",
+    "description": [
+      "Choosing the right plot for sale in Sector 27 Rohtak depends on your family needs, construction plans, and investment budget.",
+      "Sector 27 offers a variety of plot sizes suitable for both personal use and future-oriented investment."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot for Sale in Sector 27 Rohtak",
+        "description": "A 4 Marla plot in Sector 27 Rohtak is ideal for small families or buyers looking for an affordable residential plot with good connectivity and basic amenities nearby."
+      },
+      {
+        "title": "6 Marla Plot for Sale in Sector 27 Rohtak",
+        "description": "6 Marla plots provide a balanced layout for comfortable independent homes with parking space and practical construction options."
+      },
+      {
+        "title": "8 Marla Plot for Sale in Sector 27 Rohtak",
+        "description": "An 8 Marla plot offers more frontage and flexibility, making it suitable for spacious homes and modern residential designs."
+      },
+      {
+        "title": "10 Marla Plot for Sale in Sector 27 Rohtak",
+        "description": "10 Marla plots are perfect for buyers planning larger homes with open areas, multiple floors, and enhanced privacy."
+      },
+      {
+        "title": "12 Marla Plot for Sale in Sector 27 Rohtak",
+        "description": "A 12 Marla plot supports premium residential construction and is also suitable for long-term investment purposes."
+      },
+      {
+        "title": "14 Marla Plot for Sale in Sector 27 Rohtak",
+        "description": "14 Marla plots are premium land options offering excellent appreciation potential and ample space for luxury residences."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Plot Locations Around Sector 27 Rohtak",
+    "description": [
+      "Buyers looking for a plot for sale in Sector 27 Rohtak often explore nearby sectors to compare prices, connectivity, and development.",
+      "These surrounding areas further enhance the residential appeal of Sector 27."
+    ],
+    "locations": [
+      { "title": "Plot for Sale in Sector 27 Rohtak", "path": "/", "icon": "Map" },
+      { "title": "Plot for Sale in Sector 26 Rohtak", "path": "/", "icon": "Map" },
+      { "title": "Plot for Sale in Sector 28 Rohtak", "path": "/", "icon": "Map" },
+      { "title": "Residential Plots in Central Rohtak", "path": "/", "icon": "Map" },
+      { "title": "Approved Plots in Rohtak", "path": "/", "icon": "Map" },
+      { "title": "Independent House Plots in Rohtak", "path": "/", "icon": "Map" },
+      { "title": "Investment Plots in Rohtak", "path": "/", "icon": "Map" },
+      { "title": "Residential Land Near Sector 27", "path": "/", "icon": "Map" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is Trusted for Buying Residential Plots",
+    "description": [
+      "Buying a plot for sale in Sector 27 Rohtak requires verified listings, transparent pricing, and expert local knowledge.",
+      "Deal Acres ensures a safe, informed, and hassle-free plot buying experience."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are checked for ownership authenticity, approvals, and availability."
+      },
+      {
+        "title": "Transparent Pricing Details",
+        "description": "Clear pricing with no hidden costs, helping buyers plan confidently."
+      },
+      {
+        "title": "Strong Local Market Knowledge",
+        "description": "Accurate insights into Sector 27 Rohtak property trends and appreciation."
+      },
+      {
+        "title": "Wide Range of Plot Sizes",
+        "description": "Multiple options available to match different budgets and requirements."
+      },
+      {
+        "title": "Legal and Documentation Support",
+        "description": "Assistance with registry, paperwork, and compliance checks."
+      },
+      {
+        "title": "Personalized Property Guidance",
+        "description": "Customized recommendations based on buyer goals and preferences."
+      },
+      {
+        "title": "Smooth Buying Process",
+        "description": "End-to-end support from shortlisting to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for reliability, transparency, and customer satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Sector 27 Rohtak",
+    "description": "Detailed answers to common questions to help buyers make informed decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 27 Rohtak a good area to buy a plot?",
+        "answer": "Yes, Sector 27 Rohtak is a developing residential area with good connectivity and strong future appreciation potential."
+      },
+      {
+        "question": "What plot sizes are available in Sector 27?",
+        "answer": "Plots ranging from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Are plots in Sector 27 suitable for residential construction?",
+        "answer": "Yes, the sector is ideal for building independent houses and family homes."
+      },
+      {
+        "question": "Does Sector 27 offer good future returns?",
+        "answer": "Yes, ongoing development and residential demand support long-term value growth."
+      },
+      {
+        "question": "Are plots legally verified on Deal Acres?",
+        "answer": "Yes, all listings are verified for ownership and legal compliance."
+      },
+      {
+        "question": "Is bank loan available for plot purchase?",
+        "answer": "Loan availability depends on plot approvals and individual bank policies."
+      },
+      {
+        "question": "How is connectivity from Sector 27?",
+        "answer": "Sector 27 is well-connected to main roads and other parts of Rohtak."
+      },
+      {
+        "question": "Are basic amenities available nearby?",
+        "answer": "Yes, schools, hospitals, markets, and daily facilities are easily accessible."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres provides verified listings, expert guidance, and transparent processes."
+      },
+      {
+        "question": "How can I contact a plot expert?",
+        "answer": "You can fill out the contact form on this page to connect with specialists."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Assistance for Plots in Sector 27 Rohtak",
+    "description": [
+      "Finding the right plot for sale in Sector 27 Rohtak is simple with professional support.",
+      "Share your requirements through the form and connect with trusted plot consultants today."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "message"]
+  }
+}

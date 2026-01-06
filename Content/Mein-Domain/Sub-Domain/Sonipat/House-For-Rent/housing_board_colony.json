@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforrent.com",
+  "hero": {
+    "title": "Well Connected and Family Friendly Houses for Rent in Housing Board Colony Sonipat",
+    "description": [
+      "Housing Board Colony Sonipat is one of the most established and trusted residential localities in the city, known for its planned layout, peaceful environment, and strong civic infrastructure. The area enjoys excellent connectivity to major roads, markets, schools, hospitals, parks, and public transport, making everyday life convenient for residents. People searching for a house for rent in Housing Board Colony Sonipat often prefer this location due to its central positioning, safety, and long-standing residential appeal.",
+      "Opting for a house for rent in Housing Board Colony Sonipat is an ideal decision for families, working professionals, and long-term tenants who value comfort and reliability. The locality offers independent houses in multiple Marla sizes, catering to different space requirements and rental budgets. With consistent demand, well-maintained surroundings, and a strong residential community, Housing Board Colony remains a top rental destination in Sonipat. Deal Acres helps tenants find verified houses for rent in Housing Board Colony Sonipat through transparent listings, trusted owners, and expert rental support."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent in Housing Board Colony",
+        "path": "/"
+      },
+      {
+        "label": "Connect With Rental Expert",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=900&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600585154084-4e5fe7c39198?w=900&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Marla Wise House for Rent Options in Housing Board Colony Sonipat",
+    "description": [
+      "Houses for rent in Housing Board Colony Sonipat are available in various Marla sizes to suit different family needs and budgets.",
+      "These Marla-wise rental options help tenants choose homes based on comfort, space, and long-term living preferences."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Housing Board Colony Sonipat",
+        "description": "4 Marla houses are ideal for small families, couples, and professionals. These homes are affordable, easy to maintain, and located close to daily amenities, making them a practical rental choice."
+      },
+      {
+        "title": "6 Marla House for Rent in Housing Board Colony Sonipat",
+        "description": "6 Marla houses offer a balanced combination of space and affordability. They are suitable for nuclear families seeking comfortable living in a well-established locality."
+      },
+      {
+        "title": "8 Marla House for Rent in Housing Board Colony Sonipat",
+        "description": "8 Marla houses provide spacious layouts, better ventilation, and added privacy. These homes are preferred by families planning medium to long-term rental stays."
+      },
+      {
+        "title": "10 Marla House for Rent in Housing Board Colony Sonipat",
+        "description": "10 Marla houses fall under the premium rental category, offering larger rooms, parking facilities, and enhanced living comfort."
+      },
+      {
+        "title": "12 Marla House for Rent in Housing Board Colony Sonipat",
+        "description": "12 Marla houses are ideal for tenants who prefer expansive living spaces, suitable for joint families or independent lifestyle living."
+      },
+      {
+        "title": "14 Marla House for Rent in Housing Board Colony Sonipat",
+        "description": "14 Marla houses represent high-end rental options with superior space, independent floors, and a premium residential experience."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Areas with Houses for Rent Around Housing Board Colony",
+    "description": [
+      "Tenants looking for a house for rent in Housing Board Colony Sonipat often explore nearby sectors for comparison.",
+      "These surrounding locations also offer good residential infrastructure and convenient connectivity."
+    ],
+    "locations": [
+      { "title": "House for Rent in Housing Board Colony Sonipat", "path": "/", "icon": "Map" },
+      { "title": "House for Rent in Sector 14 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "House for Rent in Sector 15 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "House for Rent in Sector 12 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Independent Houses for Rent in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Affordable Houses for Rent in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Best Residential Areas in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Premium Rental Homes in Sonipat", "path": "/", "icon": "Map" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Most Trusted Platform for Renting Houses",
+    "description": [
+      "Finding a house for rent in Housing Board Colony Sonipat becomes easy and reliable with Deal Acres.",
+      "Deal Acres has earned strong trust by offering verified listings, transparent processes, and tenant-first service."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "All houses are verified for ownership, approvals, and legal authenticity before listing."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Tenants receive clear rental details without hidden charges or last-minute surprises."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth knowledge of Housing Board Colony Sonipat ensures accurate rental guidance."
+      },
+      {
+        "title": "Personalized Tenant Support",
+        "description": "Rental recommendations are tailored to individual budgets and family requirements."
+      },
+      {
+        "title": "Direct Owner Communication",
+        "description": "Direct interaction with property owners ensures transparency and faster decisions."
+      },
+      {
+        "title": "Complete Rental Assistance",
+        "description": "Support with visits, negotiation, and documentation ensures a smooth renting process."
+      },
+      {
+        "title": "Wide Range of Options",
+        "description": "Multiple Marla-size houses available on one trusted platform."
+      },
+      {
+        "title": "Highly Trusted Real Estate Brand",
+        "description": "Deal Acres is known for ethical practices and high tenant satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Housing Board Colony Sonipat",
+    "description": "These FAQs help tenants understand key aspects of renting a house in Housing Board Colony Sonipat.",
+    "faqs": [
+      {
+        "question": "Is Housing Board Colony Sonipat a good area to rent a house?",
+        "answer": "Yes, it is a well-established and centrally located area with excellent infrastructure and daily amenities."
+      },
+      {
+        "question": "What house sizes are available for rent in Housing Board Colony?",
+        "answer": "Houses are generally available from 4 Marla to 14 Marla, depending on availability and budget."
+      },
+      {
+        "question": "Is this locality suitable for families?",
+        "answer": "Yes, the area is peaceful, safe, and close to schools, hospitals, and parks."
+      },
+      {
+        "question": "Are affordable houses available for rent here?",
+        "answer": "Yes, 4 Marla and 6 Marla houses offer budget-friendly rental options."
+      },
+      {
+        "question": "Is parking available with rental houses?",
+        "answer": "Most independent houses provide dedicated or nearby parking facilities."
+      },
+      {
+        "question": "Is Housing Board Colony good for long-term renting?",
+        "answer": "Yes, due to its stability, safety, and central location, it is ideal for long-term tenants."
+      },
+      {
+        "question": "Does Deal Acres verify house listings?",
+        "answer": "Yes, every rental listing on Deal Acres is verified for legal and ownership clarity."
+      },
+      {
+        "question": "Can working professionals rent houses here?",
+        "answer": "Yes, the area is well-connected, making daily commuting easy for professionals."
+      },
+      {
+        "question": "Are premium rental houses available in this locality?",
+        "answer": "Yes, 10 Marla and above houses fall under the premium rental segment."
+      },
+      {
+        "question": "How can I enquire about a house for rent in Housing Board Colony Sonipat?",
+        "answer": "You can fill out the enquiry form on Deal Acres to connect with a verified rental expert."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help to Find the Right Rental House",
+    "description": [
+      "Finding the perfect house for rent in Housing Board Colony Sonipat becomes easy with professional guidance.",
+      "Share your rental requirements to receive verified listings and personalized assistance from trusted experts."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "houseSize", "message"]
+  }
+}

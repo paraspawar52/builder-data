@@ -1,0 +1,169 @@
+{
+  "domain": "Flatsforrent.com",
+  "hero": {
+    "title": "Affordable and Well Connected Flats for Rent in Sector 4A Bahadurgarh",
+    "description": [
+      "Sector 4A Bahadurgarh is a well-established residential locality known for its strategic location, smooth connectivity, and comfortable living environment. The sector enjoys close proximity to main roads, public transport options, local markets, schools, and healthcare facilities. People searching for flats for rent in Sector 4A Bahadurgarh usually prefer a location that offers easy daily commuting, safety, and a calm neighborhood, all of which Sector 4A provides naturally.",
+      "Opting for flats for rent in Sector 4A Bahadurgarh is a practical choice for families, working professionals, and tenants looking for long-term stability. The area offers a mix of affordable and spacious flats with good ventilation and functional layouts. With steady rental demand, organized surroundings, and access to essential amenities, Sector 4A ensures comfortable living, value for money, and a balanced lifestyle, making it a preferred rental destination in Bahadurgarh."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Flats in Sector 4A",
+        "path": "/"
+      },
+      {
+        "label": "Talk to Rental Expert",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1502673530728-f79b4cab31b1?w=900&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=900&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Marla Wise Flats for Rent Options in Sector 4A Bahadurgarh",
+    "description": [
+      "Flats for rent in Sector 4A Bahadurgarh are available in different Marla sizes to suit various family needs and rental budgets.",
+      "These Marla-wise flat options help tenants choose homes based on space requirements, comfort, and lifestyle preferences."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Flats for Rent in Sector 4A Bahadurgarh",
+        "description": "4 Marla flats for rent in Sector 4A Bahadurgarh are ideal for bachelors, couples, and small families looking for affordable and low-maintenance homes."
+      },
+      {
+        "title": "6 Marla Flats for Rent in Sector 4A Bahadurgarh",
+        "description": "6 Marla flats for rent in Sector 4A Bahadurgarh offer balanced layouts and are suitable for nuclear families seeking comfort."
+      },
+      {
+        "title": "8 Marla Flats for Rent in Sector 4A Bahadurgarh",
+        "description": "8 Marla flats for rent in Sector 4A Bahadurgarh provide better space, ventilation, and a comfortable living environment."
+      },
+      {
+        "title": "10 Marla Flats for Rent in Sector 4A Bahadurgarh",
+        "description": "10 Marla flats for rent in Sector 4A Bahadurgarh are preferred by families who want spacious rooms and added privacy."
+      },
+      {
+        "title": "12 Marla Flats for Rent in Sector 4A Bahadurgarh",
+        "description": "12 Marla flats for rent in Sector 4A Bahadurgarh are suitable for joint families requiring extra rooms and open living areas."
+      },
+      {
+        "title": "14 Marla Flats for Rent in Sector 4A Bahadurgarh",
+        "description": "14 Marla flats for rent in Sector 4A Bahadurgarh offer premium space and are ideal for tenants seeking luxury-level comfort."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Flats for Rent Locations Around Sector 4A",
+    "description": [
+      "Tenants looking for flats for rent in Sector 4A Bahadurgarh often explore nearby sectors for more choices and flexibility.",
+      "These surrounding locations also provide good residential infrastructure and daily convenience."
+    ],
+    "locations": [
+      { "title": "Flats for Rent in Sector 4A Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Sector 14 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Sector 15 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Sector 9 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Sector 35 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Residential Flats in Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Affordable Flats for Rent in Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Family Flats for Rent in Bahadurgarh", "path": "/", "icon": "Map" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Trusted Platform for Rental Flats",
+    "description": [
+      "Finding flats for rent in Sector 4A Bahadurgarh becomes easy with verified listings and transparent rental details.",
+      "Deal Acres focuses on tenant trust, clarity, and smooth rental experiences."
+    ],
+    "points": [
+      {
+        "title": "Verified Flat Listings",
+        "description": "All flats are verified to ensure genuine and reliable rental options."
+      },
+      {
+        "title": "Transparent Rental Information",
+        "description": "Clear details about rent, deposit, and agreement terms with no hidden surprises."
+      },
+      {
+        "title": "Local Rental Expertise",
+        "description": "Strong understanding of Sector 4A Bahadurgarh rental trends."
+      },
+      {
+        "title": "Tenant-Centric Guidance",
+        "description": "Property suggestions based on budget, family size, and lifestyle needs."
+      },
+      {
+        "title": "Direct Owner Connectivity",
+        "description": "Easy and direct communication with genuine property owners."
+      },
+      {
+        "title": "Complete Rental Support",
+        "description": "Assistance provided from property selection to rental agreement."
+      },
+      {
+        "title": "Wide Range of Options",
+        "description": "Multiple flat sizes and configurations available in one place."
+      },
+      {
+        "title": "Trusted Real Estate Brand",
+        "description": "Deal Acres is known for transparency, reliability, and customer satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Flats for Rent in Sector 4A",
+    "description": "Common tenant questions answered clearly to help with confident rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 4A Bahadurgarh good for renting flats?",
+        "answer": "Yes, Sector 4A is a well-developed and well-connected residential area suitable for families and professionals."
+      },
+      {
+        "question": "Are flats in Sector 4A affordable?",
+        "answer": "Yes, the sector offers a mix of budget-friendly and spacious rental options."
+      },
+      {
+        "question": "Is Sector 4A suitable for families?",
+        "answer": "Yes, the area has a calm environment with access to schools, markets, and parks."
+      },
+      {
+        "question": "What flat sizes are available for rent?",
+        "answer": "Flats ranging from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Are daily amenities available nearby?",
+        "answer": "Yes, daily essentials, healthcare, and public transport are easily accessible."
+      },
+      {
+        "question": "Does Deal Acres verify rental listings?",
+        "answer": "Yes, all flats listed on Deal Acres are verified for authenticity."
+      },
+      {
+        "question": "Is help provided with rental agreements?",
+        "answer": "Yes, complete assistance is provided with rental documentation."
+      },
+      {
+        "question": "Are larger flats suitable for joint families?",
+        "answer": "Yes, 10 to 14 Marla flats are ideal for joint or larger families."
+      },
+      {
+        "question": "Is Sector 4A suitable for working professionals?",
+        "answer": "Yes, due to good connectivity and peaceful living conditions."
+      },
+      {
+        "question": "How can I enquire about flats for rent?",
+        "answer": "You can fill out the enquiry form to connect with a rental expert."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Assistance for Flats for Rent in Sector 4A Bahadurgarh",
+    "description": [
+      "Finding the right flat in Sector 4A Bahadurgarh becomes simple with expert guidance.",
+      "Share your requirements to receive verified listings and personalized rental support."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "flatSize", "message"]
+  }
+}

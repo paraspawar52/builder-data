@@ -1,0 +1,169 @@
+{
+  "domain": "Plotforsale.com",
+  "hero": {
+    "title": "Residential and Investment Plots for Sale in Sector 2 Bahadurgarh",
+    "description": [
+      "Sector 2 Bahadurgarh is an established residential locality known for its organized layout, proximity to the city center, and easy access to daily necessities. Buyers looking for a plot for sale in Sector 2 Bahadurgarh are often attracted by its strong connectivity, nearby markets, schools, hospitals, and smooth road network connecting other key sectors of Bahadurgarh.",
+      "Plots for sale in Sector 2 Bahadurgarh are ideal for building independent homes as well as for long-term investment. The area has consistent residential demand, making it suitable for buyers who want stability along with appreciation potential. With civic amenities already in place and a well-settled neighborhood, Sector 2 offers a practical and reliable option for plot buyers."
+    ],
+    "buttons": [
+      {
+        "label": "View Available Plots",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=900&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1628624747186-a941c476b7ef?w=900&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Marla Wise Plot for Sale Options in Sector 2 Bahadurgarh",
+    "description": [
+      "Plot for sale in Sector 2 Bahadurgarh is available in multiple Marla sizes to suit different construction and budget needs.",
+      "These options help buyers choose plots based on family size, design preferences, and future plans."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot for Sale in Sector 2 Bahadurgarh",
+        "description": "4 Marla plot for sale in Sector 2 Bahadurgarh is suitable for compact homes and budget-conscious buyers looking to build a functional residence."
+      },
+      {
+        "title": "6 Marla Plot for Sale in Sector 2 Bahadurgarh",
+        "description": "6 Marla plot for sale in Sector 2 Bahadurgarh offers balanced space, making it ideal for small to medium-sized independent houses."
+      },
+      {
+        "title": "8 Marla Plot for Sale in Sector 2 Bahadurgarh",
+        "description": "8 Marla plot for sale in Sector 2 Bahadurgarh provides additional space for better ventilation, parking, and comfortable living."
+      },
+      {
+        "title": "10 Marla Plot for Sale in Sector 2 Bahadurgarh",
+        "description": "10 Marla plot for sale in Sector 2 Bahadurgarh is preferred by buyers planning spacious homes with modern layouts."
+      },
+      {
+        "title": "12 Marla Plot for Sale in Sector 2 Bahadurgarh",
+        "description": "12 Marla plot for sale in Sector 2 Bahadurgarh is suitable for larger families or buyers seeking premium residential construction."
+      },
+      {
+        "title": "14 Marla Plot for Sale in Sector 2 Bahadurgarh",
+        "description": "14 Marla plot for sale in Sector 2 Bahadurgarh is ideal for luxury home projects or high-value long-term investments."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Plot for Sale Locations in Bahadurgarh",
+    "description": [
+      "People searching for a plot for sale in Sector 2 Bahadurgarh often explore nearby sectors for comparison.",
+      "These locations also offer residential and investment opportunities within Bahadurgarh."
+    ],
+    "locations": [
+      { "title": "Plot for Sale in Sector 2 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Plot for Sale in Sector 3 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Plot for Sale in Sector 6 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Plot for Sale in Sector 9 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Plot for Sale on Delhi Rohtak Highway", "path": "/", "icon": "Map" },
+      { "title": "Residential Plots in Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Approved Plots in Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Investment Plots in Bahadurgarh", "path": "/", "icon": "Map" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is Trusted for Buying Plots",
+    "description": [
+      "Purchasing a plot for sale in Sector 2 Bahadurgarh requires transparency and verified property details.",
+      "Deal Acres supports buyers with reliable listings and local market expertise."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "Listings are checked for ownership clarity and basic legal details."
+      },
+      {
+        "title": "Transparent Pricing Information",
+        "description": "Clear guidance on plot price and related charges."
+      },
+      {
+        "title": "Strong Local Market Knowledge",
+        "description": "Deep understanding of Sector 2 property demand and pricing trends."
+      },
+      {
+        "title": "Buyer-Centric Guidance",
+        "description": "Recommendations based on budget, location, and future goals."
+      },
+      {
+        "title": "Direct Owner Interaction",
+        "description": "Helps buyers connect directly with plot owners."
+      },
+      {
+        "title": "Documentation Assistance",
+        "description": "Support provided for registry and basic paperwork."
+      },
+      {
+        "title": "Investment-Oriented Approach",
+        "description": "Ideal for buyers focusing on appreciation and long-term value."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for customer trust and transparency."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plot for Sale in Sector 2",
+    "description": "Common buyer questions answered to help with confident decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 2 Bahadurgarh good for buying plots?",
+        "answer": "Yes, Sector 2 is a well-established area with strong connectivity and essential amenities."
+      },
+      {
+        "question": "Are plots in Sector 2 approved?",
+        "answer": "Many plots are approved, but buyers should always verify documents before purchase."
+      },
+      {
+        "question": "Which Marla size is best for home construction?",
+        "answer": "6 to 8 Marla plots are commonly chosen for standard independent homes."
+      },
+      {
+        "question": "Is Sector 2 suitable for investment?",
+        "answer": "Yes, its central location and stable demand make it suitable for long-term investment."
+      },
+      {
+        "question": "Are basic facilities available nearby?",
+        "answer": "Yes, schools, markets, hospitals, and public transport are easily accessible."
+      },
+      {
+        "question": "Does Deal Acres verify plot listings?",
+        "answer": "Yes, Deal Acres focuses on verified and genuine property listings."
+      },
+      {
+        "question": "Can I get a loan for buying a plot?",
+        "answer": "Loan availability depends on plot approval and bank policies."
+      },
+      {
+        "question": "Are corner plots available in Sector 2?",
+        "answer": "Availability depends on current listings and market supply."
+      },
+      {
+        "question": "Can I start construction immediately?",
+        "answer": "Construction depends on local authority permissions and plot status."
+      },
+      {
+        "question": "How can I enquire about plots in Sector 2?",
+        "answer": "You can submit your details through the enquiry form to connect with a property expert."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Plot for Sale in Sector 2 Bahadurgarh",
+    "description": [
+      "Finding the right plot becomes easier with expert local guidance.",
+      "Share your requirements to receive verified listings and personalized support."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "plotSize", "message"]
+  }
+}

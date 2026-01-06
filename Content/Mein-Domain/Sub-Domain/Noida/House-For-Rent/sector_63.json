@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforrentcom",
+  "hero": {
+    "title": "Well-Connected Independent Houses for Rent in Sector 63 Noida",
+    "description": [
+      "Sector 63 Noida is a well-established residential and commercial locality known for its excellent connectivity, mature infrastructure, and proximity to major employment hubs. Located close to NH-24, Noida Electronic City Metro Station, and prominent IT and corporate parks, the sector is highly preferred by working professionals and families alike. People searching for a house for rent in Sector 63 Noida value the area for its smooth daily commuting, access to offices, schools, hospitals, shopping complexes, and everyday convenience facilities.",
+      "Houses for rent in Sector 63 Noida offer the benefit of independent living in a well-planned and lively neighborhood. The sector features wide internal roads, green pockets, and a balanced mix of residential and commercial developments. Despite being an active business zone, residential pockets maintain a peaceful environment suitable for long-term living. With consistent rental demand and strong location advantages, Sector 63 remains a reliable and popular choice for tenants seeking comfort, connectivity, and stability in Noida."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent in Sector 63",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Independent House Rental Size Options in Sector 63 Noida",
+    "description": [
+      "Choosing the right house for rent in Sector 63 Noida depends on your family size, work location, and lifestyle preferences.",
+      "The sector offers multiple independent house size options suitable for individuals, families, and premium tenants."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 63 Noida",
+        "description": "A 4 Marla house for rent in Sector 63 Noida is ideal for couples, small families, and working professionals. These houses are easy to maintain, budget-friendly, and offer functional layouts with essential amenities close to offices and metro connectivity."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 63 Noida",
+        "description": "6 Marla houses for rent in Sector 63 Noida offer a balanced mix of space and affordability. Suitable for nuclear families, these homes provide well-ventilated rooms, parking space, and a peaceful residential atmosphere."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 63 Noida",
+        "description": "An 8 Marla house for rent in Sector 63 Noida is preferred by families seeking more living space and better privacy. These houses often feature spacious living areas, balconies, and flexible layouts ideal for long-term stays."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 63 Noida",
+        "description": "10 Marla independent houses for rent in Sector 63 Noida cater to large families and senior professionals. These homes offer spacious interiors, multiple floors, and enhanced comfort in a prime location."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 63 Noida",
+        "description": "A 12 Marla house for rent in Sector 63 Noida is suitable for joint families or tenants who prefer open spaces and privacy. These houses often include servant rooms and ample parking facilities."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 63 Noida",
+        "description": "14 Marla houses represent luxury independent living in Sector 63 Noida. With expansive layouts and superior privacy, these homes are ideal for tenants seeking premium rental residences near business hubs."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 63 Noida",
+    "description": [
+      "Tenants looking for a house for rent in Sector 63 Noida often explore nearby sectors for better availability and rental comparison.",
+      "These surrounding areas further strengthen Sector 63’s reputation as a prime rental destination in Noida."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 63 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 62 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 60 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near Noida Electronic City", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses near NH-24 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Rental Houses near IT Parks Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Family Houses in Central Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Houses near Commercial Areas Noida", "path": "/", "icon": "Landmark" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Houses in Sector 63 Noida",
+    "description": [
+      "Finding a house for rent in Sector 63 Noida requires verified listings, transparent rental terms, and strong local market expertise.",
+      "Deal Acres has earned tenant trust by offering accurate information, professional support, and a smooth rental experience."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "All houses are verified for ownership authenticity and genuine rental availability."
+      },
+      {
+        "title": "Transparent Rental Pricing",
+        "description": "Clear rent and deposit details help tenants make confident decisions."
+      },
+      {
+        "title": "Local Rental Market Expertise",
+        "description": "Strong understanding of Sector 63 Noida rental trends and pricing."
+      },
+      {
+        "title": "Wide Range of Rental Options",
+        "description": "Multiple house sizes and layouts to suit different family needs."
+      },
+      {
+        "title": "Rental Agreement Assistance",
+        "description": "Support with documentation and agreement formalities for hassle-free renting."
+      },
+      {
+        "title": "Personalized Property Suggestions",
+        "description": "Tailored recommendations based on budget, work location, and lifestyle preferences."
+      },
+      {
+        "title": "End-to-End Tenant Support",
+        "description": "Complete assistance from property search to final move-in."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for transparency, reliability, and tenant satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 63 Noida",
+    "description": "Detailed answers to common tenant questions to help you make informed rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 63 Noida a good area to rent a house?",
+        "answer": "Yes, Sector 63 Noida is a prime location with excellent connectivity, strong infrastructure, and proximity to major IT and business hubs."
+      },
+      {
+        "question": "What house sizes are available for rent in Sector 63 Noida?",
+        "answer": "Independent houses from 4 Marla to 14 Marla are available, depending on location and availability."
+      },
+      {
+        "question": "Is Sector 63 suitable for family living?",
+        "answer": "Yes, residential pockets in Sector 63 offer a safe environment, parks, schools, and healthcare facilities suitable for families."
+      },
+      {
+        "question": "How is connectivity from Sector 63 Noida?",
+        "answer": "Sector 63 enjoys excellent connectivity via NH-24, metro stations, and major road networks."
+      },
+      {
+        "question": "Are rental houses in Sector 63 safe?",
+        "answer": "Most residential areas are well-planned and considered safe for families and professionals."
+      },
+      {
+        "question": "What is the average rent in Sector 63 Noida?",
+        "answer": "Rental prices vary based on house size, condition, and proximity to commercial areas, with larger houses commanding higher rents."
+      },
+      {
+        "question": "Do landlords provide proper rental agreements?",
+        "answer": "Yes, proper rental agreements are standard practice, and Deal Acres assists tenants with documentation."
+      },
+      {
+        "question": "Is Sector 63 suitable for working professionals?",
+        "answer": "Absolutely. Its closeness to IT parks and metro connectivity makes it ideal for professionals."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, expert guidance, and end-to-end rental support."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 63 Noida?",
+        "answer": "You can fill out the contact form on this page to connect with experienced rental consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Houses for Rent in Sector 63 Noida",
+    "description": [
+      "Finding the right house for rent in Sector 63 Noida becomes easy with professional assistance.",
+      "Share your contact details and rental requirements to connect with trusted experts and explore verified rental listings with confidence."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

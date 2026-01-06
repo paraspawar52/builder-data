@@ -1,0 +1,169 @@
+{
+  "domain": "Shopforrent.com",
+  "hero": {
+    "title": "Well Located Shop for Rent in Sector 4A Bahadurgarh",
+    "description": [
+      "Sector 4A Bahadurgarh is a well-established residential area that supports steady local commercial activity. The sector is surrounded by populated housing blocks, daily-need markets, schools, and internal roads that ensure regular footfall throughout the day. Business owners looking for a shop for rent in Sector 4A Bahadurgarh usually prefer this location due to its practical layout, peaceful environment, and reliable customer base from nearby residents.",
+      "Shop for rent in Sector 4A Bahadurgarh is suitable for grocery stores, medical shops, salons, coaching centers, and service-oriented businesses. Rental values here remain balanced, making it easier for small and medium businesses to manage operating costs while maintaining visibility. With stable demand and a community-driven market, Sector 4A offers a dependable setup for businesses planning long-term operations."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Shops for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Connect with Rental Expert",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1528698827591-e19ccd7bc23d?w=900&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1507207611509-ec012433ff52?w=900&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Marla Wise Shop for Rent Options in Sector 4A Bahadurgarh",
+    "description": [
+      "Shop for rent in Sector 4A Bahadurgarh is available in different Marla sizes to match diverse business needs.",
+      "These options help tenants choose shops based on space requirement, budget, and customer handling capacity."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Shop for Rent in Sector 4A Bahadurgarh",
+        "description": "4 Marla shop for rent in Sector 4A Bahadurgarh is ideal for small retail outlets, mobile shops, and daily-need stores."
+      },
+      {
+        "title": "6 Marla Shop for Rent in Sector 4A Bahadurgarh",
+        "description": "6 Marla shop for rent in Sector 4A Bahadurgarh offers better frontage and layout, suitable for salons and pharmacies."
+      },
+      {
+        "title": "8 Marla Shop for Rent in Sector 4A Bahadurgarh",
+        "description": "8 Marla shop for rent in Sector 4A Bahadurgarh provides additional space for showrooms and multi-product retail shops."
+      },
+      {
+        "title": "10 Marla Shop for Rent in Sector 4A Bahadurgarh",
+        "description": "10 Marla shop for rent in Sector 4A Bahadurgarh is preferred by businesses needing customer seating or storage space."
+      },
+      {
+        "title": "12 Marla Shop for Rent in Sector 4A Bahadurgarh",
+        "description": "12 Marla shop for rent in Sector 4A Bahadurgarh suits established businesses planning stable and long-term presence."
+      },
+      {
+        "title": "14 Marla Shop for Rent in Sector 4A Bahadurgarh",
+        "description": "14 Marla shop for rent in Sector 4A Bahadurgarh offers large commercial space suitable for restaurants and anchor stores."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Shop for Rent Locations in Bahadurgarh",
+    "description": [
+      "People searching for a shop for rent in Sector 4A Bahadurgarh often explore nearby sectors for comparison.",
+      "These areas also offer good commercial rental opportunities."
+    ],
+    "locations": [
+      { "title": "Shop for Rent in Sector 4A Bahadurgarh", "path": "/", "icon": "Store" },
+      { "title": "Shop for Rent in Sector 3 Bahadurgarh", "path": "/", "icon": "Store" },
+      { "title": "Shop for Rent in Sector 6 Bahadurgarh", "path": "/", "icon": "Store" },
+      { "title": "Shop for Rent in Sector 9 Bahadurgarh", "path": "/", "icon": "Store" },
+      { "title": "Market Shops for Rent in Bahadurgarh", "path": "/", "icon": "Store" },
+      { "title": "Retail Shops for Rent in Bahadurgarh", "path": "/", "icon": "Store" },
+      { "title": "Commercial Shops for Rent in Bahadurgarh", "path": "/", "icon": "Store" },
+      { "title": "Local Shops for Rent in Bahadurgarh", "path": "/", "icon": "Store" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is Preferred for Shop Rentals",
+    "description": [
+      "Finding the right shop for rent in Sector 4A Bahadurgarh requires verified listings and trustworthy support.",
+      "Deal Acres focuses on transparency, accuracy, and tenant convenience."
+    ],
+    "points": [
+      {
+        "title": "Verified Shop Listings",
+        "description": "All shops are checked for authenticity and basic ownership details."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Deep understanding of Sector 4A rental demand and pricing trends."
+      },
+      {
+        "title": "Business-Oriented Suggestions",
+        "description": "Shop options aligned with business type and size requirements."
+      },
+      {
+        "title": "Transparent Rental Terms",
+        "description": "Clear information about rent, security deposit, and conditions."
+      },
+      {
+        "title": "Direct Owner Communication",
+        "description": "Easy connection between tenants and property owners."
+      },
+      {
+        "title": "Documentation Assistance",
+        "description": "Support for rent agreements and required paperwork."
+      },
+      {
+        "title": "Long-Term Rental Focus",
+        "description": "Suitable for businesses planning stable operations."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for reliability and customer satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Shop for Rent in Sector 4A",
+    "description": "Helpful answers to common questions to support confident rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 4A Bahadurgarh good for renting a shop?",
+        "answer": "Yes, Sector 4A has steady residential footfall, affordable rents, and a stable market environment."
+      },
+      {
+        "question": "What businesses work well in Sector 4A?",
+        "answer": "Grocery stores, medical shops, salons, coaching centers, and service outlets perform well."
+      },
+      {
+        "question": "Are shop rents affordable in Sector 4A?",
+        "answer": "Yes, rents are reasonable compared to prime commercial hubs."
+      },
+      {
+        "question": "Which Marla size is suitable for small shops?",
+        "answer": "4 to 6 Marla shops are generally ideal for small businesses."
+      },
+      {
+        "question": "Is parking available near shops?",
+        "answer": "Parking availability depends on location, but roadside parking is common."
+      },
+      {
+        "question": "Does Deal Acres verify shop listings?",
+        "answer": "Yes, Deal Acres focuses on verified and genuine shop rental listings."
+      },
+      {
+        "question": "Can I rent a shop for long-term use?",
+        "answer": "Yes, many owners prefer tenants looking for long-term rental agreements."
+      },
+      {
+        "question": "Is Sector 4A well connected?",
+        "answer": "Yes, it has good road connectivity to nearby sectors and main roads."
+      },
+      {
+        "question": "Are food businesses allowed?",
+        "answer": "Food businesses are allowed subject to local rules and approvals."
+      },
+      {
+        "question": "How can I enquire about a shop for rent?",
+        "answer": "You can submit your details through the enquiry form to connect with a rental expert."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Shop for Rent in Sector 4A Bahadurgarh",
+    "description": [
+      "Finding the right shop for rent in Sector 4A Bahadurgarh becomes easier with expert guidance.",
+      "Share your business requirements to receive verified listings and personalized support."
+    ],
+    "formFields": ["name", "phone", "email", "businessType", "budget", "message"]
+  }
+}

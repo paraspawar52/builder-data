@@ -1,0 +1,169 @@
+{
+  "domain": "Flatsforrent.com",
+  "hero": {
+    "title": "Comfortable and Well Located Flats for Rent in Sector 19 Sonipat",
+    "description": [
+      "Sector 19 Sonipat is a well-developed residential locality known for its organized planning, peaceful surroundings, and convenient connectivity. The sector is close to major roads and offers easy access to schools, hospitals, local markets, banks, parks, and public transport. Due to its balanced lifestyle and calm environment, many tenants searching for flats for rent in Sector 19 Sonipat prefer this area for daily comfort and long-term living.",
+      "Choosing flats for rent in Sector 19 Sonipat is a practical option for families, working professionals, and students who want a secure and well-connected neighborhood. The locality offers flats in different Marla sizes, catering to various space needs and rental budgets. With consistent rental demand, clean surroundings, and a stable residential community, Sector 19 continues to be a reliable rental destination in Sonipat. Deal Acres helps tenants find verified flats for rent in Sector 19 Sonipat with transparent listings, genuine owners, and professional rental support."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Flats for Rent in Sector 19",
+        "path": "/"
+      },
+      {
+        "label": "Connect With Rental Expert",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=900&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600585154084-4e5fe7c39198?w=900&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Marla Wise Flats for Rent Options in Sector 19 Sonipat",
+    "description": [
+      "Flats for rent in Sector 19 Sonipat are available in multiple Marla sizes to match different lifestyle needs and budgets.",
+      "These Marla-wise flat options allow tenants to choose homes based on comfort, space, and long-term rental plans."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Flats for Rent in Sector 19 Sonipat",
+        "description": "4 Marla flats are suitable for students, bachelors, and small families. These flats are affordable, easy to maintain, and located near daily essentials."
+      },
+      {
+        "title": "6 Marla Flats for Rent in Sector 19 Sonipat",
+        "description": "6 Marla flats offer a good balance of space and affordability. They are ideal for nuclear families looking for comfortable living."
+      },
+      {
+        "title": "8 Marla Flats for Rent in Sector 19 Sonipat",
+        "description": "8 Marla flats provide spacious layouts with better ventilation and privacy, making them a popular choice for families."
+      },
+      {
+        "title": "10 Marla Flats for Rent in Sector 19 Sonipat",
+        "description": "10 Marla flats fall under the premium rental category, offering larger rooms and improved lifestyle comfort."
+      },
+      {
+        "title": "12 Marla Flats for Rent in Sector 19 Sonipat",
+        "description": "12 Marla flats are ideal for tenants who prefer expansive living spaces, suitable for joint families."
+      },
+      {
+        "title": "14 Marla Flats for Rent in Sector 19 Sonipat",
+        "description": "14 Marla flats represent high-end rental options with superior space, premium fittings, and long-term comfort."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Areas with Flats for Rent Around Sector 19",
+    "description": [
+      "Tenants looking for flats for rent in Sector 19 Sonipat often explore nearby sectors for additional options.",
+      "These surrounding areas also offer good residential infrastructure and rental opportunities."
+    ],
+    "locations": [
+      { "title": "Flats for Rent in Sector 19 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Sector 18 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Sector 14 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Sector 15 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Residential Flats for Rent in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Affordable Flats for Rent in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Best Areas to Rent Flats in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Premium Rental Flats in Sonipat", "path": "/", "icon": "Map" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Most Trusted Platform for Renting Flats",
+    "description": [
+      "Finding flats for rent in Sector 19 Sonipat becomes simple and stress-free with Deal Acres.",
+      "Deal Acres has earned tenant trust by offering verified listings, transparent processes, and customer-first rental services."
+    ],
+    "points": [
+      {
+        "title": "Verified Flat Listings",
+        "description": "All flats are verified for ownership, approvals, and legal clarity before listing."
+      },
+      {
+        "title": "Transparent Rental Pricing",
+        "description": "Clear rental details ensure no hidden costs or confusion."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth knowledge of Sector 19 Sonipat helps provide accurate rental guidance."
+      },
+      {
+        "title": "Personalized Tenant Support",
+        "description": "Flat recommendations are tailored to tenant budgets and lifestyle needs."
+      },
+      {
+        "title": "Direct Owner Communication",
+        "description": "Tenants can communicate directly with owners for faster decision-making."
+      },
+      {
+        "title": "Complete Rental Assistance",
+        "description": "Support with visits, negotiation, and documentation ensures a smooth renting process."
+      },
+      {
+        "title": "Wide Range of Flat Options",
+        "description": "Multiple Marla-size flats are available on one trusted platform."
+      },
+      {
+        "title": "Highly Trusted Real Estate Brand",
+        "description": "Deal Acres is known for ethical practices and high tenant satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Flats for Rent in Sector 19 Sonipat",
+    "description": "These FAQs help tenants clear common doubts and make confident rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 19 Sonipat a good area to rent a flat?",
+        "answer": "Yes, Sector 19 is a well-planned and peaceful locality with good connectivity and daily amenities."
+      },
+      {
+        "question": "What flat sizes are available for rent in Sector 19 Sonipat?",
+        "answer": "Flats are commonly available from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Are flats in Sector 19 suitable for families?",
+        "answer": "Yes, the sector is family-friendly and close to schools, parks, and hospitals."
+      },
+      {
+        "question": "Are affordable flats available for rent in Sector 19?",
+        "answer": "Yes, 4 Marla and 6 Marla flats offer budget-friendly rental options."
+      },
+      {
+        "question": "Is parking available with rental flats?",
+        "answer": "Most residential flats provide parking facilities."
+      },
+      {
+        "question": "Can working professionals rent flats in Sector 19 Sonipat?",
+        "answer": "Yes, the sector offers convenient connectivity for daily commuting."
+      },
+      {
+        "question": "Does Deal Acres verify flat listings?",
+        "answer": "Yes, every flat listed on Deal Acres is verified for ownership and legal clarity."
+      },
+      {
+        "question": "Are long-term rental flats available in Sector 19?",
+        "answer": "Yes, many owners prefer long-term tenants for stability."
+      },
+      {
+        "question": "Is Sector 19 Sonipat safe for tenants?",
+        "answer": "Yes, it is considered a safe and established residential area."
+      },
+      {
+        "question": "How can I enquire about flats for rent in Sector 19 Sonipat?",
+        "answer": "You can fill out the enquiry form on Deal Acres to connect with a verified rental expert."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help to Find the Right Rental Flat",
+    "description": [
+      "Finding the right flat for rent in Sector 19 Sonipat becomes easy with expert guidance.",
+      "Share your rental requirements to receive verified listings and personalized support from trusted professionals."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "flatSize", "message"]
+  }
+}

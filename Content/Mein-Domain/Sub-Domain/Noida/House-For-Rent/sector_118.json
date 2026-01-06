@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforrentcom",
+  "hero": {
+    "title": "Well-Connected Independent Houses for Rent in Sector 118 Noida",
+    "description": [
+      "Sector 118 Noida is a fast-developing residential locality that offers a balanced mix of comfort, connectivity, and affordability. Located close to major roads like the Noida–Greater Noida Expressway and well-connected to central Noida sectors, this area is increasingly preferred by families and working professionals. People looking for a house for rent in Sector 118 Noida value its proximity to schools, daily markets, hospitals, and commercial zones, which simplifies everyday living.",
+      "Houses for rent in Sector 118 Noida provide independent living in a relatively peaceful and organized environment. The sector features planned residential pockets, decent road infrastructure, and access to public transport. With growing social infrastructure and rising rental demand, Sector 118 has become a practical choice for tenants seeking long-term rental homes that offer convenience, livability, and value for money in Noida."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent in Sector 118",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Multiple Independent House Sizes Available for Rent in Sector 118",
+    "description": [
+      "Selecting the right house for rent in Sector 118 Noida depends on family size, space needs, and rental budget.",
+      "The sector offers a variety of independent house sizes suitable for small families, growing households, and premium tenants."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 118 Noida",
+        "description": "A 4 Marla house for rent in Sector 118 Noida is ideal for couples, bachelors, or small families. These houses are budget-friendly, easy to maintain, and located close to daily convenience stores and transport options, making them a practical rental choice."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 118 Noida",
+        "description": "6 Marla houses for rent in Sector 118 Noida offer a comfortable living space for nuclear families. They usually feature well-planned interiors, proper ventilation, and parking space, providing a good balance between affordability and comfort."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 118 Noida",
+        "description": "An 8 Marla house for rent in Sector 118 Noida is suitable for families seeking extra space and privacy. These houses generally include larger bedrooms, balconies, and flexible layouts ideal for long-term living."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 118 Noida",
+        "description": "10 Marla independent houses for rent in Sector 118 Noida are preferred by large families and professionals who value spacious interiors. These homes offer enhanced comfort, multiple floors, and better separation of living areas."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 118 Noida",
+        "description": "A 12 Marla house for rent in Sector 118 Noida provides generous living space, making it suitable for joint families. These houses often include servant rooms, wide parking areas, and a calm residential environment."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 118 Noida",
+        "description": "14 Marla houses in Sector 118 Noida represent premium independent rental living. With expansive layouts, superior construction quality, and enhanced privacy, these homes cater to tenants seeking a luxurious lifestyle."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 118 Noida",
+    "description": [
+      "While searching for a house for rent in Sector 118 Noida, tenants often consider nearby sectors for more options.",
+      "These surrounding locations enhance rental flexibility and make Sector 118 a well-connected residential choice."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 118 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 117 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 119 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 120 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses near Noida Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Family Houses in Central Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Rental Houses near Schools and Hospitals", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Houses near Commercial Areas", "path": "/", "icon": "Landmark" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is Trusted for Houses in Sector 118 Noida",
+    "description": [
+      "Finding a reliable house for rent in Sector 118 Noida requires verified listings and transparent rental processes.",
+      "Deal Acres ensures a smooth and trustworthy rental experience with a strong focus on tenant satisfaction."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "Each rental house is verified to ensure genuine ownership and availability."
+      },
+      {
+        "title": "Clear and Honest Pricing",
+        "description": "Complete transparency in rent, security deposit, and agreement terms."
+      },
+      {
+        "title": "Local Rental Expertise",
+        "description": "Accurate guidance based on Sector 118 Noida rental trends and market rates."
+      },
+      {
+        "title": "Wide Choice of Houses",
+        "description": "Multiple marla-size options to match different family and budget needs."
+      },
+      {
+        "title": "Rental Agreement Support",
+        "description": "Assistance with paperwork, agreements, and legal formalities."
+      },
+      {
+        "title": "Personalized Recommendations",
+        "description": "Properties suggested based on lifestyle, budget, and location preferences."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from initial search to final possession of the house."
+      },
+      {
+        "title": "Trusted by Tenants",
+        "description": "Deal Acres is known for reliability, transparency, and customer trust."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 118 Noida",
+    "description": "Answers to common questions to help tenants make informed rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 118 Noida a good location to rent a house?",
+        "answer": "Yes, Sector 118 Noida is a developing residential area with good connectivity, daily amenities, and growing infrastructure, making it suitable for families and professionals."
+      },
+      {
+        "question": "What types of houses are available for rent in Sector 118?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are available, depending on location and availability."
+      },
+      {
+        "question": "Is Sector 118 suitable for family living?",
+        "answer": "Yes, the sector offers a peaceful environment, nearby schools, healthcare facilities, and local markets suitable for families."
+      },
+      {
+        "question": "How is connectivity from Sector 118 Noida?",
+        "answer": "Sector 118 enjoys good connectivity to central Noida, expressways, and nearby commercial areas."
+      },
+      {
+        "question": "Are rental houses in Sector 118 safe?",
+        "answer": "Most residential pockets are planned and considered safe for families and working professionals."
+      },
+      {
+        "question": "What is the average rent in Sector 118 Noida?",
+        "answer": "Rental prices vary based on house size, condition, and exact location, with larger houses commanding higher rents."
+      },
+      {
+        "question": "Are rental agreements provided by landlords?",
+        "answer": "Yes, standard rental agreements are provided, and Deal Acres assists tenants with documentation."
+      },
+      {
+        "question": "Is Sector 118 good for working professionals?",
+        "answer": "Yes, its connectivity to major roads and nearby work hubs makes it suitable for professionals."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, expert local guidance, and complete rental support."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 118 Noida?",
+        "answer": "You can fill out the contact form on this page to connect with experienced rental consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Connect With Experts for Houses for Rent in Sector 118 Noida",
+    "description": [
+      "Finding the right house for rent in Sector 118 Noida becomes simple with professional support.",
+      "Share your details and rental requirements to get personalized assistance and access to verified rental properties."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

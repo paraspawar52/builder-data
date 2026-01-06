@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforrentcom",
+  "hero": {
+    "title": "Spacious Independent Houses for Rent in Sector 79 Noida",
+    "description": [
+      "Sector 79 Noida is a fast-developing residential locality that has gained popularity among families and working professionals seeking comfortable living with modern infrastructure. Strategically located near major roads and well-connected to other parts of Noida, this sector offers smooth access to offices, schools, hospitals, and shopping destinations. People searching for a house for rent in Sector 79 Noida appreciate the sector for its planned layout, cleaner surroundings, and balanced residential environment.",
+      "Houses for rent in Sector 79 Noida are known for offering independent living, better privacy, and a peaceful neighborhood atmosphere. The area continues to grow with improved civic amenities, making it suitable for long-term rentals. Whether you are a family looking for stability or a professional seeking convenience, Sector 79 provides a practical and future-ready rental option in Noida."
+    ],
+    "buttons": [
+      {
+        "label": "Browse Houses for Rent in Sector 79",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Choose the Right House Size for Rent in Sector 79 Noida",
+    "description": [
+      "Selecting a suitable house for rent in Sector 79 Noida depends on family size, lifestyle needs, and rental budget.",
+      "The sector offers multiple independent house sizes to meet diverse tenant requirements."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 79 Noida",
+        "description": "A 4 Marla house for rent in Sector 79 Noida is ideal for individuals, couples, or small families. These homes are affordable, easy to maintain, and located close to daily convenience facilities."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 79 Noida",
+        "description": "6 Marla houses offer a comfortable balance of space and budget. They suit nuclear families looking for privacy and a peaceful residential setting."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 79 Noida",
+        "description": "An 8 Marla house for rent in Sector 79 Noida provides larger living areas, better ventilation, and improved comfort for growing families."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 79 Noida",
+        "description": "10 Marla houses are preferred by tenants seeking spacious interiors, parking convenience, and long-term rental stability."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 79 Noida",
+        "description": "A 12 Marla house for rent in Sector 79 Noida is suitable for joint families or tenants who value extra open space and enhanced privacy."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 79 Noida",
+        "description": "14 Marla houses represent premium independent living with expansive layouts, making them ideal for tenants seeking luxury and exclusivity."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Areas for Houses for Rent in Noida",
+    "description": [
+      "Tenants searching in Sector 79 Noida often explore nearby sectors to compare availability and rental pricing.",
+      "These surrounding locations add more flexibility and choice for renters."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 79 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 78 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 80 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 75 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses near Noida Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Family Houses in Central Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Houses near IT Hubs Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Rental Houses in Developed Noida Sectors", "path": "/", "icon": "Landmark" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Preferred Choice for Sector 79 Rentals",
+    "description": [
+      "Finding a reliable house for rent in Sector 79 Noida requires genuine listings and local market understanding.",
+      "Deal Acres has built strong trust by offering transparent processes and tenant-focused services."
+    ],
+    "points": [
+      {
+        "title": "Verified House Listings",
+        "description": "All rental houses are verified for authenticity and ownership."
+      },
+      {
+        "title": "Clear Rental Information",
+        "description": "Complete transparency in rent, security deposit, and rental terms."
+      },
+      {
+        "title": "Local Market Knowledge",
+        "description": "Deep understanding of Sector 79 Noida rental demand and pricing."
+      },
+      {
+        "title": "Wide Property Choices",
+        "description": "Multiple house sizes available to suit different budgets and needs."
+      },
+      {
+        "title": "Agreement & Documentation Help",
+        "description": "Assistance with rental agreements and basic legal procedures."
+      },
+      {
+        "title": "Personalized Property Matching",
+        "description": "Property suggestions based on tenant preferences and requirements."
+      },
+      {
+        "title": "End-to-End Rental Support",
+        "description": "Guidance from property shortlisting to final move-in."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for reliability, transparency, and customer satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 79 Noida",
+    "description": "Detailed answers to common tenant questions for better rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 79 Noida a good location for renting a house?",
+        "answer": "Yes, Sector 79 Noida offers a peaceful environment, good connectivity, and growing infrastructure, making it suitable for rentals."
+      },
+      {
+        "question": "What house sizes are available for rent in Sector 79?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are commonly available depending on availability."
+      },
+      {
+        "question": "Is Sector 79 suitable for family living?",
+        "answer": "Yes, the sector is planned, calm, and offers essential facilities suitable for families."
+      },
+      {
+        "question": "How is connectivity from Sector 79 Noida?",
+        "answer": "Sector 79 enjoys good road connectivity to major parts of Noida and nearby expressways."
+      },
+      {
+        "question": "Are independent houses in Sector 79 safe?",
+        "answer": "Most residential areas are well-occupied and considered safe for tenants."
+      },
+      {
+        "question": "What factors influence rent in Sector 79 Noida?",
+        "answer": "Rent depends on house size, location within the sector, condition, and nearby amenities."
+      },
+      {
+        "question": "Do houses usually have parking space?",
+        "answer": "Most independent houses offer dedicated parking facilities."
+      },
+      {
+        "question": "Is Sector 79 suitable for working professionals?",
+        "answer": "Yes, due to connectivity and a peaceful setting, it is preferred by professionals."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent processes, and expert local support."
+      },
+      {
+        "question": "How can I contact Deal Acres for Sector 79 rentals?",
+        "answer": "You can fill out the contact form on this page to connect with rental experts."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Connect With Experts for Houses for Rent in Sector 79 Noida",
+    "description": [
+      "Finding the right house for rent in Sector 79 Noida is easier with expert assistance.",
+      "Share your details to receive personalized property options and trusted rental guidance."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforrent.com",
+  "hero": {
+    "title": "Well Established and Peaceful Houses for Rent in Sector 7 Sonipat",
+    "description": [
+      "Sector 7 Sonipat is one of the oldest and most trusted residential localities in the city, known for its well-planned layout, calm surroundings, and strong civic infrastructure. The sector enjoys excellent connectivity to major roads, nearby sectors, educational institutions, hospitals, local markets, and public transport facilities. Tenants searching for a house for rent in Sector 7 Sonipat often prefer this area because it offers a stable residential environment with all daily necessities available within close reach.",
+      "Choosing a house for rent in Sector 7 Sonipat is ideal for families and professionals who value long-term comfort, safety, and convenience. The locality offers independent houses in multiple Marla sizes, catering to different budgets and space requirements. With a mature neighborhood, consistent rental demand, and well-maintained surroundings, Sector 7 remains a reliable rental choice. Deal Acres helps tenants find verified houses for rent in Sector 7 Sonipat through transparent processes, trusted listings, and expert rental guidance."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent in Sector 7",
+        "path": "/"
+      },
+      {
+        "label": "Connect With Rental Expert",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=900&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600585154084-4e5fe7c39198?w=900&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Marla Wise House for Rent Options in Sector 7 Sonipat",
+    "description": [
+      "Houses for rent in Sector 7 Sonipat are available in various Marla sizes to suit different family needs and rental budgets.",
+      "These Marla-wise options allow tenants to select homes that match their lifestyle, comfort, and long-term living plans."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 7 Sonipat",
+        "description": "4 Marla houses are suitable for small families, couples, and working professionals. These homes are affordable, easy to maintain, and located near essential amenities, making them a practical rental option in Sector 7 Sonipat."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 7 Sonipat",
+        "description": "6 Marla houses offer a good balance of space and affordability. They are ideal for nuclear families looking for comfortable living with proper ventilation and easy access to schools and markets."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 7 Sonipat",
+        "description": "8 Marla houses provide spacious layouts, better privacy, and additional living space. These homes are preferred by families planning medium to long-term rental stays in a stable residential area."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 7 Sonipat",
+        "description": "10 Marla houses fall under the premium rental category, offering larger rooms, parking space, and enhanced comfort for growing families."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 7 Sonipat",
+        "description": "12 Marla houses are ideal for tenants seeking expansive living spaces, suitable for joint families or those who value independent homes."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 7 Sonipat",
+        "description": "14 Marla houses represent high-end rental options with superior space, independent floors, and a premium lifestyle in a well-established sector."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Areas Offering Houses for Rent Around Sector 7",
+    "description": [
+      "Tenants searching for a house for rent in Sector 7 Sonipat often explore nearby sectors for better comparison.",
+      "These surrounding areas offer similar residential infrastructure, connectivity, and comfortable living options."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 7 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "House for Rent in Sector 8 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "House for Rent in Sector 14 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "House for Rent in Sector 15 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Independent Houses for Rent in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Affordable Houses for Rent in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Best Residential Areas in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Premium Rental Homes in Sonipat", "path": "/", "icon": "Map" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Most Trusted Platform for Renting Houses",
+    "description": [
+      "Finding a house for rent in Sector 7 Sonipat becomes simple, safe, and transparent with Deal Acres.",
+      "Deal Acres has built strong trust among tenants by offering verified listings, honest advice, and customer-first service."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "All houses are verified for ownership, legal clarity, and property condition before being listed."
+      },
+      {
+        "title": "Transparent Rental Process",
+        "description": "Clear rental terms and pricing ensure tenants face no hidden charges."
+      },
+      {
+        "title": "Strong Local Expertise",
+        "description": "In-depth knowledge of Sector 7 Sonipat helps provide accurate rental guidance."
+      },
+      {
+        "title": "Tenant-Centric Recommendations",
+        "description": "Property suggestions are tailored according to tenant budget, family size, and lifestyle needs."
+      },
+      {
+        "title": "Direct Owner Communication",
+        "description": "Tenants can directly connect with property owners for better transparency and faster decisions."
+      },
+      {
+        "title": "Complete Rental Assistance",
+        "description": "Support with site visits, negotiation, and rental documentation ensures a smooth experience."
+      },
+      {
+        "title": "Wide Range of Rental Options",
+        "description": "Multiple Marla-size houses available on one trusted platform."
+      },
+      {
+        "title": "High Customer Trust",
+        "description": "Deal Acres is known for ethical practices, reliability, and long-term tenant satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 7 Sonipat",
+    "description": "These FAQs help tenants understand rental options and make informed decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 7 Sonipat a good area to rent a house?",
+        "answer": "Yes, Sector 7 is a well-established and peaceful residential area with strong infrastructure and connectivity."
+      },
+      {
+        "question": "What Marla sizes are available for houses on rent in Sector 7 Sonipat?",
+        "answer": "Houses are generally available from 4 Marla to 14 Marla, depending on budget and space needs."
+      },
+      {
+        "question": "Are houses in Sector 7 suitable for families?",
+        "answer": "Yes, the sector is family-friendly with schools, hospitals, parks, and markets nearby."
+      },
+      {
+        "question": "Are affordable rental houses available in Sector 7?",
+        "answer": "Yes, 4 Marla and 6 Marla houses offer budget-friendly rental options."
+      },
+      {
+        "question": "Is parking available with rental houses?",
+        "answer": "Most independent houses provide dedicated or nearby parking facilities."
+      },
+      {
+        "question": "Can working professionals rent houses in Sector 7 Sonipat?",
+        "answer": "Yes, the sector is well-connected, making daily commuting easy for professionals."
+      },
+      {
+        "question": "Does Deal Acres verify rental listings?",
+        "answer": "Yes, every rental listing on Deal Acres is verified for authenticity and legal clarity."
+      },
+      {
+        "question": "Are long-term rental options available?",
+        "answer": "Yes, many owners prefer long-term tenants for stability."
+      },
+      {
+        "question": "Is Sector 7 Sonipat safe for tenants?",
+        "answer": "Yes, it is considered a safe residential area with a strong and established community."
+      },
+      {
+        "question": "How can I enquire about a house for rent in Sector 7 Sonipat?",
+        "answer": "You can fill out the enquiry form on Deal Acres to connect with a verified rental expert."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get in Touch to Find the Best House for Rent",
+    "description": [
+      "Finding the right house for rent in Sector 7 Sonipat becomes easy with expert support.",
+      "Share your rental requirements to receive verified listings and personalized assistance from trusted professionals."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "houseSize", "message"]
+  }
+}

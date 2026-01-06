@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforrentcom",
+  "hero": {
+    "title": "Modern and Secure Residential Houses for Rent in Omaxe City Bahadurgarh",
+    "description": [
+      "Omaxe City Bahadurgarh is a premium and well-planned residential township known for its modern infrastructure, gated security, and organized living environment. The locality offers wide internal roads, landscaped green areas, parks, and essential amenities, making it a preferred choice for families and professionals. Tenants looking for a house for rent in Omaxe City Bahadurgarh are attracted by its peaceful surroundings, clean environment, and excellent connectivity to major roads, schools, hospitals, and shopping areas.",
+      "Houses for rent in Omaxe City Bahadurgarh are available in various sizes and configurations, catering to different lifestyle and budget needs. The township provides a balanced mix of comfort, safety, and convenience, ensuring a high-quality living experience. Whether you are planning a long-term stay or seeking a well-maintained residential area, Omaxe City offers a modern lifestyle with reliable facilities and strong residential appeal in Bahadurgarh."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent in Omaxe City",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Multiple House Size Options for Rent in Omaxe City Bahadurgarh",
+    "description": [
+      "Choosing the right house for rent in Omaxe City Bahadurgarh depends on your family size, lifestyle expectations, and rental budget.",
+      "Omaxe City offers thoughtfully designed house configurations that support comfortable and modern living."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Omaxe City Bahadurgarh",
+        "description": "A 4 Marla house for rent in Omaxe City Bahadurgarh is suitable for individuals or small families looking for affordable living within a gated township. These houses are easy to maintain and provide access to parks, security, and basic amenities, making them ideal for practical rental living."
+      },
+      {
+        "title": "6 Marla House for Rent in Omaxe City Bahadurgarh",
+        "description": "6 Marla houses for rent offer a balanced mix of space and affordability. These homes usually include comfortable bedrooms, proper ventilation, and functional layouts. A 6 Marla house for rent in Omaxe City Bahadurgarh is a popular choice among small families."
+      },
+      {
+        "title": "8 Marla House for Rent in Omaxe City Bahadurgarh",
+        "description": "An 8 Marla house for rent in Omaxe City Bahadurgarh provides additional living space and better interior planning. These houses are ideal for families who want more comfort, parking space, and a peaceful residential environment."
+      },
+      {
+        "title": "10 Marla House for Rent in Omaxe City Bahadurgarh",
+        "description": "10 Marla houses for rent are suitable for larger families seeking spacious interiors and privacy. These homes often include multiple bedrooms, balconies, and parking facilities, making them ideal for long-term family living."
+      },
+      {
+        "title": "12 Marla House for Rent in Omaxe City Bahadurgarh",
+        "description": "A 12 Marla house for rent offers premium space with well-designed layouts. These houses are suitable for joint families or tenants who need extra rooms for guests, home offices, or additional storage."
+      },
+      {
+        "title": "14 Marla House for Rent in Omaxe City Bahadurgarh",
+        "description": "14 Marla houses for rent represent luxury and spacious rental living. These properties offer large bedrooms, open living areas, ample parking, and superior designs, ideal for tenants seeking a premium lifestyle."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Areas Offering Houses for Rent Around Omaxe City",
+    "description": [
+      "Tenants searching for a house for rent in Omaxe City Bahadurgarh often explore nearby localities for more rental options.",
+      "These surrounding areas enhance flexibility and provide a wider selection of residential properties."
+    ],
+    "locations": [
+      { "title": "House for Rent in Omaxe City Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 15 Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 14 Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "House for Rent in Sector 4A Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Independent Houses for Rent in Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Ready to Move Houses for Rent in Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Affordable Houses for Rent Near Delhi NCR", "path": "/", "icon": "Home" },
+      { "title": "Residential Rental Properties in Bahadurgarh", "path": "/", "icon": "Home" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Most Trusted Platform for Renting Houses",
+    "description": [
+      "Finding a reliable house for rent in Omaxe City Bahadurgarh requires verified listings, transparency, and expert support.",
+      "Deal Acres is trusted by thousands of users for delivering a smooth, secure, and customer-focused rental experience."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "Every rental property is verified for ownership, authenticity, and availability."
+      },
+      {
+        "title": "Transparent Rental Information",
+        "description": "Clear details on rent, security deposit, and rental terms with no hidden charges."
+      },
+      {
+        "title": "Local Market Knowledge",
+        "description": "Strong understanding of Omaxe City and Bahadurgarh rental trends."
+      },
+      {
+        "title": "Wide Range of Rental Options",
+        "description": "Multiple house sizes and layouts to match different tenant needs."
+      },
+      {
+        "title": "Tenant-Centric Assistance",
+        "description": "Personalized guidance throughout the rental process."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "User-friendly platform designed for quick and hassle-free browsing."
+      },
+      {
+        "title": "End-to-End Rental Support",
+        "description": "Assistance from property search to final move-in."
+      },
+      {
+        "title": "Trusted Real Estate Brand",
+        "description": "Deal Acres is known for transparency, reliability, and high customer satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Omaxe City Bahadurgarh",
+    "description": "Helpful answers to common tenant questions for better rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Omaxe City Bahadurgarh a good place to rent a house?",
+        "answer": "Yes, Omaxe City is a gated and well-planned township offering safety, amenities, and modern living."
+      },
+      {
+        "question": "What house sizes are available for rent in Omaxe City?",
+        "answer": "Houses from 4 Marla to 14 Marla are available, suitable for different family sizes."
+      },
+      {
+        "question": "Are independent houses available for rent in Omaxe City Bahadurgarh?",
+        "answer": "Yes, Omaxe City offers independent houses with spacious layouts and privacy."
+      },
+      {
+        "question": "Is Omaxe City suitable for family living?",
+        "answer": "Absolutely. The township is safe, well-maintained, and family-friendly."
+      },
+      {
+        "question": "What factors affect rental prices in Omaxe City?",
+        "answer": "Rental prices depend on house size, condition, location within the township, and amenities."
+      },
+      {
+        "question": "Are Deal Acres listings verified?",
+        "answer": "Yes, all listings on Deal Acres are verified for authenticity and accuracy."
+      },
+      {
+        "question": "Can I find long-term rental houses in Omaxe City?",
+        "answer": "Yes, many landlords prefer long-term tenants for stability."
+      },
+      {
+        "question": "How is connectivity from Omaxe City Bahadurgarh?",
+        "answer": "Omaxe City is well-connected to major roads and nearby sectors of Bahadurgarh."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, expert guidance, and transparent rental processes."
+      },
+      {
+        "question": "How can I contact a rental expert for Omaxe City?",
+        "answer": "You can fill out the contact form on this page to connect with experienced rental professionals."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get in Touch to Find the Best Houses for Rent in Omaxe City",
+    "description": [
+      "Finding the right house for rent in Omaxe City Bahadurgarh becomes easy with expert support.",
+      "Share your rental requirements through the form and connect with trusted property consultants today."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "message"]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "domain": "officespaceforrentcom",
+  "hero": {
+    "title": "Premium Corporate Office Spaces for Rent in Sector 142 Noida",
+    "description": [
+      "Sector 142 Noida is one of the most prominent commercial destinations along the Noida-Greater Noida Expressway, widely known for its strong corporate presence and modern infrastructure. Home to large IT parks, MNC offices, and Grade A commercial buildings, the sector offers excellent connectivity to Delhi, Greater Noida, and other prime business zones. Businesses searching for office space for rent in Sector 142 Noida are drawn to its expressway frontage, metro connectivity, and professional corporate ecosystem.",
+      "Office spaces for rent in Sector 142 Noida provide a high-quality working environment supported by advanced facilities, ample parking, power backup, and planned commercial layouts. The sector is ideal for IT companies, corporate headquarters, startups, and enterprises that value visibility, scalability, and employee convenience. With continuous commercial development and high demand, Sector 142 ensures long-term stability, brand value, and growth opportunities for businesses looking to establish a strong presence in Noida."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces in Sector 142",
+        "path": "/"
+      },
+      {
+        "label": "Get Office Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1604328698692-f76ea9498e76?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Office Space Size Options Available in Sector 142 Noida",
+    "description": [
+      "Choosing the right office space for rent in Sector 142 Noida depends on workforce size, operational structure, and future business expansion plans.",
+      "The sector offers a wide range of office space sizes designed to support startups, growing companies, and large corporate enterprises."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space for Rent in Sector 142 Noida",
+        "description": "A 4 Marla office space for rent in Sector 142 Noida is suitable for startups, consultants, and small teams looking for cost-efficient offices in a premium corporate location."
+      },
+      {
+        "title": "6 Marla Office Space for Rent in Sector 142 Noida",
+        "description": "6 Marla office spaces in Sector 142 Noida offer a balanced setup for growing businesses that require meeting rooms, cabins, and collaborative work areas."
+      },
+      {
+        "title": "8 Marla Office Space for Rent in Sector 142 Noida",
+        "description": "An 8 Marla office space for rent in Sector 142 Noida is ideal for mid-sized companies seeking flexible layouts, better space utilization, and modern amenities."
+      },
+      {
+        "title": "10 Marla Office Space for Rent in Sector 142 Noida",
+        "description": "10 Marla office spaces are preferred by established firms that need conference rooms, departmental seating, and a strong professional presence."
+      },
+      {
+        "title": "12 Marla Office Space for Rent in Sector 142 Noida",
+        "description": "A 12 Marla office space for rent in Sector 142 Noida suits companies planning long-term operations with scope for future team expansion."
+      },
+      {
+        "title": "14 Marla Office Space for Rent in Sector 142 Noida",
+        "description": "14 Marla office spaces represent premium commercial options in Sector 142 Noida, ideal for large enterprises and corporate headquarters."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Office Spaces for Rent Near Sector 142 Noida",
+    "description": [
+      "Businesses searching for office space for rent in Sector 142 Noida often explore nearby expressway sectors to compare connectivity and commercial value.",
+      "These surrounding locations strengthen Sector 142’s position as one of Noida’s leading corporate hubs."
+    ],
+    "locations": [
+      { "title": "Office Space for Rent in Sector 142 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space for Rent in Sector 135 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space for Rent in Sector 143 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space for Rent in Sector 137 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space near Noida Expressway", "path": "/", "icon": "Building2" },
+      { "title": "IT Office Spaces in Noida", "path": "/", "icon": "Building2" },
+      { "title": "Commercial Offices near Metro Stations Noida", "path": "/", "icon": "Building2" },
+      { "title": "Corporate Office Spaces in Noida", "path": "/", "icon": "Building2" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Businesses Trust Deal Acres for Office Space in Sector 142 Noida",
+    "description": [
+      "Finding the right office space for rent in Sector 142 Noida requires verified listings, transparent pricing, and expert commercial guidance.",
+      "Deal Acres is trusted by businesses for its reliability, local expertise, and customer-centric approach."
+    ],
+    "points": [
+      {
+        "title": "Verified Commercial Listings",
+        "description": "All office spaces are verified for ownership authenticity, availability, and location accuracy."
+      },
+      {
+        "title": "Transparent Rental Pricing",
+        "description": "Clear details on rent, deposits, and lease terms with no hidden charges."
+      },
+      {
+        "title": "Strong Local Market Expertise",
+        "description": "In-depth understanding of Sector 142 Noida’s corporate rental market."
+      },
+      {
+        "title": "Wide Range of Office Options",
+        "description": "Multiple office sizes and configurations to suit different business needs."
+      },
+      {
+        "title": "Customized Office Shortlisting",
+        "description": "Personalized recommendations based on budget, team size, and operational requirements."
+      },
+      {
+        "title": "Negotiation and Documentation Support",
+        "description": "Professional assistance with lease negotiation and documentation."
+      },
+      {
+        "title": "End-to-End Commercial Assistance",
+        "description": "Complete support from office search to final possession."
+      },
+      {
+        "title": "High Trust and Customer Satisfaction",
+        "description": "Deal Acres is known for transparency, professionalism, and long-term business relationships."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Office Space for Rent in Sector 142 Noida",
+    "description": "Comprehensive answers to common business queries to help you make informed office rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 142 Noida a good location for offices?",
+        "answer": "Yes, Sector 142 is a prime corporate hub on the Noida Expressway with strong IT and commercial infrastructure."
+      },
+      {
+        "question": "What office sizes are available in Sector 142 Noida?",
+        "answer": "Office spaces generally range from 4 Marla to 14 Marla depending on building type and availability."
+      },
+      {
+        "question": "Is Sector 142 suitable for IT companies?",
+        "answer": "Yes, the sector is highly preferred by IT and MNC companies due to its ecosystem and expressway connectivity."
+      },
+      {
+        "question": "How is connectivity from Sector 142 Noida?",
+        "answer": "Sector 142 offers excellent connectivity via Noida Expressway and dedicated metro stations."
+      },
+      {
+        "question": "Are furnished office spaces available?",
+        "answer": "Yes, furnished and semi-furnished office spaces are widely available in commercial buildings."
+      },
+      {
+        "question": "What amenities can businesses expect?",
+        "answer": "Amenities include parking, power backup, security, lifts, maintenance services, and food courts in many buildings."
+      },
+      {
+        "question": "What factors affect office rent in Sector 142?",
+        "answer": "Office rent depends on size, building grade, furnishing level, and expressway-facing location."
+      },
+      {
+        "question": "Is Sector 142 suitable for client-facing offices?",
+        "answer": "Yes, its corporate environment and easy accessibility make it ideal for client interactions."
+      },
+      {
+        "question": "Why choose Deal Acres for office rentals?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and expert commercial property guidance."
+      },
+      {
+        "question": "How can I contact office rental experts?",
+        "answer": "You can fill out the contact form on this page to connect with experienced Deal Acres consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Office Space for Rent in Sector 142 Noida",
+    "description": [
+      "Finding the right office space for rent in Sector 142 Noida becomes easy with professional support and verified listings.",
+      "Share your business requirements to connect with trusted office rental experts and receive personalized assistance."
+    ],
+    "formFields": ["name", "phone", "email", "company", "message"]
+  }
+}

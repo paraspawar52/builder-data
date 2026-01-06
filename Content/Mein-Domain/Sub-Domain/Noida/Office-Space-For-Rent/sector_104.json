@@ -1,0 +1,169 @@
+{
+  "domain": "officespaceforrentcom",
+  "hero": {
+    "title": "Strategically Located and Modern Office Spaces for Rent in Sector 104 Noida",
+    "description": [
+      "Sector 104 Noida is a well-planned and rapidly developing locality that is gaining popularity as a convenient office destination. Located close to the Noida Expressway and connected to key residential and commercial sectors, Sector 104 offers smooth accessibility for employees and clients. Businesses looking for office space for rent in Sector 104 Noida benefit from its balanced environment, which combines peaceful surroundings with essential urban infrastructure.",
+      "Office spaces for rent in Sector 104 Noida are surrounded by residential societies, retail outlets, schools, hospitals, and daily convenience stores, making it a practical choice for companies that value employee comfort. The sector is suitable for startups, service-based firms, and growing enterprises seeking affordable yet professional office setups. With improving connectivity, planned development, and increasing commercial interest, Sector 104 presents long-term potential for businesses aiming to establish a stable office presence in Noida."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces in Sector 104",
+        "path": "/"
+      },
+      {
+        "label": "Get Office Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1604328698692-f76ea9498e76?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Flexible Office Space Size Options in Sector 104 Noida",
+    "description": [
+      "Selecting the right office space for rent in Sector 104 Noida depends on your business size, workflow needs, and future expansion plans.",
+      "Sector 104 offers multiple office size options that cater to startups, mid-sized companies, and large enterprises."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space for Rent in Sector 104 Noida",
+        "description": "A 4 Marla office space for rent in Sector 104 Noida is ideal for freelancers, consultants, and early-stage startups. These compact offices offer cost-effective rental solutions while maintaining a professional work environment. With efficient layouts and proximity to residential areas, 4 Marla offices help small teams operate smoothly without high operational costs."
+      },
+      {
+        "title": "6 Marla Office Space for Rent in Sector 104 Noida",
+        "description": "6 Marla office spaces for rent in Sector 104 Noida suit growing businesses that require dedicated cabins, workstations, and small meeting areas. These offices provide a balance between space and affordability, making them a practical choice for service-based companies and expanding teams."
+      },
+      {
+        "title": "8 Marla Office Space for Rent in Sector 104 Noida",
+        "description": "An 8 Marla office space for rent in Sector 104 Noida is suitable for mid-sized teams that need flexibility and comfort. These offices support collaborative working, better space planning, and customization options, helping businesses enhance productivity and team coordination."
+      },
+      {
+        "title": "10 Marla Office Space for Rent in Sector 104 Noida",
+        "description": "10 Marla office spaces in Sector 104 Noida are preferred by established businesses that require structured departments, conference rooms, and client interaction areas. These offices are usually located in well-maintained commercial buildings with essential amenities."
+      },
+      {
+        "title": "12 Marla Office Space for Rent in Sector 104 Noida",
+        "description": "A 12 Marla office space for rent in Sector 104 Noida is ideal for companies planning long-term growth. These spacious offices offer layout flexibility, employee comfort, and branding opportunities while ensuring smooth daily operations."
+      },
+      {
+        "title": "14 Marla Office Space for Rent in Sector 104 Noida",
+        "description": "14 Marla office spaces represent premium office options in Sector 104 Noida. Designed for large enterprises and multi-team setups, these offices provide scale, visibility, and a professional corporate presence in a developing commercial zone."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Office Spaces for Rent Near Sector 104 Noida",
+    "description": [
+      "Businesses searching for office space for rent in Sector 104 Noida often explore nearby sectors to compare rental values, connectivity, and available amenities.",
+      "These surrounding locations further enhance Sector 104’s appeal as a convenient and accessible office destination in Noida."
+    ],
+    "locations": [
+      { "title": "Office Space for Rent in Sector 104 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space for Rent in Sector 110 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space for Rent in Sector 93 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space for Rent in Sector 137 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space near Noida Expressway", "path": "/", "icon": "Building2" },
+      { "title": "Commercial Office Spaces in Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Spaces near Metro Stations Noida", "path": "/", "icon": "Building2" },
+      { "title": "Corporate Office Spaces in Noida", "path": "/", "icon": "Building2" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Businesses Choose Deal Acres for Office Space in Sector 104 Noida",
+    "description": [
+      "Finding the right office space for rent in Sector 104 Noida requires verified listings, transparent pricing, and expert local guidance.",
+      "Deal Acres has earned strong trust among businesses by consistently delivering reliable and customer-focused commercial real estate services."
+    ],
+    "points": [
+      {
+        "title": "Verified Office Space Listings",
+        "description": "Deal Acres ensures every office space listing is verified for ownership and availability, helping businesses avoid misleading or outdated information."
+      },
+      {
+        "title": "Transparent Pricing Structure",
+        "description": "Clear details about rent, deposits, maintenance charges, and lease terms allow businesses to plan budgets with confidence."
+      },
+      {
+        "title": "Local Market Knowledge",
+        "description": "With in-depth understanding of Sector 104 Noida, Deal Acres guides businesses toward the most suitable office locations."
+      },
+      {
+        "title": "Wide Range of Office Options",
+        "description": "From small offices to large corporate spaces, Deal Acres offers multiple configurations to match diverse business needs."
+      },
+      {
+        "title": "Personalized Office Shortlisting",
+        "description": "Office spaces are shortlisted based on business size, industry, budget, and growth plans, saving time and effort."
+      },
+      {
+        "title": "Professional Lease Support",
+        "description": "Deal Acres assists with negotiations, documentation, and legal formalities for a smooth rental experience."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "From initial inquiry to final possession, businesses receive complete support throughout the office renting journey."
+      },
+      {
+        "title": "Trusted Commercial Real Estate Platform",
+        "description": "Deal Acres is known for professionalism, reliability, and customer satisfaction, making it a preferred choice in Noida."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Office Space for Rent in Sector 104 Noida",
+    "description": "Clear and detailed answers to help businesses make informed decisions when renting office space in Sector 104 Noida.",
+    "faqs": [
+      {
+        "question": "Is Sector 104 Noida a good location for office space?",
+        "answer": "Yes, Sector 104 Noida is a developing and well-connected area offering affordable office spaces, a peaceful environment, and easy access to major roads."
+      },
+      {
+        "question": "What office sizes are available in Sector 104 Noida?",
+        "answer": "Office spaces are available in various sizes ranging from 4 Marla to 14 Marla, suitable for small teams as well as large enterprises."
+      },
+      {
+        "question": "Are furnished offices available in Sector 104 Noida?",
+        "answer": "Yes, depending on the building, furnished and semi-furnished office spaces are available with basic fittings and amenities."
+      },
+      {
+        "question": "How is connectivity from Sector 104 Noida?",
+        "answer": "Sector 104 offers good connectivity to Noida Expressway and nearby sectors, making daily commuting convenient."
+      },
+      {
+        "question": "What amenities are included in office spaces?",
+        "answer": "Common amenities include power backup, parking, lifts, security, and maintenance services in most commercial buildings."
+      },
+      {
+        "question": "What factors affect office rent in Sector 104 Noida?",
+        "answer": "Office rent depends on size, furnishing level, building location, amenities, and accessibility."
+      },
+      {
+        "question": "Is Sector 104 suitable for startups?",
+        "answer": "Yes, Sector 104 is suitable for startups due to affordable rentals, peaceful surroundings, and improving infrastructure."
+      },
+      {
+        "question": "Can large enterprises rent offices in Sector 104?",
+        "answer": "Yes, larger office configurations like 12 Marla and 14 Marla are available for enterprises planning scalable operations."
+      },
+      {
+        "question": "Why should I choose Deal Acres for office rentals?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, expert guidance, and personalized support throughout the rental process."
+      },
+      {
+        "question": "How can I contact Deal Acres for office space assistance?",
+        "answer": "You can fill out the contact form on this page, and a Deal Acres expert will connect with you to understand your requirements."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Assistance for Office Space for Rent in Sector 104 Noida",
+    "description": [
+      "Finding the right office space for rent in Sector 104 Noida becomes simple with professional guidance and verified listings.",
+      "Share your contact details and office requirements to connect with experienced commercial real estate experts at Deal Acres."
+    ],
+    "formFields": ["name", "phone", "email", "company", "message"]
+  }
+}

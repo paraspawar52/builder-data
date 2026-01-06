@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforrent.com",
+  "hero": {
+    "title": "Modern and Peaceful Houses for Rent in Sector 64 Sonipat",
+    "description": [
+      "Sector 64 Sonipat is a rapidly developing residential locality that offers a perfect blend of modern infrastructure and peaceful living. The area is well-planned with wide roads, organized residential blocks, and easy access to major connecting routes, making daily commuting smooth and convenient. Tenants searching for a house for rent in Sector 64 Sonipat benefit from nearby schools, hospitals, shopping areas, parks, and essential services, which together create a comfortable and family-friendly environment.",
+      "Opting for a house for rent in Sector 64 Sonipat is a smart choice for tenants looking for quality living at reasonable rental values. The locality offers independent houses in various Marla sizes, catering to the needs of small families, joint families, and working professionals. With growing residential demand and improved civic amenities, Sector 64 is becoming a preferred rental destination. Deal Acres simplifies the process by offering verified listings, transparent rental terms, and expert support to help tenants find the right house for rent in Sector 64 Sonipat with confidence."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent in Sector 64",
+        "path": "/"
+      },
+      {
+        "label": "Connect With Rental Expert",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=900&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600585154084-4e5fe7c39198?w=900&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Marla Wise House for Rent Options in Sector 64 Sonipat",
+    "description": [
+      "Houses for rent in Sector 64 Sonipat are available in different Marla sizes to suit varied space requirements and rental budgets.",
+      "These options help tenants choose homes based on family size, comfort, and long-term rental preferences."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 64 Sonipat",
+        "description": "4 Marla houses are ideal for small families, couples, and professionals. These homes are affordable, easy to maintain, and located close to essential facilities, making them a practical rental option in Sector 64 Sonipat."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 64 Sonipat",
+        "description": "6 Marla houses offer a balanced mix of space and affordability. They are suitable for nuclear families seeking comfortable living with proper ventilation and convenient access to daily necessities."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 64 Sonipat",
+        "description": "8 Marla houses provide spacious interiors, improved privacy, and additional living areas. These homes are preferred by families planning medium to long-term stays in a well-developing locality."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 64 Sonipat",
+        "description": "10 Marla houses fall under the premium rental segment, offering larger rooms, parking facilities, and enhanced living comfort for growing families."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 64 Sonipat",
+        "description": "12 Marla houses are ideal for tenants looking for expansive living spaces, suitable for joint families or those who prefer independent homes with added flexibility."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 64 Sonipat",
+        "description": "14 Marla houses represent high-end rental options with superior space, independent floors, and a premium lifestyle in Sector 64 Sonipat."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Areas Offering Houses for Rent Around Sector 64",
+    "description": [
+      "Tenants looking for a house for rent in Sector 64 Sonipat often explore nearby sectors for more rental options.",
+      "These surrounding areas offer similar connectivity, residential infrastructure, and rental advantages."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 64 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "House for Rent in Sector 62 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "House for Rent in Sector 61 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "House for Rent in Kundli Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Independent Houses for Rent in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Affordable Houses for Rent in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Best Residential Areas in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Premium Rental Homes in Sonipat", "path": "/", "icon": "Map" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Most Trusted Platform for Renting Houses",
+    "description": [
+      "Finding a house for rent in Sector 64 Sonipat becomes simple and secure with Deal Acres.",
+      "Deal Acres has earned strong trust among tenants by providing verified listings, transparent processes, and customer-first service."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "All houses are thoroughly verified for ownership, condition, and legal authenticity before listing."
+      },
+      {
+        "title": "Transparent Rental Terms",
+        "description": "Clear pricing and rental conditions ensure there are no hidden charges for tenants."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth understanding of Sector 64 Sonipat helps deliver accurate rental guidance."
+      },
+      {
+        "title": "Tenant-Focused Recommendations",
+        "description": "Rental options are curated based on tenant budget, family size, and lifestyle needs."
+      },
+      {
+        "title": "Direct Owner Communication",
+        "description": "Direct interaction with property owners ensures better clarity and faster decision-making."
+      },
+      {
+        "title": "Complete Rental Assistance",
+        "description": "Support with site visits, negotiations, and rental agreements for a smooth experience."
+      },
+      {
+        "title": "Wide Range of Choices",
+        "description": "Multiple Marla-size houses available on one trusted platform."
+      },
+      {
+        "title": "High Customer Satisfaction",
+        "description": "Deal Acres is known for ethical practices, reliability, and long-term tenant trust."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 64 Sonipat",
+    "description": "These FAQs help tenants resolve common queries and make informed rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 64 Sonipat a good area to rent a house?",
+        "answer": "Yes, Sector 64 is a developing and peaceful locality with good connectivity and growing residential infrastructure, making it suitable for families and professionals."
+      },
+      {
+        "question": "What Marla sizes are available for houses on rent in Sector 64 Sonipat?",
+        "answer": "Houses are commonly available from 4 Marla to 14 Marla, depending on budget and space requirements."
+      },
+      {
+        "question": "Are houses in Sector 64 suitable for families?",
+        "answer": "Yes, the area is family-friendly with access to schools, parks, healthcare facilities, and daily markets."
+      },
+      {
+        "question": "Are affordable rental houses available in Sector 64?",
+        "answer": "Yes, 4 Marla and 6 Marla houses offer budget-friendly rental options for tenants."
+      },
+      {
+        "question": "Is parking available with rental houses?",
+        "answer": "Most independent houses provide dedicated or nearby parking facilities."
+      },
+      {
+        "question": "Can working professionals rent houses in Sector 64 Sonipat?",
+        "answer": "Yes, the sector is well-connected to major roads, making daily commuting convenient."
+      },
+      {
+        "question": "Does Deal Acres verify rental listings?",
+        "answer": "Yes, every rental listing on Deal Acres is verified for legal and ownership clarity."
+      },
+      {
+        "question": "Are long-term rental options available?",
+        "answer": "Yes, many property owners prefer long-term tenants for stability and continuity."
+      },
+      {
+        "question": "Is Sector 64 Sonipat safe for tenants?",
+        "answer": "Yes, it is considered a safe and well-planned residential area with an established community."
+      },
+      {
+        "question": "How can I enquire about a house for rent in Sector 64 Sonipat?",
+        "answer": "You can fill out the enquiry form on Deal Acres to connect with a verified rental expert and receive personalized assistance."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get in Touch to Find the Right House for Rent",
+    "description": [
+      "Finding the perfect house for rent in Sector 64 Sonipat is easier with expert guidance.",
+      "Share your rental requirements to receive verified listings and personalized support from trusted professionals."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "houseSize", "message"]
+  }
+}

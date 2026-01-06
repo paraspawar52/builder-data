@@ -1,0 +1,169 @@
+{
+  "domain": "Flatsforrent.com",
+  "hero": {
+    "title": "Peaceful and Well Connected Flats for Rent in Sector 35 Sonipat",
+    "description": [
+      "Sector 35 Sonipat is an emerging residential locality known for its calm environment, planned infrastructure, and smooth connectivity to key parts of the city. The area is well-connected to major roads, local markets, schools, hospitals, and daily convenience stores, making it a comfortable choice for tenants. Due to its organized layout and growing residential demand, flats for rent in Sector 35 Sonipat are increasingly preferred by families and working professionals.",
+      "Opting for flats for rent in Sector 35 Sonipat offers a balanced lifestyle with affordability and comfort. The locality provides flats in different Marla sizes, allowing tenants to choose homes as per their space requirements and budget. With steady development, good neighborhood planning, and essential amenities nearby, Sector 35 is becoming a reliable rental destination in Sonipat. Deal Acres simplifies the rental journey by offering verified flats for rent in Sector 35 Sonipat with transparent listings, trusted owners, and professional rental assistance."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Flats for Rent in Sector 35",
+        "path": "/"
+      },
+      {
+        "label": "Connect With Rental Expert",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=900&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600585154084-4e5fe7c39198?w=900&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Marla Wise Flats for Rent Options in Sector 35 Sonipat",
+    "description": [
+      "Flats for rent in Sector 35 Sonipat are available in multiple Marla sizes to match different tenant needs.",
+      "These Marla-wise flat options help tenants select homes based on space, comfort, and long-term living goals."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Flats for Rent in Sector 35 Sonipat",
+        "description": "4 Marla flats are suitable for bachelors, students, and small families. These homes are budget-friendly, easy to maintain, and located close to essential facilities."
+      },
+      {
+        "title": "6 Marla Flats for Rent in Sector 35 Sonipat",
+        "description": "6 Marla flats provide a good balance of space and affordability, making them ideal for nuclear families seeking comfortable living."
+      },
+      {
+        "title": "8 Marla Flats for Rent in Sector 35 Sonipat",
+        "description": "8 Marla flats offer spacious layouts, better ventilation, and added privacy, preferred by families planning longer stays."
+      },
+      {
+        "title": "10 Marla Flats for Rent in Sector 35 Sonipat",
+        "description": "10 Marla flats fall under the premium rental segment, offering larger rooms, modern interiors, and enhanced lifestyle comfort."
+      },
+      {
+        "title": "12 Marla Flats for Rent in Sector 35 Sonipat",
+        "description": "12 Marla flats are ideal for joint families or tenants who prefer expansive living spaces with added convenience."
+      },
+      {
+        "title": "14 Marla Flats for Rent in Sector 35 Sonipat",
+        "description": "14 Marla flats represent high-end rental options with superior space, premium fittings, and a refined residential experience."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Areas with Flats for Rent Around Sector 35",
+    "description": [
+      "Tenants looking for flats for rent in Sector 35 Sonipat often explore nearby sectors to compare options.",
+      "These surrounding localities also offer good infrastructure and convenient connectivity."
+    ],
+    "locations": [
+      { "title": "Flats for Rent in Sector 35 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Sector 34 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Sector 33 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Sector 15 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Residential Flats for Rent in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Affordable Flats for Rent in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Best Areas to Rent Flats in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Premium Rental Flats in Sonipat", "path": "/", "icon": "Map" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Most Trusted Platform for Renting Flats",
+    "description": [
+      "Finding flats for rent in Sector 35 Sonipat becomes easy and secure with Deal Acres.",
+      "Deal Acres has built strong trust through verified listings, transparent processes, and tenant-first service."
+    ],
+    "points": [
+      {
+        "title": "Verified Flat Listings",
+        "description": "Every flat is verified for ownership and legal authenticity before being listed."
+      },
+      {
+        "title": "Transparent Rental Pricing",
+        "description": "Clear rental details are shared with no hidden charges or misleading information."
+      },
+      {
+        "title": "Local Market Knowledge",
+        "description": "Accurate insights about Sector 35 Sonipat help tenants make informed decisions."
+      },
+      {
+        "title": "Personalized Rental Support",
+        "description": "Property suggestions are tailored according to budget, family size, and preferences."
+      },
+      {
+        "title": "Direct Owner Interaction",
+        "description": "Tenants can communicate directly with property owners for faster and clearer decisions."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support with visits, negotiation, and paperwork ensures a smooth rental experience."
+      },
+      {
+        "title": "Wide Range of Options",
+        "description": "Multiple Marla-size flats are available on one reliable platform."
+      },
+      {
+        "title": "Highly Trusted Real Estate Brand",
+        "description": "Deal Acres is known for ethical practices and high tenant satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Flats for Rent in Sector 35 Sonipat",
+    "description": "These FAQs help tenants understand important aspects of renting flats in Sector 35 Sonipat.",
+    "faqs": [
+      {
+        "question": "Is Sector 35 Sonipat a good area to rent a flat?",
+        "answer": "Yes, Sector 35 is a peaceful and developing residential area with good connectivity and essential amenities."
+      },
+      {
+        "question": "What flat sizes are available for rent in Sector 35 Sonipat?",
+        "answer": "Flats are commonly available from 4 Marla to 14 Marla, allowing tenants to choose as per budget and space needs."
+      },
+      {
+        "question": "Are flats in Sector 35 suitable for families?",
+        "answer": "Yes, the locality is safe, organized, and suitable for family living."
+      },
+      {
+        "question": "Are budget-friendly flats available in Sector 35?",
+        "answer": "Yes, 4 Marla and 6 Marla flats are affordable options for tenants."
+      },
+      {
+        "question": "Is parking available with rental flats?",
+        "answer": "Most flats provide dedicated or common parking facilities."
+      },
+      {
+        "question": "Is Sector 35 good for long-term renting?",
+        "answer": "Yes, due to its calm environment and steady development, it is ideal for long-term stays."
+      },
+      {
+        "question": "Does Deal Acres verify flat listings?",
+        "answer": "Yes, all listings on Deal Acres are verified for legal and ownership clarity."
+      },
+      {
+        "question": "Can working professionals rent flats in Sector 35?",
+        "answer": "Yes, good road connectivity makes daily commuting convenient."
+      },
+      {
+        "question": "Are premium flats available in Sector 35 Sonipat?",
+        "answer": "Yes, 10 Marla and above flats fall under the premium rental category."
+      },
+      {
+        "question": "How can I enquire about flats for rent in Sector 35 Sonipat?",
+        "answer": "You can submit your details on Deal Acres to connect with a verified rental expert."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help to Find the Right Rental Flat",
+    "description": [
+      "Finding the right flat for rent in Sector 35 Sonipat becomes easy with expert guidance.",
+      "Share your rental requirements to receive verified listings and personalized support from trusted professionals."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "flatSize", "message"]
+  }
+}

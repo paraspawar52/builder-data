@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforsalecom",
+  "hero": {
+    "title": "Modern Independent Houses for Sale in Sector 77 Noida",
+    "description": [
+      "Sector 77 Noida is a rapidly developing residential locality known for its planned infrastructure, green surroundings, and smooth connectivity to major parts of Noida and Greater Noida. Buyers searching for a house for sale in Sector 77 Noida prefer this area due to its proximity to Noida-Greater Noida Expressway, Sector 76 Metro Station, and well-developed road networks. The sector is surrounded by reputed residential societies, parks, schools, hospitals, and daily convenience stores, making it a practical choice for families.",
+      "Houses for sale in Sector 77 Noida offer the advantage of independent living in a location that balances comfort and future growth. With rising residential demand, improving civic facilities, and limited availability of independent houses, the sector shows strong potential for long-term appreciation. Whether you are planning to settle with your family or invest for the future, Sector 77 stands out as a promising residential destination in Noida."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses in Sector 77",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Independent House Size Options Available in Sector 77 Noida",
+    "description": [
+      "Choosing the right house size in Sector 77 Noida depends on your family size, lifestyle needs, and long-term plans.",
+      "The sector offers a wide range of independent house configurations suitable for both end-users and investors."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Sector 77 Noida",
+        "description": "A 4 Marla house for sale in Sector 77 Noida is ideal for small families or first-time buyers looking for affordable independent homes. These houses are easy to maintain and benefit from good connectivity to metro stations, schools, and daily markets, ensuring steady rental and resale demand."
+      },
+      {
+        "title": "6 Marla House for Sale in Sector 77 Noida",
+        "description": "6 Marla houses in Sector 77 Noida offer a balanced mix of space and affordability. With well-planned layouts, proper ventilation, and parking facilities, these homes are suitable for nuclear families seeking long-term residential comfort."
+      },
+      {
+        "title": "8 Marla House for Sale in Sector 77 Noida",
+        "description": "An 8 Marla house for sale in Sector 77 Noida is preferred by families who want larger living spaces and better privacy. These houses allow flexible interior planning and are considered a stable investment option due to consistent demand."
+      },
+      {
+        "title": "10 Marla House for Sale in Sector 77 Noida",
+        "description": "10 Marla independent houses in Sector 77 Noida cater to buyers looking for spacious living and premium comfort. Limited availability in this sector enhances their long-term appreciation and resale potential."
+      },
+      {
+        "title": "12 Marla House for Sale in Sector 77 Noida",
+        "description": "A 12 Marla house in Sector 77 Noida offers expansive interiors, ample parking, and privacy, making it ideal for large families or multigenerational living."
+      },
+      {
+        "title": "14 Marla House for Sale in Sector 77 Noida",
+        "description": "14 Marla houses represent premium independent living in Sector 77 Noida. These homes are valued for exclusivity, generous space, and strong future investment potential."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Houses for Sale Near Sector 77 Noida",
+    "description": [
+      "Buyers interested in a house for sale in Sector 77 Noida often explore nearby sectors to compare pricing, amenities, and connectivity.",
+      "These surrounding areas further enhance Sector 77’s residential appeal."
+    ],
+    "locations": [
+      { "title": "House for Sale in Sector 77 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale in Sector 76 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale in Sector 78 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale in Sector 75 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses near Noida Metro", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Houses near Noida Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Family Homes in Central Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Premium Houses in Noida Sectors", "path": "/", "icon": "Landmark" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Houses in Sector 77 Noida",
+    "description": [
+      "Buying a house for sale in Sector 77 Noida requires verified listings, transparent pricing, and expert guidance.",
+      "Deal Acres has earned buyer trust by consistently delivering reliable and customer-focused real estate services."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All properties are checked for ownership clarity, approvals, and legal authenticity."
+      },
+      {
+        "title": "Transparent Pricing Policy",
+        "description": "Clear pricing with no hidden charges helps buyers plan confidently."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Deep understanding of Sector 77 Noida property trends and demand."
+      },
+      {
+        "title": "Wide Range of Options",
+        "description": "Multiple house sizes available to suit different budgets and needs."
+      },
+      {
+        "title": "Complete Legal Support",
+        "description": "Assistance with documentation, registry, and legal verification."
+      },
+      {
+        "title": "Personalized Buying Guidance",
+        "description": "Property advice tailored to lifestyle preferences and investment goals."
+      },
+      {
+        "title": "End-to-End Transaction Support",
+        "description": "Support from property shortlisting to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for transparency, reliability, and customer satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Sale in Sector 77 Noida",
+    "description": "Helpful answers to common buyer questions for informed decision-making.",
+    "faqs": [
+      {
+        "question": "Is Sector 77 Noida a good area to buy a house?",
+        "answer": "Yes, Sector 77 Noida offers good connectivity, modern infrastructure, and rising residential demand, making it suitable for families and investors."
+      },
+      {
+        "question": "What house sizes are available in Sector 77 Noida?",
+        "answer": "Independent houses are available from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Is Sector 77 suitable for family living?",
+        "answer": "Yes, the sector has schools, hospitals, parks, shopping areas, and public transport nearby."
+      },
+      {
+        "question": "How is connectivity from Sector 77 Noida?",
+        "answer": "Sector 77 enjoys excellent connectivity via metro stations, expressways, and internal roads."
+      },
+      {
+        "question": "Are houses in Sector 77 legally approved?",
+        "answer": "Most properties are approved, and Deal Acres helps buyers with detailed legal verification."
+      },
+      {
+        "question": "Is buying a house in Sector 77 a good investment?",
+        "answer": "Yes, increasing demand and limited independent housing supply support long-term appreciation."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 77 Noida?",
+        "answer": "Yes, major banks and financial institutions provide home loans for eligible properties."
+      },
+      {
+        "question": "What amenities are available near Sector 77?",
+        "answer": "Nearby amenities include schools, hospitals, malls, parks, metro stations, and offices."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, expert advice, and complete buying support."
+      },
+      {
+        "question": "How can I contact property experts for Sector 77 Noida?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Houses for Sale in Sector 77 Noida",
+    "description": [
+      "Finding the right house for sale in Sector 77 Noida becomes simple with expert guidance.",
+      "Share your details to connect with trusted property professionals and explore verified listings with confidence."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

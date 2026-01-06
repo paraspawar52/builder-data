@@ -1,0 +1,169 @@
+{
+  "domain": "Plotforsale.com",
+  "hero": {
+    "title": "Premium Residential and Investment Plots for Sale in Omaxe City Bahadurgarh",
+    "description": [
+      "Omaxe City Bahadurgarh is a well-planned township known for its modern infrastructure, wide internal roads, green surroundings, and organized residential planning. The area is preferred by families and investors who want a secure, clean, and future-ready environment. People searching for a plot for sale in Omaxe City Bahadurgarh usually look for approved layouts, good connectivity, and a community-driven lifestyle, all of which this location offers naturally.",
+      "Plot for sale in Omaxe City Bahadurgarh is ideal for building independent homes as well as for long-term investment. With increasing residential demand, nearby commercial development, and smooth connectivity to major roads and highways, Omaxe City promises steady appreciation. Buying a plot here allows you to design your home as per your needs while enjoying the benefits of living in a reputed and trusted township in Bahadurgarh."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Omaxe City",
+        "path": "/"
+      },
+      {
+        "label": "Consult Property Expert",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=900&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1592595896616-c37162298647?w=900&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Marla Wise Plot for Sale Options in Omaxe City Bahadurgarh",
+    "description": [
+      "Plot for sale in Omaxe City Bahadurgarh is available in multiple Marla sizes to suit different budgets and construction plans.",
+      "These options help buyers choose plots based on family needs, home design preferences, and investment goals."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot for Sale in Omaxe City Bahadurgarh",
+        "description": "4 Marla plot for sale in Omaxe City Bahadurgarh is suitable for compact homes and buyers looking for an affordable entry into a premium township."
+      },
+      {
+        "title": "6 Marla Plot for Sale in Omaxe City Bahadurgarh",
+        "description": "6 Marla plot for sale in Omaxe City Bahadurgarh offers balanced space, ideal for comfortable family living."
+      },
+      {
+        "title": "8 Marla Plot for Sale in Omaxe City Bahadurgarh",
+        "description": "8 Marla plot for sale in Omaxe City Bahadurgarh provides extra open area for better ventilation, parking, and landscaping."
+      },
+      {
+        "title": "10 Marla Plot for Sale in Omaxe City Bahadurgarh",
+        "description": "10 Marla plot for sale in Omaxe City Bahadurgarh is preferred by buyers planning spacious independent houses."
+      },
+      {
+        "title": "12 Marla Plot for Sale in Omaxe City Bahadurgarh",
+        "description": "12 Marla plot for sale in Omaxe City Bahadurgarh is ideal for premium homes with modern architectural designs."
+      },
+      {
+        "title": "14 Marla Plot for Sale in Omaxe City Bahadurgarh",
+        "description": "14 Marla plot for sale in Omaxe City Bahadurgarh is suitable for luxury construction and high-value long-term investment."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Plot for Sale Locations in Bahadurgarh",
+    "description": [
+      "Buyers interested in plots in Omaxe City Bahadurgarh often explore nearby sectors for comparison.",
+      "These surrounding locations also offer strong residential and investment opportunities."
+    ],
+    "locations": [
+      { "title": "Plot for Sale in Omaxe City Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Plot for Sale in Sector 15 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Plot for Sale in Sector 9 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Plot for Sale in Sector 6 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Plot for Sale on Delhi Rohtak Highway", "path": "/", "icon": "Map" },
+      { "title": "Residential Plots in Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Approved Plots in Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Investment Plots in Bahadurgarh", "path": "/", "icon": "Map" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Trusted Choice for Plot Buyers",
+    "description": [
+      "Buying a plot for sale in Omaxe City Bahadurgarh requires verified information and expert guidance.",
+      "Deal Acres ensures transparency, trust, and customer-focused support throughout the buying journey."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "Each plot is checked for ownership clarity and basic approvals."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden charges or misleading information."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Omaxe City and Bahadurgarh property trends."
+      },
+      {
+        "title": "Buyer-Centric Recommendations",
+        "description": "Plots suggested based on budget, purpose, and future plans."
+      },
+      {
+        "title": "Direct Owner Connectivity",
+        "description": "Easy and direct communication with genuine property owners."
+      },
+      {
+        "title": "Legal Documentation Support",
+        "description": "Assistance provided for registry and legal paperwork."
+      },
+      {
+        "title": "Long-Term Investment Focus",
+        "description": "Plots selected with appreciation and stability in mind."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for reliability and customer satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plot for Sale in Omaxe City",
+    "description": "Common buyer questions answered to help you make confident decisions.",
+    "faqs": [
+      {
+        "question": "Is Omaxe City Bahadurgarh good for buying plots?",
+        "answer": "Yes, Omaxe City is a planned township offering approved layouts, good infrastructure, and strong future growth."
+      },
+      {
+        "question": "Are plots suitable for residential construction?",
+        "answer": "Yes, plots are ideal for building independent residential houses."
+      },
+      {
+        "question": "Is Omaxe City good for long-term investment?",
+        "answer": "Yes, due to rising demand and planned development, it offers good long-term appreciation."
+      },
+      {
+        "question": "Which plot size is best for families?",
+        "answer": "6 to 10 Marla plots are generally suitable for comfortable family homes."
+      },
+      {
+        "question": "Are daily amenities available nearby?",
+        "answer": "Yes, markets, schools, parks, and healthcare facilities are easily accessible."
+      },
+      {
+        "question": "Does Deal Acres verify plot listings?",
+        "answer": "Yes, all listings are verified for authenticity and basic documentation."
+      },
+      {
+        "question": "Is registry support provided?",
+        "answer": "Yes, full assistance is provided for registry and paperwork."
+      },
+      {
+        "question": "Are corner plots available?",
+        "answer": "Availability depends on current inventory and listings."
+      },
+      {
+        "question": "Can I customize construction on my plot?",
+        "answer": "Yes, buyers can design and build homes as per their preferences."
+      },
+      {
+        "question": "How can I enquire about plots in Omaxe City?",
+        "answer": "You can submit your details through the enquiry form to connect with a property expert."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Plot for Sale in Omaxe City Bahadurgarh",
+    "description": [
+      "Finding the right plot in Omaxe City Bahadurgarh becomes easier with expert guidance.",
+      "Share your requirements to receive verified listings and personalized assistance."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "plotSize", "message"]
+  }
+}

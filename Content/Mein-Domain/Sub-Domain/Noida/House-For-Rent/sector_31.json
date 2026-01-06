@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforrentcom",
+  "hero": {
+    "title": "Prime Location Independent Houses for Rent in Sector 31 Noida",
+    "description": [
+      "Sector 31 Noida is one of the most centrally located and well-established residential sectors in the city. Known for its excellent connectivity, the sector is close to City Centre Metro Station, major arterial roads, and important commercial areas. Tenants searching for a house for rent in Sector 31 Noida prefer this location due to its proximity to reputed schools, hospitals, shopping complexes, offices, and daily convenience markets, making everyday living smooth and time-efficient.",
+      "Houses for rent in Sector 31 Noida offer the advantage of independent living in a mature and peaceful neighborhood. The sector features wide roads, green parks, reliable civic infrastructure, and a balanced residential atmosphere despite being centrally positioned. It is ideal for families, senior citizens, and working professionals seeking stability, comfort, and long-term rental value. With consistent rental demand and excellent livability, Sector 31 remains a top choice for tenants in Noida."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent in Sector 31",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Independent House Rental Size Options in Sector 31 Noida",
+    "description": [
+      "Choosing the right house for rent in Sector 31 Noida depends on family size, lifestyle needs, and rental budget.",
+      "The sector offers multiple independent house configurations suitable for all tenant profiles."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 31 Noida",
+        "description": "A 4 Marla house for rent in Sector 31 Noida is suitable for bachelors, couples, or small families. These homes are budget-friendly, easy to maintain, and offer practical layouts in a central location."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 31 Noida",
+        "description": "6 Marla houses for rent in Sector 31 Noida provide a comfortable balance of space and affordability. Ideal for nuclear families, these homes offer good ventilation and peaceful surroundings."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 31 Noida",
+        "description": "An 8 Marla house for rent in Sector 31 Noida is preferred by families seeking extra living space and privacy. These houses usually include larger rooms and flexible interiors."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 31 Noida",
+        "description": "10 Marla independent houses for rent in Sector 31 Noida are suitable for large families and professionals who prefer spacious and premium rental living."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 31 Noida",
+        "description": "A 12 Marla house for rent in Sector 31 Noida offers ample open space, parking, and comfort, making it ideal for joint families."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 31 Noida",
+        "description": "14 Marla houses represent luxury independent rentals in Sector 31 Noida, offering expansive layouts, privacy, and a premium living experience."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 31 Noida",
+    "description": [
+      "Tenants looking for a house for rent in Sector 31 Noida often explore nearby sectors for more options.",
+      "These surrounding locations add further value to Sector 31’s central appeal."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 31 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 30 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 32 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near City Centre Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses near Metro Stations Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Family Houses in Central Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Rental Houses near Schools and Hospitals", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Houses near Commercial Hubs", "path": "/", "icon": "Landmark" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Houses in Sector 31 Noida",
+    "description": [
+      "Finding a house for rent in Sector 31 Noida requires reliable listings and transparent rental processes.",
+      "Deal Acres stands out as a trusted platform due to its accuracy, experience, and tenant-first approach."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "All houses are verified to ensure genuine availability and ownership clarity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear details on rent, deposits, and rental terms with no hidden charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 31 Noida rental trends and demand."
+      },
+      {
+        "title": "Wide Rental Choices",
+        "description": "Multiple house sizes and configurations to suit every tenant need."
+      },
+      {
+        "title": "Rental Agreement Support",
+        "description": "Assistance with documentation and legal formalities."
+      },
+      {
+        "title": "Personalized Property Matching",
+        "description": "Customized property recommendations based on preferences."
+      },
+      {
+        "title": "End-to-End Tenant Support",
+        "description": "Complete guidance from property search to move-in."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for transparency, reliability, and customer satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 31 Noida",
+    "description": "Clear and detailed answers to help tenants make confident rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 31 Noida a good area to rent a house?",
+        "answer": "Yes, Sector 31 Noida is centrally located, well-developed, and highly suitable for families and professionals."
+      },
+      {
+        "question": "What house sizes are available for rent in Sector 31 Noida?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are available depending on availability."
+      },
+      {
+        "question": "Is Sector 31 suitable for family living?",
+        "answer": "Yes, it offers parks, schools, hospitals, and a safe residential environment."
+      },
+      {
+        "question": "How is connectivity from Sector 31 Noida?",
+        "answer": "Sector 31 has excellent connectivity via metro stations and major city roads."
+      },
+      {
+        "question": "Are rental houses in Sector 31 safe?",
+        "answer": "The sector is considered safe with well-planned residential pockets."
+      },
+      {
+        "question": "What is the average rent in Sector 31 Noida?",
+        "answer": "Rental prices depend on house size, condition, and exact location."
+      },
+      {
+        "question": "Do landlords provide rental agreements?",
+        "answer": "Yes, proper rental agreements are standard practice."
+      },
+      {
+        "question": "Is Sector 31 suitable for working professionals?",
+        "answer": "Absolutely, due to its central location and excellent connectivity."
+      },
+      {
+        "question": "Why choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and expert assistance."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 31 Noida?",
+        "answer": "You can fill out the contact form on this page to connect with rental specialists."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Houses for Rent in Sector 31 Noida",
+    "description": [
+      "Finding the right house for rent in Sector 31 Noida is easier with professional support.",
+      "Share your contact details and requirements to connect with trusted rental experts and explore verified listings."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

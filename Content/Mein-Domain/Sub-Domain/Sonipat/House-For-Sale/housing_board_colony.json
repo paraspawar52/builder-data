@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforsale.com",
+  "hero": {
+    "title": "Trusted and Well Located Houses for Sale in Housing Board Colony Sonipat",
+    "description": [
+      "Housing Board Colony Sonipat is one of the most established and well-planned residential areas in the city, known for its organized layout, peaceful environment, and excellent connectivity. The locality is surrounded by schools, hospitals, local markets, banks, and public transport facilities, making daily life convenient for families and working professionals. Buyers searching for a house for sale in Housing Board Colony Sonipat usually prefer this area due to its central location, safe surroundings, and reliable civic infrastructure. Independent houses here cater to both end-users and long-term investors.",
+      "Choosing a house for sale in Housing Board Colony Sonipat is a wise decision for those seeking stable living and secure investment. The area has consistent residential demand, which supports good resale and rental potential. Houses are available in different Marla sizes, suitable for small families as well as joint families. With verified listings, transparent pricing, and professional assistance, Deal Acres helps buyers navigate the property market confidently, ensuring a smooth and trustworthy home-buying experience."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses in Housing Board Colony",
+        "path": "/"
+      },
+      {
+        "label": "Connect With Property Expert",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=900&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=900&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Marla Wise Houses for Sale Options in Housing Board Colony Sonipat",
+    "description": [
+      "Houses for sale in Housing Board Colony Sonipat are available in multiple Marla sizes to meet different family needs.",
+      "These options allow buyers to select homes based on budget, space, and long-term lifestyle goals."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Housing Board Colony Sonipat",
+        "description": "4 Marla houses are ideal for small families and first-time buyers looking for affordable homes in a prime location. These houses are easy to maintain and have steady rental demand due to the central positioning of Housing Board Colony."
+      },
+      {
+        "title": "6 Marla House for Sale in Housing Board Colony Sonipat",
+        "description": "6 Marla houses offer a good balance of space and affordability. They are suitable for nuclear families seeking independent living with proximity to daily amenities and public services."
+      },
+      {
+        "title": "8 Marla House for Sale in Housing Board Colony Sonipat",
+        "description": "8 Marla houses provide spacious layouts, better ventilation, and increased privacy. These homes are preferred by families planning long-term residence in a well-established area."
+      },
+      {
+        "title": "10 Marla House for Sale in Housing Board Colony Sonipat",
+        "description": "10 Marla houses fall under the premium residential segment, offering larger rooms, parking space, and enhanced living comfort for modern families."
+      },
+      {
+        "title": "12 Marla House for Sale in Housing Board Colony Sonipat",
+        "description": "12 Marla houses are suitable for joint families or buyers seeking expansive living spaces with flexibility for customization and renovation."
+      },
+      {
+        "title": "14 Marla House for Sale in Housing Board Colony Sonipat",
+        "description": "14 Marla houses represent high-value residential assets in Housing Board Colony Sonipat, offering luxury, space, and strong long-term appreciation potential."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Locations with Houses for Sale Around Housing Board Colony",
+    "description": [
+      "Buyers looking for houses for sale in Housing Board Colony Sonipat often compare nearby residential areas.",
+      "These surrounding localities also offer good connectivity and housing options."
+    ],
+    "locations": [
+      { "title": "House for Sale in Housing Board Colony Sonipat", "path": "/", "icon": "Map" },
+      { "title": "House for Sale in Sector 14 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "House for Sale in Sector 15 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "House for Sale in Sector 12 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Independent Houses in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Residential Houses in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Best Areas to Buy House in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Premium Houses in Sonipat", "path": "/", "icon": "Map" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Most Trusted Platform to Buy Houses",
+    "description": [
+      "Finding a house for sale in Housing Board Colony Sonipat becomes easy and secure with Deal Acres.",
+      "Deal Acres is trusted for verified listings, transparent processes, and customer-focused service."
+    ],
+    "points": [
+      {
+        "title": "Verified House Listings",
+        "description": "All houses are verified for ownership, approvals, and authenticity before listing."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Buyers receive accurate pricing insights without hidden charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Deep understanding of Housing Board Colony Sonipat ensures better property guidance."
+      },
+      {
+        "title": "Personalized Buyer Support",
+        "description": "Property recommendations are tailored to individual budgets and family needs."
+      },
+      {
+        "title": "Direct Owner Interaction",
+        "description": "Direct communication with owners builds trust and speeds up decisions."
+      },
+      {
+        "title": "Complete Legal Assistance",
+        "description": "Support with documentation, verification, and registration ensures smooth transactions."
+      },
+      {
+        "title": "Wide Range of Options",
+        "description": "Multiple Marla-size houses are available on a single platform."
+      },
+      {
+        "title": "Trusted Real Estate Brand",
+        "description": "Deal Acres is known for ethical practices and customer satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Sale in Housing Board Colony Sonipat",
+    "description": "These FAQs help buyers understand important aspects of purchasing a house in Housing Board Colony Sonipat.",
+    "faqs": [
+      {
+        "question": "Is Housing Board Colony Sonipat a good area to buy a house?",
+        "answer": "Yes, it is a well-established and centrally located residential area with stable demand."
+      },
+      {
+        "question": "What types of houses are available in Housing Board Colony?",
+        "answer": "Independent houses in various Marla sizes are commonly available."
+      },
+      {
+        "question": "Are affordable houses available here?",
+        "answer": "Yes, 4 Marla and 6 Marla houses are suitable for budget-conscious buyers."
+      },
+      {
+        "question": "Is the area suitable for family living?",
+        "answer": "Yes, the locality is peaceful, safe, and close to essential facilities."
+      },
+      {
+        "question": "Does Deal Acres verify house listings?",
+        "answer": "Yes, every listing is verified for legal and ownership clarity."
+      },
+      {
+        "question": "Can I get help with property registration?",
+        "answer": "Deal Acres provides complete assistance with documentation and registration."
+      },
+      {
+        "question": "Are premium houses available in this locality?",
+        "answer": "Yes, 10 Marla and above houses fall under the premium segment."
+      },
+      {
+        "question": "Is Housing Board Colony good for investment?",
+        "answer": "Yes, the area has consistent demand and good long-term appreciation potential."
+      },
+      {
+        "question": "Do houses here have good resale value?",
+        "answer": "Due to its central location, resale value remains strong."
+      },
+      {
+        "question": "How can I enquire about houses for sale in Housing Board Colony Sonipat?",
+        "answer": "You can fill out the enquiry form to connect with a verified property expert."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Assistance to Buy a House in Housing Board Colony Sonipat",
+    "description": [
+      "Buying the right house in Housing Board Colony Sonipat becomes simple with expert guidance.",
+      "Share your requirements to receive verified listings and personalized property assistance."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "houseSize", "message"]
+  }
+}

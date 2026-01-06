@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforsalecom",
+  "hero": {
+    "title": "Well Planned Residential Houses for Sale in Sector 40 Bahadurgarh",
+    "description": [
+      "Sector 40 Bahadurgarh is a fast-growing residential locality known for its organized layout, peaceful surroundings, and excellent connectivity to major parts of the city. The sector is well connected to main roads, public transport, and nearby commercial areas, making daily commuting smooth and convenient. Buyers searching for a house for sale in Sector 40 Bahadurgarh are attracted by its clean environment, availability of basic amenities, and family-friendly neighborhood.",
+      "Houses for sale in Sector 40 Bahadurgarh are suitable for both end users and investors looking for stable growth. The area is witnessing continuous infrastructure development, including better roads, utilities, and nearby markets. With increasing demand for independent houses and limited supply, Sector 40 offers strong future appreciation along with a comfortable lifestyle for families, professionals, and retirees."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses in Sector 40",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Home Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1599423300746-b62533397364?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Multiple House Size Options Available in Sector 40 Bahadurgarh",
+    "description": [
+      "Selecting the right house for sale in Sector 40 Bahadurgarh depends on your family size, lifestyle needs, and budget.",
+      "Sector 40 offers a wide range of house sizes to meet both affordable and premium housing requirements."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Sector 40 Bahadurgarh",
+        "description": "A 4 Marla house is ideal for small families seeking budget-friendly independent living with essential amenities nearby."
+      },
+      {
+        "title": "6 Marla House for Sale in Sector 40 Bahadurgarh",
+        "description": "6 Marla houses provide a balanced layout with comfortable rooms, ventilation, and practical design."
+      },
+      {
+        "title": "8 Marla House for Sale in Sector 40 Bahadurgarh",
+        "description": "An 8 Marla house offers additional living space, better frontage, and flexibility for modern home designs."
+      },
+      {
+        "title": "10 Marla House for Sale in Sector 40 Bahadurgarh",
+        "description": "10 Marla houses are suitable for families looking for spacious interiors, parking space, and privacy."
+      },
+      {
+        "title": "12 Marla House for Sale in Sector 40 Bahadurgarh",
+        "description": "A 12 Marla house supports premium living with ample open space and strong long-term value."
+      },
+      {
+        "title": "14 Marla House for Sale in Sector 40 Bahadurgarh",
+        "description": "14 Marla houses are premium options ideal for luxury living and high resale potential."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Residential Areas Around Sector 40 Bahadurgarh",
+    "description": [
+      "Homebuyers interested in a house for sale in Sector 40 Bahadurgarh often explore nearby sectors for comparison.",
+      "These surrounding localities further enhance the residential appeal of Sector 40."
+    ],
+    "locations": [
+      { "title": "House for Sale in Sector 40 Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 37 Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 36 Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Independent Houses in Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Ready to Move Houses in Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Affordable Houses in Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Family Homes in Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Residential Properties Near Delhi Border", "path": "/", "icon": "Home" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Preferred Platform for Buying Houses",
+    "description": [
+      "Buying a house for sale in Sector 40 Bahadurgarh requires verified information and professional guidance.",
+      "Deal Acres provides a transparent, secure, and customer-focused property buying experience."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All houses are thoroughly verified for ownership, approvals, and legal clarity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear and honest pricing without hidden charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 40 Bahadurgarh property trends."
+      },
+      {
+        "title": "Wide Range of House Options",
+        "description": "Multiple house sizes and budgets available at one place."
+      },
+      {
+        "title": "Legal and Documentation Support",
+        "description": "Complete assistance with registry, agreements, and paperwork."
+      },
+      {
+        "title": "Personalized Buyer Support",
+        "description": "Customized house recommendations based on buyer needs."
+      },
+      {
+        "title": "Smooth Buying Process",
+        "description": "End-to-end support from site visits to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Brand",
+        "description": "Deal Acres is known for transparency, reliability, and customer trust."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses in Sector 40 Bahadurgarh",
+    "description": "Detailed answers to common questions to help buyers make informed decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 40 Bahadurgarh a good place to buy a house?",
+        "answer": "Yes, Sector 40 is a developing and well-planned area with good connectivity and residential facilities."
+      },
+      {
+        "question": "What house sizes are available in Sector 40?",
+        "answer": "Houses from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Sector 40 suitable for families?",
+        "answer": "Yes, the area offers a peaceful environment with schools, markets, and healthcare nearby."
+      },
+      {
+        "question": "Does Sector 40 offer good investment potential?",
+        "answer": "Due to continuous development, property values in Sector 40 show steady appreciation."
+      },
+      {
+        "question": "Are the houses legally verified on Deal Acres?",
+        "answer": "Yes, all listed houses are verified for ownership and documentation."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 40?",
+        "answer": "Most houses are eligible for home loans, subject to bank approval."
+      },
+      {
+        "question": "How is connectivity from Sector 40?",
+        "answer": "Sector 40 is well connected to major roads and nearby city areas."
+      },
+      {
+        "question": "Are basic amenities available nearby?",
+        "answer": "Yes, daily needs like markets, schools, and hospitals are easily accessible."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres offers verified listings, expert guidance, and transparent transactions."
+      },
+      {
+        "question": "How can I contact a property expert?",
+        "answer": "Fill out the contact form on this page to connect with experienced consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Houses in Sector 40 Bahadurgarh",
+    "description": [
+      "Finding the right house for sale in Sector 40 Bahadurgarh becomes easy with professional guidance.",
+      "Share your requirements through the form and connect with trusted property experts today."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "message"]
+  }
+}

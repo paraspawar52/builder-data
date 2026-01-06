@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforrentcom",
+  "hero": {
+    "title": "Premium Independent Houses for Rent in Sector 93 Noida",
+    "description": [
+      "Sector 93 Noida is a well-planned and upscale residential locality located close to the Noida–Greater Noida Expressway. Known for its clean surroundings, organized infrastructure, and excellent connectivity, the sector is highly preferred by corporate professionals and families. People searching for a house for rent in Sector 93 Noida benefit from easy access to business parks, IT hubs, reputed schools, hospitals, and daily convenience markets, making everyday living smooth and time-efficient.",
+      "Houses for rent in Sector 93 Noida offer the advantage of independent living in a calm and secure environment. The sector features wide internal roads, green parks, and low-density residential pockets that ensure privacy and comfort. With its strategic location near commercial zones yet away from congestion, Sector 93 continues to attract tenants looking for a premium lifestyle, long-term stability, and excellent connectivity within Noida."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent in Sector 93",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Independent House Rental Size Options in Sector 93 Noida",
+    "description": [
+      "Choosing the right house for rent in Sector 93 Noida depends on your family size, lifestyle needs, and preference for premium surroundings.",
+      "The sector offers a wide range of independent house sizes suitable for small families as well as luxury tenants."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 93 Noida",
+        "description": "A 4 Marla house for rent in Sector 93 Noida is ideal for couples and small families seeking affordable independent living in a prime location. These homes are easy to maintain and well-connected to nearby offices and expressways."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 93 Noida",
+        "description": "6 Marla houses for rent in Sector 93 Noida offer a comfortable balance of space and budget. These houses are suitable for nuclear families and provide well-ventilated rooms with peaceful surroundings."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 93 Noida",
+        "description": "An 8 Marla house for rent in Sector 93 Noida is preferred by families looking for larger living areas and better privacy. These homes are ideal for long-term family living."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 93 Noida",
+        "description": "10 Marla independent houses for rent in Sector 93 Noida cater to larger families and senior professionals. These homes offer spacious interiors, multiple floors, and enhanced comfort."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 93 Noida",
+        "description": "A 12 Marla house for rent in Sector 93 Noida is suitable for joint families or tenants who value open spaces, privacy, and premium surroundings."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 93 Noida",
+        "description": "14 Marla houses represent luxury independent living in Sector 93 Noida. These homes feature expansive layouts and are preferred by tenants seeking an elite residential experience."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 93 Noida",
+    "description": [
+      "Tenants searching for a house for rent in Sector 93 Noida often explore nearby sectors to compare availability and rental options.",
+      "These surrounding locations strengthen Sector 93’s position as a premium residential rental hub."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 93 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 92 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 94 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 137 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses near Noida Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Rental Houses near Corporate Offices Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Family Houses in Central Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Premium Residential Houses in Noida", "path": "/", "icon": "Landmark" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Houses in Sector 93 Noida",
+    "description": [
+      "Finding a house for rent in Sector 93 Noida requires verified listings, transparent rental terms, and local market expertise.",
+      "Deal Acres is trusted by tenants for its ethical practices, verified properties, and customer-first approach."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "All houses are verified for ownership authenticity and genuine availability."
+      },
+      {
+        "title": "Transparent Rental Information",
+        "description": "Clear details on rent, deposit, and terms ensure confident decision-making."
+      },
+      {
+        "title": "Strong Local Expertise",
+        "description": "In-depth understanding of Sector 93 Noida rental trends and pricing."
+      },
+      {
+        "title": "Wide Choice of Properties",
+        "description": "Multiple independent house options to suit different budgets and family needs."
+      },
+      {
+        "title": "Rental Agreement Assistance",
+        "description": "Support with documentation and agreement formalities."
+      },
+      {
+        "title": "Personalized Property Matching",
+        "description": "Tailored recommendations based on lifestyle, location, and budget."
+      },
+      {
+        "title": "End-to-End Tenant Support",
+        "description": "Assistance from property search to final move-in."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for reliability, transparency, and tenant satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 93 Noida",
+    "description": "Detailed answers to common tenant queries to help you rent with confidence.",
+    "faqs": [
+      {
+        "question": "Is Sector 93 Noida a good area to rent a house?",
+        "answer": "Yes, Sector 93 Noida is a premium residential area with excellent connectivity, clean surroundings, and a peaceful environment."
+      },
+      {
+        "question": "What house sizes are available for rent in Sector 93 Noida?",
+        "answer": "Independent houses from 4 Marla to 14 Marla are available depending on availability."
+      },
+      {
+        "question": "Is Sector 93 suitable for family living?",
+        "answer": "Yes, the sector offers a calm environment, parks, and access to essential facilities, making it ideal for families."
+      },
+      {
+        "question": "How is connectivity from Sector 93 Noida?",
+        "answer": "Sector 93 enjoys excellent connectivity via the Noida–Greater Noida Expressway and internal road networks."
+      },
+      {
+        "question": "Are houses in Sector 93 safe for tenants?",
+        "answer": "Yes, Sector 93 is considered a safe and well-maintained residential locality."
+      },
+      {
+        "question": "What is the average rent in Sector 93 Noida?",
+        "answer": "Rental values depend on house size, condition, and location, with premium houses commanding higher rents."
+      },
+      {
+        "question": "Do landlords provide proper rental agreements?",
+        "answer": "Yes, proper rental agreements are standard practice, and Deal Acres assists with documentation."
+      },
+      {
+        "question": "Is Sector 93 suitable for working professionals?",
+        "answer": "Absolutely. Its proximity to IT hubs and expressway connectivity makes it convenient for professionals."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent details, expert guidance, and end-to-end rental support."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 93 Noida?",
+        "answer": "You can fill out the contact form on this page to connect with experienced rental consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Houses for Rent in Sector 93 Noida",
+    "description": [
+      "Finding the right house for rent in Sector 93 Noida becomes easy with professional support.",
+      "Share your details and rental requirements to connect with trusted experts and explore verified rental options with confidence."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

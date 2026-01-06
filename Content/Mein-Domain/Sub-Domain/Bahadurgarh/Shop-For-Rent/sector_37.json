@@ -1,0 +1,169 @@
+{
+  "domain": "Shopforrent.com",
+  "hero": {
+    "title": "Prime Location Shop for Rent in Sector 37 Bahadurgarh",
+    "description": [
+      "Sector 37 Bahadurgarh is emerging as a promising commercial and residential zone with planned development, wide roads, and a growing population base. The area is attracting shop owners and small businesses due to its proximity to nearby residential sectors, smooth internal connectivity, and improving civic infrastructure. People searching for a shop for rent in Sector 37 Bahadurgarh usually look for locations that offer steady footfall, affordable rent, and long-term business stability, all of which this sector delivers.",
+      "Shop for rent in Sector 37 Bahadurgarh is suitable for grocery stores, medical shops, salons, coaching centers, cafés, and service-based businesses. With increasing movement of residents and visitors, the sector provides good visibility and customer reach. Its developing nature allows business owners to enter early and benefit from future commercial growth, making Sector 37 a practical and growth-oriented choice for renting a shop."
+    ],
+    "buttons": [
+      {
+        "label": "Browse Shops for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Talk to Rental Expert",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=900&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1555529771-35a38fdd8d56?w=900&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Marla Wise Shop for Rent Options in Sector 37 Bahadurgarh",
+    "description": [
+      "Shop for rent in Sector 37 Bahadurgarh is available in different Marla sizes to suit various business requirements.",
+      "These options help shop owners select spaces based on budget, business type, and future expansion needs."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Shop for Rent in Sector 37 Bahadurgarh",
+        "description": "4 Marla shop for rent in Sector 37 Bahadurgarh is ideal for small retail outlets, convenience stores, and service counters serving nearby residents."
+      },
+      {
+        "title": "6 Marla Shop for Rent in Sector 37 Bahadurgarh",
+        "description": "6 Marla shop for rent in Sector 37 Bahadurgarh offers balanced space and frontage, suitable for clinics, offices, and medium-sized retail shops."
+      },
+      {
+        "title": "8 Marla Shop for Rent in Sector 37 Bahadurgarh",
+        "description": "8 Marla shop for rent in Sector 37 Bahadurgarh provides better layout flexibility, making it suitable for salons, showrooms, and food outlets."
+      },
+      {
+        "title": "10 Marla Shop for Rent in Sector 37 Bahadurgarh",
+        "description": "10 Marla shop for rent in Sector 37 Bahadurgarh is preferred by coaching centers, cafés, and businesses planning steady expansion."
+      },
+      {
+        "title": "12 Marla Shop for Rent in Sector 37 Bahadurgarh",
+        "description": "12 Marla shop for rent in Sector 37 Bahadurgarh is suitable for established businesses looking for visibility, comfort, and long-term operations."
+      },
+      {
+        "title": "14 Marla Shop for Rent in Sector 37 Bahadurgarh",
+        "description": "14 Marla shop for rent in Sector 37 Bahadurgarh offers large commercial space, ideal for franchise outlets and premium retail brands."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Shop for Rent Locations in Bahadurgarh",
+    "description": [
+      "Business owners looking for a shop for rent in Sector 37 Bahadurgarh often compare nearby sectors.",
+      "These surrounding areas also provide good commercial rental opportunities."
+    ],
+    "locations": [
+      { "title": "Shop for Rent in Sector 37 Bahadurgarh", "path": "/", "icon": "Store" },
+      { "title": "Shop for Rent in Sector 36 Bahadurgarh", "path": "/", "icon": "Store" },
+      { "title": "Shop for Rent in Sector 35 Bahadurgarh", "path": "/", "icon": "Store" },
+      { "title": "Shop for Rent in Sector 34 Bahadurgarh", "path": "/", "icon": "Store" },
+      { "title": "Shop for Rent in Sector 40 Bahadurgarh", "path": "/", "icon": "Store" },
+      { "title": "Commercial Shops for Rent in Bahadurgarh", "path": "/", "icon": "Store" },
+      { "title": "Retail Space for Rent in Bahadurgarh", "path": "/", "icon": "Store" },
+      { "title": "Market Shops for Rent in Bahadurgarh", "path": "/", "icon": "Store" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is Preferred for Renting Shops",
+    "description": [
+      "Finding the right shop for rent in Sector 37 Bahadurgarh requires trust, verified listings, and local market understanding.",
+      "Deal Acres simplifies shop renting by focusing on transparency and user convenience."
+    ],
+    "points": [
+      {
+        "title": "Verified Shop Listings",
+        "description": "Every shop listing is checked for authenticity and basic ownership details."
+      },
+      {
+        "title": "Strong Local Market Knowledge",
+        "description": "Deep understanding of Sector 37 commercial rental trends."
+      },
+      {
+        "title": "Business-Oriented Recommendations",
+        "description": "Shop options suggested based on business type and space needs."
+      },
+      {
+        "title": "Transparent Rental Information",
+        "description": "Clear details on rent, security deposit, and agreement terms."
+      },
+      {
+        "title": "Direct Owner Connect",
+        "description": "Helps reduce brokerage and speeds up deal finalization."
+      },
+      {
+        "title": "Documentation Assistance",
+        "description": "Support with rent agreements and basic legal paperwork."
+      },
+      {
+        "title": "Growth-Focused Locations",
+        "description": "Focus on sectors with rising commercial demand."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for reliability and customer satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Shop for Rent in Sector 37",
+    "description": "Helpful answers to common questions for shop tenants.",
+    "faqs": [
+      {
+        "question": "Is Sector 37 Bahadurgarh suitable for renting a shop?",
+        "answer": "Yes, Sector 37 is a developing area with growing residential population and good future commercial potential."
+      },
+      {
+        "question": "What businesses can run in Sector 37?",
+        "answer": "Grocery stores, medical shops, salons, coaching centers, and cafés are suitable."
+      },
+      {
+        "question": "Which Marla size is best for new businesses?",
+        "answer": "4 to 6 Marla shops are usually ideal for startups and small businesses."
+      },
+      {
+        "question": "Are shop rents affordable in Sector 37?",
+        "answer": "Yes, rental prices are reasonable compared to fully developed commercial sectors."
+      },
+      {
+        "question": "Is parking available near shops?",
+        "answer": "Parking availability depends on the specific market and road width."
+      },
+      {
+        "question": "Does Deal Acres verify shop listings?",
+        "answer": "Yes, listings are verified to ensure transparency and trust."
+      },
+      {
+        "question": "Can I take a shop on long-term rent?",
+        "answer": "Yes, many owners prefer tenants looking for long-term business setup."
+      },
+      {
+        "question": "Is Sector 37 well connected?",
+        "answer": "Yes, the sector is well connected to nearby sectors and main roads."
+      },
+      {
+        "question": "Do I need permission to start a shop?",
+        "answer": "Permissions depend on business type and local regulations."
+      },
+      {
+        "question": "How can I enquire about shops for rent in Sector 37?",
+        "answer": "You can fill out the enquiry form to connect with a shop rental expert."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Shop for Rent in Sector 37 Bahadurgarh",
+    "description": [
+      "Finding the right shop for rent in Sector 37 Bahadurgarh becomes simple with expert guidance.",
+      "Share your business requirements to receive verified listings and personalized support."
+    ],
+    "formFields": ["name", "phone", "email", "businessType", "budget", "message"]
+  }
+}

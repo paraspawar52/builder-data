@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforsalecom",
+
+  "hero": {
+    "title": "Modern Independent Houses for Sale in Sector 143 Noida",
+    "description": [
+      "Sector 143 Noida is a rapidly developing residential and commercial locality located along the Noida–Greater Noida Expressway. Buyers searching for a house for sale in Sector 143 Noida are attracted by its strategic location near major IT parks, corporate offices, and seamless connectivity to Delhi, South Noida, and Greater Noida. The sector is surrounded by wide roads, planned infrastructure, green belts, and essential social amenities such as schools, hospitals, shopping areas, and recreational spaces, making it suitable for modern urban living.",
+      "Houses for sale in Sector 143 Noida offer the benefit of independent living in a well-connected and future-ready area. With continuous infrastructure upgrades and increasing residential demand from working professionals, the sector shows strong potential for property appreciation. Whether you are buying a house for self-use or as a long-term investment, Sector 143 Noida provides a balanced mix of lifestyle convenience, accessibility, and growth prospects."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses in Sector 143",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Independent House Size Options Available in Sector 143 Noida",
+    "description": [
+      "Selecting the right house size in Sector 143 Noida depends on your family requirements, budget, and long-term plans.",
+      "The sector offers multiple independent house configurations suitable for both residential living and investment."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Sector 143 Noida",
+        "description": "A 4 Marla house for sale in Sector 143 Noida is suitable for small families and first-time buyers looking for affordable independent living. These homes are easy to maintain and benefit from proximity to offices, expressway connectivity, and daily convenience facilities."
+      },
+      {
+        "title": "6 Marla House for Sale in Sector 143 Noida",
+        "description": "6 Marla houses in Sector 143 Noida provide a balanced layout with sufficient living space, parking, and ventilation. These houses are ideal for nuclear families seeking comfort along with steady long-term appreciation."
+      },
+      {
+        "title": "8 Marla House for Sale in Sector 143 Noida",
+        "description": "An 8 Marla house for sale in Sector 143 Noida is preferred by families who want more space and privacy. These homes allow flexible interior planning and are suitable for comfortable long-term living."
+      },
+      {
+        "title": "10 Marla House for Sale in Sector 143 Noida",
+        "description": "10 Marla independent houses in Sector 143 Noida offer spacious layouts and premium living comfort. These properties support customization and future expansion, making them ideal for growing families."
+      },
+      {
+        "title": "12 Marla House for Sale in Sector 143 Noida",
+        "description": "A 12 Marla house in Sector 143 Noida caters to buyers who value larger living areas, privacy, and a better lifestyle. These houses often include multiple parking spaces and enhanced architectural features."
+      },
+      {
+        "title": "14 Marla House for Sale in Sector 143 Noida",
+        "description": "14 Marla houses represent premium independent living in Sector 143 Noida. Designed for large families, these homes offer exclusivity, ample space, and strong appreciation potential due to limited availability."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Sale Near Sector 143 Noida",
+    "description": [
+      "Buyers looking for a house for sale in Sector 143 Noida often explore nearby sectors to evaluate pricing, connectivity, and amenities.",
+      "These surrounding areas further strengthen Sector 143’s position as a preferred residential location."
+    ],
+    "locations": [
+      { "title": "House for Sale in Sector 143 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale in Sector 137 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale in Sector 144 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale in Sector 142 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses near Noida Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Houses near IT Hubs", "path": "/", "icon": "Landmark" },
+      { "title": "Family Homes in South Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Modern Houses in Developing Noida Sectors", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Houses in Sector 143 Noida",
+    "description": [
+      "Buying a house for sale in Sector 143 Noida requires verified listings, transparent pricing, and strong local market understanding.",
+      "Deal Acres is trusted by buyers for its ethical practices and customer-first real estate services."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All properties are thoroughly checked for ownership, approvals, and legal clarity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing policies with no hidden charges ensure buyer confidence."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Deep knowledge of Sector 143 Noida property trends and buyer demand."
+      },
+      {
+        "title": "Wide Range of House Options",
+        "description": "Multiple house sizes available to suit different budgets and preferences."
+      },
+      {
+        "title": "Complete Legal Support",
+        "description": "Assistance with documentation, agreements, and registration process."
+      },
+      {
+        "title": "Personalized Property Guidance",
+        "description": "Tailored advice based on lifestyle needs and investment goals."
+      },
+      {
+        "title": "End-to-End Buying Assistance",
+        "description": "Support from property search to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for reliability, transparency, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Sale in Sector 143 Noida",
+    "description": "Helpful answers to common questions to guide buyers confidently.",
+    "faqs": [
+      {
+        "question": "Is Sector 143 Noida a good area to buy a house?",
+        "answer": "Yes, Sector 143 Noida is a fast-developing area with strong connectivity, modern infrastructure, and high residential demand."
+      },
+      {
+        "question": "What house sizes are available in Sector 143 Noida?",
+        "answer": "Independent houses are generally available from 4 Marla to 14 Marla, depending on listings."
+      },
+      {
+        "question": "Is Sector 143 suitable for family living?",
+        "answer": "Yes, the sector offers schools, hospitals, green spaces, and a well-planned residential environment."
+      },
+      {
+        "question": "How is connectivity from Sector 143 Noida?",
+        "answer": "Sector 143 has excellent connectivity via the Noida–Greater Noida Expressway and major city roads."
+      },
+      {
+        "question": "Are houses in Sector 143 legally approved?",
+        "answer": "Most properties are approved, and Deal Acres assists buyers with full legal verification."
+      },
+      {
+        "question": "Is buying a house in Sector 143 a good investment?",
+        "answer": "Yes, proximity to IT hubs and expressway connectivity support strong appreciation potential."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 143 Noida?",
+        "answer": "Yes, major banks and financial institutions provide home loans for eligible properties."
+      },
+      {
+        "question": "What amenities are available near Sector 143 Noida?",
+        "answer": "The area offers offices, schools, hospitals, shopping centers, parks, and daily conveniences."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, and complete buying assistance."
+      },
+      {
+        "question": "How can I contact property experts for Sector 143?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Houses for Sale in Sector 143 Noida",
+    "description": [
+      "Finding the right house for sale in Sector 143 Noida becomes easy with professional support.",
+      "Share your details to connect with trusted real estate experts and explore verified housing options confidently."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

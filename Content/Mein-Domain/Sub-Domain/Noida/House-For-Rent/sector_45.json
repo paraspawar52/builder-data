@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforrentcom",
+  "hero": {
+    "title": "Centrally Located Independent Houses for Rent in Sector 45 Noida",
+    "description": [
+      "Sector 45 Noida is a well-established and centrally positioned residential locality, highly preferred by families and working professionals. Located close to Noida City Centre, major arterial roads, and metro connectivity, the sector ensures easy access to Delhi and other prominent parts of Noida. Tenants searching for a house for rent in Sector 45 Noida are attracted by the availability of schools, hospitals, shopping malls, local markets, and recreational parks within close reach, making everyday living comfortable and time-efficient.",
+      "Houses for rent in Sector 45 Noida offer the advantage of independent living in a mature and peaceful neighborhood. The sector is known for its organized layout, wide internal roads, green surroundings, and reliable civic amenities. Despite its central location, Sector 45 maintains a calm residential environment suitable for long-term family living. With consistent rental demand and excellent infrastructure, Sector 45 remains a dependable choice for tenants seeking comfort, connectivity, and stability in Noida."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent in Sector 45",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Independent House Rental Size Options in Sector 45 Noida",
+    "description": [
+      "Choosing the right house for rent in Sector 45 Noida depends on your family size, lifestyle preferences, and rental budget.",
+      "The sector offers a wide range of independent house sizes suitable for individuals, families, and premium tenants."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 45 Noida",
+        "description": "A 4 Marla house for rent in Sector 45 Noida is ideal for couples, bachelors, or small families. These homes are easy to maintain, affordable, and offer functional layouts with essential amenities. Their proximity to metro stations and local markets adds to daily convenience."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 45 Noida",
+        "description": "6 Marla houses for rent in Sector 45 Noida provide a comfortable balance between space and affordability. Suitable for nuclear families, these homes feature well-ventilated rooms, parking space, and a peaceful residential environment."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 45 Noida",
+        "description": "An 8 Marla house for rent in Sector 45 Noida is preferred by families seeking extra space and privacy. These houses usually include larger living areas, balconies, and flexible interiors for long-term family living."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 45 Noida",
+        "description": "10 Marla independent houses for rent in Sector 45 Noida cater to large families and senior professionals. These homes offer spacious interiors, multiple floors, and enhanced comfort, making them premium rental options."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 45 Noida",
+        "description": "A 12 Marla house for rent in Sector 45 Noida is suitable for joint families or tenants who value open spaces and comfort. These houses often include servant rooms, ample parking, and a calm residential setting."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 45 Noida",
+        "description": "14 Marla houses represent luxury independent living in Sector 45 Noida. With expansive layouts, quality construction, and superior privacy, these homes are ideal for tenants seeking upscale rental residences."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 45 Noida",
+    "description": [
+      "Tenants searching for a house for rent in Sector 45 Noida often explore nearby sectors for better options and rental comparisons.",
+      "These surrounding areas further strengthen Sector 45’s appeal as a centrally located and well-connected rental hub in Noida."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 45 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 44 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 46 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near City Centre Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses near Metro Stations Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Rental Houses near Commercial Hubs Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Family Houses in Central Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Houses near Schools and Hospitals Noida", "path": "/", "icon": "Landmark" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Houses in Sector 45 Noida",
+    "description": [
+      "Finding a house for rent in Sector 45 Noida requires verified listings, transparent rental terms, and reliable local guidance.",
+      "Deal Acres has built strong tenant trust by delivering accuracy, market expertise, and a customer-first rental experience."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "All houses are verified for ownership clarity and genuine rental availability."
+      },
+      {
+        "title": "Transparent Rental Pricing",
+        "description": "Clear rent and deposit details help tenants make confident decisions."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth understanding of Sector 45 Noida rental trends and pricing."
+      },
+      {
+        "title": "Wide Range of Rental Options",
+        "description": "Multiple house sizes and layouts to suit diverse family needs."
+      },
+      {
+        "title": "Rental Agreement Assistance",
+        "description": "Support with documentation and legal formalities for smooth renting."
+      },
+      {
+        "title": "Personalized Property Recommendations",
+        "description": "Tailored suggestions based on budget, location, and lifestyle preferences."
+      },
+      {
+        "title": "End-to-End Tenant Support",
+        "description": "Complete assistance from property search to final move-in."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for transparency, reliability, and tenant satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 45 Noida",
+    "description": "Comprehensive answers to common tenant questions to help you make informed rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 45 Noida a good area to rent a house?",
+        "answer": "Yes, Sector 45 Noida is a prime residential area with central location, metro connectivity, and access to all daily amenities."
+      },
+      {
+        "question": "What house sizes are available for rent in Sector 45 Noida?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are available depending on availability and exact location."
+      },
+      {
+        "question": "Is Sector 45 suitable for family living?",
+        "answer": "Yes, the sector offers parks, reputed schools, hospitals, and a safe residential environment ideal for families."
+      },
+      {
+        "question": "How is connectivity from Sector 45 Noida?",
+        "answer": "Sector 45 enjoys excellent connectivity via nearby metro stations and major road networks across Noida and Delhi."
+      },
+      {
+        "question": "Are rental houses in Sector 45 safe?",
+        "answer": "Most residential areas in Sector 45 are well-planned, gated, and considered safe for families and professionals."
+      },
+      {
+        "question": "What is the average rent in Sector 45 Noida?",
+        "answer": "Rental prices vary based on house size, condition, and location, with larger houses commanding higher rents."
+      },
+      {
+        "question": "Do landlords provide proper rental agreements?",
+        "answer": "Yes, proper rental agreements are standard practice, and Deal Acres assists tenants with documentation."
+      },
+      {
+        "question": "Is Sector 45 suitable for working professionals?",
+        "answer": "Absolutely. Its central location and connectivity make it ideal for professionals working across Noida and Delhi."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, local expertise, and complete rental support."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 45 Noida?",
+        "answer": "You can fill out the contact form on this page to connect with experienced rental consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Houses for Rent in Sector 45 Noida",
+    "description": [
+      "Finding the right house for rent in Sector 45 Noida becomes easy with professional guidance.",
+      "Share your contact details and rental requirements to connect with trusted experts and explore verified rental listings with confidence."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

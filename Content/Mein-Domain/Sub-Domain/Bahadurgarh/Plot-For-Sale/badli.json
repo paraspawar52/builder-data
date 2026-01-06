@@ -1,0 +1,169 @@
+{
+  "domain": "Plotforsale.com",
+  "hero": {
+    "title": "Residential and Investment Plots for Sale in Badli Bahadurgarh",
+    "description": [
+      "Badli Bahadurgarh is an emerging residential locality known for its peaceful environment, improving infrastructure, and affordable land options. The area attracts homebuyers and investors who are looking for secure plot ownership at reasonable prices with future growth prospects. People searching for a plot for sale in Badli Bahadurgarh usually prefer this location due to its connectivity to nearby sectors, availability of basic amenities, and scope for planned residential development.",
+      "Plot for sale in Badli Bahadurgarh offers a practical opportunity for buyers planning to build independent homes or invest in land for long-term appreciation. With gradual urban expansion, better road connectivity, and increasing residential demand, Badli is becoming a reliable choice for plot buyers. The locality supports comfortable living while also offering good potential returns, making it suitable for both self-use and investment purposes."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Available Plots",
+        "path": "/"
+      },
+      {
+        "label": "Consult Property Expert",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=900&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1592595896616-c37162298647?w=900&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Marla Wise Plot for Sale Options in Badli Bahadurgarh",
+    "description": [
+      "Plot for sale in Badli Bahadurgarh is available in multiple Marla sizes to suit different residential needs and budgets.",
+      "These options allow buyers to choose plots based on construction plans, family requirements, and future investment goals."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot for Sale in Badli Bahadurgarh",
+        "description": "4 Marla plot for sale in Badli Bahadurgarh is ideal for buyers planning compact homes or affordable residential construction in a calm locality."
+      },
+      {
+        "title": "6 Marla Plot for Sale in Badli Bahadurgarh",
+        "description": "6 Marla plot for sale in Badli Bahadurgarh offers balanced space suitable for standard family homes with efficient layouts."
+      },
+      {
+        "title": "8 Marla Plot for Sale in Badli Bahadurgarh",
+        "description": "8 Marla plot for sale in Badli Bahadurgarh provides additional space for better ventilation, parking, and modern home designs."
+      },
+      {
+        "title": "10 Marla Plot for Sale in Badli Bahadurgarh",
+        "description": "10 Marla plot for sale in Badli Bahadurgarh is preferred by buyers planning spacious independent houses with comfort and privacy."
+      },
+      {
+        "title": "12 Marla Plot for Sale in Badli Bahadurgarh",
+        "description": "12 Marla plot for sale in Badli Bahadurgarh is suitable for premium residential construction and long-term family living."
+      },
+      {
+        "title": "14 Marla Plot for Sale in Badli Bahadurgarh",
+        "description": "14 Marla plot for sale in Badli Bahadurgarh is ideal for luxury homes or buyers looking for high-value land investment."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Plot for Sale Locations in Bahadurgarh",
+    "description": [
+      "Buyers looking for a plot for sale in Badli Bahadurgarh often compare nearby localities to find the best option.",
+      "These surrounding areas also provide promising residential and investment opportunities."
+    ],
+    "locations": [
+      { "title": "Plot for Sale in Badli Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Plot for Sale in Sector 6 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Plot for Sale in Sector 9 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Plot for Sale in Sector 15 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Plot for Sale on Delhi Rohtak Highway", "path": "/", "icon": "Map" },
+      { "title": "Residential Plots in Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Approved Plots in Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Investment Plots in Bahadurgarh", "path": "/", "icon": "Map" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Trusted Choice for Plot Buyers",
+    "description": [
+      "Buying a plot for sale in Badli Bahadurgarh requires transparency, verification, and expert support.",
+      "Deal Acres simplifies the plot buying journey with reliable listings and end-to-end assistance."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are checked for ownership authenticity and basic legal clarity."
+      },
+      {
+        "title": "Transparent Pricing Information",
+        "description": "Clear pricing helps buyers plan budgets confidently."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Badli Bahadurgarh land trends and growth potential."
+      },
+      {
+        "title": "Buyer-Centric Guidance",
+        "description": "Plot recommendations based on budget, size, and future plans."
+      },
+      {
+        "title": "Direct Owner Connectivity",
+        "description": "Helps buyers connect directly with genuine plot owners."
+      },
+      {
+        "title": "Documentation and Registry Support",
+        "description": "Assistance provided throughout the legal and registry process."
+      },
+      {
+        "title": "Investment-Focused Options",
+        "description": "Plots selected with appreciation and long-term value in mind."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for reliability and customer satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plot for Sale in Badli",
+    "description": "Common buyer questions answered to help you make informed decisions.",
+    "faqs": [
+      {
+        "question": "Is Badli Bahadurgarh a good location to buy a plot?",
+        "answer": "Yes, Badli offers affordable land prices, improving infrastructure, and good future growth potential."
+      },
+      {
+        "question": "Are plots in Badli suitable for home construction?",
+        "answer": "Yes, most plots are suitable for residential construction, subject to approvals."
+      },
+      {
+        "question": "Which plot size is best for a small family?",
+        "answer": "4 to 6 Marla plots are generally suitable for small families."
+      },
+      {
+        "question": "Is Badli good for long-term investment?",
+        "answer": "Yes, due to gradual development and rising demand, Badli is suitable for long-term land investment."
+      },
+      {
+        "question": "Are basic amenities available nearby?",
+        "answer": "Yes, essential facilities like markets, schools, and healthcare are accessible from Badli."
+      },
+      {
+        "question": "Does Deal Acres verify plot listings?",
+        "answer": "Yes, Deal Acres focuses on verified and genuine plot listings."
+      },
+      {
+        "question": "Can I get a home loan for buying a plot?",
+        "answer": "Loan availability depends on plot approval status and bank policies."
+      },
+      {
+        "question": "Are corner plots available in Badli?",
+        "answer": "Availability depends on current listings and market supply."
+      },
+      {
+        "question": "Is registry assistance provided?",
+        "answer": "Yes, full support is provided for documentation and registry."
+      },
+      {
+        "question": "How can I enquire about plots in Badli?",
+        "answer": "You can fill out the enquiry form to connect with a property expert."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Plot for Sale in Badli Bahadurgarh",
+    "description": [
+      "Finding the right plot in Badli Bahadurgarh becomes easier with expert assistance.",
+      "Share your requirements to receive verified listings and personalized guidance."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "plotSize", "message"]
+  }
+}

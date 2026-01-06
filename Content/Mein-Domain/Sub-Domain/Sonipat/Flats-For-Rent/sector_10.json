@@ -1,0 +1,169 @@
+{
+  "domain": "Flatsforrent.com",
+  "hero": {
+    "title": "Affordable and Centrally Located Flats for Rent in Sector 10 Sonipat",
+    "description": [
+      "Sector 10 Sonipat is one of the well-established and centrally located residential areas in the city, known for its organized infrastructure and easy access to daily necessities. The locality is surrounded by schools, hospitals, local markets, banks, parks, and public transport facilities, making everyday living convenient for residents. Due to its prime location and strong residential appeal, flats for rent in Sector 10 Sonipat are highly preferred by families, working professionals, and senior citizens.",
+      "Choosing flats for rent in Sector 10 Sonipat ensures a comfortable lifestyle with excellent connectivity and a safe neighborhood. The area offers flats in multiple Marla sizes, catering to different space requirements and rental budgets. With a mature residential community, well-maintained surroundings, and steady rental demand, Sector 10 continues to be a reliable choice for tenants. Deal Acres makes it easier to find verified flats for rent in Sector 10 Sonipat through transparent listings, trusted owners, and professional rental assistance."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Flats for Rent in Sector 10",
+        "path": "/"
+      },
+      {
+        "label": "Connect With Rental Expert",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=900&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600585154084-4e5fe7c39198?w=900&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Marla Wise Flats for Rent Options in Sector 10 Sonipat",
+    "description": [
+      "Flats for rent in Sector 10 Sonipat are available in various Marla sizes to suit different tenant needs.",
+      "These Marla-wise flat options help tenants select homes based on budget, space, and lifestyle preferences."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Flats for Rent in Sector 10 Sonipat",
+        "description": "4 Marla flats are ideal for bachelors, couples, and small families looking for affordable and low-maintenance rental homes."
+      },
+      {
+        "title": "6 Marla Flats for Rent in Sector 10 Sonipat",
+        "description": "6 Marla flats offer a good balance of space and affordability, making them suitable for nuclear families."
+      },
+      {
+        "title": "8 Marla Flats for Rent in Sector 10 Sonipat",
+        "description": "8 Marla flats provide spacious layouts, better ventilation, and added comfort for long-term tenants."
+      },
+      {
+        "title": "10 Marla Flats for Rent in Sector 10 Sonipat",
+        "description": "10 Marla flats fall under the premium rental segment, offering larger rooms and enhanced living comfort."
+      },
+      {
+        "title": "12 Marla Flats for Rent in Sector 10 Sonipat",
+        "description": "12 Marla flats are suitable for joint families or tenants who prefer expansive living spaces."
+      },
+      {
+        "title": "14 Marla Flats for Rent in Sector 10 Sonipat",
+        "description": "14 Marla flats represent high-end rental options with superior space, privacy, and premium amenities."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Areas with Flats for Rent Around Sector 10",
+    "description": [
+      "Tenants looking for flats for rent in Sector 10 Sonipat often explore nearby sectors for comparison.",
+      "These surrounding areas also offer strong residential infrastructure and good connectivity."
+    ],
+    "locations": [
+      { "title": "Flats for Rent in Sector 10 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Sector 12 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Sector 14 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Sector 15 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Residential Flats for Rent in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Affordable Flats for Rent in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Best Areas to Rent Flats in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Premium Rental Flats in Sonipat", "path": "/", "icon": "Map" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Most Trusted Platform for Renting Flats",
+    "description": [
+      "Finding flats for rent in Sector 10 Sonipat becomes simple and stress-free with Deal Acres.",
+      "Deal Acres is trusted by tenants for verified listings, transparent processes, and customer-first service."
+    ],
+    "points": [
+      {
+        "title": "Verified Flat Listings",
+        "description": "All flats are verified for ownership and legal authenticity before being listed."
+      },
+      {
+        "title": "Transparent Rental Pricing",
+        "description": "Clear and honest rental details are shared with no hidden charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong knowledge of Sector 10 Sonipat helps tenants make informed decisions."
+      },
+      {
+        "title": "Personalized Tenant Support",
+        "description": "Property suggestions are tailored to budget, family size, and lifestyle needs."
+      },
+      {
+        "title": "Direct Owner Communication",
+        "description": "Tenants can communicate directly with property owners for quicker decisions."
+      },
+      {
+        "title": "Complete Rental Assistance",
+        "description": "Support with visits, negotiation, and documentation ensures a smooth rental process."
+      },
+      {
+        "title": "Wide Range of Options",
+        "description": "Multiple Marla-size flats are available on a single trusted platform."
+      },
+      {
+        "title": "Highly Trusted Real Estate Brand",
+        "description": "Deal Acres is known for ethical practices and high tenant satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Flats for Rent in Sector 10 Sonipat",
+    "description": "These FAQs help tenants understand important aspects of renting flats in Sector 10 Sonipat.",
+    "faqs": [
+      {
+        "question": "Is Sector 10 Sonipat a good area to rent a flat?",
+        "answer": "Yes, Sector 10 is a centrally located and well-developed area with excellent amenities and connectivity."
+      },
+      {
+        "question": "What flat sizes are available for rent in Sector 10 Sonipat?",
+        "answer": "Flats are generally available from 4 Marla to 14 Marla, depending on availability and budget."
+      },
+      {
+        "question": "Are flats in Sector 10 suitable for families?",
+        "answer": "Yes, the locality is safe, peaceful, and ideal for family living."
+      },
+      {
+        "question": "Are affordable flats available in Sector 10 Sonipat?",
+        "answer": "Yes, 4 Marla and 6 Marla flats are budget-friendly rental options."
+      },
+      {
+        "question": "Is parking available with rental flats?",
+        "answer": "Most flats provide dedicated or shared parking facilities."
+      },
+      {
+        "question": "Is Sector 10 suitable for long-term renting?",
+        "answer": "Yes, due to its stability and central location, it is ideal for long-term tenants."
+      },
+      {
+        "question": "Does Deal Acres verify flat listings?",
+        "answer": "Yes, every listing on Deal Acres is verified for legal and ownership clarity."
+      },
+      {
+        "question": "Can working professionals rent flats in Sector 10?",
+        "answer": "Yes, excellent road connectivity makes commuting easy for professionals."
+      },
+      {
+        "question": "Are premium flats available in Sector 10 Sonipat?",
+        "answer": "Yes, 10 Marla and above flats fall under the premium rental category."
+      },
+      {
+        "question": "How can I enquire about flats for rent in Sector 10 Sonipat?",
+        "answer": "You can fill out the enquiry form on Deal Acres to connect with a verified rental expert."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help to Find the Right Rental Flat",
+    "description": [
+      "Finding the perfect flat for rent in Sector 10 Sonipat is easy with expert assistance.",
+      "Share your requirements to receive verified listings and personalized rental support."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "flatSize", "message"]
+  }
+}

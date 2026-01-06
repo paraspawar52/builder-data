@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforsalecom",
+  "hero": {
+    "title": "Premium Independent Houses for Sale in Sector 94 Noida",
+    "description": [
+      "Sector 94 Noida is one of the most premium and strategically located residential sectors in the city, positioned close to South Delhi and the DND Flyway. Buyers searching for a house for sale in Sector 94 Noida are attracted by its excellent connectivity to Delhi, Noida Expressway, and major business districts. The sector is surrounded by high-end residential developments, IT hubs, luxury hotels, and well-planned infrastructure, making it a preferred choice for professionals and families seeking upscale living.",
+      "Houses for sale in Sector 94 Noida offer the advantage of independent living in a modern and rapidly developing neighborhood. With proximity to top schools, hospitals, corporate offices, and lifestyle amenities, the sector ensures convenience along with long-term value. Limited availability of independent houses further increases demand, making Sector 94 a strong option for both self-use and investment."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses in Sector 94",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Independent House Size Options Available in Sector 94 Noida",
+    "description": [
+      "Choosing the right house size in Sector 94 Noida depends on lifestyle preferences, family size, and long-term plans.",
+      "The sector offers multiple independent house configurations suitable for premium living and investment."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Sector 94 Noida",
+        "description": "A 4 Marla house for sale in Sector 94 Noida is ideal for buyers seeking compact independent living in a premium location. These homes are easy to maintain and benefit from the sector’s strategic positioning near business hubs, ensuring steady rental demand and good resale value."
+      },
+      {
+        "title": "6 Marla House for Sale in Sector 94 Noida",
+        "description": "6 Marla houses in Sector 94 Noida offer a comfortable balance of space and affordability. These homes usually include well-designed living areas, parking space, and modern layouts, making them suitable for nuclear families and professionals."
+      },
+      {
+        "title": "8 Marla House for Sale in Sector 94 Noida",
+        "description": "An 8 Marla house for sale in Sector 94 Noida is preferred by families looking for larger interiors and better privacy. These properties allow flexible design options and are well-suited for modern urban lifestyles."
+      },
+      {
+        "title": "10 Marla House for Sale in Sector 94 Noida",
+        "description": "10 Marla independent houses in Sector 94 Noida cater to buyers seeking spacious living with premium comfort. Limited availability and high demand make these homes valuable for long-term appreciation."
+      },
+      {
+        "title": "12 Marla House for Sale in Sector 94 Noida",
+        "description": "A 12 Marla house in Sector 94 Noida is ideal for buyers who value expansive living spaces, privacy, and exclusivity. These homes often feature larger balconies, servant areas, and ample parking."
+      },
+      {
+        "title": "14 Marla House for Sale in Sector 94 Noida",
+        "description": "14 Marla houses represent luxury independent living in Sector 94 Noida. With generous plot sizes and premium surroundings, these properties are highly sought after for elite residential living and investment."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Houses for Sale Near Sector 94 Noida",
+    "description": [
+      "Buyers exploring a house for sale in Sector 94 Noida often compare nearby premium sectors to evaluate pricing and connectivity.",
+      "These surrounding locations further enhance Sector 94’s appeal as a prime residential destination."
+    ],
+    "locations": [
+      { "title": "House for Sale in Sector 94 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale in Sector 93 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale in Sector 137 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses near Noida Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Houses near DND Flyway", "path": "/", "icon": "Landmark" },
+      { "title": "Family Homes near South Delhi", "path": "/", "icon": "Landmark" },
+      { "title": "Premium Houses in Central Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Luxury Homes near IT Hubs Noida", "path": "/", "icon": "Landmark" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Houses in Sector 94 Noida",
+    "description": [
+      "Buying a house for sale in Sector 94 Noida requires verified listings, clear pricing, and professional guidance.",
+      "Deal Acres has built strong buyer trust through transparency, expertise, and customer-centric services."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All properties are thoroughly verified for ownership and legal clarity."
+      },
+      {
+        "title": "Transparent Pricing Structure",
+        "description": "No hidden charges, ensuring complete pricing transparency."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth understanding of Sector 94 Noida property trends."
+      },
+      {
+        "title": "Wide Property Options",
+        "description": "Multiple house sizes to suit different budgets and preferences."
+      },
+      {
+        "title": "Legal and Documentation Support",
+        "description": "End-to-end assistance with paperwork and registration."
+      },
+      {
+        "title": "Personalized Buying Guidance",
+        "description": "Advice tailored to lifestyle needs and investment goals."
+      },
+      {
+        "title": "End-to-End Transaction Support",
+        "description": "Complete assistance from property shortlisting to possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for reliability, transparency, and customer satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Sale in Sector 94 Noida",
+    "description": "Detailed answers to help buyers make informed property decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 94 Noida a good area to buy a house?",
+        "answer": "Yes, Sector 94 Noida is a premium residential area with excellent connectivity, modern infrastructure, and strong investment potential."
+      },
+      {
+        "question": "What house sizes are available in Sector 94 Noida?",
+        "answer": "Independent houses are typically available from 4 Marla to 14 Marla, subject to availability."
+      },
+      {
+        "question": "Is Sector 94 suitable for family living?",
+        "answer": "Yes, the sector offers proximity to schools, hospitals, offices, and lifestyle amenities, making it suitable for families."
+      },
+      {
+        "question": "How is connectivity from Sector 94 Noida?",
+        "answer": "Sector 94 enjoys excellent connectivity via DND Flyway and Noida Expressway, with easy access to Delhi."
+      },
+      {
+        "question": "Are houses in Sector 94 legally approved?",
+        "answer": "Most properties are legally approved, and Deal Acres provides complete verification support."
+      },
+      {
+        "question": "Is buying a house in Sector 94 a good investment?",
+        "answer": "Yes, limited supply and premium demand support long-term appreciation and rental returns."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 94 Noida?",
+        "answer": "Yes, major banks and financial institutions offer home loans for eligible properties."
+      },
+      {
+        "question": "What amenities are available near Sector 94 Noida?",
+        "answer": "The area offers schools, hospitals, offices, malls, hotels, and recreational facilities."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, expert guidance, and end-to-end support."
+      },
+      {
+        "question": "How can I contact property experts for Sector 94 Noida?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Houses for Sale in Sector 94 Noida",
+    "description": [
+      "Finding the right house for sale in Sector 94 Noida becomes easier with expert assistance.",
+      "Share your details to connect with trusted professionals and explore verified premium properties with confidence."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

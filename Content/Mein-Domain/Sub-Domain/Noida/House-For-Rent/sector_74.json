@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforrentcom",
+  "hero": {
+    "title": "Comfortable Independent Houses for Rent in Sector 74 Noida",
+    "description": [
+      "Sector 74 Noida is a well-developed residential locality that offers a perfect blend of comfort, connectivity, and everyday convenience. Located close to major roads such as the Noida–Greater Noida Expressway and well-connected to surrounding sectors, this area is preferred by families and working professionals alike. People searching for a house for rent in Sector 74 Noida often choose this location because of its organized layout, nearby markets, schools, hospitals, and peaceful surroundings.",
+      "Houses for rent in Sector 74 Noida provide independent living with ample space, privacy, and a secure neighborhood environment. The sector has seen steady residential growth, making it suitable for long-term rentals. With easy access to offices, public transport, and lifestyle amenities, Sector 74 stands out as a practical and comfortable choice for tenants looking for quality housing in Noida."
+    ],
+    "buttons": [
+      {
+        "label": "View Houses for Rent in Sector 74",
+        "path": "/"
+      },
+      {
+        "label": "Talk to Rental Experts",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Multiple House Size Options for Rent in Sector 74 Noida",
+    "description": [
+      "Tenants looking for a house for rent in Sector 74 Noida can choose from various plot sizes depending on their family needs and rental budget.",
+      "From compact homes to spacious independent houses, the sector offers flexibility and choice."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 74 Noida",
+        "description": "A 4 Marla house for rent in Sector 74 Noida is suitable for individuals and small families. These homes are budget-friendly, easy to maintain, and located close to daily-use amenities."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 74 Noida",
+        "description": "6 Marla houses provide balanced living with adequate space and comfort. They are ideal for nuclear families seeking affordability with privacy."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 74 Noida",
+        "description": "An 8 Marla house for rent in Sector 74 Noida offers larger living areas and better ventilation, making it suitable for medium-sized families."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 74 Noida",
+        "description": "10 Marla houses are preferred by families who need spacious interiors, parking convenience, and a comfortable long-term rental option."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 74 Noida",
+        "description": "A 12 Marla house for rent in Sector 74 Noida is ideal for joint families or tenants who value extra open space and a premium living experience."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 74 Noida",
+        "description": "14 Marla houses represent premium independent living with expansive layouts, privacy, and a higher standard of comfort in Sector 74 Noida."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Locations for Houses for Rent in Noida",
+    "description": [
+      "Apart from Sector 74, tenants can explore nearby sectors to compare rental options and pricing.",
+      "These locations enhance the overall appeal of renting a house in this part of Noida."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 74 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 75 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 76 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 73 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses near Noida Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Family Houses in Central Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Rental Houses near IT Offices Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Houses in Developed Noida Sectors", "path": "/", "icon": "Landmark" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is Trusted for Houses in Sector 74 Noida",
+    "description": [
+      "Finding a reliable house for rent in Sector 74 Noida requires verified listings and local expertise.",
+      "Deal Acres is trusted by tenants for its transparency, genuine properties, and customer-focused approach."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "Each house is verified for ownership and availability to ensure tenant safety."
+      },
+      {
+        "title": "Transparent Rental Details",
+        "description": "Clear information on rent, deposits, and rental terms with no hidden charges."
+      },
+      {
+        "title": "Strong Local Expertise",
+        "description": "In-depth knowledge of Sector 74 Noida rental trends and neighborhoods."
+      },
+      {
+        "title": "Wide Range of House Sizes",
+        "description": "Options available from small to premium independent houses."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Help with rental agreements and basic legal formalities."
+      },
+      {
+        "title": "Personalized Property Suggestions",
+        "description": "Recommendations based on budget, family size, and lifestyle needs."
+      },
+      {
+        "title": "End-to-End Rental Assistance",
+        "description": "Support from property search to final possession."
+      },
+      {
+        "title": "Customer-First Approach",
+        "description": "Deal Acres focuses on long-term trust and tenant satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "FAQs About Houses for Rent in Sector 74 Noida",
+    "description": "Common questions answered to help tenants make confident rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 74 Noida good for renting a house?",
+        "answer": "Yes, Sector 74 Noida is a well-planned residential area with good connectivity and daily amenities nearby."
+      },
+      {
+        "question": "What house sizes are available for rent in Sector 74?",
+        "answer": "Houses from 4 Marla to 14 Marla are commonly available depending on market supply."
+      },
+      {
+        "question": "Is Sector 74 suitable for families?",
+        "answer": "Yes, the sector is calm, organized, and suitable for family living."
+      },
+      {
+        "question": "How is connectivity from Sector 74 Noida?",
+        "answer": "The sector is well-connected to main roads, expressways, and nearby commercial hubs."
+      },
+      {
+        "question": "Are independent houses safe in Sector 74?",
+        "answer": "Most residential pockets are considered safe and well-inhabited."
+      },
+      {
+        "question": "What affects rent pricing in Sector 74 Noida?",
+        "answer": "Rent depends on house size, condition, location, and nearby facilities."
+      },
+      {
+        "question": "Do houses come with parking facilities?",
+        "answer": "Most independent houses offer dedicated parking space."
+      },
+      {
+        "question": "Can working professionals rent houses in Sector 74?",
+        "answer": "Yes, due to its connectivity and peaceful environment, it suits professionals well."
+      },
+      {
+        "question": "Why choose Deal Acres for renting a house?",
+        "answer": "Deal Acres provides verified listings, transparent processes, and expert assistance."
+      },
+      {
+        "question": "How can I contact Deal Acres for Sector 74 rentals?",
+        "answer": "You can fill out the contact form on this page to connect with rental experts."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get in Touch for Houses for Rent in Sector 74 Noida",
+    "description": [
+      "Looking for the right house for rent in Sector 74 Noida? Our experts are here to help.",
+      "Share your details and get personalized assistance with verified rental properties."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

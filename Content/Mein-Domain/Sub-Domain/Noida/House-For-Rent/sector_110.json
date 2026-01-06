@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforrentcom",
+  "hero": {
+    "title": "Comfortable Independent Houses for Rent in Sector 100 Noida",
+    "description": [
+      "Sector 100 Noida is a well-developed residential locality known for its balanced lifestyle, planned infrastructure, and peaceful surroundings. Strategically located near the Noida–Greater Noida Expressway and key internal road networks, the sector offers smooth connectivity to business hubs, metro stations, and commercial areas of Noida. Tenants searching for a house for rent in Sector 100 Noida prefer this area due to its proximity to schools, hospitals, shopping centers, and daily convenience facilities, making everyday life simple and efficient.",
+      "Houses for rent in Sector 100 Noida provide the advantage of independent living in a calm and organized neighborhood. The area features wide roads, green parks, and low congestion compared to high-density sectors. Sector 100 is especially suitable for families and professionals who value privacy, accessibility, and a stable residential environment. With consistent rental demand and strong neighborhood appeal, Sector 100 continues to be a reliable choice for long-term rental living in Noida."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent in Sector 100",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Independent House Rental Size Options in Sector 100 Noida",
+    "description": [
+      "Choosing the right house for rent in Sector 100 Noida depends on your family size, space requirements, and lifestyle preferences.",
+      "The sector offers multiple independent house sizes suitable for individuals, families, and premium tenants."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 100 Noida",
+        "description": "A 4 Marla house for rent in Sector 100 Noida is ideal for couples, small families, or working professionals. These homes are easy to maintain, cost-effective, and offer practical layouts with essential amenities for comfortable daily living."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 100 Noida",
+        "description": "6 Marla houses for rent in Sector 100 Noida offer a balanced mix of space and affordability. Suitable for nuclear families, these houses provide well-ventilated rooms, parking space, and a peaceful residential environment."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 100 Noida",
+        "description": "An 8 Marla house for rent in Sector 100 Noida is preferred by families seeking extra living space and privacy. These homes usually feature larger rooms, balconies, and flexible layouts ideal for long-term stays."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 100 Noida",
+        "description": "10 Marla independent houses for rent in Sector 100 Noida cater to large families and senior professionals. These properties offer spacious interiors, multiple floors, and enhanced comfort."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 100 Noida",
+        "description": "A 12 Marla house for rent in Sector 100 Noida is suitable for joint families or tenants who prefer open spaces and privacy. These houses often include servant areas and ample parking facilities."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 100 Noida",
+        "description": "14 Marla houses represent premium independent living in Sector 100 Noida. With expansive layouts and superior privacy, these homes are ideal for tenants seeking luxury rental residences."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 100 Noida",
+    "description": [
+      "Tenants looking for a house for rent in Sector 100 Noida often explore nearby sectors for better availability and comparison.",
+      "These surrounding areas enhance Sector 100’s position as a convenient and well-connected rental location in Noida."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 100 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 101 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 104 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 99 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses near Noida Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Rental Houses near Metro Connectivity Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Family Houses in Central Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Houses near Commercial Areas Noida", "path": "/", "icon": "Landmark" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Houses in Sector 100 Noida",
+    "description": [
+      "Finding a house for rent in Sector 100 Noida requires verified listings, transparent rental terms, and local market expertise.",
+      "Deal Acres has earned tenant trust by offering reliable information, professional guidance, and a smooth rental experience."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "All houses are verified for ownership authenticity and genuine rental availability."
+      },
+      {
+        "title": "Transparent Rental Pricing",
+        "description": "Clear rent and deposit details help tenants make informed decisions."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 100 Noida rental trends and pricing."
+      },
+      {
+        "title": "Wide Range of Rental Options",
+        "description": "Multiple house sizes and layouts to suit different family needs."
+      },
+      {
+        "title": "Rental Agreement Assistance",
+        "description": "Support with documentation and agreement formalities for hassle-free renting."
+      },
+      {
+        "title": "Personalized Property Suggestions",
+        "description": "Tailored recommendations based on budget, lifestyle, and location preferences."
+      },
+      {
+        "title": "End-to-End Tenant Support",
+        "description": "Complete assistance from property search to final move-in."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for transparency, reliability, and tenant satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 100 Noida",
+    "description": "Detailed answers to common tenant questions to help you make confident rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 100 Noida a good area to rent a house?",
+        "answer": "Yes, Sector 100 Noida is a peaceful and well-developed residential area with good connectivity and essential amenities nearby."
+      },
+      {
+        "question": "What house sizes are available for rent in Sector 100 Noida?",
+        "answer": "Independent houses from 4 Marla to 14 Marla are available depending on location and availability."
+      },
+      {
+        "question": "Is Sector 100 suitable for family living?",
+        "answer": "Yes, the sector offers parks, schools, hospitals, and a calm environment ideal for families."
+      },
+      {
+        "question": "How is connectivity from Sector 100 Noida?",
+        "answer": "Sector 100 enjoys good connectivity through nearby expressway routes and internal road networks."
+      },
+      {
+        "question": "Are rental houses in Sector 100 safe?",
+        "answer": "Most residential pockets are well-planned and considered safe for families and professionals."
+      },
+      {
+        "question": "What is the average rent in Sector 100 Noida?",
+        "answer": "Rental values vary by house size, condition, and location, with larger houses having higher rents."
+      },
+      {
+        "question": "Do landlords provide proper rental agreements?",
+        "answer": "Yes, rental agreements are standard practice, and Deal Acres assists with documentation."
+      },
+      {
+        "question": "Is Sector 100 suitable for working professionals?",
+        "answer": "Absolutely. Its connectivity and proximity to business areas make it convenient for professionals."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, expert guidance, and complete rental support."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 100 Noida?",
+        "answer": "You can fill out the contact form on this page to connect with experienced rental consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Houses for Rent in Sector 100 Noida",
+    "description": [
+      "Finding the right house for rent in Sector 100 Noida becomes easy with expert guidance.",
+      "Share your contact details and rental requirements to connect with trusted professionals and explore verified rental listings with confidence."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

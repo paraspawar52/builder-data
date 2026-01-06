@@ -1,0 +1,169 @@
+{
+  "domain": "Flatsforrent.com",
+  "hero": {
+    "title": "Affordable Residential Flats for Rent in Sector 2 Bahadurgarh",
+    "description": [
+      "Sector 2 Bahadurgarh is one of the well-established residential localities, known for its central location, strong civic amenities, and peaceful living environment. The area is surrounded by schools, local markets, hospitals, parks, and public transport facilities, making daily life convenient for families and working professionals. People searching for flats for rent in Sector 2 Bahadurgarh usually look for locations that offer safety, accessibility, and a well-settled neighborhood, all of which this sector provides naturally.",
+      "Opting for flats for rent in Sector 2 Bahadurgarh is a smart choice for tenants who want comfort at a reasonable budget. The sector enjoys excellent connectivity to other parts of Bahadurgarh and nearby highways, ensuring easy commuting. With a mix of independent floors and low-rise residential buildings, Sector 2 offers rental options that suit different lifestyle needs, from small families to joint households."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Flats in Sector 2",
+        "path": "/"
+      },
+      {
+        "label": "Contact Rental Expert",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1502673530728-f79b4cab31b1?w=900&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=900&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Marla Wise Flats for Rent Options in Sector 2 Bahadurgarh",
+    "description": [
+      "Flats for rent in Sector 2 Bahadurgarh are available in different Marla sizes to match varied family sizes and rental budgets.",
+      "These Marla-wise options help tenants choose rental homes based on space, comfort, and long-term living needs."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Flats for Rent in Sector 2 Bahadurgarh",
+        "description": "4 Marla flats for rent in Sector 2 Bahadurgarh are suitable for bachelors, couples, and small families. These flats offer compact layouts with essential amenities at affordable rent."
+      },
+      {
+        "title": "6 Marla Flats for Rent in Sector 2 Bahadurgarh",
+        "description": "6 Marla flats for rent in Sector 2 Bahadurgarh provide balanced space for nuclear families, offering better room distribution, ventilation, and comfort."
+      },
+      {
+        "title": "8 Marla Flats for Rent in Sector 2 Bahadurgarh",
+        "description": "8 Marla flats for rent in Sector 2 Bahadurgarh are ideal for medium-sized families who need extra space and a comfortable residential setup."
+      },
+      {
+        "title": "10 Marla Flats for Rent in Sector 2 Bahadurgarh",
+        "description": "10 Marla flats for rent in Sector 2 Bahadurgarh are preferred by families seeking spacious rooms, parking convenience, and a premium living experience."
+      },
+      {
+        "title": "12 Marla Flats for Rent in Sector 2 Bahadurgarh",
+        "description": "12 Marla flats for rent in Sector 2 Bahadurgarh offer large living areas, making them suitable for joint families or tenants wanting a more luxurious rental home."
+      },
+      {
+        "title": "14 Marla Flats for Rent in Sector 2 Bahadurgarh",
+        "description": "14 Marla flats for rent in Sector 2 Bahadurgarh are ideal for luxury living, providing maximum space, privacy, and comfort in a prime location."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Flats for Rent Locations in Bahadurgarh",
+    "description": [
+      "Tenants looking for flats for rent in Sector 2 Bahadurgarh often explore nearby sectors for more choices and better comparisons.",
+      "These surrounding locations also offer good residential infrastructure and rental opportunities."
+    ],
+    "locations": [
+      { "title": "Flats for Rent in Sector 2 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Sector 6 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Sector 9 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Sector 15 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Residential Flats in Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Affordable Flats for Rent in Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Family Flats for Rent in Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Independent Floors for Rent in Bahadurgarh", "path": "/", "icon": "Map" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Trusted Choice for Rental Flats",
+    "description": [
+      "Finding flats for rent in Sector 2 Bahadurgarh requires genuine listings, clear rental terms, and reliable support.",
+      "Deal Acres focuses on transparency, tenant convenience, and verified rental properties."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "All flats are verified to ensure genuine owners and accurate property details."
+      },
+      {
+        "title": "Transparent Rent Information",
+        "description": "Clear details about rent, security deposit, and agreement terms."
+      },
+      {
+        "title": "Local Rental Expertise",
+        "description": "Strong understanding of Sector 2 Bahadurgarh rental trends and pricing."
+      },
+      {
+        "title": "Tenant-Centric Suggestions",
+        "description": "Flats recommended based on family size, budget, and lifestyle needs."
+      },
+      {
+        "title": "Direct Owner Connectivity",
+        "description": "Easy communication with property owners for faster finalization."
+      },
+      {
+        "title": "Smooth Renting Process",
+        "description": "Support provided from enquiry to rental agreement."
+      },
+      {
+        "title": "Wide Range of Options",
+        "description": "Multiple flats available across different Marla sizes."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for reliability, transparency, and customer trust."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Flats for Rent in Sector 2",
+    "description": "Detailed answers to common tenant questions to help you choose confidently.",
+    "faqs": [
+      {
+        "question": "Is Sector 2 Bahadurgarh good for renting flats?",
+        "answer": "Yes, Sector 2 is a well-settled residential area with strong amenities and good connectivity."
+      },
+      {
+        "question": "What types of flats are available for rent in Sector 2?",
+        "answer": "Independent floors and residential flats in various Marla sizes are available."
+      },
+      {
+        "question": "Are flats suitable for families in Sector 2?",
+        "answer": "Yes, the sector is family-friendly with schools, parks, and hospitals nearby."
+      },
+      {
+        "question": "Are rental flats suitable for working professionals?",
+        "answer": "Yes, Sector 2 offers peaceful living with easy access to transport and workplaces."
+      },
+      {
+        "question": "What is the average rent in Sector 2 Bahadurgarh?",
+        "answer": "Rent depends on flat size, location, and amenities, but options are available for different budgets."
+      },
+      {
+        "question": "Does Deal Acres verify rental properties?",
+        "answer": "Yes, all rental listings are verified for authenticity and owner details."
+      },
+      {
+        "question": "Is help provided in finalizing the rental agreement?",
+        "answer": "Yes, complete assistance is provided throughout the renting process."
+      },
+      {
+        "question": "Are furnished flats available in Sector 2?",
+        "answer": "Both furnished and unfurnished flats are available depending on listings."
+      },
+      {
+        "question": "Can I find affordable flats for rent in Sector 2?",
+        "answer": "Yes, Sector 2 offers affordable rental options across different flat sizes."
+      },
+      {
+        "question": "How can I enquire about available flats?",
+        "answer": "You can fill out the enquiry form to connect with a rental expert for verified options."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Flats for Rent in Sector 2 Bahadurgarh",
+    "description": [
+      "Finding the right flat in Sector 2 Bahadurgarh becomes simple with expert guidance and verified listings.",
+      "Share your rental requirements to receive personalized assistance and suitable options."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "flatSize", "message"]
+  }
+}

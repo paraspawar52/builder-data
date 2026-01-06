@@ -1,0 +1,169 @@
+{
+  "domain": "Flatsforrent.com",
+  "hero": {
+    "title": "Comfortable and Well Connected Flats for Rent in Sector 6 Bahadurgarh",
+    "description": [
+      "Sector 6 Bahadurgarh is a well-established and centrally located residential area known for its organized layout and easy access to daily necessities. The locality is surrounded by schools, local markets, hospitals, parks, and public transport facilities, making everyday life smooth and convenient. People searching for flats for rent in Sector 6 Bahadurgarh usually look for a location that offers reliability, safety, and connectivity, and Sector 6 naturally fulfills these expectations.",
+      "Choosing flats for rent in Sector 6 Bahadurgarh is ideal for families, working professionals, and tenants who want a peaceful living environment without compromising on accessibility. The area enjoys good road connectivity to other sectors of Bahadurgarh and the Delhi Rohtak Highway. With a wide range of residential options available in different Marla sizes, Sector 6 offers flexibility in budget and space, making it one of the most preferred rental locations in the city."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Flats in Sector 6",
+        "path": "/"
+      },
+      {
+        "label": "Connect with Rental Expert",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1502673530728-f79b4cab31b1?w=900&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=900&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Marla Wise Flats for Rent Options in Sector 6 Bahadurgarh",
+    "description": [
+      "Flats for rent in Sector 6 Bahadurgarh are available in multiple Marla sizes to suit different family sizes and budgets.",
+      "These Marla-wise options help tenants choose flats based on comfort, space, and long-term living needs."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Flats for Rent in Sector 6 Bahadurgarh",
+        "description": "4 Marla flats for rent in Sector 6 Bahadurgarh are suitable for bachelors, couples, and small families looking for affordable and easy-to-manage homes."
+      },
+      {
+        "title": "6 Marla Flats for Rent in Sector 6 Bahadurgarh",
+        "description": "6 Marla flats for rent in Sector 6 Bahadurgarh offer balanced space, proper ventilation, and comfortable layouts ideal for nuclear families."
+      },
+      {
+        "title": "8 Marla Flats for Rent in Sector 6 Bahadurgarh",
+        "description": "8 Marla flats for rent in Sector 6 Bahadurgarh provide additional living space, making daily life more comfortable for medium-sized families."
+      },
+      {
+        "title": "10 Marla Flats for Rent in Sector 6 Bahadurgarh",
+        "description": "10 Marla flats for rent in Sector 6 Bahadurgarh are preferred by families who need spacious rooms, parking convenience, and privacy."
+      },
+      {
+        "title": "12 Marla Flats for Rent in Sector 6 Bahadurgarh",
+        "description": "12 Marla flats for rent in Sector 6 Bahadurgarh are ideal for joint families or tenants seeking premium residential comfort."
+      },
+      {
+        "title": "14 Marla Flats for Rent in Sector 6 Bahadurgarh",
+        "description": "14 Marla flats for rent in Sector 6 Bahadurgarh offer luxury-level space with large interiors and a superior living experience."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Flats for Rent Locations Around Sector 6",
+    "description": [
+      "Tenants looking for flats for rent in Sector 6 Bahadurgarh often explore nearby sectors for more options.",
+      "These surrounding locations also offer good residential facilities and connectivity."
+    ],
+    "locations": [
+      { "title": "Flats for Rent in Sector 6 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Sector 9 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Sector 15 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Sector 3 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent on Delhi Rohtak Highway", "path": "/", "icon": "Map" },
+      { "title": "Residential Flats in Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Affordable Flats for Rent in Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Family Flats for Rent in Bahadurgarh", "path": "/", "icon": "Map" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Trusted Choice for Rental Flats",
+    "description": [
+      "Finding flats for rent in Sector 6 Bahadurgarh requires verified listings and transparent rental details.",
+      "Deal Acres ensures trust, clarity, and a smooth renting experience for tenants."
+    ],
+    "points": [
+      {
+        "title": "Verified Flat Listings",
+        "description": "All rental flats are verified for genuine ownership and accurate property details."
+      },
+      {
+        "title": "Transparent Rent Information",
+        "description": "Clear details about rent, security deposit, and rental terms."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 6 Bahadurgarh rental trends and pricing."
+      },
+      {
+        "title": "Tenant-Centric Guidance",
+        "description": "Recommendations based on budget, family size, and lifestyle needs."
+      },
+      {
+        "title": "Direct Owner Connectivity",
+        "description": "Easy communication with property owners for faster decisions."
+      },
+      {
+        "title": "End-to-End Rental Support",
+        "description": "Complete assistance from first enquiry to final agreement."
+      },
+      {
+        "title": "Wide Range of Options",
+        "description": "Multiple flats available across different Marla sizes."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for transparency, reliability, and user trust."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Flats for Rent in Sector 6",
+    "description": "User-friendly answers to common rental queries to help you decide confidently.",
+    "faqs": [
+      {
+        "question": "Is Sector 6 Bahadurgarh good for renting flats?",
+        "answer": "Yes, Sector 6 is a well-developed residential area with excellent connectivity and amenities."
+      },
+      {
+        "question": "What types of flats are available in Sector 6?",
+        "answer": "Independent floors and residential flats in various Marla sizes are available."
+      },
+      {
+        "question": "Are flats in Sector 6 suitable for families?",
+        "answer": "Yes, the area is family-friendly with schools, parks, and markets nearby."
+      },
+      {
+        "question": "Is Sector 6 suitable for working professionals?",
+        "answer": "Yes, its central location and transport connectivity make it ideal for professionals."
+      },
+      {
+        "question": "Are affordable flats available in Sector 6 Bahadurgarh?",
+        "answer": "Yes, Sector 6 offers a mix of affordable and premium rental flats."
+      },
+      {
+        "question": "Does Deal Acres verify rental listings?",
+        "answer": "Yes, all rental listings are verified before being shared."
+      },
+      {
+        "question": "Is rental assistance provided?",
+        "answer": "Yes, Deal Acres provides complete support throughout the rental process."
+      },
+      {
+        "question": "Are furnished flats available in Sector 6?",
+        "answer": "Availability depends on current listings, including furnished and semi-furnished options."
+      },
+      {
+        "question": "Can I find spacious flats for rent in Sector 6?",
+        "answer": "Yes, 10 to 14 Marla flats are available for tenants needing more space."
+      },
+      {
+        "question": "How can I enquire about flats for rent in Sector 6?",
+        "answer": "You can submit your details through the enquiry form to connect with a rental expert."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Flats for Rent in Sector 6 Bahadurgarh",
+    "description": [
+      "Finding the right flat in Sector 6 Bahadurgarh becomes simple with expert guidance.",
+      "Share your rental requirements to receive verified listings and personalized assistance."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "flatSize", "message"]
+  }
+}

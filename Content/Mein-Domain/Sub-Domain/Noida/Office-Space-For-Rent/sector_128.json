@@ -1,0 +1,169 @@
+{
+  "domain": "officespaceforrentcom",
+  "hero": {
+    "title": "Prime Corporate Office Spaces for Rent in Sector 128 Noida",
+    "description": [
+      "Sector 128 Noida is a premium commercial destination located along the Noida–Greater Noida Expressway, known for its world-class office infrastructure and corporate environment. The sector hosts renowned IT parks, multinational companies, and high-end commercial developments, making it a preferred choice for enterprises looking for office space for rent in Sector 128 Noida. Excellent road connectivity, proximity to metro stations, and smooth access to Delhi, Greater Noida, and key business hubs add to its strategic advantage.",
+      "Office spaces for rent in Sector 128 Noida offer a professional ecosystem designed for productivity and growth. The area is recognized for Grade A commercial buildings, modern amenities, landscaped surroundings, and a corporate-friendly atmosphere. With strong demand from IT firms, consulting companies, and global brands, Sector 128 provides long-term stability, brand value, and an ideal work environment for businesses aiming to establish or expand their presence in Noida."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces in Sector 128",
+        "path": "/"
+      },
+      {
+        "label": "Get Office Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Office Space Size Options Available in Sector 128 Noida",
+    "description": [
+      "Choosing the right office space for rent in Sector 128 Noida depends on team size, business operations, and future expansion goals.",
+      "The sector offers multiple office space configurations suitable for startups, established firms, and large corporate enterprises."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space for Rent in Sector 128 Noida",
+        "description": "A 4 Marla office space for rent in Sector 128 Noida is ideal for startups, boutique firms, and small professional teams. These spaces provide affordability, efficient layouts, and access to a premium corporate environment."
+      },
+      {
+        "title": "6 Marla Office Space for Rent in Sector 128 Noida",
+        "description": "6 Marla office spaces for rent in Sector 128 Noida are suitable for growing businesses that require dedicated workstations, cabins, and meeting rooms within a professional setting."
+      },
+      {
+        "title": "8 Marla Office Space for Rent in Sector 128 Noida",
+        "description": "An 8 Marla office space for rent in Sector 128 Noida offers flexibility and comfort for mid-sized teams, featuring modern layouts, natural lighting, and efficient workspace planning."
+      },
+      {
+        "title": "10 Marla Office Space for Rent in Sector 128 Noida",
+        "description": "10 Marla office spaces in Sector 128 Noida are preferred by established companies looking for structured departments, conference facilities, and a strong corporate presence."
+      },
+      {
+        "title": "12 Marla Office Space for Rent in Sector 128 Noida",
+        "description": "A 12 Marla office space for rent in Sector 128 Noida is ideal for enterprises planning long-term operations, offering spacious interiors, scalability, and premium amenities."
+      },
+      {
+        "title": "14 Marla Office Space for Rent in Sector 128 Noida",
+        "description": "14 Marla office spaces represent premium commercial options in Sector 128 Noida, suitable for large corporations seeking visibility, expansion flexibility, and a high-end business address."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Office Spaces for Rent Near Sector 128 Noida",
+    "description": [
+      "Businesses looking for office space for rent in Sector 128 Noida often explore nearby commercial sectors along the Noida Expressway.",
+      "These locations further enhance Sector 128’s reputation as a prime corporate hub in Noida."
+    ],
+    "locations": [
+      { "title": "Office Space for Rent in Sector 128 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space for Rent in Sector 135 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space for Rent in Sector 137 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space for Rent in Sector 142 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space near Noida Expressway", "path": "/", "icon": "Building2" },
+      { "title": "Corporate Offices in Noida", "path": "/", "icon": "Building2" },
+      { "title": "IT Office Spaces in Noida", "path": "/", "icon": "Building2" },
+      { "title": "Commercial Offices near Metro Stations Noida", "path": "/", "icon": "Building2" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Businesses Trust Deal Acres for Office Space in Sector 128 Noida",
+    "description": [
+      "Finding the right office space for rent in Sector 128 Noida requires verified properties, transparent leasing, and expert market knowledge.",
+      "Deal Acres is trusted by businesses for delivering reliable, professional, and client-focused commercial real estate solutions."
+    ],
+    "points": [
+      {
+        "title": "Verified Office Listings",
+        "description": "All office spaces are verified for authenticity, ownership clarity, and availability."
+      },
+      {
+        "title": "Transparent Lease Terms",
+        "description": "Clear information on rent, security deposits, and lease conditions."
+      },
+      {
+        "title": "Local Commercial Expertise",
+        "description": "Deep understanding of Sector 128 Noida’s commercial real estate trends."
+      },
+      {
+        "title": "Wide Range of Office Options",
+        "description": "Office spaces available across multiple sizes and configurations."
+      },
+      {
+        "title": "Complete Documentation Support",
+        "description": "Assistance with lease agreements, compliance, and legal formalities."
+      },
+      {
+        "title": "Customized Office Shortlisting",
+        "description": "Tailored recommendations based on business size, budget, and needs."
+      },
+      {
+        "title": "End-to-End Business Support",
+        "description": "Support from initial search to final possession."
+      },
+      {
+        "title": "Trusted Commercial Real Estate Platform",
+        "description": "Deal Acres is known for professionalism, transparency, and long-term business relationships."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Office Space for Rent in Sector 128 Noida",
+    "description": "Clear and detailed answers to help businesses make confident office rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 128 Noida suitable for corporate offices?",
+        "answer": "Yes, Sector 128 is a premium corporate location with Grade A buildings and excellent infrastructure."
+      },
+      {
+        "question": "What office sizes are available in Sector 128 Noida?",
+        "answer": "Office spaces typically range from 4 Marla to 14 Marla, depending on availability and building type."
+      },
+      {
+        "question": "Is Sector 128 good for IT and MNC companies?",
+        "answer": "Yes, the sector is highly preferred by IT firms, MNCs, and global corporations."
+      },
+      {
+        "question": "How is connectivity from Sector 128 Noida?",
+        "answer": "Sector 128 offers excellent connectivity via Noida Expressway and nearby metro stations."
+      },
+      {
+        "question": "Are furnished office spaces available?",
+        "answer": "Yes, furnished and semi-furnished office spaces are available in many commercial buildings."
+      },
+      {
+        "question": "What amenities are commonly available?",
+        "answer": "Amenities include parking, power backup, security, lifts, and maintenance services."
+      },
+      {
+        "question": "What determines office rent in Sector 128?",
+        "answer": "Rent depends on office size, building grade, furnishing level, and exact location."
+      },
+      {
+        "question": "Is Sector 128 suitable for client-facing businesses?",
+        "answer": "Yes, its premium environment and accessibility make it ideal for client interactions."
+      },
+      {
+        "question": "Why choose Deal Acres for office rentals?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and expert commercial guidance."
+      },
+      {
+        "question": "How can I contact office rental experts?",
+        "answer": "You can fill out the contact form on this page to connect with experienced commercial consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Office Space for Rent in Sector 128 Noida",
+    "description": [
+      "Finding the right office space for rent in Sector 128 Noida becomes easier with professional assistance.",
+      "Share your business requirements and contact details to connect with trusted office space experts."
+    ],
+    "formFields": ["name", "phone", "email", "company", "message"]
+  }
+}

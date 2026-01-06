@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforrentcom",
+  "hero": {
+    "title": "Well Planned Independent Houses for Rent in Sector 92 Noida",
+    "description": [
+      "Sector 92 Noida is a modern and well-planned residential locality located in the Noida Expressway belt. The sector is widely preferred by families and professionals due to its proximity to major corporate hubs, IT parks, and seamless connectivity to Greater Noida and Delhi. Tenants looking for a house for rent in Sector 92 Noida are attracted by the organized infrastructure, wide roads, green surroundings, and easy access to daily essentials such as schools, hospitals, shopping complexes, and local markets.",
+      "Houses for rent in Sector 92 Noida offer the advantage of independent living in a low-density and peaceful environment. The area is known for its clean surroundings, reliable civic amenities, and growing social infrastructure. Despite being calm and residential, Sector 92 enjoys strong rental demand because of its closeness to the Noida–Greater Noida Expressway and commercial zones. This balance of comfort, connectivity, and future growth makes Sector 92 a smart and dependable choice for rental housing in Noida."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent in Sector 92",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Independent House Rental Size Options in Sector 92 Noida",
+    "description": [
+      "Finding the right house for rent in Sector 92 Noida depends on your space needs, family size, and budget.",
+      "The locality offers multiple independent house sizes designed for different lifestyle requirements."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 92 Noida",
+        "description": "A 4 Marla house for rent in Sector 92 Noida is ideal for bachelors, couples, or small families. These homes are economical, easy to maintain, and provide comfortable living with essential amenities nearby."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 92 Noida",
+        "description": "6 Marla houses for rent in Sector 92 Noida are well-suited for nuclear families. They offer balanced layouts, good ventilation, and a peaceful residential environment with convenient access to main roads."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 92 Noida",
+        "description": "An 8 Marla house for rent in Sector 92 Noida is preferred by families looking for extra space and privacy. These homes often include larger living areas and flexible room configurations."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 92 Noida",
+        "description": "10 Marla independent houses for rent in Sector 92 Noida cater to large families and senior professionals. They offer spacious interiors, parking facilities, and a premium residential feel."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 92 Noida",
+        "description": "A 12 Marla house for rent in Sector 92 Noida is ideal for joint families seeking open spaces, multiple rooms, and long-term comfort in a calm locality."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 92 Noida",
+        "description": "14 Marla houses represent luxury independent living in Sector 92 Noida. These properties provide expansive layouts, enhanced privacy, and are perfect for tenants seeking high-end rental homes."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 92 Noida",
+    "description": [
+      "Tenants searching for a house for rent in Sector 92 Noida often explore nearby sectors to compare options.",
+      "The surrounding localities further enhance Sector 92’s appeal as a well-connected rental destination."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 92 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 93 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 91 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near Noida Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses near IT Hubs Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Family Houses in Expressway Sectors", "path": "/", "icon": "Landmark" },
+      { "title": "Rental Houses near Schools and Hospitals", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Houses near Commercial Zones", "path": "/", "icon": "Landmark" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Houses in Sector 92 Noida",
+    "description": [
+      "Finding a reliable house for rent in Sector 92 Noida requires verified listings and transparent processes.",
+      "Deal Acres has earned tenant trust by offering accuracy, local expertise, and a customer-first approach."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "Every house is verified to ensure genuine availability and ownership clarity."
+      },
+      {
+        "title": "Transparent Rental Pricing",
+        "description": "Clear information on rent, security deposit, and agreement terms."
+      },
+      {
+        "title": "Local Market Knowledge",
+        "description": "Strong understanding of Sector 92 Noida rental trends and pricing."
+      },
+      {
+        "title": "Multiple Rental Options",
+        "description": "Wide range of house sizes to match different tenant needs."
+      },
+      {
+        "title": "Rental Documentation Support",
+        "description": "Assistance with agreements and legal formalities for hassle-free renting."
+      },
+      {
+        "title": "Personalized Property Suggestions",
+        "description": "Customized recommendations based on budget and lifestyle preferences."
+      },
+      {
+        "title": "End-to-End Tenant Assistance",
+        "description": "Support from property search to final move-in."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for transparency, reliability, and customer satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 92 Noida",
+    "description": "Common tenant questions answered clearly to help you rent with confidence.",
+    "faqs": [
+      {
+        "question": "Is Sector 92 Noida a good area to rent a house?",
+        "answer": "Yes, Sector 92 Noida is a well-planned locality with good connectivity, clean surroundings, and growing infrastructure."
+      },
+      {
+        "question": "What house sizes are available for rent in Sector 92 Noida?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are available depending on listings."
+      },
+      {
+        "question": "Is Sector 92 suitable for family living?",
+        "answer": "Yes, the sector offers a peaceful environment, nearby schools, parks, and healthcare facilities suitable for families."
+      },
+      {
+        "question": "How is connectivity from Sector 92 Noida?",
+        "answer": "Sector 92 enjoys excellent connectivity via Noida–Greater Noida Expressway and major city roads."
+      },
+      {
+        "question": "Are rental houses in Sector 92 safe?",
+        "answer": "Yes, the locality is considered safe and well-developed for residential living."
+      },
+      {
+        "question": "What is the average rent in Sector 92 Noida?",
+        "answer": "Rental values depend on house size, condition, and location, with larger homes having higher rents."
+      },
+      {
+        "question": "Do landlords provide rental agreements?",
+        "answer": "Yes, proper rental agreements are standard practice, and Deal Acres assists with documentation."
+      },
+      {
+        "question": "Is Sector 92 good for working professionals?",
+        "answer": "Yes, its proximity to IT parks and business hubs makes it ideal for professionals."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and expert local guidance."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 92 Noida?",
+        "answer": "You can fill out the contact form on this page to connect with experienced rental consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Houses for Rent in Sector 92 Noida",
+    "description": [
+      "Finding the right house for rent in Sector 92 Noida becomes easy with professional support.",
+      "Share your contact details and requirements to connect with trusted experts and explore verified rental options."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

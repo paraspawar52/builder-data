@@ -1,0 +1,169 @@
+{
+  "domain": "Plotforsalecom",
+  "hero": {
+    "title": "Residential and Investment Plots for Sale in Jasbir Colony Rohtak",
+    "description": [
+      "Jasbir Colony Rohtak is a well-established residential locality known for its peaceful environment, strong neighborhood culture, and easy access to daily necessities. The area is well-connected to main city roads, local markets, schools, and healthcare facilities, making it a practical choice for families and working professionals. Buyers searching for a plot for sale in Jasbir Colony Rohtak often prefer this location due to its settled infrastructure and comfortable living conditions.",
+      "Plots for sale in Jasbir Colony Rohtak are suitable for building independent homes as well as for long-term land investment. The locality offers reliable civic amenities, good road connectivity, and consistent residential demand. With limited land availability in developed colonies, owning a plot here provides long-term value, construction flexibility, and steady appreciation. Investing in Jasbir Colony ensures a balanced lifestyle along with secure property ownership in one of Rohtak’s trusted residential areas."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Jasbir Colony",
+        "path": "/"
+      },
+      {
+        "label": "Get Plot Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1597047084897-51e81819a499?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Plot Size Options Available for Sale in Jasbir Colony Rohtak",
+    "description": [
+      "Choosing the right plot for sale in Jasbir Colony Rohtak depends on your family size, construction plan, and investment goals.",
+      "Jasbir Colony offers multiple plot sizes that suit both residential construction and future investment needs."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot for Sale in Jasbir Colony Rohtak",
+        "description": "A 4 Marla plot is ideal for compact homes and buyers looking for affordable residential land in a developed colony."
+      },
+      {
+        "title": "6 Marla Plot for Sale in Jasbir Colony Rohtak",
+        "description": "6 Marla plots provide balanced space for comfortable independent house construction with efficient layouts."
+      },
+      {
+        "title": "8 Marla Plot for Sale in Jasbir Colony Rohtak",
+        "description": "An 8 Marla plot offers better frontage and flexibility for modern home designs."
+      },
+      {
+        "title": "10 Marla Plot for Sale in Jasbir Colony Rohtak",
+        "description": "10 Marla plots are suitable for spacious homes with parking and open areas."
+      },
+      {
+        "title": "12 Marla Plot for Sale in Jasbir Colony Rohtak",
+        "description": "A 12 Marla plot supports premium residential construction with enhanced comfort."
+      },
+      {
+        "title": "14 Marla Plot for Sale in Jasbir Colony Rohtak",
+        "description": "14 Marla plots are premium options offering strong appreciation and exclusivity."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Areas Offering Plots Around Jasbir Colony",
+    "description": [
+      "Buyers looking for a plot for sale in Jasbir Colony Rohtak often explore nearby localities for comparison.",
+      "These surrounding areas further enhance the residential appeal of Jasbir Colony."
+    ],
+    "locations": [
+      { "title": "Plot for Sale in Jasbir Colony Rohtak", "path": "/", "icon": "Map" },
+      { "title": "Plot for Sale in Sector 3 Rohtak", "path": "/", "icon": "Map" },
+      { "title": "Plot for Sale in Sector 4 Rohtak", "path": "/", "icon": "Map" },
+      { "title": "Residential Plots in Central Rohtak", "path": "/", "icon": "Map" },
+      { "title": "Approved Plots Near Markets Rohtak", "path": "/", "icon": "Map" },
+      { "title": "Independent House Plots in Rohtak", "path": "/", "icon": "Map" },
+      { "title": "Investment Land in Rohtak", "path": "/", "icon": "Map" },
+      { "title": "Residential Land for Sale in Rohtak", "path": "/", "icon": "Map" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Preferred Platform for Plot Buyers",
+    "description": [
+      "Buying a plot for sale in Jasbir Colony Rohtak requires trust, transparency, and local market expertise.",
+      "Deal Acres offers a reliable and customer-first experience for plot buyers."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "All plots are verified for ownership, approvals, and authenticity."
+      },
+      {
+        "title": "Transparent Pricing Details",
+        "description": "Clear pricing information with no hidden charges."
+      },
+      {
+        "title": "Strong Local Market Knowledge",
+        "description": "Accurate insights into Jasbir Colony Rohtak land prices and trends."
+      },
+      {
+        "title": "Wide Range of Plot Options",
+        "description": "Multiple plot sizes available to match different budgets."
+      },
+      {
+        "title": "Legal and Documentation Support",
+        "description": "Complete assistance with registry and paperwork."
+      },
+      {
+        "title": "Investment-Focused Guidance",
+        "description": "Expert advice on appreciation and future value."
+      },
+      {
+        "title": "Smooth Buying Process",
+        "description": "End-to-end support from selection to possession."
+      },
+      {
+        "title": "Trusted Real Estate Brand",
+        "description": "Deal Acres is known for transparency and customer trust."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plots in Jasbir Colony Rohtak",
+    "description": "Clear answers to common questions to help buyers make informed decisions.",
+    "faqs": [
+      {
+        "question": "Is Jasbir Colony Rohtak a good area to buy a plot?",
+        "answer": "Yes, it is a well-settled residential colony with good connectivity and amenities."
+      },
+      {
+        "question": "What plot sizes are available in Jasbir Colony?",
+        "answer": "Plots from 4 Marla to 14 Marla are generally available based on listings."
+      },
+      {
+        "question": "Are plots approved for construction?",
+        "answer": "Most plots are approved, but verification is recommended before purchase."
+      },
+      {
+        "question": "Is Jasbir Colony suitable for family living?",
+        "answer": "Yes, it offers a safe and peaceful environment with nearby facilities."
+      },
+      {
+        "question": "Does Jasbir Colony offer good appreciation?",
+        "answer": "Yes, due to limited land supply and steady demand, plots show stable growth."
+      },
+      {
+        "question": "Can I get a loan for buying a plot here?",
+        "answer": "Loan eligibility depends on plot approval and bank policies."
+      },
+      {
+        "question": "Are basic amenities easily available?",
+        "answer": "Yes, markets, schools, hospitals, and transport are nearby."
+      },
+      {
+        "question": "How is connectivity from Jasbir Colony?",
+        "answer": "The area is well-connected to major roads and city areas."
+      },
+      {
+        "question": "Why should I use Deal Acres to buy a plot?",
+        "answer": "Deal Acres provides verified listings, legal support, and expert guidance."
+      },
+      {
+        "question": "How can I contact a plot expert?",
+        "answer": "Fill out the contact form on this page to connect with professionals."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Guidance for Plots for Sale in Jasbir Colony",
+    "description": [
+      "Finding the right plot for sale in Jasbir Colony Rohtak is easier with professional support.",
+      "Share your requirements through the form and connect with trusted plot experts today."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "message"]
+  }
+}

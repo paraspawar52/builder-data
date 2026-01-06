@@ -1,0 +1,169 @@
+{
+  "domain": "Flatsforsalecom",
+  "hero": {
+    "title": "Premium and Modern Residential Flats for Sale in Omaxe City Bahadurgarh",
+    "description": [
+      "Omaxe City Bahadurgarh is a well-planned and premium residential township known for its modern infrastructure, wide internal roads, green parks, and secure living environment. The locality has emerged as a preferred choice for homebuyers who are looking for a balanced lifestyle with comfort, safety, and excellent connectivity. Buyers searching for flats for sale in Omaxe City Bahadurgarh are drawn by its gated surroundings, proximity to schools, hospitals, shopping areas, and smooth access to major roads and highways.",
+      "Flats for sale in Omaxe City Bahadurgarh are available in multiple sizes and configurations, catering to small families, growing households, and long-term investors. The township offers a peaceful yet well-connected lifestyle, making it suitable for both end-users and investors. With steady demand and continuous development, Omaxe City stands out as a reliable residential destination offering quality living and strong future appreciation potential in Bahadurgarh."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Flats in Omaxe City",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Wide Range of Flat Size Options Available in Omaxe City Bahadurgarh",
+    "description": [
+      "Choosing the right flat for sale in Omaxe City Bahadurgarh depends on lifestyle needs, family size, and budget.",
+      "Omaxe City offers thoughtfully planned flat configurations that support comfortable and modern living."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Flats for Sale in Omaxe City Bahadurgarh",
+        "description": "4 Marla flats for sale in Omaxe City Bahadurgarh are ideal for individuals and small families seeking affordable entry into a premium township. These flats are easy to maintain and offer access to parks, security, and essential amenities."
+      },
+      {
+        "title": "6 Marla Flats for Sale in Omaxe City Bahadurgarh",
+        "description": "6 Marla flats provide a balanced mix of space and affordability. These flats are suitable for nuclear families looking for comfortable layouts and a safe residential environment."
+      },
+      {
+        "title": "8 Marla Flats for Sale in Omaxe City Bahadurgarh",
+        "description": "8 Marla flats offer better room distribution and enhanced living comfort. These homes are preferred by families who want extra space within a gated community."
+      },
+      {
+        "title": "10 Marla Flats for Sale in Omaxe City Bahadurgarh",
+        "description": "10 Marla flats are designed for larger families seeking spacious interiors, privacy, and long-term residential stability in a premium location."
+      },
+      {
+        "title": "12 Marla Flats for Sale in Omaxe City Bahadurgarh",
+        "description": "12 Marla flats provide premium living space with functional designs. These flats are suitable for joint families or buyers planning for future needs."
+      },
+      {
+        "title": "14 Marla Flats for Sale in Omaxe City Bahadurgarh",
+        "description": "14 Marla flats represent luxury and spacious living in Omaxe City. These properties offer high comfort levels and strong investment value due to township demand."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Locations Offering Flats for Sale Around Omaxe City",
+    "description": [
+      "Buyers interested in flats for sale in Omaxe City Bahadurgarh often explore nearby areas for comparison.",
+      "These surrounding locations provide additional residential choices and pricing flexibility."
+    ],
+    "locations": [
+      { "title": "Flats for Sale in Omaxe City Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Flats for Sale in Sector 15 Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Flats for Sale in Sector 14 Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Flats for Sale in Sector 4A Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Residential Flats in Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Ready to Move Flats in Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Affordable Flats Near Delhi NCR", "path": "/", "icon": "Home" },
+      { "title": "Premium Township Flats in Bahadurgarh", "path": "/", "icon": "Home" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Most Trusted Platform to Buy Flats",
+    "description": [
+      "Buying flats for sale in Omaxe City Bahadurgarh requires verified listings, clear pricing, and professional guidance.",
+      "Deal Acres is trusted by homebuyers for offering transparency, reliability, and end-to-end property support."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All flat listings are verified for ownership, approvals, and authenticity."
+      },
+      {
+        "title": "Transparent Pricing Information",
+        "description": "Clear pricing details with no hidden costs or misleading information."
+      },
+      {
+        "title": "Strong Local Market Knowledge",
+        "description": "In-depth understanding of Omaxe City and Bahadurgarh property trends."
+      },
+      {
+        "title": "Wide Choice of Flats",
+        "description": "Multiple flat sizes and configurations to suit different buyer needs."
+      },
+      {
+        "title": "Legal and Documentation Support",
+        "description": "Guidance with agreements, paperwork, and registration process."
+      },
+      {
+        "title": "Personalized Buyer Assistance",
+        "description": "Property recommendations based on budget and lifestyle preferences."
+      },
+      {
+        "title": "Smooth Buying Experience",
+        "description": "Support from property search to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Brand",
+        "description": "Deal Acres is known for trust, transparency, and customer satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Flats for Sale in Omaxe City Bahadurgarh",
+    "description": "Clear answers to common buyer questions for informed decisions.",
+    "faqs": [
+      {
+        "question": "Is Omaxe City Bahadurgarh a good place to buy flats?",
+        "answer": "Yes, Omaxe City is a premium gated township offering safety, amenities, and long-term value."
+      },
+      {
+        "question": "What flat sizes are available in Omaxe City?",
+        "answer": "Flats ranging from 4 Marla to 14 Marla are available."
+      },
+      {
+        "question": "Are flats in Omaxe City suitable for family living?",
+        "answer": "Yes, the township is family-friendly with parks, security, and essential facilities."
+      },
+      {
+        "question": "Is Omaxe City good for property investment?",
+        "answer": "Yes, due to its planned development and high demand, it offers strong appreciation potential."
+      },
+      {
+        "question": "Are Deal Acres listings verified?",
+        "answer": "Yes, all listings on Deal Acres are thoroughly verified."
+      },
+      {
+        "question": "Are daily amenities easily accessible?",
+        "answer": "Yes, schools, hospitals, markets, and shopping areas are nearby."
+      },
+      {
+        "question": "Can I get home loan assistance?",
+        "answer": "Home loan options depend on bank policies and project approvals."
+      },
+      {
+        "question": "How is connectivity from Omaxe City?",
+        "answer": "Omaxe City is well-connected to major roads and nearby sectors of Bahadurgarh."
+      },
+      {
+        "question": "Why should I buy flats through Deal Acres?",
+        "answer": "Deal Acres offers verified listings, expert guidance, and transparent transactions."
+      },
+      {
+        "question": "How can I contact a property expert?",
+        "answer": "Fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get in Touch to Buy the Best Flats in Omaxe City Bahadurgarh",
+    "description": [
+      "Finding the right flats for sale in Omaxe City Bahadurgarh becomes simple with expert assistance.",
+      "Share your requirements through the form and connect with trusted real estate professionals today."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "message"]
+  }
+}

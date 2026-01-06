@@ -1,0 +1,169 @@
+{
+  "domain": "3BHKflatforsalecom",
+  "hero": {
+    "title": "Premium and Well-Planned 3BHK Flats for Sale in Sector 75 Noida",
+    "description": [
+      "Sector 75 Noida is a well-developed residential locality that has gained strong popularity among homebuyers due to its planned infrastructure and central location. Situated close to major sectors, commercial hubs, and daily convenience zones, the area offers smooth connectivity to Sector 18, Noida City Centre, and Noida–Greater Noida Expressway. Buyers looking for a 3BHK flat for sale in Sector 75 Noida prefer this location for its balanced lifestyle, green surroundings, and easy access to schools, hospitals, and shopping complexes.",
+      "3BHK flats for sale in Sector 75 Noida are available in modern gated societies designed to meet the needs of urban families. These residential projects feature spacious layouts, proper ventilation, natural lighting, and lifestyle amenities such as parks, clubhouses, gyms, swimming pools, and 24/7 security. With a mix of ready-to-move and under-construction properties, Sector 75 offers options for both end-users and investors seeking long-term appreciation and comfortable living."
+    ],
+    "buttons": [
+      {
+        "label": "Explore 3BHK Flats in Sector 75",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "3BHK Flat Size Options Available in Sector 75 Noida",
+    "description": [
+      "Choosing the right 3BHK flat for sale in Sector 75 Noida depends on family size, lifestyle needs, and budget preferences.",
+      "The sector offers multiple flat size options that cater to both practical living and premium comfort."
+    ],
+    "features": [
+      {
+        "title": "4 Marla 3BHK Flat for Sale in Sector 75 Noida",
+        "description": "A 4 Marla 3BHK flat for sale in Sector 75 Noida is ideal for small families looking for affordability, security, and a well-connected residential address."
+      },
+      {
+        "title": "6 Marla 3BHK Flat for Sale in Sector 75 Noida",
+        "description": "6 Marla 3BHK flats for sale in Sector 75 Noida offer well-balanced layouts with comfortable bedrooms, functional kitchens, and living areas."
+      },
+      {
+        "title": "8 Marla 3BHK Flat for Sale in Sector 75 Noida",
+        "description": "An 8 Marla 3BHK flat for sale in Sector 75 Noida provides extra space, better ventilation, and enhanced comfort for growing families."
+      },
+      {
+        "title": "10 Marla 3BHK Flat for Sale in Sector 75 Noida",
+        "description": "10 Marla 3BHK flats for sale in Sector 75 Noida are suitable for buyers seeking spacious interiors, balconies, and premium residential features."
+      },
+      {
+        "title": "12 Marla 3BHK Flat for Sale in Sector 75 Noida",
+        "description": "A 12 Marla 3BHK flat for sale in Sector 75 Noida supports luxury living with expansive layouts and access to high-end amenities."
+      },
+      {
+        "title": "14 Marla 3BHK Flat for Sale in Sector 75 Noida",
+        "description": "14 Marla 3BHK flats represent premium residential options in Sector 75 Noida, offering maximum space, privacy, and long-term value."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore 3BHK Flats for Sale Near Sector 75 Noida",
+    "description": [
+      "Buyers searching for a 3BHK flat for sale in Sector 75 Noida often explore nearby residential sectors for additional choices.",
+      "These surrounding areas further enhance Sector 75’s appeal as a central residential location."
+    ],
+    "locations": [
+      { "title": "3BHK Flat for Sale in Sector 75 Noida", "path": "/", "icon": "Home" },
+      { "title": "3BHK Flat for Sale in Sector 76 Noida", "path": "/", "icon": "Home" },
+      { "title": "3BHK Flat for Sale in Sector 74 Noida", "path": "/", "icon": "Home" },
+      { "title": "3BHK Flat for Sale in Sector 50 Noida", "path": "/", "icon": "Home" },
+      { "title": "Residential Flats near Noida City Centre", "path": "/", "icon": "Home" },
+      { "title": "Gated Society Apartments in Noida", "path": "/", "icon": "Home" },
+      { "title": "Ready to Move 3BHK Flats in Noida", "path": "/", "icon": "Home" },
+      { "title": "Family Homes in Central Noida", "path": "/", "icon": "Home" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Buyers Choose Deal Acres for 3BHK Flats in Sector 75",
+    "description": [
+      "Buying a 3BHK flat for sale in Sector 75 Noida requires verified listings, transparent pricing, and expert guidance.",
+      "Deal Acres provides a trusted and customer-focused property buying experience."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All listings are verified for ownership, approvals, and current availability."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear cost details with no hidden charges or misleading information."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth knowledge of Sector 75 Noida residential market trends."
+      },
+      {
+        "title": "Wide Range of Options",
+        "description": "Multiple 3BHK flat choices across societies and budgets."
+      },
+      {
+        "title": "Legal & Documentation Support",
+        "description": "Assistance with agreements, registry, and compliance processes."
+      },
+      {
+        "title": "Personalized Property Suggestions",
+        "description": "Recommendations based on family needs and future plans."
+      },
+      {
+        "title": "End-to-End Buying Support",
+        "description": "Support from property shortlisting to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for transparency, reliability, and customer satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About 3BHK Flats in Sector 75 Noida",
+    "description": "Answers to common buyer questions to help you make informed decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 75 Noida a good location to buy a 3BHK flat?",
+        "answer": "Yes, Sector 75 offers excellent connectivity, planned infrastructure, and quality residential societies, making it ideal for families."
+      },
+      {
+        "question": "What sizes of 3BHK flats are available in Sector 75?",
+        "answer": "3BHK flats from 4 Marla to 14 Marla are available depending on the project."
+      },
+      {
+        "question": "Are ready-to-move 3BHK flats available in Sector 75?",
+        "answer": "Yes, both ready-to-move and under-construction options are available."
+      },
+      {
+        "question": "How is connectivity from Sector 75 Noida?",
+        "answer": "Sector 75 is well-connected to major roads, metro stations, and commercial hubs."
+      },
+      {
+        "question": "Are these flats suitable for families?",
+        "answer": "Yes, the area offers a safe, green, and family-friendly living environment."
+      },
+      {
+        "question": "What amenities do residential societies provide?",
+        "answer": "Amenities include parks, clubhouse, gym, security, parking, and power backup."
+      },
+      {
+        "question": "Is Sector 75 good for long-term investment?",
+        "answer": "Yes, stable demand and central location support long-term appreciation."
+      },
+      {
+        "question": "Can I get a home loan for buying a flat here?",
+        "answer": "Most projects are approved by leading banks and housing finance companies."
+      },
+      {
+        "question": "Why should I buy through Deal Acres?",
+        "answer": "Deal Acres offers verified listings, expert guidance, and transparent deals."
+      },
+      {
+        "question": "How can I contact property experts?",
+        "answer": "Fill out the contact form on this page to connect with experienced advisors."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Buying 3BHK Flats in Sector 75 Noida",
+    "description": [
+      "Finding the right 3BHK flat for sale in Sector 75 Noida becomes easier with expert support.",
+      "Share your requirements and contact details to connect with trusted property consultants."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "message"]
+  }
+}

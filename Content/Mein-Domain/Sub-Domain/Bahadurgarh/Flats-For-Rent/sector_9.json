@@ -1,0 +1,169 @@
+{
+  "domain": "Flatsforrent.com",
+  "hero": {
+    "title": "Well Located and Affordable Flats for Rent in Sector 9 Bahadurgarh",
+    "description": [
+      "Sector 9 Bahadurgarh is one of the most preferred residential locations due to its well-developed infrastructure, central connectivity, and strong civic amenities. The area is surrounded by local markets, schools, hospitals, banks, and public transport options, making everyday life convenient for residents. People searching for flats for rent in Sector 9 Bahadurgarh generally look for a location that offers comfort, safety, and easy access to daily essentials, which Sector 9 delivers consistently.",
+      "Choosing flats for rent in Sector 9 Bahadurgarh is ideal for families, working professionals, and students who want a balanced lifestyle. The locality offers a peaceful living environment while being close to commercial areas and major roads. With multiple housing options available in different Marla sizes, tenants can easily find flats that match their budget and space requirements, making Sector 9 a reliable and popular rental destination."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Flats in Sector 9",
+        "path": "/"
+      },
+      {
+        "label": "Connect with Rental Expert",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1502673530728-f79b4cab31b1?w=900&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=900&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Marla Wise Flats for Rent Options in Sector 9 Bahadurgarh",
+    "description": [
+      "Flats for rent in Sector 9 Bahadurgarh are available in multiple Marla sizes to suit different family needs and rental budgets.",
+      "These options allow tenants to choose flats based on space, comfort, and long-term living requirements."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Flats for Rent in Sector 9 Bahadurgarh",
+        "description": "4 Marla flats for rent in Sector 9 Bahadurgarh are suitable for bachelors, couples, and small families looking for affordable and manageable living spaces."
+      },
+      {
+        "title": "6 Marla Flats for Rent in Sector 9 Bahadurgarh",
+        "description": "6 Marla flats for rent in Sector 9 Bahadurgarh offer a good balance of space and comfort, making them ideal for nuclear families."
+      },
+      {
+        "title": "8 Marla Flats for Rent in Sector 9 Bahadurgarh",
+        "description": "8 Marla flats for rent in Sector 9 Bahadurgarh provide additional space for better room layouts, storage, and daily comfort."
+      },
+      {
+        "title": "10 Marla Flats for Rent in Sector 9 Bahadurgarh",
+        "description": "10 Marla flats for rent in Sector 9 Bahadurgarh are preferred by families seeking spacious rooms, parking convenience, and privacy."
+      },
+      {
+        "title": "12 Marla Flats for Rent in Sector 9 Bahadurgarh",
+        "description": "12 Marla flats for rent in Sector 9 Bahadurgarh are ideal for joint families or tenants looking for premium residential living."
+      },
+      {
+        "title": "14 Marla Flats for Rent in Sector 9 Bahadurgarh",
+        "description": "14 Marla flats for rent in Sector 9 Bahadurgarh offer luxury-level space, large interiors, and a high-comfort living experience."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Flats for Rent Locations Around Sector 9",
+    "description": [
+      "Tenants looking for flats for rent in Sector 9 Bahadurgarh often explore nearby sectors for more choices.",
+      "These surrounding areas also provide good residential facilities and strong connectivity."
+    ],
+    "locations": [
+      { "title": "Flats for Rent in Sector 9 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Sector 6 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Sector 15 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Sector 2 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent on Delhi Rohtak Highway", "path": "/", "icon": "Map" },
+      { "title": "Residential Flats in Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Affordable Flats for Rent in Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Family Flats for Rent in Bahadurgarh", "path": "/", "icon": "Map" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Trusted Platform for Rental Flats",
+    "description": [
+      "Finding flats for rent in Sector 9 Bahadurgarh requires verified listings and clear rental information.",
+      "Deal Acres ensures transparency, trust, and a smooth rental experience for tenants."
+    ],
+    "points": [
+      {
+        "title": "Verified Flat Listings",
+        "description": "All rental flats are verified for authenticity and genuine ownership."
+      },
+      {
+        "title": "Transparent Rental Details",
+        "description": "Clear information about rent, deposits, and rental terms."
+      },
+      {
+        "title": "Strong Local Expertise",
+        "description": "Deep understanding of Sector 9 Bahadurgarh rental market."
+      },
+      {
+        "title": "Tenant-Centric Approach",
+        "description": "Recommendations tailored to tenant needs, budget, and family size."
+      },
+      {
+        "title": "Direct Owner Interaction",
+        "description": "Quick and easy communication with property owners."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Complete assistance from enquiry to final agreement."
+      },
+      {
+        "title": "Wide Rental Options",
+        "description": "Multiple flats available across different Marla sizes."
+      },
+      {
+        "title": "Trusted Real Estate Brand",
+        "description": "Deal Acres is known for reliability, transparency, and user trust."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Flats for Rent in Sector 9",
+    "description": "Common tenant questions answered to help you make the right decision.",
+    "faqs": [
+      {
+        "question": "Is Sector 9 Bahadurgarh good for renting flats?",
+        "answer": "Yes, Sector 9 is a well-developed and centrally located residential area with excellent amenities."
+      },
+      {
+        "question": "What types of flats are available in Sector 9?",
+        "answer": "Independent floors and residential flats in various Marla sizes are available."
+      },
+      {
+        "question": "Are flats in Sector 9 suitable for families?",
+        "answer": "Yes, the area is family-friendly with schools, markets, and hospitals nearby."
+      },
+      {
+        "question": "Is Sector 9 suitable for working professionals?",
+        "answer": "Yes, its connectivity and peaceful surroundings make it ideal for professionals."
+      },
+      {
+        "question": "Are affordable flats available in Sector 9 Bahadurgarh?",
+        "answer": "Yes, Sector 9 offers a wide range of affordable to premium rental flats."
+      },
+      {
+        "question": "Does Deal Acres verify rental listings?",
+        "answer": "Yes, all listings are verified before being shared with tenants."
+      },
+      {
+        "question": "Is rental assistance provided?",
+        "answer": "Yes, complete support is provided throughout the renting process."
+      },
+      {
+        "question": "Are furnished flats available in Sector 9?",
+        "answer": "Availability depends on current listings, including furnished and semi-furnished options."
+      },
+      {
+        "question": "Can I find large flats for rent in Sector 9?",
+        "answer": "Yes, 10 to 14 Marla flats are available for tenants seeking spacious homes."
+      },
+      {
+        "question": "How can I enquire about flats for rent?",
+        "answer": "You can submit your details through the enquiry form to connect with a rental expert."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Flats for Rent in Sector 9 Bahadurgarh",
+    "description": [
+      "Finding the right flat in Sector 9 Bahadurgarh becomes easy with professional guidance.",
+      "Share your rental requirements to receive verified listings and personalized support."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "flatSize", "message"]
+  }
+}

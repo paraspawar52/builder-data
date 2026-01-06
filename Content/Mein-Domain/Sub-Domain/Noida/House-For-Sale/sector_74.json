@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforsalecom",
+
+  "hero": {
+    "title": "Premium Independent Houses for Sale in Sector 74 Noida",
+    "description": [
+      "Sector 74 Noida is a well-developed and strategically located residential sector that offers a perfect balance of urban convenience and peaceful living. Buyers searching for a house for sale in Sector 74 Noida prefer this area due to its proximity to Noida City Centre, Sector 18 commercial hub, metro connectivity, reputed schools, hospitals, and daily utility markets. The sector features wide internal roads, landscaped parks, and planned residential blocks, ensuring a comfortable lifestyle for families and working professionals.",
+      "Houses for sale in Sector 74 Noida provide the advantage of independent living in a mature and low-density neighborhood. With limited availability of independent houses and consistent residential demand, properties here enjoy strong resale value and long-term appreciation. Whether you are looking for a family home or a secure real estate investment, Sector 74 Noida stands out as a reliable and future-proof residential destination."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses in Sector 74",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Independent House Size Options Available in Sector 74 Noida",
+    "description": [
+      "Choosing the right house size in Sector 74 Noida depends on family size, lifestyle needs, and future planning.",
+      "The sector offers a variety of independent house sizes suitable for both end-users and long-term investors."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Sector 74 Noida",
+        "description": "A 4 Marla house for sale in Sector 74 Noida is ideal for small families and first-time buyers. These houses are easy to maintain and located close to parks, markets, and daily convenience facilities."
+      },
+      {
+        "title": "6 Marla House for Sale in Sector 74 Noida",
+        "description": "6 Marla houses offer a perfect balance between space and affordability. These independent homes are suitable for nuclear families seeking privacy and long-term comfort."
+      },
+      {
+        "title": "8 Marla House for Sale in Sector 74 Noida",
+        "description": "An 8 Marla house in Sector 74 Noida provides larger rooms, better ventilation, and flexible interior planning, making it a preferred option for growing families."
+      },
+      {
+        "title": "10 Marla House for Sale in Sector 74 Noida",
+        "description": "10 Marla independent houses are ideal for families looking for spacious layouts, parking space, and enhanced living comfort in a prime Noida sector."
+      },
+      {
+        "title": "12 Marla House for Sale in Sector 74 Noida",
+        "description": "A 12 Marla house caters to buyers who value premium space, larger balconies, and a refined residential lifestyle in a well-established locality."
+      },
+      {
+        "title": "14 Marla House for Sale in Sector 74 Noida",
+        "description": "14 Marla houses represent premium independent living in Sector 74 Noida. These homes are suitable for large families and offer strong long-term appreciation potential."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Sale Near Sector 74 Noida",
+    "description": [
+      "Buyers exploring a house for sale in Sector 74 Noida often compare nearby sectors for pricing, connectivity, and amenities.",
+      "These surrounding areas further enhance the residential appeal of Sector 74."
+    ],
+    "locations": [
+      { "title": "House for Sale in Sector 74 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale in Sector 75 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale in Sector 76 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale in Sector 72 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses near City Centre Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Houses near Sector 18 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Family Homes in Central Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Premium Houses in Developed Noida Sectors", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Houses in Sector 74 Noida",
+    "description": [
+      "Buying a house for sale in Sector 74 Noida requires verified listings, transparent transactions, and expert guidance.",
+      "Deal Acres has earned buyer trust through ethical practices and a customer-first approach."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All properties are verified for ownership clarity and legal approval."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing structure with no hidden or surprise charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth understanding of Sector 74 Noida property trends and pricing."
+      },
+      {
+        "title": "Wide Range of House Options",
+        "description": "Multiple independent house sizes to suit varied budgets and family needs."
+      },
+      {
+        "title": "Complete Legal Support",
+        "description": "Assistance with agreements, documentation, and registry process."
+      },
+      {
+        "title": "Personalized Buying Guidance",
+        "description": "Advice based on lifestyle needs and long-term residential goals."
+      },
+      {
+        "title": "End-to-End Buying Assistance",
+        "description": "Support from property search to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for transparency, reliability, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Sale in Sector 74 Noida",
+    "description": "Clear and detailed answers to help buyers make informed decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 74 Noida a good area to buy a house?",
+        "answer": "Yes, Sector 74 Noida is a well-developed residential area with excellent connectivity, amenities, and long-term value."
+      },
+      {
+        "question": "What house sizes are available in Sector 74 Noida?",
+        "answer": "Independent houses are generally available from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Is Sector 74 suitable for family living?",
+        "answer": "Yes, the sector offers parks, schools, hospitals, and a peaceful environment ideal for families."
+      },
+      {
+        "question": "How is connectivity from Sector 74 Noida?",
+        "answer": "Sector 74 enjoys strong connectivity to Noida City Centre, metro stations, and major road networks."
+      },
+      {
+        "question": "Are houses in Sector 74 legally approved?",
+        "answer": "Most houses are legally approved, and Deal Acres assists buyers with complete legal verification."
+      },
+      {
+        "question": "Is buying a house in Sector 74 a good investment?",
+        "answer": "Yes, limited supply and steady demand support stable appreciation."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 74 Noida?",
+        "answer": "Yes, home loans are available from leading banks for eligible properties."
+      },
+      {
+        "question": "What amenities are available near Sector 74 Noida?",
+        "answer": "The area offers schools, hospitals, shopping centers, parks, and daily convenience facilities."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, and end-to-end buying support."
+      },
+      {
+        "question": "How can I contact property experts for Sector 74 Noida?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Houses for Sale in Sector 74 Noida",
+    "description": [
+      "Finding the right house for sale in Sector 74 Noida becomes simple with expert guidance.",
+      "Share your details to connect with trusted real estate professionals and explore verified housing options confidently."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

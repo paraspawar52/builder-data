@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforrentcom",
+  "hero": {
+    "title": "Well-Connected Independent Houses for Rent in Sector 99 Noida",
+    "description": [
+      "Sector 99 Noida is an emerging residential destination known for its strategic location, planned infrastructure, and growing connectivity. Situated close to the Noida–Greater Noida Expressway and key arterial roads, the sector offers smooth access to commercial hubs, IT parks, schools, hospitals, and daily convenience markets. Tenants searching for a house for rent in Sector 99 Noida prefer this area for its balanced lifestyle, less congestion, and proximity to both central Noida and Greater Noida.",
+      "Houses for rent in Sector 99 Noida provide the comfort of independent living in a calm and developing neighborhood. With wide roads, open spaces, and a mix of modern residential developments, the sector is suitable for families, working professionals, and long-term tenants. As infrastructure continues to improve, Sector 99 is steadily gaining popularity as a practical and future-ready rental location in Noida."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent in Sector 99",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Independent House Rental Size Options in Sector 99 Noida",
+    "description": [
+      "Choosing the right house for rent in Sector 99 Noida depends on your family size, lifestyle needs, and monthly rental budget.",
+      "The sector offers multiple independent house sizes that cater to both affordable and premium rental requirements."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 99 Noida",
+        "description": "A 4 Marla house for rent in Sector 99 Noida is ideal for individuals, couples, or small families. These homes are easy to maintain, well-ventilated, and located close to essential facilities, making them a practical entry-level rental option."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 99 Noida",
+        "description": "6 Marla houses for rent in Sector 99 Noida offer a good balance of space and affordability. Suitable for nuclear families, these houses provide comfortable layouts and a peaceful residential environment."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 99 Noida",
+        "description": "An 8 Marla house for rent in Sector 99 Noida is preferred by tenants looking for larger living areas and better privacy. These homes are suitable for families planning long-term stays."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 99 Noida",
+        "description": "10 Marla independent houses for rent in Sector 99 Noida cater to larger families and professionals who need spacious interiors and enhanced comfort."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 99 Noida",
+        "description": "A 12 Marla house for rent in Sector 99 Noida is ideal for joint families or tenants who value open spaces, parking convenience, and a quieter neighborhood."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 99 Noida",
+        "description": "14 Marla houses represent premium independent living in Sector 99 Noida. These properties offer expansive layouts, privacy, and a high-comfort rental lifestyle."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 99 Noida",
+    "description": [
+      "Tenants searching for a house for rent in Sector 99 Noida often explore nearby sectors to find the best match for their needs.",
+      "These surrounding localities further enhance Sector 99’s appeal as a growing residential rental hub."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 99 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 100 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 101 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 98 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses near Noida Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Rental Houses near IT Hubs Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Family Houses near Central Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Houses near Greater Noida Link", "path": "/", "icon": "Landmark" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Houses in Sector 99 Noida",
+    "description": [
+      "Renting a house in Sector 99 Noida requires verified listings, transparent terms, and reliable local guidance.",
+      "Deal Acres has earned tenant trust by consistently offering genuine properties and a smooth rental experience."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "All properties are checked for ownership authenticity and genuine availability."
+      },
+      {
+        "title": "Transparent Rental Pricing",
+        "description": "Clear information on rent, security deposit, and rental conditions."
+      },
+      {
+        "title": "Strong Local Market Knowledge",
+        "description": "Deep understanding of Sector 99 Noida rental trends and pricing."
+      },
+      {
+        "title": "Wide Range of House Options",
+        "description": "Multiple house sizes available to suit different family needs and budgets."
+      },
+      {
+        "title": "Rental Agreement Support",
+        "description": "Assistance with documentation and basic legal formalities."
+      },
+      {
+        "title": "Personalized Property Suggestions",
+        "description": "Property recommendations based on tenant lifestyle and preferences."
+      },
+      {
+        "title": "End-to-End Rental Assistance",
+        "description": "Support from property shortlisting to final move-in."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for transparency, reliability, and customer satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 99 Noida",
+    "description": "Detailed and user-friendly answers to help tenants make informed rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 99 Noida a good area to rent a house?",
+        "answer": "Yes, Sector 99 Noida is a developing residential area with good connectivity, planned infrastructure, and a peaceful environment."
+      },
+      {
+        "question": "What house sizes are available for rent in Sector 99 Noida?",
+        "answer": "Independent houses from 4 Marla to 14 Marla are available, depending on availability."
+      },
+      {
+        "question": "Is Sector 99 suitable for family living?",
+        "answer": "Yes, the sector offers a calm environment and is gradually developing essential facilities for families."
+      },
+      {
+        "question": "How is connectivity from Sector 99 Noida?",
+        "answer": "Sector 99 enjoys good connectivity via expressways and major roads linking Noida and Greater Noida."
+      },
+      {
+        "question": "Are houses in Sector 99 safe for tenants?",
+        "answer": "Most residential pockets are well-planned and considered safe for tenants."
+      },
+      {
+        "question": "What is the average rent in Sector 99 Noida?",
+        "answer": "Rental prices vary depending on house size, condition, and exact location within the sector."
+      },
+      {
+        "question": "Do landlords provide proper rental agreements?",
+        "answer": "Yes, proper rental agreements are standard practice, and Deal Acres assists with documentation."
+      },
+      {
+        "question": "Is Sector 99 suitable for working professionals?",
+        "answer": "Yes, due to its proximity to expressways and office hubs, it suits working professionals."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent processes, and complete rental support."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 99 Noida?",
+        "answer": "You can fill out the contact form on this page to connect with experienced rental consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Houses for Rent in Sector 99 Noida",
+    "description": [
+      "Finding the right house for rent in Sector 99 Noida becomes easier with expert guidance.",
+      "Share your details to connect with trusted rental professionals and explore verified properties with confidence."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

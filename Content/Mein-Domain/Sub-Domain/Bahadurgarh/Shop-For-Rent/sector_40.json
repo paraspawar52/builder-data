@@ -1,0 +1,169 @@
+{
+  "domain": "Shopforrent.com",
+  "hero": {
+    "title": "Well Located Shop for Rent in Sector 40 Bahadurgarh",
+    "description": [
+      "Sector 40 Bahadurgarh is an emerging commercial and residential locality known for its organized layout, internal road connectivity, and growing local population. The area is steadily attracting retailers, service providers, and small business owners who want a balanced commercial environment without the congestion of older markets. People searching for a shop for rent in Sector 40 Bahadurgarh usually look for affordability, daily customer movement, and ease of access, all of which this sector offers naturally.",
+      "Shop for rent in Sector 40 Bahadurgarh is suitable for grocery stores, medical shops, salons, coaching centers, and daily-need retail outlets. With nearby housing societies and smooth connectivity to other parts of Bahadurgarh, the sector ensures consistent footfall throughout the day. Renting a shop here helps businesses establish themselves in a calm yet commercially promising location with long-term growth potential."
+    ],
+    "buttons": [
+      {
+        "label": "Browse Shops for Rent",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=900&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1555529771-835f59fc5efe?w=900&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Marla Wise Shop for Rent Options in Sector 40 Bahadurgarh",
+    "description": [
+      "Shop for rent in Sector 40 Bahadurgarh is available in multiple Marla sizes to meet different business needs.",
+      "These options help tenants select shops based on space requirements, customer handling, and budget."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Shop for Rent in Sector 40 Bahadurgarh",
+        "description": "4 Marla shop for rent in Sector 40 Bahadurgarh is ideal for small retail stores, mobile shops, and service-based businesses with limited space needs."
+      },
+      {
+        "title": "6 Marla Shop for Rent in Sector 40 Bahadurgarh",
+        "description": "6 Marla shop for rent in Sector 40 Bahadurgarh suits medical stores, offices, and medium-sized retail outlets looking for better layout flexibility."
+      },
+      {
+        "title": "8 Marla Shop for Rent in Sector 40 Bahadurgarh",
+        "description": "8 Marla shop for rent in Sector 40 Bahadurgarh offers improved frontage and interior space, suitable for showrooms and food outlets."
+      },
+      {
+        "title": "10 Marla Shop for Rent in Sector 40 Bahadurgarh",
+        "description": "10 Marla shop for rent in Sector 40 Bahadurgarh is preferred by coaching centers, branded retail stores, and cafés."
+      },
+      {
+        "title": "12 Marla Shop for Rent in Sector 40 Bahadurgarh",
+        "description": "12 Marla shop for rent in Sector 40 Bahadurgarh works well for established businesses planning long-term operations."
+      },
+      {
+        "title": "14 Marla Shop for Rent in Sector 40 Bahadurgarh",
+        "description": "14 Marla shop for rent in Sector 40 Bahadurgarh provides large commercial space suitable for anchor stores and multi-purpose businesses."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Shop for Rent Locations in Bahadurgarh",
+    "description": [
+      "Tenants looking for a shop for rent in Sector 40 Bahadurgarh often explore nearby sectors for comparison.",
+      "These locations also offer good commercial rental opportunities."
+    ],
+    "locations": [
+      { "title": "Shop for Rent in Sector 40 Bahadurgarh", "path": "/", "icon": "Store" },
+      { "title": "Shop for Rent in Sector 37 Bahadurgarh", "path": "/", "icon": "Store" },
+      { "title": "Shop for Rent in Sector 36 Bahadurgarh", "path": "/", "icon": "Store" },
+      { "title": "Shop for Rent in Sector 15 Bahadurgarh", "path": "/", "icon": "Store" },
+      { "title": "Shop for Rent in Sector 9 Bahadurgarh", "path": "/", "icon": "Store" },
+      { "title": "Retail Shops for Rent in Bahadurgarh", "path": "/", "icon": "Store" },
+      { "title": "Commercial Space for Rent in Bahadurgarh", "path": "/", "icon": "Store" },
+      { "title": "Market Shops for Rent in Bahadurgarh", "path": "/", "icon": "Store" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is Preferred for Renting Shops",
+    "description": [
+      "Finding the right shop for rent in Sector 40 Bahadurgarh requires verified listings and local market understanding.",
+      "Deal Acres focuses on transparency, trust, and business-friendly rental solutions."
+    ],
+    "points": [
+      {
+        "title": "Verified Shop Listings",
+        "description": "All rental shops are checked for authenticity and basic ownership clarity."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 40 commercial demand and pricing."
+      },
+      {
+        "title": "Business-Specific Matching",
+        "description": "Shop options suggested according to business type and space needs."
+      },
+      {
+        "title": "Transparent Rental Details",
+        "description": "Clear information about rent, security deposit, and terms."
+      },
+      {
+        "title": "Direct Owner Interaction",
+        "description": "Helps reduce brokerage and speeds up finalization."
+      },
+      {
+        "title": "Documentation Assistance",
+        "description": "Support provided for rent agreements and basic paperwork."
+      },
+      {
+        "title": "Long-Term Business Focus",
+        "description": "Ideal for tenants planning stable and long-term business operations."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for reliability and customer satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Shop for Rent in Sector 40",
+    "description": "Common questions answered to help tenants take confident rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 40 Bahadurgarh good for renting a shop?",
+        "answer": "Yes, Sector 40 offers growing residential demand, organized markets, and good connectivity, making it suitable for retail businesses."
+      },
+      {
+        "question": "What types of shops are available in Sector 40?",
+        "answer": "Grocery stores, medical shops, salons, offices, and small showrooms are commonly available."
+      },
+      {
+        "question": "Are rents affordable in Sector 40?",
+        "answer": "Yes, rental rates are generally reasonable compared to main commercial hubs."
+      },
+      {
+        "question": "Which Marla size is best for small businesses?",
+        "answer": "4 to 6 Marla shops are ideal for small and medium businesses."
+      },
+      {
+        "question": "Is parking available near shops?",
+        "answer": "Parking availability depends on the specific property and road width."
+      },
+      {
+        "question": "Does Deal Acres verify shop listings?",
+        "answer": "Yes, Deal Acres focuses on verified and genuine rental listings."
+      },
+      {
+        "question": "Can I rent a shop for long-term use?",
+        "answer": "Yes, many owners prefer tenants planning long-term business operations."
+      },
+      {
+        "question": "Is Sector 40 well connected to other areas?",
+        "answer": "Yes, it has good internal roads and connectivity to nearby sectors."
+      },
+      {
+        "question": "Are shops suitable for food businesses?",
+        "answer": "Yes, depending on location and permissions, food outlets can operate here."
+      },
+      {
+        "question": "How can I enquire about shops in Sector 40?",
+        "answer": "You can submit the enquiry form to connect with a rental expert."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Shop for Rent in Sector 40 Bahadurgarh",
+    "description": [
+      "Finding the right shop for rent in Sector 40 Bahadurgarh becomes easier with professional guidance.",
+      "Share your business requirements to receive verified listings and personalized assistance."
+    ],
+    "formFields": ["name", "phone", "email", "businessType", "budget", "message"]
+  }
+}

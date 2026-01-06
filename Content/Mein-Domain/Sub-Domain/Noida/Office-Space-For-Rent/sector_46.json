@@ -1,0 +1,169 @@
+{
+  "domain": "officespaceforrentcom",
+  "hero": {
+    "title": "Strategically Located and Affordable Office Spaces for Rent in Sector 46 Noida",
+    "description": [
+      "Sector 46 Noida is a well-established and centrally positioned locality that offers a perfect balance between residential comfort and commercial convenience. Known for its smooth road connectivity and proximity to major Noida sectors, this area provides easy access to metro stations, business hubs, and key city routes. Businesses looking for office space for rent in Sector 46 Noida benefit from its calm environment, strategic location, and hassle-free daily commuting for employees and clients.",
+      "Office spaces for rent in Sector 46 Noida are surrounded by local markets, banks, hospitals, restaurants, and residential societies, ensuring complete operational convenience. The sector is ideal for startups, consulting firms, service-based companies, and small to mid-sized enterprises seeking professional office setups at reasonable rental values. With stable infrastructure, consistent commercial demand, and excellent connectivity to central Noida, Sector 46 offers long-term value and a reliable business environment for growing companies."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces in Sector 46",
+        "path": "/"
+      },
+      {
+        "label": "Get Office Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1604328698692-f76ea9498e76?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Office Space Size Options Available in Sector 46 Noida",
+    "description": [
+      "Choosing the right office space for rent in Sector 46 Noida depends on your team size, work requirements, and future growth plans.",
+      "Sector 46 offers a variety of office space sizes suitable for startups, growing firms, and established businesses."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space for Rent in Sector 46 Noida",
+        "description": "A 4 Marla office space for rent in Sector 46 Noida is ideal for freelancers, consultants, and small startups. These compact offices provide a professional working environment at affordable rental values, helping businesses manage costs while enjoying a central Noida location."
+      },
+      {
+        "title": "6 Marla Office Space for Rent in Sector 46 Noida",
+        "description": "6 Marla office spaces for rent in Sector 46 Noida are suitable for growing companies that need separate cabins, workstations, and meeting areas. These offices offer a practical balance of space, comfort, and affordability."
+      },
+      {
+        "title": "8 Marla Office Space for Rent in Sector 46 Noida",
+        "description": "An 8 Marla office space for rent in Sector 46 Noida is ideal for mid-sized teams requiring flexibility and better layout planning. These offices support collaborative working and allow customization for improved productivity."
+      },
+      {
+        "title": "10 Marla Office Space for Rent in Sector 46 Noida",
+        "description": "10 Marla office spaces in Sector 46 Noida are preferred by established organizations that require structured departments, conference rooms, and client-facing areas. These offices are generally located in well-maintained commercial buildings."
+      },
+      {
+        "title": "12 Marla Office Space for Rent in Sector 46 Noida",
+        "description": "A 12 Marla office space for rent in Sector 46 Noida is suitable for companies planning long-term operations and expansion. These spacious offices provide layout flexibility, employee comfort, and branding opportunities."
+      },
+      {
+        "title": "14 Marla Office Space for Rent in Sector 46 Noida",
+        "description": "14 Marla office spaces represent premium office options in Sector 46 Noida. Designed for large teams and multi-department setups, these offices provide scale, visibility, and a strong professional presence."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Office Spaces for Rent Near Sector 46 Noida",
+    "description": [
+      "Businesses searching for office space for rent in Sector 46 Noida often explore nearby sectors to compare rental values, connectivity, and infrastructure.",
+      "These surrounding locations enhance Sector 46’s appeal as a convenient and accessible office destination in Noida."
+    ],
+    "locations": [
+      { "title": "Office Space for Rent in Sector 46 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space for Rent in Sector 47 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space for Rent in Sector 49 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space for Rent in Sector 41 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space near Noida City Centre", "path": "/", "icon": "Building2" },
+      { "title": "Commercial Office Spaces in Central Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Spaces near Metro Stations Noida", "path": "/", "icon": "Building2" },
+      { "title": "Corporate Office Spaces in Noida", "path": "/", "icon": "Building2" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Businesses Trust Deal Acres for Office Space in Sector 46 Noida",
+    "description": [
+      "Finding the right office space for rent in Sector 46 Noida requires verified listings, transparent pricing, and strong local expertise.",
+      "Deal Acres has earned the trust of businesses by providing reliable, professional, and customer-focused commercial real estate solutions."
+    ],
+    "points": [
+      {
+        "title": "Verified Office Space Listings",
+        "description": "Deal Acres verifies every office listing for ownership and availability, ensuring accurate and trustworthy property options."
+      },
+      {
+        "title": "Transparent Rental Pricing",
+        "description": "Clear details on rent, deposits, and lease terms help businesses plan budgets confidently."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "With deep understanding of Sector 46 Noida, Deal Acres helps businesses identify the most suitable office spaces."
+      },
+      {
+        "title": "Wide Range of Office Options",
+        "description": "From compact offices to large corporate setups, Deal Acres offers multiple office configurations for diverse business needs."
+      },
+      {
+        "title": "Personalized Office Shortlisting",
+        "description": "Office spaces are shortlisted based on business size, industry type, budget, and growth plans."
+      },
+      {
+        "title": "Professional Lease Assistance",
+        "description": "Deal Acres supports negotiations, documentation, and legal formalities for a smooth rental experience."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "From first inquiry to final possession, businesses receive complete assistance throughout the office renting journey."
+      },
+      {
+        "title": "Trusted Commercial Real Estate Platform",
+        "description": "Deal Acres is widely trusted for professionalism, transparency, and customer satisfaction across Noida."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Office Space for Rent in Sector 46 Noida",
+    "description": "Detailed answers to common questions to help businesses make informed office rental decisions in Sector 46 Noida.",
+    "faqs": [
+      {
+        "question": "Is Sector 46 Noida a good location for office space?",
+        "answer": "Yes, Sector 46 Noida is a centrally located and peaceful area offering good connectivity and a professional working environment."
+      },
+      {
+        "question": "What office sizes are available in Sector 46 Noida?",
+        "answer": "Office spaces are available in sizes ranging from 4 Marla to 14 Marla, suitable for startups and large enterprises."
+      },
+      {
+        "question": "Are furnished office spaces available in Sector 46?",
+        "answer": "Yes, furnished and semi-furnished office spaces are available depending on the property and landlord."
+      },
+      {
+        "question": "How is connectivity from Sector 46 Noida?",
+        "answer": "Sector 46 offers good connectivity to major Noida roads, nearby metro stations, and central commercial hubs."
+      },
+      {
+        "question": "What amenities can businesses expect?",
+        "answer": "Common amenities include power backup, parking, lifts, security services, and nearby daily convenience facilities."
+      },
+      {
+        "question": "What factors affect office rent in Sector 46 Noida?",
+        "answer": "Office rent depends on size, furnishing level, building condition, amenities, and exact location."
+      },
+      {
+        "question": "Is Sector 46 suitable for startups?",
+        "answer": "Yes, Sector 46 is suitable for startups due to affordable rental options and a calm working environment."
+      },
+      {
+        "question": "Can large enterprises find office space in Sector 46?",
+        "answer": "Yes, larger office configurations such as 12 Marla and 14 Marla are available for enterprises planning expansion."
+      },
+      {
+        "question": "Why should I choose Deal Acres for office rentals?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, expert guidance, and personalized support throughout the rental process."
+      },
+      {
+        "question": "How can I contact Deal Acres for office space assistance?",
+        "answer": "You can fill out the contact form on this page, and a Deal Acres expert will connect with you shortly."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Office Space for Rent in Sector 46 Noida",
+    "description": [
+      "Finding the right office space for rent in Sector 46 Noida becomes simple with professional guidance and verified listings.",
+      "Share your contact details and office requirements to connect with experienced commercial real estate experts at Deal Acres."
+    ],
+    "formFields": ["name", "phone", "email", "company", "message"]
+  }
+}

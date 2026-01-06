@@ -1,0 +1,169 @@
+{
+  "domain": "officespaceforrentcom",
+  "hero": {
+    "title": "Well Planned and Premium Office Spaces for Rent in Sector 133 Noida",
+    "description": [
+      "Sector 133 Noida is a rapidly emerging commercial destination located along the Noida-Greater Noida Expressway, making it highly attractive for modern businesses. Known for its planned infrastructure, corporate surroundings, and smooth road connectivity, the sector offers easy access to major business hubs, metro connectivity, and residential catchments. Businesses looking for office space for rent in Sector 133 Noida prefer this location due to its professional ecosystem, reduced travel time, and employee-friendly environment.",
+      "Office spaces for rent in Sector 133 Noida are surrounded by IT parks, corporate campuses, and premium residential societies, ensuring daily convenience and a balanced work-life atmosphere. The sector is suitable for startups, IT companies, consulting firms, and growing enterprises seeking scalable office solutions. With consistent commercial development and rising demand, Sector 133 provides long-term operational stability, excellent connectivity, and strong growth potential for businesses aiming to establish themselves in Noida."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces in Sector 133",
+        "path": "/"
+      },
+      {
+        "label": "Get Office Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1604328698692-f76ea9498e76?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Office Space Size Options Available in Sector 133 Noida",
+    "description": [
+      "Choosing the right office space for rent in Sector 133 Noida depends on business size, team structure, and future expansion goals.",
+      "The sector offers a wide range of office size configurations designed to support startups, mid-sized firms, and large enterprises."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space for Rent in Sector 133 Noida",
+        "description": "A 4 Marla office space for rent in Sector 133 Noida is ideal for freelancers, startups, and small teams seeking affordable yet professional work environments."
+      },
+      {
+        "title": "6 Marla Office Space for Rent in Sector 133 Noida",
+        "description": "6 Marla office spaces in Sector 133 Noida suit growing businesses that need additional cabins, meeting areas, and a structured layout."
+      },
+      {
+        "title": "8 Marla Office Space for Rent in Sector 133 Noida",
+        "description": "An 8 Marla office space for rent in Sector 133 Noida offers flexible layouts and is suitable for mid-sized teams requiring collaborative workspaces."
+      },
+      {
+        "title": "10 Marla Office Space for Rent in Sector 133 Noida",
+        "description": "10 Marla office spaces are preferred by established companies looking for conference rooms, departmental seating, and a strong corporate presence."
+      },
+      {
+        "title": "12 Marla Office Space for Rent in Sector 133 Noida",
+        "description": "A 12 Marla office space for rent in Sector 133 Noida is ideal for businesses planning long-term operations with scope for expansion."
+      },
+      {
+        "title": "14 Marla Office Space for Rent in Sector 133 Noida",
+        "description": "14 Marla office spaces represent premium commercial options in Sector 133 Noida, suitable for large teams and enterprise-level offices."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Office Spaces for Rent Near Sector 133 Noida",
+    "description": [
+      "Businesses searching for office space for rent in Sector 133 Noida often explore nearby sectors along the Noida Expressway for comparison.",
+      "These surrounding locations further strengthen Sector 133’s position as a leading commercial hub in Noida."
+    ],
+    "locations": [
+      { "title": "Office Space for Rent in Sector 133 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space for Rent in Sector 135 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space for Rent in Sector 137 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space for Rent in Sector 132 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space near Noida Expressway", "path": "/", "icon": "Building2" },
+      { "title": "IT Office Spaces in Noida", "path": "/", "icon": "Building2" },
+      { "title": "Commercial Offices near Metro Stations Noida", "path": "/", "icon": "Building2" },
+      { "title": "Corporate Office Spaces in Noida", "path": "/", "icon": "Building2" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Businesses Trust Deal Acres for Office Space in Sector 133 Noida",
+    "description": [
+      "Finding the right office space for rent in Sector 133 Noida requires verified listings, transparent pricing, and dependable professional support.",
+      "Deal Acres is trusted by businesses for its reliability, local expertise, and customer-focused commercial real estate services."
+    ],
+    "points": [
+      {
+        "title": "Verified Commercial Listings",
+        "description": "All office spaces are verified for ownership authenticity, location accuracy, and real-time availability."
+      },
+      {
+        "title": "Transparent Rental Pricing",
+        "description": "Clear information on rent, deposits, and lease terms ensures complete transparency."
+      },
+      {
+        "title": "Strong Local Market Expertise",
+        "description": "In-depth understanding of Sector 133 Noida’s commercial rental trends."
+      },
+      {
+        "title": "Wide Range of Office Options",
+        "description": "Multiple office sizes and configurations to suit different business requirements."
+      },
+      {
+        "title": "Customized Office Shortlisting",
+        "description": "Personalized recommendations based on team size, budget, and operational needs."
+      },
+      {
+        "title": "Negotiation and Documentation Support",
+        "description": "Professional assistance with lease negotiation and legal documentation."
+      },
+      {
+        "title": "End-to-End Commercial Assistance",
+        "description": "Support from office search to final possession without hassle."
+      },
+      {
+        "title": "High Customer Trust and Satisfaction",
+        "description": "Deal Acres is known for transparency, professionalism, and long-term client relationships."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Office Space for Rent in Sector 133 Noida",
+    "description": "Detailed answers to common queries to help businesses make confident office rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 133 Noida a good location for offices?",
+        "answer": "Yes, Sector 133 Noida is a prime commercial area near the Noida Expressway with strong corporate infrastructure."
+      },
+      {
+        "question": "What office sizes are available in Sector 133 Noida?",
+        "answer": "Office spaces typically range from 4 Marla to 14 Marla depending on building type and layout."
+      },
+      {
+        "question": "Is Sector 133 suitable for IT companies?",
+        "answer": "Yes, the sector is preferred by IT and technology-driven companies due to its ecosystem and connectivity."
+      },
+      {
+        "question": "How is connectivity from Sector 133 Noida?",
+        "answer": "Sector 133 offers excellent connectivity via Noida Expressway and nearby metro stations."
+      },
+      {
+        "question": "Are furnished office spaces available?",
+        "answer": "Yes, furnished and semi-furnished office options are available in many commercial buildings."
+      },
+      {
+        "question": "What amenities can businesses expect?",
+        "answer": "Common amenities include parking, power backup, security, lifts, and maintenance services."
+      },
+      {
+        "question": "What factors influence office rent in Sector 133?",
+        "answer": "Rent depends on office size, location, building grade, and furnishing level."
+      },
+      {
+        "question": "Is Sector 133 suitable for client-facing businesses?",
+        "answer": "Yes, its professional environment and accessibility make it ideal for client interactions."
+      },
+      {
+        "question": "Why choose Deal Acres for office rentals?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, and expert commercial guidance."
+      },
+      {
+        "question": "How can I contact office rental experts?",
+        "answer": "You can fill out the contact form on this page to connect with experienced Deal Acres consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Office Space for Rent in Sector 133 Noida",
+    "description": [
+      "Finding the right office space for rent in Sector 133 Noida becomes easy with expert guidance and verified listings.",
+      "Share your business requirements to connect with trusted office rental professionals and receive personalized assistance."
+    ],
+    "formFields": ["name", "phone", "email", "company", "message"]
+  }
+}

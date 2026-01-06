@@ -1,0 +1,169 @@
+{
+  "domain": "Flatsforrent.com",
+  "hero": {
+    "title": "Premium and Well Planned Flats for Rent in Omaxe City Bahadurgarh",
+    "description": [
+      "Omaxe City Bahadurgarh is a modern and well-planned township known for its organized infrastructure, wide roads, green parks, and secure residential environment. The locality is designed to offer a high-quality lifestyle with easy access to internal markets, schools, healthcare facilities, and recreational spaces. Tenants searching for flats for rent in Omaxe City Bahadurgarh are usually drawn by the peaceful surroundings, gated living, and better civic amenities compared to older residential areas.",
+      "Choosing flats for rent in Omaxe City Bahadurgarh is an ideal option for families and working professionals who value comfort, safety, and long-term living stability. The area offers a wide range of flats with modern layouts, good ventilation, and reliable maintenance services. With growing demand, strong connectivity, and a premium residential reputation, Omaxe City provides a perfect balance of lifestyle comfort and rental value in Bahadurgarh."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Flats in Omaxe City",
+        "path": "/"
+      },
+      {
+        "label": "Connect with Rental Expert",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?w=900&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1560185008-b033106af5c3?w=900&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Marla Wise Flats for Rent Options in Omaxe City Bahadurgarh",
+    "description": [
+      "Flats for rent in Omaxe City Bahadurgarh are available in multiple Marla configurations to suit different family sizes and lifestyle needs.",
+      "These Marla-wise rental options allow tenants to choose flats based on space requirements, comfort level, and budget."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Flats for Rent in Omaxe City Bahadurgarh",
+        "description": "4 Marla flats for rent in Omaxe City Bahadurgarh are suitable for bachelors, couples, and small families seeking affordable living in a premium township."
+      },
+      {
+        "title": "6 Marla Flats for Rent in Omaxe City Bahadurgarh",
+        "description": "6 Marla flats for rent in Omaxe City Bahadurgarh offer a balanced layout, ideal for nuclear families looking for comfort and privacy."
+      },
+      {
+        "title": "8 Marla Flats for Rent in Omaxe City Bahadurgarh",
+        "description": "8 Marla flats for rent in Omaxe City Bahadurgarh provide spacious rooms, better ventilation, and a comfortable family-friendly environment."
+      },
+      {
+        "title": "10 Marla Flats for Rent in Omaxe City Bahadurgarh",
+        "description": "10 Marla flats for rent in Omaxe City Bahadurgarh are preferred by families who need extra living space and modern amenities."
+      },
+      {
+        "title": "12 Marla Flats for Rent in Omaxe City Bahadurgarh",
+        "description": "12 Marla flats for rent in Omaxe City Bahadurgarh are ideal for joint families seeking spacious and premium rental homes."
+      },
+      {
+        "title": "14 Marla Flats for Rent in Omaxe City Bahadurgarh",
+        "description": "14 Marla flats for rent in Omaxe City Bahadurgarh offer large layouts and a luxurious residential experience."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Flats for Rent Locations Around Omaxe City",
+    "description": [
+      "Tenants looking for flats for rent in Omaxe City Bahadurgarh often explore nearby areas to compare rental options.",
+      "These surrounding locations also provide good residential infrastructure and connectivity."
+    ],
+    "locations": [
+      { "title": "Flats for Rent in Omaxe City Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Sector 14 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Sector 15 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Sector 9 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Sector 4A Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Premium Flats for Rent in Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Residential Flats in Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Family Flats for Rent in Bahadurgarh", "path": "/", "icon": "Map" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Most Trusted Platform for Rental Flats",
+    "description": [
+      "Searching for flats for rent in Omaxe City Bahadurgarh becomes simple with verified listings and transparent rental details.",
+      "Deal Acres focuses on trust, accuracy, and a smooth rental journey for tenants."
+    ],
+    "points": [
+      {
+        "title": "Verified Flat Listings",
+        "description": "All flats are verified to ensure authenticity and genuine availability."
+      },
+      {
+        "title": "Transparent Rental Information",
+        "description": "Clear details on rent, deposit, and terms without hidden costs."
+      },
+      {
+        "title": "Local Rental Market Knowledge",
+        "description": "In-depth understanding of Omaxe City and Bahadurgarh rental trends."
+      },
+      {
+        "title": "Tenant Focused Suggestions",
+        "description": "Flats recommended based on budget, family size, and lifestyle needs."
+      },
+      {
+        "title": "Direct Owner Communication",
+        "description": "Easy and direct contact with verified property owners."
+      },
+      {
+        "title": "End to End Rental Support",
+        "description": "Assistance from property shortlisting to rental agreement completion."
+      },
+      {
+        "title": "Wide Range of Choices",
+        "description": "Multiple flat sizes and configurations available in one place."
+      },
+      {
+        "title": "Trusted Real Estate Brand",
+        "description": "Deal Acres is known for reliability and customer satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Flats for Rent in Omaxe City",
+    "description": "Common questions answered to help tenants make informed rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Omaxe City Bahadurgarh good for renting flats?",
+        "answer": "Yes, Omaxe City is a premium township offering safe, clean, and well-planned residential living."
+      },
+      {
+        "question": "Are flats in Omaxe City suitable for families?",
+        "answer": "Yes, the locality is family-friendly with parks, security, and modern amenities."
+      },
+      {
+        "question": "Are rental flats available in different sizes?",
+        "answer": "Yes, flats from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Omaxe City safe for long-term rental living?",
+        "answer": "Yes, it is a gated township with good security and maintenance."
+      },
+      {
+        "question": "Are daily necessities easily accessible?",
+        "answer": "Yes, internal markets and nearby commercial areas meet daily needs."
+      },
+      {
+        "question": "Does Deal Acres verify rental listings?",
+        "answer": "Yes, every flat listing is verified before being shared."
+      },
+      {
+        "question": "Is help provided with rental agreements?",
+        "answer": "Yes, Deal Acres assists with documentation and rental formalities."
+      },
+      {
+        "question": "Are premium flats worth the rent in Omaxe City?",
+        "answer": "Yes, tenants benefit from better amenities, safety, and lifestyle value."
+      },
+      {
+        "question": "Is Omaxe City suitable for working professionals?",
+        "answer": "Yes, due to its peaceful environment and improving connectivity."
+      },
+      {
+        "question": "How can I enquire about available flats?",
+        "answer": "You can fill out the enquiry form to connect with a rental expert."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Assistance for Flats for Rent in Omaxe City Bahadurgarh",
+    "description": [
+      "Finding the right flat in Omaxe City Bahadurgarh becomes easy with expert support.",
+      "Share your requirements to receive verified listings and personalized rental guidance."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "flatSize", "message"]
+  }
+}

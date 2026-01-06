@@ -1,0 +1,169 @@
+{
+  "domain": "officespaceforrentcom",
+  "hero": {
+    "title": "Well Connected and Efficient Office Spaces for Rent in Sector 77 Noida",
+    "description": [
+      "Sector 77 Noida is a strategically located area that is steadily emerging as a practical choice for businesses looking for a calm yet well-connected office environment. Surrounded by developed residential sectors and supported by strong road connectivity, the sector offers easy access to central Noida, Sector 76, Sector 78, and major commercial zones. Businesses searching for office space for rent in Sector 77 Noida prefer this location due to smooth daily commuting, less congestion, and availability of essential amenities nearby.",
+      "Office spaces for rent in Sector 77 Noida are suitable for startups, service-based companies, IT support firms, and professional consultancies that want functional workspaces at reasonable rental values. The area provides a balanced working atmosphere with planned infrastructure, reliable utilities, and proximity to housing societies. Choosing an office in Sector 77 helps businesses maintain productivity, employee comfort, and long-term operational stability in a growing part of Noida."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces in Sector 77",
+        "path": "/"
+      },
+      {
+        "label": "Get Office Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1604328698692-f76ea9498e76?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Office Space Size Options Available in Sector 77 Noida",
+    "description": [
+      "Choosing the right office space for rent in Sector 77 Noida depends on team size, daily operations, and future business plans.",
+      "The sector offers flexible office size options suitable for startups, growing companies, and established enterprises."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space for Rent in Sector 77 Noida",
+        "description": "A 4 Marla office space for rent in Sector 77 Noida is ideal for freelancers, startups, and small teams looking for affordable and professional workspaces."
+      },
+      {
+        "title": "6 Marla Office Space for Rent in Sector 77 Noida",
+        "description": "6 Marla office spaces in Sector 77 Noida are suitable for growing businesses that need separate cabins, small meeting rooms, and organized layouts."
+      },
+      {
+        "title": "8 Marla Office Space for Rent in Sector 77 Noida",
+        "description": "An 8 Marla office space for rent in Sector 77 Noida offers flexible layouts and is ideal for mid-sized teams requiring collaborative work areas."
+      },
+      {
+        "title": "10 Marla Office Space for Rent in Sector 77 Noida",
+        "description": "10 Marla office spaces are preferred by established companies that need conference rooms, departmental seating, and a professional office setup."
+      },
+      {
+        "title": "12 Marla Office Space for Rent in Sector 77 Noida",
+        "description": "A 12 Marla office space for rent in Sector 77 Noida is suitable for businesses planning long-term operations with room for future expansion."
+      },
+      {
+        "title": "14 Marla Office Space for Rent in Sector 77 Noida",
+        "description": "14 Marla office spaces represent premium options in Sector 77 Noida, ideal for large teams and corporate offices."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Office Spaces for Rent Near Sector 77 Noida",
+    "description": [
+      "Businesses looking for office space for rent in Sector 77 Noida often explore nearby sectors to compare rental value and connectivity.",
+      "These surrounding locations enhance Sector 77’s appeal as a convenient commercial destination in Noida."
+    ],
+    "locations": [
+      { "title": "Office Space for Rent in Sector 77 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space for Rent in Sector 76 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space for Rent in Sector 78 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space for Rent in Sector 74 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space near Noida City Center", "path": "/", "icon": "Building2" },
+      { "title": "IT Office Spaces in Noida", "path": "/", "icon": "Building2" },
+      { "title": "Commercial Offices near Metro Stations Noida", "path": "/", "icon": "Building2" },
+      { "title": "Corporate Office Spaces in Noida", "path": "/", "icon": "Building2" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Businesses Trust Deal Acres for Office Space in Sector 77 Noida",
+    "description": [
+      "Finding the right office space for rent in Sector 77 Noida requires accurate listings, transparent pricing, and dependable local support.",
+      "Deal Acres is trusted by businesses for its professional approach, verified properties, and customer-first service."
+    ],
+    "points": [
+      {
+        "title": "Verified Office Listings",
+        "description": "All office spaces are verified for ownership authenticity, availability, and location accuracy."
+      },
+      {
+        "title": "Transparent Rental Details",
+        "description": "Clear information on rent, deposits, and lease terms helps businesses plan confidently."
+      },
+      {
+        "title": "Strong Local Market Knowledge",
+        "description": "In-depth understanding of Sector 77 Noida’s commercial rental trends."
+      },
+      {
+        "title": "Wide Range of Office Options",
+        "description": "Multiple office sizes and configurations to suit different business needs."
+      },
+      {
+        "title": "Customized Office Shortlisting",
+        "description": "Personalized recommendations based on team size, budget, and business requirements."
+      },
+      {
+        "title": "Negotiation and Documentation Support",
+        "description": "Professional assistance with rental negotiations and lease documentation."
+      },
+      {
+        "title": "End-to-End Commercial Assistance",
+        "description": "Support from initial office search to final possession."
+      },
+      {
+        "title": "High Customer Trust",
+        "description": "Deal Acres is known for reliability, transparency, and long-term client relationships."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Office Space for Rent in Sector 77 Noida",
+    "description": "Helpful answers to common questions to support confident office rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 77 Noida a good location for offices?",
+        "answer": "Yes, Sector 77 Noida offers good connectivity, planned infrastructure, and a calm working environment suitable for various businesses."
+      },
+      {
+        "question": "What office sizes are available in Sector 77 Noida?",
+        "answer": "Office spaces generally range from 4 Marla to 14 Marla, depending on building type and availability."
+      },
+      {
+        "question": "Is Sector 77 suitable for startups?",
+        "answer": "Yes, startups prefer Sector 77 due to competitive rentals and proximity to residential areas."
+      },
+      {
+        "question": "How is connectivity from Sector 77 Noida?",
+        "answer": "Sector 77 is well connected to nearby sectors and major city roads of Noida."
+      },
+      {
+        "question": "Are furnished office spaces available?",
+        "answer": "Yes, furnished and semi-furnished office space options are available in Sector 77 Noida."
+      },
+      {
+        "question": "What amenities can businesses expect?",
+        "answer": "Common amenities include parking, power backup, security, lifts, and maintenance services."
+      },
+      {
+        "question": "What factors affect office rent in Sector 77?",
+        "answer": "Office rent depends on size, location within the sector, building quality, and furnishing level."
+      },
+      {
+        "question": "Is Sector 77 suitable for client-facing offices?",
+        "answer": "Yes, the sector’s accessibility and professional environment support client interactions."
+      },
+      {
+        "question": "Why choose Deal Acres for office rentals?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and expert commercial guidance."
+      },
+      {
+        "question": "How can I contact office rental experts?",
+        "answer": "You can fill out the contact form on this page to connect with experienced Deal Acres consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Office Space for Rent in Sector 77 Noida",
+    "description": [
+      "Finding the right office space for rent in Sector 77 Noida is easier with expert support and verified listings.",
+      "Share your business requirements to connect with trusted office rental professionals and receive personalized assistance."
+    ],
+    "formFields": ["name", "phone", "email", "company", "message"]
+  }
+}

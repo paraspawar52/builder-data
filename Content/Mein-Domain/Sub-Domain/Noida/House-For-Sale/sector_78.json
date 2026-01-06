@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforsalecom",
+
+  "hero": {
+    "title": "Modern Independent Houses for Sale in Sector 78 Noida",
+    "description": [
+      "Sector 78 Noida is a well-developed residential locality known for its modern planning, green surroundings, and excellent connectivity to major parts of the city. Buyers searching for a house for sale in Sector 78 Noida are drawn to its proximity to Sector 76, Sector 75, Noida City Centre, and smooth access to metro stations and arterial roads. The sector offers a balanced lifestyle with nearby schools, hospitals, shopping complexes, parks, and daily convenience markets, making it ideal for families and working professionals.",
+      "Houses for sale in Sector 78 Noida provide the benefit of independent living in a planned and organized environment. The area has witnessed consistent residential demand due to its livability, strong infrastructure, and central location within Noida. Whether you are looking for a comfortable family home or a property with stable appreciation potential, Sector 78 stands out as a reliable and future-ready residential destination."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses in Sector 78",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Independent House Size Options Available in Sector 78 Noida",
+    "description": [
+      "Selecting the right house size in Sector 78 Noida depends on family size, lifestyle preferences, and long-term plans.",
+      "The sector offers multiple independent house configurations suitable for both self-use and investment."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Sector 78 Noida",
+        "description": "A 4 Marla house for sale in Sector 78 Noida is ideal for small families or first-time buyers seeking affordable independent living. These homes are easy to maintain and located close to metro connectivity, schools, and local markets. Due to steady demand, 4 Marla houses also offer good rental income and resale value."
+      },
+      {
+        "title": "6 Marla House for Sale in Sector 78 Noida",
+        "description": "6 Marla houses in Sector 78 Noida provide a balanced mix of space and affordability. These homes usually feature comfortable layouts, parking space, and good ventilation. Suitable for nuclear families, this option ensures daily comfort and stable appreciation."
+      },
+      {
+        "title": "8 Marla House for Sale in Sector 78 Noida",
+        "description": "An 8 Marla house for sale in Sector 78 Noida is preferred by families looking for larger living areas and better privacy. These houses support flexible interior planning and modern amenities, making them a safe long-term residential investment."
+      },
+      {
+        "title": "10 Marla House for Sale in Sector 78 Noida",
+        "description": "10 Marla independent houses in Sector 78 Noida are suitable for buyers seeking spacious layouts and premium comfort. These properties allow customization, additional floors, and modern features, making them ideal for long-term family living."
+      },
+      {
+        "title": "12 Marla House for Sale in Sector 78 Noida",
+        "description": "A 12 Marla house in Sector 78 Noida caters to buyers who value space, privacy, and long-term residential stability. These homes often include larger balconies, servant areas, and ample parking, offering both comfort and appreciation potential."
+      },
+      {
+        "title": "14 Marla House for Sale in Sector 78 Noida",
+        "description": "14 Marla houses represent premium independent living in Sector 78 Noida. Designed for large families and luxury buyers, these homes offer generous space, exclusivity, and strong long-term value due to limited availability."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Sale Near Sector 78 Noida",
+    "description": [
+      "Buyers looking for a house for sale in Sector 78 Noida often explore nearby sectors to compare pricing, connectivity, and amenities.",
+      "These surrounding locations further enhance Sector 78’s appeal as a preferred residential area."
+    ],
+    "locations": [
+      { "title": "House for Sale in Sector 78 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale in Sector 76 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale in Sector 75 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale in Sector 50 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses near Noida City Centre", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Houses near Noida Metro", "path": "/", "icon": "Landmark" },
+      { "title": "Family Homes in Central Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Budget Houses in Developed Noida Sectors", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Houses in Sector 78 Noida",
+    "description": [
+      "Buying a house for sale in Sector 78 Noida requires verified listings, transparent pricing, and expert local guidance.",
+      "Deal Acres has earned buyer trust through ethical practices and customer-first real estate services."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All properties are verified for ownership clarity, approvals, and legal authenticity."
+      },
+      {
+        "title": "Transparent Pricing Structure",
+        "description": "Clear pricing with no hidden charges ensures buyer confidence."
+      },
+      {
+        "title": "Strong Local Market Expertise",
+        "description": "In-depth knowledge of Sector 78 Noida property trends and buyer demand."
+      },
+      {
+        "title": "Wide Range of Property Options",
+        "description": "Multiple house sizes available to suit different budgets and family needs."
+      },
+      {
+        "title": "Complete Legal Assistance",
+        "description": "Support with documentation, agreements, and registry for smooth transactions."
+      },
+      {
+        "title": "Personalized Buying Advice",
+        "description": "Guidance tailored to lifestyle needs and long-term investment goals."
+      },
+      {
+        "title": "End-to-End Buying Support",
+        "description": "Assistance from property search to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for transparency, reliability, and high customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Sale in Sector 78 Noida",
+    "description": "Detailed answers to common buyer questions to help you make confident decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 78 Noida a good area to buy a house?",
+        "answer": "Yes, Sector 78 Noida is a well-developed residential area with good connectivity, infrastructure, and family-friendly surroundings."
+      },
+      {
+        "question": "What house sizes are available in Sector 78 Noida?",
+        "answer": "Independent houses are generally available from 4 Marla to 14 Marla, depending on current listings."
+      },
+      {
+        "question": "Is Sector 78 suitable for family living?",
+        "answer": "Absolutely. The sector offers schools, hospitals, parks, shopping areas, and metro connectivity nearby."
+      },
+      {
+        "question": "How is connectivity from Sector 78 Noida?",
+        "answer": "Sector 78 enjoys excellent road connectivity and easy access to metro stations and major Noida sectors."
+      },
+      {
+        "question": "Are houses in Sector 78 legally approved?",
+        "answer": "Most properties are approved, and Deal Acres assists buyers with complete legal verification."
+      },
+      {
+        "question": "Is buying a house in Sector 78 a good investment?",
+        "answer": "Yes, steady demand and developed surroundings support stable appreciation."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 78 Noida?",
+        "answer": "Yes, leading banks and financial institutions provide home loans for eligible properties."
+      },
+      {
+        "question": "What amenities are available near Sector 78 Noida?",
+        "answer": "The area offers schools, hospitals, malls, parks, offices, and daily convenience facilities."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, expert guidance, and complete transaction support."
+      },
+      {
+        "question": "How can I contact property experts for Sector 78?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Houses for Sale in Sector 78 Noida",
+    "description": [
+      "Finding the right house for sale in Sector 78 Noida becomes easier with expert guidance.",
+      "Share your details to connect with trusted property professionals and explore verified housing options confidently."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

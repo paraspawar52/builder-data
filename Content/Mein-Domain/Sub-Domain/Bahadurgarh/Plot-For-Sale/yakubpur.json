@@ -1,0 +1,169 @@
+{
+  "domain": "Plotforsale.com",
+  "hero": {
+    "title": "Affordable Residential and Investment Plots for Sale in Yakubpur Bahadurgarh",
+    "description": [
+      "Yakubpur Bahadurgarh is an emerging residential locality known for its peaceful environment, affordable land prices, and improving infrastructure. The area is preferred by buyers who want to build their own homes in a calm setting while staying connected to the main parts of Bahadurgarh. People searching for a plot for sale in Yakubpur Bahadurgarh usually look for budget-friendly options, clear land titles, and a neighborhood suitable for long-term living, which Yakubpur offers naturally.",
+      "Plot for sale in Yakubpur Bahadurgarh is ideal for residential construction as well as future investment planning. With steady development, improving road connectivity, and growing demand for plotted housing, Yakubpur is gradually gaining attention among end users and investors. Buying a plot here allows you to plan construction at your own pace while benefiting from long-term appreciation potential in a developing area of Bahadurgarh."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Plots in Yakubpur",
+        "path": "/"
+      },
+      {
+        "label": "Talk to Property Expert",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=900&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1592595896616-c37162298647?w=900&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Marla Wise Plot for Sale Options in Yakubpur Bahadurgarh",
+    "description": [
+      "Plot for sale in Yakubpur Bahadurgarh is available in multiple Marla sizes to suit different budgets and construction needs.",
+      "These options help buyers choose land based on family size, home planning, and investment goals."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Plot for Sale in Yakubpur Bahadurgarh",
+        "description": "4 Marla plot for sale in Yakubpur Bahadurgarh is suitable for small homes and first-time buyers looking for affordable land options."
+      },
+      {
+        "title": "6 Marla Plot for Sale in Yakubpur Bahadurgarh",
+        "description": "6 Marla plot for sale in Yakubpur Bahadurgarh offers balanced space, ideal for comfortable residential construction."
+      },
+      {
+        "title": "8 Marla Plot for Sale in Yakubpur Bahadurgarh",
+        "description": "8 Marla plot for sale in Yakubpur Bahadurgarh provides additional open space for better ventilation and parking."
+      },
+      {
+        "title": "10 Marla Plot for Sale in Yakubpur Bahadurgarh",
+        "description": "10 Marla plot for sale in Yakubpur Bahadurgarh is preferred by buyers planning spacious independent houses."
+      },
+      {
+        "title": "12 Marla Plot for Sale in Yakubpur Bahadurgarh",
+        "description": "12 Marla plot for sale in Yakubpur Bahadurgarh is ideal for premium homes and long-term residential use."
+      },
+      {
+        "title": "14 Marla Plot for Sale in Yakubpur Bahadurgarh",
+        "description": "14 Marla plot for sale in Yakubpur Bahadurgarh is suitable for luxury construction and high-value investment."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Plot for Sale Locations in Bahadurgarh",
+    "description": [
+      "Buyers interested in plots in Yakubpur Bahadurgarh often compare nearby localities for better clarity.",
+      "These surrounding areas also provide good residential and investment opportunities."
+    ],
+    "locations": [
+      { "title": "Plot for Sale in Yakubpur Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Plot for Sale in Sector 4A Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Plot for Sale in Sector 6 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Plot for Sale in Sector 9 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Plot for Sale in Sector 15 Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Residential Plots in Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Approved Plots in Bahadurgarh", "path": "/", "icon": "Map" },
+      { "title": "Investment Plots in Bahadurgarh", "path": "/", "icon": "Map" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is Trusted for Buying Plots",
+    "description": [
+      "Choosing a plot for sale in Yakubpur Bahadurgarh requires verified information and local market understanding.",
+      "Deal Acres supports buyers with genuine listings and transparent processes."
+    ],
+    "points": [
+      {
+        "title": "Verified Plot Listings",
+        "description": "Plots are checked for ownership clarity and basic documentation."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing details without hidden charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Yakubpur and Bahadurgarh property trends."
+      },
+      {
+        "title": "Buyer-Oriented Guidance",
+        "description": "Plot options matched with budget and purpose."
+      },
+      {
+        "title": "Direct Owner Connectivity",
+        "description": "Easy communication with genuine property owners."
+      },
+      {
+        "title": "Legal Documentation Support",
+        "description": "Assistance provided for registry and paperwork."
+      },
+      {
+        "title": "Long-Term Value Focus",
+        "description": "Plots selected with future appreciation in mind."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for reliability and customer trust."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Plot for Sale in Yakubpur",
+    "description": "Common buyer questions answered to support confident decisions.",
+    "faqs": [
+      {
+        "question": "Is Yakubpur Bahadurgarh good for buying plots?",
+        "answer": "Yes, Yakubpur is an emerging area with affordable prices and growing residential demand."
+      },
+      {
+        "question": "Are plots suitable for residential construction?",
+        "answer": "Yes, plots in Yakubpur are commonly used for residential home construction."
+      },
+      {
+        "question": "Is Yakubpur good for long-term investment?",
+        "answer": "Yes, ongoing development makes it suitable for long-term investment."
+      },
+      {
+        "question": "Which plot size is best for small families?",
+        "answer": "4 to 6 Marla plots are generally suitable for small families."
+      },
+      {
+        "question": "Are daily amenities available nearby?",
+        "answer": "Basic markets, schools, and healthcare facilities are accessible from Yakubpur."
+      },
+      {
+        "question": "Does Deal Acres verify plot listings?",
+        "answer": "Yes, Deal Acres focuses on verified and genuine plot listings."
+      },
+      {
+        "question": "Is registry assistance provided?",
+        "answer": "Yes, full support is provided for registry and documentation."
+      },
+      {
+        "question": "Can plots be resold easily?",
+        "answer": "Yes, demand for plots in Yakubpur is gradually increasing."
+      },
+      {
+        "question": "Are corner plots available?",
+        "answer": "Availability depends on current listings and inventory."
+      },
+      {
+        "question": "How can I enquire about plots in Yakubpur?",
+        "answer": "You can submit your details through the enquiry form to connect with a property expert."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Plot for Sale in Yakubpur Bahadurgarh",
+    "description": [
+      "Finding the right plot in Yakubpur Bahadurgarh becomes easier with expert support.",
+      "Share your requirements to receive verified listings and personalized assistance."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "plotSize", "message"]
+  }
+}

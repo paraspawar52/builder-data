@@ -1,0 +1,169 @@
+{
+  "domain": "officespaceforrentcom",
+  "hero": {
+    "title": "Modern Business-Friendly Office Spaces for Rent in Sector 150 Noida",
+    "description": [
+      "Sector 150 Noida is one of the most premium and future-ready commercial destinations in the region, known for its planned infrastructure, wide roads, and proximity to major expressways. Strategically located near the Noida–Greater Noida Expressway and Yamuna Expressway, the sector offers smooth connectivity to Delhi, Greater Noida, and upcoming business corridors. Companies looking for office space for rent in Sector 150 Noida prefer this location for its calm environment, modern developments, and long-term growth potential.",
+      "Office spaces for rent in Sector 150 Noida are designed to meet the needs of modern businesses, startups, and corporate offices. The area features contemporary commercial buildings, mixed-use developments, and flexible office layouts supported by ample parking, power backup, and security. Unlike congested business districts, Sector 150 offers a cleaner, greener, and more organized workspace environment. With increasing corporate interest and infrastructure growth, Sector 150 is emerging as a smart choice for businesses seeking scalable and professional office spaces in Noida."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces in Sector 150",
+        "path": "/"
+      },
+      {
+        "label": "Get Office Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Flexible Office Space Size Options in Sector 150 Noida",
+    "description": [
+      "Choosing the right office space for rent in Sector 150 Noida depends on your business size, team structure, and future expansion plans.",
+      "The sector offers multiple office configurations suitable for startups, growing companies, and established enterprises."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space for Rent in Sector 150 Noida",
+        "description": "A 4 Marla office space for rent in Sector 150 Noida is ideal for startups, freelancers, and small teams. These compact offices offer affordability, efficient layouts, and a professional address in a premium sector."
+      },
+      {
+        "title": "6 Marla Office Space for Rent in Sector 150 Noida",
+        "description": "6 Marla office spaces for rent in Sector 150 Noida provide a balanced work environment for growing businesses. They allow room for teams, meeting areas, and smooth daily operations."
+      },
+      {
+        "title": "8 Marla Office Space for Rent in Sector 150 Noida",
+        "description": "An 8 Marla office space for rent in Sector 150 Noida suits mid-sized companies looking for flexibility, employee comfort, and organized workspace planning."
+      },
+      {
+        "title": "10 Marla Office Space for Rent in Sector 150 Noida",
+        "description": "10 Marla office spaces for rent in Sector 150 Noida are ideal for established firms requiring larger floor areas, department separation, and a strong corporate presence."
+      },
+      {
+        "title": "12 Marla Office Space for Rent in Sector 150 Noida",
+        "description": "A 12 Marla office space for rent in Sector 150 Noida supports larger teams with ample workspace, parking facilities, and premium building infrastructure."
+      },
+      {
+        "title": "14 Marla Office Space for Rent in Sector 150 Noida",
+        "description": "14 Marla office spaces represent premium commercial options in Sector 150 Noida, offering expansive layouts, high visibility, and an upscale working environment."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Office Spaces for Rent Near Sector 150 Noida",
+    "description": [
+      "Businesses searching for office space for rent in Sector 150 Noida often explore nearby commercial zones for better comparison and availability.",
+      "These surrounding locations further strengthen Sector 150’s position as an emerging commercial hub in Noida."
+    ],
+    "locations": [
+      { "title": "Office Space for Rent in Sector 150 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space for Rent near Noida Expressway", "path": "/", "icon": "Building2" },
+      { "title": "Office Space for Rent in Sector 137 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space for Rent in Sector 142 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Commercial Offices near Greater Noida", "path": "/", "icon": "Building2" },
+      { "title": "Corporate Offices near Yamuna Expressway", "path": "/", "icon": "Building2" },
+      { "title": "Fully Furnished Offices in Noida", "path": "/", "icon": "Building2" },
+      { "title": "IT Offices in New Noida Sectors", "path": "/", "icon": "Building2" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Businesses Choose Deal Acres for Office Space in Sector 150 Noida",
+    "description": [
+      "Finding the right office space for rent in Sector 150 Noida requires verified listings, local insight, and transparent processes.",
+      "Deal Acres has earned business trust by offering accurate information, professional support, and customer-first service."
+    ],
+    "points": [
+      {
+        "title": "Verified Office Listings",
+        "description": "All office spaces are verified for ownership clarity and availability."
+      },
+      {
+        "title": "Transparent Leasing Process",
+        "description": "Clear details on rent, security deposit, and lease terms with no hidden costs."
+      },
+      {
+        "title": "Local Commercial Expertise",
+        "description": "Strong understanding of Sector 150 Noida’s commercial rental trends."
+      },
+      {
+        "title": "Wide Range of Office Options",
+        "description": "Office spaces for startups, SMEs, and large enterprises under one platform."
+      },
+      {
+        "title": "Lease Documentation Support",
+        "description": "Assistance with agreements, compliance, and legal documentation."
+      },
+      {
+        "title": "Customized Office Matching",
+        "description": "Tailored recommendations based on business needs and growth plans."
+      },
+      {
+        "title": "End-to-End Business Support",
+        "description": "Complete support from property shortlisting to final possession."
+      },
+      {
+        "title": "Trusted Commercial Real Estate Platform",
+        "description": "Deal Acres is known for reliability, transparency, and long-term client relationships."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Office Space for Rent in Sector 150 Noida",
+    "description": "Detailed answers to common business queries to help you make confident leasing decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 150 Noida suitable for office space?",
+        "answer": "Yes, Sector 150 is a modern and fast-developing area with excellent expressway connectivity and a professional environment."
+      },
+      {
+        "question": "What office sizes are available in Sector 150 Noida?",
+        "answer": "Office spaces from 4 Marla to 14 Marla are available, depending on project and layout."
+      },
+      {
+        "question": "Is Sector 150 good for startups and new businesses?",
+        "answer": "Yes, the sector offers flexible office options and competitive rentals suitable for startups."
+      },
+      {
+        "question": "How is connectivity from Sector 150 Noida?",
+        "answer": "Sector 150 is well connected via Noida–Greater Noida Expressway and Yamuna Expressway."
+      },
+      {
+        "question": "Are furnished office spaces available?",
+        "answer": "Yes, both furnished and unfurnished office spaces are available in Sector 150 Noida."
+      },
+      {
+        "question": "What amenities do office buildings offer?",
+        "answer": "Most buildings provide parking, power backup, security, and modern infrastructure."
+      },
+      {
+        "question": "What is the average rent for office space in Sector 150?",
+        "answer": "Rental prices vary based on size, building quality, and furnishing level."
+      },
+      {
+        "question": "Is Sector 150 suitable for long-term business growth?",
+        "answer": "Yes, planned development and upcoming infrastructure make it ideal for long-term expansion."
+      },
+      {
+        "question": "Why choose Deal Acres for office rentals?",
+        "answer": "Deal Acres offers verified listings, transparent deals, and expert commercial guidance."
+      },
+      {
+        "question": "How can I contact office space experts?",
+        "answer": "You can fill out the contact form on this page to connect with experienced consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Office Space for Rent in Sector 150 Noida",
+    "description": [
+      "Finding the right office space for rent in Sector 150 Noida becomes simple with expert guidance.",
+      "Share your business requirements and contact details to connect with trusted commercial real estate professionals."
+    ],
+    "formFields": ["name", "phone", "email", "company", "message"]
+  }
+}

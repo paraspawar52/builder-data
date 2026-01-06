@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforsalecom",
+  "hero": {
+    "title": "Spacious Independent Houses for Sale in Sector 35 Bahadurgarh",
+    "description": [
+      "Sector 35 Bahadurgarh is a well-developed residential area known for its planned infrastructure, peaceful environment, and strong connectivity to Delhi and nearby industrial zones. The sector is supported by wide roads, organized residential blocks, and easy access to public transport, making daily commuting smooth and stress-free. Buyers searching for a house for sale in Sector 35 Bahadurgarh are drawn to its calm surroundings, clean locality, and growing residential demand.",
+      "Houses for sale in Sector 35 Bahadurgarh are ideal for families seeking independent living with modern amenities nearby. The area is close to schools, hospitals, markets, parks, and daily convenience stores, ensuring a comfortable lifestyle. With continuous development and increasing buyer interest, property prices in Sector 35 are witnessing steady appreciation. Investing in a house here offers long-term residential comfort, good resale value, and a secure future in one of Bahadurgarh’s promising locations."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses in Sector 35",
+        "path": "/"
+      },
+      {
+        "label": "Connect with Property Experts",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "House Size Options Available in Sector 35 Bahadurgarh",
+    "description": [
+      "Choosing the right house for sale in Sector 35 Bahadurgarh depends on your family size, lifestyle needs, and future plans.",
+      "Sector 35 offers multiple house sizes suitable for both end users and long-term investors."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Sector 35 Bahadurgarh",
+        "description": "A 4 Marla house is suitable for small families looking for affordable independent housing with essential living comforts."
+      },
+      {
+        "title": "6 Marla House for Sale in Sector 35 Bahadurgarh",
+        "description": "6 Marla houses offer a balanced layout with sufficient space for comfortable family living and parking."
+      },
+      {
+        "title": "8 Marla House for Sale in Sector 35 Bahadurgarh",
+        "description": "An 8 Marla house provides spacious interiors, better ventilation, and flexibility in home design."
+      },
+      {
+        "title": "10 Marla House for Sale in Sector 35 Bahadurgarh",
+        "description": "10 Marla houses are ideal for larger families seeking more privacy, open space, and modern layouts."
+      },
+      {
+        "title": "12 Marla House for Sale in Sector 35 Bahadurgarh",
+        "description": "A 12 Marla house supports premium living with ample space, greenery, and future expansion potential."
+      },
+      {
+        "title": "14 Marla House for Sale in Sector 35 Bahadurgarh",
+        "description": "14 Marla houses are luxury options offering superior comfort, privacy, and high long-term value."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Residential Areas Around Sector 35 Bahadurgarh",
+    "description": [
+      "Buyers looking for a house for sale in Sector 35 Bahadurgarh often explore nearby sectors for better comparison.",
+      "These surrounding areas further enhance the residential value of Sector 35."
+    ],
+    "locations": [
+      { "title": "House for Sale in Sector 35 Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 34 Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 33 Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Independent Houses in Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Ready to Move Houses in Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Affordable Houses in Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "New Houses for Sale in Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Residential Houses Near Metro Bahadurgarh", "path": "/", "icon": "Home" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Preferred Platform for Buying Houses",
+    "description": [
+      "Buying a house for sale in Sector 35 Bahadurgarh requires verified information, market knowledge, and expert guidance.",
+      "Deal Acres offers a transparent and customer-focused home buying experience."
+    ],
+    "points": [
+      {
+        "title": "Verified House Listings",
+        "description": "All houses are checked for ownership, legality, and market availability."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden costs or misleading commitments."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 35 Bahadurgarh property trends."
+      },
+      {
+        "title": "Wide Range of Options",
+        "description": "Multiple house sizes and configurations to suit different budgets."
+      },
+      {
+        "title": "Legal and Documentation Support",
+        "description": "Complete assistance with registry, agreements, and paperwork."
+      },
+      {
+        "title": "Personalized Property Guidance",
+        "description": "Customized house suggestions based on buyer needs."
+      },
+      {
+        "title": "Smooth Buying Process",
+        "description": "End-to-end support from property visit to possession."
+      },
+      {
+        "title": "Trusted Real Estate Brand",
+        "description": "Deal Acres is known for reliability, transparency, and customer trust."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses in Sector 35 Bahadurgarh",
+    "description": "Answers to common queries to help buyers make confident property decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 35 Bahadurgarh a good place to buy a house?",
+        "answer": "Yes, Sector 35 is a well-planned residential area with good connectivity and amenities."
+      },
+      {
+        "question": "What house sizes are available in Sector 35?",
+        "answer": "Houses ranging from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Sector 35 suitable for family living?",
+        "answer": "Yes, the sector offers a peaceful environment with nearby schools and markets."
+      },
+      {
+        "question": "Does Sector 35 offer good resale value?",
+        "answer": "Due to increasing demand, houses in this area show steady appreciation."
+      },
+      {
+        "question": "Are the house listings on Deal Acres verified?",
+        "answer": "Yes, all listings go through ownership and legal verification."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 35?",
+        "answer": "Most houses are eligible for home loans, subject to bank policies."
+      },
+      {
+        "question": "How is connectivity from Sector 35 Bahadurgarh?",
+        "answer": "The sector is well-connected by roads and public transport."
+      },
+      {
+        "question": "Are daily amenities available nearby?",
+        "answer": "Yes, schools, hospitals, markets, and parks are easily accessible."
+      },
+      {
+        "question": "Why should I buy a house through Deal Acres?",
+        "answer": "Deal Acres offers verified listings, expert guidance, and transparent transactions."
+      },
+      {
+        "question": "How can I contact a property consultant?",
+        "answer": "You can fill out the contact form to connect with experienced consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Houses in Sector 35 Bahadurgarh",
+    "description": [
+      "Finding the right house for sale in Sector 35 Bahadurgarh becomes simple with professional assistance.",
+      "Share your requirements through the form and connect with trusted property experts today."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "message"]
+  }
+}

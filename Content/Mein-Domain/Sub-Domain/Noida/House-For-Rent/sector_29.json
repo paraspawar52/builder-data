@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforrentcom",
+  "hero": {
+    "title": "Prime Location Independent Houses for Rent in Sector 29 Noida",
+    "description": [
+      "Sector 29 Noida is one of the most centrally located and premium residential sectors in the city, known for its excellent infrastructure and urban convenience. Located close to Sector 18, City Centre Metro Station, and major commercial hubs, the area is highly preferred by families and working professionals. Tenants looking for a house for rent in Sector 29 Noida benefit from seamless connectivity, reputed schools, multi-specialty hospitals, shopping malls, restaurants, and green parks that make everyday living comfortable and efficient.",
+      "Houses for rent in Sector 29 Noida offer the advantage of independent living in a well-developed and peaceful neighborhood. The sector features wide roads, organized residential blocks, and reliable civic amenities, ensuring a high standard of living. Despite its proximity to busy commercial zones, Sector 29 maintains a calm and secure residential environment. With consistent rental demand and a prime location, Sector 29 remains a top choice for tenants seeking comfort, accessibility, and long-term residential stability in Noida."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent in Sector 29",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Independent House Rental Size Options in Sector 29 Noida",
+    "description": [
+      "Choosing the right house for rent in Sector 29 Noida depends on your family size, budget, and lifestyle needs.",
+      "The sector offers a wide range of independent house sizes suitable for small families as well as premium tenants."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 29 Noida",
+        "description": "A 4 Marla house for rent in Sector 29 Noida is ideal for individuals, couples, or small families seeking affordability in a prime location. These houses are easy to maintain and offer quick access to metro stations, markets, and offices."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 29 Noida",
+        "description": "6 Marla houses for rent in Sector 29 Noida provide a comfortable balance between space and cost. These homes are suitable for nuclear families and usually include proper ventilation, parking space, and proximity to essential services."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 29 Noida",
+        "description": "An 8 Marla house for rent in Sector 29 Noida is preferred by families who need extra living space and privacy. These houses often come with spacious living rooms, balconies, and flexible interior layouts."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 29 Noida",
+        "description": "10 Marla independent houses for rent in Sector 29 Noida are suitable for large families and senior professionals. These homes offer premium layouts, multiple floors, and enhanced comfort in a central location."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 29 Noida",
+        "description": "A 12 Marla house for rent in Sector 29 Noida is ideal for joint families or tenants who value open spaces, ample parking, and a quiet residential environment close to commercial hubs."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 29 Noida",
+        "description": "14 Marla houses represent luxury independent living in Sector 29 Noida. With expansive layouts, superior construction quality, and excellent privacy, these homes cater to high-end rental requirements."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 29 Noida",
+    "description": [
+      "Tenants searching for a house for rent in Sector 29 Noida often explore nearby sectors for better comparison and availability.",
+      "These surrounding locations further enhance Sector 29’s reputation as a premium rental destination in central Noida."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 29 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 18 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 26 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near City Centre Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses near Metro Stations Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Family Houses in Central Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Rental Houses near Schools and Hospitals", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Houses near Commercial Hubs", "path": "/", "icon": "Landmark" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Houses in Sector 29 Noida",
+    "description": [
+      "Finding a house for rent in Sector 29 Noida requires accurate listings, transparent pricing, and local expertise.",
+      "Deal Acres has earned tenant trust by delivering verified properties and a smooth rental experience."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All houses are verified for ownership, condition, and genuine availability."
+      },
+      {
+        "title": "Transparent Rental Details",
+        "description": "Clear information on rent, security deposit, and agreement terms."
+      },
+      {
+        "title": "Strong Local Knowledge",
+        "description": "Expert understanding of Sector 29 Noida rental trends and pricing."
+      },
+      {
+        "title": "Wide Choice of Houses",
+        "description": "Multiple house sizes and configurations available for different needs."
+      },
+      {
+        "title": "Agreement and Documentation Support",
+        "description": "Assistance with rental agreements and legal formalities."
+      },
+      {
+        "title": "Personalized Property Recommendations",
+        "description": "Custom property matches based on budget and lifestyle."
+      },
+      {
+        "title": "Complete Tenant Assistance",
+        "description": "Support from property search to final move-in."
+      },
+      {
+        "title": "Reliable Real Estate Platform",
+        "description": "Deal Acres is known for trust, transparency, and customer satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 29 Noida",
+    "description": "Common tenant questions answered to help you make confident rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 29 Noida a good area to rent a house?",
+        "answer": "Yes, Sector 29 Noida is a prime residential area with central connectivity, strong infrastructure, and a peaceful environment."
+      },
+      {
+        "question": "What house sizes are available for rent in Sector 29 Noida?",
+        "answer": "Independent houses from 4 Marla to 14 Marla are available, depending on location and availability."
+      },
+      {
+        "question": "Is Sector 29 suitable for family living?",
+        "answer": "Yes, the sector offers schools, hospitals, parks, and a safe residential atmosphere ideal for families."
+      },
+      {
+        "question": "How is connectivity from Sector 29 Noida?",
+        "answer": "Sector 29 enjoys excellent connectivity through City Centre Metro Station and major roads."
+      },
+      {
+        "question": "Are houses in Sector 29 safe for tenants?",
+        "answer": "Yes, the area is well-developed, secure, and considered safe for families and professionals."
+      },
+      {
+        "question": "What is the average rent in Sector 29 Noida?",
+        "answer": "Rent varies based on house size, condition, and exact location, with larger houses commanding higher rents."
+      },
+      {
+        "question": "Do landlords provide proper rental agreements?",
+        "answer": "Yes, rental agreements are standard, and Deal Acres helps with documentation."
+      },
+      {
+        "question": "Is Sector 29 good for working professionals?",
+        "answer": "Absolutely. Its proximity to offices, metro stations, and commercial hubs makes it ideal for professionals."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, and complete rental support."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 29 Noida?",
+        "answer": "You can fill out the contact form on this page to connect with experienced rental consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Houses for Rent in Sector 29 Noida",
+    "description": [
+      "Finding the right house for rent in Sector 29 Noida becomes simple with expert guidance.",
+      "Share your contact details and rental requirements to connect with trusted professionals and explore verified rental listings confidently."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

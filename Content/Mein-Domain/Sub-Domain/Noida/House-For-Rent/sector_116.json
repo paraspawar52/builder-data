@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforrentcom",
+  "hero": {
+    "title": "Peaceful Independent Houses for Rent in Sector 116 Noida",
+    "description": [
+      "Sector 116 Noida is a well-planned residential locality that offers a calm and comfortable living environment away from heavy city congestion. Strategically located near Noida–Greater Noida Expressway and well-connected internal roads, the sector provides smooth access to major employment hubs, commercial areas, and nearby sectors. Tenants searching for a house for rent in Sector 116 Noida often prefer this area due to its organized layout, low-density surroundings, and proximity to essential amenities such as schools, hospitals, daily markets, and shopping complexes.",
+      "Houses for rent in Sector 116 Noida are ideal for tenants seeking independent living in a peaceful neighborhood. The sector is known for wide roads, green spaces, and a balanced residential atmosphere that suits families, working professionals, and long-term tenants. Despite its quiet nature, Sector 116 offers reliable civic facilities and growing infrastructure, making daily life convenient. With steady rental demand and a reputation for quality living, Sector 116 Noida continues to attract tenants looking for comfort, connectivity, and value."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent in Sector 116",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Independent House Rental Size Options in Sector 116 Noida",
+    "description": [
+      "Choosing the right house for rent in Sector 116 Noida depends on your space requirements, family size, and rental budget.",
+      "The sector offers a variety of independent house sizes catering to both affordable and premium rental needs."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 116 Noida",
+        "description": "A 4 Marla house for rent in Sector 116 Noida is suitable for bachelors, couples, or small families. These houses are budget-friendly, easy to maintain, and ideal for tenants looking for independent living at a reasonable cost."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 116 Noida",
+        "description": "6 Marla houses for rent in Sector 116 Noida offer a comfortable living experience with balanced space and affordability. These homes usually include proper ventilation, parking, and functional layouts suitable for nuclear families."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 116 Noida",
+        "description": "An 8 Marla house for rent in Sector 116 Noida is preferred by families seeking extra space and privacy. These houses typically feature larger living areas and flexible interior designs."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 116 Noida",
+        "description": "10 Marla independent houses for rent in Sector 116 Noida are ideal for large families and senior professionals. These homes offer spacious interiors, multiple floors, and enhanced comfort."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 116 Noida",
+        "description": "A 12 Marla house for rent in Sector 116 Noida suits joint families or tenants who prefer open spaces, ample parking, and a calm residential setting."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 116 Noida",
+        "description": "14 Marla houses represent premium independent living in Sector 116 Noida. With expansive layouts and superior privacy, these homes are ideal for tenants seeking luxury rental options."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 116 Noida",
+    "description": [
+      "Tenants looking for a house for rent in Sector 116 Noida often explore nearby sectors to compare availability and pricing.",
+      "The surrounding localities enhance Sector 116’s appeal as a peaceful yet well-connected residential area."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 116 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 119 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 120 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near Noida Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses in Central Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Family Houses near Schools and Hospitals", "path": "/", "icon": "Landmark" },
+      { "title": "Rental Houses near Commercial Areas", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Houses in Peaceful Sectors", "path": "/", "icon": "Landmark" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Houses in Sector 116 Noida",
+    "description": [
+      "Finding a house for rent in Sector 116 Noida requires reliable listings, correct pricing, and local market knowledge.",
+      "Deal Acres provides a transparent and tenant-focused rental experience trusted by thousands of users."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "All properties are verified to ensure genuine availability and ownership clarity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear information on rent, security deposit, and rental terms."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 116 Noida rental trends and demand."
+      },
+      {
+        "title": "Wide Range of Options",
+        "description": "Multiple house sizes and layouts to match different tenant requirements."
+      },
+      {
+        "title": "Rental Agreement Support",
+        "description": "Assistance with documentation and legal formalities."
+      },
+      {
+        "title": "Personalized Property Matching",
+        "description": "Recommendations based on budget, family size, and lifestyle."
+      },
+      {
+        "title": "End-to-End Tenant Assistance",
+        "description": "Complete support from property search to final move-in."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for reliability, transparency, and customer satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 116 Noida",
+    "description": "Answers to common questions to help tenants make confident rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 116 Noida a good area to rent a house?",
+        "answer": "Yes, Sector 116 Noida is a peaceful residential area with good connectivity and growing infrastructure, making it suitable for families and professionals."
+      },
+      {
+        "question": "What house sizes are available for rent in Sector 116 Noida?",
+        "answer": "Independent houses from 4 Marla to 14 Marla are available depending on availability and exact location."
+      },
+      {
+        "question": "Is Sector 116 suitable for family living?",
+        "answer": "Yes, the sector offers a calm environment, nearby schools, healthcare facilities, and daily convenience stores."
+      },
+      {
+        "question": "How is connectivity from Sector 116 Noida?",
+        "answer": "Sector 116 has good road connectivity to Noida Expressway, FNG Expressway, and nearby sectors."
+      },
+      {
+        "question": "Are houses in Sector 116 safe for tenants?",
+        "answer": "Most residential areas are planned and considered safe for families and working professionals."
+      },
+      {
+        "question": "What is the average rent in Sector 116 Noida?",
+        "answer": "Rental prices vary based on house size, condition, and location within the sector."
+      },
+      {
+        "question": "Do landlords provide rental agreements?",
+        "answer": "Yes, proper rental agreements are standard, and Deal Acres helps with documentation."
+      },
+      {
+        "question": "Is Sector 116 suitable for working professionals?",
+        "answer": "Yes, due to its connectivity and peaceful surroundings, it suits professionals working across Noida."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and end-to-end rental support."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 116 Noida?",
+        "answer": "You can fill out the contact form on this page to connect with experienced rental consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Houses for Rent in Sector 116 Noida",
+    "description": [
+      "Finding the right house for rent in Sector 116 Noida becomes simple with expert guidance.",
+      "Share your contact details and rental requirements to connect with trusted professionals and explore verified rental options confidently."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

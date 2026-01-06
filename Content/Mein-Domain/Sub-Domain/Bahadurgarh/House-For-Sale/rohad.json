@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforsalecom",
+  "hero": {
+    "title": "Affordable and Spacious Houses for Sale in Rohad Bahadurgarh",
+    "description": [
+      "Rohad Bahadurgarh is an emerging residential location known for its peaceful environment, open surroundings, and improving infrastructure. The area enjoys smooth connectivity to Bahadurgarh city, major roads, and nearby industrial zones, making it suitable for both working professionals and families. Buyers looking for a house for sale in Rohad Bahadurgarh often prefer this locality due to its calm lifestyle, lower property density, and availability of independent housing options.",
+      "Houses for sale in Rohad Bahadurgarh offer a practical blend of affordability and space, making them ideal for long-term living as well as future investment. The locality is witnessing steady residential growth supported by road development, utilities, and nearby daily-use facilities. With increasing demand for independent homes away from congested city centers, Rohad is gaining attention among homebuyers seeking comfort, value appreciation, and a balanced suburban lifestyle in Bahadurgarh."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses in Rohad",
+        "path": "/"
+      },
+      {
+        "label": "Get Property Expert Help",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Different House Size Options Available in Rohad Bahadurgarh",
+    "description": [
+      "Choosing the right house for sale in Rohad Bahadurgarh depends on family size, budget, and future living needs.",
+      "Rohad offers multiple house size options suitable for both end-users and long-term investors."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Rohad Bahadurgarh",
+        "description": "A 4 Marla house in Rohad Bahadurgarh is suitable for small families or buyers looking for budget-friendly independent homes."
+      },
+      {
+        "title": "6 Marla House for Sale in Rohad Bahadurgarh",
+        "description": "6 Marla houses offer comfortable layouts with sufficient living space, parking, and ventilation."
+      },
+      {
+        "title": "8 Marla House for Sale in Rohad Bahadurgarh",
+        "description": "An 8 Marla house provides spacious interiors and flexibility for modern home designs."
+      },
+      {
+        "title": "10 Marla House for Sale in Rohad Bahadurgarh",
+        "description": "10 Marla houses are ideal for families seeking more privacy, open areas, and long-term comfort."
+      },
+      {
+        "title": "12 Marla House for Sale in Rohad Bahadurgarh",
+        "description": "A 12 Marla house supports premium living with ample space and better lifestyle amenities."
+      },
+      {
+        "title": "14 Marla House for Sale in Rohad Bahadurgarh",
+        "description": "14 Marla houses are premium residential options offering luxury living and strong appreciation potential."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Residential Areas Around Rohad Bahadurgarh",
+    "description": [
+      "Buyers searching for a house for sale in Rohad Bahadurgarh often explore nearby localities for better comparison.",
+      "These surrounding areas further enhance the residential value of Rohad."
+    ],
+    "locations": [
+      { "title": "House for Sale in Rohad Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 2 Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 3 Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Independent Houses in Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Affordable Houses in Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Ready to Move Houses in Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "New Houses Near Rohad", "path": "/", "icon": "Home" },
+      { "title": "Residential Houses in Bahadurgarh", "path": "/", "icon": "Home" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Trusted Choice for Buying Houses",
+    "description": [
+      "Buying a house for sale in Rohad Bahadurgarh requires verified listings, fair pricing, and local market knowledge.",
+      "Deal Acres ensures a transparent, secure, and customer-first property buying experience."
+    ],
+    "points": [
+      {
+        "title": "Verified House Listings",
+        "description": "All houses are checked for ownership, legality, and current availability."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear and honest pricing without hidden costs or misleading details."
+      },
+      {
+        "title": "Local Area Expertise",
+        "description": "Strong understanding of Rohad Bahadurgarh housing demand and trends."
+      },
+      {
+        "title": "Wide Property Choices",
+        "description": "Multiple house sizes and budget options available in one place."
+      },
+      {
+        "title": "Legal Assistance",
+        "description": "Support with documentation, registry, and legal formalities."
+      },
+      {
+        "title": "Personalized Property Guidance",
+        "description": "House recommendations based on buyer needs and preferences."
+      },
+      {
+        "title": "Smooth Buying Process",
+        "description": "End-to-end assistance from property selection to possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for reliability, transparency, and customer trust."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses in Rohad Bahadurgarh",
+    "description": "Clear answers to common questions to help buyers make confident decisions.",
+    "faqs": [
+      {
+        "question": "Is Rohad Bahadurgarh a good place to buy a house?",
+        "answer": "Yes, Rohad offers a peaceful environment, affordable housing, and improving connectivity, making it suitable for families."
+      },
+      {
+        "question": "What house sizes are available in Rohad?",
+        "answer": "Houses from 4 Marla to 14 Marla are commonly available in Rohad Bahadurgarh."
+      },
+      {
+        "question": "Is Rohad suitable for long-term living?",
+        "answer": "Yes, Rohad is ideal for long-term living due to its calm surroundings and steady development."
+      },
+      {
+        "question": "Do houses in Rohad have good resale value?",
+        "answer": "With increasing demand and infrastructure growth, Rohad houses show good appreciation potential."
+      },
+      {
+        "question": "Are houses listed on Deal Acres verified?",
+        "answer": "Yes, all listings are verified for ownership and legal compliance."
+      },
+      {
+        "question": "Can I get a home loan for buying a house in Rohad?",
+        "answer": "Most houses are eligible for home loans, subject to bank policies and approvals."
+      },
+      {
+        "question": "How is connectivity from Rohad to Bahadurgarh city?",
+        "answer": "Rohad is well-connected through main roads and local transport facilities."
+      },
+      {
+        "question": "Are daily amenities available nearby?",
+        "answer": "Basic amenities such as markets, schools, and healthcare facilities are accessible from Rohad."
+      },
+      {
+        "question": "Why should I choose Deal Acres to buy a house?",
+        "answer": "Deal Acres provides verified listings, expert support, and transparent transactions."
+      },
+      {
+        "question": "How can I contact a house buying expert?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Houses in Rohad Bahadurgarh",
+    "description": [
+      "Finding the right house for sale in Rohad Bahadurgarh becomes easy with professional guidance.",
+      "Submit your details through the form and connect with trusted real estate experts today."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "message"]
+  }
+}

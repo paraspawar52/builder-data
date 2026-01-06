@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforsalecom",
+  "hero": {
+    "title": "Comfortable Independent Houses for Sale in Yakubpur Bahadurgarh",
+    "description": [
+      "Yakubpur Bahadurgarh is an emerging residential locality that offers a calm living environment while staying well-connected to the main areas of Bahadurgarh and Delhi NCR. The area is preferred by families looking for peaceful surroundings, affordable housing options, and easy access to daily essentials such as schools, local markets, medical facilities, and public transport. Buyers searching for a house for sale in Yakubpur Bahadurgarh often appreciate its community-based lifestyle and improving infrastructure.",
+      "Houses for sale in Yakubpur Bahadurgarh are available in multiple plot sizes, making them suitable for both small and large families. The locality is witnessing gradual development, which adds to its long-term investment appeal. Whether you plan to move in immediately or invest for future growth, Yakubpur offers a practical mix of affordability, comfort, and residential stability in Bahadurgarh."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses in Yakubpur",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Property Help",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1605276374104-dee2a0ed3cd6?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Different House Size Options Available in Yakubpur Bahadurgarh",
+    "description": [
+      "Choosing the right house for sale in Yakubpur Bahadurgarh depends on your family size, lifestyle needs, and budget.",
+      "Yakubpur offers a range of house sizes suitable for comfortable and independent living."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Yakubpur Bahadurgarh",
+        "description": "A 4 Marla house is ideal for small families seeking affordable independent homes with essential living space."
+      },
+      {
+        "title": "6 Marla House for Sale in Yakubpur Bahadurgarh",
+        "description": "6 Marla houses provide a balanced layout with practical room sizes and good ventilation."
+      },
+      {
+        "title": "8 Marla House for Sale in Yakubpur Bahadurgarh",
+        "description": "An 8 Marla house offers additional space for comfortable family living and parking convenience."
+      },
+      {
+        "title": "10 Marla House for Sale in Yakubpur Bahadurgarh",
+        "description": "10 Marla houses are suitable for families looking for spacious interiors and better privacy."
+      },
+      {
+        "title": "12 Marla House for Sale in Yakubpur Bahadurgarh",
+        "description": "A 12 Marla house supports premium residential living with strong long-term value."
+      },
+      {
+        "title": "14 Marla House for Sale in Yakubpur Bahadurgarh",
+        "description": "14 Marla houses are premium options offering luxury space and higher appreciation potential."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Residential Areas Around Yakubpur",
+    "description": [
+      "Buyers considering a house for sale in Yakubpur Bahadurgarh often compare options in nearby localities.",
+      "These surrounding areas add more choices and strengthen Yakubpur’s residential appeal."
+    ],
+    "locations": [
+      { "title": "House for Sale in Yakubpur Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 2 Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 4A Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Rohad Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Independent Houses in Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Affordable Houses in Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Ready to Move Houses in Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Residential Properties Near Delhi NCR", "path": "/", "icon": "Home" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Trusted Choice for Buying Houses",
+    "description": [
+      "Buying a house for sale in Yakubpur Bahadurgarh requires verified listings and professional guidance.",
+      "Deal Acres ensures a transparent, reliable, and customer-friendly home buying experience."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All houses are verified for ownership, approvals, and legal clarity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden charges or misleading details."
+      },
+      {
+        "title": "Local Market Knowledge",
+        "description": "Strong understanding of Yakubpur and Bahadurgarh property trends."
+      },
+      {
+        "title": "Wide Range of Options",
+        "description": "Multiple house sizes to suit different budgets and family needs."
+      },
+      {
+        "title": "Legal and Documentation Support",
+        "description": "Complete help with registry, agreements, and paperwork."
+      },
+      {
+        "title": "Personalized Buyer Assistance",
+        "description": "Customized recommendations based on buyer preferences."
+      },
+      {
+        "title": "Smooth Buying Process",
+        "description": "End-to-end support from site visit to possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for trust, transparency, and customer satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses in Yakubpur Bahadurgarh",
+    "description": "User-friendly answers to common questions to help buyers make informed decisions.",
+    "faqs": [
+      {
+        "question": "Is Yakubpur Bahadurgarh a good place to buy a house?",
+        "answer": "Yes, Yakubpur offers a peaceful environment, affordability, and improving infrastructure, making it suitable for family living."
+      },
+      {
+        "question": "What house sizes are available in Yakubpur?",
+        "answer": "Houses ranging from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Yakubpur suitable for long-term investment?",
+        "answer": "Yes, steady development and increasing demand make it a promising investment location."
+      },
+      {
+        "question": "Are the houses ready to move?",
+        "answer": "Both ready-to-move and newly constructed houses are available, depending on listings."
+      },
+      {
+        "question": "Are Deal Acres listings legally verified?",
+        "answer": "Yes, all properties listed on Deal Acres undergo legal and ownership verification."
+      },
+      {
+        "question": "Can I get a home loan for a house in Yakubpur?",
+        "answer": "Home loan availability depends on property approval status and bank policies."
+      },
+      {
+        "question": "How is connectivity from Yakubpur?",
+        "answer": "Yakubpur is well-connected to Bahadurgarh and nearby areas through road networks."
+      },
+      {
+        "question": "Are schools and markets nearby?",
+        "answer": "Yes, local schools, markets, and daily necessities are easily accessible."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres offers verified listings, expert guidance, and transparent transactions."
+      },
+      {
+        "question": "How can I contact a property expert?",
+        "answer": "Fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Houses in Yakubpur Bahadurgarh",
+    "description": [
+      "Finding the right house for sale in Yakubpur Bahadurgarh is easier with expert guidance.",
+      "Submit your details through the form and connect with trusted real estate professionals today."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "message"]
+  }
+}

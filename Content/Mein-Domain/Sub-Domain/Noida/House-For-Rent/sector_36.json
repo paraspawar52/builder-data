@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforrentcom",
+  "hero": {
+    "title": "Well Connected Independent Houses for Rent in Sector 36 Noida",
+    "description": [
+      "Sector 36 Noida is a premium and centrally located residential sector, known for its peaceful environment and excellent connectivity. Situated close to City Centre, Sector 18, and major administrative zones, this area is highly preferred by families and senior professionals. People searching for a house for rent in Sector 36 Noida benefit from nearby metro stations, reputed schools, hospitals, shopping complexes, and well-maintained parks that ensure a comfortable and convenient lifestyle.",
+      "Houses for rent in Sector 36 Noida offer independent living in a well-established and low-density neighborhood. The sector is appreciated for its planned layout, wide roads, greenery, and reliable civic infrastructure. Despite being close to commercial hubs, Sector 36 maintains a calm residential feel, making it ideal for long-term family living. With strong rental demand and a premium location, Sector 36 continues to attract tenants seeking stability, comfort, and easy access to central Noida."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent in Sector 36",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Independent House Rental Size Options in Sector 36 Noida",
+    "description": [
+      "Selecting the right house for rent in Sector 36 Noida depends on your family size, space needs, and lifestyle expectations.",
+      "The sector offers multiple independent house configurations suitable for both mid-range and premium tenants."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 36 Noida",
+        "description": "A 4 Marla house for rent in Sector 36 Noida is ideal for couples, small families, or individuals seeking a central yet peaceful residential setup. These homes are affordable, easy to maintain, and well-connected to nearby markets and metro stations."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 36 Noida",
+        "description": "6 Marla houses for rent in Sector 36 Noida provide a balanced combination of space and comfort. These homes suit nuclear families and usually include proper ventilation, parking facilities, and access to nearby daily amenities."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 36 Noida",
+        "description": "An 8 Marla house for rent in Sector 36 Noida is preferred by families looking for additional space and privacy. These houses often feature larger living areas, balconies, and flexible interiors suitable for long-term living."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 36 Noida",
+        "description": "10 Marla independent houses for rent in Sector 36 Noida cater to large families and senior professionals. These homes offer spacious layouts, multiple floors, and a premium residential experience."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 36 Noida",
+        "description": "A 12 Marla house for rent in Sector 36 Noida is suitable for joint families or tenants who value open spaces, ample parking, and a quiet neighborhood close to the city center."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 36 Noida",
+        "description": "14 Marla houses represent luxury independent living in Sector 36 Noida. With expansive layouts, high privacy, and prime surroundings, these homes are ideal for tenants seeking upscale rental living."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 36 Noida",
+    "description": [
+      "Tenants looking for a house for rent in Sector 36 Noida often explore nearby sectors for more options.",
+      "The surrounding areas enhance Sector 36’s appeal as a centrally located and premium rental destination."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 36 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 18 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 34 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near City Centre Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses near Metro Stations Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Family Houses in Central Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Rental Houses near Schools and Hospitals", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Houses near Commercial Hubs", "path": "/", "icon": "Landmark" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Houses in Sector 36 Noida",
+    "description": [
+      "Finding a house for rent in Sector 36 Noida requires verified listings and transparent rental processes.",
+      "Deal Acres is trusted by tenants for its reliability, local expertise, and customer-centric approach."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "All properties are checked for authenticity and genuine availability."
+      },
+      {
+        "title": "Transparent Rental Pricing",
+        "description": "Clear information on rent, deposit, and terms without hidden charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 36 Noida rental trends and pricing."
+      },
+      {
+        "title": "Wide Range of Options",
+        "description": "Multiple house sizes and layouts to suit different family needs."
+      },
+      {
+        "title": "Rental Agreement Support",
+        "description": "Assistance with documentation and agreement formalities."
+      },
+      {
+        "title": "Personalized Property Matching",
+        "description": "Property suggestions tailored to budget and lifestyle preferences."
+      },
+      {
+        "title": "End-to-End Tenant Support",
+        "description": "Complete assistance from property search to move-in."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for transparency, trust, and tenant satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 36 Noida",
+    "description": "Helpful answers to common tenant queries for confident decision-making.",
+    "faqs": [
+      {
+        "question": "Is Sector 36 Noida a good area to rent a house?",
+        "answer": "Yes, Sector 36 Noida is a premium residential area with central connectivity, peaceful surroundings, and strong infrastructure."
+      },
+      {
+        "question": "What house sizes are available for rent in Sector 36 Noida?",
+        "answer": "Independent houses from 4 Marla to 14 Marla are available, depending on location and availability."
+      },
+      {
+        "question": "Is Sector 36 suitable for family living?",
+        "answer": "Yes, it is ideal for families due to nearby schools, hospitals, parks, and a safe residential environment."
+      },
+      {
+        "question": "How is connectivity from Sector 36 Noida?",
+        "answer": "Sector 36 enjoys excellent connectivity through nearby metro stations and major city roads."
+      },
+      {
+        "question": "Are rental houses in Sector 36 safe?",
+        "answer": "Yes, the sector is well-established and considered safe for families and professionals."
+      },
+      {
+        "question": "What is the average rent in Sector 36 Noida?",
+        "answer": "Rental prices vary based on house size, condition, and exact location, with premium houses commanding higher rents."
+      },
+      {
+        "question": "Do landlords provide rental agreements?",
+        "answer": "Yes, proper rental agreements are standard practice, and Deal Acres assists with documentation."
+      },
+      {
+        "question": "Is Sector 36 good for working professionals?",
+        "answer": "Absolutely. Its proximity to commercial hubs and metro stations makes commuting easy."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and end-to-end rental support."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 36 Noida?",
+        "answer": "You can fill out the contact form on this page to connect with experienced rental consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Houses for Rent in Sector 36 Noida",
+    "description": [
+      "Finding the right house for rent in Sector 36 Noida becomes simple with expert assistance.",
+      "Share your contact details and rental requirements to connect with trusted professionals and explore verified rental options confidently."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

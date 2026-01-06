@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforsalecom",
+  "hero": {
+    "title": "Well Connected Independent Houses for Sale in Prime Sector 117 Noida",
+    "description": [
+      "Sector 117 Noida is a fast-growing and well-planned residential locality that attracts buyers looking for peaceful living with strong connectivity. People searching for a house for sale in Sector 117 Noida choose this area due to its proximity to major roads, Noida Expressway, and neighboring developed sectors. The sector offers easy access to schools, hospitals, shopping complexes, daily convenience stores, and public transport, making it a practical choice for families.",
+      "Houses for sale in Sector 117 Noida provide the advantage of independent living in a developing yet stable neighborhood. The area is suitable for end-users who want long-term residential comfort as well as investors seeking steady appreciation. With continuous infrastructure growth and rising demand, Sector 117 stands out as a promising residential destination in Noida."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses in Sector 117",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Independent House Size Options Available in Sector 117 Noida",
+    "description": [
+      "Selecting the right house size in Sector 117 Noida depends on family requirements, lifestyle preferences, and future plans.",
+      "The sector offers multiple independent house configurations suitable for both residential living and investment purposes."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Sector 117 Noida",
+        "description": "A 4 Marla house for sale in Sector 117 Noida is ideal for small families, working professionals, and first-time homebuyers. These homes are affordable, easy to maintain, and located close to daily essentials. Due to rising demand in the area, 4 Marla houses also offer good rental income and resale potential."
+      },
+      {
+        "title": "6 Marla House for Sale in Sector 117 Noida",
+        "description": "6 Marla houses in Sector 117 Noida provide a comfortable balance between space and budget. These homes generally feature practical layouts, parking space, and good ventilation, making them suitable for nuclear families planning long-term residence."
+      },
+      {
+        "title": "8 Marla House for Sale in Sector 117 Noida",
+        "description": "An 8 Marla house for sale in Sector 117 Noida is preferred by families looking for spacious interiors and better privacy. These properties allow flexible design options and are considered a stable investment due to consistent buyer demand."
+      },
+      {
+        "title": "10 Marla House for Sale in Sector 117 Noida",
+        "description": "10 Marla independent houses in Sector 117 Noida are suitable for buyers seeking larger homes with premium comfort. Limited availability of such properties enhances their long-term appreciation and lifestyle value."
+      },
+      {
+        "title": "12 Marla House for Sale in Sector 117 Noida",
+        "description": "A 12 Marla house in Sector 117 Noida is ideal for large families who prefer open spaces, privacy, and a calm residential environment. These homes support multi-generation living comfortably."
+      },
+      {
+        "title": "14 Marla House for Sale in Sector 117 Noida",
+        "description": "14 Marla houses represent premium independent living in Sector 117 Noida. These properties offer generous space, exclusivity, and are highly valued for long-term residential stability and investment growth."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Houses for Sale Near Sector 117 Noida",
+    "description": [
+      "Buyers interested in a house for sale in Sector 117 Noida often explore nearby sectors to compare prices, connectivity, and amenities.",
+      "These surrounding localities further enhance the residential appeal of Sector 117."
+    ],
+    "locations": [
+      { "title": "House for Sale in Sector 117 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale in Sector 116 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale in Sector 118 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale in Sector 119 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses in Central Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Houses near Noida Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Family Homes near Schools and Markets", "path": "/", "icon": "Landmark" },
+      { "title": "Premium Houses in Developing Noida Sectors", "path": "/", "icon": "Landmark" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Houses in Sector 117 Noida",
+    "description": [
+      "Buying a house for sale in Sector 117 Noida requires verified listings, fair pricing, and professional guidance.",
+      "Deal Acres has built strong trust among buyers through transparency, reliability, and customer-focused service."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All listings are carefully verified for ownership clarity and legal authenticity."
+      },
+      {
+        "title": "Transparent Pricing Policy",
+        "description": "Clear pricing with no hidden charges helps buyers plan confidently."
+      },
+      {
+        "title": "Local Market Knowledge",
+        "description": "Deep understanding of Sector 117 Noida property trends and values."
+      },
+      {
+        "title": "Wide Range of Options",
+        "description": "Multiple house sizes available to suit different budgets and needs."
+      },
+      {
+        "title": "Legal and Documentation Support",
+        "description": "Complete assistance with agreements, registry, and legal checks."
+      },
+      {
+        "title": "Personalized Buying Advice",
+        "description": "Guidance tailored to buyer lifestyle and long-term goals."
+      },
+      {
+        "title": "End-to-End Buying Support",
+        "description": "Support provided from property shortlisting to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for transparency, reliability, and customer satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Sale in Sector 117 Noida",
+    "description": "Detailed answers to help buyers make informed and confident property decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 117 Noida a good location to buy a house?",
+        "answer": "Yes, Sector 117 Noida offers a peaceful residential environment, good connectivity, and essential amenities, making it suitable for families and investors."
+      },
+      {
+        "question": "What house sizes are available in Sector 117 Noida?",
+        "answer": "Independent houses are commonly available from 4 Marla to 14 Marla, depending on current market listings."
+      },
+      {
+        "question": "Is Sector 117 suitable for family living?",
+        "answer": "Yes, the sector has access to schools, hospitals, parks, markets, and daily convenience facilities."
+      },
+      {
+        "question": "How is connectivity from Sector 117 Noida?",
+        "answer": "Sector 117 enjoys good road connectivity to central Noida, nearby sectors, and major expressways."
+      },
+      {
+        "question": "Are houses in Sector 117 legally approved?",
+        "answer": "Most properties are legally approved, and Deal Acres assists buyers with proper verification."
+      },
+      {
+        "question": "Is buying a house in Sector 117 a good investment?",
+        "answer": "Yes, steady residential demand and surrounding development support long-term appreciation."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 117 Noida?",
+        "answer": "Yes, leading banks and financial institutions offer home loans for eligible properties."
+      },
+      {
+        "question": "What amenities are available near Sector 117?",
+        "answer": "The area offers schools, hospitals, shopping areas, parks, and public transport options."
+      },
+      {
+        "question": "Why should I choose Deal Acres for buying a house?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, expert guidance, and complete transaction support."
+      },
+      {
+        "question": "How can I contact property experts for Sector 117 Noida?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Assistance for Houses for Sale in Sector 117 Noida",
+    "description": [
+      "Finding the right house for sale in Sector 117 Noida becomes easy with professional support.",
+      "Share your details to connect with trusted property experts and explore verified listings with confidence."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

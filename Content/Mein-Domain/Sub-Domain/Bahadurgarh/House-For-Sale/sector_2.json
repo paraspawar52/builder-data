@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforsalecom",
+  "hero": {
+    "title": "Well Planned Independent Houses for Sale in Sector 2 Bahadurgarh",
+    "description": [
+      "Sector 2 Bahadurgarh is one of the established residential localities, known for its organized layout, peaceful surroundings, and excellent connectivity to major roads and nearby sectors. The area enjoys easy access to schools, hospitals, local markets, and public transport, making it a convenient choice for daily living. Buyers searching for a house for sale in Sector 2 Bahadurgarh often prefer this location due to its mature infrastructure, safe neighborhood, and balanced lifestyle.",
+      "Houses for sale in Sector 2 Bahadurgarh are ideal for families looking for independent living in a well-connected and settled area. The locality offers a mix of affordable and premium housing options with proper civic amenities, wide roads, and green spaces. With consistent demand and steady development, property values in Sector 2 have shown reliable appreciation over time. Investing in a house here ensures long-term residential comfort, good resale potential, and a secure future in Bahadurgarh."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses in Sector 2",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Home Guidance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Multiple House Size Options Available in Sector 2 Bahadurgarh",
+    "description": [
+      "Selecting the right house for sale in Sector 2 Bahadurgarh depends on your family size, budget, and long-term living needs.",
+      "Sector 2 offers a variety of house sizes suitable for both self-use and investment purposes."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Sector 2 Bahadurgarh",
+        "description": "A 4 Marla house in Sector 2 Bahadurgarh is suitable for small families or first-time buyers seeking affordable independent housing."
+      },
+      {
+        "title": "6 Marla House for Sale in Sector 2 Bahadurgarh",
+        "description": "6 Marla houses provide a balanced layout with comfortable living space, parking, and proper ventilation."
+      },
+      {
+        "title": "8 Marla House for Sale in Sector 2 Bahadurgarh",
+        "description": "An 8 Marla house offers spacious interiors and flexibility for modern home designs and family comfort."
+      },
+      {
+        "title": "10 Marla House for Sale in Sector 2 Bahadurgarh",
+        "description": "10 Marla houses are ideal for larger families looking for privacy, open areas, and premium living."
+      },
+      {
+        "title": "12 Marla House for Sale in Sector 2 Bahadurgarh",
+        "description": "A 12 Marla house supports luxury living with ample space, greenery, and long-term value appreciation."
+      },
+      {
+        "title": "14 Marla House for Sale in Sector 2 Bahadurgarh",
+        "description": "14 Marla houses are premium residential options offering superior comfort, exclusivity, and strong resale potential."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Residential Areas Around Sector 2 Bahadurgarh",
+    "description": [
+      "Buyers interested in a house for sale in Sector 2 Bahadurgarh often explore nearby sectors to compare prices and amenities.",
+      "These surrounding locations further enhance the residential appeal of Sector 2."
+    ],
+    "locations": [
+      { "title": "House for Sale in Sector 2 Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 3 Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 4 Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Independent Houses in Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Ready to Move Houses in Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Affordable Houses in Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "New Houses for Sale in Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Residential Houses Near Metro Bahadurgarh", "path": "/", "icon": "Home" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Trusted Choice for Buying Houses",
+    "description": [
+      "Buying a house for sale in Sector 2 Bahadurgarh requires verified listings, transparent pricing, and expert local guidance.",
+      "Deal Acres provides a secure, reliable, and customer-focused home buying experience."
+    ],
+    "points": [
+      {
+        "title": "Verified House Listings",
+        "description": "Every house is verified for ownership, legality, and current availability."
+      },
+      {
+        "title": "Transparent Pricing Policy",
+        "description": "Clear pricing details with no hidden charges or false commitments."
+      },
+      {
+        "title": "Strong Local Market Knowledge",
+        "description": "Accurate insights into Sector 2 Bahadurgarh housing trends and demand."
+      },
+      {
+        "title": "Wide Range of Housing Options",
+        "description": "Access to multiple house sizes and budget-friendly choices."
+      },
+      {
+        "title": "Legal and Documentation Support",
+        "description": "Complete assistance with registry, agreements, and legal paperwork."
+      },
+      {
+        "title": "Personalized Property Assistance",
+        "description": "Customized house recommendations based on buyer needs."
+      },
+      {
+        "title": "Smooth Buying Experience",
+        "description": "End-to-end support from property search to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for transparency, reliability, and long-term customer trust."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses in Sector 2 Bahadurgarh",
+    "description": "Detailed answers to common questions to help buyers make informed decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 2 Bahadurgarh a good area to buy a house?",
+        "answer": "Yes, Sector 2 is a well-established residential area with good connectivity, amenities, and a family-friendly environment."
+      },
+      {
+        "question": "What house sizes are available in Sector 2?",
+        "answer": "Houses from 4 Marla to 14 Marla are commonly available in this sector."
+      },
+      {
+        "question": "Is Sector 2 suitable for family living?",
+        "answer": "Yes, the area offers schools, parks, hospitals, and markets nearby, making it ideal for families."
+      },
+      {
+        "question": "Does Sector 2 offer good property appreciation?",
+        "answer": "Due to steady demand and established infrastructure, houses in Sector 2 show consistent appreciation."
+      },
+      {
+        "question": "Are houses listed on Deal Acres verified?",
+        "answer": "Yes, all house listings are verified for ownership and legal compliance."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 2 Bahadurgarh?",
+        "answer": "Most houses are eligible for home loans, subject to bank terms and property approval."
+      },
+      {
+        "question": "How is connectivity from Sector 2 to other areas?",
+        "answer": "Sector 2 is well-connected by major roads and public transport facilities."
+      },
+      {
+        "question": "Are daily amenities easily accessible?",
+        "answer": "Yes, daily essentials such as markets, schools, and healthcare facilities are close by."
+      },
+      {
+        "question": "Why should I buy a house through Deal Acres?",
+        "answer": "Deal Acres offers verified listings, expert guidance, and transparent transactions."
+      },
+      {
+        "question": "How can I contact a house buying expert?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Assistance for Houses in Sector 2 Bahadurgarh",
+    "description": [
+      "Finding the right house for sale in Sector 2 Bahadurgarh becomes easier with professional guidance.",
+      "Share your requirements through the form and connect with trusted real estate experts today."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "message"]
+  }
+}

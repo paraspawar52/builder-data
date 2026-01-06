@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforsalecom",
+  "hero": {
+    "title": "Modern and Spacious Houses for Sale in Sector 36 Bahadurgarh",
+    "description": [
+      "Sector 36 Bahadurgarh is a fast-developing residential locality that offers a balanced lifestyle with planned infrastructure, wide roads, and a peaceful living environment. The sector is well-connected to major roads and nearby residential areas, making daily commuting smooth and convenient. Buyers searching for a house for sale in Sector 36 Bahadurgarh are attracted by its organized layout, growing residential demand, and availability of modern housing options.",
+      "Houses for sale in Sector 36 Bahadurgarh are suitable for families looking for comfortable living as well as investors seeking long-term value. With ongoing development, improving civic amenities, and proximity to schools, markets, and healthcare facilities, Sector 36 is emerging as a reliable residential choice. Investing in a home here offers stable appreciation, good neighborhood planning, and a future-ready residential environment in Bahadurgarh."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses in Sector 36",
+        "path": "/"
+      },
+      {
+        "label": "Connect with Home Experts",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "House Size Options Available in Sector 36 Bahadurgarh",
+    "description": [
+      "Selecting the right house for sale in Sector 36 Bahadurgarh depends on your space requirements, budget, and future plans.",
+      "Sector 36 offers multiple house sizes that suit both growing families and premium home buyers."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Sector 36 Bahadurgarh",
+        "description": "A 4 Marla house is ideal for small families seeking an affordable independent home with essential amenities."
+      },
+      {
+        "title": "6 Marla House for Sale in Sector 36 Bahadurgarh",
+        "description": "6 Marla houses provide a balanced layout with comfortable room sizes and efficient use of space."
+      },
+      {
+        "title": "8 Marla House for Sale in Sector 36 Bahadurgarh",
+        "description": "An 8 Marla house offers better ventilation, modern layouts, and additional living comfort."
+      },
+      {
+        "title": "10 Marla House for Sale in Sector 36 Bahadurgarh",
+        "description": "10 Marla houses are suitable for families looking for spacious interiors and enhanced privacy."
+      },
+      {
+        "title": "12 Marla House for Sale in Sector 36 Bahadurgarh",
+        "description": "A 12 Marla house supports premium living with larger rooms and open spaces."
+      },
+      {
+        "title": "14 Marla House for Sale in Sector 36 Bahadurgarh",
+        "description": "14 Marla houses are premium residential options offering luxury, comfort, and strong resale value."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Residential Locations Around Sector 36 Bahadurgarh",
+    "description": [
+      "Home buyers interested in a house for sale in Sector 36 Bahadurgarh often compare nearby sectors for better insight.",
+      "These surrounding localities further enhance the residential value of Sector 36."
+    ],
+    "locations": [
+      { "title": "House for Sale in Sector 36 Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 35 Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 37 Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Independent Houses in Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Ready to Move Houses in Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "New Residential Projects in Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Affordable Houses in Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Family Homes Near Delhi Border", "path": "/", "icon": "Home" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Preferred Choice for Buying Houses",
+    "description": [
+      "Buying a house for sale in Sector 36 Bahadurgarh requires trust, verified listings, and professional guidance.",
+      "Deal Acres delivers a transparent and customer-focused home buying experience."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "Each house is verified for ownership, approvals, and legal compliance."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear and honest pricing with no hidden charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 36 Bahadurgarh property trends."
+      },
+      {
+        "title": "Wide Range of Houses",
+        "description": "Multiple house sizes available to suit different needs and budgets."
+      },
+      {
+        "title": "Legal and Documentation Support",
+        "description": "Complete assistance with registry, agreements, and paperwork."
+      },
+      {
+        "title": "Personalized Buyer Support",
+        "description": "Tailored recommendations based on buyer requirements."
+      },
+      {
+        "title": "Smooth Transaction Process",
+        "description": "End-to-end support from property search to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for reliability, transparency, and customer trust."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses in Sector 36 Bahadurgarh",
+    "description": "Clear and detailed answers to help buyers make confident property decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 36 Bahadurgarh a good area to buy a house?",
+        "answer": "Yes, Sector 36 is a developing residential locality with good connectivity and future growth potential."
+      },
+      {
+        "question": "What house sizes are available in Sector 36?",
+        "answer": "Houses ranging from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Sector 36 suitable for family living?",
+        "answer": "Yes, it offers a peaceful environment with access to essential amenities."
+      },
+      {
+        "question": "Does Sector 36 offer good investment potential?",
+        "answer": "With ongoing development, the sector shows steady appreciation potential."
+      },
+      {
+        "question": "Are houses listed on Deal Acres verified?",
+        "answer": "Yes, all listings are checked for legal and ownership authenticity."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 36?",
+        "answer": "Most houses are eligible for bank loans, subject to approval."
+      },
+      {
+        "question": "How is connectivity from Sector 36?",
+        "answer": "Sector 36 is well-connected to major roads and nearby residential sectors."
+      },
+      {
+        "question": "Are schools and hospitals nearby?",
+        "answer": "Yes, educational institutions and healthcare facilities are easily accessible."
+      },
+      {
+        "question": "Why should I buy through Deal Acres?",
+        "answer": "Deal Acres offers verified listings, expert advice, and transparent transactions."
+      },
+      {
+        "question": "How can I contact a home buying expert?",
+        "answer": "You can fill out the contact form on this page to connect with experienced consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Houses in Sector 36 Bahadurgarh",
+    "description": [
+      "Finding the right house for sale in Sector 36 Bahadurgarh becomes easy with expert guidance.",
+      "Share your requirements through the form and connect with trusted property professionals today."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "message"]
+  }
+}

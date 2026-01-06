@@ -1,0 +1,169 @@
+{
+  "domain": "Flatsforrent.com",
+  "hero": {
+    "title": "Affordable and Peaceful Flats for Rent in Kharkhoda Sonipat",
+    "description": [
+      "Kharkhoda Sonipat is a rapidly developing residential town that offers a calm lifestyle, open surroundings, and improving infrastructure. Known for its peaceful environment and strong road connectivity, Kharkhoda provides easy access to Sonipat city, industrial zones, educational institutions, and daily utility markets. Due to lower congestion and affordable living, flats for rent in Kharkhoda Sonipat are increasingly preferred by families, working professionals, and individuals seeking a relaxed living experience away from city chaos.",
+      "Choosing flats for rent in Kharkhoda Sonipat allows tenants to enjoy budget-friendly housing with growing urban facilities. The area offers flats in various Marla sizes, catering to different space needs and rental budgets. With ongoing development projects, improved civic amenities, and a friendly residential community, Kharkhoda is emerging as a promising rental destination. Deal Acres helps tenants find verified flats for rent in Kharkhoda Sonipat through transparent listings, trusted owners, and expert rental guidance, ensuring a smooth and reliable renting experience."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Flats for Rent in Kharkhoda",
+        "path": "/"
+      },
+      {
+        "label": "Connect With Rental Expert",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=900&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600585154084-4e5fe7c39198?w=900&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Marla Wise Flats for Rent Options in Kharkhoda Sonipat",
+    "description": [
+      "Flats for rent in Kharkhoda Sonipat are available in different Marla sizes to suit varied tenant requirements.",
+      "These Marla-wise flat options help tenants choose homes based on affordability, comfort, and long-term living needs."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Flats for Rent in Kharkhoda Sonipat",
+        "description": "4 Marla flats are ideal for bachelors and small families looking for affordable and easy-to-maintain rental homes."
+      },
+      {
+        "title": "6 Marla Flats for Rent in Kharkhoda Sonipat",
+        "description": "6 Marla flats offer a balanced combination of space and budget, suitable for nuclear families."
+      },
+      {
+        "title": "8 Marla Flats for Rent in Kharkhoda Sonipat",
+        "description": "8 Marla flats provide spacious layouts, better ventilation, and comfortable living for long-term tenants."
+      },
+      {
+        "title": "10 Marla Flats for Rent in Kharkhoda Sonipat",
+        "description": "10 Marla flats fall under the premium rental category, offering larger rooms and enhanced living comfort."
+      },
+      {
+        "title": "12 Marla Flats for Rent in Kharkhoda Sonipat",
+        "description": "12 Marla flats are suitable for joint families or tenants who prefer expansive living spaces."
+      },
+      {
+        "title": "14 Marla Flats for Rent in Kharkhoda Sonipat",
+        "description": "14 Marla flats represent high-end rental options with superior space, privacy, and premium features."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Areas with Flats for Rent Around Kharkhoda",
+    "description": [
+      "Tenants looking for flats for rent in Kharkhoda Sonipat often explore nearby locations for more options.",
+      "These surrounding areas also offer improving infrastructure and good connectivity."
+    ],
+    "locations": [
+      { "title": "Flats for Rent in Kharkhoda Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Sector 62 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Sector 63 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Murthal Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Residential Flats for Rent in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Affordable Flats for Rent in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Best Areas to Rent Flats in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Premium Rental Flats in Sonipat", "path": "/", "icon": "Map" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Most Trusted Platform for Renting Flats",
+    "description": [
+      "Finding flats for rent in Kharkhoda Sonipat becomes simple and trustworthy with Deal Acres.",
+      "Deal Acres has earned strong user trust by offering verified listings, transparency, and customer-first service."
+    ],
+    "points": [
+      {
+        "title": "Verified Flat Listings",
+        "description": "All flats are verified for ownership and legal authenticity before listing."
+      },
+      {
+        "title": "Transparent Rental Pricing",
+        "description": "Rental details are shared clearly without hidden charges."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Accurate knowledge of Kharkhoda Sonipat helps tenants make informed decisions."
+      },
+      {
+        "title": "Personalized Tenant Support",
+        "description": "Flat suggestions are tailored based on budget, family size, and preferences."
+      },
+      {
+        "title": "Direct Owner Communication",
+        "description": "Tenants can communicate directly with property owners for faster decisions."
+      },
+      {
+        "title": "Complete Rental Assistance",
+        "description": "Support with visits, negotiation, and documentation ensures a smooth renting process."
+      },
+      {
+        "title": "Wide Range of Options",
+        "description": "Multiple Marla-size flats are available on one trusted platform."
+      },
+      {
+        "title": "Highly Trusted Real Estate Brand",
+        "description": "Deal Acres is known for ethical practices and high tenant satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Flats for Rent in Kharkhoda Sonipat",
+    "description": "These FAQs help tenants understand important aspects of renting flats in Kharkhoda Sonipat.",
+    "faqs": [
+      {
+        "question": "Is Kharkhoda Sonipat a good area to rent a flat?",
+        "answer": "Yes, Kharkhoda is a peaceful and developing area with affordable housing and improving infrastructure."
+      },
+      {
+        "question": "What flat sizes are available for rent in Kharkhoda Sonipat?",
+        "answer": "Flats are commonly available from 4 Marla to 14 Marla, depending on availability and budget."
+      },
+      {
+        "question": "Are flats in Kharkhoda suitable for families?",
+        "answer": "Yes, the area offers a calm environment and is suitable for family living."
+      },
+      {
+        "question": "Are affordable flats available in Kharkhoda?",
+        "answer": "Yes, 4 Marla and 6 Marla flats provide budget-friendly rental options."
+      },
+      {
+        "question": "Is parking available with rental flats?",
+        "answer": "Most flats offer parking facilities for residents."
+      },
+      {
+        "question": "Is Kharkhoda suitable for long-term renting?",
+        "answer": "Yes, due to affordability and steady development, it is suitable for long-term stays."
+      },
+      {
+        "question": "Does Deal Acres verify flat listings?",
+        "answer": "Yes, every listing on Deal Acres is verified for legal and ownership clarity."
+      },
+      {
+        "question": "Can working professionals rent flats in Kharkhoda?",
+        "answer": "Yes, road connectivity makes commuting to nearby areas manageable."
+      },
+      {
+        "question": "Are premium flats available in Kharkhoda Sonipat?",
+        "answer": "Yes, 10 Marla and above flats fall under the premium rental segment."
+      },
+      {
+        "question": "How can I enquire about flats for rent in Kharkhoda Sonipat?",
+        "answer": "You can fill out the enquiry form on Deal Acres to connect with a verified rental expert."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help to Find the Right Rental Flat",
+    "description": [
+      "Finding the right flat for rent in Kharkhoda Sonipat becomes easy with expert guidance.",
+      "Share your requirements to receive verified listings and personalized rental assistance."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "flatSize", "message"]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "domain": "officespaceforrentcom",
+  "hero": {
+    "title": "Strategically Located Office Spaces for Rent in Sector 131 Noida",
+    "description": [
+      "Sector 131 Noida is a fast-developing commercial destination located along the Noida-Greater Noida Expressway, making it highly attractive for corporates and modern businesses. The sector enjoys excellent connectivity to Delhi, Greater Noida, and key business zones such as Sector 62, Sector 132, and Noida Expressway IT hubs. Companies looking for office space for rent in Sector 131 Noida value its premium surroundings, planned infrastructure, and proximity to residential catchments that support a balanced work environment.",
+      "Office spaces for rent in Sector 131 Noida are ideal for IT companies, startups, consulting firms, and corporate offices seeking a professional and growth-oriented address. The area offers contemporary commercial buildings with modern amenities like ample parking, power backup, security systems, and flexible layouts. With increasing commercial demand and strong infrastructure support, Sector 131 has emerged as a preferred choice for businesses aiming for long-term scalability and operational efficiency in Noida."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces in Sector 131",
+        "path": "/"
+      },
+      {
+        "label": "Get Office Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1604328698692-f76ea9498e76?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Office Space Size Options Available in Sector 131 Noida",
+    "description": [
+      "Selecting the right office space for rent in Sector 131 Noida depends on team size, business operations, and future expansion goals.",
+      "Sector 131 offers multiple office size configurations suitable for startups, mid-sized firms, and large enterprises."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space for Rent in Sector 131 Noida",
+        "description": "A 4 Marla office space for rent in Sector 131 Noida is perfect for startups, freelancers, and small teams seeking a premium location at a controlled cost with essential amenities."
+      },
+      {
+        "title": "6 Marla Office Space for Rent in Sector 131 Noida",
+        "description": "6 Marla office spaces for rent in Sector 131 Noida suit growing businesses that require dedicated workstations, cabins, and a professional office setup."
+      },
+      {
+        "title": "8 Marla Office Space for Rent in Sector 131 Noida",
+        "description": "An 8 Marla office space for rent in Sector 131 Noida offers enhanced layout flexibility for mid-sized teams, improving collaboration and operational efficiency."
+      },
+      {
+        "title": "10 Marla Office Space for Rent in Sector 131 Noida",
+        "description": "10 Marla office spaces for rent in Sector 131 Noida are ideal for established firms needing spacious interiors, meeting rooms, and client-facing areas."
+      },
+      {
+        "title": "12 Marla Office Space for Rent in Sector 131 Noida",
+        "description": "A 12 Marla office space for rent in Sector 131 Noida supports larger teams with ample workspace, parking facilities, and a strong corporate presence."
+      },
+      {
+        "title": "14 Marla Office Space for Rent in Sector 131 Noida",
+        "description": "14 Marla office spaces represent premium office options in Sector 131 Noida, offering expansive layouts, visibility, and long-term scalability."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Office Spaces for Rent Near Sector 131 Noida",
+    "description": [
+      "Businesses searching for office space for rent in Sector 131 Noida often explore nearby sectors to evaluate connectivity and commercial advantages.",
+      "These surrounding areas further enhance Sector 131’s appeal as a prominent business location."
+    ],
+    "locations": [
+      { "title": "Office Space for Rent in Sector 131 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space for Rent in Sector 132 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space for Rent in Sector 135 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space near Noida Expressway", "path": "/", "icon": "Building2" },
+      { "title": "Commercial Offices near IT Hubs Noida", "path": "/", "icon": "Building2" },
+      { "title": "Corporate Offices in Greater Noida West", "path": "/", "icon": "Building2" },
+      { "title": "Fully Furnished Offices in Noida", "path": "/", "icon": "Building2" },
+      { "title": "Business Offices near Residential Sectors", "path": "/", "icon": "Building2" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Businesses Trust Deal Acres for Office Space in Sector 131 Noida",
+    "description": [
+      "Finding the right office space for rent in Sector 131 Noida requires accurate listings, market transparency, and local expertise.",
+      "Deal Acres ensures a reliable and business-focused commercial leasing experience."
+    ],
+    "points": [
+      {
+        "title": "Verified Commercial Properties",
+        "description": "All office listings are verified for ownership, condition, and availability."
+      },
+      {
+        "title": "Transparent Pricing Structure",
+        "description": "Clear rental terms with no hidden costs or misleading information."
+      },
+      {
+        "title": "Strong Local Market Expertise",
+        "description": "Deep understanding of Sector 131 Noida commercial rental trends."
+      },
+      {
+        "title": "Wide Range of Office Options",
+        "description": "Office spaces available for startups, SMEs, and large enterprises."
+      },
+      {
+        "title": "Complete Lease Support",
+        "description": "Assistance with agreements, documentation, and compliance."
+      },
+      {
+        "title": "Customized Property Recommendations",
+        "description": "Office options matched with your business needs and growth plans."
+      },
+      {
+        "title": "End-to-End Leasing Assistance",
+        "description": "Support from initial search to final office handover."
+      },
+      {
+        "title": "Trusted Commercial Real Estate Platform",
+        "description": "Deal Acres is known for trust, transparency, and long-term client relationships."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Office Space for Rent in Sector 131 Noida",
+    "description": "Detailed answers to common questions to help businesses make informed rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 131 Noida a good location for offices?",
+        "answer": "Yes, Sector 131 is a prime commercial area near the Noida Expressway, ideal for IT and corporate offices."
+      },
+      {
+        "question": "What office sizes are available in Sector 131 Noida?",
+        "answer": "Office spaces ranging from 4 Marla to 14 Marla are available depending on listings."
+      },
+      {
+        "question": "Is Sector 131 suitable for IT companies?",
+        "answer": "Yes, its proximity to IT hubs and expressway connectivity makes it highly suitable for IT and tech firms."
+      },
+      {
+        "question": "How is connectivity from Sector 131 Noida?",
+        "answer": "Sector 131 offers excellent connectivity via Noida Expressway and nearby arterial roads."
+      },
+      {
+        "question": "Are furnished office spaces available?",
+        "answer": "Yes, furnished and semi-furnished office spaces are available based on property listings."
+      },
+      {
+        "question": "What amenities are typically provided?",
+        "answer": "Most office buildings offer parking, power backup, security, lifts, and maintenance services."
+      },
+      {
+        "question": "What factors affect office rent in Sector 131?",
+        "answer": "Rent depends on office size, furnishing, building quality, and exact location."
+      },
+      {
+        "question": "Is Sector 131 good for client-facing businesses?",
+        "answer": "Yes, the premium location and expressway access make it suitable for client meetings."
+      },
+      {
+        "question": "Why choose Deal Acres for office rentals?",
+        "answer": "Deal Acres provides verified listings, transparent deals, and expert commercial guidance."
+      },
+      {
+        "question": "How can I contact office space experts?",
+        "answer": "You can fill out the contact form on this page to connect with experienced commercial property consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Office Space for Rent in Sector 131 Noida",
+    "description": [
+      "Finding the right office space for rent in Sector 131 Noida becomes simple with professional support.",
+      "Share your business requirements and contact details to connect with trusted commercial real estate experts."
+    ],
+    "formFields": ["name", "phone", "email", "company", "message"]
+  }
+}

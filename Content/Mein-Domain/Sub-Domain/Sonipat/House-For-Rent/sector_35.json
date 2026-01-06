@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforrent.com",
+  "hero": {
+    "title": "Modern and Peaceful Houses for Rent in Sector 35 Sonipat",
+    "description": [
+      "Sector 35 Sonipat is a fast-developing residential locality that is gaining popularity among tenants for its planned infrastructure, peaceful surroundings, and improving connectivity. The sector is well-connected to major roads and nearby residential hubs, making daily commuting smooth for professionals and families. People looking for a house for rent in Sector 35 Sonipat benefit from nearby schools, hospitals, local markets, parks, and essential services that support a comfortable and stress-free lifestyle in a growing neighborhood.",
+      "Choosing a house for rent in Sector 35 Sonipat is an excellent option for tenants who prefer modern living in an emerging residential area. The locality offers independent houses in multiple Marla sizes, catering to different budgets and space requirements. With steady infrastructure development and increasing residential demand, Sector 35 is becoming a reliable rental destination. Deal Acres simplifies the rental process by offering verified listings, transparent pricing, and expert assistance, helping tenants find the right house for rent in Sector 35 Sonipat with complete confidence."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent in Sector 35",
+        "path": "/"
+      },
+      {
+        "label": "Connect With Rental Expert",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=900&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600585154084-4e5fe7c39198?w=900&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Marla Wise House for Rent Options in Sector 35 Sonipat",
+    "description": [
+      "Houses for rent in Sector 35 Sonipat are available in different Marla sizes to suit diverse family needs and rental budgets.",
+      "These Marla-wise rental options help tenants choose homes that align with their lifestyle, comfort, and long-term living plans."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 35 Sonipat",
+        "description": "4 Marla houses are ideal for small families, couples, and working professionals. These homes are affordable, easy to maintain, and located close to daily-use amenities, making them a smart rental option in Sector 35 Sonipat."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 35 Sonipat",
+        "description": "6 Marla houses offer a good balance between space and affordability. They are suitable for nuclear families seeking comfortable living with proper ventilation and convenient access to nearby markets and schools."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 35 Sonipat",
+        "description": "8 Marla houses provide spacious layouts, better privacy, and additional living areas. These homes are preferred by families planning medium to long-term rental stays in a developing locality."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 35 Sonipat",
+        "description": "10 Marla houses fall under the premium rental segment, offering larger rooms, parking facilities, and enhanced comfort for growing families."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 35 Sonipat",
+        "description": "12 Marla houses are ideal for tenants who prefer expansive living spaces, suitable for joint families or those who value independent homes."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 35 Sonipat",
+        "description": "14 Marla houses represent high-end rental options with superior space, independent floors, and a premium lifestyle in Sector 35 Sonipat."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Areas Offering Houses for Rent Around Sector 35",
+    "description": [
+      "Tenants searching for a house for rent in Sector 35 Sonipat often explore nearby sectors for more rental options.",
+      "These surrounding areas offer similar connectivity, residential infrastructure, and living convenience."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 35 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "House for Rent in Sector 33 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "House for Rent in Sector 34 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "House for Rent in Kundli Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Independent Houses for Rent in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Affordable Houses for Rent in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Best Residential Areas in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Premium Rental Homes in Sonipat", "path": "/", "icon": "Map" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Most Trusted Platform for Renting Houses",
+    "description": [
+      "Finding a house for rent in Sector 35 Sonipat becomes simple, reliable, and transparent with Deal Acres.",
+      "Deal Acres has earned strong trust among tenants by offering verified listings, honest guidance, and a customer-first rental approach."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "All houses are verified for ownership, legal clarity, and property condition before being listed."
+      },
+      {
+        "title": "Transparent Rental Process",
+        "description": "Clear rental terms and pricing ensure tenants face no hidden charges or confusion."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 35 Sonipat helps provide accurate rental guidance."
+      },
+      {
+        "title": "Tenant-Centric Recommendations",
+        "description": "Property suggestions are customized based on tenant budget, family size, and lifestyle needs."
+      },
+      {
+        "title": "Direct Owner Communication",
+        "description": "Tenants can directly connect with property owners for better transparency and faster decisions."
+      },
+      {
+        "title": "Complete Rental Assistance",
+        "description": "Support with site visits, negotiation, and rental documentation ensures a smooth experience."
+      },
+      {
+        "title": "Wide Range of Rental Options",
+        "description": "Multiple Marla-size houses available on one trusted rental platform."
+      },
+      {
+        "title": "High Customer Trust",
+        "description": "Deal Acres is known for ethical practices, reliability, and long-term tenant satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 35 Sonipat",
+    "description": "These FAQs help tenants clear common doubts and make informed rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 35 Sonipat a good location to rent a house?",
+        "answer": "Yes, Sector 35 is a developing and peaceful residential area with improving infrastructure and good connectivity, making it suitable for families and professionals."
+      },
+      {
+        "question": "What Marla sizes are available for houses on rent in Sector 35 Sonipat?",
+        "answer": "Houses are commonly available from 4 Marla to 14 Marla, depending on budget and space requirements."
+      },
+      {
+        "question": "Are houses in Sector 35 suitable for families?",
+        "answer": "Yes, the sector is family-friendly with schools, parks, hospitals, and local markets nearby."
+      },
+      {
+        "question": "Are affordable rental houses available in Sector 35?",
+        "answer": "Yes, 4 Marla and 6 Marla houses offer budget-friendly rental options."
+      },
+      {
+        "question": "Is parking available with rental houses?",
+        "answer": "Most independent houses provide dedicated or nearby parking facilities."
+      },
+      {
+        "question": "Can working professionals rent houses in Sector 35 Sonipat?",
+        "answer": "Yes, the sector is well-connected to major roads, making daily commuting convenient."
+      },
+      {
+        "question": "Does Deal Acres verify rental listings?",
+        "answer": "Yes, every rental listing on Deal Acres is verified for ownership and legal clarity."
+      },
+      {
+        "question": "Are long-term rental options available?",
+        "answer": "Yes, many property owners prefer long-term tenants for stability and continuity."
+      },
+      {
+        "question": "Is Sector 35 Sonipat safe for tenants?",
+        "answer": "Yes, Sector 35 is considered safe with a growing residential community and improving civic facilities."
+      },
+      {
+        "question": "How can I enquire about a house for rent in Sector 35 Sonipat?",
+        "answer": "You can fill out the enquiry form on Deal Acres to connect with a verified rental expert and receive personalized assistance."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get in Touch to Find the Right House for Rent",
+    "description": [
+      "Finding the perfect house for rent in Sector 35 Sonipat becomes easier with expert guidance.",
+      "Share your rental requirements to receive verified listings and personalized support from trusted professionals."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "houseSize", "message"]
+  }
+}

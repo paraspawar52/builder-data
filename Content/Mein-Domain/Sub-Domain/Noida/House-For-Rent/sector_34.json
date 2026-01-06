@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforrentcom",
+  "hero": {
+    "title": "Well-Planned Independent Houses for Rent in Sector 34 Noida",
+    "description": [
+      "Sector 34 Noida is one of the most centrally located and well-developed residential sectors in the city, making it a preferred choice for families and working professionals. Situated close to Noida City Centre, major arterial roads, and metro connectivity, the sector ensures smooth access to Delhi, other parts of Noida, and nearby commercial hubs. People searching for a house for rent in Sector 34 Noida appreciate the convenience of having schools, hospitals, shopping malls, banks, parks, and daily-use markets within walking or short driving distance.",
+      "Houses for rent in Sector 34 Noida offer the advantage of independent living in a mature, organized, and peaceful neighborhood. The sector is known for wide internal roads, green spaces, and a strong civic infrastructure that supports comfortable long-term living. Despite being centrally located, Sector 34 maintains a calm residential vibe with controlled traffic and well-maintained surroundings. With steady rental demand and excellent livability, Sector 34 remains a reliable and sought-after rental destination in Noida."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent in Sector 34",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Independent House Rental Size Options in Sector 34 Noida",
+    "description": [
+      "Choosing the right house for rent in Sector 34 Noida depends on your family size, lifestyle needs, and rental budget.",
+      "The sector offers multiple independent house configurations suitable for small families, joint families, and premium tenants."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 34 Noida",
+        "description": "A 4 Marla house for rent in Sector 34 Noida is ideal for couples, small families, and working professionals. These houses are easy to maintain, cost-effective, and provide functional layouts with essential amenities, making them perfect for comfortable urban living."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 34 Noida",
+        "description": "6 Marla houses for rent in Sector 34 Noida offer a balanced mix of space and affordability. Suitable for nuclear families, these homes feature well-ventilated rooms, parking space, and a peaceful residential environment."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 34 Noida",
+        "description": "An 8 Marla house for rent in Sector 34 Noida is preferred by families seeking extra space and better privacy. These houses usually include larger living areas, balconies, and flexible interiors for long-term stays."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 34 Noida",
+        "description": "10 Marla independent houses for rent in Sector 34 Noida cater to large families and senior professionals. These homes offer spacious interiors, multiple floors, and enhanced comfort."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 34 Noida",
+        "description": "A 12 Marla house for rent in Sector 34 Noida is suitable for joint families or tenants who value open spaces and privacy. These houses often include servant rooms and ample parking facilities."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 34 Noida",
+        "description": "14 Marla houses represent luxury independent living in Sector 34 Noida. With expansive layouts, premium construction, and superior privacy, these homes are ideal for tenants seeking upscale rental residences."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 34 Noida",
+    "description": [
+      "Tenants looking for a house for rent in Sector 34 Noida often explore nearby sectors to compare rental options and availability.",
+      "These surrounding areas further strengthen Sector 34’s appeal as a central and well-connected rental hub in Noida."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 34 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 32 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 35 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near Noida City Centre", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses near Metro Stations Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Rental Houses near Commercial Hubs Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Family Houses in Central Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Houses near Schools and Hospitals Noida", "path": "/", "icon": "Landmark" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Houses in Sector 34 Noida",
+    "description": [
+      "Finding a house for rent in Sector 34 Noida requires verified listings, transparent rental terms, and dependable local guidance.",
+      "Deal Acres has earned strong tenant trust by focusing on accuracy, customer satisfaction, and professional rental support."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "All houses are verified for ownership clarity and genuine rental availability."
+      },
+      {
+        "title": "Transparent Rental Pricing",
+        "description": "Clear rent and deposit details help tenants make confident decisions."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 34 Noida rental trends and pricing."
+      },
+      {
+        "title": "Wide Range of Rental Options",
+        "description": "Multiple house sizes and layouts to match different family requirements."
+      },
+      {
+        "title": "Rental Agreement Assistance",
+        "description": "Support with documentation and agreement formalities for smooth renting."
+      },
+      {
+        "title": "Personalized Property Recommendations",
+        "description": "Tailored suggestions based on budget, location, and lifestyle needs."
+      },
+      {
+        "title": "End-to-End Tenant Support",
+        "description": "Complete assistance from property search to final move-in."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for transparency, reliability, and tenant satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 34 Noida",
+    "description": "Detailed answers to common tenant queries to help you make informed rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 34 Noida a good area to rent a house?",
+        "answer": "Yes, Sector 34 Noida is a prime residential area with central location, metro connectivity, and access to all daily amenities."
+      },
+      {
+        "question": "What house sizes are available for rent in Sector 34 Noida?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are available, subject to availability."
+      },
+      {
+        "question": "Is Sector 34 suitable for family living?",
+        "answer": "Yes, the sector offers parks, reputed schools, hospitals, and a safe residential environment ideal for families."
+      },
+      {
+        "question": "How is connectivity from Sector 34 Noida?",
+        "answer": "Sector 34 enjoys excellent connectivity through metro stations, major roads, and proximity to Noida City Centre."
+      },
+      {
+        "question": "Are rental houses in Sector 34 safe?",
+        "answer": "Most residential areas are well-planned and considered safe for families and professionals."
+      },
+      {
+        "question": "What is the average rent in Sector 34 Noida?",
+        "answer": "Rental prices vary depending on house size, condition, and exact location, with larger houses commanding higher rents."
+      },
+      {
+        "question": "Do landlords provide proper rental agreements?",
+        "answer": "Yes, rental agreements are standard practice, and Deal Acres assists with documentation."
+      },
+      {
+        "question": "Is Sector 34 suitable for working professionals?",
+        "answer": "Absolutely. Its central location and connectivity make it convenient for professionals working across Noida and Delhi."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, expert guidance, and complete rental support."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 34 Noida?",
+        "answer": "You can fill out the contact form on this page to connect with experienced rental consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Houses for Rent in Sector 34 Noida",
+    "description": [
+      "Finding the right house for rent in Sector 34 Noida becomes easy with professional assistance.",
+      "Share your contact details and rental requirements to connect with trusted experts and explore verified rental listings with confidence."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

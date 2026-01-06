@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforsalecom",
+
+  "hero": {
+    "title": "Centrally Located Independent Houses for Sale in Sector 34 Noida",
+    "description": [
+      "Sector 34 Noida is one of the most centrally located and well-established residential sectors in the city, known for its excellent connectivity, mature infrastructure, and high livability. Buyers searching for a house for sale in Sector 34 Noida prefer this locality due to its close proximity to Noida City Centre, Sector 18 commercial hub, and major arterial roads connecting Delhi and Greater Noida. The sector is surrounded by reputed schools, hospitals, shopping markets, parks, and metro stations, ensuring everyday convenience for families and professionals.",
+      "Houses for sale in Sector 34 Noida offer the benefit of independent living in a premium and highly demanded neighborhood. With limited availability of independent houses and consistently strong demand, the area holds excellent long-term value. Whether you are planning to buy a family home or looking for a secure real estate investment, Sector 34 stands out as a reliable and future-proof residential destination in Noida."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses in Sector 34",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Independent House Size Options Available in Sector 34 Noida",
+    "description": [
+      "Choosing the right house size in Sector 34 Noida depends on family size, lifestyle preferences, and long-term plans.",
+      "The sector offers a variety of independent house sizes suitable for both self-use and investment."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Sector 34 Noida",
+        "description": "A 4 Marla house for sale in Sector 34 Noida is ideal for small families or buyers looking for affordable independent living in a central location. These homes are easy to maintain and located close to metro stations, schools, and markets. Strong rental demand makes 4 Marla houses a practical and value-driven option."
+      },
+      {
+        "title": "6 Marla House for Sale in Sector 34 Noida",
+        "description": "6 Marla houses in Sector 34 Noida provide a balanced combination of space and affordability. These homes typically feature well-ventilated rooms, parking space, and practical layouts. Suitable for nuclear families, this size offers comfortable living with steady appreciation."
+      },
+      {
+        "title": "8 Marla House for Sale in Sector 34 Noida",
+        "description": "An 8 Marla house for sale in Sector 34 Noida is preferred by families seeking larger living areas and better privacy. These houses allow flexible interior planning and modern amenities, making them a stable long-term residential investment."
+      },
+      {
+        "title": "10 Marla House for Sale in Sector 34 Noida",
+        "description": "10 Marla independent houses in Sector 34 Noida are suitable for buyers looking for spacious layouts and premium comfort. These properties support customization, additional floors, and luxury features, ideal for long-term family living."
+      },
+      {
+        "title": "12 Marla House for Sale in Sector 34 Noida",
+        "description": "A 12 Marla house in Sector 34 Noida caters to buyers who value space, privacy, and long-term residential stability. These homes often include servant areas, large balconies, and ample parking, offering both comfort and appreciation potential."
+      },
+      {
+        "title": "14 Marla House for Sale in Sector 34 Noida",
+        "description": "14 Marla houses represent premium independent living in Sector 34 Noida. Designed for luxury buyers and large families, these homes offer exclusivity, generous space, and strong long-term value due to limited supply."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Sale Near Sector 34 Noida",
+    "description": [
+      "Buyers interested in a house for sale in Sector 34 Noida often explore nearby sectors to compare pricing, connectivity, and amenities.",
+      "These surrounding localities further strengthen Sector 34’s appeal as a central residential hub."
+    ],
+    "locations": [
+      { "title": "House for Sale in Sector 34 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale in Sector 51 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale in Sector 50 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale in Sector 52 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses near Noida City Centre", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Houses near Sector 18 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Family Homes in Central Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Premium Houses in Established Noida Sectors", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Houses in Sector 34 Noida",
+    "description": [
+      "Buying a house for sale in Sector 34 Noida requires verified listings, transparent pricing, and expert local guidance.",
+      "Deal Acres has built strong trust among buyers by consistently delivering reliable and customer-focused real estate solutions."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "Every property is verified for ownership clarity, approvals, and legal authenticity."
+      },
+      {
+        "title": "Transparent Pricing Policy",
+        "description": "Clear pricing with no hidden charges ensures complete buyer confidence."
+      },
+      {
+        "title": "Strong Local Market Knowledge",
+        "description": "Deep understanding of Sector 34 Noida property trends and buyer demand."
+      },
+      {
+        "title": "Wide Range of Property Choices",
+        "description": "Multiple house sizes available to suit different budgets and family needs."
+      },
+      {
+        "title": "Complete Legal Assistance",
+        "description": "Support with documentation, agreements, and registry for hassle-free transactions."
+      },
+      {
+        "title": "Personalized Buying Guidance",
+        "description": "Advice tailored to lifestyle preferences and long-term investment goals."
+      },
+      {
+        "title": "End-to-End Buying Support",
+        "description": "Assistance from property search to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for transparency, reliability, and high customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Sale in Sector 34 Noida",
+    "description": "User-friendly answers to common property buying questions.",
+    "faqs": [
+      {
+        "question": "Is Sector 34 Noida a good area to buy a house?",
+        "answer": "Yes, Sector 34 Noida is a prime and centrally located residential area with excellent connectivity, mature infrastructure, and high livability."
+      },
+      {
+        "question": "What house sizes are available in Sector 34 Noida?",
+        "answer": "Independent houses are generally available from 4 Marla to 14 Marla, depending on current listings."
+      },
+      {
+        "question": "Is Sector 34 suitable for family living?",
+        "answer": "Absolutely. The sector offers schools, hospitals, parks, shopping markets, and metro connectivity nearby."
+      },
+      {
+        "question": "How is connectivity from Sector 34 Noida?",
+        "answer": "Sector 34 enjoys excellent metro and road connectivity to Delhi and all major Noida sectors."
+      },
+      {
+        "question": "Are houses in Sector 34 legally approved?",
+        "answer": "Most properties are approved, and Deal Acres assists buyers with full legal verification."
+      },
+      {
+        "question": "Is buying a house in Sector 34 a good investment?",
+        "answer": "Yes, limited supply and consistent demand ensure stable appreciation and rental returns."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 34 Noida?",
+        "answer": "Yes, major banks and financial institutions offer home loans for eligible properties."
+      },
+      {
+        "question": "What amenities are available near Sector 34 Noida?",
+        "answer": "The area offers schools, hospitals, malls, offices, parks, and daily convenience facilities."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, expert guidance, and end-to-end buying support."
+      },
+      {
+        "question": "How can I contact property experts for Sector 34?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Houses for Sale in Sector 34 Noida",
+    "description": [
+      "Finding the right house for sale in Sector 34 Noida becomes simple with professional assistance.",
+      "Share your details to connect with trusted property experts and explore verified housing options with confidence."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

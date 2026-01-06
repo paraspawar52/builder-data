@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforrent.com",
+  "hero": {
+    "title": "Comfortable and Well Connected Houses for Rent in Sector 23 Sonipat",
+    "description": [
+      "Sector 23 Sonipat is a steadily developing residential locality that offers a calm living environment along with good connectivity to major parts of the city. The sector is well-planned with organized streets, nearby local markets, schools, hospitals, parks, and public transport facilities that make daily life convenient. People searching for a house for rent in Sector 23 Sonipat often prefer this area due to its balanced mix of affordability, accessibility, and peaceful surroundings, making it suitable for families, working professionals, and long-term tenants.",
+      "Choosing a house for rent in Sector 23 Sonipat is a practical decision for those who want quality living without the congestion of central city areas. The locality offers independent houses in various Marla sizes, catering to different space requirements and rental budgets. With growing residential demand and improving infrastructure, Sector 23 is emerging as a reliable rental destination. Deal Acres helps tenants find verified houses for rent in Sector 23 Sonipat through transparent listings, trusted property owners, and expert rental guidance."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent in Sector 23",
+        "path": "/"
+      },
+      {
+        "label": "Connect With Rental Expert",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=900&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600585154084-4e5fe7c39198?w=900&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Marla Wise House for Rent Options in Sector 23 Sonipat",
+    "description": [
+      "Houses for rent in Sector 23 Sonipat are available in multiple Marla sizes to suit different family needs and rental budgets.",
+      "These Marla-wise rental options allow tenants to choose homes that align with their lifestyle, comfort, and long-term plans."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 23 Sonipat",
+        "description": "4 Marla houses are ideal for small families, couples, and working professionals. These homes are affordable, easy to maintain, and located close to essential amenities, making them a smart rental choice in Sector 23 Sonipat."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 23 Sonipat",
+        "description": "6 Marla houses offer a balanced mix of space and affordability. They are suitable for nuclear families who want comfortable living with proper ventilation and easy access to markets and schools."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 23 Sonipat",
+        "description": "8 Marla houses provide spacious layouts, better privacy, and additional living areas. These homes are preferred by families planning medium to long-term rental stays."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 23 Sonipat",
+        "description": "10 Marla houses fall under the premium rental segment, offering larger rooms, parking space, and enhanced comfort for growing families."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 23 Sonipat",
+        "description": "12 Marla houses are ideal for tenants seeking expansive living spaces, suitable for joint families or those who prefer independent homes."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 23 Sonipat",
+        "description": "14 Marla houses represent high-end rental options with superior space, independent floors, and a premium lifestyle in a developing residential sector."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Areas Offering Houses for Rent Around Sector 23",
+    "description": [
+      "Tenants searching for a house for rent in Sector 23 Sonipat often explore nearby sectors for better rental options.",
+      "These surrounding localities offer similar connectivity, residential infrastructure, and living convenience."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 23 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "House for Rent in Sector 24 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "House for Rent in Sector 21 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "House for Rent in Sector 19 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Independent Houses for Rent in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Affordable Houses for Rent in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Best Residential Areas in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Premium Rental Homes in Sonipat", "path": "/", "icon": "Map" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Most Trusted Platform for Renting Houses",
+    "description": [
+      "Finding a house for rent in Sector 23 Sonipat becomes simple, secure, and transparent with Deal Acres.",
+      "Deal Acres has earned the trust of tenants by offering verified listings, honest guidance, and a customer-first rental experience."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "All houses are verified for ownership, legal clarity, and overall property condition before being listed."
+      },
+      {
+        "title": "Transparent Rental Process",
+        "description": "Clear rental terms and pricing ensure tenants face no hidden charges or confusion."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 23 Sonipat helps provide accurate rental guidance."
+      },
+      {
+        "title": "Tenant-Focused Recommendations",
+        "description": "Property suggestions are customized based on tenant budget, family size, and lifestyle needs."
+      },
+      {
+        "title": "Direct Owner Communication",
+        "description": "Tenants can connect directly with property owners for better transparency and faster decisions."
+      },
+      {
+        "title": "Complete Rental Assistance",
+        "description": "Support with site visits, negotiation, and rental documentation ensures a smooth experience."
+      },
+      {
+        "title": "Wide Range of Rental Options",
+        "description": "Multiple Marla-size houses available on one trusted rental platform."
+      },
+      {
+        "title": "High Customer Trust",
+        "description": "Deal Acres is known for ethical practices, reliability, and long-term tenant satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 23 Sonipat",
+    "description": "These FAQs help tenants clear common doubts and make confident rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 23 Sonipat a good location to rent a house?",
+        "answer": "Yes, Sector 23 is a peaceful and developing residential area with good connectivity and essential amenities nearby, making it suitable for families and professionals."
+      },
+      {
+        "question": "What Marla sizes are available for houses on rent in Sector 23 Sonipat?",
+        "answer": "Houses are commonly available from 4 Marla to 14 Marla, depending on budget and space requirements."
+      },
+      {
+        "question": "Are houses in Sector 23 suitable for families?",
+        "answer": "Yes, the sector is family-friendly with schools, parks, hospitals, and local markets located nearby."
+      },
+      {
+        "question": "Are affordable rental houses available in Sector 23?",
+        "answer": "Yes, 4 Marla and 6 Marla houses offer budget-friendly rental options."
+      },
+      {
+        "question": "Is parking available with rental houses?",
+        "answer": "Most independent houses provide dedicated or nearby parking facilities."
+      },
+      {
+        "question": "Can working professionals rent houses in Sector 23 Sonipat?",
+        "answer": "Yes, the sector is well-connected to major roads, making daily commuting convenient."
+      },
+      {
+        "question": "Does Deal Acres verify rental listings?",
+        "answer": "Yes, every rental listing on Deal Acres is verified for ownership and legal clarity."
+      },
+      {
+        "question": "Are long-term rental options available?",
+        "answer": "Yes, many property owners prefer long-term tenants for stability and continuity."
+      },
+      {
+        "question": "Is Sector 23 Sonipat safe for tenants?",
+        "answer": "Yes, Sector 23 is considered safe with a growing residential community and improving civic facilities."
+      },
+      {
+        "question": "How can I enquire about a house for rent in Sector 23 Sonipat?",
+        "answer": "You can fill out the enquiry form on Deal Acres to connect with a verified rental expert and receive personalized assistance."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get in Touch to Find the Right House for Rent",
+    "description": [
+      "Finding the perfect house for rent in Sector 23 Sonipat becomes easier with expert guidance.",
+      "Share your rental requirements to receive verified listings and personalized support from trusted professionals."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "houseSize", "message"]
+  }
+}

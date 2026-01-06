@@ -1,0 +1,169 @@
+{
+  "domain": "officespaceforrentcom",
+  "hero": {
+    "title": "Strategically Located Commercial Office Spaces for Rent in Sector 116 Noida",
+    "description": [
+      "Sector 116 Noida is an emerging commercial and residential locality positioned close to major road networks and well-developed neighboring sectors. Its proximity to Sector 62, Sector 119, and the Noida–Greater Noida Expressway makes daily commuting smooth for professionals and businesses. Companies searching for office space for rent in Sector 116 Noida prefer this area due to its balanced environment, organized infrastructure, and availability of essential civic amenities.",
+      "Office spaces for rent in Sector 116 Noida are suitable for startups, IT service firms, consultants, and growing enterprises looking for cost-effective yet professional workspaces. The sector offers low-rise commercial buildings, flexible office layouts, and modern facilities such as parking, power backup, and security. Compared to overcrowded business hubs, Sector 116 provides a calm working atmosphere while maintaining strong connectivity. With increasing demand and steady development, Sector 116 is becoming a reliable commercial destination in Noida."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces in Sector 116",
+        "path": "/"
+      },
+      {
+        "label": "Get Office Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1604328698692-f76ea9498e76?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Office Space Size Options Available in Sector 116 Noida",
+    "description": [
+      "Selecting the right office space for rent in Sector 116 Noida depends on team size, nature of work, and future expansion plans.",
+      "The sector offers multiple office size options catering to startups, SMEs, and established organizations."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space for Rent in Sector 116 Noida",
+        "description": "A 4 Marla office space for rent in Sector 116 Noida is ideal for startups, freelancers, and small professional teams. These offices offer affordability, easy maintenance, and a professional business address."
+      },
+      {
+        "title": "6 Marla Office Space for Rent in Sector 116 Noida",
+        "description": "6 Marla office spaces for rent in Sector 116 Noida are suitable for growing businesses that need meeting rooms, cabins, and organized work areas without high rental costs."
+      },
+      {
+        "title": "8 Marla Office Space for Rent in Sector 116 Noida",
+        "description": "An 8 Marla office space for rent in Sector 116 Noida supports mid-sized teams by offering better layout planning, collaborative zones, and improved employee comfort."
+      },
+      {
+        "title": "10 Marla Office Space for Rent in Sector 116 Noida",
+        "description": "10 Marla office spaces for rent in Sector 116 Noida are preferred by established firms requiring spacious interiors, client-facing areas, and departmental separation."
+      },
+      {
+        "title": "12 Marla Office Space for Rent in Sector 116 Noida",
+        "description": "A 12 Marla office space for rent in Sector 116 Noida is suitable for larger teams that require ample workspace, parking facilities, and operational flexibility."
+      },
+      {
+        "title": "14 Marla Office Space for Rent in Sector 116 Noida",
+        "description": "14 Marla office spaces represent premium commercial options in Sector 116 Noida, offering expansive layouts, modern infrastructure, and long-term scalability."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Office Spaces for Rent Near Sector 116 Noida",
+    "description": [
+      "Businesses searching for office space for rent in Sector 116 Noida often consider nearby sectors for better connectivity and comparative options.",
+      "These surrounding areas enhance Sector 116’s appeal as a growing commercial zone."
+    ],
+    "locations": [
+      { "title": "Office Space for Rent in Sector 116 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space for Rent in Sector 119 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space for Rent in Sector 62 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space near Noida Expressway", "path": "/", "icon": "Building2" },
+      { "title": "Commercial Offices near Metro Stations Noida", "path": "/", "icon": "Building2" },
+      { "title": "Corporate Offices in Central Noida", "path": "/", "icon": "Building2" },
+      { "title": "Fully Furnished Offices in Noida", "path": "/", "icon": "Building2" },
+      { "title": "Business Offices near Residential Sectors", "path": "/", "icon": "Building2" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Businesses Trust Deal Acres for Office Space in Sector 116 Noida",
+    "description": [
+      "Finding the right office space for rent in Sector 116 Noida requires verified listings, transparent pricing, and local market expertise.",
+      "Deal Acres provides a reliable and business-focused commercial leasing experience."
+    ],
+    "points": [
+      {
+        "title": "Verified Commercial Listings",
+        "description": "Every office property is verified for ownership, availability, and quality."
+      },
+      {
+        "title": "Transparent Rental Deals",
+        "description": "Clear information on rent, deposits, and lease terms with no hidden charges."
+      },
+      {
+        "title": "Strong Local Market Knowledge",
+        "description": "In-depth understanding of Sector 116 Noida commercial rental trends."
+      },
+      {
+        "title": "Wide Office Space Options",
+        "description": "Office spaces available for startups, SMEs, and corporate teams."
+      },
+      {
+        "title": "Lease & Documentation Support",
+        "description": "Complete assistance with agreements, compliance, and paperwork."
+      },
+      {
+        "title": "Customized Office Recommendations",
+        "description": "Property suggestions aligned with business needs and budget."
+      },
+      {
+        "title": "End-to-End Commercial Assistance",
+        "description": "Support from initial property search to final office possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for transparency, trust, and long-term client relationships."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Office Space for Rent in Sector 116 Noida",
+    "description": "Common queries answered to help businesses make confident rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 116 Noida good for office space?",
+        "answer": "Yes, Sector 116 Noida is a developing area with good connectivity, modern infrastructure, and a professional environment suitable for offices."
+      },
+      {
+        "question": "What office sizes are available in Sector 116 Noida?",
+        "answer": "Office spaces ranging from 4 Marla to 14 Marla are available depending on current listings."
+      },
+      {
+        "question": "Is Sector 116 suitable for startups?",
+        "answer": "Yes, the sector offers affordable office options and a calm environment ideal for startups and small businesses."
+      },
+      {
+        "question": "How is connectivity from Sector 116 Noida?",
+        "answer": "Sector 116 has good road connectivity to central Noida, nearby sectors, and major expressways."
+      },
+      {
+        "question": "Are furnished office spaces available?",
+        "answer": "Yes, both furnished and semi-furnished office spaces are available in Sector 116."
+      },
+      {
+        "question": "What amenities are offered in office buildings?",
+        "answer": "Most offices provide parking, power backup, security, and maintenance services."
+      },
+      {
+        "question": "What factors affect office rent in Sector 116?",
+        "answer": "Rent depends on office size, furnishing level, building quality, and exact location."
+      },
+      {
+        "question": "Is Sector 116 suitable for client-facing businesses?",
+        "answer": "Yes, its planned infrastructure and accessibility make it suitable for client meetings."
+      },
+      {
+        "question": "Why choose Deal Acres for office rentals?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and expert commercial guidance."
+      },
+      {
+        "question": "How can I contact office space experts?",
+        "answer": "You can fill out the contact form on this page to connect with commercial property experts."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Office Space for Rent in Sector 116 Noida",
+    "description": [
+      "Finding the right office space for rent in Sector 116 Noida is easier with expert assistance.",
+      "Share your business requirements and contact details to connect with trusted commercial real estate consultants."
+    ],
+    "formFields": ["name", "phone", "email", "company", "message"]
+  }
+}

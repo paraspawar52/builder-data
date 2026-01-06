@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforsalecom",
+  "hero": {
+    "title": "Comfortable Independent Houses for Sale in Sector 28 Bahadurgarh",
+    "description": [
+      "Sector 28 Bahadurgarh is a steadily developing residential locality known for its calm environment, planned roads, and easy access to daily necessities. The sector is well-connected to nearby residential areas, main roads, and local markets, making it suitable for families looking for peaceful yet connected living. Buyers searching for a house for sale in Sector 28 Bahadurgarh often prefer this area due to its balanced lifestyle, affordability, and growing residential demand.",
+      "Houses for sale in Sector 28 Bahadurgarh cater to a wide range of buyers, from first-time homeowners to long-term investors. The locality supports independent houses in multiple sizes, allowing flexibility in budget and space requirements. With gradual infrastructure improvements and increasing interest from homebuyers, Sector 28 offers stable property appreciation and comfortable living, making it a reliable choice in Bahadurgarh."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses in Sector 28",
+        "path": "/"
+      },
+      {
+        "label": "Connect with Property Experts",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Available House Size Options in Sector 28 Bahadurgarh",
+    "description": [
+      "Choosing the right house for sale in Sector 28 Bahadurgarh depends on family needs, space expectations, and budget planning.",
+      "Sector 28 offers multiple house size options suitable for both small and large families."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Sector 28 Bahadurgarh",
+        "description": "A 4 Marla house is ideal for small families or buyers seeking affordable independent living."
+      },
+      {
+        "title": "6 Marla House for Sale in Sector 28 Bahadurgarh",
+        "description": "6 Marla houses provide a practical layout with comfortable rooms and functional design."
+      },
+      {
+        "title": "8 Marla House for Sale in Sector 28 Bahadurgarh",
+        "description": "An 8 Marla house offers better space planning, parking options, and family comfort."
+      },
+      {
+        "title": "10 Marla House for Sale in Sector 28 Bahadurgarh",
+        "description": "10 Marla houses are suitable for larger families looking for spacious interiors and privacy."
+      },
+      {
+        "title": "12 Marla House for Sale in Sector 28 Bahadurgarh",
+        "description": "A 12 Marla house supports premium living and provides strong long-term value."
+      },
+      {
+        "title": "14 Marla House for Sale in Sector 28 Bahadurgarh",
+        "description": "14 Marla houses are ideal for luxury living and high-potential residential investment."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Residential Locations Around Sector 28",
+    "description": [
+      "Buyers interested in a house for sale in Sector 28 Bahadurgarh often explore nearby sectors for comparison.",
+      "These surrounding localities further enhance the residential appeal of Sector 28."
+    ],
+    "locations": [
+      { "title": "House for Sale in Sector 28 Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 30 Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 25 Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "House for Sale in Sector 24 Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Independent Houses in Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Ready to Move Houses in Bahadurgarh", "path": "/", "icon": "Home" },
+      { "title": "Affordable Houses Near Delhi NCR", "path": "/", "icon": "Home" },
+      { "title": "Residential Properties in Bahadurgarh", "path": "/", "icon": "Home" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Trusted Platform for Buying Houses",
+    "description": [
+      "Buying a house for sale in Sector 28 Bahadurgarh requires transparency, verified listings, and professional support.",
+      "Deal Acres offers a reliable and customer-focused home buying experience."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All houses are checked for ownership, documentation, and legal clarity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden charges or surprises."
+      },
+      {
+        "title": "Local Market Knowledge",
+        "description": "Strong understanding of Sector 28 Bahadurgarh property trends."
+      },
+      {
+        "title": "Multiple House Options",
+        "description": "Wide selection of house sizes to suit different budgets."
+      },
+      {
+        "title": "Legal Assistance",
+        "description": "Support with registry, agreements, and documentation."
+      },
+      {
+        "title": "Personalized Guidance",
+        "description": "Property recommendations tailored to buyer requirements."
+      },
+      {
+        "title": "Smooth Transaction Process",
+        "description": "End-to-end support from site visit to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Brand",
+        "description": "Deal Acres is known for reliability, transparency, and customer trust."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses in Sector 28 Bahadurgarh",
+    "description": "Helpful answers to common buyer questions for informed decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 28 Bahadurgarh good for buying a house?",
+        "answer": "Yes, Sector 28 is a peaceful residential area with growing infrastructure and demand."
+      },
+      {
+        "question": "What house sizes are available in Sector 28?",
+        "answer": "Houses from 4 Marla to 14 Marla are commonly available."
+      },
+      {
+        "question": "Is Sector 28 suitable for family living?",
+        "answer": "Yes, it offers a calm environment with easy access to daily amenities."
+      },
+      {
+        "question": "Does Sector 28 offer investment potential?",
+        "answer": "Yes, the area shows steady appreciation due to residential growth."
+      },
+      {
+        "question": "Are properties on Deal Acres verified?",
+        "answer": "Yes, all listings undergo legal and ownership verification."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 28?",
+        "answer": "Loan availability depends on property approval and bank policies."
+      },
+      {
+        "question": "How is connectivity from Sector 28?",
+        "answer": "Sector 28 is connected to main roads and nearby sectors."
+      },
+      {
+        "question": "Are schools and markets nearby?",
+        "answer": "Yes, schools, markets, and healthcare facilities are easily accessible."
+      },
+      {
+        "question": "Why choose Deal Acres for house purchase?",
+        "answer": "Deal Acres offers verified listings, expert guidance, and transparent transactions."
+      },
+      {
+        "question": "How can I contact a property consultant?",
+        "answer": "Fill out the contact form on this page to connect with experienced consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Assistance for Houses in Sector 28 Bahadurgarh",
+    "description": [
+      "Finding the right house for sale in Sector 28 Bahadurgarh becomes easy with expert help.",
+      "Share your requirements through the form and connect with trusted real estate professionals today."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "message"]
+  }
+}

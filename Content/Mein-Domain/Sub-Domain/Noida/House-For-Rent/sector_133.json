@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforrentcom",
+  "hero": {
+    "title": "Peaceful Independent Houses for Rent in Sector 133 Noida",
+    "description": [
+      "Sector 133 Noida is a fast-developing residential locality located along the Noida–Greater Noida Expressway. The area is increasingly preferred by families and working professionals due to its planned infrastructure, green surroundings, and smooth connectivity to IT hubs, corporate offices, and educational institutions. People searching for a house for rent in Sector 133 Noida value the sector’s calm environment combined with easy access to daily essentials such as schools, hospitals, shopping complexes, and local markets.",
+      "Houses for rent in Sector 133 Noida provide the benefit of independent living in a low-density and well-organized neighborhood. The sector offers clean roads, reliable civic amenities, and a growing social ecosystem, making it suitable for long-term residential living. Despite its peaceful setting, Sector 133 enjoys strong rental demand because of its strategic location near the expressway and nearby employment zones. This balance of comfort, connectivity, and affordability makes Sector 133 a reliable choice for tenants in Noida."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses for Rent in Sector 133",
+        "path": "/"
+      },
+      {
+        "label": "Get Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Independent House Rental Size Options in Sector 133 Noida",
+    "description": [
+      "Choosing the right house for rent in Sector 133 Noida depends on your family size, lifestyle needs, and budget.",
+      "The locality offers multiple independent house configurations suitable for different tenant requirements."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Rent in Sector 133 Noida",
+        "description": "A 4 Marla house for rent in Sector 133 Noida is ideal for bachelors, couples, or small families. These homes are budget-friendly, easy to maintain, and provide comfortable living in a peaceful residential setting."
+      },
+      {
+        "title": "6 Marla House for Rent in Sector 133 Noida",
+        "description": "6 Marla houses for rent in Sector 133 Noida offer a balanced mix of space and affordability. They are suitable for nuclear families and provide good ventilation, parking options, and nearby daily conveniences."
+      },
+      {
+        "title": "8 Marla House for Rent in Sector 133 Noida",
+        "description": "An 8 Marla house for rent in Sector 133 Noida is preferred by families seeking additional space and privacy. These homes usually feature larger living areas and flexible interior layouts."
+      },
+      {
+        "title": "10 Marla House for Rent in Sector 133 Noida",
+        "description": "10 Marla independent houses for rent in Sector 133 Noida are ideal for large families and senior professionals. They offer spacious interiors, multiple floors, and enhanced comfort for long-term living."
+      },
+      {
+        "title": "12 Marla House for Rent in Sector 133 Noida",
+        "description": "A 12 Marla house for rent in Sector 133 Noida suits joint families or tenants who prefer open spaces, multiple bedrooms, and a calm residential atmosphere."
+      },
+      {
+        "title": "14 Marla House for Rent in Sector 133 Noida",
+        "description": "14 Marla houses represent premium independent living in Sector 133 Noida. These properties provide expansive layouts, superior privacy, and are ideal for tenants seeking luxury rental homes."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Houses for Rent Near Sector 133 Noida",
+    "description": [
+      "Tenants looking for a house for rent in Sector 133 Noida often explore nearby sectors to compare availability and pricing.",
+      "These surrounding locations further strengthen Sector 133’s appeal as a rental-friendly area in Noida."
+    ],
+    "locations": [
+      { "title": "House for Rent in Sector 133 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 134 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent in Sector 137 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Rent near Noida Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses near IT Parks Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Family Houses in Expressway Sectors", "path": "/", "icon": "Landmark" },
+      { "title": "Rental Houses near Schools and Hospitals", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Houses near Commercial Hubs", "path": "/", "icon": "Landmark" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Tenants Trust Deal Acres for Houses in Sector 133 Noida",
+    "description": [
+      "Finding a house for rent in Sector 133 Noida requires verified listings and transparent rental processes.",
+      "Deal Acres has earned tenant trust by consistently delivering reliable information and customer-focused service."
+    ],
+    "points": [
+      {
+        "title": "Verified Rental Listings",
+        "description": "All properties are verified for genuine availability and ownership authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear details about rent, security deposit, and rental terms help tenants decide confidently."
+      },
+      {
+        "title": "Local Rental Expertise",
+        "description": "Strong understanding of Sector 133 Noida rental trends and demand patterns."
+      },
+      {
+        "title": "Wide Choice of Houses",
+        "description": "Multiple house sizes and layouts to suit different family and budget needs."
+      },
+      {
+        "title": "Rental Agreement Support",
+        "description": "Assistance with documentation and legal formalities for hassle-free renting."
+      },
+      {
+        "title": "Personalized Property Matching",
+        "description": "Customized property suggestions based on tenant preferences."
+      },
+      {
+        "title": "End-to-End Tenant Assistance",
+        "description": "Complete support from property shortlisting to final move-in."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for transparency, reliability, and high tenant satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Rent in Sector 133 Noida",
+    "description": "Clear and detailed answers to common tenant questions for informed rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 133 Noida a good place to rent a house?",
+        "answer": "Yes, Sector 133 Noida is a well-planned and peaceful area with good connectivity and growing infrastructure, making it ideal for rental living."
+      },
+      {
+        "question": "What house sizes are available for rent in Sector 133 Noida?",
+        "answer": "Independent houses ranging from 4 Marla to 14 Marla are available, depending on listings and exact location."
+      },
+      {
+        "question": "Is Sector 133 suitable for families?",
+        "answer": "Yes, the sector offers a calm environment, nearby schools, healthcare facilities, and open spaces suitable for families."
+      },
+      {
+        "question": "How is connectivity from Sector 133 Noida?",
+        "answer": "Sector 133 enjoys excellent connectivity via the Noida–Greater Noida Expressway and major arterial roads."
+      },
+      {
+        "question": "Are rental houses in Sector 133 safe?",
+        "answer": "Yes, the locality is considered safe, well-organized, and suitable for long-term residential living."
+      },
+      {
+        "question": "What is the average rent in Sector 133 Noida?",
+        "answer": "Rental prices vary based on house size, condition, and location, with larger houses commanding higher rents."
+      },
+      {
+        "question": "Do landlords provide proper rental agreements?",
+        "answer": "Yes, rental agreements are standard, and Deal Acres assists tenants with documentation support."
+      },
+      {
+        "question": "Is Sector 133 good for working professionals?",
+        "answer": "Yes, its proximity to IT parks and corporate offices makes it convenient for working professionals."
+      },
+      {
+        "question": "Why should I choose Deal Acres for renting a house?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and expert local guidance for a smooth rental experience."
+      },
+      {
+        "question": "How can I contact rental experts for Sector 133 Noida?",
+        "answer": "You can fill out the contact form on this page to connect with experienced rental consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Houses for Rent in Sector 133 Noida",
+    "description": [
+      "Finding the right house for rent in Sector 133 Noida becomes simple with professional guidance.",
+      "Share your details and rental requirements to connect with trusted experts and explore verified rental options with confidence."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

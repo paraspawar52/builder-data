@@ -1,0 +1,169 @@
+{
+  "domain": "Flatsforrent.com",
+  "hero": {
+    "title": "Modern and Peaceful Flats for Rent in Sector 63 Sonipat",
+    "description": [
+      "Sector 63 Sonipat is a fast-developing residential locality that offers a calm environment, planned roads, and improving infrastructure. The area is gaining popularity among tenants due to its organized layout, open surroundings, and easy connectivity to nearby sectors, industrial areas, and main city roads. With access to daily needs such as local markets, schools, healthcare facilities, and public transport, flats for rent in Sector 63 Sonipat provide a comfortable living experience for families and professionals.",
+      "Choosing flats for rent in Sector 63 Sonipat is ideal for tenants looking for affordable yet modern housing options in a growing area. The locality offers flats in different Marla sizes, catering to various budgets and space requirements. As Sector 63 continues to develop, it promises better civic amenities and a strong residential community. Deal Acres helps tenants find verified flats for rent in Sector 63 Sonipat through transparent listings, trusted owners, and expert rental support, ensuring a smooth and reliable renting journey."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Flats for Rent in Sector 63",
+        "path": "/"
+      },
+      {
+        "label": "Connect With Rental Expert",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=900&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600585154084-4e5fe7c39198?w=900&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Marla Wise Flats for Rent Options in Sector 63 Sonipat",
+    "description": [
+      "Flats for rent in Sector 63 Sonipat are available in multiple Marla sizes to suit different tenant needs.",
+      "These Marla-wise flat options help tenants choose homes based on budget, comfort, and long-term plans."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Flats for Rent in Sector 63 Sonipat",
+        "description": "4 Marla flats are ideal for bachelors and small families looking for affordable, easy-to-maintain rental homes."
+      },
+      {
+        "title": "6 Marla Flats for Rent in Sector 63 Sonipat",
+        "description": "6 Marla flats offer a practical balance of space and affordability, suitable for nuclear families."
+      },
+      {
+        "title": "8 Marla Flats for Rent in Sector 63 Sonipat",
+        "description": "8 Marla flats provide spacious layouts, good ventilation, and comfortable living for long-term tenants."
+      },
+      {
+        "title": "10 Marla Flats for Rent in Sector 63 Sonipat",
+        "description": "10 Marla flats fall under the premium rental category, offering larger rooms and enhanced lifestyle comfort."
+      },
+      {
+        "title": "12 Marla Flats for Rent in Sector 63 Sonipat",
+        "description": "12 Marla flats are suitable for joint families or tenants who prefer expansive living spaces."
+      },
+      {
+        "title": "14 Marla Flats for Rent in Sector 63 Sonipat",
+        "description": "14 Marla flats represent high-end rental options with superior space, privacy, and premium amenities."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Areas with Flats for Rent Around Sector 63",
+    "description": [
+      "Tenants searching for flats for rent in Sector 63 Sonipat often explore nearby sectors for comparison.",
+      "These surrounding localities also offer developing infrastructure and good connectivity."
+    ],
+    "locations": [
+      { "title": "Flats for Rent in Sector 63 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Sector 64 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Sector 62 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Flats for Rent in Sector 35 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Residential Flats for Rent in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Affordable Flats for Rent in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Best Areas to Rent Flats in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Premium Rental Flats in Sonipat", "path": "/", "icon": "Map" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is the Most Trusted Platform for Renting Flats",
+    "description": [
+      "Finding flats for rent in Sector 63 Sonipat becomes simple and secure with Deal Acres.",
+      "Deal Acres is trusted by tenants for verified listings, transparency, and customer-first service."
+    ],
+    "points": [
+      {
+        "title": "Verified Flat Listings",
+        "description": "All flats are verified for ownership and legal authenticity before listing."
+      },
+      {
+        "title": "Transparent Rental Pricing",
+        "description": "Clear rental details are shared without hidden charges or surprises."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Accurate insights about Sector 63 Sonipat help tenants make informed decisions."
+      },
+      {
+        "title": "Personalized Tenant Support",
+        "description": "Rental options are suggested based on budget, family size, and preferences."
+      },
+      {
+        "title": "Direct Owner Communication",
+        "description": "Tenants can connect directly with property owners for faster decisions."
+      },
+      {
+        "title": "Complete Rental Assistance",
+        "description": "Support with visits, negotiation, and documentation ensures smooth renting."
+      },
+      {
+        "title": "Wide Range of Options",
+        "description": "Multiple Marla-size flats are available on one trusted platform."
+      },
+      {
+        "title": "Highly Trusted Real Estate Brand",
+        "description": "Deal Acres is known for ethical practices and high tenant satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Flats for Rent in Sector 63 Sonipat",
+    "description": "These FAQs help tenants understand important aspects of renting flats in Sector 63 Sonipat.",
+    "faqs": [
+      {
+        "question": "Is Sector 63 Sonipat a good area to rent a flat?",
+        "answer": "Yes, Sector 63 is a developing and peaceful area with improving infrastructure and good connectivity."
+      },
+      {
+        "question": "What flat sizes are available for rent in Sector 63 Sonipat?",
+        "answer": "Flats are available from 4 Marla to 14 Marla, depending on availability and budget."
+      },
+      {
+        "question": "Are flats in Sector 63 suitable for families?",
+        "answer": "Yes, the locality offers a calm environment suitable for family living."
+      },
+      {
+        "question": "Are affordable flats available in Sector 63?",
+        "answer": "Yes, 4 Marla and 6 Marla flats provide budget-friendly rental options."
+      },
+      {
+        "question": "Is parking available with rental flats?",
+        "answer": "Most flats provide parking facilities for residents."
+      },
+      {
+        "question": "Is Sector 63 suitable for long-term renting?",
+        "answer": "Yes, due to ongoing development and affordability, it is suitable for long-term stays."
+      },
+      {
+        "question": "Does Deal Acres verify flat listings?",
+        "answer": "Yes, every listing on Deal Acres is verified for legal and ownership clarity."
+      },
+      {
+        "question": "Can working professionals rent flats in Sector 63?",
+        "answer": "Yes, good road connectivity makes commuting manageable for professionals."
+      },
+      {
+        "question": "Are premium flats available in Sector 63 Sonipat?",
+        "answer": "Yes, 10 Marla and above flats are considered premium rental options."
+      },
+      {
+        "question": "How can I enquire about flats for rent in Sector 63 Sonipat?",
+        "answer": "You can fill out the enquiry form on Deal Acres to connect with a verified rental expert."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help to Find the Right Rental Flat",
+    "description": [
+      "Finding the right flat for rent in Sector 63 Sonipat is easy with expert guidance.",
+      "Share your requirements to receive verified listings and personalized rental assistance."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "flatSize", "message"]
+  }
+}

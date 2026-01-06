@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforsalecom",
+  "hero": {
+    "title": "Well Planned Independent Houses for Sale in Sector 118 Noida",
+    "description": [
+      "Sector 118 Noida is a well-planned residential locality known for its balanced lifestyle, good connectivity, and peaceful surroundings. Buyers searching for a house for sale in Sector 118 Noida are drawn to its proximity to major roads, Sector 62, Sector 120, and important commercial hubs of Noida. The sector benefits from smooth road connectivity, nearby metro access, reputed schools, hospitals, shopping centers, and daily convenience markets, making it a comfortable choice for families and working professionals.",
+      "Houses for sale in Sector 118 Noida offer the advantage of independent living in a developing yet stable neighborhood. With consistent residential demand, improving infrastructure, and limited availability of independent houses, this sector holds strong appeal for both end-users and investors. Whether you are planning to settle with your family or invest for long-term appreciation, Sector 118 provides a reliable residential environment with good future growth prospects."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses in Sector 118",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Independent House Size Options Available in Sector 118 Noida",
+    "description": [
+      "Selecting the right house size in Sector 118 Noida depends on family needs, budget planning, and lifestyle preferences.",
+      "The sector offers a range of independent house sizes suitable for different residential and investment requirements."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Sector 118 Noida",
+        "description": "A 4 Marla house for sale in Sector 118 Noida is ideal for small families and first-time homebuyers looking for affordable independent living. These houses are easy to maintain and are located close to daily amenities, schools, and transport facilities. Due to growing demand, 4 Marla houses also offer stable rental income and resale potential."
+      },
+      {
+        "title": "6 Marla House for Sale in Sector 118 Noida",
+        "description": "6 Marla houses in Sector 118 Noida offer a practical balance between space and affordability. These homes usually feature well-planned layouts, parking space, and proper ventilation, making them suitable for nuclear families seeking long-term residential comfort."
+      },
+      {
+        "title": "8 Marla House for Sale in Sector 118 Noida",
+        "description": "An 8 Marla house for sale in Sector 118 Noida is preferred by families who need larger living areas and better privacy. These houses support flexible interior designs and modern upgrades, making them a popular choice among end-users."
+      },
+      {
+        "title": "10 Marla House for Sale in Sector 118 Noida",
+        "description": "10 Marla independent houses in Sector 118 Noida are suitable for buyers looking for spacious homes with premium comfort. These properties often allow customization and future expansion, enhancing both lifestyle value and long-term appreciation."
+      },
+      {
+        "title": "12 Marla House for Sale in Sector 118 Noida",
+        "description": "A 12 Marla house in Sector 118 Noida caters to buyers who prioritize spacious living, privacy, and family convenience. These homes are ideal for large families and often include ample parking, balconies, and open areas."
+      },
+      {
+        "title": "14 Marla House for Sale in Sector 118 Noida",
+        "description": "14 Marla houses represent premium independent living in Sector 118 Noida. With generous plot sizes and exclusive layouts, these properties are highly valued for luxury living and long-term investment potential."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Houses for Sale Near Sector 118 Noida",
+    "description": [
+      "Buyers looking for a house for sale in Sector 118 Noida often explore nearby sectors to compare prices, connectivity, and amenities.",
+      "These surrounding localities further enhance the residential appeal of Sector 118."
+    ],
+    "locations": [
+      { "title": "House for Sale in Sector 118 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale in Sector 120 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale in Sector 117 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale in Sector 62 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses near Noida Expressway", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Houses near Metro Connectivity", "path": "/", "icon": "Landmark" },
+      { "title": "Family Homes in Central Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Premium Houses near Commercial Hubs", "path": "/", "icon": "Landmark" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Houses in Sector 118 Noida",
+    "description": [
+      "Buying a house for sale in Sector 118 Noida requires verified listings, transparent pricing, and professional guidance.",
+      "Deal Acres has earned buyer trust through ethical practices and a customer-first real estate approach."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All listings are verified for ownership clarity and legal authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden costs ensures buyer confidence."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 118 Noida property trends and pricing."
+      },
+      {
+        "title": "Wide Range of Options",
+        "description": "Multiple house sizes available to match varied budgets and needs."
+      },
+      {
+        "title": "Complete Legal Support",
+        "description": "Assistance with documentation, registry, and legal verification."
+      },
+      {
+        "title": "Personalized Buying Guidance",
+        "description": "Property recommendations based on buyer goals and lifestyle needs."
+      },
+      {
+        "title": "End-to-End Transaction Support",
+        "description": "Support from property search to final possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for transparency, reliability, and customer satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Sale in Sector 118 Noida",
+    "description": "User-friendly answers to help buyers make confident property decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 118 Noida a good area to buy a house?",
+        "answer": "Yes, Sector 118 Noida is a well-planned residential area with good connectivity, growing infrastructure, and strong residential demand."
+      },
+      {
+        "question": "What house sizes are available in Sector 118 Noida?",
+        "answer": "Independent houses are available from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Is Sector 118 suitable for family living?",
+        "answer": "Yes, the sector offers a peaceful environment with nearby schools, hospitals, markets, and parks."
+      },
+      {
+        "question": "How is connectivity from Sector 118 Noida?",
+        "answer": "Sector 118 has good road connectivity and easy access to metro routes and major Noida sectors."
+      },
+      {
+        "question": "Are houses in Sector 118 legally approved?",
+        "answer": "Most properties are approved, and Deal Acres assists buyers with complete legal verification."
+      },
+      {
+        "question": "Is buying a house in Sector 118 a good investment?",
+        "answer": "Yes, increasing demand and infrastructure development support long-term appreciation."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 118 Noida?",
+        "answer": "Yes, major banks and financial institutions offer home loans for eligible properties."
+      },
+      {
+        "question": "What amenities are available near Sector 118 Noida?",
+        "answer": "Nearby amenities include schools, hospitals, shopping complexes, offices, and daily convenience facilities."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, expert guidance, and complete buying support."
+      },
+      {
+        "question": "How can I contact property experts for Sector 118?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Houses for Sale in Sector 118 Noida",
+    "description": [
+      "Finding the right house for sale in Sector 118 Noida becomes simple with professional assistance.",
+      "Share your details to connect with trusted real estate experts and explore verified housing options confidently."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

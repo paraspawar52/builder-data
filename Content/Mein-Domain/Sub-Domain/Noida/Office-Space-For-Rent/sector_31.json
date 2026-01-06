@@ -1,0 +1,169 @@
+{
+  "domain": "officespaceforrentcom",
+  "hero": {
+    "title": "Centrally Located and Professional Office Spaces for Rent in Sector 31 Noida",
+    "description": [
+      "Sector 31 Noida is a well-established and centrally located commercial–residential sector, known for its excellent connectivity and mature infrastructure. Situated close to Noida City Centre, Sector 18, and major arterial roads, the area offers seamless access to metro stations, business districts, and surrounding residential sectors. Businesses searching for office space for rent in Sector 31 Noida prefer this location due to its strategic positioning, ease of commuting, and proximity to banks, markets, and daily conveniences.",
+      "Office spaces for rent in Sector 31 Noida are ideal for startups, consultants, IT service providers, and established firms seeking a professional yet calm working environment. The sector offers low-rise commercial buildings, independent office units, and flexible layouts with essential amenities such as parking, power backup, and security. Unlike high-density IT corridors, Sector 31 provides a balanced workspace that supports productivity and client interactions. With consistent demand and long-term stability, Sector 31 remains a reliable choice for businesses in Noida."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Office Spaces in Sector 31",
+        "path": "/"
+      },
+      {
+        "label": "Get Office Rental Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1604328698692-f76ea9498e76?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Office Space Size Options Available in Sector 31 Noida",
+    "description": [
+      "Selecting the right office space for rent in Sector 31 Noida depends on team size, business operations, and future expansion plans.",
+      "The sector offers multiple office size options suitable for small teams as well as growing enterprises."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Office Space for Rent in Sector 31 Noida",
+        "description": "A 4 Marla office space for rent in Sector 31 Noida is best suited for startups, freelancers, and small professional teams. These offices are budget-friendly, easy to manage, and provide a central business address."
+      },
+      {
+        "title": "6 Marla Office Space for Rent in Sector 31 Noida",
+        "description": "6 Marla office spaces for rent in Sector 31 Noida are ideal for growing businesses that need cabins, workstations, and meeting areas within a reasonable budget."
+      },
+      {
+        "title": "8 Marla Office Space for Rent in Sector 31 Noida",
+        "description": "An 8 Marla office space for rent in Sector 31 Noida offers better layout flexibility for mid-sized teams, ensuring comfort, collaboration, and operational efficiency."
+      },
+      {
+        "title": "10 Marla Office Space for Rent in Sector 31 Noida",
+        "description": "10 Marla office spaces for rent in Sector 31 Noida are preferred by established firms that require spacious interiors, client-facing areas, and departmental separation."
+      },
+      {
+        "title": "12 Marla Office Space for Rent in Sector 31 Noida",
+        "description": "A 12 Marla office space for rent in Sector 31 Noida supports larger teams with ample workspace, parking facilities, and smooth day-to-day operations."
+      },
+      {
+        "title": "14 Marla Office Space for Rent in Sector 31 Noida",
+        "description": "14 Marla office spaces represent premium office options in Sector 31 Noida, offering expansive layouts, strong visibility, and long-term scalability."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Office Spaces for Rent Near Sector 31 Noida",
+    "description": [
+      "Businesses looking for office space for rent in Sector 31 Noida often explore nearby sectors to compare pricing, connectivity, and availability.",
+      "These surrounding areas enhance Sector 31’s appeal as a central commercial destination."
+    ],
+    "locations": [
+      { "title": "Office Space for Rent in Sector 31 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space for Rent in Sector 18 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space for Rent in Sector 32 Noida", "path": "/", "icon": "Building2" },
+      { "title": "Office Space near Noida City Centre", "path": "/", "icon": "Building2" },
+      { "title": "Commercial Offices near Metro Stations Noida", "path": "/", "icon": "Building2" },
+      { "title": "Corporate Offices in Central Noida", "path": "/", "icon": "Building2" },
+      { "title": "Fully Furnished Offices in Noida", "path": "/", "icon": "Building2" },
+      { "title": "Business Offices near Residential Areas", "path": "/", "icon": "Building2" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Businesses Trust Deal Acres for Office Space in Sector 31 Noida",
+    "description": [
+      "Finding the right office space for rent in Sector 31 Noida requires verified properties, transparent pricing, and reliable local expertise.",
+      "Deal Acres ensures a smooth, professional, and trustworthy commercial leasing experience."
+    ],
+    "points": [
+      {
+        "title": "Verified Office Listings",
+        "description": "All office spaces are verified for ownership, condition, and availability."
+      },
+      {
+        "title": "Transparent Pricing Structure",
+        "description": "Clear rental details with no hidden charges or surprises."
+      },
+      {
+        "title": "Strong Local Market Knowledge",
+        "description": "In-depth understanding of Sector 31 Noida’s commercial rental trends."
+      },
+      {
+        "title": "Wide Office Space Options",
+        "description": "Office solutions for startups, SMEs, and established companies."
+      },
+      {
+        "title": "Complete Documentation Support",
+        "description": "Assistance with lease agreements, compliance, and paperwork."
+      },
+      {
+        "title": "Customized Office Shortlisting",
+        "description": "Property recommendations aligned with your business needs and budget."
+      },
+      {
+        "title": "End-to-End Leasing Support",
+        "description": "Support from initial search to final office handover."
+      },
+      {
+        "title": "Trusted Commercial Property Platform",
+        "description": "Deal Acres is known for transparency, reliability, and long-term client trust."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Office Space for Rent in Sector 31 Noida",
+    "description": "Detailed answers to common questions to help businesses make confident decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 31 Noida a good location for offices?",
+        "answer": "Yes, Sector 31 Noida is centrally located, well-connected, and ideal for professional and service-based offices."
+      },
+      {
+        "question": "What office sizes are available in Sector 31 Noida?",
+        "answer": "Office spaces from 4 Marla to 14 Marla are available, depending on property availability."
+      },
+      {
+        "question": "Is Sector 31 suitable for startups?",
+        "answer": "Yes, the sector offers affordable and flexible office spaces suitable for startups and small teams."
+      },
+      {
+        "question": "How is connectivity from Sector 31 Noida?",
+        "answer": "Sector 31 has excellent connectivity via metro stations and major roads to central Noida and Delhi."
+      },
+      {
+        "question": "Are furnished offices available in Sector 31?",
+        "answer": "Yes, furnished and semi-furnished office spaces are available based on listings."
+      },
+      {
+        "question": "What amenities do office buildings provide?",
+        "answer": "Common amenities include parking, power backup, security, and maintenance services."
+      },
+      {
+        "question": "What factors affect office rent in Sector 31?",
+        "answer": "Rent depends on office size, furnishing level, building quality, and exact location."
+      },
+      {
+        "question": "Is Sector 31 suitable for client meetings?",
+        "answer": "Yes, its central location and easy accessibility make it suitable for client-facing businesses."
+      },
+      {
+        "question": "Why choose Deal Acres for office rentals?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and expert commercial guidance."
+      },
+      {
+        "question": "How can I contact office space experts?",
+        "answer": "You can fill out the contact form on this page to connect with experienced commercial property consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Office Space for Rent in Sector 31 Noida",
+    "description": [
+      "Finding the right office space for rent in Sector 31 Noida becomes easy with professional support.",
+      "Share your business requirements and contact details to connect with trusted commercial real estate experts."
+    ],
+    "formFields": ["name", "phone", "email", "company", "message"]
+  }
+}

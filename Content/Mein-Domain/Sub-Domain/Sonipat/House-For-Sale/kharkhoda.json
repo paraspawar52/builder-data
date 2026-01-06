@@ -1,0 +1,169 @@
+{
+  "domain": "Houseforsale.com",
+  "hero": {
+    "title": "Affordable and Well Connected Houses for Sale in Kharkhoda Sonipat",
+    "description": [
+      "Kharkhoda Sonipat is a rapidly developing town that has emerged as a promising residential and investment destination. Known for its planned growth, improving infrastructure, and strategic location near industrial and residential hubs, Kharkhoda attracts buyers looking for value-driven housing options. People searching for a house for sale in Kharkhoda Sonipat often prefer this area due to its peaceful environment, availability of independent houses, and better affordability compared to central city locations. The locality offers good road connectivity, nearby markets, schools, healthcare facilities, and growing employment opportunities.",
+      "Buying a house for sale in Kharkhoda Sonipat is a smart move for families as well as investors aiming for long-term appreciation. The area provides multiple Marla-size house options to suit different budgets and lifestyle needs. With upcoming development projects and increasing demand, Kharkhoda is steadily gaining attention in the Sonipat real estate market. Deal Acres supports buyers with verified listings, transparent pricing, and expert assistance, ensuring a secure and hassle-free home-buying experience."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses in Kharkhoda",
+        "path": "/"
+      },
+      {
+        "label": "Talk to Property Expert",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=900&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=900&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Marla Wise Houses for Sale Options in Kharkhoda Sonipat",
+    "description": [
+      "Houses for sale in Kharkhoda Sonipat are available in multiple Marla configurations to meet different family needs.",
+      "These options help buyers choose homes based on budget, space, and future growth plans."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Kharkhoda Sonipat",
+        "description": "4 Marla houses in Kharkhoda Sonipat are ideal for first-time buyers and small families. These homes offer affordable pricing, easy maintenance, and practical layouts, making them suitable for comfortable everyday living."
+      },
+      {
+        "title": "6 Marla House for Sale in Kharkhoda Sonipat",
+        "description": "6 Marla houses provide a balanced combination of space and budget. These houses are preferred by nuclear families looking for independent living in a developing and peaceful locality."
+      },
+      {
+        "title": "8 Marla House for Sale in Kharkhoda Sonipat",
+        "description": "8 Marla houses are suitable for families seeking more space, better ventilation, and privacy. These properties offer long-term comfort and good resale potential in Kharkhoda."
+      },
+      {
+        "title": "10 Marla House for Sale in Kharkhoda Sonipat",
+        "description": "10 Marla houses fall under the premium category and are ideal for buyers looking for spacious layouts, parking space, and customization options for future needs."
+      },
+      {
+        "title": "12 Marla House for Sale in Kharkhoda Sonipat",
+        "description": "12 Marla houses are perfect for joint families and buyers who want large living areas and a premium residential experience in Kharkhoda Sonipat."
+      },
+      {
+        "title": "14 Marla House for Sale in Kharkhoda Sonipat",
+        "description": "14 Marla houses represent high-end housing options in Kharkhoda. These homes offer luxury, ample space, and strong long-term appreciation prospects."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Houses for Sale Near Kharkhoda Sonipat",
+    "description": [
+      "Buyers looking for houses for sale in Kharkhoda Sonipat often explore nearby areas for comparison.",
+      "These surrounding locations also offer residential opportunities with developing infrastructure."
+    ],
+    "locations": [
+      { "title": "House for Sale in Kharkhoda Sonipat", "path": "/", "icon": "Map" },
+      { "title": "House for Sale in Sector 35 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "House for Sale in Sector 63 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "House for Sale in Sector 62 Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Independent Houses in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Residential Houses in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Upcoming Residential Areas in Sonipat", "path": "/", "icon": "Map" },
+      { "title": "Best Locations to Buy House in Sonipat", "path": "/", "icon": "Map" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is Trusted for Buying Houses in Sonipat",
+    "description": [
+      "Finding the right house for sale in Kharkhoda Sonipat becomes easy with Deal Acres’ verified listings.",
+      "Deal Acres is trusted by buyers for transparency, reliability, and expert property guidance."
+    ],
+    "points": [
+      {
+        "title": "Verified House Listings",
+        "description": "All houses are verified for ownership, approvals, and legal authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Buyers get clear insights into real market prices without hidden costs."
+      },
+      {
+        "title": "Local Market Knowledge",
+        "description": "Strong understanding of Kharkhoda Sonipat ensures accurate recommendations."
+      },
+      {
+        "title": "Customer Centric Service",
+        "description": "Personalized assistance based on budget and family needs."
+      },
+      {
+        "title": "Direct Owner Connect",
+        "description": "Direct interaction with owners increases trust and transparency."
+      },
+      {
+        "title": "Legal and Documentation Support",
+        "description": "Complete assistance with paperwork, verification, and registration."
+      },
+      {
+        "title": "Wide House Options",
+        "description": "Multiple Marla-size houses available on one platform."
+      },
+      {
+        "title": "Reliable Real Estate Platform",
+        "description": "Deal Acres is known for ethical practices and customer satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Sale in Kharkhoda Sonipat",
+    "description": "These FAQs help buyers understand the process of buying a house in Kharkhoda Sonipat.",
+    "faqs": [
+      {
+        "question": "Is Kharkhoda Sonipat a good place to buy a house?",
+        "answer": "Yes, Kharkhoda is a developing area with good infrastructure growth and future appreciation potential."
+      },
+      {
+        "question": "What types of houses are available in Kharkhoda Sonipat?",
+        "answer": "Independent houses in various Marla sizes are commonly available."
+      },
+      {
+        "question": "Is Kharkhoda suitable for family living?",
+        "answer": "Yes, it offers a peaceful environment with essential facilities nearby."
+      },
+      {
+        "question": "Are affordable houses available in Kharkhoda?",
+        "answer": "Yes, 4 Marla and 6 Marla houses are affordable options."
+      },
+      {
+        "question": "Does Deal Acres verify house listings?",
+        "answer": "Yes, all listings are thoroughly verified before being published."
+      },
+      {
+        "question": "Can I get help with legal documentation?",
+        "answer": "Deal Acres provides complete legal and documentation assistance."
+      },
+      {
+        "question": "Is Kharkhoda good for long-term investment?",
+        "answer": "Yes, due to upcoming developments, the area has strong growth potential."
+      },
+      {
+        "question": "Are premium houses available in Kharkhoda?",
+        "answer": "Yes, 10 Marla and above houses are available in the premium segment."
+      },
+      {
+        "question": "Do houses in Kharkhoda have good resale value?",
+        "answer": "Resale value is expected to improve as development continues."
+      },
+      {
+        "question": "How can I enquire about houses for sale in Kharkhoda Sonipat?",
+        "answer": "You can fill out the enquiry form to connect with property experts."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Assistance to Buy a House in Kharkhoda Sonipat",
+    "description": [
+      "Buying the right house in Kharkhoda Sonipat becomes simple with expert guidance.",
+      "Share your requirements to receive verified listings and personalized support."
+    ],
+    "formFields": ["name", "phone", "email", "budget", "houseSize", "message"]
+  }
+}

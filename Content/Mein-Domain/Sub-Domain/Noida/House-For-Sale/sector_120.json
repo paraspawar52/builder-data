@@ -1,0 +1,175 @@
+{
+  "domain": "Houseforsalecom",
+
+  "hero": {
+    "title": "Well Planned Independent Houses for Sale in Sector 120 Noida",
+    "description": [
+      "Sector 120 Noida is a fast-growing and well-planned residential locality known for its balanced lifestyle, modern infrastructure, and smooth connectivity. Buyers searching for a house for sale in Sector 120 Noida prefer this area due to its proximity to major roads, upcoming metro connectivity, schools, hospitals, and daily convenience markets. The sector is surrounded by wide roads, green spaces, and organized residential developments, making it suitable for peaceful yet well-connected living.",
+      "Houses for sale in Sector 120 Noida offer the advantage of independent living in a developing neighborhood with strong future potential. With increasing residential demand, improving civic amenities, and nearby commercial hubs, Sector 120 is becoming a preferred choice for families and professionals. Whether you are planning to buy a home for personal use or looking for a long-term investment, Sector 120 Noida provides a practical mix of comfort, affordability, and growth prospects."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses in Sector 120",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+
+  "featuresSection": {
+    "heading": "Independent House Size Options Available in Sector 120 Noida",
+    "description": [
+      "Choosing the right house size in Sector 120 Noida depends on family size, lifestyle needs, and future planning.",
+      "The sector offers multiple independent house configurations suitable for comfortable living and investment."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Sector 120 Noida",
+        "description": "A 4 Marla house for sale in Sector 120 Noida is ideal for small families or first-time buyers looking for affordable independent living. These houses are easy to maintain and located close to markets, schools, and daily amenities, making them a practical residential choice."
+      },
+      {
+        "title": "6 Marla House for Sale in Sector 120 Noida",
+        "description": "6 Marla houses in Sector 120 Noida offer a balanced layout with adequate living space, parking, and ventilation. These homes are suitable for nuclear families seeking long-term stability in a growing residential area."
+      },
+      {
+        "title": "8 Marla House for Sale in Sector 120 Noida",
+        "description": "An 8 Marla house for sale in Sector 120 Noida is preferred by families who need larger rooms and better privacy. These homes allow flexible interior planning and are ideal for comfortable long-term living."
+      },
+      {
+        "title": "10 Marla House for Sale in Sector 120 Noida",
+        "description": "10 Marla independent houses in Sector 120 Noida provide spacious layouts and improved lifestyle comfort. These properties are suitable for families planning long-term residence with scope for customization."
+      },
+      {
+        "title": "12 Marla House for Sale in Sector 120 Noida",
+        "description": "A 12 Marla house in Sector 120 Noida caters to buyers who value generous space and privacy. These houses often feature multiple parking spaces and larger living areas, making them suitable for premium family living."
+      },
+      {
+        "title": "14 Marla House for Sale in Sector 120 Noida",
+        "description": "14 Marla houses represent premium independent living in Sector 120 Noida. Designed for large families, these homes offer exclusivity, ample space, and strong appreciation potential as the area develops further."
+      }
+    ]
+  },
+
+  "locationsSection": {
+    "title": "Explore Houses for Sale Near Sector 120 Noida",
+    "description": [
+      "Buyers looking for a house for sale in Sector 120 Noida often explore nearby sectors to compare pricing, amenities, and connectivity.",
+      "These surrounding locations add to the residential appeal of Sector 120."
+    ],
+    "locations": [
+      { "title": "House for Sale in Sector 120 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale in Sector 121 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale in Sector 119 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "House for Sale in Sector 122 Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Independent Houses in Central Noida", "path": "/", "icon": "Landmark" },
+      { "title": "Residential Houses near Metro Corridor", "path": "/", "icon": "Landmark" },
+      { "title": "Family Homes in Developing Noida Sectors", "path": "/", "icon": "Landmark" },
+      { "title": "Affordable Independent Houses in Noida", "path": "/", "icon": "Landmark" }
+    ]
+  },
+
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Houses in Sector 120 Noida",
+    "description": [
+      "Buying a house for sale in Sector 120 Noida requires verified listings, transparent pricing, and dependable guidance.",
+      "Deal Acres has earned buyer trust through ethical practices and customer-focused real estate services."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All properties are verified for ownership clarity and legal approval."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden charges ensures buyer confidence."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 120 Noida property trends."
+      },
+      {
+        "title": "Wide Range of House Options",
+        "description": "Multiple house sizes available to suit different budgets."
+      },
+      {
+        "title": "Complete Legal Assistance",
+        "description": "Support with documentation, agreements, and registry."
+      },
+      {
+        "title": "Personalized Buying Guidance",
+        "description": "Advice based on family needs and long-term goals."
+      },
+      {
+        "title": "End-to-End Buying Support",
+        "description": "Assistance from property search to possession."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for transparency, reliability, and customer satisfaction."
+      }
+    ]
+  },
+
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Sale in Sector 120 Noida",
+    "description": "Clear and detailed answers to common buyer questions.",
+    "faqs": [
+      {
+        "question": "Is Sector 120 Noida a good area to buy a house?",
+        "answer": "Yes, Sector 120 Noida is a developing residential area with improving infrastructure, good connectivity, and growing demand."
+      },
+      {
+        "question": "What house sizes are available in Sector 120 Noida?",
+        "answer": "Independent houses are generally available from 4 Marla to 14 Marla, depending on listings."
+      },
+      {
+        "question": "Is Sector 120 suitable for family living?",
+        "answer": "Yes, the sector offers schools, hospitals, parks, and daily convenience facilities nearby."
+      },
+      {
+        "question": "How is connectivity from Sector 120 Noida?",
+        "answer": "Sector 120 has good road connectivity and upcoming metro access to major Noida locations."
+      },
+      {
+        "question": "Are houses in Sector 120 legally approved?",
+        "answer": "Most properties are approved, and Deal Acres assists buyers with legal verification."
+      },
+      {
+        "question": "Is buying a house in Sector 120 a good investment?",
+        "answer": "Yes, continuous development and increasing demand support long-term appreciation."
+      },
+      {
+        "question": "Can I get a home loan for houses in Sector 120 Noida?",
+        "answer": "Yes, home loans are available from major banks for eligible properties."
+      },
+      {
+        "question": "What amenities are available near Sector 120 Noida?",
+        "answer": "The area offers schools, hospitals, markets, parks, and essential services."
+      },
+      {
+        "question": "Why should I choose Deal Acres?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, and complete buying assistance."
+      },
+      {
+        "question": "How can I contact property experts for Sector 120?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+
+  "contactSection": {
+    "title": "Get Expert Guidance for Houses for Sale in Sector 120 Noida",
+    "description": [
+      "Finding the right house for sale in Sector 120 Noida becomes simple with expert guidance.",
+      "Share your details to connect with trusted real estate professionals and explore verified housing options confidently."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

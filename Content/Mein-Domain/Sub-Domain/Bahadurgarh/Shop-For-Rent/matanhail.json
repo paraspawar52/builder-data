@@ -1,0 +1,169 @@
+{
+  "domain": "Shopforrent.com",
+  "hero": {
+    "title": "Affordable Shop for Rent in Matanhail Bahadurgarh Location",
+    "description": [
+      "Matanhail Bahadurgarh is a developing locality that serves nearby residential areas and villages, making it a practical choice for small and medium businesses. The area has steady local movement, daily-need markets, and growing commercial demand. People searching for a shop for rent in Matanhail Bahadurgarh usually look for affordable rent, local customer reach, and a peaceful business environment where operational costs remain manageable.",
+      "Shop for rent in Matanhail Bahadurgarh is suitable for grocery stores, medical shops, hardware outlets, service centers, and small showrooms. The locality benefits from regular footfall from nearby residents and commuters. With improving road connectivity and gradual commercial growth, renting a shop in Matanhail offers businesses an opportunity to establish themselves early in an emerging market with long-term potential."
+    ],
+    "buttons": [
+      {
+        "label": "View Available Shops",
+        "path": "/"
+      },
+      {
+        "label": "Talk to Rental Expert",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1521335629791-ce4aec67dd47?w=900&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?w=900&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Marla Wise Shop for Rent Options in Matanhail Bahadurgarh",
+    "description": [
+      "Shop for rent in Matanhail Bahadurgarh is available in different Marla sizes to suit varied business needs.",
+      "These options help tenants select shops based on budget, business type, and space requirements."
+    ],
+    "features": [
+      {
+        "title": "4 Marla Shop for Rent in Matanhail Bahadurgarh",
+        "description": "4 Marla shop for rent in Matanhail Bahadurgarh is ideal for small retail shops, mobile stores, tailoring units, and local service businesses."
+      },
+      {
+        "title": "6 Marla Shop for Rent in Matanhail Bahadurgarh",
+        "description": "6 Marla shop for rent in Matanhail Bahadurgarh offers slightly more space, suitable for medical stores, salons, and daily-need outlets."
+      },
+      {
+        "title": "8 Marla Shop for Rent in Matanhail Bahadurgarh",
+        "description": "8 Marla shop for rent in Matanhail Bahadurgarh provides better layout and frontage, useful for showrooms and hardware shops."
+      },
+      {
+        "title": "10 Marla Shop for Rent in Matanhail Bahadurgarh",
+        "description": "10 Marla shop for rent in Matanhail Bahadurgarh is preferred by businesses that require customer seating, storage, or display space."
+      },
+      {
+        "title": "12 Marla Shop for Rent in Matanhail Bahadurgarh",
+        "description": "12 Marla shop for rent in Matanhail Bahadurgarh works well for established businesses planning stable and long-term operations."
+      },
+      {
+        "title": "14 Marla Shop for Rent in Matanhail Bahadurgarh",
+        "description": "14 Marla shop for rent in Matanhail Bahadurgarh offers large commercial space suitable for multi-service outlets or anchor stores."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Nearby Shop for Rent Locations in Bahadurgarh",
+    "description": [
+      "Tenants searching for a shop for rent in Matanhail Bahadurgarh often compare nearby locations.",
+      "These areas also provide good commercial rental opportunities."
+    ],
+    "locations": [
+      { "title": "Shop for Rent in Matanhail Bahadurgarh", "path": "/", "icon": "Store" },
+      { "title": "Shop for Rent in Sector 15 Bahadurgarh", "path": "/", "icon": "Store" },
+      { "title": "Shop for Rent in Sector 9 Bahadurgarh", "path": "/", "icon": "Store" },
+      { "title": "Shop for Rent in Sector 6 Bahadurgarh", "path": "/", "icon": "Store" },
+      { "title": "Retail Shops for Rent in Bahadurgarh", "path": "/", "icon": "Store" },
+      { "title": "Commercial Shops for Rent in Bahadurgarh", "path": "/", "icon": "Store" },
+      { "title": "Market Shops for Rent in Bahadurgarh", "path": "/", "icon": "Store" },
+      { "title": "Local Shops for Rent in Bahadurgarh", "path": "/", "icon": "Store" }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Deal Acres Is Trusted for Shop Rentals",
+    "description": [
+      "Finding the right shop for rent in Matanhail Bahadurgarh requires genuine listings and clear information.",
+      "Deal Acres focuses on trust, transparency, and tenant satisfaction."
+    ],
+    "points": [
+      {
+        "title": "Verified Shop Listings",
+        "description": "Each shop listing is checked for basic authenticity and ownership."
+      },
+      {
+        "title": "Local Market Understanding",
+        "description": "Strong knowledge of Matanhail and nearby commercial demand."
+      },
+      {
+        "title": "Business-Focused Matching",
+        "description": "Shop options suggested according to business needs and budget."
+      },
+      {
+        "title": "Transparent Rental Details",
+        "description": "Clear information on rent, deposit, and rental terms."
+      },
+      {
+        "title": "Direct Owner Contact",
+        "description": "Helps tenants connect directly with shop owners."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Assistance with rent agreements and paperwork."
+      },
+      {
+        "title": "Long-Term Business Support",
+        "description": "Suitable for tenants planning stable business operations."
+      },
+      {
+        "title": "Reliable Property Platform",
+        "description": "Deal Acres is known for customer trust and reliability."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Shop for Rent in Matanhail",
+    "description": "Common questions answered to help tenants make confident rental decisions.",
+    "faqs": [
+      {
+        "question": "Is Matanhail Bahadurgarh good for renting a shop?",
+        "answer": "Yes, Matanhail offers affordable rents and steady local demand, making it suitable for small and growing businesses."
+      },
+      {
+        "question": "What types of shops are available in Matanhail?",
+        "answer": "Grocery shops, medical stores, service centers, and hardware shops are commonly available."
+      },
+      {
+        "question": "Are shop rents affordable in Matanhail?",
+        "answer": "Yes, rents in Matanhail are generally more affordable compared to main sectors of Bahadurgarh."
+      },
+      {
+        "question": "Which Marla size is best for small businesses?",
+        "answer": "4 to 6 Marla shops are usually suitable for small local businesses."
+      },
+      {
+        "question": "Is parking available near shops?",
+        "answer": "Parking availability depends on location, but many shops have nearby open parking."
+      },
+      {
+        "question": "Does Deal Acres verify shop listings?",
+        "answer": "Yes, Deal Acres focuses on verified and genuine shop rental listings."
+      },
+      {
+        "question": "Can I find long-term shop rentals in Matanhail?",
+        "answer": "Yes, many shop owners prefer tenants looking for long-term business stability."
+      },
+      {
+        "question": "Is Matanhail connected to Bahadurgarh city?",
+        "answer": "Yes, Matanhail has road connectivity to Bahadurgarh and nearby areas."
+      },
+      {
+        "question": "Are food-related shops allowed?",
+        "answer": "Food-related businesses can operate subject to local norms and approvals."
+      },
+      {
+        "question": "How can I enquire about shop for rent in Matanhail?",
+        "answer": "You can submit the enquiry form to connect with a shop rental expert."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Shop for Rent in Matanhail Bahadurgarh",
+    "description": [
+      "Finding the right shop for rent in Matanhail Bahadurgarh becomes easier with expert assistance.",
+      "Share your business requirements to receive verified listings and personalized support."
+    ],
+    "formFields": ["name", "phone", "email", "businessType", "budget", "message"]
+  }
+}
