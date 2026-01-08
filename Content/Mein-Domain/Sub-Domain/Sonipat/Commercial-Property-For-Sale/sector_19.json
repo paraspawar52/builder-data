@@ -61,14 +61,56 @@
       "These surrounding localities also offer promising commercial growth and connectivity."
     ],
     "locations": [
-      { "title": "Commercial Property for Sale in Sector 19 Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Commercial Property for Sale in Sector 18 Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Commercial Property for Sale in Sector 14 Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Commercial Property for Sale in Sector 15 Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Retail Shops for Sale in Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Office Space for Sale in Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Commercial Plots in Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Best Commercial Locations in Sonipat", "path": "/", "icon": "Map" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -164,6 +206,13 @@
       "Finding the right Commercial Property for sale in Sector 19 Sonipat is easy with Deal Acres.",
       "Share your business or investment needs to receive verified listings, expert insights, and end-to-end support."
     ],
-    "formFields": ["name", "phone", "email", "budget", "propertyType", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "budget",
+      "propertyType",
+      "message"
+    ]
   }
 }

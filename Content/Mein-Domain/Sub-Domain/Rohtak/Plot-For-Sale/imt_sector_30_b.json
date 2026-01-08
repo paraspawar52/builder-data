@@ -61,14 +61,56 @@
       "These locations further enhance the connectivity and investment value of IMT Sector 30 B."
     ],
     "locations": [
-      { "title": "Plot for Sale in IMT Sector 30 B Rohtak", "path": "/", "icon": "Map" },
-      { "title": "Industrial Plots in IMT Rohtak", "path": "/", "icon": "Map" },
-      { "title": "Plot for Sale in Sector 36 Rohtak", "path": "/", "icon": "Map" },
-      { "title": "Commercial Plots Near IMT Rohtak", "path": "/", "icon": "Map" },
-      { "title": "Warehouse Land in Rohtak", "path": "/", "icon": "Map" },
-      { "title": "Industrial Land for Sale in Rohtak", "path": "/", "icon": "Map" },
-      { "title": "Investment Plots in Rohtak", "path": "/", "icon": "Map" },
-      { "title": "Approved Industrial Plots in Rohtak", "path": "/", "icon": "Map" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -164,6 +206,12 @@
       "Finding the right plot for sale in IMT Sector 30 B Rohtak is easier with professional assistance.",
       "Share your requirements through the form and get expert guidance today."
     ],
-    "formFields": ["name", "phone", "email", "budget", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "budget",
+      "message"
+    ]
   }
 }

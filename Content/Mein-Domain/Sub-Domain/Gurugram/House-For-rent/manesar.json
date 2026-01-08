@@ -1,6 +1,5 @@
 {
   "domain": "Houseforrent.com",
-
   "hero": {
     "title": "Affordable Independent Houses for Rent in Manesar Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "House for Rent Options by Plot Size in Manesar Gurugram",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Houses for Rent Near Manesar Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "This section highlights surrounding residential localities to help tenants make informed choices."
     ],
     "locations": [
-      { "title": "House for Rent in Manesar Gurugram", "path": "/", "icon": "Home" },
-      { "title": "House for Rent in IMT Manesar", "path": "/", "icon": "Building2" },
-      { "title": "House for Rent near NH-48", "path": "/", "icon": "Landmark" },
-      { "title": "House for Rent in Sector 1 Manesar", "path": "/", "icon": "Building" },
-      { "title": "House for Rent in Sector 5 Manesar", "path": "/", "icon": "Home" },
-      { "title": "House for Rent near KMP Expressway", "path": "/", "icon": "Landmark" },
-      { "title": "House for Rent in Panchgaon", "path": "/", "icon": "Building2" },
-      { "title": "House for Rent near IMT Chowk", "path": "/", "icon": "Building" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Tenants Trust Deal Acres for Manesar Rental Houses",
     "description": [
@@ -116,7 +154,6 @@
       }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Houses for Rent in Manesar Gurugram",
     "description": "Common tenant questions related to house for rent in Manesar Gurugram.",
@@ -163,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Help for House for Rent in Manesar Gurugram",
     "description": [
       "Finding the right house for rent in Manesar Gurugram becomes easy with expert support.",
       "Share your details to connect with trusted property advisors who will help you find a rental home that fits your budget and lifestyle needs."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

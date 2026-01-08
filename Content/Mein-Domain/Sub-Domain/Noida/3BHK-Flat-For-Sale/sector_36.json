@@ -61,14 +61,56 @@
       "These surrounding locations further highlight the strong residential appeal of Sector 36."
     ],
     "locations": [
-      { "title": "3BHK Flat for Sale in Sector 36 Noida", "path": "/", "icon": "Home" },
-      { "title": "3BHK Flat for Sale in Sector 18 Noida", "path": "/", "icon": "Home" },
-      { "title": "3BHK Flat for Sale in Sector 37 Noida", "path": "/", "icon": "Home" },
-      { "title": "3BHK Flat for Sale in Sector 30 Noida", "path": "/", "icon": "Home" },
-      { "title": "Residential Flats near City Centre Noida", "path": "/", "icon": "Home" },
-      { "title": "Ready to Move Flats in Central Noida", "path": "/", "icon": "Home" },
-      { "title": "Gated Society Apartments in Noida", "path": "/", "icon": "Home" },
-      { "title": "Family Apartments near Metro Stations", "path": "/", "icon": "Home" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -164,6 +206,12 @@
       "Finding the right 3BHK flat for sale in Sector 36 Noida becomes easier with expert guidance.",
       "Share your details and preferences to receive personalized assistance from trusted real estate professionals."
     ],
-    "formFields": ["name", "phone", "email", "budget", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "budget",
+      "message"
+    ]
   }
 }

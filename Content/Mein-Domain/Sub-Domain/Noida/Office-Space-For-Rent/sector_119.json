@@ -61,14 +61,56 @@
       "These surrounding locations further enhance Sector 119’s appeal as a growing commercial hub."
     ],
     "locations": [
-      { "title": "Office Space for Rent in Sector 119 Noida", "path": "/", "icon": "Building2" },
-      { "title": "Office Space for Rent in Sector 76 Noida", "path": "/", "icon": "Building2" },
-      { "title": "Office Space for Rent in Sector 62 Noida", "path": "/", "icon": "Building2" },
-      { "title": "Office Space near Noida Expressway", "path": "/", "icon": "Building2" },
-      { "title": "Commercial Offices near Metro Stations Noida", "path": "/", "icon": "Building2" },
-      { "title": "Corporate Offices in Central Noida", "path": "/", "icon": "Building2" },
-      { "title": "Fully Furnished Offices in Noida", "path": "/", "icon": "Building2" },
-      { "title": "Business Offices near Residential Sectors", "path": "/", "icon": "Building2" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -164,6 +206,12 @@
       "Finding the right office space for rent in Sector 119 Noida becomes easier with expert support.",
       "Share your business requirements and contact details to connect with trusted commercial real estate consultants."
     ],
-    "formFields": ["name", "phone", "email", "company", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "company",
+      "message"
+    ]
   }
 }

@@ -1,6 +1,5 @@
 {
   "domain": "Houseforsale.com",
-
   "hero": {
     "title": "Affordable Independent Houses for Sale in New Palam Vihar Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "House for Sale Options by Plot Size in New Palam Vihar",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Houses for Sale In and Around New Palam Vihar Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "This section highlights surrounding residential areas to help users make informed decisions."
     ],
     "locations": [
-      { "title": "House for Sale in New Palam Vihar Gurugram", "path": "/", "icon": "Home" },
-      { "title": "House for Sale in Palam Vihar Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale in Palam Vihar Extension Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Sector 23 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "House for Sale near Dwarka Expressway", "path": "/", "icon": "Home" },
-      { "title": "House for Sale near IGI Airport", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Sector 21 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale in Udyog Vihar Gurugram", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Deal Acres Is Trusted for Houses in New Palam Vihar",
     "description": [
@@ -116,7 +154,6 @@
       }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About House for Sale in New Palam Vihar",
     "description": "Detailed answers to common buyer queries for better clarity and confidence.",
@@ -163,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Assistance for House for Sale in New Palam Vihar",
     "description": [
       "Buying a house for sale in New Palam Vihar Gurugram is an important decision, and expert guidance can make the process smooth and stress-free.",
       "Share your details to connect with trusted property professionals who will help you find the right home based on your budget, preferences, and long-term plans."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -61,14 +61,56 @@
       "These surrounding areas also offer strong business opportunities and good connectivity."
     ],
     "locations": [
-      { "title": "Shop for Sale in Kundli Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Shop for Sale in Sector 57 Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Shop for Sale in Sector 56 Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Commercial Shops in Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Retail Shops for Sale in Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Investment Shops in Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Commercial Property in Sonipat", "path": "/", "icon": "Map" },
-      { "title": "High ROI Shops in Sonipat", "path": "/", "icon": "Map" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -164,6 +206,13 @@
       "Finding the right shop for sale in Kundli Sonipat becomes easy with professional assistance.",
       "Share your business or investment requirements to receive verified listings and expert guidance from Deal Acres."
     ],
-    "formFields": ["name", "phone", "email", "budget", "shopSize", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "budget",
+      "shopSize",
+      "message"
+    ]
   }
 }

@@ -1,6 +1,5 @@
 {
   "domain": "plot.com",
-
   "hero": {
     "title": "High Growth Residential and Investment Plots in New Gurgaon",
     "description": [
@@ -22,7 +21,6 @@
       "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "Plot Size Options Available in New Gurgaon Gurugram",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Plot Options Across New Gurgaon Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "This section highlights prominent locations that strengthen New Gurgaon’s residential and investment appeal."
     ],
     "locations": [
-      { "title": "Plot in New Gurgaon Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Sector 82 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Sector 83 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Sector 84 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Sector 85 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Sector 86 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Residential Plots in Gurugram", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Buyers Trust Deal Acres for Plots in New Gurgaon",
     "description": [
@@ -116,7 +154,6 @@
       }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Plots in New Gurgaon Gurugram",
     "description": "Detailed answers to common buyer questions to help make informed property decisions.",
@@ -163,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Guidance for Buying Plots in New Gurgaon Gurugram",
     "description": [
       "Finding the right Plot in New Gurgaon Gurugram becomes easy with expert guidance and verified property options.",
       "Share your details to connect with trusted real estate professionals who will help you explore suitable plots and make a confident buying decision."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

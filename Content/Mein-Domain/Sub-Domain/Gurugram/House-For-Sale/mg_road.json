@@ -1,0 +1,216 @@
+{
+  "domain": "Houseforsalecom",
+  "hero": {
+    "title": "Independent Residential Houses for Sale on MG Road Gurugram",
+    "description": [
+      "MG Road Gurugram is one of the most premium and centrally located corridors of the city, known for its excellent connectivity, commercial importance, and vibrant lifestyle. Buyers searching for a house for sale in MG Road Gurugram prefer this location due to its seamless access to Delhi-Gurugram Expressway, Cyber City, Golf Course Road, and major metro stations. The area is surrounded by corporate offices, shopping malls, luxury hotels, hospitals, and reputed educational institutions, making it a highly desirable residential address.",
+      "Houses for sale in MG Road Gurugram are ideal for buyers who want independent living in a prime urban setting. Despite being a commercial hub, MG Road also offers peaceful residential pockets with well-developed infrastructure and high-end amenities. Limited availability of independent houses combined with consistent demand makes this area attractive for both end-users and investors seeking strong long-term value and premium lifestyle benefits."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses on MG Road",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Premium House Size Options Available on MG Road Gurugram",
+    "description": [
+      "Choosing the right house size on MG Road Gurugram depends on your lifestyle expectations, family size, and long-term investment goals.",
+      "The locality offers select independent house options that combine prime location advantages with comfortable living."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale on MG Road Gurugram",
+        "description": "A 4 Marla house for sale on MG Road Gurugram is suitable for small families or professionals who want independent living close to business hubs. These homes offer smart layouts, easy maintenance, and unmatched location convenience."
+      },
+      {
+        "title": "6 Marla House for Sale on MG Road Gurugram",
+        "description": "6 Marla houses provide a good balance of space and urban living. They are ideal for families seeking better room sizes, parking convenience, and proximity to offices, malls, and metro connectivity."
+      },
+      {
+        "title": "8 Marla House for Sale on MG Road Gurugram",
+        "description": "An 8 Marla house offers spacious interiors, better privacy, and flexibility in home design. These houses are preferred by buyers looking for long-term residence in a premium location."
+      },
+      {
+        "title": "10 Marla House for Sale on MG Road Gurugram",
+        "description": "10 Marla houses are ideal for buyers who value larger living areas, multiple bedrooms, and a premium urban lifestyle. They also carry strong resale demand due to limited supply."
+      },
+      {
+        "title": "12 Marla House for Sale on MG Road Gurugram",
+        "description": "A 12 Marla house suits families seeking generous living space with premium surroundings. These homes offer comfort, privacy, and excellent long-term value."
+      },
+      {
+        "title": "14 Marla House for Sale on MG Road Gurugram",
+        "description": "14 Marla houses cater to buyers looking for expansive independent homes in one of Gurugram’s most sought-after locations, making them ideal for luxury living and investment."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Houses for Sale Near MG Road Gurugram",
+    "description": [
+      "Buyers exploring houses for sale on MG Road Gurugram often look at nearby prime locations to compare lifestyle and pricing.",
+      "These surrounding areas further enhance connectivity, convenience, and residential choices."
+    ],
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Houses on MG Road",
+    "description": [
+      "Buying a house for sale on MG Road Gurugram requires verified listings, local expertise, and complete transparency.",
+      "Deal Acres is trusted by buyers for offering genuine properties and a smooth buying experience."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "Every house listing is thoroughly verified for ownership, approvals, and authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing details ensure buyers face no hidden charges or last-minute surprises."
+      },
+      {
+        "title": "Prime Location Expertise",
+        "description": "Deep understanding of MG Road Gurugram property trends and premium market dynamics."
+      },
+      {
+        "title": "Curated Property Options",
+        "description": "Access to carefully selected independent houses in prime residential pockets."
+      },
+      {
+        "title": "Legal and Documentation Support",
+        "description": "Complete assistance with registry, documentation, and legal verification."
+      },
+      {
+        "title": "Personalized Buying Advice",
+        "description": "Property recommendations tailored to lifestyle needs and investment goals."
+      },
+      {
+        "title": "End-to-End Buyer Support",
+        "description": "Guidance from property search to final possession for a hassle-free journey."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for ethical practices, transparency, and long-term customer trust."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Sale on MG Road Gurugram",
+    "description": "Clear answers to common buyer questions to support confident property decisions.",
+    "faqs": [
+      {
+        "question": "Is MG Road Gurugram a good location to buy a house?",
+        "answer": "Yes, MG Road is one of Gurugram’s most prime locations offering excellent connectivity, lifestyle amenities, and strong long-term value."
+      },
+      {
+        "question": "What house sizes are available on MG Road Gurugram?",
+        "answer": "Independent houses are generally available from 4 Marla to 14 Marla, depending on availability."
+      },
+      {
+        "question": "Is MG Road suitable for family living?",
+        "answer": "Yes, despite being a commercial hub, MG Road has peaceful residential pockets with access to schools, hospitals, and parks."
+      },
+      {
+        "question": "Are houses on MG Road legally approved?",
+        "answer": "Most properties are approved, and Deal Acres assists buyers with complete legal verification."
+      },
+      {
+        "question": "How is connectivity from MG Road Gurugram?",
+        "answer": "MG Road offers excellent connectivity via metro, NH-48, and major arterial roads."
+      },
+      {
+        "question": "Is buying a house on MG Road a good investment?",
+        "answer": "Yes, limited supply and high demand make MG Road a strong long-term investment location."
+      },
+      {
+        "question": "Can I get a home loan for a house on MG Road?",
+        "answer": "Yes, home loans are available from leading banks for eligible properties."
+      },
+      {
+        "question": "What amenities are available near MG Road?",
+        "answer": "The area offers malls, hospitals, schools, offices, hotels, and metro connectivity."
+      },
+      {
+        "question": "Why choose Deal Acres for MG Road properties?",
+        "answer": "Deal Acres provides verified listings, transparent pricing, and complete buying support."
+      },
+      {
+        "question": "How can I contact experts for houses on MG Road?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Assistance for Buying Houses on MG Road Gurugram",
+    "description": [
+      "Finding the right house for sale on MG Road Gurugram becomes easy with professional real estate guidance.",
+      "Share your details to connect with trusted experts and explore verified housing options with confidence."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

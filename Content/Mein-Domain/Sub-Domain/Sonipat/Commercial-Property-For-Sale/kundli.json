@@ -61,14 +61,56 @@
       "These areas also benefit from growing commercial activity and strong connectivity."
     ],
     "locations": [
-      { "title": "Commercial Property for Sale in Kundli Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Commercial Property for Sale in Sector 35 Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Commercial Property for Sale in Murthal Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Commercial Property for Sale near NH-44 Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Shops for Sale in Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Office Space for Sale in Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Industrial and Commercial Plots in Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Best Commercial Locations in Sonipat", "path": "/", "icon": "Map" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -164,6 +206,13 @@
       "Finding the right Commercial Property for sale in Kundli Sonipat is easier with expert guidance from Deal Acres.",
       "Share your business or investment requirements to receive verified listings, market insights, and complete buying support."
     ],
-    "formFields": ["name", "phone", "email", "budget", "propertyType", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "budget",
+      "propertyType",
+      "message"
+    ]
   }
 }

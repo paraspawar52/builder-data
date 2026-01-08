@@ -1,6 +1,5 @@
 {
   "domain": "Affordablehouseforsalecom",
-
   "hero": {
     "title": "Affordable Independent Houses for Sale in Sector 2 Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://images.unsplash.com/photo-1599423300746-b62533397364?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "Affordable House Size Options Available in Sector 2 Gurugram",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Affordable Houses Near Sector 2 Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "These surrounding locations enhance the residential and investment appeal of Sector 2."
     ],
     "locations": [
-      { "title": "Affordable House for Sale in Sector 2 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Affordable House for Sale in Sector 1 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Affordable House for Sale in Sector 3 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Affordable House near Old Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Affordable House near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Affordable House in Central Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Independent Houses in Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Budget Homes in Gurugram", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Buyers Trust Deal Acres for Affordable Houses in Sector 2",
     "description": [
@@ -116,7 +154,6 @@
       }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Affordable Houses in Sector 2 Gurugram",
     "description": "Detailed answers to common buyer questions to help make informed decisions.",
@@ -163,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Help to Buy Affordable Houses in Sector 2 Gurugram",
     "description": [
       "Finding the right affordable house for sale in Sector 2 Gurugram becomes simple with expert guidance.",
       "Share your details to connect with trusted property consultants and explore verified housing options."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

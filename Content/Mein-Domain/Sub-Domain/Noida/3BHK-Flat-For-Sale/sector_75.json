@@ -61,14 +61,56 @@
       "These surrounding areas further enhance Sector 75’s appeal as a central residential location."
     ],
     "locations": [
-      { "title": "3BHK Flat for Sale in Sector 75 Noida", "path": "/", "icon": "Home" },
-      { "title": "3BHK Flat for Sale in Sector 76 Noida", "path": "/", "icon": "Home" },
-      { "title": "3BHK Flat for Sale in Sector 74 Noida", "path": "/", "icon": "Home" },
-      { "title": "3BHK Flat for Sale in Sector 50 Noida", "path": "/", "icon": "Home" },
-      { "title": "Residential Flats near Noida City Centre", "path": "/", "icon": "Home" },
-      { "title": "Gated Society Apartments in Noida", "path": "/", "icon": "Home" },
-      { "title": "Ready to Move 3BHK Flats in Noida", "path": "/", "icon": "Home" },
-      { "title": "Family Homes in Central Noida", "path": "/", "icon": "Home" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -164,6 +206,12 @@
       "Finding the right 3BHK flat for sale in Sector 75 Noida becomes easier with expert support.",
       "Share your requirements and contact details to connect with trusted property consultants."
     ],
-    "formFields": ["name", "phone", "email", "budget", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "budget",
+      "message"
+    ]
   }
 }

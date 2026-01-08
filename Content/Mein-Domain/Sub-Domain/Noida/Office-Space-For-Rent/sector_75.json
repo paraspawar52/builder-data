@@ -61,14 +61,56 @@
       "The surrounding sectors strengthen Sector 75’s position as a convenient and emerging business destination in Noida."
     ],
     "locations": [
-      { "title": "Office Space for Rent in Sector 75 Noida", "path": "/", "icon": "Building2" },
-      { "title": "Office Space for Rent in Sector 76 Noida", "path": "/", "icon": "Building2" },
-      { "title": "Office Space for Rent in Sector 74 Noida", "path": "/", "icon": "Building2" },
-      { "title": "Office Space for Rent in Sector 77 Noida", "path": "/", "icon": "Building2" },
-      { "title": "Office Space near Noida City Centre", "path": "/", "icon": "Building2" },
-      { "title": "Commercial Offices in Central Noida", "path": "/", "icon": "Building2" },
-      { "title": "Business Offices near Metro Stations Noida", "path": "/", "icon": "Building2" },
-      { "title": "Affordable Office Spaces in Noida", "path": "/", "icon": "Building2" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -164,6 +206,12 @@
       "Finding the right office space for rent in Sector 75 Noida is easier with expert guidance.",
       "Share your business requirements and contact details to connect with trusted commercial property consultants."
     ],
-    "formFields": ["name", "phone", "email", "company", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "company",
+      "message"
+    ]
   }
 }

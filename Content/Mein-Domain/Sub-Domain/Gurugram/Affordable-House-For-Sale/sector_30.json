@@ -1,6 +1,5 @@
 {
   "domain": "Affordablehouseforsalecom",
-
   "hero": {
     "title": "Affordable Independent Houses for Sale in Sector 30 Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "Affordable House Size Options Available in Sector 30 Gurugram",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Affordable Houses Near Sector 30 Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "These surrounding sectors further strengthen the residential appeal of Sector 30."
     ],
     "locations": [
-      { "title": "Affordable House for Sale in Sector 30 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Affordable House for Sale in Sector 29 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Affordable House for Sale in Sector 31 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Affordable House near HUDA City Centre", "path": "/", "icon": "Landmark" },
-      { "title": "Affordable House near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Independent Houses in Central Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Budget Houses near Cyber City", "path": "/", "icon": "Landmark" },
-      { "title": "Residential Houses in Gurugram", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Buyers Trust Deal Acres for Affordable Houses",
     "description": [
@@ -116,7 +154,6 @@
       }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Houses in Sector 30 Gurugram",
     "description": "Clear and detailed answers to help buyers make confident decisions.",
@@ -163,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Help for Affordable Houses in Sector 30 Gurugram",
     "description": [
       "Finding the right affordable house for sale in Sector 30 Gurugram becomes easy with expert guidance.",
       "Share your details to receive verified listings, pricing insights, and personalized assistance from trusted real estate professionals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

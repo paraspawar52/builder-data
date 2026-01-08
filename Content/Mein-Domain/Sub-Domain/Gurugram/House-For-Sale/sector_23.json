@@ -1,6 +1,5 @@
 {
   "domain": "Houseforsale.com",
-
   "hero": {
     "title": "Well Connected Independent Houses for Sale in Sector 23 Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "House for Sale Options by Plot Size in Sector 23 Gurugram",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Houses for Sale Near Sector 23 Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "This section helps users discover surrounding locations and make informed property decisions."
     ],
     "locations": [
-      { "title": "House for Sale in Sector 23 Gurugram", "path": "/", "icon": "Home" },
-      { "title": "House for Sale in Palam Vihar Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale in Sector 22 Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Sector 21 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "House for Sale in Udyog Vihar", "path": "/", "icon": "Home" },
-      { "title": "House for Sale in Sector 14 Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Sector 12 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale in Old Gurgaon", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Homebuyers Trust Deal Acres for Sector 23 Houses",
     "description": [
@@ -82,17 +120,40 @@
       "With a buyer-centric approach and strong local market knowledge, Deal Acres has become a trusted choice for homebuyers in Gurugram."
     ],
     "points": [
-      { "title": "Verified Property Listings", "description": "All listings are checked for authenticity and ownership clarity." },
-      { "title": "Transparent Pricing", "description": "Prices reflect current market trends without hidden charges." },
-      { "title": "Local Area Expertise", "description": "Strong understanding of Sector 23 and nearby locations." },
-      { "title": "Easy-to-Use Platform", "description": "Simple navigation for smooth property search." },
-      { "title": "Buyer-Focused Recommendations", "description": "Listings aligned with buyer needs and budgets." },
-      { "title": "Documentation Guidance", "description": "Support for understanding legal and ownership paperwork." },
-      { "title": "End-to-End Support", "description": "Assistance from initial search to final deal closure." },
-      { "title": "Trusted by Buyers", "description": "Strong reputation built on transparency and service quality." }
+      {
+        "title": "Verified Property Listings",
+        "description": "All listings are checked for authenticity and ownership clarity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Prices reflect current market trends without hidden charges."
+      },
+      {
+        "title": "Local Area Expertise",
+        "description": "Strong understanding of Sector 23 and nearby locations."
+      },
+      {
+        "title": "Easy-to-Use Platform",
+        "description": "Simple navigation for smooth property search."
+      },
+      {
+        "title": "Buyer-Focused Recommendations",
+        "description": "Listings aligned with buyer needs and budgets."
+      },
+      {
+        "title": "Documentation Guidance",
+        "description": "Support for understanding legal and ownership paperwork."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Assistance from initial search to final deal closure."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Strong reputation built on transparency and service quality."
+      }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Houses in Sector 23 Gurugram",
     "description": "Common buyer questions related to house for sale in Sector 23 Gurugram.",
@@ -139,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Help for House for Sale in Sector 23 Gurugram",
     "description": [
       "Buying a house for sale in Sector 23 Gurugram is an important financial decision, and expert guidance can help simplify the process.",
       "Share your details to connect with trusted property experts who will help you find the right home based on your budget and preferences."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

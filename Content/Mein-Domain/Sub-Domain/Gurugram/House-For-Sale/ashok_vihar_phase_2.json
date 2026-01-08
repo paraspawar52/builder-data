@@ -1,6 +1,5 @@
 {
   "domain": "Houseforsale.com",
-
   "hero": {
     "title": "Independent Houses for Sale in Ashok Vihar Phase 2 Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "House for Sale Options by Plot Size in Ashok Vihar Phase 2",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Houses for Sale Near Ashok Vihar Phase 2 Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "This section helps users easily discover surrounding residential areas and make well-informed property decisions."
     ],
     "locations": [
-      { "title": "House for Sale in Ashok Vihar Phase 2 Gurugram", "path": "/", "icon": "Home" },
-      { "title": "House for Sale in Ashok Vihar Phase 1", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale in Palam Vihar", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Sector 23 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "House for Sale in Sector 21 Gurugram", "path": "/", "icon": "Home" },
-      { "title": "House for Sale near Old Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Sector 22 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale in Sadar Bazar Gurugram", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Homebuyers Trust Deal Acres for Ashok Vihar Phase 2",
     "description": [
@@ -82,17 +120,40 @@
       "With a customer-centric approach and strong understanding of the local market, Deal Acres has become a preferred platform for homebuyers in Gurugram."
     ],
     "points": [
-      { "title": "Verified House Listings", "description": "Every property listing is checked for ownership authenticity." },
-      { "title": "Transparent Pricing", "description": "Prices are aligned with current market conditions." },
-      { "title": "Local Market Knowledge", "description": "Deep understanding of Ashok Vihar Phase 2 locality." },
-      { "title": "Easy Property Search", "description": "Simple and user-friendly browsing experience." },
-      { "title": "Buyer-Focused Suggestions", "description": "Recommendations based on budget and preferences." },
-      { "title": "Documentation Assistance", "description": "Basic guidance for legal and paperwork processes." },
-      { "title": "End-to-End Support", "description": "Help from property search to final deal closure." },
-      { "title": "Trusted Platform", "description": "Reliability built through service quality and transparency." }
+      {
+        "title": "Verified House Listings",
+        "description": "Every property listing is checked for ownership authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Prices are aligned with current market conditions."
+      },
+      {
+        "title": "Local Market Knowledge",
+        "description": "Deep understanding of Ashok Vihar Phase 2 locality."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "Simple and user-friendly browsing experience."
+      },
+      {
+        "title": "Buyer-Focused Suggestions",
+        "description": "Recommendations based on budget and preferences."
+      },
+      {
+        "title": "Documentation Assistance",
+        "description": "Basic guidance for legal and paperwork processes."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Help from property search to final deal closure."
+      },
+      {
+        "title": "Trusted Platform",
+        "description": "Reliability built through service quality and transparency."
+      }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Houses in Ashok Vihar Phase 2",
     "description": "Common buyer queries related to house for sale in Ashok Vihar Phase 2 Gurugram.",
@@ -139,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Help for House for Sale in Ashok Vihar Phase 2",
     "description": [
       "Buying a house for sale in Ashok Vihar Phase 2 Gurugram is a significant investment, and professional guidance can simplify the process.",
       "Share your details to connect with trusted property experts who will help you find the right home based on your budget and preferences."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

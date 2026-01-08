@@ -61,14 +61,56 @@
       "These surrounding locations strengthen Sector 134’s appeal as a prime rental zone."
     ],
     "locations": [
-      { "title": "House for Rent in Sector 134 Noida", "path": "/", "icon": "Landmark" },
-      { "title": "House for Rent in Sector 137 Noida", "path": "/", "icon": "Landmark" },
-      { "title": "House for Rent in Sector 135 Noida", "path": "/", "icon": "Landmark" },
-      { "title": "House for Rent near Noida Expressway", "path": "/", "icon": "Landmark" },
-      { "title": "Independent Houses in South Noida", "path": "/", "icon": "Landmark" },
-      { "title": "Rental Houses near IT Parks Noida", "path": "/", "icon": "Landmark" },
-      { "title": "Family Houses near Corporate Hubs", "path": "/", "icon": "Landmark" },
-      { "title": "Residential Houses in Expressway Sectors", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -164,6 +206,11 @@
       "Finding the right house for rent in Sector 134 Noida becomes easier with expert assistance.",
       "Share your details and requirements to explore verified rental options and receive professional guidance."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -1,0 +1,161 @@
+{
+  "domain": "yourrealestatedomain.com",
+  "hero": {
+    "title": "Find Your Dream Rental Home Now Rent House in Sector 95 Gurgaon",
+    "description": [
+      "Discover unparalleled comfort and modern convenience when you look to rent house in Sector 95 Gurgaon. This rapidly developing residential hub offers a perfect blend of peaceful living and excellent connectivity to major business districts via the Dwarka Expressway and NH-48. We curate the finest selection of rental properties, ensuring you find a home that matches your specific lifestyle and budgetary needs.",
+      "Whether you are searching for a compact 1 BHK apartment for a young professional or a spacious independent house for a growing family, Sector 95 provides abundant, high-quality choices. Our inventory includes ready-to-move builder floors, luxurious high-rise apartments, and secured villas within prestigious gated communities. Start your search today and secure a prime location rental residence in one of New Gurgaon’s most sought-after sectors."
+    ],
+    "buttons": [
+      { "label": "Explore Rental Listings", "path": "/listings/sector-95" },
+      { "label": "Request a Callback", "path": "/contact" }
+    ],
+    "images": [
+      "/images/hero-sector-95-1.jpg",
+      "/images/hero-sector-95-2.jpg"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Diverse Residential Options Available When You Rent House in Sector 95",
+    "description": [
+      "Sector 95 Gurgaon is designed to cater to a diverse resident base, offering everything from efficient studio apartments to sprawling independent houses. Understanding your specific needs—be it proximity to schools, access to parks, or high-end security—is our priority. We list verified properties across all major residential projects in the area.",
+      "Our detailed property profiles include high-definition photos, verified landlord information, detailed amenity lists, and transparent rent structures. Focus your search on the accommodation type that suits you best and let us handle the negotiations and paperwork seamlessly. Finding the ideal Rent House in Sector 95 has never been simpler."
+    ],
+    "features": [
+      {
+        "title": "Modern 1 BHK Apartments",
+        "description": "Ideal for singles, students, or young professionals seeking a low-maintenance, high-utility living space near major corporate hubs. These units often feature premium fittings and access to comprehensive community amenities like gyms and clubhouses ensuring a comfortable urban lifestyle."
+      },
+      {
+        "title": "Comfortable 2 BHK Family Flats",
+        "description": "A perfect choice for small families or working couples requiring extra space. These 2 BHK rental properties in Sector 95 offer excellent layouts, adequate natural light, and often come semi-furnished, reducing your moving burden significantly."
+      },
+      {
+        "title": "Spacious 3 BHK Luxury Residences",
+        "description": "Experience luxury living with spacious rooms, modern modular kitchens, and dedicated parking. Many 3 BHK rental options are situated in top-tier residential towers offering unparalleled security, power backup, and dedicated children’s play areas making them great family homes."
+      },
+      {
+        "title": "Independent Builder Floors",
+        "description": "For renters who prefer privacy and more control over their living environment, independent builder floors are an excellent solution. These units provide dedicated terrace or balcony access and typically involve fewer shared amenities compared to high-rise towers."
+      },
+      {
+        "title": "Premium Gated Community Villas",
+        "description": "Indulge in an exclusive lifestyle by renting a private villa within one of Sector 95’s highly secure gated communities. Enjoy private gardens, larger living areas, and access to premium community facilities like swimming pools and sports courts."
+      },
+      {
+        "title": "Serviced Studio Apartments",
+        "description": "Offering flexibility and immediate occupancy, serviced studios are popular among expatriates and those on short-term corporate transfers. These rentals usually include maintenance services, utilities, and high-speed internet integrated into the monthly cost."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Key Infrastructure and Connectivity Benefits of Renting in Sector 95 Gurgaon",
+    "description": [
+      "Sector 95 is strategically positioned in New Gurgaon, offering exceptional connectivity that dramatically improves daily commuting. Its proximity to the Dwarka Expressway ensures quick access to Delhi and the IGI Airport, making it a commuter’s delight. The sector is also well-linked to key employment hubs like IMT Manesar and various sectors along NH-48.",
+      "Beyond connectivity, the local infrastructure is rapidly maturing. Reputable schools, modern healthcare facilities, and vibrant retail spaces are all within a short driving distance. When you choose to rent house in Sector 95, you are choosing a community supported by excellent urban planning and essential services development."
+    ],
+    "locations": [
+      "Proximity to Dwarka Expressway",
+      "Easy Access to NH-48",
+      "Near IMT Manesar Industrial Area",
+      "Access to Top Educational Institutions",
+      "Close to Major Commercial Retail Centers",
+      "Seamless connectivity to Southern Peripheral Road SPR"
+    ]
+  },
+  "whyChoose": {
+    "title": "Eight Compelling Reasons to Rent House in Sector 95 with Our Expert Team",
+    "description": [
+      "Navigating the rental market requires local knowledge and expertise. Our dedicated team specializes in Sector 95 and understands the nuances of local property regulations and pricing trends. We ensure a transparent, fair, and swift rental process from initial viewing to lease signing.",
+      "Choose us for guaranteed verified listings, competitive pricing, and ongoing tenant support throughout your tenancy period. We are committed to making your transition to a new home in Sector 95 Gurgaon smooth and stress-free."
+    ],
+    "points": [
+      {
+        "title": "Verified and Authentic Listings Only",
+        "description": "We rigorously verify every rental property listing in Sector 95, ensuring that photos, descriptions, and amenities accurately reflect the actual unit. Say goodbye to outdated or misleading listings and save valuable time during your search process."
+      },
+      {
+        "title": "Competitive Market Rental Rates",
+        "description": "Our expertise allows us to benchmark rental rates accurately against current market trends in Sector 95. We negotiate on your behalf to secure the best possible monthly rent, providing excellent value without compromising on quality or location."
+      },
+      {
+        "title": "Exceptional Connectivity and Location",
+        "description": "Sector 95 is renowned for its strategic location in New Gurgaon, offering unmatched access to expressways and key business districts. Renting here means reduced commute times and easier weekend travel access across the NCR region."
+      },
+      {
+        "title": "Focus on Safety and Security",
+        "description": "The majority of rental houses in Sector 95 are located within modern gated communities offering 24/7 security, CCTV surveillance, and controlled access points, providing a safe environment for families and individuals."
+      },
+      {
+        "title": "Professional Legal Documentation Support",
+        "description": "We handle all the necessary legal paperwork, including drafting and registration of the rental agreement, ensuring both tenant and landlord interests are protected and complying fully with all local rental laws."
+      },
+      {
+        "title": "Wide Range of Furnishing Options",
+        "description": "Whether you require fully furnished, semi-furnished, or unfurnished options, our extensive inventory covers properties across all furnishing categories in Sector 95, allowing for maximum flexibility tailored to your needs."
+      },
+      {
+        "title": "Dedicated Tenant Support Services",
+        "description": "Our relationship does not end once the lease is signed. We offer ongoing support for maintenance issues, rent renewals, and coordination with the landlord throughout your tenancy period in Sector 95."
+      },
+      {
+        "title": "Access to Modern Community Amenities",
+        "description": "Many properties available to rent house in Sector 95 offer access to modern amenities like swimming pools, jogging tracks, sports facilities, and comprehensive clubhouses, enhancing the quality of your residential life."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About How to Rent House in Sector 95 Gurgaon",
+    "description": "Find quick answers to common queries regarding lease terms, security deposits, maintenance obligations, and community regulations specific to rental properties in Sector 95 Gurgaon.",
+    "faqs": [
+      {
+        "question": "What is the typical lease duration for a rental house in Sector 95",
+        "answer": "The standard residential lease agreement duration in Sector 95 Gurgaon is usually 11 months, which is renewable upon mutual agreement between the tenant and the landlord. Longer leases, such as 18 or 24 months, can also be negotiated for corporate tenants or families seeking long-term stability, although 11 months remains the most common duration to manage stamp duty implications."
+      },
+      {
+        "question": "How much security deposit is required when renting a property here",
+        "answer": "The standard security deposit expected when you rent house in Sector 95 typically ranges from two to three months' rent, depending on the type of property and the furnishing status. For fully furnished apartments or high-end villas, landlords might request a deposit equivalent to three months' rent to cover potential damage to furniture or expensive fittings. This deposit is fully refundable at the end of the tenancy after deductions for any damages beyond normal wear and tear."
+      },
+      {
+        "question": "Are pets allowed in rental properties in Sector 95",
+        "answer": "Pet policies vary significantly across different housing societies and individual landlords in Sector 95 Gurgaon. While many independent builder floors or ground-floor units might be pet-friendly, high-rise apartment complexes often have specific RWA rules restricting pets or limiting their size and breed. It is essential to clearly state your requirement for a pet-friendly rental early in your search."
+      },
+      {
+        "question": "What are the common maintenance charges for renters in Sector 95",
+        "answer": "Renters in gated communities in Sector 95 are generally responsible for paying the monthly maintenance fee, which covers common area electricity, security services, upkeep of parks, lifts, and common facilities like the clubhouse. This charge is separate from the base rent and usually varies based on the size of your unit. Tenants are usually also responsible for internal repairs and utility bills."
+      },
+      {
+        "question": "Is Sector 95 well-connected for daily commuting to office hubs",
+        "answer": "Absolutely. Sector 95 offers superb connectivity for professionals. It provides swift access to key employment centers like IMT Manesar and the commercial sectors lining NH-48. Furthermore, the Dwarka Expressway provides a crucial arterial link for commuting towards Delhi and the broader New Gurgaon region, making it an ideal location for working professionals."
+      },
+      {
+        "question": "What documentation is needed to finalize a rental agreement",
+        "answer": "To secure a rental house in Sector 95, you will typically need to provide valid identification such as Aadhar Card and PAN Card, proof of current address, and possibly employment verification or the last three months of bank statements. Foreign nationals require a valid visa and passport. Our team assists in ensuring all documentation is correctly prepared for the registration of the lease deed."
+      },
+      {
+        "question": "Can I find fully furnished rental homes in this sector",
+        "answer": "Yes, Sector 95 has a healthy inventory of fully furnished rental homes, particularly 1 BHK and 2 BHK flats, catering primarily to corporate tenants and those preferring a hassle-free move. These units come complete with essential furniture, white goods, and modular kitchens, though they generally command a higher monthly rental rate than unfurnished options."
+      },
+      {
+        "question": "Are there good schools and hospitals near Sector 95 Gurgaon",
+        "answer": "Sector 95 is served by a rapidly developing social infrastructure. Several prominent schools and educational institutions are located within a short radius, offering quality education options. Reputable multi-specialty hospitals and clinics are also easily accessible, ensuring residents have quick access to essential healthcare services when needed."
+      },
+      {
+        "question": "What utilities are typically included in the rent price",
+        "answer": "In most standard lease agreements in Sector 95, utilities like electricity consumption, water charges, gas connection bills, and internet services are the responsibility of the tenant and are not included in the base rent price. Only in some specialized serviced apartments might these be included, which must be verified in the specific rental contract."
+      },
+      {
+        "question": "How long does the process take to rent house in Sector 95",
+        "answer": "Once you identify your preferred property, the rental process can be finalized quite quickly. With all documentation ready, the signing of the agreement and handover of keys often takes just 3 to 7 working days. Our streamlined process ensures efficient negotiations and rapid closure to help you move in faster."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Ready to Rent House in Sector 95 Contact Our Rental Experts Today",
+    "description": [
+      "Stop searching endlessly and start living. Our expert team is ready to provide personalized property tours, detailed neighborhood insights, and professional negotiation services to secure your ideal rental home in Sector 95 Gurgaon.",
+      "Fill out the form below or call us directly to discuss your specific requirements. Let us connect you with the best verified properties matching your budget and lifestyle immediately."
+    ],
+    "formFields": ["name", "phone", "email", "message"]
+  }
+}

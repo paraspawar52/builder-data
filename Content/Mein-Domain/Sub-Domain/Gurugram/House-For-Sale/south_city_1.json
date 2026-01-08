@@ -1,6 +1,5 @@
 {
   "domain": "Houseforsale.com",
-
   "hero": {
     "title": "Independent Houses for Sale in Prime South City 1 Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "House for Sale Options by Plot Size in South City 1",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Houses for Sale in and Around South City 1 Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "This section allows users to easily navigate nearby locations and find houses that best match their requirements."
     ],
     "locations": [
-      { "title": "House for Sale in South City 1 Gurugram", "path": "/", "icon": "Home" },
-      { "title": "House for Sale in South City 2 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale in Sector 41 Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Sector 40 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "House for Sale in Sector 45 Gurugram", "path": "/", "icon": "Home" },
-      { "title": "House for Sale near HUDA City Centre", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Sector 46 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale near NH-48 Gurugram", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Homebuyers Trust Deal Acres for South City 1 Houses",
     "description": [
@@ -82,17 +120,40 @@
       "With strong local expertise and a buyer-first approach, Deal Acres has become a trusted platform for purchasing independent houses in Gurugram."
     ],
     "points": [
-      { "title": "Verified House Listings", "description": "All listings are verified to ensure authenticity and accuracy." },
-      { "title": "Transparent Pricing", "description": "Clear pricing details with no hidden information." },
-      { "title": "Local Area Expertise", "description": "In-depth knowledge of South City 1 and nearby areas." },
-      { "title": "User-Friendly Platform", "description": "Easy navigation for a smooth property search experience." },
-      { "title": "Buyer-Centric Services", "description": "Services designed around genuine buyer needs." },
-      { "title": "Legal Guidance Support", "description": "Basic assistance with documentation and legal clarity." },
-      { "title": "End-to-End Assistance", "description": "Support available throughout the buying process." },
-      { "title": "Trusted by Homebuyers", "description": "Strong reputation built on trust and service quality." }
+      {
+        "title": "Verified House Listings",
+        "description": "All listings are verified to ensure authenticity and accuracy."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing details with no hidden information."
+      },
+      {
+        "title": "Local Area Expertise",
+        "description": "In-depth knowledge of South City 1 and nearby areas."
+      },
+      {
+        "title": "User-Friendly Platform",
+        "description": "Easy navigation for a smooth property search experience."
+      },
+      {
+        "title": "Buyer-Centric Services",
+        "description": "Services designed around genuine buyer needs."
+      },
+      {
+        "title": "Legal Guidance Support",
+        "description": "Basic assistance with documentation and legal clarity."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support available throughout the buying process."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Strong reputation built on trust and service quality."
+      }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Houses in South City 1 Gurugram",
     "description": "Common questions related to house for sale in South City 1 Gurugram.",
@@ -139,14 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Help for House for Sale in South City 1 Gurugram",
     "description": [
       "Buying a house for sale in South City 1 Gurugram is a major decision, and expert guidance can make the process smooth and stress-free.",
       "Share your details to connect with trusted property experts who will help you find the right house based on your budget, preferences, and long-term plans."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }
-s

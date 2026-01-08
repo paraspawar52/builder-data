@@ -61,14 +61,56 @@
       "These locations further enhance the residential value of this region."
     ],
     "locations": [
-      { "title": "3BHK Flat for Sale in Sector 151 Noida", "path": "/", "icon": "Home" },
-      { "title": "3BHK Flat for Sale in Sector 150 Noida", "path": "/", "icon": "Home" },
-      { "title": "3BHK Flat for Sale in Sector 148 Noida", "path": "/", "icon": "Home" },
-      { "title": "3BHK Flat for Sale near Noida Expressway", "path": "/", "icon": "Home" },
-      { "title": "Residential Flats in Greater Noida West", "path": "/", "icon": "Home" },
-      { "title": "Ready to Move 3BHK Flats in Noida", "path": "/", "icon": "Home" },
-      { "title": "Family Apartments in New Noida Sectors", "path": "/", "icon": "Home" },
-      { "title": "Modern Homes in Developing Noida Areas", "path": "/", "icon": "Home" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -164,6 +206,12 @@
       "Finding the right 3BHK flat for sale in Sector 151 Noida becomes simple with expert guidance.",
       "Share your requirements and contact details to receive verified listings and personalized property support."
     ],
-    "formFields": ["name", "phone", "email", "budget", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "budget",
+      "message"
+    ]
   }
 }

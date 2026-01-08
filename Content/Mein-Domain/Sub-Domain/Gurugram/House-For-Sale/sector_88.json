@@ -1,6 +1,5 @@
 {
   "domain": "Houseforsale.com",
-
   "hero": {
     "title": "Independent Houses for Sale in Sector 88 Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "House for Sale Options by Plot Size in Sector 88 Gurugram",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Houses for Sale Near Sector 88 Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "This section helps users discover surrounding residential areas and make informed property decisions."
     ],
     "locations": [
-      { "title": "House for Sale in Sector 88 Gurugram", "path": "/", "icon": "Home" },
-      { "title": "House for Sale in Sector 89 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale in Sector 87 Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Sector 90 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "House for Sale in New Gurugram", "path": "/", "icon": "Home" },
-      { "title": "House for Sale near Dwarka Expressway", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Sector 86 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale near NH-48", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Homebuyers Trust Deal Acres for Sector 88 Houses",
     "description": [
@@ -82,17 +120,40 @@
       "With a customer-first approach and deep understanding of Gurugram’s property market, Deal Acres is a trusted choice for independent house buyers."
     ],
     "points": [
-      { "title": "Verified House Listings", "description": "All properties are checked for ownership and authenticity." },
-      { "title": "Transparent Pricing", "description": "Pricing insights based on real market trends." },
-      { "title": "Local Market Expertise", "description": "Strong knowledge of Sector 88 and nearby locations." },
-      { "title": "User-Friendly Platform", "description": "Easy navigation for smooth property search." },
-      { "title": "Buyer-Centric Approach", "description": "Recommendations aligned with buyer requirements." },
-      { "title": "Documentation Support", "description": "Guidance with legal and ownership paperwork." },
-      { "title": "End-to-End Assistance", "description": "Support from property search to final purchase." },
-      { "title": "Trusted by Buyers", "description": "Strong reputation built on trust and service quality." }
+      {
+        "title": "Verified House Listings",
+        "description": "All properties are checked for ownership and authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Pricing insights based on real market trends."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong knowledge of Sector 88 and nearby locations."
+      },
+      {
+        "title": "User-Friendly Platform",
+        "description": "Easy navigation for smooth property search."
+      },
+      {
+        "title": "Buyer-Centric Approach",
+        "description": "Recommendations aligned with buyer requirements."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Guidance with legal and ownership paperwork."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from property search to final purchase."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Strong reputation built on trust and service quality."
+      }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Houses in Sector 88 Gurugram",
     "description": "Common buyer questions related to house for sale in Sector 88 Gurugram.",
@@ -139,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Help for House for Sale in Sector 88 Gurugram",
     "description": [
       "Buying a house for sale in Sector 88 Gurugram is a major decision, and professional guidance helps simplify the process.",
       "Share your details to connect with trusted property experts who will assist you based on your budget, preferences, and long-term goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

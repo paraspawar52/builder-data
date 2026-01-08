@@ -1,6 +1,5 @@
 {
   "domain": "Houseforsale.com",
-
   "hero": {
     "title": "Independent Houses for Sale in Prime Sector 8 Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "House for Sale Options by Plot Size in Sector 8 Gurugram",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Houses for Sale Near Sector 8 Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "This section helps users discover surrounding locations and make well-informed property decisions."
     ],
     "locations": [
-      { "title": "House for Sale in Sector 8 Gurugram", "path": "/", "icon": "Home" },
-      { "title": "House for Sale in Sector 9 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale in Sector 10 Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Sector 4 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "House for Sale in Old Gurugram", "path": "/", "icon": "Home" },
-      { "title": "House for Sale in Sector 7 Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Sector 5 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale near NH-48 Gurugram", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Homebuyers Trust Deal Acres for Sector 8 Houses",
     "description": [
@@ -82,17 +120,40 @@
       "With a customer-focused approach and deep knowledge of Gurugram’s residential market, Deal Acres has become a trusted platform for homebuyers."
     ],
     "points": [
-      { "title": "Verified House Listings", "description": "Each property listing is checked for authenticity and ownership clarity." },
-      { "title": "Transparent Pricing", "description": "Pricing is based on real market trends and locality insights." },
-      { "title": "Local Market Expertise", "description": "Strong understanding of Sector 8 and surrounding areas." },
-      { "title": "Easy-to-Use Platform", "description": "Simple navigation for a smooth property search experience." },
-      { "title": "Buyer-Focused Guidance", "description": "Property suggestions aligned with buyer requirements." },
-      { "title": "Documentation Support", "description": "Basic assistance with legal and ownership documentation." },
-      { "title": "End-to-End Assistance", "description": "Support available from shortlisting to final purchase." },
-      { "title": "Trusted by Buyers", "description": "A reputation built on transparency, service, and trust." }
+      {
+        "title": "Verified House Listings",
+        "description": "Each property listing is checked for authenticity and ownership clarity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Pricing is based on real market trends and locality insights."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 8 and surrounding areas."
+      },
+      {
+        "title": "Easy-to-Use Platform",
+        "description": "Simple navigation for a smooth property search experience."
+      },
+      {
+        "title": "Buyer-Focused Guidance",
+        "description": "Property suggestions aligned with buyer requirements."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Basic assistance with legal and ownership documentation."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support available from shortlisting to final purchase."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "A reputation built on transparency, service, and trust."
+      }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Houses in Sector 8 Gurugram",
     "description": "Common buyer questions related to house for sale in Sector 8 Gurugram.",
@@ -139,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Help for House for Sale in Sector 8 Gurugram",
     "description": [
       "Buying a house for sale in Sector 8 Gurugram is a significant investment, and expert guidance can help simplify the process.",
       "Share your details to connect with trusted property experts who will help you find the right home based on your budget and preferences."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

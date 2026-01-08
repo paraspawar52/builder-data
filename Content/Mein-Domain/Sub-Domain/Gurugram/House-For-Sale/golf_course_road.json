@@ -1,6 +1,5 @@
 {
   "domain": "Houseforsale.com",
-
   "hero": {
     "title": "Luxury Independent Houses for Sale on Golf Course Road Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "House for Sale Options by Plot Size on Golf Course Road",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Houses for Sale In and Around Golf Course Road",
     "description": [
@@ -64,17 +61,58 @@
       "This section highlights nearby high-demand residential areas around Golf Course Road."
     ],
     "locations": [
-      { "title": "House for Sale in Golf Course Road Gurugram", "path": "/", "icon": "Home" },
-      { "title": "House for Sale in DLF Phase 5 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale in Sector 42 Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Sector 43 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "House for Sale near MG Road Gurugram", "path": "/", "icon": "Home" },
-      { "title": "House for Sale in DLF Phase 1 Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Sale near Rapid Metro Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale in Golf Course Extension Road", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Deal Acres Is Trusted for Golf Course Road Houses",
     "description": [
@@ -116,7 +154,6 @@
       }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Houses on Golf Course Road",
     "description": "Common questions answered to help buyers make confident luxury property decisions.",
@@ -163,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Connect With Experts for Houses on Golf Course Road Gurugram",
     "description": [
       "Buying a house for sale in Golf Course Road Gurugram is a premium investment that deserves expert guidance.",
       "Share your details to connect with trusted luxury property consultants who will help you find the perfect home aligned with your lifestyle and investment goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

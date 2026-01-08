@@ -61,14 +61,56 @@
       "These surrounding locations also offer strong commercial potential and convenient connectivity."
     ],
     "locations": [
-      { "title": "Shop for Rent in Sector 10 Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Shop for Rent in Sector 11 Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Shop for Rent in Sector 12 Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Shop for Rent in Sector 15 Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Commercial Shops for Rent in Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Retail Shops for Rent in Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Affordable Shops for Rent in Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Best Commercial Areas in Sonipat", "path": "/", "icon": "Map" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -164,6 +206,13 @@
       "Finding the right shop for rent in Sector 10 Sonipat becomes simple with expert guidance.",
       "Share your business requirements to receive verified listings and personalized support from Deal Acres professionals."
     ],
-    "formFields": ["name", "phone", "email", "budget", "shopSize", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "budget",
+      "shopSize",
+      "message"
+    ]
   }
 }

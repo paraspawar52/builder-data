@@ -1,6 +1,5 @@
 {
   "domain": "Houseforsale.com",
-
   "hero": {
     "title": "Independent Houses for Sale in Manesar Gurugram Residential Areas",
     "description": [
@@ -22,7 +21,6 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "House for Sale Options by Plot Size in Manesar Gurugram",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Houses for Sale Near Manesar Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "This section helps users discover surrounding residential areas and choose the best location based on lifestyle and investment goals."
     ],
     "locations": [
-      { "title": "House for Sale in Manesar Gurugram", "path": "/", "icon": "Home" },
-      { "title": "House for Sale in IMT Manesar", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale near NH-48 Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Sector 1 Manesar", "path": "/", "icon": "Landmark" },
-      { "title": "House for Sale in Sector 2 Manesar", "path": "/", "icon": "Home" },
-      { "title": "House for Sale near KMP Expressway", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Sohna Road Area", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale in New Gurugram", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Homebuyers Trust Deal Acres for Manesar Houses",
     "description": [
@@ -82,17 +120,40 @@
       "With strong understanding of emerging markets like Manesar and a customer-focused approach, Deal Acres has become a preferred platform for smart homebuyers."
     ],
     "points": [
-      { "title": "Verified Property Listings", "description": "All listings are checked for ownership and authenticity." },
-      { "title": "Transparent Pricing Insights", "description": "Property prices reflect real market conditions and trends." },
-      { "title": "Local Area Expertise", "description": "In-depth knowledge of Manesar and nearby growth corridors." },
-      { "title": "Easy Property Search", "description": "User-friendly platform for quick and simple property discovery." },
-      { "title": "Buyer-Focused Guidance", "description": "Recommendations aligned with budget and lifestyle needs." },
-      { "title": "Documentation Assistance", "description": "Basic support for sale deeds and ownership paperwork." },
-      { "title": "End-to-End Support", "description": "Assistance from shortlisting to final purchase stage." },
-      { "title": "Trusted by Homebuyers", "description": "Strong reputation built on service quality and transparency." }
+      {
+        "title": "Verified Property Listings",
+        "description": "All listings are checked for ownership and authenticity."
+      },
+      {
+        "title": "Transparent Pricing Insights",
+        "description": "Property prices reflect real market conditions and trends."
+      },
+      {
+        "title": "Local Area Expertise",
+        "description": "In-depth knowledge of Manesar and nearby growth corridors."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "User-friendly platform for quick and simple property discovery."
+      },
+      {
+        "title": "Buyer-Focused Guidance",
+        "description": "Recommendations aligned with budget and lifestyle needs."
+      },
+      {
+        "title": "Documentation Assistance",
+        "description": "Basic support for sale deeds and ownership paperwork."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Assistance from shortlisting to final purchase stage."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Strong reputation built on service quality and transparency."
+      }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Houses in Manesar Gurugram",
     "description": "Common buyer queries related to house for sale in Manesar Gurugram.",
@@ -139,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Help for House for Sale in Manesar Gurugram",
     "description": [
       "Buying a house for sale in Manesar Gurugram is an important financial decision, and expert support can make the process smooth and reliable.",
       "Share your details to connect with trusted property experts who will help you find the right home based on your budget, preferences, and future plans."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

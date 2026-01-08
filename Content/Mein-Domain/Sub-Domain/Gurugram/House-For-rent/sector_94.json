@@ -1,6 +1,5 @@
 {
   "domain": "Houseforrent.com",
-
   "hero": {
     "title": "Well Planned And Affordable Houses for Rent in Sector 94 Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://plus.unsplash.com/premium_photo-1661901989603-0c5c6c9e0e8a?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "House for Rent Options by Plot Size in Sector 94",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Houses for Rent Near Sector 94 Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "This section highlights surrounding residential areas to help users find the most suitable rental homes near Sector 94."
     ],
     "locations": [
-      { "title": "House for Rent in Sector 94 Gurugram", "path": "/", "icon": "Home" },
-      { "title": "House for Rent in Sector 95 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Rent in Sector 93 Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Rent near Dwarka Expressway", "path": "/", "icon": "Landmark" },
-      { "title": "House for Rent in Sector 92 Gurugram", "path": "/", "icon": "Home" },
-      { "title": "House for Rent near Pataudi Road", "path": "/", "icon": "Building" },
-      { "title": "House for Rent in Sector 91 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Rent in New Gurugram Area", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Tenants Trust Deal Acres for Sector 94 Rental Homes",
     "description": [
@@ -116,7 +154,6 @@
       }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Houses for Rent in Sector 94",
     "description": "Common tenant questions related to house for rent in Sector 94 Gurugram.",
@@ -163,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Help for House for Rent in Sector 94 Gurugram",
     "description": [
       "Finding the right house for rent in Sector 94 Gurugram becomes simple with professional guidance and verified listings.",
       "Share your details to connect with trusted property experts who will help you find a rental home that matches your budget, space needs, and lifestyle preferences."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -1,6 +1,5 @@
 {
   "domain": "Affordablehouseforsalecom",
-
   "hero": {
     "title": "Affordable and Well-Connected Houses for Sale in Sector 82 Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "Affordable House Options by Plot Size in Sector 82 Gurugram",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Affordable Houses Near Sector 82 Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "This section highlights surrounding residential locations that enhance the overall appeal of Sector 82."
     ],
     "locations": [
-      { "title": "Affordable House for Sale in Sector 82 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Affordable House for Sale in Sector 81 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Affordable House for Sale in Sector 83 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Affordable House for Sale in Sector 84 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Affordable House near Dwarka Expressway", "path": "/", "icon": "Landmark" },
-      { "title": "Affordable House near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Affordable House in New Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Budget Homes in Gurugram", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Buyers Trust Deal Acres for Affordable Houses in Sector 82",
     "description": [
@@ -116,7 +154,6 @@
       }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Affordable Houses in Sector 82 Gurugram",
     "description": "Helpful answers to common buyer questions for confident decision-making.",
@@ -163,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Help for Buying Affordable Houses in Sector 82 Gurugram",
     "description": [
       "Finding the right affordable house for sale in Sector 82 Gurugram becomes easy with professional guidance.",
       "Share your details to connect with trusted real estate experts who will help you explore verified properties matching your budget and lifestyle."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

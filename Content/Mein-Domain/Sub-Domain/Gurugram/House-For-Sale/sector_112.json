@@ -1,6 +1,5 @@
 {
   "domain": "Houseforsale.com",
-
   "hero": {
     "title": "Independent Houses for Sale in Sector 112 Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "House for Sale Options by Plot Size in Sector 112 Gurugram",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Houses for Sale Near Sector 112 Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "This section helps users easily navigate through nearby residential options and make well-informed property decisions."
     ],
     "locations": [
-      { "title": "House for Sale in Sector 112 Gurugram", "path": "/", "icon": "Home" },
-      { "title": "House for Sale in Sector 111 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale in Sector 110 Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Sector 109 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "House for Sale near Dwarka Expressway", "path": "/", "icon": "Home" },
-      { "title": "House for Sale in Palam Vihar", "path": "/", "icon": "Building" },
-      { "title": "House for Sale near IGI Airport", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale in New Gurugram", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Homebuyers Trust Deal Acres for Sector 112 Houses",
     "description": [
@@ -82,17 +120,40 @@
       "With a strong customer-first approach and deep local market knowledge, Deal Acres has become a trusted choice for homebuyers in Gurugram."
     ],
     "points": [
-      { "title": "Verified House Listings", "description": "All listings are checked for ownership and authenticity." },
-      { "title": "Transparent Pricing", "description": "Clear pricing insights based on current market trends." },
-      { "title": "Local Market Expertise", "description": "In-depth understanding of Sector 112 and nearby areas." },
-      { "title": "User-Friendly Platform", "description": "Easy navigation for smooth property discovery." },
-      { "title": "Buyer-Centric Approach", "description": "Property suggestions tailored to buyer needs." },
-      { "title": "Documentation Support", "description": "Guidance with legal and ownership documents." },
-      { "title": "End-to-End Assistance", "description": "Support from property search to final deal." },
-      { "title": "Trusted by Buyers", "description": "Strong reputation built on transparency and service quality." }
+      {
+        "title": "Verified House Listings",
+        "description": "All listings are checked for ownership and authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing insights based on current market trends."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth understanding of Sector 112 and nearby areas."
+      },
+      {
+        "title": "User-Friendly Platform",
+        "description": "Easy navigation for smooth property discovery."
+      },
+      {
+        "title": "Buyer-Centric Approach",
+        "description": "Property suggestions tailored to buyer needs."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Guidance with legal and ownership documents."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from property search to final deal."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Strong reputation built on transparency and service quality."
+      }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Houses in Sector 112 Gurugram",
     "description": "Common buyer questions related to house for sale in Sector 112 Gurugram.",
@@ -139,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Help for House for Sale in Sector 112 Gurugram",
     "description": [
       "Buying a house for sale in Sector 112 Gurugram is a significant investment, and expert guidance helps ensure a smooth and confident purchase.",
       "Share your details to connect with trusted property experts who will assist you based on your budget, preferences, and long-term goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

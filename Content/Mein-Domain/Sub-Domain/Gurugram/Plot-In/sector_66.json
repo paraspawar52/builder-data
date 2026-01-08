@@ -1,6 +1,5 @@
 {
   "domain": "plot.com",
-
   "hero": {
     "title": "Premium Residential and Investment Plots in Sector 66 Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "Plot Size Options Available in Sector 66 Gurugram",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Plot Locations Near Sector 66 Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "This section highlights surrounding areas with similar residential and investment advantages."
     ],
     "locations": [
-      { "title": "Plot in Sector 66 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Sector 65 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Sector 67 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Sector 68 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot near Golf Course Extension Road", "path": "/", "icon": "Landmark" },
-      { "title": "Plot near Sohna Road", "path": "/", "icon": "Landmark" },
-      { "title": "Plot near Southern Peripheral Road", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Central Gurugram", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Deal Acres Is the Preferred Choice for Plots in Sector 66 Gurugram",
     "description": [
@@ -116,7 +154,6 @@
       }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Plots in Sector 66 Gurugram",
     "description": "Detailed answers to common buyer questions related to plot purchases in Sector 66 Gurugram.",
@@ -163,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Connect With Experts for Buying Plots in Sector 66 Gurugram",
     "description": [
       "Finding the right plot in Sector 66 Gurugram becomes easier with professional guidance.",
       "Share your details to connect with trusted real estate experts who will help you find verified plots that match your budget and long-term goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

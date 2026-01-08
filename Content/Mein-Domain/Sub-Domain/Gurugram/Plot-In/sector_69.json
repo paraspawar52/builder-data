@@ -1,6 +1,5 @@
 {
   "domain": "plot.com",
-
   "hero": {
     "title": "Residential and Investment Plots in Well Connected Sector 69 Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://images.unsplash.com/photo-1597047084897-51e81819a499?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "Different Plot Sizes Available in Sector 69 Gurugram",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Nearby Plot Locations Around Sector 69 Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "These nearby sectors offer similar residential advantages and connectivity benefits."
     ],
     "locations": [
-      { "title": "Plot in Sector 69 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Sector 70 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Sector 71 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot near Sohna Road", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Sector 66 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Sector 67 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Southern Peripheral Road Area", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in New Gurugram", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Deal Acres Is Trusted for Plots in Sector 69 Gurugram",
     "description": [
@@ -116,7 +154,6 @@
       }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Plots in Sector 69 Gurugram",
     "description": "Common questions that buyers ask before investing in plots in Sector 69 Gurugram.",
@@ -163,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Connect With Experts for Buying Plots in Sector 69 Gurugram",
     "description": [
       "Finding the right plot in Sector 69 Gurugram becomes easier with expert assistance.",
       "Share your details and our property experts will help you with verified options, pricing insights, and legal guidance."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

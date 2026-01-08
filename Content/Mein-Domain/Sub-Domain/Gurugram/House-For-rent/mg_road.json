@@ -1,6 +1,5 @@
 {
   "domain": "Houseforrent.com",
-
   "hero": {
     "title": "Premium And Centrally Located Houses for Rent on MG Road Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://plus.unsplash.com/premium_photo-1661901989603-0c5c6c9e0e8a?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "House for Rent Options by Plot Size on MG Road",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Houses for Rent Near MG Road Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "This section highlights surrounding areas to help users find the most suitable rental homes near MG Road."
     ],
     "locations": [
-      { "title": "House for Rent on MG Road Gurugram", "path": "/", "icon": "Home" },
-      { "title": "House for Rent in DLF Phase 2", "path": "/", "icon": "Building2" },
-      { "title": "House for Rent in DLF Phase 3", "path": "/", "icon": "Building" },
-      { "title": "House for Rent near Cyber City", "path": "/", "icon": "Landmark" },
-      { "title": "House for Rent in Sushant Lok Phase 1", "path": "/", "icon": "Home" },
-      { "title": "House for Rent near Golf Course Road", "path": "/", "icon": "Building" },
-      { "title": "House for Rent in Sector 28 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Rent near NH-48", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Tenants Trust Deal Acres for MG Road Rental Homes",
     "description": [
@@ -116,7 +154,6 @@
       }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Houses for Rent on MG Road",
     "description": "Common tenant questions related to house for rent in MG Road Gurugram.",
@@ -163,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Help for House for Rent on MG Road Gurugram",
     "description": [
       "Finding the right house for rent in MG Road Gurugram becomes easy with professional guidance and verified listings.",
       "Share your details to connect with trusted property experts who will help you find a rental home that matches your budget, space requirements, and preferred lifestyle."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

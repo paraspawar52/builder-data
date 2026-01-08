@@ -61,14 +61,56 @@
       "These neighboring areas further strengthen Sector 37’s appeal as a central residential hub."
     ],
     "locations": [
-      { "title": "3BHK Flat for Sale in Sector 37 Noida", "path": "/", "icon": "Home" },
-      { "title": "3BHK Flat for Sale in Sector 36 Noida", "path": "/", "icon": "Home" },
-      { "title": "3BHK Flat for Sale in Sector 34 Noida", "path": "/", "icon": "Home" },
-      { "title": "3BHK Flats near City Centre Noida", "path": "/", "icon": "Home" },
-      { "title": "Residential Flats in Central Noida", "path": "/", "icon": "Home" },
-      { "title": "Ready to Move Flats in Noida", "path": "/", "icon": "Home" },
-      { "title": "Gated Society Flats in Noida", "path": "/", "icon": "Home" },
-      { "title": "Family Apartments near Metro Stations", "path": "/", "icon": "Home" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -164,6 +206,12 @@
       "Buying the right 3BHK flat for sale in Sector 37 Noida becomes easier with professional guidance.",
       "Share your requirements to connect with trusted property experts and receive personalized assistance."
     ],
-    "formFields": ["name", "phone", "email", "budget", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "budget",
+      "message"
+    ]
   }
 }

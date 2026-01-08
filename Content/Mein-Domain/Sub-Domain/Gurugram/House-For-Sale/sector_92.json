@@ -1,0 +1,216 @@
+{
+  "domain": "Houseforsalecom",
+  "hero": {
+    "title": "Independent Residential Houses for Sale in Sector 92 Gurugram",
+    "description": [
+      "Sector 92 Gurugram is a fast-growing residential location in New Gurugram, known for its modern infrastructure, planned roads, and excellent connectivity. Buyers searching for a house for sale in Sector 92 Gurugram are attracted by its proximity to Dwarka Expressway, NH-48, and key commercial hubs of Gurugram and Manesar. The area offers a peaceful environment with wide roads, green surroundings, and well-developed civic amenities, making it suitable for family living.",
+      "Houses for sale in Sector 92 Gurugram are ideal for buyers looking for independent living with long-term growth potential. The locality is surrounded by reputed schools, hospitals, shopping complexes, and daily-need markets, ensuring a comfortable lifestyle. With continuous infrastructure development and rising demand, Sector 92 has emerged as a preferred choice for both end-users and investors seeking value appreciation and quality living."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses in Sector 92",
+        "path": "/"
+      },
+      {
+        "label": "Get Expert Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "House Size Options Available for Sale in Sector 92 Gurugram",
+    "description": [
+      "Choosing the right house size in Sector 92 Gurugram depends on your family size, lifestyle needs, and budget.",
+      "The locality offers a wide range of independent house configurations suitable for comfortable living and future growth."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Sector 92 Gurugram",
+        "description": "A 4 Marla house for sale in Sector 92 Gurugram is an excellent option for small families or first-time buyers. These houses offer practical layouts, easy maintenance, and affordability while providing independent living in a well-planned neighborhood."
+      },
+      {
+        "title": "6 Marla House for Sale in Sector 92 Gurugram",
+        "description": "6 Marla houses strike a perfect balance between space and budget. They are ideal for nuclear families seeking better room distribution, parking space, and comfortable daily living in a developing area."
+      },
+      {
+        "title": "8 Marla House for Sale in Sector 92 Gurugram",
+        "description": "An 8 Marla house provides larger living spaces, improved ventilation, and flexibility in design. These homes are suitable for families planning long-term residence with modern lifestyle requirements."
+      },
+      {
+        "title": "10 Marla House for Sale in Sector 92 Gurugram",
+        "description": "10 Marla houses are preferred by buyers who want spacious interiors, multiple bedrooms, and enhanced privacy. They also offer strong resale value due to growing demand in Sector 92."
+      },
+      {
+        "title": "12 Marla House for Sale in Sector 92 Gurugram",
+        "description": "A 12 Marla house is ideal for large families seeking generous living areas and premium layouts. These houses provide long-term comfort and a superior lifestyle experience."
+      },
+      {
+        "title": "14 Marla House for Sale in Sector 92 Gurugram",
+        "description": "14 Marla houses cater to buyers looking for expansive independent homes with premium features. They are considered strong assets for long-term investment and luxury family living."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Houses for Sale Near Sector 92 Gurugram",
+    "description": [
+      "Buyers interested in houses for sale in Sector 92 Gurugram often explore nearby localities to compare options and pricing.",
+      "These surrounding areas further enhance connectivity, lifestyle convenience, and residential choices."
+    ],
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Buyers Choose Deal Acres for Houses in Sector 92",
+    "description": [
+      "Buying a house for sale in Sector 92 Gurugram requires reliable listings, transparent processes, and local market expertise.",
+      "Deal Acres has earned buyer trust by consistently delivering genuine properties and customer-focused services."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All listings are verified for ownership, approvals, and authenticity to ensure safe property transactions."
+      },
+      {
+        "title": "Transparent Pricing Policy",
+        "description": "Buyers receive clear pricing details with no hidden costs or last-minute surprises."
+      },
+      {
+        "title": "Strong Local Market Knowledge",
+        "description": "Expert understanding of Sector 92 Gurugram property trends and future growth prospects."
+      },
+      {
+        "title": "Wide Range of Property Options",
+        "description": "Multiple house sizes and budget-friendly options available for different buyer needs."
+      },
+      {
+        "title": "Complete Legal Assistance",
+        "description": "Support with documentation, registry, and legal verification for hassle-free buying."
+      },
+      {
+        "title": "Personalized Buying Guidance",
+        "description": "Tailored property recommendations based on family needs and investment goals."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Assistance from property search to final possession ensures a smooth experience."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for ethical practices, transparency, and long-term customer satisfaction."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Sale in Sector 92 Gurugram",
+    "description": "Detailed answers to common buyer questions to help make informed property decisions.",
+    "faqs": [
+      {
+        "question": "Is Sector 92 Gurugram a good area to buy a house?",
+        "answer": "Yes, Sector 92 is a rapidly developing residential area with good connectivity, modern infrastructure, and strong future appreciation potential."
+      },
+      {
+        "question": "What house sizes are available in Sector 92 Gurugram?",
+        "answer": "Independent houses are commonly available from 4 Marla to 14 Marla, depending on layout and availability."
+      },
+      {
+        "question": "Is Sector 92 suitable for family living?",
+        "answer": "Yes, the area offers schools, hospitals, parks, markets, and a peaceful environment suitable for families."
+      },
+      {
+        "question": "Are houses in Sector 92 legally approved?",
+        "answer": "Most properties are approved, and Deal Acres provides complete legal verification support before purchase."
+      },
+      {
+        "question": "How is connectivity from Sector 92 Gurugram?",
+        "answer": "Sector 92 enjoys excellent connectivity via Dwarka Expressway, NH-48, and major city roads."
+      },
+      {
+        "question": "Is buying a house in Sector 92 a good investment?",
+        "answer": "Yes, ongoing development and rising demand make Sector 92 a promising area for long-term investment."
+      },
+      {
+        "question": "Can I get a home loan for a house in Sector 92?",
+        "answer": "Yes, home loans are available from leading banks and financial institutions for eligible properties."
+      },
+      {
+        "question": "What amenities are available near Sector 92?",
+        "answer": "The area offers schools, hospitals, shopping complexes, parks, banks, and public transport facilities."
+      },
+      {
+        "question": "Why should I choose Deal Acres for buying a house?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and complete end-to-end buyer support."
+      },
+      {
+        "question": "How can I contact property experts for Sector 92 houses?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Help for Buying Houses in Sector 92 Gurugram",
+    "description": [
+      "Finding the right house for sale in Sector 92 Gurugram becomes easy with professional assistance.",
+      "Share your details to connect with trusted real estate experts and explore verified housing options confidently."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

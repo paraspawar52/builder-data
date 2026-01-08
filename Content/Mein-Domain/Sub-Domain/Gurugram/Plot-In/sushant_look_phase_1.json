@@ -1,6 +1,5 @@
 {
   "domain": "plot.com",
-
   "hero": {
     "title": "Premium Residential and Investment Plots in Sushant Lok Phase 1 Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://images.unsplash.com/photo-1592595896616-c37162298647?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "Plot Size Options Available in Sushant Lok Phase 1 Gurugram",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Nearby Plot Locations Around Sushant Lok Phase 1",
     "description": [
@@ -64,17 +61,58 @@
       "These surrounding areas offer similar lifestyle advantages and excellent connectivity."
     ],
     "locations": [
-      { "title": "Plot in Sushant Lok Phase 1 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Sushant Lok Phase 2 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Sector 43 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Sector 44 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot near MG Road Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot near Golf Course Road", "path": "/", "icon": "Landmark" },
-      { "title": "Plot near HUDA City Centre", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Central Gurugram", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Buyers Trust Deal Acres for Plots in Sushant Lok Phase 1",
     "description": [
@@ -116,7 +154,6 @@
       }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Plots in Sushant Lok Phase 1",
     "description": "Detailed answers to common buyer questions related to plot purchase in Sushant Lok Phase 1 Gurugram.",
@@ -163,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Guidance for Buying Plots in Sushant Lok Phase 1",
     "description": [
       "Finding the right plot in Sushant Lok Phase 1 Gurugram becomes seamless with expert assistance.",
       "Share your details to connect with trusted property professionals who will help you find verified plots aligned with your residential or investment goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

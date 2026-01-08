@@ -61,14 +61,56 @@
       "These surrounding localities further enhance the rental appeal of Sector 36."
     ],
     "locations": [
-      { "title": "To Let Service in Sector 36 Rohtak", "path": "/", "icon": "Home" },
-      { "title": "To Let Service in Sector 35 Rohtak", "path": "/", "icon": "Home" },
-      { "title": "To Let Service in Sector 34 Rohtak", "path": "/", "icon": "Home" },
-      { "title": "Rental Homes in Central Rohtak", "path": "/", "icon": "Home" },
-      { "title": "Independent Houses for Rent in Rohtak", "path": "/", "icon": "Home" },
-      { "title": "Builder Floors for Rent in Rohtak", "path": "/", "icon": "Home" },
-      { "title": "Family Rental Homes in Rohtak", "path": "/", "icon": "Home" },
-      { "title": "Affordable Rental Properties in Rohtak", "path": "/", "icon": "Home" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -164,6 +206,12 @@
       "Finding the right rental home in Sector 36 Rohtak becomes simple with expert guidance.",
       "Share your requirements through the form and connect with trusted rental professionals today."
     ],
-    "formFields": ["name", "phone", "email", "budget", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "budget",
+      "message"
+    ]
   }
 }

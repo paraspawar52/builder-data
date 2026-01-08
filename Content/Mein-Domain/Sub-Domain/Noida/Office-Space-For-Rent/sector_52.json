@@ -61,14 +61,56 @@
       "These surrounding sectors further enhance the commercial value of Sector 52."
     ],
     "locations": [
-      { "title": "Office Space for Rent in Sector 52 Noida", "path": "/", "icon": "Building2" },
-      { "title": "Office Space for Rent in Sector 51 Noida", "path": "/", "icon": "Building2" },
-      { "title": "Office Space for Rent in Sector 62 Noida", "path": "/", "icon": "Building2" },
-      { "title": "Office Space for Rent near City Centre Noida", "path": "/", "icon": "Building2" },
-      { "title": "Commercial Offices near Metro Stations Noida", "path": "/", "icon": "Building2" },
-      { "title": "IT Offices in Central Noida", "path": "/", "icon": "Building2" },
-      { "title": "Corporate Offices near Residential Sectors Noida", "path": "/", "icon": "Building2" },
-      { "title": "Affordable Office Spaces in Noida", "path": "/", "icon": "Building2" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -164,6 +206,12 @@
       "Finding the right office space for rent in Sector 52 Noida becomes simple with expert support.",
       "Share your business requirements and contact details to connect with trusted commercial property professionals."
     ],
-    "formFields": ["name", "phone", "email", "company", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "company",
+      "message"
+    ]
   }
 }

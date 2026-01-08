@@ -61,14 +61,56 @@
       "These surrounding locations further enhance Sector 94’s appeal as a prime residential destination."
     ],
     "locations": [
-      { "title": "House for Sale in Sector 94 Noida", "path": "/", "icon": "Landmark" },
-      { "title": "House for Sale in Sector 93 Noida", "path": "/", "icon": "Landmark" },
-      { "title": "House for Sale in Sector 137 Noida", "path": "/", "icon": "Landmark" },
-      { "title": "Independent Houses near Noida Expressway", "path": "/", "icon": "Landmark" },
-      { "title": "Residential Houses near DND Flyway", "path": "/", "icon": "Landmark" },
-      { "title": "Family Homes near South Delhi", "path": "/", "icon": "Landmark" },
-      { "title": "Premium Houses in Central Noida", "path": "/", "icon": "Landmark" },
-      { "title": "Luxury Homes near IT Hubs Noida", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -164,6 +206,11 @@
       "Finding the right house for sale in Sector 94 Noida becomes easier with expert assistance.",
       "Share your details to connect with trusted professionals and explore verified premium properties with confidence."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

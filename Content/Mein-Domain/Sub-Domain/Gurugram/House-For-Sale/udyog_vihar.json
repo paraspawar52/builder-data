@@ -1,6 +1,5 @@
 {
   "domain": "Houseforsale.com",
-
   "hero": {
     "title": "Prime Independent Houses for Sale in Udyog Vihar Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "House for Sale Options by Plot Size in Udyog Vihar Gurugram",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Houses for Sale In and Around Udyog Vihar Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "This section helps users discover surrounding high-demand residential areas."
     ],
     "locations": [
-      { "title": "House for Sale in Udyog Vihar Gurugram", "path": "/", "icon": "Home" },
-      { "title": "House for Sale in DLF Phase 3 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale in Sector 18 Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Palam Vihar Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "House for Sale near Cyber City Gurugram", "path": "/", "icon": "Home" },
-      { "title": "House for Sale in Sector 22 Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Sale near MG Road Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale near NH-48 Gurugram", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Deal Acres Is Trusted for Houses in Udyog Vihar",
     "description": [
@@ -116,7 +154,6 @@
       }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About House for Sale in Udyog Vihar Gurugram",
     "description": "Common buyer questions answered in detail for better decision-making.",
@@ -163,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Help for House for Sale in Udyog Vihar Gurugram",
     "description": [
       "Buying a house for sale in Udyog Vihar Gurugram is a major decision, and expert guidance can make the process smooth and stress-free.",
       "Share your details to connect with trusted property professionals who will help you find the right home based on your budget and preferences."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -61,14 +61,56 @@
       "These surrounding areas also offer strong residential infrastructure and connectivity."
     ],
     "locations": [
-      { "title": "Flats for Sale in Sector 35 Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Flats for Sale in Sector 34 Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Flats for Sale in Sector 33 Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Flats for Sale in Sector 19 Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Residential Flats in Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Affordable Flats in Sonipat", "path": "/", "icon": "Map" },
-      { "title": "New Flats Projects in Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Best Areas to Buy Flats in Sonipat", "path": "/", "icon": "Map" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -164,6 +206,13 @@
       "Finding the right flat in Sector 35 Sonipat becomes easy with expert guidance.",
       "Share your requirements to receive verified listings and personalized property support."
     ],
-    "formFields": ["name", "phone", "email", "budget", "flatSize", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "budget",
+      "flatSize",
+      "message"
+    ]
   }
 }

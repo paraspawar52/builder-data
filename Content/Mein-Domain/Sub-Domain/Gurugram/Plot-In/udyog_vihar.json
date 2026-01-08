@@ -1,6 +1,5 @@
 {
   "domain": "plot.com",
-
   "hero": {
     "title": "Premium Residential and Investment Plots in Udyog Vihar Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "Plot Size Options Available in Udyog Vihar Gurugram",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Nearby Plot Locations Around Udyog Vihar Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "These nearby localities offer similar advantages and strong real estate demand."
     ],
     "locations": [
-      { "title": "Plot in Udyog Vihar Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in DLF Phase 3 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Cyber City Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Sector 18 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Sector 19 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot near IGI Airport Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Central Gurugram", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Deal Acres Is Trusted for Plots in Udyog Vihar Gurugram",
     "description": [
@@ -116,7 +154,6 @@
       }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Plots in Udyog Vihar Gurugram",
     "description": "Answers to common questions buyers ask before purchasing plots in Udyog Vihar Gurugram.",
@@ -163,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Help for Buying Plots in Udyog Vihar Gurugram",
     "description": [
       "Finding the right plot in Udyog Vihar Gurugram becomes easier with professional support.",
       "Share your details to connect with experienced property advisors who will help you find verified plots aligned with your investment and development goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

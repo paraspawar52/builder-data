@@ -1,6 +1,5 @@
 {
   "domain": "plot.com",
-
   "hero": {
     "title": "Residential and Affordable Plots in Peaceful Chandan Vihar Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "Residential Plot Size Options Available in Chandan Vihar",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Nearby Areas Offering Plots Around Chandan Vihar",
     "description": [
@@ -64,17 +61,58 @@
       "This section highlights surrounding areas to help users make informed property decisions."
     ],
     "locations": [
-      { "title": "Plot in Chandan Vihar Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Ashok Vihar Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Sector 9 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Sector 10 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Palam Vihar", "path": "/", "icon": "Landmark" },
-      { "title": "Plot near Old Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot near Dwarka Expressway", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Buyers Trust Deal Acres for Plots in Chandan Vihar",
     "description": [
@@ -116,7 +154,6 @@
       }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Plots in Chandan Vihar Gurugram",
     "description": "Common buyer questions related to plots in Chandan Vihar Gurugram.",
@@ -163,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Help for Buying Plots in Chandan Vihar Gurugram",
     "description": [
       "Finding the right plot in Chandan Vihar Gurugram becomes simple with professional assistance.",
       "Share your details to connect with trusted property experts who will help you find verified plots matching your budget and future plans."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

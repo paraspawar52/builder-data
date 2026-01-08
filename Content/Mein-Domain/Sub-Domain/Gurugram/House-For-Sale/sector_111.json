@@ -1,6 +1,5 @@
 {
   "domain": "Houseforsale.com",
-
   "hero": {
     "title": "Independent Houses for Sale in Sector 111 Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "House for Sale Options by Plot Size in Sector 111 Gurugram",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Houses for Sale Near Sector 111 Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "This section helps users discover surrounding residential locations and make informed property decisions."
     ],
     "locations": [
-      { "title": "House for Sale in Sector 111 Gurugram", "path": "/", "icon": "Home" },
-      { "title": "House for Sale in Sector 110 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale in Sector 112 Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Sector 109 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "House for Sale near Dwarka Expressway", "path": "/", "icon": "Home" },
-      { "title": "House for Sale in Palam Vihar", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in New Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale near IGI Airport", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Homebuyers Trust Deal Acres for Sector 111 Houses",
     "description": [
@@ -82,17 +120,40 @@
       "With a buyer-first approach and strong local expertise, Deal Acres has become a reliable platform for purchasing independent houses in Gurugram."
     ],
     "points": [
-      { "title": "Verified House Listings", "description": "Listings are verified for ownership, legality, and authenticity." },
-      { "title": "Transparent Pricing", "description": "Pricing insights based on real-time market data." },
-      { "title": "Local Market Expertise", "description": "Strong understanding of Sector 111 and nearby localities." },
-      { "title": "User-Friendly Platform", "description": "Simple and intuitive property search experience." },
-      { "title": "Buyer-Centric Approach", "description": "Recommendations tailored to buyer needs and budgets." },
-      { "title": "Documentation Support", "description": "Guidance on ownership and legal documentation." },
-      { "title": "End-to-End Assistance", "description": "Support from property search to deal closure." },
-      { "title": "Trusted by Buyers", "description": "Reputation built on transparency and customer satisfaction." }
+      {
+        "title": "Verified House Listings",
+        "description": "Listings are verified for ownership, legality, and authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Pricing insights based on real-time market data."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Strong understanding of Sector 111 and nearby localities."
+      },
+      {
+        "title": "User-Friendly Platform",
+        "description": "Simple and intuitive property search experience."
+      },
+      {
+        "title": "Buyer-Centric Approach",
+        "description": "Recommendations tailored to buyer needs and budgets."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Guidance on ownership and legal documentation."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from property search to deal closure."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Reputation built on transparency and customer satisfaction."
+      }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Houses in Sector 111 Gurugram",
     "description": "Common buyer questions related to house for sale in Sector 111 Gurugram.",
@@ -139,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Help for House for Sale in Sector 111 Gurugram",
     "description": [
       "Buying a house for sale in Sector 111 Gurugram is a major investment, and professional guidance can help you make a confident decision.",
       "Share your details to connect with trusted property experts who will assist you based on your budget, preferences, and future goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

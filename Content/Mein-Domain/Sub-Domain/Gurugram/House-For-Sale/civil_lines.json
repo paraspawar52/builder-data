@@ -1,0 +1,216 @@
+{
+  "domain": "Houseforsalecom",
+  "hero": {
+    "title": "Independent Residential Houses for Sale in Civil Lines Gurugram",
+    "description": [
+      "Civil Lines Gurugram is one of the most established and prestigious residential localities in the city, known for its calm environment, low-density housing, and central location. Buyers searching for a house for sale in Civil Lines Gurugram are attracted by its old-city charm combined with excellent connectivity to NH-48, Old Railway Road, MG Road, and key commercial areas. The locality offers wide roads, green surroundings, and a peaceful lifestyle, making it ideal for families who prefer privacy and comfort.",
+      "Houses for sale in Civil Lines Gurugram are highly valued due to limited supply and consistent demand. The area is surrounded by reputed schools, hospitals, government offices, local markets, and parks, ensuring everyday convenience. With its prime location and strong social infrastructure, Civil Lines remains a preferred choice for end-users and investors looking for long-term stability, lifestyle comfort, and reliable property appreciation."
+    ],
+    "buttons": [
+      {
+        "label": "Explore Houses in Civil Lines",
+        "path": "/"
+      },
+      {
+        "label": "Get Buying Assistance",
+        "path": "/"
+      }
+    ],
+    "images": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&auto=format&fit=crop&q=60",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60"
+    ]
+  },
+  "featuresSection": {
+    "heading": "Independent House Size Options Available in Civil Lines Gurugram",
+    "description": [
+      "Choosing the right house size in Civil Lines Gurugram depends on family needs, lifestyle preferences, and future plans.",
+      "The locality offers premium independent house options designed for comfortable living and long-term value."
+    ],
+    "features": [
+      {
+        "title": "4 Marla House for Sale in Civil Lines Gurugram",
+        "description": "A 4 Marla house for sale in Civil Lines Gurugram is ideal for small families seeking independent living in a central and peaceful area. These homes offer efficient layouts, easy maintenance, and excellent location benefits."
+      },
+      {
+        "title": "6 Marla House for Sale in Civil Lines Gurugram",
+        "description": "6 Marla houses provide a balanced combination of space and affordability. They suit nuclear families who want better room distribution, parking space, and a comfortable lifestyle."
+      },
+      {
+        "title": "8 Marla House for Sale in Civil Lines Gurugram",
+        "description": "An 8 Marla house offers spacious interiors, better ventilation, and flexibility in design. These houses are preferred by families planning long-term residence in a well-established locality."
+      },
+      {
+        "title": "10 Marla House for Sale in Civil Lines Gurugram",
+        "description": "10 Marla houses are ideal for buyers looking for larger living areas, multiple bedrooms, and enhanced privacy. They also enjoy strong resale demand due to limited availability."
+      },
+      {
+        "title": "12 Marla House for Sale in Civil Lines Gurugram",
+        "description": "A 12 Marla house is suitable for large families seeking generous living space, premium layouts, and long-term residential comfort."
+      },
+      {
+        "title": "14 Marla House for Sale in Civil Lines Gurugram",
+        "description": "14 Marla houses cater to buyers looking for expansive independent homes with a premium lifestyle in one of Gurugram’s most trusted residential areas."
+      }
+    ]
+  },
+  "locationsSection": {
+    "title": "Explore Houses for Sale Near Civil Lines Gurugram",
+    "description": [
+      "Buyers interested in houses for sale in Civil Lines Gurugram often explore nearby localities to compare options and pricing.",
+      "These surrounding areas further enhance connectivity, lifestyle convenience, and residential choices."
+    ],
+    "locations": [
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Buyers Trust Deal Acres for Houses in Civil Lines",
+    "description": [
+      "Buying a house for sale in Civil Lines Gurugram requires verified listings, transparent processes, and strong local expertise.",
+      "Deal Acres has earned buyer trust by consistently delivering genuine properties and reliable real estate services."
+    ],
+    "points": [
+      {
+        "title": "Verified Property Listings",
+        "description": "All properties are verified for ownership, approvals, and legal clarity before being listed."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no hidden charges helps buyers make confident decisions."
+      },
+      {
+        "title": "Strong Local Market Knowledge",
+        "description": "Deep understanding of Civil Lines Gurugram property trends and demand patterns."
+      },
+      {
+        "title": "Limited and Premium Inventory",
+        "description": "Access to exclusive independent houses in a low-supply, high-demand locality."
+      },
+      {
+        "title": "Legal and Registry Support",
+        "description": "Complete assistance with documentation, registry, and legal verification."
+      },
+      {
+        "title": "Personalized Buying Guidance",
+        "description": "Property suggestions tailored to family needs, lifestyle goals, and budgets."
+      },
+      {
+        "title": "End-to-End Buying Support",
+        "description": "Support from property search to final possession for a smooth experience."
+      },
+      {
+        "title": "Trusted Real Estate Platform",
+        "description": "Deal Acres is known for ethical practices, transparency, and long-term customer trust."
+      }
+    ]
+  },
+  "faqSection": {
+    "title": "Frequently Asked Questions About Houses for Sale in Civil Lines Gurugram",
+    "description": "Detailed answers to common buyer questions to help you make informed property decisions.",
+    "faqs": [
+      {
+        "question": "Is Civil Lines Gurugram a good area to buy a house?",
+        "answer": "Yes, Civil Lines is a premium and well-established residential area offering peaceful living, strong connectivity, and long-term value."
+      },
+      {
+        "question": "What house sizes are available in Civil Lines Gurugram?",
+        "answer": "Independent houses are generally available from 4 Marla to 14 Marla, subject to availability."
+      },
+      {
+        "question": "Is Civil Lines suitable for family living?",
+        "answer": "Yes, the area offers schools, hospitals, parks, markets, and a safe residential environment."
+      },
+      {
+        "question": "Are houses in Civil Lines legally approved?",
+        "answer": "Most properties are approved, and Deal Acres provides complete legal verification support."
+      },
+      {
+        "question": "How is connectivity from Civil Lines Gurugram?",
+        "answer": "Civil Lines enjoys excellent connectivity via NH-48, MG Road, Old Railway Road, and public transport."
+      },
+      {
+        "question": "Is buying a house in Civil Lines a good investment?",
+        "answer": "Yes, limited supply and steady demand make Civil Lines a strong option for long-term investment."
+      },
+      {
+        "question": "Can I get a home loan for a house in Civil Lines?",
+        "answer": "Yes, home loans are available from leading banks for eligible properties."
+      },
+      {
+        "question": "What amenities are available near Civil Lines?",
+        "answer": "The area offers schools, hospitals, government offices, markets, parks, and daily-need services."
+      },
+      {
+        "question": "Why should I choose Deal Acres for Civil Lines properties?",
+        "answer": "Deal Acres offers verified listings, transparent pricing, and complete end-to-end buying support."
+      },
+      {
+        "question": "How can I contact experts for houses in Civil Lines Gurugram?",
+        "answer": "You can fill out the contact form on this page to connect with experienced property consultants."
+      }
+    ]
+  },
+  "contactSection": {
+    "title": "Get Expert Assistance for Buying Houses in Civil Lines Gurugram",
+    "description": [
+      "Finding the right house for sale in Civil Lines Gurugram becomes easy with professional real estate guidance.",
+      "Share your details to connect with trusted experts and explore verified housing options with confidence."
+    ],
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
+  }
+}

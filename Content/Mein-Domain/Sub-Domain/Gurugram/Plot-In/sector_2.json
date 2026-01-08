@@ -1,6 +1,5 @@
 {
   "domain": "plot.com",
-
   "hero": {
     "title": "Prime Residential and Investment Plots in Sector 2 Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://images.unsplash.com/photo-1598928506311-c55ded91a20c?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "Plot Size Options Available in Sector 2 Gurugram",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Plot Options Near Sector 2 Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "This section highlights surrounding localities that complement Sector 2’s residential and investment appeal."
     ],
     "locations": [
-      { "title": "Plot in Sector 2 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Sector 1 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Palam Vihar Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Sector 3 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot near Old Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot near Delhi Gurugram Border", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in North Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Residential Plots in Gurugram", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Buyers Trust Deal Acres for Plots in Sector 2 Gurugram",
     "description": [
@@ -116,7 +154,6 @@
       }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Plots in Sector 2 Gurugram",
     "description": "User-friendly answers to common questions to help buyers make informed decisions.",
@@ -163,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Guidance for Buying Plots in Sector 2 Gurugram",
     "description": [
       "Finding the right Plot in Sector 2 Gurugram becomes easier with professional guidance and verified listings.",
       "Share your details to connect with trusted real estate experts who will help you explore suitable plots, compare options, and make a confident decision aligned with your budget and long-term goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

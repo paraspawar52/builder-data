@@ -61,14 +61,56 @@
       "These surrounding locations enhance rental flexibility and make Sector 118 a well-connected residential choice."
     ],
     "locations": [
-      { "title": "House for Rent in Sector 118 Noida", "path": "/", "icon": "Landmark" },
-      { "title": "House for Rent in Sector 117 Noida", "path": "/", "icon": "Landmark" },
-      { "title": "House for Rent in Sector 119 Noida", "path": "/", "icon": "Landmark" },
-      { "title": "House for Rent in Sector 120 Noida", "path": "/", "icon": "Landmark" },
-      { "title": "Independent Houses near Noida Expressway", "path": "/", "icon": "Landmark" },
-      { "title": "Family Houses in Central Noida", "path": "/", "icon": "Landmark" },
-      { "title": "Rental Houses near Schools and Hospitals", "path": "/", "icon": "Landmark" },
-      { "title": "Residential Houses near Commercial Areas", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -164,6 +206,11 @@
       "Finding the right house for rent in Sector 118 Noida becomes simple with professional support.",
       "Share your details and rental requirements to get personalized assistance and access to verified rental properties."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

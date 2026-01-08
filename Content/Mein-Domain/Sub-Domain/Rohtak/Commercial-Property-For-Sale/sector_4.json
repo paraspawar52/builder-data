@@ -61,14 +61,56 @@
       "These surrounding locations further strengthen Sector 4’s commercial importance."
     ],
     "locations": [
-      { "title": "Commercial Property for Sale in Sector 4 Rohtak", "path": "/", "icon": "Building" },
-      { "title": "Commercial Property for Sale in Sector 3 Rohtak", "path": "/", "icon": "Building" },
-      { "title": "Commercial Property for Sale in Sector 1 Rohtak", "path": "/", "icon": "Building" },
-      { "title": "Shops for Sale in Central Rohtak", "path": "/", "icon": "Building" },
-      { "title": "Office Space for Sale in Rohtak", "path": "/", "icon": "Building" },
-      { "title": "Retail Commercial Properties in Rohtak", "path": "/", "icon": "Building" },
-      { "title": "SCO Plots in Rohtak", "path": "/", "icon": "Building" },
-      { "title": "Commercial Investment Properties in Rohtak", "path": "/", "icon": "Building" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -164,6 +206,12 @@
       "Finding the right commercial property for sale in Sector 4 Rohtak becomes easier with expert guidance.",
       "Share your business or investment requirements through the form and connect with trusted commercial property consultants."
     ],
-    "formFields": ["name", "phone", "email", "budget", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "budget",
+      "message"
+    ]
   }
 }

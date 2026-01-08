@@ -1,6 +1,5 @@
 {
   "domain": "Affordablehouseforsalecom",
-
   "hero": {
     "title": "Affordable Independent Houses for Sale in Sector 23 Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://images.unsplash.com/photo-1592595896616-c37162298647?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "Affordable House Size Options Available in Sector 23 Gurugram",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Affordable Houses Near Sector 23 Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "These surrounding areas enhance the overall residential and investment appeal."
     ],
     "locations": [
-      { "title": "Affordable House for Sale in Sector 23 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Affordable House for Sale in Palam Vihar Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Affordable House for Sale in Sector 22 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Affordable House for Sale in Sector 21 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Affordable House near MG Road Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Affordable House near Udyog Vihar", "path": "/", "icon": "Landmark" },
-      { "title": "Independent Houses in West Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Budget Independent Homes in Gurugram", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Buyers Trust Deal Acres for Affordable Houses in Sector 23",
     "description": [
@@ -116,7 +154,6 @@
       }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Affordable Houses in Sector 23 Gurugram",
     "description": "Common buyer questions answered clearly to help with confident decision-making.",
@@ -163,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Help for Affordable Houses in Sector 23 Gurugram",
     "description": [
       "Finding the right affordable house for sale in Sector 23 Gurugram is easier with professional guidance.",
       "Share your details to connect with trusted real estate experts and explore verified housing options confidently."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

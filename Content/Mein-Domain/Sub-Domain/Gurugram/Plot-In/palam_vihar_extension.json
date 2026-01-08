@@ -1,6 +1,5 @@
 {
   "domain": "plot.com",
-
   "hero": {
     "title": "Residential and Investment Plots in Palam Vihar Extension Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://images.unsplash.com/photo-1597047084897-51e81819a499?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "Plot Size Options Available in Palam Vihar Extension Gurugram",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Nearby Plot Locations Around Palam Vihar Extension",
     "description": [
@@ -64,17 +61,58 @@
       "These surrounding areas offer similar residential advantages and connectivity."
     ],
     "locations": [
-      { "title": "Plot in Palam Vihar Extension Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Palam Vihar Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Sector 23 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Sector 21 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot near Dwarka Expressway", "path": "/", "icon": "Landmark" },
-      { "title": "Plot near NH-48 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Udyog Vihar", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in New Gurugram", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Buyers Trust Deal Acres for Plots in Palam Vihar Extension",
     "description": [
@@ -116,7 +154,6 @@
       }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Plots in Palam Vihar Extension",
     "description": "Answers to common buyer questions related to plot purchase in Palam Vihar Extension Gurugram.",
@@ -163,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Guidance for Buying Plots in Palam Vihar Extension",
     "description": [
       "Finding the right plot in Palam Vihar Extension Gurugram becomes easier with expert guidance.",
       "Share your details to connect with trusted property professionals who will help you find verified plots that match your residential or investment goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

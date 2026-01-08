@@ -61,14 +61,56 @@
       "These surrounding localities also offer strong residential demand and excellent connectivity."
     ],
     "locations": [
-      { "title": "Plot for Sale in Housing Board Colony Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Plot for Sale in Sector 14 Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Plot for Sale in Sector 15 Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Plot for Sale in Sector 12 Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Residential Plots in Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Plots near NH-44 Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Investment Plots in Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Best Plot Locations in Sonipat", "path": "/", "icon": "Map" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -164,6 +206,13 @@
       "Finding the right plot for sale in Housing Board Colony Sonipat becomes easy with expert guidance from Deal Acres.",
       "Share your requirements to receive verified listings, market insights, and complete buying support."
     ],
-    "formFields": ["name", "phone", "email", "budget", "plotSize", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "budget",
+      "plotSize",
+      "message"
+    ]
   }
 }

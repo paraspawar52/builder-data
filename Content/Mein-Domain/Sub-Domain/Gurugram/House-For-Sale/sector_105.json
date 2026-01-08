@@ -1,6 +1,5 @@
 {
   "domain": "Houseforsale.com",
-
   "hero": {
     "title": "Independent Houses for Sale in Sector 105 Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "House for Sale Options by Plot Size in Sector 105 Gurugram",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Houses for Sale Near Sector 105 Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "This section helps users easily discover nearby residential locations and make well-informed property decisions."
     ],
     "locations": [
-      { "title": "House for Sale in Sector 105 Gurugram", "path": "/", "icon": "Home" },
-      { "title": "House for Sale in Sector 104 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale in Sector 106 Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Sector 103 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "House for Sale near Dwarka Expressway", "path": "/", "icon": "Home" },
-      { "title": "House for Sale in Sector 102 Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Palam Vihar", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale near Delhi Border", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Homebuyers Trust Deal Acres for Sector 105 Houses",
     "description": [
@@ -82,17 +120,40 @@
       "With strong local market knowledge and a buyer-first approach, Deal Acres has become a preferred platform for finding independent houses in Sector 105 Gurugram."
     ],
     "points": [
-      { "title": "Verified House Listings", "description": "All properties are verified to ensure ownership clarity and authenticity." },
-      { "title": "Transparent Pricing Insights", "description": "Pricing reflects current market trends without hidden surprises." },
-      { "title": "Local Area Expertise", "description": "In-depth knowledge of Sector 105 and surrounding locations." },
-      { "title": "Easy-to-Use Platform", "description": "Simple and user-friendly property search experience." },
-      { "title": "Buyer-Focused Listings", "description": "Recommendations aligned with buyer needs and budgets." },
-      { "title": "Documentation Guidance", "description": "Support for understanding essential legal documentation." },
-      { "title": "End-to-End Support", "description": "Assistance available from property search to final purchase." },
-      { "title": "Trusted Property Platform", "description": "Strong reputation built on transparency and customer satisfaction." }
+      {
+        "title": "Verified House Listings",
+        "description": "All properties are verified to ensure ownership clarity and authenticity."
+      },
+      {
+        "title": "Transparent Pricing Insights",
+        "description": "Pricing reflects current market trends without hidden surprises."
+      },
+      {
+        "title": "Local Area Expertise",
+        "description": "In-depth knowledge of Sector 105 and surrounding locations."
+      },
+      {
+        "title": "Easy-to-Use Platform",
+        "description": "Simple and user-friendly property search experience."
+      },
+      {
+        "title": "Buyer-Focused Listings",
+        "description": "Recommendations aligned with buyer needs and budgets."
+      },
+      {
+        "title": "Documentation Guidance",
+        "description": "Support for understanding essential legal documentation."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Assistance available from property search to final purchase."
+      },
+      {
+        "title": "Trusted Property Platform",
+        "description": "Strong reputation built on transparency and customer satisfaction."
+      }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Houses in Sector 105 Gurugram",
     "description": "Common buyer questions related to house for sale in Sector 105 Gurugram.",
@@ -139,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Help for House for Sale in Sector 105 Gurugram",
     "description": [
       "Buying a house for sale in Sector 105 Gurugram is a significant investment, and expert assistance can help you make the right decision.",
       "Share your details to connect with trusted property experts who will help you find the right home based on your budget, preferences, and long-term goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

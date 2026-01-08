@@ -61,14 +61,56 @@
       "The surrounding areas add to Sector 119’s appeal as a growing residential hub in Noida."
     ],
     "locations": [
-      { "title": "House for Rent in Sector 119 Noida", "path": "/", "icon": "Landmark" },
-      { "title": "House for Rent in Sector 120 Noida", "path": "/", "icon": "Landmark" },
-      { "title": "House for Rent in Sector 118 Noida", "path": "/", "icon": "Landmark" },
-      { "title": "House for Rent near Noida Expressway", "path": "/", "icon": "Landmark" },
-      { "title": "Independent Houses in Central Noida", "path": "/", "icon": "Landmark" },
-      { "title": "Family Houses near Schools and Hospitals", "path": "/", "icon": "Landmark" },
-      { "title": "Rental Houses near Commercial Zones", "path": "/", "icon": "Landmark" },
-      { "title": "Residential Houses in Developing Sectors", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -164,6 +206,11 @@
       "Finding the right house for rent in Sector 119 Noida becomes easier with expert assistance.",
       "Share your contact details and rental preferences to connect with trusted professionals and explore verified rental options with confidence."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

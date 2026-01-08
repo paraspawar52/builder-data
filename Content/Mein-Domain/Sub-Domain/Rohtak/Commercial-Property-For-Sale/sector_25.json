@@ -61,14 +61,56 @@
       "These surrounding areas further enhance the commercial significance of Sector 25."
     ],
     "locations": [
-      { "title": "Commercial Property for Sale in Sector 25 Rohtak", "path": "/", "icon": "Building" },
-      { "title": "Commercial Property for Sale in Sector 26 Rohtak", "path": "/", "icon": "Building" },
-      { "title": "Commercial Property for Sale in Sector 24 Rohtak", "path": "/", "icon": "Building" },
-      { "title": "Commercial Property in Central Rohtak", "path": "/", "icon": "Building" },
-      { "title": "Retail Shops for Sale in Rohtak", "path": "/", "icon": "Building" },
-      { "title": "Office Spaces for Sale in Rohtak", "path": "/", "icon": "Building" },
-      { "title": "Warehouse Properties Near Rohtak", "path": "/", "icon": "Building" },
-      { "title": "Investment Commercial Properties in Rohtak", "path": "/", "icon": "Building" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -164,6 +206,12 @@
       "Finding the right commercial property for sale in Sector 25 Rohtak becomes easier with professional guidance.",
       "Share your requirements through the form and connect with trusted commercial property experts today."
     ],
-    "formFields": ["name", "phone", "email", "budget", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "budget",
+      "message"
+    ]
   }
 }

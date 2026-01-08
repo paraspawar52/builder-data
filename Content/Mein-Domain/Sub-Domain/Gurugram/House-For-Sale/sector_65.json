@@ -1,6 +1,5 @@
 {
   "domain": "Houseforsale.com",
-
   "hero": {
     "title": "Premium Independent Houses for Sale in Sector 65 Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "House for Sale Options by Plot Size in Sector 65 Gurugram",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Houses for Sale Near Sector 65 Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "This section helps users discover surrounding residential locations and make informed property decisions."
     ],
     "locations": [
-      { "title": "House for Sale in Sector 65 Gurugram", "path": "/", "icon": "Home" },
-      { "title": "House for Sale in Sector 66 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale in Sector 67 Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Sector 63 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "House for Sale near Golf Course Extension Road", "path": "/", "icon": "Home" },
-      { "title": "House for Sale in Sector 62 Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Sector 64 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale in Badshahpur Gurugram", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Homebuyers Trust Deal Acres for Sector 65 Houses",
     "description": [
@@ -82,17 +120,40 @@
       "With a customer-first approach and strong expertise in Gurugram’s real estate market, Deal Acres is a preferred choice for serious homebuyers."
     ],
     "points": [
-      { "title": "Verified House Listings", "description": "Every property is verified to ensure authenticity and ownership clarity." },
-      { "title": "Transparent Pricing", "description": "Prices are aligned with current market trends and locality insights." },
-      { "title": "Local Market Expertise", "description": "In-depth understanding of Sector 65 and nearby areas." },
-      { "title": "Easy Property Search", "description": "User-friendly platform for smooth and quick navigation." },
-      { "title": "Buyer-Centric Guidance", "description": "Property suggestions based on buyer needs and budget." },
-      { "title": "Documentation Support", "description": "Basic assistance with legal and ownership documentation." },
-      { "title": "End-to-End Assistance", "description": "Support from property shortlisting to final purchase." },
-      { "title": "Trusted by Buyers", "description": "Strong reputation built on transparency and service quality." }
+      {
+        "title": "Verified House Listings",
+        "description": "Every property is verified to ensure authenticity and ownership clarity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Prices are aligned with current market trends and locality insights."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "In-depth understanding of Sector 65 and nearby areas."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "User-friendly platform for smooth and quick navigation."
+      },
+      {
+        "title": "Buyer-Centric Guidance",
+        "description": "Property suggestions based on buyer needs and budget."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Basic assistance with legal and ownership documentation."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from property shortlisting to final purchase."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Strong reputation built on transparency and service quality."
+      }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Houses in Sector 65 Gurugram",
     "description": "Common buyer questions related to house for sale in Sector 65 Gurugram.",
@@ -139,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Help for House for Sale in Sector 65 Gurugram",
     "description": [
       "Buying a house for sale in Sector 65 Gurugram is a significant investment, and expert guidance can make the journey smooth and stress-free.",
       "Share your details to connect with trusted property experts who will help you find the right home based on your budget, preferences, and long-term goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

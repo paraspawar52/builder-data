@@ -1,6 +1,5 @@
 {
   "domain": "Houseforrent.com",
-
   "hero": {
     "title": "Affordable Independent Houses for Rent in Sector 8 Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "House for Rent Options by Plot Size in Sector 8 Gurugram",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Houses for Rent Near Sector 8 Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "This section highlights surrounding residential areas to help users make informed rental decisions."
     ],
     "locations": [
-      { "title": "House for Rent in Sector 8 Gurugram", "path": "/", "icon": "Home" },
-      { "title": "House for Rent in Sector 7 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Rent in Sector 9 Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Rent in Sector 10 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "House for Rent near Hero Honda Chowk", "path": "/", "icon": "Home" },
-      { "title": "House for Rent in Sector 5 Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Rent near NH-48", "path": "/", "icon": "Building2" },
-      { "title": "House for Rent in Old Gurugram", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Tenants Trust Deal Acres for Sector 8 Rental Houses",
     "description": [
@@ -116,7 +154,6 @@
       }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Houses for Rent in Sector 8 Gurugram",
     "description": "Common tenant questions related to house for rent in Sector 8 Gurugram.",
@@ -163,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Help for House for Rent in Sector 8 Gurugram",
     "description": [
       "Finding the right house for rent in Sector 8 Gurugram becomes simple and stress-free with professional guidance.",
       "Share your details to connect with trusted property experts who will help you find a rental home that matches your budget, preferences, and lifestyle needs."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

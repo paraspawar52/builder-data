@@ -1,6 +1,5 @@
 {
   "domain": "plot.com",
-
   "hero": {
     "title": "Prime Residential and Investment Plots in Elite Sector 53 Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "Residential Plot Options by Size in Sector 53 Gurugram",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Plot Options Near Sector 53 Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "This section highlights surrounding locations to help users make informed and confident property decisions."
     ],
     "locations": [
-      { "title": "Plot in Sector 53 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Sector 54 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Sector 52 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Sector 56 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot near Golf Course Road", "path": "/", "icon": "Landmark" },
-      { "title": "Plot near Rapid Metro", "path": "/", "icon": "Landmark" },
-      { "title": "Plot near DLF Phase 5", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Central Gurugram", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Buyers Trust Deal Acres for Plots in Sector 53 Gurugram",
     "description": [
@@ -116,7 +154,6 @@
       }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Plots in Sector 53 Gurugram",
     "description": "Common buyer questions related to plot purchase in Sector 53 Gurugram.",
@@ -163,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Guidance for Buying Plots in Sector 53 Gurugram",
     "description": [
       "Finding the right plot in Sector 53 Gurugram becomes simple with expert assistance.",
       "Share your details to connect with trusted property professionals who will help you find verified plots matching your budget and long-term goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

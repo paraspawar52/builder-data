@@ -61,14 +61,56 @@
       "These locations enhance the overall appeal of renting a house in this part of Noida."
     ],
     "locations": [
-      { "title": "House for Rent in Sector 74 Noida", "path": "/", "icon": "Landmark" },
-      { "title": "House for Rent in Sector 75 Noida", "path": "/", "icon": "Landmark" },
-      { "title": "House for Rent in Sector 76 Noida", "path": "/", "icon": "Landmark" },
-      { "title": "House for Rent in Sector 73 Noida", "path": "/", "icon": "Landmark" },
-      { "title": "Independent Houses near Noida Expressway", "path": "/", "icon": "Landmark" },
-      { "title": "Family Houses in Central Noida", "path": "/", "icon": "Landmark" },
-      { "title": "Rental Houses near IT Offices Noida", "path": "/", "icon": "Landmark" },
-      { "title": "Residential Houses in Developed Noida Sectors", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -164,6 +206,11 @@
       "Looking for the right house for rent in Sector 74 Noida? Our experts are here to help.",
       "Share your details and get personalized assistance with verified rental properties."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

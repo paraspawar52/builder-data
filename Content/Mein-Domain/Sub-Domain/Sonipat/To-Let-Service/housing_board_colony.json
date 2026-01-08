@@ -61,14 +61,56 @@
       "These areas also offer strong residential demand and good connectivity."
     ],
     "locations": [
-      { "title": "To Let Service in Housing Board Colony Sonipat", "path": "/", "icon": "Map" },
-      { "title": "To Let Service in Sector 14 Sonipat", "path": "/", "icon": "Map" },
-      { "title": "To Let Service in Sector 15 Sonipat", "path": "/", "icon": "Map" },
-      { "title": "To Let Service in Sector 12 Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Rental Homes in Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Independent Houses on Rent in Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Residential Rentals in Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Best Localities for Renting in Sonipat", "path": "/", "icon": "Map" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -164,6 +206,13 @@
       "Finding the right To let service in Housing Board Colony Sonipat is easy with Deal Acres.",
       "Share your requirements to receive verified rental options, local insights, and complete support."
     ],
-    "formFields": ["name", "phone", "email", "budget", "propertySize", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "budget",
+      "propertySize",
+      "message"
+    ]
   }
 }

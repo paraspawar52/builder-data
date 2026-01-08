@@ -1,6 +1,5 @@
 {
   "domain": "plot.com",
-
   "hero": {
     "title": "Residential and Investment Plots in Well Established Sector 7 Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://plus.unsplash.com/premium_photo-1661954372617-15780178eb2e?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "Plot Options by Size in Sector 7 Gurugram",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Nearby Plot Locations Around Sector 7 Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "This section highlights surrounding areas to help users make informed decisions."
     ],
     "locations": [
-      { "title": "Plot in Sector 7 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Sector 9 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Sector 10 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Sector 4 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot near Old Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Plot near Hero Honda Chowk", "path": "/", "icon": "Landmark" },
-      { "title": "Plot near NH-48", "path": "/", "icon": "Landmark" },
-      { "title": "Plot in Central Gurugram", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Buyers Trust Deal Acres for Plots in Sector 7 Gurugram",
     "description": [
@@ -116,7 +154,6 @@
       }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Plots in Sector 7 Gurugram",
     "description": "Common questions buyers ask before purchasing plots in Sector 7 Gurugram.",
@@ -163,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Guidance for Buying Plots in Sector 7 Gurugram",
     "description": [
       "Buying the right plot in Sector 7 Gurugram becomes easier with expert guidance and verified options.",
       "Share your details to connect with trusted professionals who will help you find plots that match your requirements and investment goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

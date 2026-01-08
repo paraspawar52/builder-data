@@ -1,6 +1,5 @@
 {
   "domain": "Houseforsale.com",
-
   "hero": {
     "title": "Premium Independent Houses for Sale in DLF Phase 2 Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "House for Sale Options by Plot Size in DLF Phase 2 Gurugram",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Houses for Sale Near DLF Phase 2 Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "This section helps users easily discover surrounding residential areas and make well-informed property decisions."
     ],
     "locations": [
-      { "title": "House for Sale in DLF Phase 2 Gurugram", "path": "/", "icon": "Home" },
-      { "title": "House for Sale in DLF Phase 1 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale in DLF Phase 3 Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in DLF Phase 4 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "House for Sale near MG Road Gurugram", "path": "/", "icon": "Home" },
-      { "title": "House for Sale in Sushant Lok Phase 1", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Sector 25 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale near Cyber City Gurugram", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Homebuyers Trust Deal Acres for DLF Phase 2 Houses",
     "description": [
@@ -82,17 +120,40 @@
       "With in-depth knowledge of premium Gurugram localities and a buyer-first approach, Deal Acres has become a trusted choice for luxury homebuyers."
     ],
     "points": [
-      { "title": "Verified House Listings", "description": "All properties are verified to ensure authenticity and ownership clarity." },
-      { "title": "Transparent Pricing", "description": "Pricing is aligned with real market trends and conditions." },
-      { "title": "Premium Locality Expertise", "description": "Strong understanding of DLF Phase 2 and nearby sectors." },
-      { "title": "Easy-to-Use Platform", "description": "Simple and intuitive property search experience." },
-      { "title": "Buyer-Centric Recommendations", "description": "Property suggestions based on buyer needs and preferences." },
-      { "title": "Documentation Guidance", "description": "Basic assistance with legal and ownership documentation." },
-      { "title": "End-to-End Support", "description": "Support available from property search to final purchase." },
-      { "title": "Trusted Brand Reputation", "description": "Widely trusted for transparency, reliability, and service quality." }
+      {
+        "title": "Verified House Listings",
+        "description": "All properties are verified to ensure authenticity and ownership clarity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Pricing is aligned with real market trends and conditions."
+      },
+      {
+        "title": "Premium Locality Expertise",
+        "description": "Strong understanding of DLF Phase 2 and nearby sectors."
+      },
+      {
+        "title": "Easy-to-Use Platform",
+        "description": "Simple and intuitive property search experience."
+      },
+      {
+        "title": "Buyer-Centric Recommendations",
+        "description": "Property suggestions based on buyer needs and preferences."
+      },
+      {
+        "title": "Documentation Guidance",
+        "description": "Basic assistance with legal and ownership documentation."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Support available from property search to final purchase."
+      },
+      {
+        "title": "Trusted Brand Reputation",
+        "description": "Widely trusted for transparency, reliability, and service quality."
+      }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Houses in DLF Phase 2 Gurugram",
     "description": "Common buyer questions related to house for sale in DLF Phase 2 Gurugram.",
@@ -139,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Help for House for Sale in DLF Phase 2 Gurugram",
     "description": [
       "Buying a house for sale in DLF Phase 2 Gurugram is a major investment, and professional guidance can help you make the right decision with confidence.",
       "Share your details to connect with trusted property experts who will assist you in finding the ideal home based on your budget, lifestyle, and long-term goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

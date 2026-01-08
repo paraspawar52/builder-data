@@ -1,6 +1,5 @@
 {
   "domain": "Houseforsale.com",
-
   "hero": {
     "title": "Independent Houses for Sale in Sadar Bazar Gurugram Area",
     "description": [
@@ -22,7 +21,6 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "House for Sale Options by Plot Size in Sadar Bazar Gurugram",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Houses for Sale Near Sadar Bazar Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "This section helps users easily discover surrounding locations and make informed choices."
     ],
     "locations": [
-      { "title": "House for Sale in Sadar Bazar Gurugram", "path": "/", "icon": "Home" },
-      { "title": "House for Sale in Sector 5 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale in Sector 4 Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Palam Vihar", "path": "/", "icon": "Landmark" },
-      { "title": "House for Sale in Sector 9 Gurugram", "path": "/", "icon": "Home" },
-      { "title": "House for Sale near Railway Road", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Sector 10 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale in Old Gurugram", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Homebuyers Trust Deal Acres for Sadar Bazar Houses",
     "description": [
@@ -82,17 +120,40 @@
       "With a customer-first approach and strong local expertise, Deal Acres has earned the trust of buyers looking for independent houses in Gurugram."
     ],
     "points": [
-      { "title": "Verified Property Listings", "description": "All house listings are checked for authenticity and ownership clarity." },
-      { "title": "Transparent Pricing", "description": "Pricing reflects current market trends without hidden costs." },
-      { "title": "Local Area Expertise", "description": "Strong knowledge of Sadar Bazar and nearby localities." },
-      { "title": "Easy Search Experience", "description": "User-friendly platform designed for smooth property browsing." },
-      { "title": "Buyer-Focused Recommendations", "description": "Property suggestions based on budget and requirements." },
-      { "title": "Documentation Guidance", "description": "Support for understanding basic legal and ownership documents." },
-      { "title": "End-to-End Assistance", "description": "Help available from search to final deal closure." },
-      { "title": "Trusted by Buyers", "description": "Built reputation through transparency and service quality." }
+      {
+        "title": "Verified Property Listings",
+        "description": "All house listings are checked for authenticity and ownership clarity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Pricing reflects current market trends without hidden costs."
+      },
+      {
+        "title": "Local Area Expertise",
+        "description": "Strong knowledge of Sadar Bazar and nearby localities."
+      },
+      {
+        "title": "Easy Search Experience",
+        "description": "User-friendly platform designed for smooth property browsing."
+      },
+      {
+        "title": "Buyer-Focused Recommendations",
+        "description": "Property suggestions based on budget and requirements."
+      },
+      {
+        "title": "Documentation Guidance",
+        "description": "Support for understanding basic legal and ownership documents."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Help available from search to final deal closure."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Built reputation through transparency and service quality."
+      }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Houses in Sadar Bazar Gurugram",
     "description": "Common questions buyers ask before purchasing a house for sale in Sadar Bazar Gurugram.",
@@ -139,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Help for House for Sale in Sadar Bazar Gurugram",
     "description": [
       "Buying a house for sale in Sadar Bazar Gurugram is a significant decision, and expert guidance can simplify the process.",
       "Share your details to connect with trusted property experts who will help you find the right home based on your needs and budget."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

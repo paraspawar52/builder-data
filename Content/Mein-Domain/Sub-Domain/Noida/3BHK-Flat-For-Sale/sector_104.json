@@ -61,14 +61,56 @@
       "These surrounding areas enhance the residential appeal of Sector 104 and provide multiple housing options."
     ],
     "locations": [
-      { "title": "3BHK Flat for Sale in Sector 104 Noida", "path": "/", "icon": "Home" },
-      { "title": "3BHK Flat for Sale in Sector 100 Noida", "path": "/", "icon": "Home" },
-      { "title": "3BHK Flat for Sale in Sector 107 Noida", "path": "/", "icon": "Home" },
-      { "title": "3BHK Flat for Sale in Sector 108 Noida", "path": "/", "icon": "Home" },
-      { "title": "3BHK Flats near Noida Expressway", "path": "/", "icon": "Home" },
-      { "title": "Residential Apartments in Central Noida", "path": "/", "icon": "Home" },
-      { "title": "Ready to Move 3BHK Flats in Noida", "path": "/", "icon": "Home" },
-      { "title": "Family Apartments in Noida", "path": "/", "icon": "Home" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -164,6 +206,12 @@
       "Finding the right 3BHK flat for sale in Sector 104 Noida becomes easier with expert guidance.",
       "Share your details to receive curated property options, pricing insights, and professional support."
     ],
-    "formFields": ["name", "phone", "email", "budget", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "budget",
+      "message"
+    ]
   }
 }

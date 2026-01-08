@@ -61,14 +61,56 @@
       "These surrounding areas strengthen Sector 47’s appeal as a convenient and accessible office destination in Noida."
     ],
     "locations": [
-      { "title": "Office Space for Rent in Sector 47 Noida", "path": "/", "icon": "Building2" },
-      { "title": "Office Space for Rent in Sector 46 Noida", "path": "/", "icon": "Building2" },
-      { "title": "Office Space for Rent in Sector 49 Noida", "path": "/", "icon": "Building2" },
-      { "title": "Office Space for Rent in Sector 50 Noida", "path": "/", "icon": "Building2" },
-      { "title": "Office Space near Noida City Centre", "path": "/", "icon": "Building2" },
-      { "title": "Commercial Office Spaces in Central Noida", "path": "/", "icon": "Building2" },
-      { "title": "Office Spaces near Metro Stations Noida", "path": "/", "icon": "Building2" },
-      { "title": "Corporate Office Spaces in Noida", "path": "/", "icon": "Building2" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -164,6 +206,12 @@
       "Finding the right office space for rent in Sector 47 Noida becomes easier with professional guidance and verified listings.",
       "Share your contact details and office requirements to connect with experienced commercial real estate experts at Deal Acres."
     ],
-    "formFields": ["name", "phone", "email", "company", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "company",
+      "message"
+    ]
   }
 }

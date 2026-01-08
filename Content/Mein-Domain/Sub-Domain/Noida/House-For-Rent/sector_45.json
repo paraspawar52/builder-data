@@ -61,14 +61,56 @@
       "These surrounding areas further strengthen Sector 45’s appeal as a centrally located and well-connected rental hub in Noida."
     ],
     "locations": [
-      { "title": "House for Rent in Sector 45 Noida", "path": "/", "icon": "Landmark" },
-      { "title": "House for Rent in Sector 44 Noida", "path": "/", "icon": "Landmark" },
-      { "title": "House for Rent in Sector 46 Noida", "path": "/", "icon": "Landmark" },
-      { "title": "House for Rent near City Centre Noida", "path": "/", "icon": "Landmark" },
-      { "title": "Independent Houses near Metro Stations Noida", "path": "/", "icon": "Landmark" },
-      { "title": "Rental Houses near Commercial Hubs Noida", "path": "/", "icon": "Landmark" },
-      { "title": "Family Houses in Central Noida", "path": "/", "icon": "Landmark" },
-      { "title": "Residential Houses near Schools and Hospitals Noida", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -164,6 +206,11 @@
       "Finding the right house for rent in Sector 45 Noida becomes easy with professional guidance.",
       "Share your contact details and rental requirements to connect with trusted experts and explore verified rental listings with confidence."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

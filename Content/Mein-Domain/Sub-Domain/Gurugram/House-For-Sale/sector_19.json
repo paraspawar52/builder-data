@@ -1,6 +1,5 @@
 {
   "domain": "Houseforsale.com",
-
   "hero": {
     "title": "Independent Residential Houses for Sale in Sector 19 Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "House for Sale Options by Plot Size in Sector 19 Gurugram",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Houses for Sale Near Sector 19 Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "This section helps users easily discover surrounding residential locations and evaluate multiple options before making a decision."
     ],
     "locations": [
-      { "title": "House for Sale in Sector 19 Gurugram", "path": "/", "icon": "Home" },
-      { "title": "House for Sale in Sector 18 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale in Sector 17 Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Sector 14 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "House for Sale near Udyog Vihar", "path": "/", "icon": "Home" },
-      { "title": "House for Sale in Palam Vihar", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Sector 21 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale near NH-48 Gurugram", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Homebuyers Trust Deal Acres for Sector 19 Houses",
     "description": [
@@ -82,17 +120,40 @@
       "With a strong customer-first approach and deep understanding of the local market, Deal Acres has become a trusted platform for independent house buyers in Gurugram."
     ],
     "points": [
-      { "title": "Verified Property Listings", "description": "All houses are verified to ensure clear ownership and authenticity." },
-      { "title": "Transparent Pricing Insights", "description": "Market-driven pricing helps buyers make informed decisions." },
-      { "title": "Local Area Expertise", "description": "Strong knowledge of Sector 19 and nearby residential areas." },
-      { "title": "Easy-to-Use Platform", "description": "Simple navigation for smooth property search and filtering." },
-      { "title": "Buyer-Centric Support", "description": "Recommendations aligned with buyer needs and preferences." },
-      { "title": "Documentation Guidance", "description": "Basic assistance with legal and ownership documentation." },
-      { "title": "End-to-End Assistance", "description": "Support from property search to final transaction." },
-      { "title": "Trusted by Homebuyers", "description": "A growing reputation built on transparency and service quality." }
+      {
+        "title": "Verified Property Listings",
+        "description": "All houses are verified to ensure clear ownership and authenticity."
+      },
+      {
+        "title": "Transparent Pricing Insights",
+        "description": "Market-driven pricing helps buyers make informed decisions."
+      },
+      {
+        "title": "Local Area Expertise",
+        "description": "Strong knowledge of Sector 19 and nearby residential areas."
+      },
+      {
+        "title": "Easy-to-Use Platform",
+        "description": "Simple navigation for smooth property search and filtering."
+      },
+      {
+        "title": "Buyer-Centric Support",
+        "description": "Recommendations aligned with buyer needs and preferences."
+      },
+      {
+        "title": "Documentation Guidance",
+        "description": "Basic assistance with legal and ownership documentation."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from property search to final transaction."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "A growing reputation built on transparency and service quality."
+      }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Houses in Sector 19 Gurugram",
     "description": "Common buyer questions related to house for sale in Sector 19 Gurugram.",
@@ -139,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Help for House for Sale in Sector 19 Gurugram",
     "description": [
       "Buying a house for sale in Sector 19 Gurugram is an important decision, and expert guidance can simplify the entire process.",
       "Share your details to connect with trusted property experts who will help you find the right home based on your budget, preferences, and future goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -1,6 +1,5 @@
 {
   "domain": "Houseforsale.com",
-
   "hero": {
     "title": "Premium Independent Houses for Sale in Sector 53 Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "House for Sale Options by Plot Size in Sector 53 Gurugram",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Houses for Sale Near Sector 53 Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "This section helps users easily navigate and explore surrounding residential areas near Sector 53."
     ],
     "locations": [
-      { "title": "House for Sale in Sector 53 Gurugram", "path": "/", "icon": "Home" },
-      { "title": "House for Sale in Sector 54 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale in Sector 52 Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Sector 43 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "House for Sale near Golf Course Road", "path": "/", "icon": "Home" },
-      { "title": "House for Sale in Suncity Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Sector 42 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale in DLF Phase 5", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Homebuyers Trust Deal Acres for Sector 53 Houses",
     "description": [
@@ -82,17 +120,40 @@
       "With strong market knowledge and a customer-centric approach, Deal Acres has become a trusted choice for premium house buyers in Gurugram."
     ],
     "points": [
-      { "title": "Verified House Listings", "description": "All properties are verified for authenticity and ownership clarity." },
-      { "title": "Transparent Pricing", "description": "Clear pricing insights based on real market trends." },
-      { "title": "Local Market Expertise", "description": "Deep understanding of Sector 53 and nearby premium areas." },
-      { "title": "Easy Property Search", "description": "User-friendly platform for smooth browsing experience." },
-      { "title": "Buyer-Focused Services", "description": "Property recommendations aligned with buyer needs." },
-      { "title": "Documentation Guidance", "description": "Support for basic legal and paperwork understanding." },
-      { "title": "End-to-End Support", "description": "Assistance throughout the buying journey." },
-      { "title": "Trusted by Premium Buyers", "description": "Strong reputation built on trust and service quality." }
+      {
+        "title": "Verified House Listings",
+        "description": "All properties are verified for authenticity and ownership clarity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing insights based on real market trends."
+      },
+      {
+        "title": "Local Market Expertise",
+        "description": "Deep understanding of Sector 53 and nearby premium areas."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "User-friendly platform for smooth browsing experience."
+      },
+      {
+        "title": "Buyer-Focused Services",
+        "description": "Property recommendations aligned with buyer needs."
+      },
+      {
+        "title": "Documentation Guidance",
+        "description": "Support for basic legal and paperwork understanding."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Assistance throughout the buying journey."
+      },
+      {
+        "title": "Trusted by Premium Buyers",
+        "description": "Strong reputation built on trust and service quality."
+      }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Houses in Sector 53 Gurugram",
     "description": "Common buyer queries related to house for sale in Sector 53 Gurugram.",
@@ -139,14 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Help for House for Sale in Sector 53 Gurugram",
     "description": [
       "Buying a house for sale in Sector 53 Gurugram is a significant decision, and expert support helps ensure a smooth and secure process.",
       "Share your details to connect with trusted property experts who will guide you based on your budget, preferences, and long-term goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }
-s

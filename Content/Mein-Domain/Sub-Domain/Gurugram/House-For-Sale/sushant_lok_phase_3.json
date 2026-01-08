@@ -1,6 +1,5 @@
 {
   "domain": "Houseforsale.com",
-
   "hero": {
     "title": "Premium Independent Houses for Sale in Sushant Lok Phase 3 Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "House for Sale Options by Plot Size in Sushant Lok Phase 3",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Houses for Sale In and Around Sushant Lok Phase 3 Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "This section highlights surrounding areas to help users explore alternative options and make informed decisions."
     ],
     "locations": [
-      { "title": "House for Sale in Sushant Lok Phase 3 Gurugram", "path": "/", "icon": "Home" },
-      { "title": "House for Sale in Sushant Lok Phase 2 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale in Sector 56 Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Sector 57 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "House for Sale near Golf Course Extension Road", "path": "/", "icon": "Home" },
-      { "title": "House for Sale in Sector 55 Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Sector 54 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale near Sohna Road Gurugram", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Deal Acres Is the Preferred Choice for Sushant Lok Phase 3 Houses",
     "description": [
@@ -116,7 +154,6 @@
       }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About House for Sale in Sushant Lok Phase 3 Gurugram",
     "description": "Clear answers to common buyer questions for confident decision-making.",
@@ -163,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Guidance for House for Sale in Sushant Lok Phase 3 Gurugram",
     "description": [
       "Buying a house for sale in Sushant Lok Phase 3 Gurugram is a significant decision, and expert guidance helps simplify the process.",
       "Share your details to connect with trusted property professionals who will assist you based on your budget, preferences, and long-term goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

@@ -1,6 +1,5 @@
 {
   "domain": "Houseforsale.com",
-
   "hero": {
     "title": "Premium Independent Houses for Sale in Palam Vihar Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "House for Sale Options by Plot Size in Palam Vihar Gurugram",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Houses for Sale Near Palam Vihar Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "This section helps users discover nearby localities and make informed decisions while searching for the right property."
     ],
     "locations": [
-      { "title": "House for Sale in Palam Vihar Gurugram", "path": "/", "icon": "Home" },
-      { "title": "House for Sale near Dwarka Expressway", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale in Sector 23 Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Sector 22 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "House for Sale in Bijwasan Delhi", "path": "/", "icon": "Home" },
-      { "title": "House for Sale in Sector 21 Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Udyog Vihar", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale near Airport Road", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Homebuyers Trust Deal Acres for Palam Vihar Houses",
     "description": [
@@ -82,17 +120,40 @@
       "With deep local market knowledge and a customer-focused approach, Deal Acres has become a reliable choice for buyers looking for independent houses in Palam Vihar."
     ],
     "points": [
-      { "title": "Verified Property Listings", "description": "Each house listing is checked for ownership authenticity and legal clarity." },
-      { "title": "Transparent Market Pricing", "description": "Pricing insights reflect current market trends without hidden charges." },
-      { "title": "Strong Local Expertise", "description": "In-depth understanding of Palam Vihar and nearby localities." },
-      { "title": "Easy Property Discovery", "description": "User-friendly platform for smooth and quick property search." },
-      { "title": "Buyer-Focused Recommendations", "description": "Listings aligned with buyer budget, preferences, and goals." },
-      { "title": "Documentation Guidance", "description": "Support for understanding basic legal and ownership paperwork." },
-      { "title": "Complete Buying Assistance", "description": "Guidance available from property search to final deal closure." },
-      { "title": "Trusted by Thousands", "description": "Strong reputation built on transparency, service quality, and results." }
+      {
+        "title": "Verified Property Listings",
+        "description": "Each house listing is checked for ownership authenticity and legal clarity."
+      },
+      {
+        "title": "Transparent Market Pricing",
+        "description": "Pricing insights reflect current market trends without hidden charges."
+      },
+      {
+        "title": "Strong Local Expertise",
+        "description": "In-depth understanding of Palam Vihar and nearby localities."
+      },
+      {
+        "title": "Easy Property Discovery",
+        "description": "User-friendly platform for smooth and quick property search."
+      },
+      {
+        "title": "Buyer-Focused Recommendations",
+        "description": "Listings aligned with buyer budget, preferences, and goals."
+      },
+      {
+        "title": "Documentation Guidance",
+        "description": "Support for understanding basic legal and ownership paperwork."
+      },
+      {
+        "title": "Complete Buying Assistance",
+        "description": "Guidance available from property search to final deal closure."
+      },
+      {
+        "title": "Trusted by Thousands",
+        "description": "Strong reputation built on transparency, service quality, and results."
+      }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Houses in Palam Vihar Gurugram",
     "description": "Common buyer queries related to house for sale in Palam Vihar Gurugram.",
@@ -139,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Help for House for Sale in Palam Vihar Gurugram",
     "description": [
       "Buying a house for sale in Palam Vihar Gurugram is a significant decision, and expert guidance can help you avoid mistakes and save time.",
       "Share your details to connect with trusted property professionals who will assist you in finding the right home based on your budget, preferences, and long-term plans."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

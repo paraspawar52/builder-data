@@ -61,14 +61,56 @@
       "These surrounding areas further strengthen the residential appeal of central Noida."
     ],
     "locations": [
-      { "title": "3BHK Flat for Sale in Sector 15A Noida", "path": "/", "icon": "Home" },
-      { "title": "3BHK Flat for Sale in Sector 15 Noida", "path": "/", "icon": "Home" },
-      { "title": "3BHK Flat for Sale in Sector 16 Noida", "path": "/", "icon": "Home" },
-      { "title": "3BHK Flat near Delhi Border Noida", "path": "/", "icon": "Home" },
-      { "title": "Premium Residential Flats in Central Noida", "path": "/", "icon": "Home" },
-      { "title": "Ready to Move 3BHK Flats in Noida", "path": "/", "icon": "Home" },
-      { "title": "Family Apartments near Metro Noida", "path": "/", "icon": "Home" },
-      { "title": "Luxury Homes in Established Noida Sectors", "path": "/", "icon": "Home" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -164,6 +206,12 @@
       "Finding the right 3BHK flat for sale in Sector 15A Noida becomes easy with professional assistance.",
       "Share your contact details and requirements to receive verified listings and personalized buying support."
     ],
-    "formFields": ["name", "phone", "email", "budget", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "budget",
+      "message"
+    ]
   }
 }

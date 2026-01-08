@@ -61,14 +61,56 @@
       "The surrounding localities further enhance the residential appeal of Sector 55."
     ],
     "locations": [
-      { "title": "House for Rent in Sector 55 Noida", "path": "/", "icon": "Landmark" },
-      { "title": "House for Rent in Sector 56 Noida", "path": "/", "icon": "Landmark" },
-      { "title": "House for Rent in Sector 54 Noida", "path": "/", "icon": "Landmark" },
-      { "title": "Independent Houses near Metro Stations Noida", "path": "/", "icon": "Landmark" },
-      { "title": "Family Houses in Central Noida", "path": "/", "icon": "Landmark" },
-      { "title": "Rental Houses near Schools Noida", "path": "/", "icon": "Landmark" },
-      { "title": "Houses near Hospitals in Noida", "path": "/", "icon": "Landmark" },
-      { "title": "Residential Houses near Commercial Hubs Noida", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -164,6 +206,11 @@
       "Finding the right house for rent in Sector 55 Noida is simple with expert support.",
       "Share your contact details and rental requirements to connect with trusted professionals and explore verified rental options confidently."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

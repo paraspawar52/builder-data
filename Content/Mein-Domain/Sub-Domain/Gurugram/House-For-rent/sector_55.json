@@ -1,6 +1,5 @@
 {
   "domain": "Houseforrent.com",
-
   "hero": {
     "title": "Spacious Independent Houses for Rent in Sector 55 Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "House for Rent Options by Plot Size in Sector 55 Gurugram",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Houses for Rent Near Sector 55 Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "This section helps users discover surrounding areas and choose the best location based on lifestyle preferences."
     ],
     "locations": [
-      { "title": "House for Rent in Sector 55 Gurugram", "path": "/", "icon": "Home" },
-      { "title": "House for Rent in Sector 54 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Rent in Sector 56 Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Rent in Sector 53 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "House for Rent near Golf Course Road", "path": "/", "icon": "Home" },
-      { "title": "House for Rent near Rapid Metro", "path": "/", "icon": "Building" },
-      { "title": "House for Rent in Sushant Lok Phase 2", "path": "/", "icon": "Building2" },
-      { "title": "House for Rent in Sector 57 Gurugram", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Tenants Trust Deal Acres for Sector 55 Rental Houses",
     "description": [
@@ -116,7 +154,6 @@
       }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Houses for Rent in Sector 55 Gurugram",
     "description": "Common tenant questions related to house for rent in Sector 55 Gurugram.",
@@ -163,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Help for House for Rent in Sector 55 Gurugram",
     "description": [
       "Finding the right house for rent in Sector 55 Gurugram becomes easy and stress-free with professional assistance.",
       "Share your details to connect with trusted property experts who will help you find a rental home that matches your budget, preferences, and lifestyle needs."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

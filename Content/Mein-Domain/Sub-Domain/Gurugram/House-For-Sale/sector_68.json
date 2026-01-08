@@ -1,6 +1,5 @@
 {
   "domain": "Houseforsale.com",
-
   "hero": {
     "title": "Independent Houses for Sale in Sector 68 Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "House for Sale Options by Plot Size in Sector 68 Gurugram",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Houses for Sale Near Sector 68 Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "This section helps users discover surrounding residential locations and evaluate multiple options before making a final decision."
     ],
     "locations": [
-      { "title": "House for Sale in Sector 68 Gurugram", "path": "/", "icon": "Home" },
-      { "title": "House for Sale in Sector 67 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale in Sector 69 Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Sector 66 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "House for Sale near Sohna Road", "path": "/", "icon": "Home" },
-      { "title": "House for Sale near SPR Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Sector 65 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale in Sector 70 Gurugram", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Homebuyers Trust Deal Acres for Sector 68 Houses",
     "description": [
@@ -82,17 +120,40 @@
       "With strong local expertise and a buyer-first approach, Deal Acres has become a trusted platform for people looking to purchase independent houses in developing and high-potential areas of Gurugram."
     ],
     "points": [
-      { "title": "Verified House Listings", "description": "All listings are verified for ownership clarity and authenticity." },
-      { "title": "Transparent Pricing", "description": "Pricing insights reflect real market conditions and trends." },
-      { "title": "Local Area Expertise", "description": "Strong understanding of Sector 68 and surrounding localities." },
-      { "title": "Easy-to-Use Platform", "description": "Simple and intuitive search experience for buyers." },
-      { "title": "Buyer-Focused Recommendations", "description": "Property options aligned with budget and lifestyle needs." },
-      { "title": "Documentation Guidance", "description": "Basic assistance with legal and ownership documentation." },
-      { "title": "End-to-End Support", "description": "Help available from property search to final purchase." },
-      { "title": "Trusted by Homebuyers", "description": "A reputation built on transparency, reliability, and service quality." }
+      {
+        "title": "Verified House Listings",
+        "description": "All listings are verified for ownership clarity and authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Pricing insights reflect real market conditions and trends."
+      },
+      {
+        "title": "Local Area Expertise",
+        "description": "Strong understanding of Sector 68 and surrounding localities."
+      },
+      {
+        "title": "Easy-to-Use Platform",
+        "description": "Simple and intuitive search experience for buyers."
+      },
+      {
+        "title": "Buyer-Focused Recommendations",
+        "description": "Property options aligned with budget and lifestyle needs."
+      },
+      {
+        "title": "Documentation Guidance",
+        "description": "Basic assistance with legal and ownership documentation."
+      },
+      {
+        "title": "End-to-End Support",
+        "description": "Help available from property search to final purchase."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "A reputation built on transparency, reliability, and service quality."
+      }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Houses in Sector 68 Gurugram",
     "description": "Common buyer questions related to house for sale in Sector 68 Gurugram.",
@@ -139,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Help for House for Sale in Sector 68 Gurugram",
     "description": [
       "Buying a house for sale in Sector 68 Gurugram is an important investment, and professional guidance can simplify the process.",
       "Share your details to connect with trusted property experts who will help you find the right home based on your budget, preferences, and long-term goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

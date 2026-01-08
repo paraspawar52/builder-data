@@ -61,14 +61,56 @@
       "These surrounding localities also offer good residential infrastructure and connectivity."
     ],
     "locations": [
-      { "title": "Flats for Rent in Sector 15 Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Flats for Rent in Sector 14 Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Flats for Rent in Sector 18 Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Flats for Rent in Sector 19 Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Residential Flats for Rent in Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Affordable Flats for Rent in Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Best Areas to Rent Flats in Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Premium Rental Flats in Sonipat", "path": "/", "icon": "Map" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -164,6 +206,13 @@
       "Finding the right flat for rent in Sector 15 Sonipat becomes easy with expert guidance.",
       "Share your rental requirements to receive verified listings and personalized assistance from trusted professionals."
     ],
-    "formFields": ["name", "phone", "email", "budget", "flatSize", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "budget",
+      "flatSize",
+      "message"
+    ]
   }
 }

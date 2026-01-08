@@ -61,14 +61,56 @@
       "These surrounding areas further enhance Jal Vayu Vihar’s appeal as a centrally connected residential pocket."
     ],
     "locations": [
-      { "title": "3BHK Flat for Sale in Jal Vayu Vihar Noida", "path": "/", "icon": "Home" },
-      { "title": "3BHK Flat for Sale in Sector 25 Noida", "path": "/", "icon": "Home" },
-      { "title": "3BHK Flat for Sale in Sector 28 Noida", "path": "/", "icon": "Home" },
-      { "title": "3BHK Flats near Sector 18 Noida", "path": "/", "icon": "Home" },
-      { "title": "Residential Flats in Central Noida", "path": "/", "icon": "Home" },
-      { "title": "Ready to Move Flats in Noida", "path": "/", "icon": "Home" },
-      { "title": "Gated Society Flats in Noida", "path": "/", "icon": "Home" },
-      { "title": "Family Apartments near Schools and Markets", "path": "/", "icon": "Home" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -164,6 +206,12 @@
       "Finding the right 3BHK flat for sale in Jal Vayu Vihar Noida becomes simple with expert assistance.",
       "Share your contact details and requirements to connect with trusted residential property advisors."
     ],
-    "formFields": ["name", "phone", "email", "budget", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "budget",
+      "message"
+    ]
   }
 }

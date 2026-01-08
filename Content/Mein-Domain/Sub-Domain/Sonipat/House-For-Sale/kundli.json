@@ -61,14 +61,56 @@
       "These surrounding areas also offer strong residential infrastructure and connectivity."
     ],
     "locations": [
-      { "title": "House for Sale in Kundli Sonipat", "path": "/", "icon": "Map" },
-      { "title": "House for Sale in Sector 62 Sonipat", "path": "/", "icon": "Map" },
-      { "title": "House for Sale in Sector 63 Sonipat", "path": "/", "icon": "Map" },
-      { "title": "House for Sale near NH-44 Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Residential Houses in Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Independent Houses in Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Premium Houses for Sale in Sonipat", "path": "/", "icon": "Map" },
-      { "title": "Affordable Houses in Sonipat", "path": "/", "icon": "Map" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -164,6 +206,13 @@
       "Finding the right house in Kundli Sonipat becomes easy with expert guidance and verified listings.",
       "Share your requirements to receive personalized house options and professional support."
     ],
-    "formFields": ["name", "phone", "email", "budget", "houseSize", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "budget",
+      "houseSize",
+      "message"
+    ]
   }
 }

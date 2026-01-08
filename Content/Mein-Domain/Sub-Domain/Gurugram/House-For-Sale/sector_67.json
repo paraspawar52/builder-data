@@ -1,6 +1,5 @@
 {
   "domain": "Houseforsale.com",
-
   "hero": {
     "title": "Independent Houses for Sale in Well Connected Sector 67 Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "House for Sale Options by Plot Size in Sector 67 Gurugram",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Houses for Sale in and Around Sector 67 Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "This section helps users easily navigate and explore nearby areas to make informed property decisions."
     ],
     "locations": [
-      { "title": "House for Sale in Sector 67 Gurugram", "path": "/", "icon": "Home" },
-      { "title": "House for Sale in Sector 66 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale in Sector 65 Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Sector 68 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "House for Sale on Golf Course Extension Road", "path": "/", "icon": "Home" },
-      { "title": "House for Sale in Sector 69 Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Sector 70 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale near Sohna Road", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Homebuyers Trust Deal Acres for Sector 67 Houses",
     "description": [
@@ -82,17 +120,40 @@
       "With strong local expertise and a buyer-first approach, Deal Acres has become a reliable choice for families and investors in Gurugram."
     ],
     "points": [
-      { "title": "Verified House Listings", "description": "Each listing is checked to ensure authenticity and accuracy." },
-      { "title": "Transparent Pricing", "description": "Clear pricing with no misleading information." },
-      { "title": "Local Market Knowledge", "description": "Deep understanding of Sector 67 and surrounding areas." },
-      { "title": "Easy Property Search", "description": "User-friendly platform for smooth browsing." },
-      { "title": "Buyer-Focused Services", "description": "Solutions designed around real buyer requirements." },
-      { "title": "Legal Guidance Support", "description": "Basic help with documentation and legal clarity." },
-      { "title": "End-to-End Assistance", "description": "Support throughout the buying journey." },
-      { "title": "Trusted by Homebuyers", "description": "Positive feedback reflecting long-term user trust." }
+      {
+        "title": "Verified House Listings",
+        "description": "Each listing is checked to ensure authenticity and accuracy."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Clear pricing with no misleading information."
+      },
+      {
+        "title": "Local Market Knowledge",
+        "description": "Deep understanding of Sector 67 and surrounding areas."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "User-friendly platform for smooth browsing."
+      },
+      {
+        "title": "Buyer-Focused Services",
+        "description": "Solutions designed around real buyer requirements."
+      },
+      {
+        "title": "Legal Guidance Support",
+        "description": "Basic help with documentation and legal clarity."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support throughout the buying journey."
+      },
+      {
+        "title": "Trusted by Homebuyers",
+        "description": "Positive feedback reflecting long-term user trust."
+      }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Houses in Sector 67 Gurugram",
     "description": "Common questions related to house for sale in Sector 67 Gurugram.",
@@ -139,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Help for House for Sale in Sector 67 Gurugram",
     "description": [
       "Buying a house for sale in Sector 67 Gurugram is an important life decision, and expert guidance can make the process smooth and secure.",
       "Share your details to connect with trusted property experts who will help you find the right house based on your budget, preferences, and long-term goals."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

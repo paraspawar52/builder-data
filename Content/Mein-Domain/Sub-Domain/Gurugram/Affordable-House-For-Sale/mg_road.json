@@ -1,6 +1,5 @@
 {
   "domain": "Affordablehouseforsalecom",
-
   "hero": {
     "title": "Affordable Independent Houses for Sale on MG Road Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "Affordable House Size Options Available on MG Road Gurugram",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Affordable Houses Near MG Road Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "These surrounding areas further enhance the residential value of MG Road."
     ],
     "locations": [
-      { "title": "Affordable House for Sale on MG Road Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Affordable House for Sale in DLF Phase 2", "path": "/", "icon": "Landmark" },
-      { "title": "Affordable House for Sale in DLF Phase 3", "path": "/", "icon": "Landmark" },
-      { "title": "Affordable House for Sale in Sushant Lok Phase 1", "path": "/", "icon": "Landmark" },
-      { "title": "Affordable House near IFFCO Chowk", "path": "/", "icon": "Landmark" },
-      { "title": "Affordable House near Cyber City Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "Independent Houses near NH-48", "path": "/", "icon": "Landmark" },
-      { "title": "Budget Independent Homes in Central Gurugram", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Buyers Trust Deal Acres for Affordable Houses on MG Road",
     "description": [
@@ -116,7 +154,6 @@
       }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Affordable Houses on MG Road Gurugram",
     "description": "Detailed answers to common buyer questions for informed decision-making.",
@@ -163,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Help for Affordable Houses on MG Road Gurugram",
     "description": [
       "Finding the right affordable house for sale on MG Road Gurugram becomes easy with professional guidance.",
       "Share your details to connect with trusted real estate experts and explore verified housing options with confidence."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }

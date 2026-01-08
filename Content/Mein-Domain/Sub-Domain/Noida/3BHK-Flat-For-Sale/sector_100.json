@@ -61,14 +61,56 @@
       "These surrounding residential areas further enhance the appeal of Sector 100."
     ],
     "locations": [
-      { "title": "3BHK Flat for Sale in Sector 100 Noida", "path": "/", "icon": "Home" },
-      { "title": "3BHK Flat for Sale in Sector 104 Noida", "path": "/", "icon": "Home" },
-      { "title": "3BHK Flat for Sale in Sector 105 Noida", "path": "/", "icon": "Home" },
-      { "title": "3BHK Flat for Sale in Sector 93 Noida", "path": "/", "icon": "Home" },
-      { "title": "Flats near Noida Expressway", "path": "/", "icon": "Home" },
-      { "title": "Residential Apartments in Central Noida", "path": "/", "icon": "Home" },
-      { "title": "Ready to Move Flats in Noida", "path": "/", "icon": "Home" },
-      { "title": "Family Homes in Noida", "path": "/", "icon": "Home" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
   "whyChoose": {
@@ -164,6 +206,12 @@
       "Buying the right 3BHK flat for sale in Sector 100 Noida becomes simple with professional assistance.",
       "Share your requirements and contact details to get personalized property recommendations."
     ],
-    "formFields": ["name", "phone", "email", "budget", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "budget",
+      "message"
+    ]
   }
 }

@@ -1,6 +1,5 @@
 {
   "domain": "Houseforsale.com",
-
   "hero": {
     "title": "Independent Residential Houses for Sale in Chandan Vihar Gurugram",
     "description": [
@@ -22,7 +21,6 @@
       "https://plus.unsplash.com/premium_photo-1661883982941-50af7720a6ff?w=800&auto=format&fit=crop&q=60"
     ]
   },
-
   "featuresSection": {
     "heading": "House for Sale Options by Plot Size in Chandan Vihar Gurugram",
     "description": [
@@ -56,7 +54,6 @@
       }
     ]
   },
-
   "locationsSection": {
     "title": "Explore Houses for Sale Near Chandan Vihar Gurugram",
     "description": [
@@ -64,17 +61,58 @@
       "This section helps users discover surrounding residential areas for better decision-making."
     ],
     "locations": [
-      { "title": "House for Sale in Chandan Vihar Gurugram", "path": "/", "icon": "Home" },
-      { "title": "House for Sale in Palam Vihar Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale in Sector 23 Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Sector 22 Gurugram", "path": "/", "icon": "Landmark" },
-      { "title": "House for Sale near Old Delhi Road", "path": "/", "icon": "Home" },
-      { "title": "House for Sale in Sector 21 Gurugram", "path": "/", "icon": "Building" },
-      { "title": "House for Sale in Sector 24 Gurugram", "path": "/", "icon": "Building2" },
-      { "title": "House for Sale in DLF Phase 3", "path": "/", "icon": "Landmark" }
+      {
+        "title": "House For Sale",
+        "path": "/",
+        "icon": "Home"
+      },
+      {
+        "title": "House For Rent",
+        "path": "/",
+        "icon": "Key"
+      },
+      {
+        "title": "Flat For Sale",
+        "path": "/",
+        "icon": "Building2"
+      },
+      {
+        "title": "Flat For Rent",
+        "path": "/",
+        "icon": "Building"
+      },
+      {
+        "title": "Shop For Rent",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Shop For Sale",
+        "path": "/",
+        "icon": "Store"
+      },
+      {
+        "title": "Plot For Sale",
+        "path": "/",
+        "icon": "Landmark"
+      },
+      {
+        "title": "Agriculture Land For Sale",
+        "path": "/",
+        "icon": "Tractor"
+      },
+      {
+        "title": "To-Let Service",
+        "path": "/",
+        "icon": "Handshake"
+      },
+      {
+        "title": "Commercial Property For Sale",
+        "path": "/",
+        "icon": "BriefcaseBusiness"
+      }
     ]
   },
-
   "whyChoose": {
     "title": "Why Homebuyers Trust Deal Acres for Chandan Vihar Houses",
     "description": [
@@ -82,17 +120,40 @@
       "With local market knowledge and a customer-first approach, Deal Acres helps buyers find suitable independent houses with confidence."
     ],
     "points": [
-      { "title": "Verified House Listings", "description": "All listings are checked for ownership and authenticity." },
-      { "title": "Transparent Pricing", "description": "Prices are aligned with current local market trends." },
-      { "title": "Local Market Knowledge", "description": "Expert understanding of Chandan Vihar and nearby areas." },
-      { "title": "Easy Property Search", "description": "Simple and user-friendly platform experience." },
-      { "title": "Buyer-Focused Guidance", "description": "Recommendations tailored to buyer needs and budget." },
-      { "title": "Documentation Support", "description": "Basic guidance for paperwork and legal clarity." },
-      { "title": "End-to-End Assistance", "description": "Support from property search to final purchase." },
-      { "title": "Trusted by Buyers", "description": "Strong reputation built on service quality and trust." }
+      {
+        "title": "Verified House Listings",
+        "description": "All listings are checked for ownership and authenticity."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "Prices are aligned with current local market trends."
+      },
+      {
+        "title": "Local Market Knowledge",
+        "description": "Expert understanding of Chandan Vihar and nearby areas."
+      },
+      {
+        "title": "Easy Property Search",
+        "description": "Simple and user-friendly platform experience."
+      },
+      {
+        "title": "Buyer-Focused Guidance",
+        "description": "Recommendations tailored to buyer needs and budget."
+      },
+      {
+        "title": "Documentation Support",
+        "description": "Basic guidance for paperwork and legal clarity."
+      },
+      {
+        "title": "End-to-End Assistance",
+        "description": "Support from property search to final purchase."
+      },
+      {
+        "title": "Trusted by Buyers",
+        "description": "Strong reputation built on service quality and trust."
+      }
     ]
   },
-
   "faqSection": {
     "title": "Frequently Asked Questions About Houses in Chandan Vihar Gurugram",
     "description": "Common buyer queries related to house for sale in Chandan Vihar Gurugram.",
@@ -139,13 +200,17 @@
       }
     ]
   },
-
   "contactSection": {
     "title": "Get Expert Help for House for Sale in Chandan Vihar Gurugram",
     "description": [
       "Buying a house for sale in Chandan Vihar Gurugram is an important decision, and expert assistance can make the process smooth and reliable.",
       "Share your details to connect with trusted property experts who will help you find the right home based on your budget and preferences."
     ],
-    "formFields": ["name", "phone", "email", "message"]
+    "formFields": [
+      "name",
+      "phone",
+      "email",
+      "message"
+    ]
   }
 }
