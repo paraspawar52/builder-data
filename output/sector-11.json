@@ -1,0 +1,68 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "2 BHK Flat in Sector 11, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 11",
+    "pincode": "",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 0,
+    "area": 226,
+    "areaUnit": "sqft",
+    "price": 14500000,
+    "selectedAmenities": [
+      "North-East Facing",
+      "Suraj International school  Nearby"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "House",
+    "listingType": "sale",
+    "title": "2 BHK Independent Builder Floor in Sector 11, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 11",
+    "pincode": "",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 1020,
+    "area": 583,
+    "areaUnit": "sqft",
+    "price": 35,
+    "selectedAmenities": [
+      "10th out of 20 Floors",
+      "Corner Property"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Builder Floor",
+    "listingType": "sale",
+    "title": "2 BHK Independent Builder Floor in Sector 11, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 11",
+    "pincode": "",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 34,
+    "area": 880,
+    "areaUnit": "sqft",
+    "price": 38,
+    "selectedAmenities": [
+      "3rd out of 4 Floors",
+      "Newly Constructed"
+    ]
+  }
+]

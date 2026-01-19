@@ -1,0 +1,40 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "2 BHK Flat in Dharam Colony, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Palam Vihar Extension",
+    "pincode": "",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 0,
+    "area": 383,
+    "areaUnit": "sqft",
+    "price": 50,
+    "selectedAmenities": []
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "2 BHK Flat in Dharam Colony, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Palam Vihar Extension",
+    "pincode": "",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "furnishing": "",
+    "floor": 0,
+    "area": 650,
+    "areaUnit": "sqft",
+    "price": 27,
+    "selectedAmenities": []
+  }
+]
