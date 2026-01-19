@@ -3,14 +3,14 @@ import * as cheerio from "cheerio";
 import fs from "fs";
 
 // ================= CONFIG =================
-const URL = "https://www.99acres.com/2-bhk-flats-in-sector-78-faridabad-ffid"
+const URL = "https://www.99acres.com/2-bhk-builder-floor-in-sainik-colony-faridabad-ffid"
 // 🎯 TARGET LOCATION (Sector / Colony / Society / Block / Phase)
-const TARGET_LOCATION = "Sector 78";
+const TARGET_LOCATION = "Sainik Colony";
 // 🛑 MAX RESULTS TO SAVE
 const MAX_SAVE = 30;
 
 // ============== HELPERS ==================
-fscm-history-item:d%3A%5CBuilder%20Data?%7B%22repositoryId%22%3A%22scm0%22%2C%22historyItemId%22%3A%2263575a74446157e19559779c4644684215e2c44f%22%2C%22historyItemParentId%22%3A%22a313e428f291761bbed2210b45a45bed9e815520%22%2C%22historyItemDisplayId%22%3A%2263575a7%22%7Dunction normalizeText(t) {
+function normalizeText(t) {
   return String(t || "")
     .toLowerCase()
     .replace(/[^a-z0-9]/g, " ")
