@@ -1,0 +1,21 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Plot",
+    "listingType": "sale",
+    "title": "2 BHK Flat in Sector 31, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 31",
+    "pincode": "",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 0,
+    "area": 50,
+    "areaUnit": "sqft",
+    "price": 495,
+    "selectedAmenities": []
+  }
+]

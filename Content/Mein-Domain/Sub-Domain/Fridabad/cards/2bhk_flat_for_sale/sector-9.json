@@ -1,0 +1,23 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Builder Floor",
+    "listingType": "sale",
+    "title": "2 BHK Flat / Builder Floor in Sector 9, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 9",
+    "pincode": "",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 12,
+    "area": 250,
+    "areaUnit": "sqft",
+    "price": 15000000,
+    "selectedAmenities": [
+      "1st out of 2 Floors"
+    ]
+  }
+]

@@ -1,0 +1,64 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Builder Floor",
+    "listingType": "sale",
+    "title": "2 BHK Flat / Builder Floor in Lakkarpur, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Lakkarpur",
+    "pincode": "",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 33,
+    "area": 450,
+    "areaUnit": "sqft",
+    "price": 16,
+    "selectedAmenities": [
+      "3rd out of 3 Floors",
+      "Newly Constructed"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Builder Floor",
+    "listingType": "sale",
+    "title": "2 BHK Flat / Builder Floor in Lakkarpur, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Lakkarpur",
+    "pincode": "",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 24,
+    "area": 850,
+    "areaUnit": "sqft",
+    "price": 22,
+    "selectedAmenities": [
+      "2nd out of 4 Floors"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "3 BHK Flat in Lakkarpur, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Lakkarpur",
+    "pincode": "",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "furnishing": "",
+    "floor": 0,
+    "area": 500,
+    "areaUnit": "sqft",
+    "price": 18,
+    "selectedAmenities": []
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "3 BHK Flat in Sector 39, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 39",
+    "pincode": "",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 0,
+    "area": 634,
+    "areaUnit": "sqft",
+    "price": 17500000,
+    "selectedAmenities": [
+      "Top Floor",
+      "TUGLKABAD METRO Nearby"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "House",
+    "listingType": "sale",
+    "title": "3 BHK Flat in Sector 39, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 39",
+    "pincode": "",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 0,
+    "area": 625,
+    "areaUnit": "sqft",
+    "price": 17500000,
+    "selectedAmenities": [
+      "Full Power Backup"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "House",
+    "listingType": "sale",
+    "title": "3 BHK Flat in Sector 39, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 39",
+    "pincode": "",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "furnishing": "",
+    "floor": 0,
+    "area": 625,
+    "areaUnit": "sqft",
+    "price": 17500000,
+    "selectedAmenities": [
+      "Tughlakabad metro station Nearby",
+      "Manav rachna school Nearby"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "3 BHK Flat in Sector 39, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 39",
+    "pincode": "",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "furnishing": "",
+    "floor": 0,
+    "area": 625,
+    "areaUnit": "sqft",
+    "price": 20000000,
+    "selectedAmenities": [
+      "Tughalkabad metro Nearby",
+      "Manav rachna school Nearby"
+    ]
+  }
+]

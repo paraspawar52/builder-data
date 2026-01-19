@@ -3,9 +3,9 @@ import * as cheerio from "cheerio";
 import fs from "fs";
 
 // ================= CONFIG =================
-const URL = "https://www.99acres.com/2-bhk-builder-floor-in-sainik-colony-faridabad-ffid"
+const URL = "https://www.99acres.com/flats-in-sector-25-gurgaon-ffid"
 // 🎯 TARGET LOCATION (Sector / Colony / Society / Block / Phase)
-const TARGET_LOCATION = "Sainik Colony";
+const TARGET_LOCATION = "Sector 25";
 // 🛑 MAX RESULTS TO SAVE
 const MAX_SAVE = 30;
 
@@ -163,7 +163,7 @@ function extractBathroomsSmart(text) {
       title,
       description: "",
       state: "Haryana",
-      city: "faridabad",
+      city: "gurgaon",
       locality: TARGET_LOCATION,
       pincode: "",
       bedrooms,

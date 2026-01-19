@@ -1,0 +1,24 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Builder Floor",
+    "listingType": "sale",
+    "title": "2 BHK Flat / Builder Floor in New Industrial Township 2, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "New Industrial Township 2",
+    "pincode": "",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 24,
+    "area": 33,
+    "areaUnit": "sqft",
+    "price": 55,
+    "selectedAmenities": [
+      "2nd out of 4 Floors",
+      "Close to Metro Station"
+    ]
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "rent",
+    "title": "1 BHK Flat in Sector 109, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 109",
+    "pincode": "",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "furnishing": "",
+    "floor": 0,
+    "area": 490,
+    "areaUnit": "sqft",
+    "price": 80,
+    "selectedAmenities": [
+      "North Facing",
+      "Newly Constructed"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "2 BHK Flat in Sector 109, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 109",
+    "pincode": "",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 0,
+    "area": 497,
+    "areaUnit": "sqft",
+    "price": 10000000,
+    "selectedAmenities": [
+      "North-East Facing",
+      "Recently Renovated"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "3 BHK Flat in Sector 109, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 109",
+    "pincode": "",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 0,
+    "area": 800,
+    "areaUnit": "sqft",
+    "price": 80,
+    "selectedAmenities": []
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "Studio Apartments / 1 RK Flats in Sector 109, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 109",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "furnishing": "",
+    "floor": 0,
+    "area": 795,
+    "areaUnit": "sqft",
+    "price": 10900000,
+    "selectedAmenities": [
+      "North-East Facing",
+      "Gated Society"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "Studio Apartments / 1 RK Flats in Sector 109, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 109",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "furnishing": "",
+    "floor": 0,
+    "area": 550,
+    "areaUnit": "sqft",
+    "price": 95,
+    "selectedAmenities": [
+      "Dwarka sector 21 Nearby",
+      "Overlooking Park/Garden"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "2 BHK Flat in Sector 109, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 109",
+    "pincode": "",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 0,
+    "area": 450,
+    "areaUnit": "sqft",
+    "price": 11800000,
+    "selectedAmenities": [
+      "North-East Facing",
+      "Private Garden"
+    ]
+  }
+]

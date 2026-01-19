@@ -1,0 +1,43 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "2 BHK Flat in Ashoka Enclave Part 3, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Ashoka Enclave Part 3",
+    "pincode": "",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 0,
+    "area": 800,
+    "areaUnit": "sqft",
+    "price": 18000000,
+    "selectedAmenities": []
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Builder Floor",
+    "listingType": "sale",
+    "title": "2 BHK Flat / Builder Floor in Ashoka Enclave Part 3, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Ashoka Enclave Part 3",
+    "pincode": "",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 33,
+    "area": 575,
+    "areaUnit": "sqft",
+    "price": 11000000,
+    "selectedAmenities": [
+      "3rd out of 3 Floors",
+      "Gated Society"
+    ]
+  }
+]

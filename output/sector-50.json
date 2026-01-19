@@ -1,0 +1,24 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "4 BHK Flat in Sector 50, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 50",
+    "pincode": "",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "furnishing": "",
+    "floor": 0,
+    "area": 200,
+    "areaUnit": "sqft",
+    "price": 42500000,
+    "selectedAmenities": [
+      "Gated Society",
+      "Corner Property"
+    ]
+  }
+]

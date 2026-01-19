@@ -1,0 +1,111 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Builder Floor",
+    "listingType": "sale",
+    "title": "2 BHK Flat / Builder Floor in Sector 37, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 37",
+    "pincode": "",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 13,
+    "area": 250,
+    "areaUnit": "sqft",
+    "price": 62,
+    "selectedAmenities": [
+      "1st out of 3 Floors",
+      "Gated Society"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Builder Floor",
+    "listingType": "sale",
+    "title": "2 BHK Flat / Builder Floor in Sector 37, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 37",
+    "pincode": "",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 2,
+    "area": 620,
+    "areaUnit": "sqft",
+    "price": 14600000,
+    "selectedAmenities": [
+      "GF out of 2 Floors",
+      "Gated Society"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Builder Floor",
+    "listingType": "sale",
+    "title": "2 BHK Flat / Builder Floor in Sector 37, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 37",
+    "pincode": "",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 12,
+    "area": 250,
+    "areaUnit": "sqft",
+    "price": 54,
+    "selectedAmenities": [
+      "1st out of 2 Floors"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Builder Floor",
+    "listingType": "sale",
+    "title": "2 BHK Flat / Builder Floor in Sector 37, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 37",
+    "pincode": "",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 13,
+    "area": 750,
+    "areaUnit": "sqft",
+    "price": 42,
+    "selectedAmenities": [
+      "1st out of 3 Floors",
+      "Corner Property"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Builder Floor",
+    "listingType": "sale",
+    "title": "2 BHK Flat / Builder Floor in Sector 37, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 37",
+    "pincode": "",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 2,
+    "area": 395,
+    "areaUnit": "sqft",
+    "price": 59,
+    "selectedAmenities": [
+      "GF out of 2 Floors",
+      "Corner Property"
+    ]
+  }
+]

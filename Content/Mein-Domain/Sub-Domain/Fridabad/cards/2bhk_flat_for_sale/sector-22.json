@@ -1,0 +1,21 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "House",
+    "listingType": "sale",
+    "title": "2 Bedroom House in Sector 22, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 22",
+    "pincode": "",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 0,
+    "area": 0,
+    "areaUnit": "sqft",
+    "price": 89,
+    "selectedAmenities": []
+  }
+]

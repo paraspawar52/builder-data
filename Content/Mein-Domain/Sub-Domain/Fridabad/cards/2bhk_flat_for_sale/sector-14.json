@@ -1,0 +1,87 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "House",
+    "listingType": "sale",
+    "title": "2 BHK Flat in Sector 14, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 14",
+    "pincode": "",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 0,
+    "area": 100,
+    "areaUnit": "sqft",
+    "price": 693,
+    "selectedAmenities": [
+      "East Facing",
+      "Private Garden"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "rent",
+    "title": "2 BHK Flat in Sector 14, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 14",
+    "pincode": "",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 0,
+    "area": 100,
+    "areaUnit": "sqft",
+    "price": 72,
+    "selectedAmenities": [
+      "East Facing",
+      "Private Garden"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "2 BHK Flat in Sector 14, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 14",
+    "pincode": "",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 0,
+    "area": 100,
+    "areaUnit": "sqft",
+    "price": 6699,
+    "selectedAmenities": [
+      "East Facing",
+      "Ajrondha Nearby"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Builder Floor",
+    "listingType": "sale",
+    "title": "3 BHK Flat in Sector 14, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 14",
+    "pincode": "",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "furnishing": "",
+    "floor": 0,
+    "area": 500,
+    "areaUnit": "sqft",
+    "price": 59000000,
+    "selectedAmenities": []
+  }
+]
