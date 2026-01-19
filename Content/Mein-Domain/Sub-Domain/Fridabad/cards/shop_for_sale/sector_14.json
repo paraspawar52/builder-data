@@ -1,0 +1,42 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Property",
+    "listingType": "sale",
+    "title": "Shop for sale in Sector 14, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "  Sector 14 ",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 600,
+    "areaUnit": "sqft",
+    "price": 125000000,
+    "selectedAmenities": []
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Property",
+    "listingType": "sale",
+    "title": "Shop for sale in Sector 14, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "  Sector 14 ",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 243,
+    "areaUnit": "sqft",
+    "price": 27500000,
+    "selectedAmenities": [
+      "Ground Floor"
+    ]
+  }
+]

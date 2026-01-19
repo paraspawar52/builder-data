@@ -1,0 +1,43 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Plot",
+    "listingType": "sale",
+    "title": "  Plot in New Industrial Township 3, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "New Industrial Township 3",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 700,
+    "areaUnit": "sqft",
+    "price": 60000000,
+    "selectedAmenities": [
+      "North Facing",
+      "OLD FARIDABAD  within 1km"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Plot",
+    "listingType": "sale",
+    "title": "  Plot in New Industrial Township 3, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "New Industrial Township 3",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 675,
+    "areaUnit": "sqft",
+    "price": 18200000,
+    "selectedAmenities": []
+  }
+]

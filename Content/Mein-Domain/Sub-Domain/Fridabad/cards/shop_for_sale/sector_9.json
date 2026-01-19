@@ -1,0 +1,65 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Property",
+    "listingType": "sale",
+    "title": "Shop for sale in Sector 9, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "   sector-9  ",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 750,
+    "areaUnit": "sqft",
+    "price": 30000000,
+    "selectedAmenities": []
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Showroom for sale in Sector 9, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "   sector-9  ",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 800,
+    "areaUnit": "sqft",
+    "price": 60000000,
+    "selectedAmenities": [
+      "2.0% ROI",
+      "₹ 100000 Rental Income"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Showroom for sale in Sector 9, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "   sector-9  ",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 800,
+    "areaUnit": "sqft",
+    "price": 60000000,
+    "selectedAmenities": [
+      "₹ 60000 Rental Income",
+      "Close to Metro Station"
+    ]
+  }
+]

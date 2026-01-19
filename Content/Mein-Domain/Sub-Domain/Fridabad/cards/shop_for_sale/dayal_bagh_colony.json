@@ -1,0 +1,40 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Property",
+    "listingType": "sale",
+    "title": "Shop for sale in Dayal Bagh Colony, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "  dayal bagh colony ",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 300,
+    "areaUnit": "sqft",
+    "price": 45,
+    "selectedAmenities": []
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Property",
+    "listingType": "sale",
+    "title": "Shop for sale in Dayal Bagh Colony, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "  dayal bagh colony ",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 250,
+    "areaUnit": "sqft",
+    "price": 60,
+    "selectedAmenities": []
+  }
+]

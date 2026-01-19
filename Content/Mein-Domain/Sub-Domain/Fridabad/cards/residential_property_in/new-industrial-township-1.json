@@ -1,0 +1,103 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "House",
+    "listingType": "sale",
+    "title": "3 Bedroom House in New Industrial Township 1, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "New Industrial Township 1",
+    "pincode": "",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "furnishing": "",
+    "floor": 0,
+    "area": 44,
+    "areaUnit": "sqft",
+    "price": 19000000,
+    "selectedAmenities": [
+      "Private Garden"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "House",
+    "listingType": "sale",
+    "title": "5 Bedroom House in New Industrial Township 1, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "New Industrial Township 1",
+    "pincode": "",
+    "bedrooms": 5,
+    "bathrooms": 3,
+    "furnishing": "",
+    "floor": 0,
+    "area": 630,
+    "areaUnit": "sqft",
+    "price": 18000000,
+    "selectedAmenities": []
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Builder Floor",
+    "listingType": "sale",
+    "title": "2 BHK Independent Builder Floor in New Industrial Township 1, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "New Industrial Township 1",
+    "pincode": "",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 4,
+    "area": 260,
+    "areaUnit": "sqft",
+    "price": 75,
+    "selectedAmenities": [
+      "GF out of 4 Floors"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Builder Floor",
+    "listingType": "sale",
+    "title": "1 BHK Independent Builder Floor in New Industrial Township 1, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "New Industrial Township 1",
+    "pincode": "",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "furnishing": "",
+    "floor": 13,
+    "area": 300,
+    "areaUnit": "sqft",
+    "price": 22,
+    "selectedAmenities": [
+      "1st out of 3 Floors"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "House",
+    "listingType": "sale",
+    "title": "3 Bedroom House in Block K New Industrial Township 1, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "New Industrial Township 1",
+    "pincode": "",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 0,
+    "area": 990,
+    "areaUnit": "sqft",
+    "price": 23000000,
+    "selectedAmenities": []
+  }
+]

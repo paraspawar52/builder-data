@@ -1,0 +1,23 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Villa",
+    "listingType": "sale",
+    "title": "4 BHK Independent Builder Floor in Mujesar, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Mujesar Village",
+    "pincode": "",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 1,
+    "area": 782,
+    "areaUnit": "sqft",
+    "price": 11000000,
+    "selectedAmenities": [
+      "GF out of 1 Floors"
+    ]
+  }
+]

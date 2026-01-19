@@ -1,0 +1,61 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Shop for rent in Sector 76, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "  Sector 76 ",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 310,
+    "areaUnit": "sqft",
+    "price": 16000,
+    "selectedAmenities": []
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Shop for rent in Sector 76, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "  Sector 76 ",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 216,
+    "areaUnit": "sqft",
+    "price": 10000,
+    "selectedAmenities": [
+      "Recently Renovated"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Shop for rent in Sector 76, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "  Sector 76 ",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 216,
+    "areaUnit": "sqft",
+    "price": 8000,
+    "selectedAmenities": []
+  }
+]

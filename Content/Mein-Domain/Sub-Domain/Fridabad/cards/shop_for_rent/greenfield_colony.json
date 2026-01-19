@@ -1,0 +1,65 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Shop for rent in Greenfield Colony, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "  greenfield colony ",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 100,
+    "areaUnit": "sqft",
+    "price": 45000,
+    "selectedAmenities": [
+      "North Facing",
+      "Ground Floor"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Shop for rent in Greenfield Colony, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "  greenfield colony ",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 367,
+    "areaUnit": "sqft",
+    "price": 145,
+    "selectedAmenities": [
+      "North Facing",
+      "Ground Floor"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Shop for rent in Greenfield Colony, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "  greenfield colony ",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 140,
+    "areaUnit": "sqft",
+    "price": 5000,
+    "selectedAmenities": []
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Shop for sale in Sector 28, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "   sector 28 ",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 200,
+    "areaUnit": "sqft",
+    "price": 105000000,
+    "selectedAmenities": []
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Shop for sale in Sector 28, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "   sector 28 ",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 200,
+    "areaUnit": "sqft",
+    "price": 44,
+    "selectedAmenities": [
+      "12.0% ROI",
+      "₹ 44000 Rental Income"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Property",
+    "listingType": "sale",
+    "title": "Showroom for sale in Sector 28, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "   sector 28 ",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 300,
+    "areaUnit": "sqft",
+    "price": 90000000,
+    "selectedAmenities": []
+  }
+]

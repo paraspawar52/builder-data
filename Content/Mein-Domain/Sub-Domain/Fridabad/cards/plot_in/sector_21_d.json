@@ -1,0 +1,112 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Plot",
+    "listingType": "sale",
+    "title": "  Plot in Sector 21D, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "  sector 21 d ",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 518,
+    "areaUnit": "sqft",
+    "price": 58500000,
+    "selectedAmenities": [
+      "East Facing",
+      "Overlooking Park/Garden"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Plot",
+    "listingType": "sale",
+    "title": "  Plot in Sector 21D, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "  sector 21 d ",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 500,
+    "areaUnit": "sqft",
+    "price": 67500000,
+    "selectedAmenities": []
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Plot",
+    "listingType": "sale",
+    "title": "  Plot in Sector 21D, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "  sector 21 d ",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 500,
+    "areaUnit": "sqft",
+    "price": 55000000,
+    "selectedAmenities": [
+      "Overlooking Park/Garden",
+      "Overlooking Main Road"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Plot",
+    "listingType": "sale",
+    "title": "  Plot in Sector 21D, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "  sector 21 d ",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 227,
+    "areaUnit": "sqft",
+    "price": 55000000,
+    "selectedAmenities": [
+      "North Facing",
+      "Overlooking Park/Garden"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Plot",
+    "listingType": "sale",
+    "title": "  Plot in Sector 21D, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "  sector 21 d ",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 357,
+    "areaUnit": "sqft",
+    "price": 54000000,
+    "selectedAmenities": [
+      "Overlooking Park/Garden",
+      "Overlooking Main Road"
+    ]
+  }
+  
+  
+  
+]

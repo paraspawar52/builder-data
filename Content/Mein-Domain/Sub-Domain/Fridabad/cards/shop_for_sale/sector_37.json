@@ -1,0 +1,42 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Property",
+    "listingType": "sale",
+    "title": "Shop for sale in Sector 37, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "   sector 37 ",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 0,
+    "areaUnit": "sqft",
+    "price": 10900000,
+    "selectedAmenities": [
+      "Ground Floor"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Plot",
+    "listingType": "sale",
+    "title": "Shop for sale in Sector 35, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "   sector 37 ",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 604,
+    "areaUnit": "sqft",
+    "price": 14500000,
+    "selectedAmenities": []
+  }
+]

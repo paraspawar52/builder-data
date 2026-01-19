@@ -1,0 +1,45 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Builder Floor",
+    "listingType": "sale",
+    "title": "3 BHK Independent Builder Floor in Sector 72, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 72",
+    "pincode": "",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "furnishing": "",
+    "floor": 13,
+    "area": 200,
+    "areaUnit": "sqft",
+    "price": 60,
+    "selectedAmenities": [
+      "1st out of 3 Floors",
+      "Gated Society"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Builder Floor",
+    "listingType": "sale",
+    "title": "3 BHK Independent Builder Floor in Sector 72, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 72",
+    "pincode": "",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "furnishing": "",
+    "floor": 12,
+    "area": 764,
+    "areaUnit": "sqft",
+    "price": 10000000,
+    "selectedAmenities": [
+      "1st out of 2 Floors"
+    ]
+  }
+]

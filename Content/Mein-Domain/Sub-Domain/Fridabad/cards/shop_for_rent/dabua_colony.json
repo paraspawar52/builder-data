@@ -1,0 +1,21 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Shop for rent in Dabua Colony, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "  dabua colony ",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 445,
+    "areaUnit": "sqft",
+    "price": 20000,
+    "selectedAmenities": []
+  }
+]

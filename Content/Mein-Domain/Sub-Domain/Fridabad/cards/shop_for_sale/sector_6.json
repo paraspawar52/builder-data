@@ -1,0 +1,67 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Plot",
+    "listingType": "sale",
+    "title": "Manufacturing business for sale in Sector 6, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "   sector 6 ",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 800,
+    "areaUnit": "sqft",
+    "price": 730000000,
+    "selectedAmenities": [
+      "East Facing",
+      "Escourt Mujesar within 500m"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Plot",
+    "listingType": "sale",
+    "title": "Factory for sale in Sector 6, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "   sector 6 ",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 0,
+    "areaUnit": "sqft",
+    "price": 550000000,
+    "selectedAmenities": [
+      "East Facing",
+      "ymca within 250m"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Property",
+    "listingType": "sale",
+    "title": "Factory for sale in Sector 6, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "   sector 6 ",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 0,
+    "areaUnit": "sqft",
+    "price": 325000000,
+    "selectedAmenities": [
+      "Power Back-up"
+    ]
+  }
+]

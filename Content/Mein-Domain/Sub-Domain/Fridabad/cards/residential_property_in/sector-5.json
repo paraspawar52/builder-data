@@ -1,0 +1,24 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Builder Floor",
+    "listingType": "sale",
+    "title": "2 BHK Independent Builder Floor in Sector 57, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 5",
+    "pincode": "",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 0,
+    "area": 725,
+    "areaUnit": "sqft",
+    "price": 24,
+    "selectedAmenities": [
+      "2nd out of 2 Floors",
+      "Vitrified Flooring"
+    ]
+  }
+]

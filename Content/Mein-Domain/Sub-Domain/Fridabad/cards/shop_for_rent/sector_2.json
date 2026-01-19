@@ -1,0 +1,22 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Shop for rent in Sector 2, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "  Sector 2",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 810,
+    "areaUnit": "sqft",
+    "price": 22000,
+    "selectedAmenities": []
+  }
+  
+]

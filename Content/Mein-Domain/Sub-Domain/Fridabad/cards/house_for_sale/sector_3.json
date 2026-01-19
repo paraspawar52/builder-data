@@ -1,0 +1,128 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "3 BHK Flat / Builder Floor in Sector 3, Faridabad",
+    "description": "Independent two floors.\nRecently renovated with all basic amenities. Can be developed as an office space. Close to metro and railway station.Very well connected to mathura road,byepass road and other areas.\n Additional details :\n\nThe property has a dedicated security guard.\nIt is under cctv surveillance.\nYou can easily park your car inside the compound.\nEach house has a dedicated water tank.\n The house has muncipal supply.\nNo power backup available.\nThe kitchen has been built with modular fittings.\nPiped gas facility is available.\nThe property is located on the main road",
+    "city": "faridabad",
+    "locality": "sector 3 faridabad",
+    "bedrooms": 0,
+    "bathrooms": 2,
+    "floor": 0,
+    "area": 1450,
+    "areaUnit": "sqft",
+    "price": 12000000,
+    "selectedAmenities": [
+      "1st out of 2 Floors",
+      "Gated Society"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "1 BHK Flat / Builder Floor in Sector 3, Faridabad",
+    "description": "Planning to purchase dream house in faridabad? This 1 bhk builder floor in sector 3 faridabad is a great option for you. This builder floor comes with 1 bedroom, 1 bathroom . This property is semi-Furnished. This spacious builder floor has built up area of 1350 sq.Ft. This builder floor apartment is located at ground floor in a building of total 1 floor. You can plan to move in immediately in this amazing ready to move in builder floor. This builder floor is owned under freehold contract. You can purchase this builder floor at an attractive price of  26 lac.",
+    "city": "faridabad",
+    "locality": "sector 3 faridabad",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "floor": 0,
+    "area": 1350,
+    "areaUnit": "sqft",
+    "price": 2600000,
+    "selectedAmenities": [
+      "GF out of 1 Floors"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "2 BHK Flat in Sector 3, Faridabad",
+    "description": "Ground floor flat is located infront of tagore public school. Road is very wide. Its housing board flat and can be utilise semi commercially. Lots of shops nearby. School, hospital all nearby.",
+    "city": "faridabad",
+    "locality": "sector 3 faridabad",
+    "bedrooms": 0,
+    "bathrooms": 2,
+    "floor": 0,
+    "area": 1010,
+    "areaUnit": "sqft",
+    "price": 7200000,
+    "selectedAmenities": []
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "4 BHK Flat / Builder Floor in Sector 3, Faridabad",
+    "description": "1. This is lig flat and on first floor. And 2nd \nFloor. \n2. Two rooms on first floor one drawing room and one bed room. Same as on second floor. \n3. Modular kitchen with enough space \n4. On second floor marble temple and one wooden wardrobe. \n5 . Marble floor on first floor and tiles on second floor. \nReady to move and good property for 2 families",
+    "city": "faridabad",
+    "locality": "sector 3 faridabad",
+    "bedrooms": 0,
+    "bathrooms": 2,
+    "floor": 0,
+    "area": 500,
+    "areaUnit": "sqft",
+    "price": 3500000,
+    "selectedAmenities": [
+      "1st out of 2 Floors",
+      "Overlooking Main Road"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "2 BHK Flat in Sector 3, Faridabad",
+    "description": "Near by raja nahar singh park near haldiram, property is in front of road, getting fresh air & light, north & east facing",
+    "city": "faridabad",
+    "locality": "sector 3 faridabad",
+    "bedrooms": 0,
+    "bathrooms": 2,
+    "floor": 0,
+    "area": 500,
+    "areaUnit": "sqft",
+    "price": 3900000,
+    "selectedAmenities": []
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "2 BHK Flat / Builder Floor in Sector 10 HBC, Faridabad",
+    "description": "We are proud owners of builder floor available for sale in sector 10, faridabad. Available at price of rs 60 lacs. It has built up area of 1050 sqft. It has 2 bhk, 2 bathroom, 3 balcony.It is a freehold property",
+    "city": "faridabad",
+    "locality": "sector 10 hbc faridabad",
+    "bedrooms": 0,
+    "bathrooms": 2,
+    "floor": 0,
+    "area": 1050,
+    "areaUnit": "sqft",
+    "price": 6000000,
+    "selectedAmenities": [
+      "2nd out of 2 Floors",
+      "Lift"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "2 BHK Flat in Bharat Colony, Faridabad",
+    "description": "Large super area park lift powr back up",
+    "city": "faridabad",
+    "locality": "bharat colony faridabad",
+    "bedrooms": 0,
+    "bathrooms": 2,
+    "floor": 0,
+    "area": 1357,
+    "areaUnit": "sqft",
+    "price": 6800000,
+    "selectedAmenities": [
+      "1st out of 2 Floors",
+      "Gated Society"
+    ]
+  }
+]

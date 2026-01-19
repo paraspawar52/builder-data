@@ -1,0 +1,23 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Builder Floor",
+    "listingType": "sale",
+    "title": "2 BHK Independent Builder Floor in Sector 18, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 18",
+    "pincode": "",
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "furnishing": "",
+    "floor": 4,
+    "area": 315,
+    "areaUnit": "sqft",
+    "price": 23,
+    "selectedAmenities": [
+      "GF out of 4 Floors"
+    ]
+  }
+]

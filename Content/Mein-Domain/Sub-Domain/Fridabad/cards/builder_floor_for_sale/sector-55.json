@@ -1,0 +1,43 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "House",
+    "listingType": "sale",
+    "title": "1 BHK Independent Builder Floor in Sector 55, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 55",
+    "pincode": "",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "furnishing": "",
+    "floor": 2,
+    "area": 0,
+    "areaUnit": "sqft",
+    "price": 25,
+    "selectedAmenities": [
+      "GF out of 2 Floors",
+      "Newly Constructed"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "2 BHK Flat in Sector 55, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 55",
+    "pincode": "",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 0,
+    "area": 700,
+    "areaUnit": "sqft",
+    "price": 35,
+    "selectedAmenities": []
+  }
+]

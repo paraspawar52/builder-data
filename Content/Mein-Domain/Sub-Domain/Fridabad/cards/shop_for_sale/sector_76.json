@@ -1,0 +1,46 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Property",
+    "listingType": "sale",
+    "title": "Shop for sale in Sector 76, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "   sector 76  ",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 375,
+    "areaUnit": "sqft",
+    "price": 32,
+    "selectedAmenities": [
+      "Recently Renovated",
+      "Lift"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Shop for sale in Sector 76, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "   sector 76  ",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 412,
+    "areaUnit": "sqft",
+    "price": 35,
+    "selectedAmenities": [
+      "2.91% ROI",
+      "₹ 8500 Rental Income"
+    ]
+  }
+]

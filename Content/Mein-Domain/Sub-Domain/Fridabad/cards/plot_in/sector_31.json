@@ -1,0 +1,131 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Plot",
+    "listingType": "sale",
+    "title": " Plot in Sector 31, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 31",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 540,
+    "areaUnit": "sqft",
+    "price": 11000000,
+    "selectedAmenities": []
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Plot",
+    "listingType": "sale",
+    "title": " Plot in Sector 31, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 31",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 540,
+    "areaUnit": "sqft",
+    "price": 12000000,
+    "selectedAmenities": [
+      "East Facing",
+      "Mewla maharajpur  within 1km"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Villa",
+    "listingType": "sale",
+    "title": " Plot in Sector 31, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 31",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 420,
+    "areaUnit": "sqft",
+    "price": 65000000,
+    "selectedAmenities": [
+      "North Facing"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Plot",
+    "listingType": "sale",
+    "title": " Plot in Sector 31, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 31",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 420,
+    "areaUnit": "sqft",
+    "price": 90000000,
+    "selectedAmenities": [
+      "Corner Property",
+      "Overlooking Park/Garden"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "House",
+    "listingType": "sale",
+    "title": " Plot in Sector 31, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 31",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 250,
+    "areaUnit": "sqft",
+    "price": 52500000,
+    "selectedAmenities": [
+      "Overlooking Main Road"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Plot",
+    "listingType": "sale",
+    "title": " Plot in Sector 31, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 31",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 250,
+    "areaUnit": "sqft",
+    "price": 44000000,
+    "selectedAmenities": [
+      "North-East Facing",
+      "Corner Property"
+    ]
+  }
+  
+  
+]

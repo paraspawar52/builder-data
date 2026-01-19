@@ -1,0 +1,141 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "2 BHK Flat in Jawahar Colony, Faridabad",
+    "description": "Situated in jawahar colony, faridabad, n/a is a well planned society that offers a pleasant living experience to its residents. This 2 bhk flat in faridabad is your opportunity to be a part of this community. Constructed on a built up area of 990 sq.Ft., the flat comprises 2 bedroom(s), 2 bathrooms . The residential building has 1 floor in total and the flat for sale is located on the ground floor. An added advantage of this 0-1 year old flat is that it is available for immediate possession as the project is already ready to move.",
+    "city": "faridabad",
+    "locality": "jawahar colony faridabad",
+    "bedrooms": 0,
+    "bathrooms": 2,
+    "floor": 0,
+    "area": 990,
+    "areaUnit": "sqft",
+    "price": 3000000,
+    "selectedAmenities": []
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "6 BHK Flat in Jawahar Colony, Faridabad",
+    "description": "My home is well occupied with complete furnished",
+    "city": "faridabad",
+    "locality": "jawahar colony faridabad",
+    "bedrooms": 0,
+    "bathrooms": 4,
+    "floor": 0,
+    "area": 250,
+    "areaUnit": "sqft",
+    "price": 10000000,
+    "selectedAmenities": []
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "4 BHK Flat / Builder Floor in SGM Nagar, Faridabad",
+    "description": "120 gaz makan two side open nice location",
+    "city": "faridabad",
+    "locality": "sgm nagar faridabad",
+    "bedrooms": 0,
+    "bathrooms": 2,
+    "floor": 0,
+    "area": 1080,
+    "areaUnit": "sqft",
+    "price": 7500000,
+    "selectedAmenities": [
+      "GF out of 1 Floors"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "2 BHK Flat in Sector 52, Faridabad",
+    "description": "Corner flat in apna ghar, society at sohna road faridabad, near sec 55, first floor with roof right, opposite society temple",
+    "city": "faridabad",
+    "locality": "sector 52 faridabad",
+    "bedrooms": 0,
+    "bathrooms": 2,
+    "floor": 0,
+    "area": 1584,
+    "areaUnit": "sqft",
+    "price": 5660000,
+    "selectedAmenities": []
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "2 BHK Flat / Builder Floor in NIT, Faridabad",
+    "description": "Spacious & airy ..This was a 3bhk which has been modified to 2bhk to make it feel more open & spacious..",
+    "city": "faridabad",
+    "locality": "nit faridabad",
+    "bedrooms": 0,
+    "bathrooms": 2,
+    "floor": 0,
+    "area": 1250,
+    "areaUnit": "sqft",
+    "price": 7000000,
+    "selectedAmenities": [
+      "1st out of 2 Floors",
+      "North-East Facing"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "3 BHK Flat / Builder Floor in NIT, Faridabad",
+    "description": "Ready to move independent builder floor in nit faridabad haryana no hidden charges in this property and this is semi furnished property and all banks loans are available in this property and all property papers are done and for more information contact us pratham property",
+    "city": "faridabad",
+    "locality": "nit faridabad",
+    "bedrooms": 0,
+    "bathrooms": 3,
+    "floor": 0,
+    "area": 1400,
+    "areaUnit": "sqft",
+    "price": 6000000,
+    "selectedAmenities": [
+      "1st out of 3 Floors",
+      "Corner Property"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "2 BHK Flat in NIT, Faridabad",
+    "description": "We are the proud owners of this 2 bhk apartment available in happy homes floors 1, nit, faridabad. This it is a and the unit is located on 2nd floor and has a super built-Up area of 90 sq.Ft. . It has 1 bathroom(s). It is for sale under general power of attorney.",
+    "city": "faridabad",
+    "locality": "nit faridabad",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "floor": 0,
+    "area": 90,
+    "areaUnit": "sqft",
+    "price": 5500000,
+    "selectedAmenities": []
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "3 BHK Flat / Builder Floor in NIT, Faridabad",
+    "description": "3bhk indipendent floor with rooftop backside with luxury interior",
+    "city": "faridabad",
+    "locality": "nit faridabad",
+    "bedrooms": 0,
+    "bathrooms": 2,
+    "floor": 0,
+    "area": 125,
+    "areaUnit": "sqft",
+    "price": 5500000,
+    "selectedAmenities": [
+      "2nd out of 2 Floors",
+      "Furnished"
+    ]
+  }
+]

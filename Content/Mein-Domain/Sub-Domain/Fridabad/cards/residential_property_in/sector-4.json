@@ -1,0 +1,21 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "House",
+    "listingType": "sale",
+    "title": "3 Bedroom House in Sector 4, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 4",
+    "pincode": "",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 0,
+    "area": 100,
+    "areaUnit": "sqft",
+    "price": 50,
+    "selectedAmenities": []
+  }
+]

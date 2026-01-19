@@ -1,0 +1,24 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Plot",
+    "listingType": "rent",
+    "title": "Shop for sale in Sector 27C, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "   sector 27 ",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 480,
+    "areaUnit": "sqft",
+    "price": 20000000,
+    "selectedAmenities": [
+      "4.61% ROI",
+      "₹ 80000 Rental Income"
+    ]
+  }
+]

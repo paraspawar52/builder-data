@@ -1,0 +1,24 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Builder Floor",
+    "listingType": "sale",
+    "title": "3 BHK Independent Builder Floor in Sector 79, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 79",
+    "pincode": "",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "furnishing": "",
+    "floor": 1115,
+    "area": 925,
+    "areaUnit": "sqft",
+    "price": 23500000,
+    "selectedAmenities": [
+      "11th out of 15 Floors",
+      "Lift"
+    ]
+  }
+]

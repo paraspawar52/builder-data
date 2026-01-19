@@ -1,0 +1,68 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Builder Floor",
+    "listingType": "sale",
+    "title": "2 BHK Flat / Builder Floor in Sector 83, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 83",
+    "pincode": "",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 13,
+    "area": 155,
+    "areaUnit": "sqft",
+    "price": 12500000,
+    "selectedAmenities": [
+      "1st out of 3 Floors",
+      "Rain Water Harvesting"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Builder Floor",
+    "listingType": "sale",
+    "title": "2 BHK Flat / Builder Floor in Sector 83, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 83",
+    "pincode": "",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 23,
+    "area": 242,
+    "areaUnit": "sqft",
+    "price": 11500000,
+    "selectedAmenities": [
+      "2nd out of 3 Floors",
+      "Lift"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Builder Floor",
+    "listingType": "sale",
+    "title": "2 BHK Flat / Builder Floor in Sector 83, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 83",
+    "pincode": "",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 13,
+    "area": 242,
+    "areaUnit": "sqft",
+    "price": 12500000,
+    "selectedAmenities": [
+      "1st out of 3 Floors",
+      "Lift"
+    ]
+  }
+]

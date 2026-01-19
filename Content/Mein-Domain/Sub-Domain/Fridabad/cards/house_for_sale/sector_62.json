@@ -1,0 +1,21 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "2 BHK Flat in Sector 62, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "   sector 62  ",
+    "pincode": "",
+    "bedrooms": 2,
+    "bathrooms": 3,
+    "furnishing": "",
+    "floor": 0,
+    "area": 315,
+    "areaUnit": "sqft",
+    "price": 42,
+    "selectedAmenities": []
+  }
+]

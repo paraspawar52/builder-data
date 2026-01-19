@@ -1,0 +1,93 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "BPTP The Resort",
+    "description": "Check out 2,3 BHK apartments in Sector 75, now available for sale at BPTP The Resort. Prices of apartments in this project, vary between Rs. 85.2 L - 1.23 Cr. Here units have different sizes, mostly in range of 1,420 - 2,052 sqft SUPER area. Apartments at BPTP The Resort is currently Ready To Move",
+    "city": "faridabad",
+    "locality": "sector 75",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "floor": 0,
+    "area": 0,
+    "areaUnit": "sqft",
+    "price": 11000000,
+    "selectedAmenities": [
+      "Overlooking Park/Garden"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "Palm Residency",
+    "description": "Check out 2 BHK apartments in Sector 75, now available for sale at Palm Residency. This society offers apartments in the price range of Rs. 60 L. Here units have different sizes, mostly in range of 1,240 sqft SUPER area. Apartments at Palm Residency is currently Ready To Move",
+    "city": "faridabad",
+    "locality": "sector 75",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "floor": 0,
+    "area": 0,
+    "areaUnit": "sqft",
+    "price": 16500000,
+    "selectedAmenities": [
+      "GF out of 2 Floors",
+      "Gated Society"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "4 BHK Flat in Sector 75, Faridabad",
+    "description": "High rise apartment excellent location well maintained vencity for personal use fully secured with club facility",
+    "city": "faridabad",
+    "locality": "sector 75 faridabad",
+    "bedrooms": 0,
+    "bathrooms": 4,
+    "floor": 0,
+    "area": 2015,
+    "areaUnit": "sqft",
+    "price": 9000000,
+    "selectedAmenities": [
+      "Overlooking Park/Garden"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "3 BHK Flat in Sector 75, Faridabad",
+    "description": "Green power society is one of the most popular destination for buying apartments/ flats in sector 75 faridabad. You too can be a part of this society by purchasing this 3 bhk flat here. The flat is north-Facing. The floor plan additionally contains 3 bedroom(s), 3 bathrooms and more than 3 balconies. All in all, the flat is spread over a super built up area of 1836 sq.Ft. The property is located on the 19th floor of a 20 floors tall building. Being a ready to move project, you can expect immediate possession of this 1-5 years old property. The marble flooring of this flat is beautifully designed and helps to give it a pleasing look. The society is well equipped with many modern amenities, including maintenance staff, visitor parking and lift(s). The housing society ensures a continuous supply of water to your flat from municipal corporation.",
+    "city": "faridabad",
+    "locality": "sector 75 faridabad",
+    "bedrooms": 0,
+    "bathrooms": 3,
+    "floor": 0,
+    "area": 1836,
+    "areaUnit": "sqft",
+    "price": 50000000,
+    "selectedAmenities": [
+      "Overlooking Park/Garden"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "3 BHK Independent Builder Floor in Sector 75, Faridabad",
+    "description": "Sector 75 faridabad is one of the sought after locations in faridabad to purchase a residential house. This 3 bhk builder floor in sector 75 faridabad provides you an opportunity to be a part of this location. Equipped with 3 bedrooms, 2 bathrooms and 3 balconies. The furnishing status of the builder floor is semi-Furnished. This spacious builder floor has super built up area of 1045 sq.Ft. You can find this spectacular builder floor on the ground floor of 2 storey building. This ready to move apartment is the residence you have been looking for. The type of ownership of this property is freehold. Make this auspicious builder floor all yours at a reasonable price of  90 lac. The deal is open for negotiation. Water storage and piped-Gas adds to the charm of living here. For the convenience of its residents, the society provides top-Notch aspects including maintenance staff, visitor parking and park and many more. This apartment is north - Facing. To make your daily life easier this property is situated close to metro station, close to market, close to hospital and close to school.",
+    "city": "faridabad",
+    "locality": "sector 75 faridabad",
+    "bedrooms": 0,
+    "bathrooms": 2,
+    "floor": 0,
+    "area": 1045,
+    "areaUnit": "sqft",
+    "price": 32500000,
+    "selectedAmenities": [
+      "Overlooking Park/Garden"
+    ]
+  }
+]

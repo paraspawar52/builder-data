@@ -1,0 +1,44 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Builder Floor",
+    "listingType": "sale",
+    "title": "2 BHK Independent Builder Floor in New Industrial Township 1, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "New Industrial Township 1",
+    "pincode": "",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 4,
+    "area": 260,
+    "areaUnit": "sqft",
+    "price": 75,
+    "selectedAmenities": [
+      "GF out of 4 Floors"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Builder Floor",
+    "listingType": "sale",
+    "title": "1 BHK Independent Builder Floor in New Industrial Township 1, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "New Industrial Township 1",
+    "pincode": "",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "furnishing": "",
+    "floor": 13,
+    "area": 300,
+    "areaUnit": "sqft",
+    "price": 22,
+    "selectedAmenities": [
+      "1st out of 3 Floors"
+    ]
+  }
+]

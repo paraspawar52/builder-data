@@ -1,0 +1,67 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Builder Floor",
+    "listingType": "sale",
+    "title": "4 BHK Independent Builder Floor in Sector 64, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 64",
+    "pincode": "",
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "furnishing": "",
+    "floor": 14,
+    "area": 250,
+    "areaUnit": "sqft",
+    "price": 16000000,
+    "selectedAmenities": [
+      "1st out of 4 Floors",
+      "Overlooking Park/Garden"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Builder Floor",
+    "listingType": "sale",
+    "title": "3 BHK Independent Builder Floor in Sector 64, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 64",
+    "pincode": "",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "furnishing": "",
+    "floor": 22,
+    "area": 100,
+    "areaUnit": "sqft",
+    "price": 14000000,
+    "selectedAmenities": [
+      "2nd out of 2 Floors"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Builder Floor",
+    "listingType": "sale",
+    "title": "3 BHK Independent Builder Floor in Sector 64, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 64",
+    "pincode": "",
+    "bedrooms": 3,
+    "bathrooms": 4,
+    "furnishing": "",
+    "floor": 44,
+    "area": 208,
+    "areaUnit": "sqft",
+    "price": 21000000,
+    "selectedAmenities": [
+      "4th out of 4 Floors",
+      "Furnished"
+    ]
+  }
+]

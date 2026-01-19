@@ -1,0 +1,86 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Builder Floor",
+    "listingType": "sale",
+    "title": "4 BHK Independent Builder Floor in Sector 3, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 3",
+    "pincode": "",
+    "bedrooms": 4,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 12,
+    "area": 500,
+    "areaUnit": "sqft",
+    "price": 35,
+    "selectedAmenities": [
+      "1st out of 2 Floors",
+      "Overlooking Main Road"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "House",
+    "listingType": "sale",
+    "title": "3 BHK Independent Builder Floor in Sector 3, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 3",
+    "pincode": "",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 12,
+    "area": 450,
+    "areaUnit": "sqft",
+    "price": 12000000,
+    "selectedAmenities": [
+      "1st out of 2 Floors",
+      "Gated Society"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "House",
+    "listingType": "sale",
+    "title": "1 BHK Independent Builder Floor in Sector 3, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 3",
+    "pincode": "",
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "furnishing": "",
+    "floor": 1,
+    "area": 350,
+    "areaUnit": "sqft",
+    "price": 26,
+    "selectedAmenities": [
+      "GF out of 1 Floors"
+    ]
+  },
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "2 BHK Flat in Sector 3, Faridabad",
+    "description": "",
+    "state": "Haryana",
+    "city": "faridabad",
+    "locality": "Sector 3",
+    "pincode": "",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "furnishing": "",
+    "floor": 0,
+    "area": 500,
+    "areaUnit": "sqft",
+    "price": 39,
+    "selectedAmenities": []
+  }
+]
