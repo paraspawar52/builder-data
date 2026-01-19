@@ -3,9 +3,9 @@ import * as cheerio from "cheerio";
 import fs from "fs";
 
 // ================= CONFIG =================
-const URL = "https://www.99acres.com/flats-in-sector-25-gurgaon-ffid"
+const URL = "https://www.99acres.com/ready-to-move-flats-apartments-in-sector-68-gurgaon-ffid"
 // 🎯 TARGET LOCATION (Sector / Colony / Society / Block / Phase)
-const TARGET_LOCATION = "Sector 25";
+const TARGET_LOCATION = "Sector 68";
 // 🛑 MAX RESULTS TO SAVE
 const MAX_SAVE = 30;
 
