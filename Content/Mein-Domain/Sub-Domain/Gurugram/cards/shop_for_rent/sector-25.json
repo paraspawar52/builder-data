@@ -1,0 +1,24 @@
+[
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Shop for rent in Sector 25, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 25",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 3450,
+    "areaUnit": "sqft",
+    "price": 35,
+    "selectedAmenities": [
+      "Iffco Chowk Metro Station within 250m",
+      "Newly Constructed"
+    ]
+  }
+]

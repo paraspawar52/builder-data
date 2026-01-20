@@ -1,0 +1,68 @@
+[
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Shop for sale in Sector 46, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 46",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 500,
+    "areaUnit": "sqft",
+    "price": 72900000,
+    "selectedAmenities": [
+      "₹ 225000 Rental Income",
+      "East Facing"
+    ]
+  },
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Shop for sale in Sector 46, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 46",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 500,
+    "areaUnit": "sqft",
+    "price": 75000000,
+    "selectedAmenities": [
+      "₹ 254000 Rental Income",
+      "East Facing"
+    ]
+  },
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Showroom for sale in Sector 46, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 46",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 500,
+    "areaUnit": "sqft",
+    "price": 105000000,
+    "selectedAmenities": [
+      "2.55% ROI",
+      "₹ 223000 Rental Income"
+    ]
+  }
+]

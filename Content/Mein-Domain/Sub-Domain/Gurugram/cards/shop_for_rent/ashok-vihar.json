@@ -1,0 +1,24 @@
+[
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Shop for rent in Block J Ashok Vihar phase 3 extension, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Ashok Vihar",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 400,
+    "areaUnit": "sqft",
+    "price": 11000,
+    "selectedAmenities": [
+      "Close to School",
+      "Close to Hospital"
+    ]
+  }
+]

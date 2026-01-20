@@ -1,0 +1,24 @@
+[
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "Shop for sale in Sector 112, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 112",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 300,
+    "areaUnit": "sqft",
+    "price": 84,
+    "selectedAmenities": [
+      "East Facing",
+      "Ground Floor"
+    ]
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Shop for sale in Sector 54, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 54",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 200,
+    "areaUnit": "sqft",
+    "price": 90000000,
+    "selectedAmenities": [
+      "6.0% ROI",
+      "₹ 450000 Rental Income"
+    ]
+  },
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Shop for sale in Sector 54, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 54",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 500,
+    "areaUnit": "sqft",
+    "price": 300000000,
+    "selectedAmenities": [
+      "₹ 1800000 Rental Income",
+      "Ground Floor"
+    ]
+  },
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Shop for sale in Sector 54, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 54",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 300,
+    "areaUnit": "sqft",
+    "price": 135000000,
+    "selectedAmenities": [
+      "5.51% ROI",
+      "₹ 625000 Rental Income"
+    ]
+  },
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Shop for sale in Sector 54, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 54",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 800,
+    "areaUnit": "sqft",
+    "price": 360000000,
+    "selectedAmenities": [
+      "₹ 1800000 Rental Income",
+      "North-East Facing"
+    ]
+  },
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Shop for sale in Sector 54, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 54",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 317,
+    "areaUnit": "sqft",
+    "price": 13500000,
+    "selectedAmenities": [
+      "2.67% ROI",
+      "₹ 30000 Rental Income"
+    ]
+  }
+]

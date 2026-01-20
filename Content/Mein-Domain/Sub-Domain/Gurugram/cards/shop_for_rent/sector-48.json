@@ -1,0 +1,62 @@
+[
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Shop for rent in Sector 48, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 48",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 200,
+    "areaUnit": "sqft",
+    "price": 27000,
+    "selectedAmenities": []
+  },
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Property",
+    "listingType": "sale",
+    "title": "Ready to move Office Space for sale in Sector 48, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 48",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 5128,
+    "areaUnit": "sqft",
+    "price": 205,
+    "selectedAmenities": []
+  },
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Shop for rent in Sector 48, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 48",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 2500,
+    "areaUnit": "sqft",
+    "price": 175,
+    "selectedAmenities": [
+      "North-East Facing",
+      "Ground Floor"
+    ]
+  }
+]

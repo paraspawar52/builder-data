@@ -1,0 +1,87 @@
+[
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Shop for sale in sector 58, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 58",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 417,
+    "areaUnit": "sqft",
+    "price": 43600000,
+    "selectedAmenities": [
+      "5.4% ROI",
+      "₹ 198380 Rental Income"
+    ]
+  },
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Shop for sale in sector 58, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 58",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 100,
+    "areaUnit": "sqft",
+    "price": 48200000,
+    "selectedAmenities": [
+      "5.44% ROI",
+      "₹ 220600 Rental Income"
+    ]
+  },
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Shop for sale in sector 58, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 58",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 400,
+    "areaUnit": "sqft",
+    "price": 60,
+    "selectedAmenities": [
+      "4.9% ROI",
+      "₹ 25000 Rental Income"
+    ]
+  },
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Property",
+    "listingType": "lease",
+    "title": "Shop for sale in sector 58, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 58",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 489,
+    "areaUnit": "sqft",
+    "price": 18000000,
+    "selectedAmenities": []
+  }
+]

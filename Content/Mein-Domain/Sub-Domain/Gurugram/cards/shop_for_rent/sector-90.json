@@ -1,0 +1,61 @@
+[
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Plot",
+    "listingType": "rent",
+    "title": "Shop for rent in Sector 90, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 90",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 332,
+    "areaUnit": "sqft",
+    "price": 25000,
+    "selectedAmenities": [
+      "Ground Floor"
+    ]
+  },
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Apartment",
+    "listingType": "rent",
+    "title": "Shop for rent in Sector 90, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 90",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 352,
+    "areaUnit": "sqft",
+    "price": 40000,
+    "selectedAmenities": []
+  },
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Shop for rent in Sector 90, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 90",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 552,
+    "areaUnit": "sqft",
+    "price": 50000,
+    "selectedAmenities": []
+  }
+]

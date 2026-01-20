@@ -1,0 +1,24 @@
+[
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Property",
+    "listingType": "sale",
+    "title": "Shop for sale in Sector 106, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 106",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 500,
+    "areaUnit": "sqft",
+    "price": 17500000,
+    "selectedAmenities": [
+      "IGI airport  Nearby",
+      "Ground Floor"
+    ]
+  }
+]

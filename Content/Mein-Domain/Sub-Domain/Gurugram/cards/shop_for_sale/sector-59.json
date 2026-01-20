@@ -1,0 +1,134 @@
+[
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Property",
+    "listingType": "sale",
+    "title": "Shop for sale in Sector 59, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 59",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 410,
+    "areaUnit": "sqft",
+    "price": 30000000,
+    "selectedAmenities": [
+      "North Facing",
+      "Top Floor"
+    ]
+  },
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Property",
+    "listingType": "sale",
+    "title": "Shop for sale in Sector 59, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 59",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 200,
+    "areaUnit": "sqft",
+    "price": 80000000,
+    "selectedAmenities": [
+      "Top Floor",
+      "Recently Renovated"
+    ]
+  },
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Plot",
+    "listingType": "sale",
+    "title": "Shop for sale in Sector 59, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 59",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 360,
+    "areaUnit": "sqft",
+    "price": 20000000,
+    "selectedAmenities": [
+      "North-East Facing",
+      "Ground Floor"
+    ]
+  },
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Property",
+    "listingType": "sale",
+    "title": "Shop for sale in Sector 59, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 59",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 450,
+    "areaUnit": "sqft",
+    "price": 49500000,
+    "selectedAmenities": [
+      "North Facing",
+      "Ground Floor"
+    ]
+  },
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Plot",
+    "listingType": "sale",
+    "title": "Shop for sale in Sector 59, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 59",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 640,
+    "areaUnit": "sqft",
+    "price": 22500000,
+    "selectedAmenities": [
+      "North-East Facing",
+      "Ground Floor"
+    ]
+  },
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Property",
+    "listingType": "sale",
+    "title": "Shop for sale in Sector 59, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 59",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 800,
+    "areaUnit": "sqft",
+    "price": 47000000,
+    "selectedAmenities": [
+      "Rapid Nearby",
+      "Multiple Nearby"
+    ]
+  }
+]

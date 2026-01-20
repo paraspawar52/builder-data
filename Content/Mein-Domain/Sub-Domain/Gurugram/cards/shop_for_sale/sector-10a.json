@@ -1,0 +1,21 @@
+[
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Property",
+    "listingType": "sale",
+    "title": "Shop for sale in Sector 10A, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 10A",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 0,
+    "areaUnit": "sqft",
+    "price": 80000000,
+    "selectedAmenities": []
+  }
+]

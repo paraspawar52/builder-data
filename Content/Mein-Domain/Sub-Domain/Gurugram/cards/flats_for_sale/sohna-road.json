@@ -1,0 +1,24 @@
+[
+  {
+    "propertyCategory": "Residential",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "3 BHK Flat in Sohna Road, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sohna Road",
+    "pincode": "",
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "furnishing": "",
+    "floor": 0,
+    "area": 845,
+    "areaUnit": "sqft",
+    "price": 17000000,
+    "selectedAmenities": [
+      "Newly Constructed",
+      "Gated Society"
+    ]
+  }
+]

@@ -1,0 +1,153 @@
+[
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "House",
+    "listingType": "rent",
+    "title": "Shop for sale in DLF Phase 2, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "DLF Phase 2",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 460,
+    "areaUnit": "sqft",
+    "price": 73800000,
+    "selectedAmenities": [
+      "5.44% ROI",
+      "₹ 338187 Rental Income"
+    ]
+  },
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Shop for sale in DLF Phase 2, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "DLF Phase 2",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 851,
+    "areaUnit": "sqft",
+    "price": 20000000,
+    "selectedAmenities": [
+      "₹ 60000 Rental Income",
+      "Grade A Building"
+    ]
+  },
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Shop for sale in DLF Phase 2, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "DLF Phase 2",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 400,
+    "areaUnit": "sqft",
+    "price": 175000000,
+    "selectedAmenities": [
+      "₹ 750000 Rental Income",
+      "Ground Floor"
+    ]
+  },
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Property",
+    "listingType": "sale",
+    "title": "Shop for sale in DLF Phase 2, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "DLF Phase 2",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 433,
+    "areaUnit": "sqft",
+    "price": 73800000,
+    "selectedAmenities": []
+  },
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Shop for sale in DLF Phase 2, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "DLF Phase 2",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 433,
+    "areaUnit": "sqft",
+    "price": 73800000,
+    "selectedAmenities": [
+      "5.5% ROI",
+      "₹ 338187 Rental Income"
+    ]
+  },
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Shop for sale in DLF Phase 2, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "DLF Phase 2",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 700,
+    "areaUnit": "sqft",
+    "price": 60000000,
+    "selectedAmenities": [
+      "₹ 265000 Rental Income",
+      "Ground Floor"
+    ]
+  },
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Shop for sale in DLF Phase 2, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "DLF Phase 2",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 0,
+    "areaUnit": "sqft",
+    "price": 50,
+    "selectedAmenities": [
+      "3.0% ROI",
+      "₹ 12500 Rental Income"
+    ]
+  }
+]

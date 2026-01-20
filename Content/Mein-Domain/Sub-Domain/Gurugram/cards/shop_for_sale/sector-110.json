@@ -1,0 +1,90 @@
+[
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Shop for sale in Sector 110, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 110",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 250,
+    "areaUnit": "sqft",
+    "price": 12000000,
+    "selectedAmenities": [
+      "₹ 45000 Rental Income",
+      "Lift"
+    ]
+  },
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Apartment",
+    "listingType": "sale",
+    "title": "Shop for sale in Sector 110, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 110",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 218,
+    "areaUnit": "sqft",
+    "price": 91,
+    "selectedAmenities": [
+      "Ground Floor",
+      "Euro International School  within 1km"
+    ]
+  },
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Shop for sale in Sector 110, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 110",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 500,
+    "areaUnit": "sqft",
+    "price": 13800000,
+    "selectedAmenities": [
+      "₹ 40000 Rental Income",
+      "North-East Facing"
+    ]
+  },
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Plot",
+    "listingType": "sale",
+    "title": "Shop for sale in Sector 110, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 110",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 222,
+    "areaUnit": "sqft",
+    "price": 4662,
+    "selectedAmenities": [
+      "Yashobhoomi Sector 25  Nearby",
+      "DPS Public School  Nearby"
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Apartment",
+    "listingType": "rent",
+    "title": "Shop for rent in DLF Phase 5, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "DLF Phase 5",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 300,
+    "areaUnit": "sqft",
+    "price": 85000,
+    "selectedAmenities": []
+  },
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Apartment",
+    "listingType": "rent",
+    "title": "Shop for rent in DLF Phase 5, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "DLF Phase 5",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 1000,
+    "areaUnit": "sqft",
+    "price": 15,
+    "selectedAmenities": [
+      "Recently Renovated",
+      "Fitness Center/ Gym"
+    ]
+  }
+]

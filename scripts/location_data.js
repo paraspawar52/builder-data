@@ -3,10 +3,9 @@ import * as cheerio from "cheerio";
 import fs from "fs";
 
 // ================= CONFIG =================
-const URL = "https://www.99acres.com/flats-in-sector-61-gurgaon-ffid"
-// 🎯 TARGET LOCATION (Sector / Colony / Society / Block / Phase)
-const TARGET_LOCATION = "Sector 61";
-// 🛑 MAX RESULTS TO SAVE
+const URL = "https://www.99acres.com/commercial-shops-for-rent-in-sector-3a-gurgaon-ffid";
+
+const TARGET_LOCATION = "Sector 3A";
 const MAX_SAVE = 30;
 
 // ============== HELPERS ==================
@@ -32,9 +31,15 @@ function parsePrice(text) {
   return isNaN(n) ? 0 : n;
 }
 
+// ✅ FIXED AREA PARSER (COMMA SAFE)
 function parseArea(text) {
   if (!text) return 0;
-  const m = String(text).match(/(\d{3,5})/);
+
+  const clean = String(text)
+    .replace(/,/g, "")
+    .toLowerCase();
+
+  const m = clean.match(/(\d+)\s*(sqft|sq ft|sqm|sq m)?/);
   return m ? parseInt(m[1]) : 0;
 }
 
@@ -70,7 +75,9 @@ function detectListingType(text) {
 
 // ⭐ SMART BATHROOM EXTRACTOR
 function extractBathroomsSmart(text) {
-  const m = text.toLowerCase().match(/(\d+)\s*(bath|bathroom|toilet|washroom|wc)/);
+  const m = text
+    .toLowerCase()
+    .match(/(\d+)\s*(bath|bathroom|toilet|washroom|wc)/);
   return m ? parseInt(m[1]) : 0;
 }
 
@@ -119,10 +126,7 @@ function extractBathroomsSmart(text) {
   const results = [];
 
   cards.each((i, card) => {
-    // 🛑 stop if reached limit
-    if (results.length >= MAX_SAVE) {
-      return false; // break loop
-    }
+    if (results.length >= MAX_SAVE) return false;
 
     const title = $(card).find("h2").text().trim();
     if (!title) return;
@@ -130,16 +134,13 @@ function extractBathroomsSmart(text) {
     const cardText = $(card).text();
     const fullText = title + " " + cardText;
 
-    // 🎯 SMART LOCATION FILTER
-    if (!normalizeText(fullText).includes(normalizeText(TARGET_LOCATION))) {
-      return; // skip this card
-    }
+    if (!normalizeText(fullText).includes(normalizeText(TARGET_LOCATION))) return;
 
     const price = parsePrice($(card).find(".tupleNew__priceValWrap").text());
     const area = parseArea($(card).find(".tupleNew__areaWrap").text());
 
-    let bedrooms = extractBedroomsFromTitle(title);
-    let bathrooms = extractBathroomsSmart(fullText);
+    const bedrooms = extractBedroomsFromTitle(title);
+    const bathrooms = extractBathroomsSmart(fullText);
 
     let floor = 0;
     $(card).find(".tupleNew__unitHighlightTxt").each((i, el) => {
@@ -157,7 +158,7 @@ function extractBathroomsSmart(text) {
     const listingType = detectListingType(fullText);
 
     results.push({
-      propertyCategory: "Residential",
+      propertyCategory: "Commercial",
       propertyType,
       listingType,
       title,

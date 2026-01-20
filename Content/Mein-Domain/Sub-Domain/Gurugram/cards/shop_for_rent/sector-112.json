@@ -1,0 +1,62 @@
+[
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Shop for rent in Sector 112, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 112",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 230,
+    "areaUnit": "sqft",
+    "price": 18000,
+    "selectedAmenities": [
+      "East Facing",
+      "Newly Constructed"
+    ]
+  },
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Plot",
+    "listingType": "rent",
+    "title": "Shop for rent in Sector 112, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 112",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 230,
+    "areaUnit": "sqft",
+    "price": 18000,
+    "selectedAmenities": []
+  },
+  {
+    "propertyCategory": "Commercial",
+    "propertyType": "Property",
+    "listingType": "rent",
+    "title": "Shop for rent in Sector 112, Gurgaon",
+    "description": "",
+    "state": "Haryana",
+    "city": "gurgaon",
+    "locality": "Sector 112",
+    "pincode": "",
+    "bedrooms": 0,
+    "bathrooms": 0,
+    "furnishing": "",
+    "floor": 0,
+    "area": 128,
+    "areaUnit": "sqft",
+    "price": 10000,
+    "selectedAmenities": []
+  }
+]
